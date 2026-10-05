@@ -63,7 +63,7 @@
         "TURNSTILE_SECRET": "1x0000000000000000000000000000000AA",
         "AI_GATEWAY_URL": "",
         // the footer's "Support VibeVote" link; empty hides it
-        "SPONSOR_URL": "",
+        "SPONSOR_URL": "https://buy.stripe.com/5kQcN6f1n7CWcrg1zSeQM00",
         "DAILY_AI_CALLS": "6000",
         "DAILY_AI_USD": "40"
       },
@@ -100,7 +100,7 @@
         // https://gateway.ai.cloudflare.com/v1/<account id>/<gateway id>/anthropic once the gateway exists
         "AI_GATEWAY_URL": "",
         // the footer's "Support VibeVote" link; empty hides it
-        "SPONSOR_URL": "",
+        "SPONSOR_URL": "https://buy.stripe.com/5kQcN6f1n7CWcrg1zSeQM00",
         "DAILY_AI_CALLS": "20000",
         "DAILY_AI_USD": "150"
       },
