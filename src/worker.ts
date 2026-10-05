@@ -35,7 +35,7 @@ import type { Asked, Evidence, InterviewState, Reply, Versions } from "./types";
 
 export { Budget } from "./budget";
 
-type AppEnv = Env & { STATS_KEY?: string; GEMINI_API_KEY?: string; ANTHROPIC_API_KEY?: string; ANTHROPIC_BASE_URL?: string; SESSION_SECRET?: string; TURNSTILE_SECRET?: string; AI_GATEWAY_TOKEN?: string };
+type AppEnv = Env & { STRIPE_KEY?: string; STATS_KEY?: string; GEMINI_API_KEY?: string; ANTHROPIC_API_KEY?: string; ANTHROPIC_BASE_URL?: string; SESSION_SECRET?: string; TURNSTILE_SECRET?: string; AI_GATEWAY_TOKEN?: string };
 type Log = (fields: Record<string, unknown>) => void;
 /** What one request carries around: bindings, a content-free logger, and a way to finish work after the response. */
 type Runtime = { env: AppEnv; log: Log; wait: (p: Promise<unknown>) => void };
@@ -80,6 +80,7 @@ export default {
     const share = url.pathname.match(SHARE_PATH);
     if (share && request.method === "GET") return share[2] ? cardImage(env, share[1]) : sharePage(request, env, share[1]);
     if (url.pathname === "/stats") return stats(env, url);
+    if (url.pathname === "/support") return support(env, request);
     // Search Console ownership file; served here because static .html paths redirect to their extensionless form
     if (url.pathname === "/googlec00d114988ffd02e.html") return new Response("google-site-verification: googlec00d114988ffd02e.html", { headers: { "content-type": "text/html; charset=utf-8" } });
     if (!url.pathname.startsWith("/api/")) return env.ASSETS.fetch(request);
@@ -352,6 +353,39 @@ async function passedTurnstile(env: AppEnv, token: unknown, ip: string): Promise
     console.error("Turnstile siteverify failed", e);
     return false;
   }
+}
+
+/* ---- support: a Stripe Checkout in US dollars, opened only from the United States ---- */
+
+async function support(env: AppEnv, request: Request): Promise<Response> {
+  const country = (request.cf as IncomingRequestCfProperties | undefined)?.country ?? "XX";
+  const home = new URL("/", request.url).toString();
+  if (country !== "US") return Response.redirect(home, 303);
+  const ip = request.headers.get("cf-connecting-ip") ?? "unknown";
+  if (!(await env.IP_LIMIT.limit({ key: ip })).success) return new Response("Too many requests", { status: 429 });
+  if (!env.STRIPE_KEY || !env.STRIPE_PRICE) return env.SPONSOR_URL ? Response.redirect(env.SPONSOR_URL, 303) : Response.redirect(home, 303);
+  const form = new URLSearchParams({
+    mode: "payment",
+    "line_items[0][price]": env.STRIPE_PRICE,
+    "line_items[0][quantity]": "1",
+    "adaptive_pricing[enabled]": "false", // the amount stays in dollars
+    submit_type: "pay",
+    success_url: "https://vibevote.us/",
+    cancel_url: "https://vibevote.us/",
+    "payment_intent_data[description]": "Support VibeVote",
+    "payment_intent_data[metadata][app]": "vibevote",
+  });
+  const res = await fetch("https://api.stripe.com/v1/checkout/sessions", {
+    method: "POST",
+    headers: { authorization: `Bearer ${env.STRIPE_KEY}`, "content-type": "application/x-www-form-urlencoded" },
+    body: form,
+  });
+  const data = (await res.json().catch(() => null)) as { url?: string; error?: { message?: string } } | null;
+  if (!res.ok || !data?.url) {
+    console.error("stripe checkout failed", res.status, data?.error?.message);
+    return env.SPONSOR_URL ? Response.redirect(env.SPONSOR_URL, 303) : Response.redirect(home, 303);
+  }
+  return Response.redirect(data.url, 303);
 }
 
 /* ---- funnel counters: day, event, state and language with a count; nothing that points to a person ---- */

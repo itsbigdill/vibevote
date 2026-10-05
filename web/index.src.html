@@ -1282,7 +1282,7 @@ async function shareImage(p){
 let access=null;
 async function checkAccess(){
   if(access===null){
-    try{const ctl=new AbortController();setTimeout(()=>ctl.abort(),3000);const r=await fetch("/api/access",{cache:"no-store",signal:ctl.signal});const d=r.ok?await r.json():{};S.turnstile=d.turnstile||"";access=d.allowed!==false;if(d.sponsor){S.sponsor=d.sponsor;$("#sponsor-link").href=d.sponsor;$("#sponsor-link").hidden=false;$("#sponsor-link").onclick=supportClicked;}if(d.ga&&!window.gtag)loadGA(d.ga);}
+    try{const ctl=new AbortController();setTimeout(()=>ctl.abort(),3000);const r=await fetch("/api/access",{cache:"no-store",signal:ctl.signal});const d=r.ok?await r.json():{};S.turnstile=d.turnstile||"";access=d.allowed!==false;if(d.sponsor){S.sponsor="/support"; /* the Worker opens a dollars-only Stripe Checkout */$("#sponsor-link").href=S.sponsor;$("#sponsor-link").hidden=false;$("#sponsor-link").onclick=supportClicked;}if(d.ga&&!window.gtag)loadGA(d.ga);}
     catch(e){access=true;} /* the API still enforces the region */
   }
   return access;

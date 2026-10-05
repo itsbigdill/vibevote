@@ -14,7 +14,7 @@
   "assets": {
     "directory": "./public/",
     "binding": "ASSETS",
-    "run_worker_first": ["/api/*", "/r/*", "/stats", "/googlec00d114988ffd02e.html"],
+    "run_worker_first": ["/api/*", "/r/*", "/stats", "/support", "/googlec00d114988ffd02e.html"],
     "not_found_handling": "single-page-application"
   },
   "observability": { "enabled": true },
@@ -31,6 +31,7 @@
     "AI_GATEWAY_URL": "",
     // the footer's "Support VibeVote" link; empty hides it
     "SPONSOR_URL": "",
+    "STRIPE_PRICE": "",
     // Google Analytics 4 measurement id; empty loads no Google script
     "GA_ID": "",
     "DAILY_AI_CALLS": "3000",
@@ -66,6 +67,8 @@
         "AI_GATEWAY_URL": "",
         // the footer's "Support VibeVote" link; empty hides it
         "SPONSOR_URL": "https://buy.stripe.com/5kQcN6f1n7CWcrg1zSeQM00",
+        // the "Customer chooses (USD)" price of the Support VibeVote product; /support opens Checkout with it
+        "STRIPE_PRICE": "price_1UNHHjIYOq4B4slFnv9hwlLu",
         // Google Analytics 4 measurement id; empty loads no Google script
         "GA_ID": "",
         "DAILY_AI_CALLS": "6000",
@@ -105,6 +108,8 @@
         "AI_GATEWAY_URL": "",
         // the footer's "Support VibeVote" link; empty hides it
         "SPONSOR_URL": "https://buy.stripe.com/5kQcN6f1n7CWcrg1zSeQM00",
+        // the "Customer chooses (USD)" price of the Support VibeVote product; /support opens Checkout with it
+        "STRIPE_PRICE": "price_1UNHHjIYOq4B4slFnv9hwlLu",
         // Google Analytics 4 measurement id; empty loads no Google script
         "GA_ID": "G-XQ131LBNYS",
         "DAILY_AI_CALLS": "20000",
