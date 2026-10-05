@@ -169,6 +169,9 @@ select{-webkit-appearance:none;appearance:none;cursor:pointer;padding-right:52px
 .loader .msg span.in{animation:fadeup .45s ease-out both}
 @keyframes fadeup{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 @media(prefers-reduced-motion:reduce){.gmark,.gmark::after,.gshadow,.glass,.zipstate,.loader .msg span{animation:none}.progress b{transition:none}}
+/* with Reduce Motion on, the mark still shows it is working: a slow fade, no movement */
+@keyframes glow{0%,100%{opacity:1}50%{opacity:.45}}
+@media(prefers-reduced-motion:reduce){.loader .gmark{animation:glow 2.4s ease-in-out infinite}.loader .gshadow{animation:glow 2.4s ease-in-out infinite}}
 .err{color:var(--wine);font-size:16px;font-weight:600;display:grid;gap:12px;text-align:center}
 .intro{max-width:880px}
 .lede{font-size:24px;line-height:1.45;font-weight:400;margin:28px 0 40px;max-width:720px}
