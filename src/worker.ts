@@ -85,7 +85,7 @@ export default {
     const rt: Runtime = { env, wait: (p) => ctx.waitUntil(p), log: (fields) => console.log(JSON.stringify({ request_id: requestId, ...fields })) };
     const country = (request.cf as IncomingRequestCfProperties | undefined)?.country ?? "XX";
     const allowed = env.ALLOWED_COUNTRIES.split(",").map((c) => c.trim()).includes(country);
-    if (url.pathname === "/api/access") return json({ allowed, turnstile: env.TURNSTILE_SITEKEY }, 200, { "cache-control": "no-store" });
+    if (url.pathname === "/api/access") return json({ allowed, turnstile: env.TURNSTILE_SITEKEY, ...(env.SPONSOR_URL ? { sponsor: env.SPONSOR_URL } : {}) }, 200, { "cache-control": "no-store" });
     if (url.pathname === "/api/health") return json(await health(env), 200, { "cache-control": "no-store" });
     if (!allowed) return json({ error: "region" }, 403);
     try {

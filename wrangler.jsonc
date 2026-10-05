@@ -29,6 +29,8 @@
     // "dev" skips the Turnstile widget; any other value is a real or test sitekey
     "TURNSTILE_SITEKEY": "dev",
     "AI_GATEWAY_URL": "",
+    // the footer's "Support VibeVote" link; empty hides it
+    "SPONSOR_URL": "",
     "DAILY_AI_CALLS": "3000",
     "DAILY_AI_USD": "25"
   },
@@ -60,6 +62,8 @@
         "TURNSTILE_SITEKEY": "1x00000000000000000000BB",
         "TURNSTILE_SECRET": "1x0000000000000000000000000000000AA",
         "AI_GATEWAY_URL": "",
+        // the footer's "Support VibeVote" link; empty hides it
+        "SPONSOR_URL": "",
         "DAILY_AI_CALLS": "6000",
         "DAILY_AI_USD": "40"
       },
@@ -95,6 +99,8 @@
         "TURNSTILE_SITEKEY": "0x4AAAAAAE782GvQI6RO2A42",
         // https://gateway.ai.cloudflare.com/v1/<account id>/<gateway id>/anthropic once the gateway exists
         "AI_GATEWAY_URL": "",
+        // the footer's "Support VibeVote" link; empty hides it
+        "SPONSOR_URL": "",
         "DAILY_AI_CALLS": "20000",
         "DAILY_AI_USD": "150"
       },
