@@ -82,7 +82,10 @@ header{display:flex;justify-content:flex-start;align-items:center;gap:12px;margi
 .q.m{font-size:clamp(24px,min(1rem + 1.4vw,4.6vh),38px);line-height:1.16}
 .q.l{font-size:clamp(21px,min(.95rem + 1vw,3.8vh),31px);line-height:1.2}
 .qa{display:grid;gap:8px}
-@media(min-width:940px){.qa{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);column-gap:72px;align-items:center}.qa .q,.qa .q.step{margin-bottom:0}}
+/* one column on every screen: the scene, then the answers under it */
+.qa{width:100%;max-width:760px;margin:0 auto}
+/* the result reads top to bottom in one column too */
+.result{width:100%;max-width:880px;margin:0 auto}
 .q::before{content:"Q";display:block;font-size:18px;font-weight:700;color:var(--royal);letter-spacing:.06em;margin-bottom:16px;font-family:var(--sans)}
 .q.step{margin-bottom:36px}
 .q.step::before{content:none}
@@ -190,7 +193,7 @@ select{-webkit-appearance:none;appearance:none;cursor:pointer;padding-right:52px
 .fingerprint{padding:clamp(25px,4vw,42px);border-radius:28px;border:1px solid var(--edge);background:rgba(255,255,255,.56);box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass)}
 .fp-head{margin-bottom:28px}
 .fp-head h3{font-size:clamp(30px,3.5vw,42px);line-height:1}
-.fp-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.fp-grid{display:grid;grid-template-columns:minmax(0,1fr);gap:12px}
 .fp-axis{padding:18px 20px 15px;border-radius:18px;background:rgba(255,255,255,.62);border:1px solid rgba(15,15,19,.08)}
 .fp-axis-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:9px}
 .fp-axis-head b{font-size:14px;line-height:1.2}.fp-priority{font-size:9px;font-weight:850;letter-spacing:.08em;text-transform:uppercase;color:#8a651d}
@@ -198,7 +201,7 @@ select{-webkit-appearance:none;appearance:none;cursor:pointer;padding-right:52px
 .fp-track i{position:absolute;left:calc(var(--v)*1%);top:50%;width:14px;height:14px;border:3px solid #fff;border-radius:50%;background:var(--c);box-shadow:0 2px 7px rgba(15,15,30,.24);transform:translate(-50%,-50%)}
 .fp-poles{display:flex;justify-content:space-between;gap:10px;margin-top:7px;font-size:10px;line-height:1.2;color:var(--mute)}
 .fp-poles span{max-width:48%}.fp-poles span:last-child{text-align:right}
-.context-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.context-grid{display:grid;grid-template-columns:minmax(0,1fr);gap:16px}
 .context-card{padding:24px 26px 18px;border-radius:24px;border:1px solid var(--edge);background:rgba(255,255,255,.48);box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass)}
 .context-card h3{font-size:24px;margin-bottom:10px}
 .context-card h3+.section-note{margin:-5px 0 9px}
