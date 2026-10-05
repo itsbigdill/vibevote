@@ -1,0 +1,614 @@
+[
+ {
+  "id": "LA-6/monique-appeaning",
+  "name": "Monique Appeaning",
+  "party": "Republican",
+  "race": "LA-6",
+  "race_label": "Louisiana · US House LA-6",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-6/monique-appeaning",
+   "name": "Monique Appeaning",
+   "party": "Republican",
+   "current_role": "Former Baton Rouge assistant chief administrative officer",
+   "bio": "Monique Appeaning is a former assistant chief administrative officer for the City of Baton Rouge and a former budget analyst for the Louisiana National Guard. She reports more than 25 years in public service across executive and legislative roles and ran for the Louisiana House in 2023.",
+   "website": "https://www.appeaningforcongress.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/moniqueappeaningforcongress/",
+    "facebook": "https://www.facebook.com/moniqueappeaningforcongress",
+    "tiktok": "https://www.tiktok.com/@moniqueappeaningforcongr",
+    "youtube": "https://www.youtube.com/@appeaningforcongress"
+   },
+   "platform": [
+    {
+     "topic": "Public safety",
+     "point": "Back law enforcement, fight violent crime and trafficking, and modernize the military.",
+     "source": "https://www.appeaningforcongress.com/"
+    },
+    {
+     "topic": "Taxes",
+     "point": "Cut taxes for working Americans and end taxes on tips, overtime and Social Security.",
+     "source": "https://www.appeaningforcongress.com/"
+    },
+    {
+     "topic": "Spending",
+     "point": "Reduce government waste.",
+     "source": "https://www.appeaningforcongress.com/"
+    },
+    {
+     "topic": "Manufacturing",
+     "point": "Rebuild domestic manufacturing and support Louisiana agriculture and small businesses.",
+     "source": "https://www.appeaningforcongress.com/"
+    },
+    {
+     "topic": "Accountability",
+     "point": "Hold a visible presence across all parishes in the district and pursue congressional oversight.",
+     "source": "https://www.appeaningforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Calls for tax cuts, no tax on tips, overtime or Social Security, and less government waste.",
+     "source": "https://www.appeaningforcongress.com/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 55,
+     "evidence": "Describes herself as pro-life (abortion) and pro-Second Amendment (guns).",
+     "source": "https://www.appeaningforcongress.com/"
+    },
+    "security": {
+     "score": 70,
+     "evidence": "Campaign pledges to back law enforcement and combat violent crime and trafficking.",
+     "source": "https://www.appeaningforcongress.com/"
+    },
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/281b6c_82844882943543ba89c816b9c20959e5~mv2.png",
+   "notes": ""
+  }
+ },
+ {
+  "id": "LA-6/larry-davis",
+  "name": "Larry Davis III",
+  "party": "Republican",
+  "race": "LA-6",
+  "race_label": "Louisiana · US House LA-6",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-6/larry-davis",
+   "name": "Larry Davis III",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Larry Davis III is a Republican candidate for Louisiana's 6th Congressional District. News coverage describes him as active in Livingston Parish politics.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Qualifying coverage lists him as Larry Davis III. No campaign website or issue statements were found."
+  }
+ },
+ {
+  "id": "LA-6/michael-mebruer",
+  "name": "Michael Mebreur",
+  "party": "Republican",
+  "race": "LA-6",
+  "race_label": "Louisiana · US House LA-6",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-6/michael-mebruer",
+   "name": "Michael Mebreur",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Michael Mebreur is a Republican candidate for Louisiana's 6th Congressional District. He first entered the race for the 5th District before the 2026 redistricting.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "WBRZ and the Louisiana Illuminator spell the surname Mebreur, while another outlet uses Mebruer; the ballot spelling is unconfirmed. No campaign website or issue statements were found."
+  }
+ },
+ {
+  "id": "MA-1/richard-neal",
+  "name": "Richard E. Neal",
+  "party": "Democratic",
+  "race": "MA-1",
+  "race_label": "Massachusetts · US House MA-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "N000015",
+   "official_name": "Richard E. Neal",
+   "chamber": "House",
+   "official_site": "https://neal.house.gov",
+   "official_social": {
+    "twitter": "RepRichardNeal",
+    "facebook": "reprichardneal",
+    "youtube": "RepRichardENeal"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MA-1/richard-neal",
+   "name": "Richard E. Neal",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for MA-1",
+   "bio": "Richard Neal has served in the U.S. House since 1989, representing Massachusetts's 1st District since 2013, and is ranking member of the Ways and Means Committee, which he chaired from 2019 to 2023. Raised in Springfield, he served on the Springfield City Council and as mayor of Springfield from 1983 to 1989.",
+   "website": "https://www.nealforcongress.com",
+   "social": {
+    "x": "https://x.com/RepRichardNeal",
+    "facebook": "https://www.facebook.com/reprichardneal",
+    "youtube": "https://www.youtube.com/user/RepRichardENeal"
+   },
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "Favors middle-class tax cuts over tax cuts for the wealthy.",
+     "source": "https://www.nealforcongress.com/"
+    },
+    {
+     "topic": "Trade",
+     "point": "Wants tariffs removed to bring down consumer prices.",
+     "source": "https://www.nealforcongress.com/"
+    },
+    {
+     "topic": "Retirement",
+     "point": "Pledges to protect Social Security and Medicare.",
+     "source": "https://www.nealforcongress.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Aims to lower health care and prescription drug costs.",
+     "source": "https://www.nealforcongress.com/"
+    },
+    {
+     "topic": "Regional funding",
+     "point": "Seeks federal resources for Western and Central Massachusetts.",
+     "source": "https://www.nealforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 65,
+     "evidence": "Opposes tax cuts for the wealthy and tariffs and seeks to close high-earner loopholes.",
+     "source": "https://www.nealforcongress.com/"
+    },
+    "welfare": {
+     "score": 55,
+     "evidence": "Helped write the ACA but opposed Medicare for All in favor of incremental reform.",
+     "source": "https://en.wikipedia.org/wiki/Richard_Neal"
+    },
+    "liberty": {
+     "score": 35,
+     "evidence": "Mixed abortion record (voted for the 2003 partial-birth ban, cosponsored the Women's Health Protection Act) and opposed the Federal Marriage Amendment (LGBTQ).",
+     "source": "https://en.wikipedia.org/wiki/Richard_Neal"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5adfeca775f9ee833929da41/1595894799544-C7Z4WU4R6TP4KEIPKRTJ/Official+Campaign+Headshot.jpg",
+   "notes": ""
+  }
+ },
+ {
+  "id": "MA-9/bill-keating",
+  "name": "Bill Keating",
+  "party": "Democratic",
+  "race": "MA-9",
+  "race_label": "Massachusetts · US House MA-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000375",
+   "official_name": "William R. Keating",
+   "chamber": "House",
+   "official_site": "https://keating.house.gov",
+   "official_social": {
+    "twitter": "USRepKeating",
+    "facebook": "Congressman.Keating",
+    "youtube": "RepBillKeating"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education"
+  ],
+  "profile": {
+   "id": "MA-9/bill-keating",
+   "name": "Bill Keating",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for MA-9",
+   "bio": "Bill Keating has served in the U.S. House since 2011 and represents the South Coast and Cape Cod district. He previously served in the Massachusetts House and Senate and was Norfolk County District Attorney from 1999 to 2011. He sits on the Armed Services and Foreign Affairs committees and is ranking member of the Europe subcommittee.",
+   "website": "",
+   "social": {
+    "x": "https://x.com/USRepKeating",
+    "facebook": "https://www.facebook.com/Congressman.Keating",
+    "youtube": "https://www.youtube.com/RepBillKeating"
+   },
+   "platform": [
+    {
+     "topic": "Europe and alliances",
+     "point": "Lead on European security and support for Ukraine through the Foreign Affairs Europe subcommittee.",
+     "source": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+    },
+    {
+     "topic": "Guns",
+     "point": "Close the loophole that lets people on FBI watchlists buy firearms.",
+     "source": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+    },
+    {
+     "topic": "Labor",
+     "point": "Back labor-supported legislation on wages and workers' rights.",
+     "source": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+    },
+    {
+     "topic": "Nuclear safety",
+     "point": "Press for safety oversight of nuclear plants such as Pilgrim Station.",
+     "source": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 25,
+     "evidence": "Votes for abortion rights and LGBTQ protections and supports tighter gun purchase rules.",
+     "source": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 80,
+     "evidence": "Ranking member of the Europe subcommittee and active in the Ukraine Caucus.",
+     "source": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": {
+     "score": 60,
+     "evidence": "Cosponsored the Equitable Access to Care and Health Act creating religious exemptions under the ACA.",
+     "source": "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+    }
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "",
+   "notes": "No campaign website was identified; the faith score rests on a single cosponsorship."
+  }
+ },
+ {
+  "id": "MA-9/tyler-macallister",
+  "name": "Tyler MacAllister",
+  "party": "Republican",
+  "race": "MA-9",
+  "race_label": "Massachusetts · US House MA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MA-9/tyler-macallister",
+   "name": "Tyler MacAllister",
+   "party": "Republican",
+   "current_role": "Mattapoisett Select Board member and fisherman",
+   "bio": "Tyler MacAllister is the Republican nominee for Massachusetts's 9th district. He has lived in Mattapoisett since 2001, has served five terms on its Select Board and has fished local waters for more than 40 years.",
+   "website": "https://www.macallister4congress.com/",
+   "social": {
+    "x": "https://x.com/Macallister2026",
+    "instagram": "https://www.instagram.com/macallister4congress/",
+    "facebook": "https://www.facebook.com/macallister4congress"
+   },
+   "platform": [
+    {
+     "topic": "Fishing",
+     "point": "Protect the fishing fleet and waterfront with science-based policy.",
+     "source": "https://www.macallister4congress.com/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Bring down grocery, fuel and housing costs.",
+     "source": "https://www.macallister4congress.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Support local law enforcement and community safety.",
+     "source": "https://www.macallister4congress.com/"
+    },
+    {
+     "topic": "Government accountability",
+     "point": "Cut waste and excess spending in Washington.",
+     "source": "https://www.macallister4congress.com/"
+    },
+    {
+     "topic": "Veterans and seniors",
+     "point": "Honor commitments to veterans and protect seniors' earned benefits.",
+     "source": "https://www.macallister4congress.com/"
+    },
+    {
+     "topic": "Coastal protection",
+     "point": "Balance coastal preservation with practical approaches, including scrutiny of offshore wind projects.",
+     "source": "https://www.macallister4congress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": {
+     "score": 60,
+     "evidence": "Lists support for law enforcement and community safety as a priority.",
+     "source": "https://www.macallister4congress.com/"
+    },
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 35,
+     "evidence": "Raises environmental and fishing-industry concerns about offshore wind projects such as Vineyard Wind.",
+     "source": "https://www.macallister4congress.com/"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://macallister4congress.com/assets/IMG_1564.jpg",
+   "notes": "The energy score rests on his campaign account of a trip to inspect the Vineyard Wind turbines rather than a stated policy."
+  }
+ },
+ {
+  "id": "MA-SEN/john-deaton",
+  "name": "John Deaton",
+  "party": "Republican",
+  "race": "MA-SEN",
+  "race_label": "Massachusetts · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MA-SEN/john-deaton",
+   "name": "John Deaton",
+   "party": "Republican",
+   "current_role": "Attorney",
+   "bio": "John Deaton is an attorney known for asbestos litigation and cryptocurrency cases; he founded the Deaton Law Firm in Rhode Island in 2006. Born in Highland Park, Michigan, he served in the Marine Corps as a judge advocate and moved to Massachusetts in 2024, when he was the Republican nominee for U.S. Senate.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Cryptocurrency",
+     "point": "Oppose the restrictive cryptocurrency regulation approach associated with Senator Elizabeth Warren.",
+     "source": "https://en.wikipedia.org/wiki/John_Deaton"
+    },
+    {
+     "topic": "Energy",
+     "point": "Pursue a mix of solar, wind, hydroelectric and nuclear power without aggressive net-zero deadlines.",
+     "source": "https://en.wikipedia.org/wiki/John_Deaton"
+    },
+    {
+     "topic": "Abortion",
+     "point": "Support abortion rights and disagree with the Dobbs decision.",
+     "source": "https://en.wikipedia.org/wiki/John_Deaton"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 30,
+     "evidence": "Supports abortion rights, same-sex marriage and Massachusetts's existing gun laws (abortion, LGBTQ, guns).",
+     "source": "https://en.wikipedia.org/wiki/John_Deaton"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 40,
+     "evidence": "Favors renewables and nuclear but opposes a net-zero-by-2050 target.",
+     "source": "https://en.wikipedia.org/wiki/John_Deaton"
+    },
+    "tech": {
+     "score": 20,
+     "evidence": "Opposes Warren-style cryptocurrency regulation.",
+     "source": "https://en.wikipedia.org/wiki/John_Deaton"
+    },
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Positions are from his 2024 Senate campaign; no 2026 campaign website could be located."
+  }
+ },
+ {
+  "id": "MD-3/berney-flowers",
+  "name": "Berney Flowers",
+  "party": "Republican",
+  "race": "MD-3",
+  "race_label": "Maryland · US House MD-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MD-3/berney-flowers",
+   "name": "Berney Flowers",
+   "party": "Republican",
+   "current_role": "Retired",
+   "bio": "Berney Flowers is a retired resident of Elkridge running for Congress for the first time. He holds a cybersecurity certificate from Harvard.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Federal spending",
+     "point": "Impose budget caps and fiscal discipline on a government he says spends too much.",
+     "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"
+    },
+    {
+     "topic": "Chesapeake Bay",
+     "point": "Protect the Bay through practical, locally informed measures rather than heavy regulation.",
+     "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"
+    },
+    {
+     "topic": "Key Bridge",
+     "point": "Track federal rebuilding funds transparently to avoid bureaucratic delays.",
+     "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Adopt practical, risk-based federal resilience standards that avoid needless delays.",
+     "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Supports binding budget caps and says the federal government spends too much.",
+     "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 40,
+     "evidence": "Supports Bay protection through practical local solutions while opposing burdensome environmental regulation.",
+     "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Very limited public footprint; energy score is based on a single questionnaire answer."
+  }
+ }
+]

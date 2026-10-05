@@ -1,0 +1,382 @@
+[
+ {
+  "id": "TN-7/lowell-reynolds",
+  "name": "Lowell Reynolds",
+  "party": "Independent",
+  "race": "TN-7",
+  "race_label": "Tennessee · US House TN-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_7th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-8/david-kustoff",
+  "name": "David Kustoff",
+  "party": "Republican",
+  "race": "TN-8",
+  "race_label": "Tennessee · US House TN-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000392",
+   "official_name": "David Kustoff",
+   "chamber": "House",
+   "official_site": "https://kustoff.house.gov",
+   "official_social": {
+    "facebook": "RepDavidKustoff",
+    "twitter": "RepDavidKustoff",
+    "instagram": "repdavidkustoff"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 70,
+    "security": null,
+    "immigration": 85,
+    "foreign": 75,
+    "energy": 10,
+    "tech": 30,
+    "education": 30,
+    "faith": 80
+   },
+   "basis": "Tax cuts, ACA repeal, no-exception pro-life and opposed same-sex marriage bills, gun rights, border wall, drilling deregulation, anti-Common Core, religious liberty.",
+   "sources": [
+    "https://www.ontheissues.org/House/David_Kustoff.htm",
+    "https://en.wikipedia.org/wiki/David_Kustoff"
+   ],
+   "photo": {
+    "file": "File:Rep. David Kustoff, official portrait, 2023 (head crop).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Nate Payne)"
+   }
+  }
+ },
+ {
+  "id": "TN-8/heidi-kuhn",
+  "name": "Heidi Kuhn",
+  "party": "Democratic",
+  "race": "TN-8",
+  "race_label": "Tennessee · US House TN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": 25,
+    "foreign": 20,
+    "energy": 45,
+    "tech": 85,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs $17 minimum wage, protecting Medicare and Medicaid, due process in ICE enforcement, ending the Iran war, energy price-gouging limits, data center moratorium.",
+   "sources": [
+    "https://kuhnforcongress.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-8/adam-austill",
+  "name": "Adam Austill",
+  "party": "Independent",
+  "race": "TN-8",
+  "race_label": "Tennessee · US House TN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-8/wendell-blankenship",
+  "name": "Wendell Blankenship",
+  "party": "Independent",
+  "race": "TN-8",
+  "race_label": "Tennessee · US House TN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-8/antonio-futch",
+  "name": "Antonio Futch",
+  "party": "Independent",
+  "race": "TN-8",
+  "race_label": "Tennessee · US House TN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-8/pamela-moses",
+  "name": "Pamela Moses",
+  "party": "Independent",
+  "race": "TN-8",
+  "race_label": "Tennessee · US House TN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-8/horace-taylor",
+  "name": "Horace Taylor",
+  "party": "Independent",
+  "race": "TN-8",
+  "race_label": "Tennessee · US House TN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-8/henry-ward",
+  "name": "Henry Ward",
+  "party": "Independent",
+  "race": "TN-8",
+  "race_label": "Tennessee · US House TN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-9/justin-j-pearson",
+  "name": "Justin J. Pearson",
+  "party": "Democratic",
+  "race": "TN-9",
+  "race_label": "Tennessee · US House TN-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 95,
+    "liberty": 75,
+    "security": null,
+    "immigration": 5,
+    "foreign": null,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All and higher wages, repealing permitless carry and red-flag laws (drove liberty), abolishing ICE, led Byhalia pipeline opposition.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Justin_J._Pearson"
+   ],
+   "photo": {
+    "file": "File:Justin J Pearson August 2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "TrentBenge"
+   }
+  }
+ },
+ {
+  "id": "TN-9/brent-taylor",
+  "name": "Brent Taylor",
+  "party": "Republican",
+  "race": "TN-9",
+  "race_label": "Tennessee · US House TN-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": 80,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Known for tough-on-crime stance, including backing a state amendment to deny bail for major violent crimes; few other documented positions.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brent_Taylor_(Tennessee_politician)"
+   ],
+   "photo": {
+    "file": "File:Brent Taylor (Tennessee politician).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "GatewayPolitics"
+   }
+  }
+ },
+ {
+  "id": "TN-9/dennis-clark",
+  "name": "Dennis Clark",
+  "party": "Independent",
+  "race": "TN-9",
+  "race_label": "Tennessee · US House TN-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_9th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ }
+]

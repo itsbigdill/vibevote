@@ -1,0 +1,526 @@
+[
+ {
+  "id": "WA-1/mary-silva",
+  "name": "Mary Silva",
+  "party": "Republican",
+  "race": "WA-1",
+  "race_label": "Washington · US House WA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "WA-1/mary-silva",
+   "name": "Mary Silva",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Mary Silva is the Republican nominee for Washington's 1st Congressional District. Her campaign focuses on domestic tech manufacturing, national security, fiscal accountability and privacy. Little additional biographical information was found.",
+   "website": "https://www.marysilvaforcongress.com/",
+   "social": {
+    "x": "https://twitter.com/marysilvacd1",
+    "instagram": "https://www.instagram.com/marysilva4congress",
+    "facebook": "https://www.facebook.com/people/Mary-Silva-for-US-Congress/61556885871386/"
+   },
+   "platform": [
+    {
+     "topic": "Tech and jobs",
+     "point": "Bring semiconductor manufacturing home, reform H-1B visas to favor American workers and expand apprenticeships.",
+     "source": "https://www.marysilvaforcongress.com/issues"
+    },
+    {
+     "topic": "National security",
+     "point": "Tighten border and clearance security and investigate foreign penetration of critical infrastructure.",
+     "source": "https://www.marysilvaforcongress.com/issues"
+    },
+    {
+     "topic": "Defense spending",
+     "point": "Conduct a full Pentagon audit and cut intelligence contractor costs.",
+     "source": "https://www.marysilvaforcongress.com/issues"
+    },
+    {
+     "topic": "Elections",
+     "point": "Require voter ID and create a midweek voting holiday.",
+     "source": "https://www.marysilvaforcongress.com/issues"
+    },
+    {
+     "topic": "Health freedom",
+     "point": "Protect informed consent and parents' authority over children's health care.",
+     "source": "https://www.marysilvaforcongress.com/issues"
+    },
+    {
+     "topic": "Privacy",
+     "point": "End warrantless mass surveillance and enforce Fourth Amendment limits on data collection.",
+     "source": "https://www.marysilvaforcongress.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": {
+     "score": 10,
+     "evidence": "Calls for ending warrantless mass surveillance and banning foreign-linked police technology.",
+     "source": "https://www.marysilvaforcongress.com/issues"
+    },
+    "immigration": {
+     "score": 70,
+     "evidence": "Wants stronger border security and H-1B reform prioritizing American workers.",
+     "source": "https://www.marysilvaforcongress.com/issues"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No professional background was found on the campaign site."
+  }
+ },
+ {
+  "id": "WA-10/chris-d-chung",
+  "name": "Chris D. Chung",
+  "party": "Republican",
+  "race": "WA-10",
+  "race_label": "Washington · US House WA-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "WA-10/chris-d-chung",
+   "name": "Chris D. Chung",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Chris D. Chung is the Republican nominee for Washington's 10th congressional district. He ran for Washington insurance commissioner as a Democrat in 2024.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or policy statements were found, and Ballotpedia could not be read."
+  }
+ },
+ {
+  "id": "WA-6/teresa-fox",
+  "name": "Teresa Fox",
+  "party": "Republican",
+  "race": "WA-6",
+  "race_label": "Washington · US House WA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "WA-6/teresa-fox",
+   "name": "Teresa Fox",
+   "party": "Republican",
+   "current_role": "Occupational safety professional",
+   "bio": "Teresa Fox is an occupational safety professional from Bremerton, Washington. She launched her campaign for Washington's 6th congressional district in March 2026 and has not previously held elected office according to available sources.",
+   "website": "https://www.foxforwa.com/",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Her campaign site showed no policy content when checked, and Ballotpedia could not be read. Her lack of prior office is inferred from limited sources."
+  }
+ },
+ {
+  "id": "WA-9/doug-basler",
+  "name": "Doug Basler",
+  "party": "Republican",
+  "race": "WA-9",
+  "race_label": "Washington · US House WA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "WA-9/doug-basler",
+   "name": "Doug Basler",
+   "party": "Republican",
+   "current_role": "Owner of Prologue Digital",
+   "bio": "Doug Basler founded and runs Prologue Digital, an advertising and video production company, and has worked in media and marketing since 1990. He has been vice chair of the King County Republican Party and president of the Eastside Republican Club. He has run for this seat in several previous elections.",
+   "website": "https://www.dougbasler.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Affordability",
+     "point": "Focuses on rising housing, grocery and tax costs for families.",
+     "source": "https://www.dougbasler.com/"
+    },
+    {
+     "topic": "Economy",
+     "point": "Wants to widen opportunity for entrepreneurship, homeownership and career advancement.",
+     "source": "https://www.dougbasler.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Wants compassion for people in crisis combined with accountability for crime.",
+     "source": "https://www.dougbasler.com/"
+    },
+    {
+     "topic": "Energy costs",
+     "point": "Opposes the Climate Commitment Act and high gas taxes over their effect on costs.",
+     "source": "https://www.dougbasler.com/about/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 35,
+     "evidence": "Criticizes rising taxes and regulation and favors business-friendly policies.",
+     "source": "https://www.dougbasler.com/about/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 25,
+     "evidence": "Opposes Washington's Climate Commitment Act, citing higher energy costs.",
+     "source": "https://www.dougbasler.com/about/"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Energy score added from his stated opposition to the Climate Commitment Act."
+  }
+ },
+ {
+  "id": "WI-4/tim-rogers",
+  "name": "Tim Rogers",
+  "party": "Republican",
+  "race": "WI-4",
+  "race_label": "Wisconsin · US House WI-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "WI-4/tim-rogers",
+   "name": "Tim Rogers",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Tim Rogers is the Republican nominee for Wisconsin's 4th congressional district and has run for the seat before.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or published policy positions were found."
+  }
+ },
+ {
+  "id": "WY-GOV/eric-barlow",
+  "name": "Eric Barlow",
+  "party": "Republican",
+  "race": "WY-GOV",
+  "race_label": "Wyoming · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "WY-GOV/eric-barlow",
+   "name": "Eric Barlow",
+   "party": "Republican",
+   "current_role": "Wyoming State Senator",
+   "bio": "Eric Barlow has served in the Wyoming Senate since 2023 after ten years in the Wyoming House, where he was majority leader and then speaker from 2021 to 2023. A veterinarian from Gillette, he holds a DVM from Colorado State University.",
+   "website": "https://www.barlowforwyo.com",
+   "social": {
+    "x": "https://x.com/Barlowforwyo",
+    "instagram": "https://www.instagram.com/barlow_wyo/",
+    "facebook": "https://www.facebook.com/EricBarlowRidingForWyoming",
+    "tiktok": "https://www.tiktok.com/@barlowforwyo"
+   },
+   "platform": [
+    {
+     "topic": "Budget",
+     "point": "Keep the state living within its means through cash-based budgeting and transparency.",
+     "source": "https://www.barlowforwyo.com/positions"
+    },
+    {
+     "topic": "Energy",
+     "point": "Protect coal, oil, gas and uranium production and streamline permitting.",
+     "source": "https://www.barlowforwyo.com/positions"
+    },
+    {
+     "topic": "Education",
+     "point": "Keep school decisions local and give parents a strong role.",
+     "source": "https://www.barlowforwyo.com/positions"
+    },
+    {
+     "topic": "Abortion",
+     "point": "Support protections for the unborn along with maternal health resources.",
+     "source": "https://www.barlowforwyo.com/positions"
+    },
+    {
+     "topic": "Guns",
+     "point": "Defend the Second Amendment and restore firearm rights to eligible citizens.",
+     "source": "https://www.barlowforwyo.com/positions"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Backs cash-based budgeting and keeping fuel taxes low.",
+     "source": "https://www.barlowforwyo.com/positions"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 50,
+     "evidence": "Firmly anti-abortion but sponsored restoring gun rights and strengthening concealed carry (abortion, guns).",
+     "source": "https://www.barlowforwyo.com/positions"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 15,
+     "evidence": "Supported legislation protecting coal, oil, gas and uranium production.",
+     "source": "https://www.barlowforwyo.com/positions"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "WY-GOV/kenneth-casner",
+  "name": "Kenneth Casner",
+  "party": "Democratic",
+  "race": "WY-GOV",
+  "race_label": "Wyoming · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "WY-GOV/kenneth-casner",
+   "name": "Kenneth Casner",
+   "party": "Democratic",
+   "current_role": "",
+   "bio": "Kenneth Casner is the Democratic nominee for Governor of Wyoming in 2026. No further public biographical information was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website, platform or issue statements were found."
+  }
+ },
+ {
+  "id": "AR-1/steve-parsons",
+  "name": "Steve Parsons",
+  "party": "Libertarian",
+  "race": "AR-1",
+  "race_label": "Arkansas · US House AR-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AR-1/steve-parsons",
+   "name": "Steve Parsons",
+   "party": "Libertarian",
+   "current_role": "",
+   "bio": "Steve Parsons is a resident of Lakeview, Arkansas. He was the Libertarian nominee for Arkansas's 1st district in 2024.",
+   "website": "https://www.steve-parsons.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Government",
+     "point": "Reduce government intrusion in personal and business decisions.",
+     "source": "https://www.steve-parsons.com/"
+    },
+    {
+     "topic": "Inflation",
+     "point": "Cut inflation to make living costs more affordable, including reforming the Federal Reserve.",
+     "source": "https://www.steve-parsons.com/"
+    },
+    {
+     "topic": "Regulation",
+     "point": "Reduce regulatory burdens on businesses.",
+     "source": "https://www.steve-parsons.com/"
+    },
+    {
+     "topic": "Foreign policy",
+     "point": "End extensive foreign aid and overseas military commitments.",
+     "source": "https://www.steve-parsons.com/"
+    },
+    {
+     "topic": "Criminal justice",
+     "point": "Reform incarceration and the handling of substance abuse and mental health.",
+     "source": "https://www.steve-parsons.com/"
+    },
+    {
+     "topic": "Trade",
+     "point": "Reform tariff policy and the US-Mexico-Canada Agreement.",
+     "source": "https://www.steve-parsons.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 20,
+     "evidence": "Calls for less government and reduced regulation of businesses.",
+     "source": "https://www.steve-parsons.com/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 15,
+     "evidence": "Opposes government involvement in personal choices such as seatbelt use and marijuana (drugs).",
+     "source": "https://www.steve-parsons.com/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 10,
+     "evidence": "Wants to end extensive international aid and military commitments.",
+     "source": "https://www.steve-parsons.com/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6604740e5df423578247f024/207732e3-450c-4662-9a25-b32ee8d5fdd6/steveparsonpicture.jpg",
+   "notes": "Little biographical information is public; his occupation was not found."
+  }
+ }
+]

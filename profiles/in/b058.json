@@ -1,0 +1,445 @@
+[
+ {
+  "id": "MN-4/betty-mccollum",
+  "name": "Betty McCollum",
+  "party": "Democratic",
+  "race": "MN-4",
+  "race_label": "Minnesota · US House MN-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001143",
+   "official_name": "Betty McCollum",
+   "chamber": "House",
+   "official_site": "https://mccollum.house.gov",
+   "official_social": {
+    "twitter": "BettyMcCollum04",
+    "facebook": "repbettymccollum",
+    "youtube": "BMcCollum04",
+    "instagram": "repbettymccollum"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 90,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": 50,
+    "energy": 75,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Health care as a right, pro-union, pro-choice and LGBTQ rights and opposes concealed carry (liberty), renewable energy bills, public education, conditions on Israel aid.",
+   "sources": [
+    "https://mccollum.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Betty_McCollum"
+   ],
+   "photo": {
+    "file": "File:Betty McCollum, official portrait, 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography (Franmarie Metzler)"
+   }
+  }
+ },
+ {
+  "id": "MN-4/paul-wikstrom",
+  "name": "Paul Wikstrom",
+  "party": "Republican",
+  "race": "MN-4",
+  "race_label": "Minnesota · US House MN-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 35,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Eliminate estate tax and taxes on tips and overtime, cut regulations, expand child tax credit, cross-state insurance sales and price transparency.",
+   "sources": [
+    "https://www.wikstromforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MN-5/ilhan-omar",
+  "name": "Ilhan Omar",
+  "party": "Democratic",
+  "race": "MN-5",
+  "race_label": "Minnesota · US House MN-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "O000173",
+   "official_name": "Ilhan Omar",
+   "chamber": "House",
+   "official_site": "https://omar.house.gov",
+   "official_social": {
+    "twitter": "Ilhan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 95,
+    "liberty": 10,
+    "security": 10,
+    "immigration": 5,
+    "foreign": 25,
+    "energy": null,
+    "tech": 50,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "$17 minimum wage, Medicare for All, free public college, LGBTQ and abortion rights (liberty), backed police abolition, opposed border funding, cutting military spending, opposed TikTok ban.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ilhan_Omar"
+   ],
+   "photo": {
+    "file": "File:Ilhan Omar, official portrait, 116th Congress (cropped) A.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography (Kristie Boyd)"
+   }
+  }
+ },
+ {
+  "id": "MN-5/john-nagel",
+  "name": "John Nagel",
+  "party": "Republican",
+  "race": "MN-5",
+  "race_label": "Minnesota · US House MN-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 25,
+    "security": 70,
+    "immigration": 70,
+    "foreign": 75,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cut taxes and spending, fund police, secure border with faster legal immigration, defend gun and speech rights (liberty), energy dominance, strong US leadership with allies.",
+   "sources": [
+    "https://nagelforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MN-6/tom-emmer",
+  "name": "Tom Emmer",
+  "party": "Republican",
+  "race": "MN-6",
+  "race_label": "Minnesota · US House MN-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "E000294",
+   "official_name": "Tom Emmer",
+   "chamber": "House",
+   "official_site": "https://emmer.house.gov",
+   "official_social": {
+    "twitter": "RepTomEmmer",
+    "instagram": "reptomemmer",
+    "facebook": "reptomemmer",
+    "youtube": "RepTomEmmer"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 10,
+    "liberty": 80,
+    "security": null,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": 10,
+    "tech": 10,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Sought to end state minimum wage, defund CFPB, repeal ACA, anti-abortion and opposed LGBTQ anti-bullying law (liberty), travel ban, pro-drilling, fights crypto regulation.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tom_Emmer"
+   ],
+   "photo": {
+    "file": "File:Tom Emmer Congressional Photo 2 (1).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Eric Connolly)"
+   }
+  }
+ },
+ {
+  "id": "MN-6/doug-chapin",
+  "name": "Doug Chapin",
+  "party": "Democratic",
+  "race": "MN-6",
+  "race_label": "Minnesota · US House MN-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 90,
+    "liberty": 15,
+    "security": null,
+    "immigration": 20,
+    "foreign": 35,
+    "energy": 80,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Repeal tax cuts for the wealthy, Medicare for All or public option, abortion and LGBTQ rights and assault-weapon limits (liberty), citizenship pathways, restrict Israel aid, Paris Accords.",
+   "sources": [
+    "https://chapinforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MN-7/michelle-fischbach",
+  "name": "Michelle Fischbach",
+  "party": "Republican",
+  "race": "MN-7",
+  "race_label": "Minnesota · US House MN-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000470",
+   "official_name": "Michelle Fischbach",
+   "chamber": "House",
+   "official_site": "https://fischbach.house.gov",
+   "official_social": {
+    "twitter": "RepFischbach",
+    "facebook": "repfischbach",
+    "instagram": "repfischbach",
+    "youtube": "UCAxs5zhFdAkGbkRnuC3osDw"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 60,
+    "security": null,
+    "immigration": null,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Liberty averages repeated anti-abortion legislation with strong gun-rights support; voted for Israel support after October 7.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Michelle_Fischbach"
+   ],
+   "photo": {
+    "file": "File:Rep. Michelle Fischbach official portrait.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Leah Herman)"
+   }
+  }
+ },
+ {
+  "id": "MN-7/erik-osberg",
+  "name": "Erik Osberg",
+  "party": "Democratic",
+  "race": "MN-7",
+  "race_label": "Minnesota · US House MN-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 75,
+    "liberty": 30,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Universal care goal and Medicare at 55, abortion rights plus background checks and red-flag laws (liberty), wind and solar investment, EPA enforcement, more public school funding.",
+   "sources": [
+    "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/",
+    "https://www.erikosberg4congress.com/priorities/environmental-stewardship/",
+    "https://www.erikosberg4congress.com/priorities/strengthening-public-education/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MN-8/pete-stauber",
+  "name": "Pete Stauber",
+  "party": "Republican",
+  "race": "MN-8",
+  "race_label": "Minnesota · US House MN-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001212",
+   "official_name": "Pete Stauber",
+   "chamber": "House",
+   "official_site": "https://stauber.house.gov",
+   "official_social": {
+    "twitter": "RepPeteStauber",
+    "facebook": "RepPeteStauber"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Authored bill ending Boundary Waters mineral withdrawal to allow copper-nickel mining and opposed Haaland over opposition to oil drilling.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pete_Stauber"
+   ],
+   "photo": {
+    "file": "File:Pete Stauber 118th Congress (cropped).jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services (Nate Payne)"
+   }
+  }
+ },
+ {
+  "id": "MN-8/trina-swanson",
+  "name": "Trina Swanson",
+  "party": "Democratic",
+  "race": "MN-8",
+  "race_label": "Minnesota · US House MN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 85,
+    "liberty": null,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Antitrust enforcement and fair corporate taxes, universal healthcare, secure but humane border with earned citizenship, clean energy investment, protect Boundary Waters from mining.",
+   "sources": [
+    "https://www.trinaforcongress.com/priorities/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MS-1/trent-kelly",
+  "name": "Trent Kelly",
+  "party": "Republican",
+  "race": "MS-1",
+  "race_label": "Mississippi · US House MS-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000388",
+   "official_name": "Trent Kelly",
+   "chamber": "House",
+   "official_site": "https://trentkelly.house.gov",
+   "official_social": {
+    "facebook": "reptrentkelly",
+    "twitter": "RepTrentKelly",
+    "instagram": "reptrentkelly"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 60,
+    "security": null,
+    "immigration": 65,
+    "foreign": 50,
+    "energy": 20,
+    "tech": null,
+    "education": 20,
+    "faith": 75
+   },
+   "basis": "Anti-regulation, 2025 tax-and-Medicaid bill vote, anti-abortion, no gun limits, school vouchers, offshore drilling, opposed 2024 Ukraine aid; faith-based framing.",
+   "sources": [
+    "https://trentkelly.house.gov/issues",
+    "https://www.ontheissues.org/House/Trent_Kelly.htm",
+    "https://en.wikipedia.org/wiki/Trent_Kelly"
+   ],
+   "photo": {
+    "file": "File:Trent Kelly, Official Portrait, 115th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography/House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MS-1/cliff-johnson",
+  "name": "Cliff Johnson",
+  "party": "Democratic",
+  "race": "MS-1",
+  "race_label": "Mississippi · US House MS-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": null,
+    "security": 30,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes Medicaid cuts funding tax cuts for the wealthy; supports criminal-justice reform, ending debtors' prisons and funding reentry programs.",
+   "sources": [
+    "https://www.mississippifreepress.org/democrat-cliff-johnson-vows-to-fight-for-vulnerable-mississippians-in-run-for-congress-against-trent-kelly/"
+   ],
+   "photo": null
+  }
+ }
+]

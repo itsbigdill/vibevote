@@ -1,0 +1,412 @@
+[
+ {
+  "id": "NH-GOV/kelly-ayotte",
+  "name": "Kelly Ayotte",
+  "party": "Republican",
+  "current_role": "Governor of New Hampshire",
+  "bio": "Kelly Ayotte has been Governor of New Hampshire since January 2025. A Nashua native and attorney, she was the state's first female attorney general (2004-2009) and served in the U.S. Senate from 2011 to 2017. Between those roles she sat on several corporate boards.",
+  "website": "https://kellyfornh.com/",
+  "social": {
+   "x": "https://x.com/KellyAyotte",
+   "facebook": "https://www.facebook.com/KellyAyotteForNH"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Pledges that New Hampshire will never adopt an income tax or a sales tax.", "source": "https://kellyfornh.com/accomplishments/"},
+   {"topic": "Housing", "point": "Cites new laws she signed to speed up home construction and expand housing supply.", "source": "https://kellyfornh.com/accomplishments/"},
+   {"topic": "Education", "point": "Highlights removing cell phones from classrooms, record school funding and expanded childcare scholarships.", "source": "https://kellyfornh.com/accomplishments/"},
+   {"topic": "Public safety", "point": "Points to changes to the bail system and stronger efforts against drug trafficking.", "source": "https://kellyfornh.com/accomplishments/"},
+   {"topic": "Energy", "point": "Aims to lower electric bills and increase energy supply, including nuclear and small modular reactors.", "source": "https://www.citizenscount.org/candidate/kelly-ayotte"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Opposes broad-based income and sales taxes, supports business tax cuts and opposes raising the minimum wage.", "source": "https://www.citizenscount.org/candidate/kelly-ayotte"},
+   "welfare": {"score": 35, "evidence": "Opposed the Affordable Care Act in favor of health savings accounts, while her campaign says she protected Medicaid and funded mental health treatment.", "source": "https://www.citizenscount.org/candidate/kelly-ayotte"},
+   "liberty": {"score": 50, "evidence": "Abortion: keeps the current 24-week law and would veto further limits; drugs: opposes marijuana legalization; guns: opposes expanded background checks.", "source": "https://www.citizenscount.org/candidate/kelly-ayotte"},
+   "security": {"score": 70, "evidence": "Backs tougher fentanyl and heroin penalties, bail changes and more border law enforcement.", "source": "https://www.citizenscount.org/candidate/kelly-ayotte"},
+   "immigration": {"score": 75, "evidence": "Supports banning sanctuary cities, E-Verify requirements and border enforcement; opposes licenses for undocumented immigrants.", "source": "https://www.citizenscount.org/candidate/kelly-ayotte"},
+   "foreign": {"score": 85, "evidence": "Known in the Senate as a defense hawk who favored strong alliances and military strength.", "source": "https://en.wikipedia.org/wiki/Kelly_Ayotte"},
+   "energy": {"score": 40, "evidence": "Backs an all-of-the-above approach including fossil fuels and nuclear; as senator endorsed the Clean Power Plan but opposed carbon taxes.", "source": "https://www.citizenscount.org/candidate/kelly-ayotte"},
+   "tech": {"score": 55, "evidence": "Pushed to remove cell phones from classrooms, citing child wellbeing.", "source": "https://kellyfornh.com/accomplishments/"},
+   "education": {"score": 15, "evidence": "Supports Education Freedom Accounts and school choice.", "source": "https://www.citizenscount.org/candidate/kelly-ayotte"},
+   "faith": null
+  },
+  "photo": {"file": "File:Governor Kelly Ayotte receives a briefing from National Guard cyber operators (cropped) (cropped).jpg", "license": "Public domain", "author": "Sgt. Kelly Boyer, U.S. Army National Guard"},
+  "campaign_photo": "",
+  "notes": "Tech score rests on the classroom phone restriction only. Foreign score reflects her Senate record rather than statements as governor."
+ },
+ {
+  "id": "NH-GOV/cinde-warmington",
+  "name": "Cinde Warmington",
+  "party": "Democratic",
+  "current_role": "Health care attorney and former Executive Councilor",
+  "bio": "Cinde Warmington is a Concord health care attorney who represented District 2 on the New Hampshire Executive Council from 2021 to 2025. Before law she worked in laboratory medicine and hospital management. She ran for governor in 2024, finishing second in the Democratic primary.",
+  "website": "https://www.cindewarmington.com/",
+  "social": {
+   "x": "https://x.com/CindeWarmington",
+   "instagram": "https://www.instagram.com/cindewarmington/",
+   "facebook": "https://www.facebook.com/CindeWarmingtonNH",
+   "tiktok": "https://www.tiktok.com/@cinde.warmington",
+   "youtube": "https://www.youtube.com/@CindeWarmingtonNH"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Calls housing her top priority; would fund affordable housing and restore the Housing Champions program for towns.", "source": "https://www.thedartmouth.com/article/2026/05/cinde-warmington-centers-affordability-in-bid-for-n-h-governor"},
+   {"topic": "Education", "point": "Would end Education Freedom Accounts and invest in public schools.", "source": "https://www.cindewarmington.com/"},
+   {"topic": "Health care", "point": "Seeks to make health coverage more affordable and lower premiums.", "source": "https://www.cindewarmington.com/"},
+   {"topic": "Taxes", "point": "Rules out a new income or sales tax.", "source": "https://www.cindewarmington.com/"},
+   {"topic": "Energy", "point": "Wants more renewable energy and efficiency to cut energy costs.", "source": "https://www.thedartmouth.com/article/2026/05/cinde-warmington-centers-affordability-in-bid-for-n-h-governor"},
+   {"topic": "Opioids", "point": "Proposes an approach combining prevention, harm reduction, treatment and enforcement.", "source": "https://www.thedartmouth.com/article/2026/05/cinde-warmington-centers-affordability-in-bid-for-n-h-governor"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Supports raising the minimum wage to a living wage, pay equity and worker organizing, while opposing income and sales taxes.", "source": "https://www.citizenscount.org/candidate/cinde-warmington"},
+   "welfare": {"score": 65, "evidence": "Campaigns on expanding affordable health coverage and supports Planned Parenthood contracts.", "source": "https://www.citizenscount.org/candidate/cinde-warmington"},
+   "liberty": {"score": 25, "evidence": "Abortion: would repeal the 24-week limit; drugs: supports legal, taxed marijuana; LGBTQ: opposes classroom discussion bans; guns: backs universal background checks and red-flag orders.", "source": "https://www.citizenscount.org/candidate/cinde-warmington"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 90, "evidence": "Backs a comprehensive climate action plan, renewable expansion, net metering and extending renewable portfolio standards.", "source": "https://www.citizenscount.org/candidate/cinde-warmington"},
+   "tech": null,
+   "education": {"score": 90, "evidence": "Opposes Education Freedom Accounts and vouchers and favors investing in public schools.", "source": "https://www.citizenscount.org/candidate/cinde-warmington"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The earlier immigration score (25) was cleared because no source found here confirmed her stance; she left the Citizens Count immigration question unanswered. No free-licensed portrait was found."
+ },
+ {
+  "id": "NJ-SEN/cory-booker",
+  "name": "Cory Booker",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from New Jersey",
+  "bio": "Cory Booker has represented New Jersey in the U.S. Senate since 2013. He was previously mayor of Newark (2006-2013) and a Newark city councilman. He grew up in Harrington Park and studied at Stanford, Oxford as a Rhodes Scholar, and Yale Law School.",
+  "website": "https://corybooker.com/",
+  "social": {
+   "x": "https://twitter.com/CoryBooker",
+   "instagram": "https://www.instagram.com/corybooker/",
+   "facebook": "https://www.facebook.com/corybooker",
+   "youtube": "https://www.youtube.com/user/CoryBookerdotcom"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All, starting with a public option and lower drug prices.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   {"topic": "Criminal justice", "point": "Advocates criminal justice reform and removing marijuana from the Controlled Substances Act.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   {"topic": "Economy", "point": "Backs a $15 minimum wage and baby bonds funded by an estate tax.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   {"topic": "Climate", "point": "Supports the Green New Deal and zero-carbon electricity including nuclear power.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   {"topic": "Campaign finance", "point": "Says his campaign refuses money from federal lobbyists, corporate PACs and fossil fuel and pharmaceutical executives.", "source": "https://corybooker.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Supports a $15 minimum wage, a new estate tax for baby bonds and criticized the Trump tax cuts.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "welfare": {"score": 85, "evidence": "Backs Medicare for All.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "liberty": {"score": 30, "evidence": "Abortion: no restrictions before viability; drugs: national legalization of marijuana; LGBTQ: backs the Equality Act; guns: supports gun licensing.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "security": {"score": 20, "evidence": "Called for public oversight of NSA domestic spying and moved away from broken-windows policing.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "immigration": {"score": 10, "evidence": "Proposed decriminalizing border crossings and supports DACA recipients.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "foreign": {"score": 60, "evidence": "Links Israel's security to America's and favors rejoining the Iran nuclear deal through diplomacy.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "energy": {"score": 90, "evidence": "Supports the Green New Deal's ten-year national mobilization.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "tech": {"score": 60, "evidence": "Pledged to enforce antitrust laws and regulate tech companies.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "education": {"score": 45, "evidence": "Supported vouchers and charter school growth as Newark mayor while backing public education funding.", "source": "https://www.ontheissues.org/Senate/Cory_Booker.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://corybooker.com/wp-content/uploads/2020/01/cory_sq_profile.png",
+  "notes": "Several positions come from his 2019 presidential campaign; his campaign site lists few current policy specifics."
+ },
+ {
+  "id": "NJ-SEN/justin-murphy",
+  "name": "Justin Murphy",
+  "party": "Republican",
+  "current_role": "Attorney",
+  "bio": "Justin Murphy is an attorney from Tabernacle in Burlington County, where he served as a township committeeman and deputy mayor. He enlisted in the U.S. Navy as a teenager and deployed to the Persian Gulf. He ran for Congress in 2008 and 2010 and for the Senate in 2024 before winning the 2026 Republican primary.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Economy", "point": "Prioritizes private-sector growth through tax cuts and spending reductions.", "source": "https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/"},
+   {"topic": "Energy", "point": "Opposes offshore wind off the Jersey Shore and supports energy independence.", "source": "https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/"},
+   {"topic": "Border security", "point": "Supports stronger border security and efforts against terrorism and crime.", "source": "https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/"},
+   {"topic": "China", "point": "Views China as a serious threat and wants to deal with it from a position of strength.", "source": "https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/"},
+   {"topic": "Seniors", "point": "Pledges to protect Medicare for older residents.", "source": "https://savejersey.com/2026/06/who-is-justin-murphy-the-gop-nominee-to-challenge-cory-booker/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for significant tax cuts and spending reductions to spur private-sector growth.", "source": "https://savejersey.com/2026/06/who-is-justin-murphy-the-gop-nominee-to-challenge-cory-booker/"},
+   "welfare": null,
+   "liberty": {"score": 75, "evidence": "Drugs: opposes recreational marijuana legalization; no public statements found on abortion, guns or LGBTQ issues.", "source": "https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/"},
+   "security": {"score": 70, "evidence": "Commits to stronger crime and terrorism prevention.", "source": "https://savejersey.com/2026/06/who-is-justin-murphy-the-gop-nominee-to-challenge-cory-booker/"},
+   "immigration": {"score": 70, "evidence": "Lists border security among his core priorities.", "source": "https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/"},
+   "foreign": {"score": 60, "evidence": "Stresses military support and a tougher stance toward China.", "source": "https://savejersey.com/2026/06/who-is-justin-murphy-the-gop-nominee-to-challenge-cory-booker/"},
+   "energy": {"score": 15, "evidence": "Opposes offshore wind and emphasizes energy independence.", "source": "https://savejersey.com/2026/06/who-is-justin-murphy-the-gop-nominee-to-challenge-cory-booker/"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Names parental rights among the issues he cares about most.", "source": "https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or social accounts could be confirmed. Liberty and education scores each rest on a single stated position."
+ },
+ {
+  "id": "NM-SEN/ben-ray-lujan",
+  "name": "Ben Ray Luján",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from New Mexico",
+  "bio": "Ben Ray Luján has represented New Mexico in the U.S. Senate since 2021. He previously served in the U.S. House for New Mexico's 3rd district (2009-2021), where he was Assistant Speaker and chaired the DCCC, and before that on the New Mexico Public Regulation Commission. He was born in Santa Fe and raised in Nambé.",
+  "website": "https://benraylujan.com/",
+  "social": {
+   "x": "https://x.com/SenatorLujan",
+   "instagram": "https://www.instagram.com/senatorlujan",
+   "facebook": "https://www.facebook.com/SenatorLujan"
+  },
+  "platform": [
+   {"topic": "Jobs", "point": "Focuses on creating good-paying jobs for New Mexico workers.", "source": "https://benraylujan.com/"},
+   {"topic": "Health care", "point": "Seeks to expand affordable coverage and opposes Republican Medicaid cuts.", "source": "https://benraylujan.com/"},
+   {"topic": "Cost of living", "point": "Aims to lower costs and widen economic opportunity for families.", "source": "https://benraylujan.com/"},
+   {"topic": "Food security", "point": "Opposes cuts to food assistance and targets child hunger.", "source": "https://benraylujan.com/"},
+   {"topic": "Broadband", "point": "Chairs the Senate subcommittee on communications and broadband and backs rural internet funding.", "source": "https://en.wikipedia.org/wiki/Ben_Ray_Luj%C3%A1n"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Supported a 30% minimum tax on millionaires and a higher minimum wage; opposed the 2017 tax cuts.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "welfare": {"score": 90, "evidence": "Co-sponsored Medicare for All.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "liberty": {"score": 25, "evidence": "Abortion: 100% NARAL rating; drugs: backs removing marijuana from the Controlled Substances Act; LGBTQ: voted for the Equality Act; guns: supports universal background checks and longer waiting periods.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "security": {"score": 15, "evidence": "Voted for the George Floyd Justice in Policing Act and supports limiting domestic phone monitoring.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "immigration": {"score": 20, "evidence": "Supports comprehensive reform with a pathway to citizenship for Dreamers and opposed refugee bans.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "foreign": {"score": 50, "evidence": "Affirms the U.S.-Israel bond but sponsored removing U.S. forces from Yemen and opposes Iran strikes without congressional approval.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "energy": {"score": 85, "evidence": "Co-sponsored the Green New Deal and voted to ban offshore drilling, though he joined Republicans to block a fracking ban in 2021.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "tech": {"score": 70, "evidence": "Sponsored net neutrality legislation.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "education": {"score": 85, "evidence": "Opposes private and religious school voucher programs.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"},
+   "faith": {"score": 25, "evidence": "Received an A grade from the Center for Freethought Equality for his record on church-state issues.", "source": "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Faith score rests on a single 2016 advocacy-group rating. Social links are his official Senate accounts; the campaign site links its own accounts through redirects."
+ },
+ {
+  "id": "NM-SEN/larry-marker",
+  "name": "Larry Marker",
+  "party": "Republican",
+  "current_role": "Business owner and rancher",
+  "bio": "Larry \"Lead\" Marker is a New Mexico Republican with roots in Hobbs and Roswell whose work has spanned oil and gas production, farming, ranching, manufacturing and construction. He previously ran for office as an independent. He won the 2026 Republican Senate nomination as a write-in candidate.",
+  "website": "https://larrymarker.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Energy", "point": "Would defend the oil and gas industry, pursue hydrogen and nuclear, and remove federal permitting delays.", "source": "https://larrymarker.com/"},
+   {"topic": "Border security", "point": "Focuses on stopping fentanyl trafficking and supporting law enforcement.", "source": "https://larrymarker.com/"},
+   {"topic": "Agriculture", "point": "Promises to protect farmers and ranchers from regulation and defend water rights and grazing access.", "source": "https://larrymarker.com/"},
+   {"topic": "Regulation", "point": "Wants to loosen regulations he says burden small businesses.", "source": "https://www.santafenewmexican.com/news/elections/id-like-to-see-more-hope-gop-write-in-u-s-senate-candidate-larry-marker/article_4e9038b9-0d10-48e4-84f5-69d2255c603e.html"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Prioritizes loosening regulations on small businesses and favors capitalist opportunity over government programs.", "source": "https://www.santafenewmexican.com/news/elections/id-like-to-see-more-hope-gop-write-in-u-s-senate-candidate-larry-marker/article_4e9038b9-0d10-48e4-84f5-69d2255c603e.html"},
+   "welfare": {"score": 25, "evidence": "Criticizes his opponent for emphasizing welfare-type programs.", "source": "https://www.santafenewmexican.com/news/elections/id-like-to-see-more-hope-gop-write-in-u-s-senate-candidate-larry-marker/article_4e9038b9-0d10-48e4-84f5-69d2255c603e.html"},
+   "liberty": {"score": 90, "evidence": "Abortion: describes himself as strongly pro-life; no statements found on other liberty issues.", "source": "https://www.kunm.org/nm-senate-write-in-candidate-larry-marker-wins-primary-ben-ray-lujan"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Agrees with President Trump's immigration policies and campaigns on border security.", "source": "https://www.santafenewmexican.com/news/elections/id-like-to-see-more-hope-gop-write-in-u-s-senate-candidate-larry-marker/article_4e9038b9-0d10-48e4-84f5-69d2255c603e.html"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Pledges to defend oil and gas and cut federal permitting delays.", "source": "https://larrymarker.com/"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 80, "evidence": "Puts his Christian faith at the center of his campaign.", "source": "https://www.kunm.org/nm-senate-write-in-candidate-larry-marker-wins-primary-ben-ray-lujan"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Public footprint is limited; the liberty score rests on abortion alone. No campaign social accounts were confirmed."
+ },
+ {
+  "id": "NM-GOV/deb-haaland",
+  "name": "Deb Haaland",
+  "party": "Democratic",
+  "current_role": "Former U.S. Secretary of the Interior",
+  "bio": "Deb Haaland served as U.S. Secretary of the Interior from 2021 to 2025, the first Native American cabinet secretary. She represented New Mexico's 1st district in the U.S. House from 2019 to 2021 and earlier chaired the state Democratic Party. An enrolled member of Laguna Pueblo, she holds a law degree in Indian law and worked as a tribal administrator.",
+  "website": "https://debhaaland.com/",
+  "social": {
+   "x": "https://x.com/DebHaalandNM",
+   "instagram": "https://www.instagram.com/debhaalandnm",
+   "facebook": "https://www.facebook.com/DebHaalandNM",
+   "youtube": "https://www.youtube.com/@DebHaalandNM"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Proposes a low-cost public health option, rural mobile clinics and protection against Medicaid cuts.", "source": "https://debhaaland.com/debs-plan/"},
+   {"topic": "Childcare", "point": "Would expand universal childcare across New Mexico.", "source": "https://debhaaland.com/debs-plan/"},
+   {"topic": "Affordability", "point": "Plans a higher minimum wage, larger family tax credits and measures against rent fixing.", "source": "https://debhaaland.com/debs-plan/"},
+   {"topic": "Education", "point": "Emphasizes early reading and math and trades training in middle and high schools.", "source": "https://debhaaland.com/debs-plan/"},
+   {"topic": "Public safety", "point": "Would create an Office of Community Safety and give police new tools against violent crime.", "source": "https://debhaaland.com/debs-plan/"},
+   {"topic": "Energy", "point": "Wants more renewable energy to lower utility bills.", "source": "https://debhaaland.com/debs-plan/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Backed a $15 minimum wage and a federal job guarantee; now plans a state minimum wage increase.", "source": "https://www.ontheissues.org/Deb_Haaland.htm"},
+   "welfare": {"score": 90, "evidence": "Supported Medicare for All and now proposes a public health option and universal childcare.", "source": "https://debhaaland.com/debs-plan/"},
+   "liberty": {"score": 25, "evidence": "Abortion: pro-choice; LGBTQ: vice chair of the Equality Caucus; guns: supports universal background checks and an assault weapons ban.", "source": "https://www.ontheissues.org/Deb_Haaland.htm"},
+   "security": {"score": 35, "evidence": "Sponsored stricter police accountability rules, while her plan adds law-enforcement tools against violent crime.", "source": "https://www.ontheissues.org/Deb_Haaland.htm"},
+   "immigration": {"score": 10, "evidence": "Opposes deportations that separate families and the border wall; supports a pathway to citizenship.", "source": "https://www.ontheissues.org/Deb_Haaland.htm"},
+   "foreign": {"score": 30, "evidence": "Opposed U.S. military intervention in the Middle East and prefers diplomacy.", "source": "https://www.ontheissues.org/Deb_Haaland.htm"},
+   "energy": {"score": 85, "evidence": "Backed the Green New Deal and opposed fracking; plans renewable expansion.", "source": "https://www.ontheissues.org/Deb_Haaland.htm"},
+   "tech": {"score": 70, "evidence": "Supports net neutrality and public internet infrastructure.", "source": "https://www.ontheissues.org/Deb_Haaland.htm"},
+   "education": {"score": 90, "evidence": "Opposes vouchers and favors investment in public education.", "source": "https://www.ontheissues.org/Deb_Haaland.htm"},
+   "faith": null
+  },
+  "photo": {"file": "File:Secretary Deb Haaland, official headshot.jpg", "license": "Public domain", "author": "U.S. Department of the Interior"},
+  "campaign_photo": "",
+  "notes": "Several positions date from her 2018 House campaign. Social URLs were built from the @DebHaalandNM handle listed on her campaign site."
+ },
+ {
+  "id": "NM-GOV/gregg-hull",
+  "name": "Gregg Hull",
+  "party": "Republican",
+  "current_role": "Former Mayor of Rio Rancho",
+  "bio": "Gregg Hull was mayor of Rio Rancho from 2014 to 2026, the longest tenure in the city's history. Before that he ran a small business in Rio Rancho. Born in Oklahoma, he has lived in New Mexico for more than 35 years.",
+  "website": "https://gregghull.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Energy", "point": "Would expand all energy sources and increase oil and gas production.", "source": "https://gregghull.com/priorities/"},
+   {"topic": "Public safety", "point": "Plans more police statewide and zero tolerance for violent crimes and crimes against children.", "source": "https://gregghull.com/priorities/"},
+   {"topic": "Border", "point": "Would strengthen border security to address fentanyl, including National Guard support.", "source": "https://www.abqjournal.com/election/governor-gregg-hull-r/3034038"},
+   {"topic": "Education", "point": "Proposes public school investment with accountability, tutoring, special education and career technical programs.", "source": "https://gregghull.com/priorities/"},
+   {"topic": "Health care", "point": "Aims to strengthen rural health care, reform malpractice law and recruit medical workers.", "source": "https://gregghull.com/priorities/"},
+   {"topic": "Taxes", "point": "Would use oil and gas revenue to consider cutting gross receipts and personal income taxes.", "source": "https://www.abqjournal.com/election/governor-gregg-hull-r/3034038"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Wants to reduce income and gross receipts taxes and opposes a mandated paid family leave program.", "source": "https://www.abqjournal.com/election/governor-gregg-hull-r/3034038"},
+   "welfare": null,
+   "liberty": {"score": 5, "evidence": "Guns: opposes any ban on any firearm; no statements found on other liberty issues.", "source": "https://www.abqjournal.com/election/governor-gregg-hull-r/3034038"},
+   "security": {"score": 85, "evidence": "Backs more police, zero tolerance for violent crime; doubled Rio Rancho's police budget.", "source": "https://gregghull.com/priorities/"},
+   "immigration": {"score": 70, "evidence": "Would enhance border security and use the National Guard for border and drug enforcement.", "source": "https://www.abqjournal.com/election/governor-gregg-hull-r/3034038"},
+   "foreign": null,
+   "energy": {"score": 20, "evidence": "Wants to produce more oil than the state does now.", "source": "https://www.abqjournal.com/election/governor-gregg-hull-r/3034038"},
+   "tech": null,
+   "education": {"score": 60, "evidence": "Focuses on public school investment, tutoring and career technical education; his priorities page does not mention vouchers.", "source": "https://gregghull.com/priorities/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The earlier summary said he would eliminate the income tax; his Journal answers describe exploring reductions instead. Liberty score rests on guns alone."
+ },
+ {
+  "id": "NY-GOV/bruce-blakeman",
+  "name": "Bruce Blakeman",
+  "party": "Republican",
+  "current_role": "Nassau County Executive",
+  "bio": "Bruce Blakeman has been Nassau County Executive since 2022. An attorney born in Valley Stream, he previously served in the Nassau County Legislature, on the Hempstead town council and as a Port Authority of New York and New Jersey commissioner. His running mate is Madison County Sheriff Todd Hood.",
+  "website": "https://www.blakemanfornewyork.com/",
+  "social": {
+   "x": "https://x.com/NassauExec",
+   "instagram": "https://www.instagram.com/bruceblakemanforgovernor",
+   "facebook": "https://www.facebook.com/BruceBlakemanNewYorkFirst"
+  },
+  "platform": [
+   {"topic": "Public safety", "point": "Cites hiring over 900 law enforcement officers and opposes cashless bail and Raise the Age.", "source": "https://www.blakemanfornewyork.com/"},
+   {"topic": "Taxes", "point": "Promises tax relief for homeowners and renters, citing county property tax restraint.", "source": "https://www.blakemanfornewyork.com/"},
+   {"topic": "Immigration", "point": "Opposes sanctuary policies and highlights cooperation with ICE.", "source": "https://www.blakemanfornewyork.com/"},
+   {"topic": "Energy", "point": "Opposes offshore wind, which he links to high electricity bills.", "source": "https://www.ontheissues.org/Bruce_Blakeman.htm"},
+   {"topic": "Education", "point": "Would opt New York into the federal private-school scholarship program.", "source": "https://www.ontheissues.org/Bruce_Blakeman.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Opposes higher taxes on the wealthy, cut property tax hikes and supports Trump's tariffs.", "source": "https://www.ontheissues.org/Bruce_Blakeman.htm"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Abortion: calls himself a pro-choice Republican; LGBTQ: banned transgender athletes at county facilities; also rejected mask mandates and backs a public mask ban.", "source": "https://www.ontheissues.org/Bruce_Blakeman.htm"},
+   "security": {"score": 85, "evidence": "Opposes cashless bail and Raise the Age and expanded county law enforcement.", "source": "https://www.blakemanfornewyork.com/"},
+   "immigration": {"score": 65, "evidence": "Works with ICE on criminal removals and opposes a pathway to citizenship for undocumented immigrants.", "source": "https://www.ontheissues.org/Bruce_Blakeman.htm"},
+   "foreign": {"score": 65, "evidence": "Emphasizes countering Chinese Communist Party influence and supports Israel.", "source": "https://www.ontheissues.org/Bruce_Blakeman.htm"},
+   "energy": {"score": 20, "evidence": "Opposes offshore wind development.", "source": "https://www.ontheissues.org/Bruce_Blakeman.htm"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Supports joining scholarship programs that fund private schooling.", "source": "https://www.ontheissues.org/Bruce_Blakeman.htm"},
+   "faith": null
+  },
+  "photo": {"file": "File:Blakeman Profile Picture (cropped 2).jpg", "license": "CC BY-SA 4.0", "author": "Arthur Raslich, Nassau County"},
+  "campaign_photo": "https://cdn.prod.website-files.com/691f46d825bbae8d3a9fa034/69270727fe4aaafdca438188_Bruce-Blakeman-Photo-for-NewYork-Governor.avif",
+  "notes": "The foreign score's support for Israel was not re-confirmed in sources fetched here. The X account listed is his county executive account."
+ },
+ {
+  "id": "NY-GOV/kathy-hochul",
+  "name": "Kathy Hochul",
+  "party": "Democratic",
+  "current_role": "Governor of New York",
+  "bio": "Kathy Hochul has been Governor of New York since August 2021, after serving as lieutenant governor from 2015. A Buffalo-area lawyer, she earlier served on the Hamburg town board, as Erie County clerk and in the U.S. House (2011-2013). Her 2026 running mate is former New York City Council Speaker Adrienne Adams.",
+  "website": "https://kathyhochul.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Childcare", "point": "Pursues universal childcare for every New York family.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   {"topic": "Affordability", "point": "Focuses on lowering costs, including a middle-class income tax cut.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   {"topic": "Public safety", "point": "Campaigns on investments in public safety and tightening repeat-offender release.", "source": "https://kathyhochul.com/"},
+   {"topic": "Guns", "point": "Seeks to block 3D-printed guns and raised the semiautomatic rifle purchase age to 21.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   {"topic": "Climate", "point": "Backs a $1 billion investment in the transition to zero-emission energy.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Proposed indexing the minimum wage to inflation alongside a middle-class income tax cut.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   "welfare": {"score": 80, "evidence": "Pursues universal childcare and announced free community college for some students.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   "liberty": {"score": 40, "evidence": "Abortion: pro-choice; drugs: enacted legal marijuana; LGBTQ: expanded protections; guns: red-flag law and a higher rifle purchase age.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   "security": {"score": 55, "evidence": "Supports bail reform with changes to address repeat offenders and signed parole reform.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   "immigration": {"score": 30, "evidence": "Bars state resources for federal immigration raids while supporting deportation of criminals.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   "foreign": null,
+   "energy": {"score": 55, "evidence": "Funded zero-emission programs and fossil-fuel heating limits but opposed the Public Renewables Act.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   "tech": {"score": 80, "evidence": "Signed the RAISE Act setting safety rules for frontier AI developers.", "source": "https://en.wikipedia.org/wiki/Responsible_AI_Safety_and_Education_Act"},
+   "education": {"score": 85, "evidence": "Opposes voucher-based school choice.", "source": "https://www.ontheissues.org/Kathy_Hochul.htm"},
+   "faith": null
+  },
+  "photo": {"file": "File:Governor Hochul Announces Five-Point Plan to Protect New Yorkers on the Subway (cropped 4).jpg", "license": "CC BY 2.0", "author": "Marc A. Hermann / MTA"},
+  "campaign_photo": "https://kathyhochul.com/wp-content/uploads/2026/05/kha.jpg",
+  "notes": "Her campaign site links social accounts only through redirects, so none are listed. The campaign image may not be a close headshot."
+ },
+ {
+  "id": "NC-SEN/roy-cooper",
+  "name": "Roy Cooper",
+  "party": "Democratic",
+  "current_role": "Former Governor of North Carolina",
+  "bio": "Roy Cooper was Governor of North Carolina from 2017 to 2025 and state attorney general from 2001 to 2017. Earlier he served in the state House and Senate, including as Senate majority leader. A Nashville, North Carolina native, he practiced law after graduating from UNC Chapel Hill.",
+  "website": "https://roycooper.com/",
+  "social": {
+   "x": "https://x.com/RoyCooperNC",
+   "instagram": "https://www.instagram.com/roycoopernc/",
+   "facebook": "https://www.facebook.com/roycoopernc",
+   "tiktok": "https://www.tiktok.com/@roycoopernc"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Would restore ACA tax credits, reverse Medicaid cuts and widen Medicare drug price negotiation.", "source": "https://roycooper.com/costless/health-care/"},
+   {"topic": "Housing", "point": "Would limit corporate buying of single-family homes, ban algorithmic rent-setting and ease zoning.", "source": "https://roycooper.com/costless/housing/"},
+   {"topic": "Energy", "point": "Wants data centers to pay their full power costs and the grid modernized to lower bills.", "source": "https://roycooper.com/costless/energy/"},
+   {"topic": "Tariffs", "point": "Would remove tariffs on lumber, steel and aluminum to cut building costs.", "source": "https://roycooper.com/costless/housing/"},
+   {"topic": "Cost of living", "point": "Campaigns on lowering prices for groceries, child care and utilities.", "source": "https://roycooper.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Opposes tax breaks for the wealthy, called a $15 wage an admirable goal and proposes curbs on corporate homebuying and rent algorithms.", "source": "https://www.ontheissues.org/Roy_Cooper.htm"},
+   "welfare": {"score": 70, "evidence": "Expanded Medicaid as governor and wants restored ACA subsidies.", "source": "https://roycooper.com/costless/health-care/"},
+   "liberty": {"score": 30, "evidence": "Abortion: vetoed a 12-week ban; LGBTQ: pushed repeal of the bathroom bill; guns: allows concealed carry but backs assault weapons limits.", "source": "https://www.ontheissues.org/Roy_Cooper.htm"},
+   "security": {"score": 35, "evidence": "Created a racial equity task force in criminal justice and supports expunging misdemeanors.", "source": "https://www.ontheissues.org/Roy_Cooper.htm"},
+   "immigration": {"score": 30, "evidence": "Vetoed bills requiring sheriffs to cooperate with ICE and supports Dreamers.", "source": "https://www.ontheissues.org/Roy_Cooper.htm"},
+   "foreign": {"score": 70, "evidence": "Declared North Carolina's support for Ukraine.", "source": "https://www.ontheissues.org/Roy_Cooper.htm"},
+   "energy": {"score": 70, "evidence": "Set targets to cut power-sector emissions 70% by 2030 and supports renewable standards.", "source": "https://www.ontheissues.org/Roy_Cooper.htm"},
+   "tech": {"score": 60, "evidence": "Proposes banning rent-pricing algorithms and requiring data centers to cover their power costs.", "source": "https://roycooper.com/costless/housing/"},
+   "education": {"score": 90, "evidence": "Opposes vouchers and vetoed their expansion, prioritizing public school funding.", "source": "https://www.ontheissues.org/Roy_Cooper.htm"},
+   "faith": null
+  },
+  "photo": {"file": "File:Gov. Cooper Cropped.jpg", "license": "CC BY 2.0", "author": "NCDOTcommunications"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-SEN/michael-whatley",
+  "name": "Michael Whatley",
+  "party": "Republican",
+  "current_role": "Former Chair of the Republican National Committee",
+  "bio": "Michael Whatley chaired the Republican National Committee from 2024 to 2025 and the North Carolina Republican Party from 2019 to 2024. An attorney, he was chief of staff to Senator Elizabeth Dole, worked at the Department of Energy under President George W. Bush, and later worked for energy industry groups. Born in Michigan, he moved to Watauga County as a teenager.",
+  "website": "https://michaelwhatley.com/",
+  "social": {
+   "x": "https://x.com/WhatleyNC",
+   "instagram": "https://www.instagram.com/whatleyfornc",
+   "facebook": "https://www.facebook.com/whatleyfornc"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Supports middle-class tax cuts and no taxes on tips, overtime or Social Security.", "source": "https://en.wikipedia.org/wiki/Michael_Whatley"},
+   {"topic": "Immigration", "point": "Fully backs President Trump's border enforcement and opposes sanctuary policies.", "source": "https://michaelwhatley.com/issues/"},
+   {"topic": "Public safety", "point": "Would end cashless bail and pretrial release policies and support law enforcement.", "source": "https://michaelwhatley.com/issues/"},
+   {"topic": "Energy", "point": "Advocates American energy independence and job creation.", "source": "https://michaelwhatley.com/issues/"},
+   {"topic": "Hurricane recovery", "point": "Highlights his appointment to the FEMA Review Council and disaster aid for western North Carolina.", "source": "https://michaelwhatley.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Campaigns on tax cuts, including eliminating taxes on tips, overtime and Social Security.", "source": "https://en.wikipedia.org/wiki/Michael_Whatley"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Abortion: pledges to protect life; guns: defends Second Amendment rights; LGBTQ: opposes transgender women in women's sports.", "source": "https://michaelwhatley.com/issues/"},
+   "security": {"score": 85, "evidence": "Opposes cashless bail and pretrial release and supports more law enforcement.", "source": "https://michaelwhatley.com/issues/"},
+   "immigration": {"score": 90, "evidence": "Fully supports Trump's border security and deportation efforts and opposes sanctuary policies.", "source": "https://michaelwhatley.com/issues/"},
+   "foreign": null,
+   "energy": {"score": 20, "evidence": "Advocates domestic energy independence and worked for oil and gas interests before politics.", "source": "https://en.wikipedia.org/wiki/Michael_Whatley"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Opposes what he calls woke ideology in schools.", "source": "https://michaelwhatley.com/issues/"},
+   "faith": {"score": 70, "evidence": "Lists protecting religious and traditional values among his campaign issues.", "source": "https://michaelwhatley.com/issues/"}
+  },
+  "photo": {"file": "File:Michael Whatley (54670563614) (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"},
+  "campaign_photo": "",
+  "notes": "His transgender-sports position comes from the earlier research and was not re-confirmed on his issues page."
+ }
+]

@@ -1,0 +1,411 @@
+[
+ {
+  "id": "VA-7/joshua-ertle",
+  "name": "Joshua Ertle",
+  "party": "Independent",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-7/randall-terry",
+  "name": "Randall Terry",
+  "party": "Independent",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-8/don-beyer",
+  "name": "Don Beyer",
+  "party": "Democratic",
+  "race": "VA-8",
+  "race_label": "Virginia · US House VA-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001292",
+   "official_name": "Donald S. Beyer, Jr.",
+   "chamber": "House",
+   "official_site": "https://beyer.house.gov",
+   "official_social": {
+    "facebook": "RepDonBeyer",
+    "twitter": "RepDonBeyer",
+    "instagram": "repdonbeyer"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 80,
+    "liberty": 35,
+    "security": null,
+    "immigration": 15,
+    "foreign": 55,
+    "energy": 95,
+    "tech": null,
+    "education": 90,
+    "faith": 10
+   },
+   "basis": "Restore 39.6% top rate, support ACA, pro-choice with gun control (abortion drove liberty), DREAM Act, diplomacy, carbon tax, free community college, anti-voucher.",
+   "sources": [
+    "https://www.ontheissues.org/VA/Don_Beyer.htm",
+    "https://en.wikipedia.org/wiki/Don_Beyer"
+   ],
+   "photo": {
+    "file": "File:Rep. Don Beyer, official portrait (118th Congress) (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "VA-8/tony-sabio",
+  "name": "Tony Sabio",
+  "party": "Republican",
+  "race": "VA-8",
+  "race_label": "Virginia · US House VA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign platform centers on an energy affordability and American power act; other planks lack detail.",
+   "sources": [
+    "https://sabioforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-8/shelly-arnoldi",
+  "name": "Shelly Arnoldi",
+  "party": "Libertarian",
+  "race": "VA-8",
+  "race_label": "Virginia · US House VA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-8/tim-sharman",
+  "name": "Tim Sharman",
+  "party": "Independent",
+  "race": "VA-8",
+  "race_label": "Virginia · US House VA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-9/morgan-griffith",
+  "name": "Morgan Griffith",
+  "party": "Republican",
+  "race": "VA-9",
+  "race_label": "Virginia · US House VA-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000568",
+   "official_name": "H. Morgan Griffith",
+   "chamber": "House",
+   "official_site": "https://morgangriffith.house.gov",
+   "official_social": {
+    "twitter": "RepMGriffith",
+    "facebook": "RepMorganGriffith",
+    "youtube": "RepMorganGriffith",
+    "instagram": "hmorgangriffith"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 60,
+    "security": 70,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": 10,
+    "tech": 25,
+    "education": 40,
+    "faith": 70
+   },
+   "basis": "Taxpayer pledge, ACA repeal, pro-life and pro-gun, medical marijuana bill (abortion drove liberty), PATRIOT Act extension, climate skepticism, coal, mixed school choice.",
+   "sources": [
+    "https://www.ontheissues.org/VA/Morgan_Griffith.htm",
+    "https://en.wikipedia.org/wiki/Morgan_Griffith"
+   ],
+   "photo": {
+    "file": "File:H. Morgan Griffith 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, U.S. House of Representatives Creative Services"
+   }
+  }
+ },
+ {
+  "id": "VA-9/joy-powers",
+  "name": "Joy Powers",
+  "party": "Democratic",
+  "race": "VA-9",
+  "race_label": "Virginia · US House VA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 40,
+    "energy": 60,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Opposes corporate consolidation and price gouging, protect Medicaid for rural hospitals, conditioning weapons to Israel, opposes gas-powered data centers, public school funding.",
+   "sources": [
+    "https://www.joyforva.com/copy-of-priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-10/suhas-subramanyam",
+  "name": "Suhas Subramanyam",
+  "party": "Democratic",
+  "race": "VA-10",
+  "race_label": "Virginia · US House VA-10",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001230",
+   "official_name": "Suhas Subramanyam",
+   "chamber": "House",
+   "official_site": "https://subramanyam.house.gov",
+   "official_social": {
+    "twitter": "RepSuhas",
+    "facebook": "RepSuhasSubramanyam",
+    "instagram": "repsuhas"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 65,
+    "liberty": 35,
+    "security": null,
+    "immigration": 45,
+    "foreign": null,
+    "energy": 85,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Medicare drug negotiation, pro-choice and gun safety laws (abortion drove liberty), Laken Riley Act vote with immigration reform, climate emergency, AI rules.",
+   "sources": [
+    "https://www.suhasforvirginia.com/issues",
+    "https://en.wikipedia.org/wiki/Suhas_Subramanyam"
+   ],
+   "photo": {
+    "file": "File:Subramanyam Suhas 119th Congress (cropped).jpeg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "VA-10/dave-beckwith",
+  "name": "Dave Beckwith",
+  "party": "Republican",
+  "race": "VA-10",
+  "race_label": "Virginia · US House VA-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 30,
+    "liberty": null,
+    "security": 70,
+    "immigration": null,
+    "foreign": null,
+    "energy": 35,
+    "tech": null,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Low taxes and deregulation, balanced budgets, market healthcare, strong law enforcement support, end energy subsidies and expand nuclear, parental rights.",
+   "sources": [
+    "https://www.beckwithforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-10/ahsen-malik",
+  "name": "Ahsen Malik",
+  "party": "Independent",
+  "race": "VA-10",
+  "race_label": "Virginia · US House VA-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-11/james-walkinshaw",
+  "name": "James Walkinshaw",
+  "party": "Democratic",
+  "race": "VA-11",
+  "race_label": "Virginia · US House VA-11",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000831",
+   "official_name": "James R. Walkinshaw",
+   "chamber": "House",
+   "official_site": "https://walkinshaw.house.gov",
+   "official_social": {},
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 35,
+    "security": null,
+    "immigration": 20,
+    "foreign": 70,
+    "energy": 70,
+    "tech": 55,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes tariffs and OBBBA health cuts, pro-choice with county building gun ban, citizenship path, Ukraine aid, conditioned Israel aid, EV fleet, AI oversight.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/James_Walkinshaw",
+    "https://jameswalkinshaw.org/"
+   ],
+   "photo": {
+    "file": "File:James Walkinshaw (cropped).jpg",
+    "license": "Public domain",
+    "author": "Damien Salas, Office of the Clerk"
+   }
+  }
+ }
+]

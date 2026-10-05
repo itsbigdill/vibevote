@@ -1,0 +1,940 @@
+[
+ {
+  "id": "IN-1/frank-mrvan",
+  "name": "Frank Mrvan",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for IN-1",
+  "bio": "Frank Mrvan has represented Indiana's 1st congressional district since 2021 and serves on the House Appropriations Committee. A Hammond native and Ball State journalism graduate, he worked as a mortgage broker and pharmaceutical sales representative before serving as North Township trustee from 2005 to 2021.",
+  "website": "https://mrvanforcongress.com/",
+  "social": {
+   "x": "https://x.com/mrvan4congress",
+   "instagram": "https://www.instagram.com/mrvanforcongress",
+   "facebook": "https://www.facebook.com/mrvanforcongress",
+   "youtube": "https://www.youtube.com/channel/UCp214D_ws19LUt4YiEH-SWg"
+  },
+  "platform": [
+   {
+    "topic": "Labor",
+    "point": "Backs organized labor as the base of the Northwest Indiana economy and co-sponsored the PRO Act.",
+    "source": "https://mrvan.house.gov/issues"
+   },
+   {
+    "topic": "Steel and trade",
+    "point": "Serves as vice chair of the Congressional Steel Caucus, advocating for the domestic steel industry.",
+    "source": "https://mrvan.house.gov/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Supports protecting reproductive healthcare access and writing Roe v. Wade protections into federal law.",
+    "source": "https://mrvanforcongress.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Lists improving access to affordable healthcare as a primary priority.",
+    "source": "https://mrvan.house.gov/issues"
+   },
+   {
+    "topic": "Economy",
+    "point": "Highlights federal investments he secured for the region and aims to lower costs and bring jobs to Northwest Indiana.",
+    "source": "https://mrvanforcongress.com/"
+   },
+   {
+    "topic": "Border",
+    "point": "Says he supports border policies that are safe, secure and humane.",
+    "source": "https://mrvanforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Co-sponsored the PRO Act and voted for the American Rescue Plan.",
+    "source": "https://en.wikipedia.org/wiki/Frank_J._Mrvan"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Voted for the American Rescue Plan and opposed the 2025 reconciliation bill's program cuts; lists affordable healthcare access as a priority.",
+    "source": "https://mrvan.house.gov/issues"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Abortion: supports codifying Roe v. Wade and co-sponsored the Women's Health Protection Act; member of the Equality Caucus (LGBTQ rights).",
+    "source": "https://en.wikipedia.org/wiki/Frank_J._Mrvan"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 60,
+    "evidence": "Voted in 2023 against a resolution to withdraw U.S. troops from Syria within 180 days.",
+    "source": "https://en.wikipedia.org/wiki/Frank_J._Mrvan"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 75,
+    "evidence": "Describes himself as an advocate for public schools, teachers and students.",
+    "source": "https://mrvan.house.gov/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IN-1/barb-regnitz",
+  "name": "Barb Regnitz",
+  "party": "Republican",
+  "current_role": "Porter County Commissioner",
+  "bio": "Barb Regnitz is a Porter County commissioner from Valparaiso who won the Republican nomination for Indiana's 1st district in May 2026. She holds Purdue degrees in mathematics and German and worked as a software engineer and project manager and later as a certified financial planner.",
+  "website": "https://barbregnitzforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/barbregnitzforcongress/"
+  },
+  "platform": [
+   {
+    "topic": "Public safety",
+    "point": "Supports law enforcement and wants to end catch-and-release practices.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   },
+   {
+    "topic": "Border",
+    "point": "Makes securing the border one of the main planks of her platform.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   },
+   {
+    "topic": "Spending",
+    "point": "Wants to reduce federal spending and the national debt.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   },
+   {
+    "topic": "Elections",
+    "point": "Backs in-person voting and watermarked paper ballots as election-integrity measures.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants schools to focus on teaching students how to think rather than what to think.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   },
+   {
+    "topic": "Girls' sports",
+    "point": "Supports reserving girls' sports and facilities for biological females.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Platform calls for reducing federal spending and the national debt.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 70,
+    "evidence": "LGBTQ: supports limiting girls' sports and facilities to biological females; no public stance found on abortion, guns or drugs.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Calls for ending catch-and-release policies and securing the border.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/six-candidates-are-running-in-the-primary-for-indianas-1st-congressional-district-heres-your-guide"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign website did not render for review, so the platform comes from WFYI's primary guide; scores rest on a few planks."
+ },
+ {
+  "id": "IN-2/jamee-decio",
+  "name": "Jamee Decio",
+  "party": "Democratic",
+  "current_role": "Attorney and screenwriter",
+  "bio": "Jamee Decio is an Elkhart native and Notre Dame law graduate who won the 2026 Democratic nomination in Indiana's 2nd district. She has worked as a House subcommittee legislative aide, an Elkhart County deputy prosecutor and in private practice, and later as a screenwriter and Writers Guild of America member.",
+  "website": "https://decioforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/decioforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61582641874935"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Wants to curb corporate price gouging, oppose tariffs and address housing affordability.",
+    "source": "https://decioforcongress.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Supports universal healthcare alongside private payers and protecting Medicaid and Social Security.",
+    "source": "https://decioforcongress.com/policy/"
+   },
+   {
+    "topic": "AI and data centers",
+    "point": "Seeks local control over data center siting, protecting farmland and water, and union labor on projects.",
+    "source": "https://decioforcongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Stresses immigrants' economic contributions and argues policy should reflect stated American values.",
+    "source": "https://decioforcongress.com/policy/"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Calls for stricter accountability for presidential and congressional leaders and enforcing the Constitution.",
+    "source": "https://decioforcongress.com/policy/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Wants tax dollars redirected from Wall Street to working families and opposes corporate handouts and tariffs.",
+    "source": "https://decioforcongress.com/policy/"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Supports universal healthcare working alongside private payers.",
+    "source": "https://decioforcongress.com/policy/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Emphasizes immigrants' economic contributions and opposes deporting working immigrants.",
+    "source": "https://decioforcongress.com/policy/"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Criticizes foreign conflicts that drain resources from domestic needs.",
+    "source": "https://decioforcongress.com/policy/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Wants oversight and local control of AI data centers and opposes technology used for corporate exploitation.",
+    "source": "https://decioforcongress.com/policy/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IN-2/rudy-yakym",
+  "name": "Rudy Yakym III",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IN-2",
+  "bio": "Rudy Yakym has represented Indiana's 2nd district since winning a 2022 special election after the death of Jackie Walorski, and sits on the Ways and Means Committee. A South Bend native with degrees from IU South Bend and a Notre Dame MBA, he previously worked in commercial real estate and logistics and as Walorski's campaign finance director.",
+  "website": "https://rudyforindiana.com/",
+  "social": {
+   "x": "https://x.com/RepRudyYakym",
+   "facebook": "https://www.facebook.com/RepRudyYakym"
+  },
+  "platform": [
+   {
+    "topic": "Border",
+    "point": "Supports finishing border barriers and stronger enforcement of existing immigration law.",
+    "source": "https://yakym.house.gov/issues/securing-the-border"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Backed making tax cuts permanent, including the Child Tax Credit and tax relief on tips and overtime.",
+    "source": "https://yakym.house.gov/issues/supporting-the-family"
+   },
+   {
+    "topic": "Defense",
+    "point": "Votes for defense authorization and security assistance for Israel, Taiwan and Ukraine to deter adversaries.",
+    "source": "https://yakym.house.gov/issues/peace-through-strength"
+   },
+   {
+    "topic": "Child welfare",
+    "point": "Authored bills on foster care and the HAILEY Act to speed missing-child alerts.",
+    "source": "https://yakym.house.gov/issues/supporting-the-family"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Lists cutting federal red tape among his priorities.",
+    "source": "https://yakym.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation law extending and expanding tax cuts.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation law adding Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "LGBTQ: voted for the Protection of Women and Girls in Sports Act; no other liberty issues documented.",
+    "source": "https://yakym.house.gov/issues/supporting-the-family"
+   },
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Supports completing the border wall and stronger enforcement; names border security a top issue.",
+    "source": "https://yakym.house.gov/issues/securing-the-border"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Backs aid to Israel and security assistance for Taiwan and Ukraine.",
+    "source": "https://yakym.house.gov/issues/peace-through-strength"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation law repealing clean-energy tax credits.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IN-2/william-henry",
+  "name": "William Henry",
+  "party": "Libertarian",
+  "current_role": "Army veteran and Libertarian Party of Elkhart County treasurer",
+  "bio": "William Henry of Goshen is a U.S. Army and Indiana Army National Guard veteran who served as a military photojournalist, including deployments to Afghanistan and Kuwait. He co-directs the advocacy group Liberty Offense and was the Libertarian nominee for this seat in 2022 and 2024 after a 2020 run for lieutenant governor.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Transparency",
+    "point": "Centres his campaign on government transparency, accountability and answering voters' questions directly.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Lists tax reform as a campaign priority.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Prioritizes care for veterans.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   {
+    "topic": "Privacy and liberties",
+    "point": "Emphasizes privacy protections and constitutional liberties.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   {
+    "topic": "Cannabis",
+    "point": "Supports federal cannabis reform.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Public sources list his priorities without specific policy details, so no scores were assigned; no campaign website was found."
+ },
+ {
+  "id": "IN-3/marlin-stutzman",
+  "name": "Marlin Stutzman",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IN-3",
+  "bio": "Marlin Stutzman returned to Congress for Indiana's 3rd district in 2025 after earlier serving in the House from 2010 to 2017. He served in the Indiana House from 2003 to 2009 and the Indiana Senate from 2009 to 2010, and is a fourth-generation farmer who co-owns a farm and trucking business.",
+  "website": "https://www.gomarlin.com/",
+  "social": {
+   "x": "https://x.com/gomarlin",
+   "instagram": "https://www.instagram.com/marlinforcongress",
+   "facebook": "https://www.facebook.com/gomarlin",
+   "tiktok": "https://www.tiktok.com/@marlinforcongress",
+   "youtube": "https://www.youtube.com/@marlinstutzman"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Aims to eliminate inflation and build a healthy economy.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district"
+   },
+   {
+    "topic": "Federal bureaucracy",
+    "point": "Pledges to target corruption in federal bureaucracies.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district"
+   },
+   {
+    "topic": "Family and life",
+    "point": "Cites laws he authored protecting marriage, the family and life at every stage.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district"
+   },
+   {
+    "topic": "Values",
+    "point": "Pledges to defend Judeo-Christian values, including in education.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district"
+   },
+   {
+    "topic": "Spending",
+    "point": "Supported the 2025 reconciliation law, describing it as curbing waste and promoting growth.",
+    "source": "https://stutzman.house.gov/issues/energy"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Freedom Caucus member who voted for the 2025 reconciliation tax-cut law.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Opposed the Affordable Care Act and voted for the 2025 law adding Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/Marlin_Stutzman"
+   },
+   "liberty": {
+    "score": 80,
+    "evidence": "Abortion and LGBTQ: says he authored laws protecting marriage and life at every stage.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district"
+   },
+   "security": null,
+   "immigration": {
+    "score": 55,
+    "evidence": "Cosponsors the Dignity Act pairing legal status for some undocumented immigrants with stricter enforcement.",
+    "source": "https://en.wikipedia.org/wiki/Marlin_Stutzman"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 20,
+    "evidence": "Signed the Americans for Prosperity pledge against climate legislation that raises taxes.",
+    "source": "https://en.wikipedia.org/wiki/Marlin_Stutzman"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 80,
+    "evidence": "Pledges to defend Judeo-Christian values in public life.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IN-3/kelly-thompson",
+  "name": "Kelly Thompson",
+  "party": "Democratic",
+  "current_role": "Concrete company co-owner and nonprofit founder",
+  "bio": "Kelly Thompson of Columbia City is the co-owner of a concrete contracting company and founder of a nonprofit serving at-risk youth. She ran unopposed for the 2026 Democratic nomination in Indiana's 3rd district and says she voted Republican until 2016.",
+  "website": "https://www.kellythompsonforcongress.com/",
+  "social": {
+   "x": "https://x.com/KellyForIndiana",
+   "instagram": "https://www.instagram.com/kellythompsonforcongress/",
+   "facebook": "https://www.facebook.com/kellyforcongress",
+   "tiktok": "https://www.tiktok.com/@kelly.for.indiana"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Proposes a single-payer system covering vision, dental and hearing while keeping choice of providers.",
+    "source": "https://www.kellythompsonforcongress.com/policies/healthcare/healthcare"
+   },
+   {
+    "topic": "Energy",
+    "point": "Wants to modernize the grid with solar, offshore wind and small nuclear plants and retrain coal workers.",
+    "source": "https://www.kellythompsonforcongress.com/policies/energy/jobs-and-energy"
+   },
+   {
+    "topic": "Education",
+    "point": "Proposes a small Wall Street trade tax to fund schools, raise teacher pay and provide universal pre-K.",
+    "source": "https://www.kellythompsonforcongress.com/policies/education/education-and-childcare"
+   },
+   {
+    "topic": "Cannabis",
+    "point": "Supports federal legalization with excise taxes, expungement of past convictions and a 21-plus age limit.",
+    "source": "https://www.kellythompsonforcongress.com/policies/marijuana/legalization"
+   },
+   {
+    "topic": "Farms",
+    "point": "Lists protecting family farms and farmland as a priority.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district"
+   },
+   {
+    "topic": "Housing",
+    "point": "Wants to expand the supply of affordable housing.",
+    "source": "https://www.wfyi.org/statewide/2026-04-17/rep-marlin-stutzman-faces-a-rematch-in-the-republican-primary-for-indianas-3rd-congressional-district"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Calls for fair wages, a better tax structure and anti-monopoly action.",
+    "source": "https://www.kellythompsonforcongress.com/"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Proposes replacing private insurance with a single all-in public health system that covers everyone.",
+    "source": "https://www.kellythompsonforcongress.com/policies/healthcare/healthcare"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Drugs: supports federal cannabis legalization and expungement of prior convictions.",
+    "source": "https://www.kellythompsonforcongress.com/policies/marijuana/legalization"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 65,
+    "evidence": "Backs grid modernization with solar, wind and nuclear and reduced oil reliance while acknowledging ongoing petroleum needs.",
+    "source": "https://www.kellythompsonforcongress.com/policies/energy/jobs-and-energy"
+   },
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Proposes a financial transaction tax to fully fund public schools and raise teacher pay.",
+    "source": "https://www.kellythompsonforcongress.com/policies/education/education-and-childcare"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IN-4/jim-baird",
+  "name": "Jim Baird",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IN-4",
+  "bio": "Jim Baird has represented Indiana's 4th district since 2019 and chairs a House Agriculture subcommittee. He previously served in the Indiana House from 2010 to 2018 and as a Putnam County commissioner, and is a Vietnam veteran awarded the Bronze Star and two Purple Hearts. Born in Fountain County, he owns farming and business ventures near Greencastle.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepJimBaird",
+   "facebook": "https://www.facebook.com/RepJimBaird",
+   "youtube": "https://www.youtube.com/channel/UCAe6fGhotC9J9tR_QONYzFA"
+  },
+  "platform": [
+   {
+    "topic": "Agriculture",
+    "point": "Chairs the House Agriculture subcommittee on conservation, research and biotechnology.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Baird_(politician)"
+   },
+   {
+    "topic": "Farm labor",
+    "point": "Co-sponsored the Farm Workforce Modernization Act giving legal status to some agricultural workers.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Baird_(politician)"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Co-sponsors the Dignity Act pairing a legal pathway with stricter enforcement.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Baird_(politician)"
+   },
+   {
+    "topic": "Israel",
+    "point": "Voted to support Israel after the October 2023 Hamas attack.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Baird_(politician)"
+   },
+   {
+    "topic": "Taxes and spending",
+    "point": "Voted for the 2025 reconciliation law extending tax cuts.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation tax-cut law.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation law adding Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 55,
+    "evidence": "Backed the Farm Workforce Modernization Act and cosponsors the Dignity Act, both combining legal status with enforcement.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Baird_(politician)"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Voted to support Israel following the 2023 Hamas attack.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Baird_(politician)"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Voted for the 2025 reconciliation law repealing clean-energy credits; member of the Conservative Climate Caucus.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "The campaign domain listed on Wikipedia (electjimbaird.com) now redirects to an unrelated site, so no campaign website is given."
+ },
+ {
+  "id": "IN-4/drew-cox",
+  "name": "Drew Cox",
+  "party": "Democratic",
+  "current_role": "Visiting instructor at Purdue University",
+  "bio": "Drew Cox is a U.S. Marine Corps veteran who served from 2008 to 2012 and later earned a doctorate in music from the University of Illinois using the GI Bill. He works as a visiting instructor at Purdue University and is the Democratic nominee in Indiana's 4th district.",
+  "website": "https://www.drewcox.org/",
+  "social": {
+   "instagram": "https://www.instagram.com/drewcox4indiana",
+   "facebook": "https://www.facebook.com/profile.php?id=61579390970799",
+   "tiktok": "https://www.tiktok.com/@officialdrewcox"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Supports a single-payer Medicare for All system.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Wants higher tax brackets for the ultra-wealthy and closing corporate loopholes.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Calls for a federal moratorium on AI data centers and green energy for all data centers.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Wants to halt military aid to nations committing violence, including in Gaza.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   {
+    "topic": "Workers",
+    "point": "Supports unions, a higher minimum wage and limits on predatory lending.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Wants ICE held to the same standards as other law enforcement agencies.",
+    "source": "https://www.basedinlafayette.com/p/2026-primary-candidate-q-and-a-us"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Supports higher taxes on the ultra-wealthy, closing corporate loopholes and raising the minimum wage.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Supports single-payer Medicare for All.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Abortion and LGBTQ: says government should respect personal autonomy over bodies and relationships.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 20,
+    "evidence": "Strongly opposes current U.S. foreign policy and wants to halt military aid to nations committing violence.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   "energy": {
+    "score": 75,
+    "evidence": "Wants all data centers to run on green energy.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   "tech": {
+    "score": 85,
+    "evidence": "Supports a federal moratorium on AI data centers.",
+    "source": "https://www.drewcox.org/the-issues"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IN-5/victoria-spartz",
+  "name": "Victoria Spartz",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IN-5",
+  "bio": "Victoria Spartz has represented Indiana's 5th district since 2021 after serving in the Indiana Senate from 2017 to 2020. Born in Ukraine, she holds degrees from Kyiv National Economic University and Indiana University and worked as a certified public accountant, finance executive and real estate broker.",
+  "website": "https://www.spartzforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepSpartz",
+   "instagram": "https://www.instagram.com/spartzforcongress",
+   "facebook": "https://www.facebook.com/spartzforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Limited government",
+    "point": "Campaigns on less government and free-market decisions over bureaucratic control.",
+    "source": "https://www.spartzforcongress.com/"
+   },
+   {
+    "topic": "Debt",
+    "point": "Calls herself a fiscal hawk and has pushed for a commission to manage the national debt.",
+    "source": "https://en.wikipedia.org/wiki/Victoria_Spartz"
+   },
+   {
+    "topic": "Healthcare competition",
+    "point": "Co-sponsored a bipartisan bill giving the FTC more power to limit hospital mergers.",
+    "source": "https://en.wikipedia.org/wiki/Victoria_Spartz"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Supported the Family and Small Business Taxpayer Protection Act.",
+    "source": "https://spartz.house.gov/issues/economy"
+   },
+   {
+    "topic": "Innovation",
+    "point": "Led the bipartisan Patents for Humanity Act, which passed the House.",
+    "source": "https://spartz.house.gov/issues/economy"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Describes herself as a fiscal hawk favouring lower taxes and limited government.",
+    "source": "https://www.spartzforcongress.com/"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Opposes the Affordable Care Act and voted for the 2025 reconciliation law with Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/Victoria_Spartz"
+   },
+   "liberty": {
+    "score": 80,
+    "evidence": "Abortion and guns: endorsed by Indiana Right to Life, SBA Pro-Life, the NRA and Gun Owners of America.",
+    "source": "https://www.spartzforcongress.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Voted for the 2025 reconciliation law that expanded immigration enforcement funding.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "foreign": {
+    "score": 45,
+    "evidence": "Backed early support for Ukraine but voted against the 2024 $60 billion Ukraine aid package; supports U.S.-Israel cooperation.",
+    "source": "https://en.wikipedia.org/wiki/Victoria_Spartz"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation law repealing clean-energy tax credits.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IN-5/j-d-ford",
+  "name": "J. D. Ford",
+  "party": "Democratic",
+  "current_role": "Indiana State Senator for District 29",
+  "bio": "J. D. Ford has served in the Indiana Senate since 2018, where he became the first openly LGBT member of the state legislature and later Senate Democratic caucus chair. Born in Youngstown, Ohio, he holds degrees from the University of Akron and a master's in education from Purdue University Northwest.",
+  "website": "https://www.electjdford.com/",
+  "social": {
+   "x": "https://x.com/jdford4congress",
+   "instagram": "https://www.instagram.com/jdfordforcongress",
+   "facebook": "https://www.facebook.com/jdfordforcongress",
+   "youtube": "https://www.youtube.com/@electjdford"
+  },
+  "platform": [
+   {
+    "topic": "Abortion",
+    "point": "Wants to write Roe v. Wade protections into federal law.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Aims to restore Medicaid funding, support rural hospitals and cap insulin and EpiPen costs.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants to fully fund public schools and opposes private school vouchers.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   {
+    "topic": "Civil rights",
+    "point": "Supports passing the Equality Act and protecting marriage equality.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   {
+    "topic": "Guns",
+    "point": "Backs universal background checks and red flag laws.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   {
+    "topic": "ICE accountability",
+    "point": "Wants body cameras for ICE agents, an end to masked raids and more training.",
+    "source": "https://www.electjdford.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Opposed corporate tax breaks and long abatements for billionaires and voted to end sales tax on utility bills.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Pledges to restore Medicaid funding and cap prescription drug costs.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Abortion, LGBTQ and drugs: backs codifying Roe, the Equality Act and marijuana law reform, alongside universal background checks.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   "security": {
+    "score": 35,
+    "evidence": "Wants body cameras and an end to masked raids for ICE, and mental health crisis response teams.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   "immigration": {
+    "score": 30,
+    "evidence": "Calls for ICE accountability for constitutional violations.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Supports fully funding public schools and opposes private school vouchers.",
+    "source": "https://www.electjdford.com/platform"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:JD Ford, Indy Pride Parade 2023 (2) (cropped).jpg",
+   "license": "CC0",
+   "author": "Dominic (Wikimedia Commons user)"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IN-6/jefferson-shreve",
+  "name": "Jefferson Shreve",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IN-6",
+  "bio": "Jefferson Shreve has represented Indiana's 6th district since 2025 and sits on the Foreign Affairs and Transportation committees. An Indianapolis native, he founded the self-storage company Storage Express, served on the Indianapolis City-County Council, and was the 2023 Republican nominee for Indianapolis mayor.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/repshreve",
+   "instagram": "https://www.instagram.com/repshreve",
+   "facebook": "https://www.facebook.com/RepJeffersonShreve"
+  },
+  "platform": [
+   {
+    "topic": "Border",
+    "point": "Sponsors the Build the Wall Act of 2025.",
+    "source": "https://en.wikipedia.org/wiki/Jefferson_Shreve"
+   },
+   {
+    "topic": "Mining and energy",
+    "point": "Co-sponsored the Protecting Domestic Mining Act to speed permitting and secure critical minerals.",
+    "source": "https://shreve.house.gov/issues/energy"
+   },
+   {
+    "topic": "Energy costs",
+    "point": "Lists lowering energy costs among his early legislative priorities.",
+    "source": "https://shreve.house.gov/issues/energy"
+   },
+   {
+    "topic": "Scams",
+    "point": "Chairs the bipartisan Stop Scams Caucus addressing consumer fraud losses.",
+    "source": "https://shreve.house.gov/issues"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Voted for the 2025 reconciliation law extending tax cuts.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation tax-cut law.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation law adding Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Sponsors the Build the Wall Act of 2025 and voted for expanded enforcement funding.",
+    "source": "https://en.wikipedia.org/wiki/Jefferson_Shreve"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 20,
+    "evidence": "Voted to repeal clean-energy credits and backs faster domestic mining permits for energy independence.",
+    "source": "https://shreve.house.gov/issues/energy"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "As a 2023 mayoral candidate he backed an assault weapons ban and repeal of permitless carry, but no current congressional stance was found, so liberty is left blank. No campaign website was found."
+ }
+]

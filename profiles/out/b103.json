@@ -1,0 +1,854 @@
+[
+ {
+  "id": "WA-6/emily-randall",
+  "name": "Emily Randall",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for WA-6",
+  "bio": "Emily Randall has represented Washington's 6th congressional district since 2025. She previously served in the Washington State Senate from 2019 to 2024 and worked as a healthcare advocate. She was raised in Port Orchard on the Kitsap Peninsula and graduated from Wellesley College.",
+  "website": "https://electemilyrandall.com",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Climate",
+    "point": "Lists fighting climate change as a campaign priority.",
+    "source": "https://electemilyrandall.com/issues/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Focuses on lowering costs for families.",
+    "source": "https://electemilyrandall.com/issues/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Opposes Medicaid cuts and supports investment in rural health care access.",
+    "source": "https://en.wikipedia.org/wiki/Emily_Randall"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Pledges to safeguard access to abortion.",
+    "source": "https://electemilyrandall.com/issues/"
+   },
+   {
+    "topic": "LGBTQ rights",
+    "point": "Co-chairs the Equality Caucus and reintroduced the Equality Act for nondiscrimination protections.",
+    "source": "https://en.wikipedia.org/wiki/Emily_Randall"
+   },
+   {
+    "topic": "Education",
+    "point": "Lists improving education as a priority and opposes school vouchers.",
+    "source": "https://electemilyrandall.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 70,
+    "evidence": "Held town halls opposing proposed Medicaid cuts and supports public health coverage for rural hospitals.",
+    "source": "https://en.wikipedia.org/wiki/Emily_Randall"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Supports abortion access and LGBTQ rights (Equality Act) and backed protections for off-duty cannabis use.",
+    "source": "https://en.wikipedia.org/wiki/Emily_Randall"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Voted against the Laken Riley Act in January 2025.",
+    "source": "https://en.wikipedia.org/wiki/Emily_Randall"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 80,
+    "evidence": "Lists fighting climate change as a top campaign issue.",
+    "source": "https://electemilyrandall.com/issues/"
+   },
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Opposes vouchers for school choice and lists improving public education as a priority.",
+    "source": "https://www.ontheissues.org/House/Emily_Randall.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Campaign social links on her site are redirects and were not recorded."
+ },
+ {
+  "id": "WA-6/teresa-fox",
+  "name": "Teresa Fox",
+  "party": "Republican",
+  "current_role": "Occupational safety professional",
+  "bio": "Teresa Fox is an occupational safety professional from Bremerton, Washington. She launched her campaign for Washington's 6th congressional district in March 2026 and has not previously held elected office according to available sources.",
+  "website": "https://www.foxforwa.com/",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her campaign site showed no policy content when checked, and Ballotpedia could not be read. Her lack of prior office is inferred from limited sources."
+ },
+ {
+  "id": "WA-7/pramila-jayapal",
+  "name": "Pramila Jayapal",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for WA-7",
+  "bio": "Pramila Jayapal has represented Washington's 7th congressional district, covering most of Seattle, since 2017, and chaired the Congressional Progressive Caucus. She served in the Washington State Senate from 2015 to 2017. Before office she founded the immigrant advocacy group OneAmerica and worked in global health and finance; she was born in Chennai, India.",
+  "website": "https://www.pramilaforcongress.com",
+  "social": {
+   "x": "https://x.com/RepJayapal",
+   "instagram": "https://www.instagram.com/repjayapal",
+   "facebook": "https://www.facebook.com/RepJayapal"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Leads the Medicare for All Act to create a single-payer health system.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Proposes a wealth tax on the largest fortunes through the Ultra-Millionaire Tax Act.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   },
+   {
+    "topic": "Housing",
+    "point": "Introduced the Housing is a Human Right Act to expand affordable housing.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   },
+   {
+    "topic": "Education",
+    "point": "Backs the College for All Act to make college tuition-free.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pushes immigration reform and protections for people in immigration detention.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 90,
+    "evidence": "Sponsors the Ultra-Millionaire Tax Act and opposes deficit-financed tax cuts.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Lead sponsor of the Medicare for All Act for single-payer healthcare.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports abortion rights, LGBTQ rights and drug decriminalization.",
+    "source": "https://www.ontheissues.org/House/Pramila_Jayapal.htm"
+   },
+   "security": {
+    "score": 15,
+    "evidence": "Supports police accountability measures and limits on law enforcement powers.",
+    "source": "https://www.ontheissues.org/House/Pramila_Jayapal.htm"
+   },
+   "immigration": {
+    "score": 5,
+    "evidence": "Founded an immigrant advocacy group and backs protections for detained immigrants and legal pathways.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Urged ending U.S. military participation in the Saudi-led war in Yemen under the War Powers Act.",
+    "source": "https://en.wikipedia.org/wiki/Pramila_Jayapal"
+   },
+   "energy": {
+    "score": 95,
+    "evidence": "Supports the Green New Deal and rapid climate action.",
+    "source": "https://www.ontheissues.org/House/Pramila_Jayapal.htm"
+   },
+   "tech": {
+    "score": 75,
+    "evidence": "Supports net neutrality rules.",
+    "source": "https://www.ontheissues.org/House/Pramila_Jayapal.htm"
+   },
+   "education": {
+    "score": 70,
+    "evidence": "Introduced the College for All Act for tuition-free public college.",
+    "source": "https://www.pramilaforcongress.com/bio"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5a81d2a0cf81e06097218da5/1593812961159-BMZ6WOCUNYL0VTDF8LMS/Pramila%2BJayapal%2BPhoto.jpg",
+  "notes": ""
+ },
+ {
+  "id": "WA-7/nirav-sheth",
+  "name": "Nirav Sheth",
+  "party": "Republican",
+  "current_role": "Small-business owner",
+  "bio": "Nirav Sheth is a Pierce County business owner who immigrated from India in 2008 to study engineering. He served four years in the U.S. Marines and later worked as a Lakewood police officer from 2017. He ran for Washington's 10th district in 2024.",
+  "website": "https://shethforcongress.com/",
+  "social": {
+   "x": "https://x.com/_NiravSheth_",
+   "instagram": "https://instagram.com/niravshethme",
+   "facebook": "https://facebook.com/niravshethme"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Opposes capital gains, estate and income taxes and wants a balanced budget without tax increases.",
+    "source": "https://shethforcongress.com/issues/affordability-economy-employment/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Prioritizes support for police and emergency services.",
+    "source": "https://shethforcongress.com/issues/public-safety/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Wants secure borders plus a streamlined legal immigration process for workers.",
+    "source": "https://shethforcongress.com/issues/immigration/"
+   },
+   {
+    "topic": "Education",
+    "point": "Backs scholarship tax credits, parental notification policies and a curriculum focused on core subjects.",
+    "source": "https://shethforcongress.com/issues/education-and-local-control/"
+   },
+   {
+    "topic": "Energy costs",
+    "point": "Calls for an audit of the Climate Commitment Act's impact on consumers.",
+    "source": "https://shethforcongress.com/issues/affordability-economy-employment/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Opposes capital gains, estate, income and fuel taxes and calls for lower taxes and fewer regulations.",
+    "source": "https://shethforcongress.com/issues/affordability-economy-employment/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 70,
+    "evidence": "Former police officer who prioritizes backing law enforcement and emergency services.",
+    "source": "https://shethforcongress.com/"
+   },
+   "immigration": {
+    "score": 50,
+    "evidence": "Supports securing the border while streamlining legal immigration for workers.",
+    "source": "https://shethforcongress.com/issues/immigration/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 35,
+    "evidence": "Supports scholarship tax credits and parental rights policies while calling for higher K-12 funding.",
+    "source": "https://shethforcongress.com/issues/education-and-local-control/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://shethforcongress.com/wp-content/uploads/2023/08/meet-nirav.jpg",
+  "notes": ""
+ },
+ {
+  "id": "WA-8/kim-schrier",
+  "name": "Kim Schrier",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for WA-8",
+  "bio": "Kim Schrier, a pediatrician, has represented Washington's 8th congressional district since 2019. Before Congress she practiced medicine. She was raised in Los Angeles and holds degrees from UC Berkeley and the UC Davis School of Medicine.",
+  "website": "https://www.drkimschrier.com/",
+  "social": {
+   "x": "https://twitter.com/DrKimSchrier",
+   "facebook": "https://www.facebook.com/DrKimSchrier/",
+   "youtube": "https://www.youtube.com/@Dr.KimSchrierforCongress"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Wants large corporations to pay more in taxes without raising middle-class taxes, and targets corporate price gouging.",
+    "source": "https://www.drkimschrier.com/economy/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Highlights the $35 insulin cap and lower prescription drug costs.",
+    "source": "https://www.drkimschrier.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports free universal pre-K and expanded school meals.",
+    "source": "https://www.drkimschrier.com/education/"
+   },
+   {
+    "topic": "Tech",
+    "point": "Led a bill to protect children's data from large tech companies.",
+    "source": "https://www.drkimschrier.com/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Worked to restore Forest Service wildland firefighter positions and protect public lands.",
+    "source": "https://www.drkimschrier.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Wants the wealthiest corporations to pay more in taxes and opposed the Kroger-Albertsons merger.",
+    "source": "https://www.drkimschrier.com/economy/"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Supports a Medicare buy-in and universal free pre-K.",
+    "source": "https://www.drkimschrier.com/education/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Supports abortion rights, the Equality Act and limits on assault weapons.",
+    "source": "https://www.ontheissues.org/House/Kim_Schrier.htm"
+   },
+   "security": {
+    "score": 35,
+    "evidence": "Supports police accountability measures.",
+    "source": "https://www.ontheissues.org/House/Kim_Schrier.htm"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports a pathway to citizenship, though she voted for the Laken Riley Act in 2025.",
+    "source": "https://www.ontheissues.org/House/Kim_Schrier.htm"
+   },
+   "foreign": {
+    "score": 45,
+    "evidence": "Has backed war powers resolutions limiting unauthorized military action.",
+    "source": "https://www.ontheissues.org/House/Kim_Schrier.htm"
+   },
+   "energy": {
+    "score": 85,
+    "evidence": "Supports a transition to 100% clean energy.",
+    "source": "https://www.ontheissues.org/House/Kim_Schrier.htm"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Led legislation to protect children's data from Big Tech.",
+    "source": "https://www.drkimschrier.com/"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Calls for free universal pre-K and expanded public school meal programs.",
+    "source": "https://www.drkimschrier.com/education/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://www.drkimschrier.com/wp-content/uploads/2024/09/AboutKim.jpg",
+  "notes": ""
+ },
+ {
+  "id": "WA-8/spencer-meline",
+  "name": "Spencer Meline",
+  "party": "Republican",
+  "current_role": "Small-business owner",
+  "bio": "Spencer Meline is a small-business owner born and raised in Washington State. He is running for Washington's 8th congressional district and has no prior elected office listed in available sources.",
+  "website": "https://www.melineforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/melineforcongress/",
+   "facebook": "https://www.facebook.com/melineforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Small business",
+    "point": "Wants to lower costs and remove regulatory barriers for local businesses.",
+    "source": "https://www.melineforcongress.com/priorities"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Calls for fiscal restraint and limits on large investors buying single-family homes.",
+    "source": "https://www.melineforcongress.com/priorities"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Supports well-funded, well-trained law enforcement and action on fentanyl and repeat offenders.",
+    "source": "https://www.melineforcongress.com/priorities"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Favors active forest management, wildfire risk reduction and public access.",
+    "source": "https://www.melineforcongress.com/priorities"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Wants a secure border while keeping a stable legal workforce for farms and ranches.",
+    "source": "https://www.melineforcongress.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 65,
+    "evidence": "Supports properly funded law enforcement with the tools it needs.",
+    "source": "https://www.melineforcongress.com/priorities"
+   },
+   "immigration": {
+    "score": 60,
+    "evidence": "Prioritizes border security against trafficking while supporting legal farm labor.",
+    "source": "https://www.melineforcongress.com/priorities"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Supports parental rights in education.",
+    "source": "https://www.melineforcongress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://cdn.prod.website-files.com/6a039d746f415ed9d732b21a/6a0d3f104322eac0caa7131e_spencer-meline-headshot-cropped.png",
+  "notes": "Security score added from his public safety priority."
+ },
+ {
+  "id": "WA-9/adam-smith",
+  "name": "Adam Smith",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for WA-9",
+  "bio": "Adam Smith has represented Washington's 9th congressional district since 1997 and is the ranking Democrat on the House Armed Services Committee, which he chaired from 2019 to 2022. He served in the Washington State Senate from 1991 and worked as a Seattle prosecutor. He was raised in SeaTac and graduated from the University of Washington School of Law.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepAdamSmith",
+   "facebook": "https://www.facebook.com/RepAdamSmith",
+   "youtube": "https://www.youtube.com/CongressmanAdamSmith",
+   "instagram": "https://www.instagram.com/repadamsmith"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Introduced a bill requiring hedge funds to sell off single-family homes over ten years.",
+    "source": "https://en.wikipedia.org/wiki/Adam_Smith_(Washington_politician)"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Supports the Affordable Care Act to expand access to coverage.",
+    "source": "https://adamsmith.house.gov/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Calls for comprehensive reform of legal immigration and asylum processes.",
+    "source": "https://adamsmith.house.gov/issues"
+   },
+   {
+    "topic": "Climate",
+    "point": "Wants to move away from fossil fuels and decarbonize the economy.",
+    "source": "https://adamsmith.house.gov/issues"
+   },
+   {
+    "topic": "Defense",
+    "point": "Prioritizes military readiness and quality care and benefits for veterans.",
+    "source": "https://adamsmith.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Introduced the End Hedge Fund Control of American Homes Act and supports workers' organizing rights.",
+    "source": "https://en.wikipedia.org/wiki/Adam_Smith_(Washington_politician)"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Supports the Affordable Care Act and expanded coverage.",
+    "source": "https://adamsmith.house.gov/issues"
+   },
+   "liberty": null,
+   "security": {
+    "score": 65,
+    "evidence": "Voted for the Patriot Act and the 2008 FISA Amendments Act.",
+    "source": "https://en.wikipedia.org/wiki/Adam_Smith_(Washington_politician)"
+   },
+   "immigration": {
+    "score": 30,
+    "evidence": "Supports comprehensive immigration reform and backs documented and undocumented immigrants.",
+    "source": "https://adamsmith.house.gov/issues"
+   },
+   "foreign": {
+    "score": 80,
+    "evidence": "Longtime Armed Services leader who warns defense cuts would weaken national security.",
+    "source": "https://en.wikipedia.org/wiki/Adam_Smith_(Washington_politician)"
+   },
+   "energy": {
+    "score": 90,
+    "evidence": "Calls climate change urgent and supports decarbonizing all sectors.",
+    "source": "https://adamsmith.house.gov/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 75,
+    "evidence": "Calls for more public investment from early childhood through higher education.",
+    "source": "https://adamsmith.house.gov/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "No campaign website was confirmed."
+ },
+ {
+  "id": "WA-9/doug-basler",
+  "name": "Doug Basler",
+  "party": "Republican",
+  "current_role": "Owner of Prologue Digital",
+  "bio": "Doug Basler founded and runs Prologue Digital, an advertising and video production company, and has worked in media and marketing since 1990. He has been vice chair of the King County Republican Party and president of the Eastside Republican Club. He has run for this seat in several previous elections.",
+  "website": "https://www.dougbasler.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Focuses on rising housing, grocery and tax costs for families.",
+    "source": "https://www.dougbasler.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Wants to widen opportunity for entrepreneurship, homeownership and career advancement.",
+    "source": "https://www.dougbasler.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Wants compassion for people in crisis combined with accountability for crime.",
+    "source": "https://www.dougbasler.com/"
+   },
+   {
+    "topic": "Energy costs",
+    "point": "Opposes the Climate Commitment Act and high gas taxes over their effect on costs.",
+    "source": "https://www.dougbasler.com/about/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Criticizes rising taxes and regulation and favors business-friendly policies.",
+    "source": "https://www.dougbasler.com/about/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 25,
+    "evidence": "Opposes Washington's Climate Commitment Act, citing higher energy costs.",
+    "source": "https://www.dougbasler.com/about/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Energy score added from his stated opposition to the Climate Commitment Act."
+ },
+ {
+  "id": "WA-10/marilyn-strickland",
+  "name": "Marilyn Strickland",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for WA-10",
+  "bio": "Marilyn Strickland has represented Washington's 10th congressional district since 2021. She was mayor of Tacoma from 2010 to 2018. Born in Seoul, she grew up in Tacoma after her father, an Army serviceman, was stationed at Fort Lewis.",
+  "website": "https://www.stricklandforwashington.com",
+  "social": {
+   "x": "https://x.com/RepStricklandWA",
+   "facebook": "https://www.facebook.com/RepStricklandWA",
+   "instagram": "https://www.instagram.com/repstricklandwa"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Focuses on lowering costs, creating jobs, building housing and repairing infrastructure.",
+    "source": "https://www.stricklandforwashington.com/priorities/"
+   },
+   {
+    "topic": "Workforce",
+    "point": "Supports training in nursing, health care, teaching and the trades.",
+    "source": "https://www.stricklandforwashington.com/priorities/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Opposes cuts to health coverage and wants to protect Medicare.",
+    "source": "https://www.stricklandforwashington.com/priorities/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Promotes expanded renewable energy.",
+    "source": "https://www.stricklandforwashington.com/priorities/"
+   },
+   {
+    "topic": "Military families",
+    "point": "Led bipartisan work on food insecurity and housing for military families.",
+    "source": "https://www.stricklandforwashington.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 75,
+    "evidence": "Supports expanding the Affordable Care Act and paid family leave.",
+    "source": "https://www.ontheissues.org/House/Marilyn_Strickland.htm"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Supports abortion rights and background checks on private gun sales.",
+    "source": "https://www.ontheissues.org/House/Marilyn_Strickland.htm"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Sponsored police accountability measures.",
+    "source": "https://www.ontheissues.org/House/Marilyn_Strickland.htm"
+   },
+   "immigration": {
+    "score": 20,
+    "evidence": "Sponsored bills creating citizenship pathways and opposing religion-based entry bans.",
+    "source": "https://www.ontheissues.org/House/Marilyn_Strickland.htm"
+   },
+   "foreign": {
+    "score": 50,
+    "evidence": "Favors repealing the 2002 Iraq war authorization while working on military community issues.",
+    "source": "https://www.ontheissues.org/House/Marilyn_Strickland.htm"
+   },
+   "energy": {
+    "score": 85,
+    "evidence": "Supports greenhouse gas limits and renewable energy expansion.",
+    "source": "https://www.ontheissues.org/House/Marilyn_Strickland.htm"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "WA-10/chris-d-chung",
+  "name": "Chris D. Chung",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Chris D. Chung is the Republican nominee for Washington's 10th congressional district. He ran for Washington insurance commissioner as a Democrat in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or policy statements were found, and Ballotpedia could not be read."
+ },
+ {
+  "id": "WV-1/carol-miller",
+  "name": "Carol Miller",
+  "party": "Republican",
+  "current_role": "U.S. Representative for WV-1",
+  "bio": "Carol Miller has represented West Virginia's 1st congressional district since 2023, after representing the 3rd district from 2019 to 2023. She served in the West Virginia House of Delegates from 2007 to 2019. She is a former educator and farmer from Huntington.",
+  "website": "https://www.electcarolmiller.com/",
+  "social": {
+   "x": "https://x.com/RepCarolMiller",
+   "facebook": "https://www.facebook.com/carolforcongress/"
+  },
+  "platform": [
+   {
+    "topic": "Energy",
+    "point": "Pledges to protect West Virginia's coal and natural gas industries.",
+    "source": "https://www.electcarolmiller.com/"
+   },
+   {
+    "topic": "Jobs and education",
+    "point": "Lists funding education and creating jobs as priorities.",
+    "source": "https://www.electcarolmiller.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Supports farmers and small businesses.",
+    "source": "https://www.electcarolmiller.com/"
+   },
+   {
+    "topic": "Opioids",
+    "point": "Aims to end the opioid epidemic.",
+    "source": "https://www.electcarolmiller.com/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Pledges to defend Second Amendment rights.",
+    "source": "https://www.electcarolmiller.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Wants the federal income tax cuts made permanent.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Supports making federal tax cuts permanent and opposes tax increases to balance the budget.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Supports repealing the Affordable Care Act.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Opposes abortion and opposes gun bans and background-check expansion.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   },
+   "security": null,
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports building a border wall and opposes sanctuary cities.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Supports defending Israel and military options against Iran.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Describes herself as pro-coal and opposes greenhouse gas regulation and renewable subsidies.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 25,
+    "evidence": "Opposes federal education standards and tuition-free public college.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   },
+   "faith": {
+    "score": 90,
+    "evidence": "Supports voluntary school prayer and religious student groups.",
+    "source": "https://www.ontheissues.org/House/Carol_Miller.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Security score (previously 60) set to null because no supporting evidence was found."
+ },
+ {
+  "id": "WV-1/vince-george",
+  "name": "Vince George",
+  "party": "Democratic",
+  "current_role": "Former teacher and community advocate",
+  "bio": "Vince George is a former teacher and community advocate running for West Virginia's 1st congressional district. His campaign is based in South Charleston, and he has not held elected office according to available sources.",
+  "website": "https://www.vincegeorgeforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Wants to expand affordable coverage, including a Medicare for All option, and opposes Medicaid and Medicare cuts.",
+    "source": "https://www.vincegeorgeforcongress.com/"
+   },
+   {
+    "topic": "Wages",
+    "point": "Proposes doubling the federal minimum wage.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   },
+   {
+    "topic": "Water",
+    "point": "Wants every West Virginian to have clean water.",
+    "source": "https://www.vincegeorgeforcongress.com/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Wants to end long-running wars and shift some military spending to domestic needs.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Wants communities to be able to veto where data centers are built.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Proposes doubling the federal minimum wage.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Supports a Medicare for All option and opposes Medicaid and Medicare cuts.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports enforcement but opposes ICE practices he views as violating due process.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Opposes forever wars and proposes cutting military spending by 1% for domestic needs.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   },
+   "energy": {
+    "score": 55,
+    "evidence": "Supports renewable expansion and holding coal companies liable while backing miners.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   },
+   "tech": {
+    "score": 70,
+    "evidence": "Supports local community veto power over data center placement.",
+    "source": "https://www.vincegeorgeforcongress.com/issues"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/e5350a_716756df71954c82b89f6ca5bfaa7971~mv2.jpg",
+  "notes": ""
+ }
+]

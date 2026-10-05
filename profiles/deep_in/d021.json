@@ -1,0 +1,668 @@
+[
+ {
+  "id": "TX-25/dione-sims",
+  "name": "Dione Sims",
+  "party": "Democratic",
+  "race": "TX-25",
+  "race_label": "Texas · US House TX-25",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TX-25/dione-sims",
+   "name": "Dione Sims",
+   "party": "Democratic",
+   "current_role": "Nonprofit founder and IT professional",
+   "bio": "Dione Sims founded Unity Unlimited, Inc., a Fort Worth nonprofit focused on unity and educational opportunity, in 2000 and has worked as a software quality manager. Since 2015 she has co-produced Fort Worth's annual Juneteenth celebration, and her campaign highlights her grandmother, Dr. Opal Lee. She is a Texas Wesleyan University graduate and won the 2026 Democratic primary for Texas' 25th District.",
+   "website": "https://dionesimsforcongress.com",
+   "social": {
+    "x": "https://x.com/DioneSims365",
+    "instagram": "https://instagram.com/dionesimsforcongress",
+    "facebook": "https://www.facebook.com/61586174535447/",
+    "tiktok": "https://tiktok.com/@dionesimsforcongress"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Would push Texas to close its coverage gap through ACA Medicaid expansion and lower prescription drug costs.",
+     "source": "https://dionesimsforcongress.com/issues"
+    },
+    {
+     "topic": "Rural health",
+     "point": "Plans to protect rural and community health care and make private insurance more affordable.",
+     "source": "https://dionesimsforcongress.com/issues"
+    },
+    {
+     "topic": "Childcare",
+     "point": "Proposes making childcare cheaper, expanding supply and employer-supported care, and strengthening Head Start and pre-K partnerships.",
+     "source": "https://dionesimsforcongress.com/issues"
+    },
+    {
+     "topic": "Technology",
+     "point": "Supports AI leadership with guardrails and a meaningful local say over large data center projects.",
+     "source": "https://dionesimsforcongress.com/issues"
+    },
+    {
+     "topic": "Ethics",
+     "point": "Pledges bipartisan oversight of corruption and stronger financial disclosure and insider-trading safeguards for officials.",
+     "source": "https://dionesimsforcongress.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 70,
+     "evidence": "Backs Medicaid expansion in Texas, cheaper private insurance and broader, more affordable childcare.",
+     "source": "https://dionesimsforcongress.com/issues"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": {
+     "score": 65,
+     "evidence": "Calls for responsible guardrails on AI and data centers, including community input and protections for workers and personal data.",
+     "source": "https://dionesimsforcongress.com/issues"
+    },
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Economy score of 65 removed because the current issues page no longer shows the wage and retirement proposals it was based on. Some coverage calls her Opal Lee's daughter, but her campaign site says granddaughter."
+  }
+ },
+ {
+  "id": "TX-30/everett-jackson",
+  "name": "Everett Jackson",
+  "party": "Republican",
+  "race": "TX-30",
+  "race_label": "Texas · US House TX-30",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education"
+  ],
+  "profile": {
+   "id": "TX-30/everett-jackson",
+   "name": "Everett Jackson",
+   "party": "Republican",
+   "current_role": "Small-business owner and community organizer",
+   "bio": "Everett Jackson is a Dallas-area small-business owner and community organizer with no prior elected office. He won the 2026 Republican nomination for Texas's 30th Congressional District after a primary runoff.",
+   "website": "",
+   "social": {
+    "x": "https://x.com/Jackson4Texas"
+   },
+   "platform": [
+    {
+     "topic": "Jobs",
+     "point": "Prioritises job growth in the district.",
+     "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"
+    },
+    {
+     "topic": "National security",
+     "point": "Strengthen national security against drug cartels.",
+     "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"
+    },
+    {
+     "topic": "Religious freedom",
+     "point": "Protect religious freedom.",
+     "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"
+    },
+    {
+     "topic": "Families",
+     "point": "Increase the child tax credit.",
+     "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"
+    },
+    {
+     "topic": "Federal spending",
+     "point": "Make DOGE spending cuts permanent.",
+     "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Calls for making DOGE federal spending cuts permanent while also supporting a larger child tax credit.",
+     "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": {
+     "score": 70,
+     "evidence": "Lists protecting religious freedom among his campaign priorities.",
+     "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"
+    }
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "The campaign site listed by iVoterGuide (jacksonfortexas.com) showed no content, so it was left blank."
+  }
+ },
+ {
+  "id": "TX-37/lauren-pena",
+  "name": "Lauren Peña",
+  "party": "Republican",
+  "race": "TX-37",
+  "race_label": "Texas · US House TX-37",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "faith"
+  ],
+  "profile": {
+   "id": "TX-37/lauren-pena",
+   "name": "Lauren Peña",
+   "party": "Republican",
+   "current_role": "Anti-trafficking advocate",
+   "bio": "Lauren B. Peña is a conservative raised in Austin who describes herself as a human trafficking survivor and a mother of six. She won the 2026 Republican primary runoff for TX-37.",
+   "website": "https://www.lauren4congress.com/",
+   "social": {
+    "x": "https://x.com/lauren4congress",
+    "facebook": "https://www.facebook.com/lauren4texas",
+    "tiktok": "https://www.tiktok.com/@lauren4congress"
+   },
+   "platform": [
+    {
+     "topic": "Human trafficking",
+     "point": "Pass her SAFE NIGHTS Act requiring trafficking training and reporting at nightlife and hospitality venues.",
+     "source": "https://www.lauren4congress.com/"
+    },
+    {
+     "topic": "Congressional accountability",
+     "point": "Pass her SODA Act to end congressional immunity for sexual misconduct.",
+     "source": "https://www.lauren4congress.com/"
+    },
+    {
+     "topic": "Government waste",
+     "point": "End corruption and waste in the federal government.",
+     "source": "https://www.lauren4congress.com/"
+    },
+    {
+     "topic": "Energy",
+     "point": "Lower energy costs.",
+     "source": "https://www.lauren4congress.com/"
+    },
+    {
+     "topic": "Parental rights",
+     "point": "Advance parental rights.",
+     "source": "https://www.lauren4congress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {
+     "score": 25,
+     "evidence": "Lists parental rights among her main campaign priorities.",
+     "source": "https://www.lauren4congress.com/"
+    },
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663450394445/BJQRmbhGNXZEirYx.jpg",
+   "notes": "Her platform comes from summaries on her campaign site, which gives little detail. The X handle comes from the site's metadata."
+  }
+ },
+ {
+  "id": "TX-9/leticia-gutierrez",
+  "name": "Leticia Gutierrez",
+  "party": "Democratic",
+  "race": "TX-9",
+  "race_label": "Texas · US House TX-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TX-9/leticia-gutierrez",
+   "name": "Leticia Gutierrez",
+   "party": "Democratic",
+   "current_role": "Community organizer",
+   "bio": "Leticia Gutierrez is a Houston advocate and organizer with about 15 years of experience on community issues. Her work has focused on environmental justice and immigrant rights. She is the Democratic nominee for Texas's 9th Congressional District.",
+   "website": "https://www.leticiaforcongress.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/leticiaforcongress",
+    "facebook": "https://www.facebook.com/people/Leticia-for-Congress/61584859186530/"
+   },
+   "platform": [
+    {
+     "topic": "Environmental justice",
+     "point": "Fight industrial pollution that harms children's health in Houston neighborhoods.",
+     "source": "https://www.leticiaforcongress.com/"
+    },
+    {
+     "topic": "Immigrant rights",
+     "point": "Protect the safety and dignity of immigrant communities.",
+     "source": "https://www.leticiaforcongress.com/"
+    },
+    {
+     "topic": "Accountability",
+     "point": "Demand answers and justice in cases such as deaths involving ICE.",
+     "source": "https://www.leticiaforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 20,
+     "evidence": "Advocates for immigrant community safety and accountability for ICE.",
+     "source": "https://www.leticiaforcongress.com/"
+    },
+    "foreign": null,
+    "energy": {
+     "score": 75,
+     "evidence": "Campaigns against industrial pollution as an environmental-justice advocate.",
+     "source": "https://www.leticiaforcongress.com/"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://run.imgix.net/4d72b752-79c6-4861-b1de-7b514e4e8935/f3c8e6db-4983-4928-8071-f72e0117bba7/f3c8e6db-4983-4928-8071-f72e0117bba7.jpg",
+   "notes": ""
+  }
+ },
+ {
+  "id": "UT-1/riley-owen",
+  "name": "Riley Owen",
+  "party": "Republican",
+  "race": "UT-1",
+  "race_label": "Utah · US House UT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "UT-1/riley-owen",
+   "name": "Riley Owen",
+   "party": "Republican",
+   "current_role": "Navy Reserve intelligence officer",
+   "bio": "Riley Owen won the Utah Republican convention nomination for the redrawn 1st Congressional District in April 2026. He studied international affairs and public policy at Princeton and Oxford, worked as a White House policy analyst and in tech startups, and led the conservative group Doers Network. He serves as an intelligence officer in the Navy Reserve.",
+   "website": "https://www.utahriley.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/utahriley/",
+    "facebook": "https://www.facebook.com/people/Riley-Owen-for-Utah/61588417742948/",
+    "youtube": "https://www.youtube.com/@utahriley"
+   },
+   "platform": [
+    {
+     "topic": "Families",
+     "point": "Expand tax credits for businesses that offer six weeks of paid maternity leave.",
+     "source": "https://www.utahriley.com/issues"
+    },
+    {
+     "topic": "Housing",
+     "point": "Tie federal funding for localities to zoning reforms that allow more housing.",
+     "source": "https://www.utahriley.com/issues"
+    },
+    {
+     "topic": "Kids online",
+     "point": "Require age verification and limit social media use for users under 16.",
+     "source": "https://www.deseret.com/politics/2026/08/11/utah-republican-trying-to-win-states-new-blue-district/"
+    },
+    {
+     "topic": "Government reform",
+     "point": "Ban stock trading by members and staff, set congressional term limits and overturn Citizens United.",
+     "source": "https://www.utahriley.com/issues"
+    },
+    {
+     "topic": "Defense",
+     "point": "Cut military costs by prioritizing unmanned systems over legacy platforms.",
+     "source": "https://www.utahriley.com/issues"
+    },
+    {
+     "topic": "Great Salt Lake",
+     "point": "Bring stakeholders together on Great Salt Lake conservation and expand state authority over public lands.",
+     "source": "https://www.utahriley.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 40,
+     "evidence": "Favors fiscal restraint and market solutions, plus targeted tax credits for paid maternity leave.",
+     "source": "https://www.deseret.com/politics/2026/08/11/utah-republican-trying-to-win-states-new-blue-district/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": {
+     "score": 70,
+     "evidence": "Proposes age verification and social media limits for minors under 16.",
+     "source": "https://www.utahriley.com/issues"
+    },
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "His immigration plank is general (rule of law plus a modernized system), so no immigration score was set."
+  }
+ },
+ {
+  "id": "UT-4/jonny-larsen",
+  "name": "Jonny Larsen",
+  "party": "Democratic",
+  "race": "UT-4",
+  "race_label": "Utah · US House UT-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "UT-4/jonny-larsen",
+   "name": "Jonny Larsen",
+   "party": "Democratic",
+   "current_role": "Former U.S. Marine Corps sergeant",
+   "bio": "Jonny Larsen is a former U.S. Marine Corps sergeant and the Democratic nominee for Utah's 4th Congressional District. He describes himself as a Blue Dog Democrat focused on working families and bipartisan cooperation.",
+   "website": "https://jonnyutah4congress.com/",
+   "social": {
+    "x": "https://x.com/vote4jonnyutah",
+    "instagram": "https://www.instagram.com/jonnyutah4congress",
+    "facebook": "https://www.facebook.com/jonnyutah4congress",
+    "tiktok": "https://www.tiktok.com/@jonnyutah4congress",
+    "youtube": "https://www.youtube.com/@jonnyutah4congress"
+   },
+   "platform": [
+    {
+     "topic": "Childcare",
+     "point": "Make childcare affordable for single parents and working families.",
+     "source": "https://jonnyutah4congress.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Ensure seniors and working families can afford health coverage.",
+     "source": "https://jonnyutah4congress.com/"
+    },
+    {
+     "topic": "Public lands",
+     "point": "Keep public lands under public stewardship.",
+     "source": "https://jonnyutah4congress.com/"
+    },
+    {
+     "topic": "Agriculture",
+     "point": "Support Utah farmers and ranchers.",
+     "source": "https://jonnyutah4congress.com/"
+    },
+    {
+     "topic": "Bipartisanship",
+     "point": "Work across party lines on the issues most Americans agree on.",
+     "source": "https://jonnyutah4congress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 60,
+     "evidence": "Calls for affordable childcare and health coverage that seniors and working families can afford.",
+     "source": "https://jonnyutah4congress.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://jonnyutah4congress.com/images/hero/jonny-landing-page-image.webp?v=1",
+   "notes": ""
+  }
+ },
+ {
+  "id": "VA-8/tony-sabio",
+  "name": "Tony Sabio",
+  "party": "Republican",
+  "race": "VA-8",
+  "race_label": "Virginia · US House VA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VA-8/tony-sabio",
+   "name": "Tony Sabio",
+   "party": "Republican",
+   "current_role": "Navy veteran and former CIA officer",
+   "bio": "Tony Sabio served in the U.S. Navy from 1996 to 2012 and later worked for the Secret Service and the CIA, as well as in the private sector. He was born in San Juan, Puerto Rico, grew up in San Diego and has lived in Virginia since 2002. He won the Republican nomination for Virginia's 8th District unopposed.",
+   "website": "https://sabioforcongress.com/",
+   "social": {
+    "x": "https://www.x.com/tony_sabio",
+    "facebook": "https://www.facebook.com/Sabioforcongress"
+   },
+   "platform": [
+    {
+     "topic": "Energy",
+     "point": "Proposes an Energy Affordability and American Power Act to expand small modular reactors and make large energy users fund new generation.",
+     "source": "https://sabioforcongress.com/energy-%26-power"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Proposes an American Jobs and Opportunity Act to create jobs not dependent on the federal government.",
+     "source": "https://sabioforcongress.com/"
+    },
+    {
+     "topic": "Small business",
+     "point": "Proposes a Small Business First Act to protect and grow local small businesses.",
+     "source": "https://sabioforcongress.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Proposes a Safe Communities and Secure America Act focused on community safety and national security.",
+     "source": "https://sabioforcongress.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Proposes an American Health Freedom Plan as one of his five campaign pillars.",
+     "source": "https://sabioforcongress.com/"
+    },
+    {
+     "topic": "Immigration enforcement",
+     "point": "Says ICE needs more accountability but should not be abolished.",
+     "source": "https://www.arlnow.com/2026/09/15/rep-beyer-debates-challengers-on-ice-data-centers-trumps-triumphal-arch/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 45,
+     "evidence": "His energy plan centers on small modular nuclear reactors, grid upgrades and protecting ratepayers from data center power costs.",
+     "source": "https://sabioforcongress.com/energy-%26-power"
+    },
+    "tech": {
+     "score": 35,
+     "evidence": "Cautioned against fear-driven responses to AI and data centers, saying new technology should not be rejected in advance.",
+     "source": "https://www.arlnow.com/2026/09/15/rep-beyer-debates-challengers-on-ice-data-centers-trumps-triumphal-arch/"
+    },
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://img1.wsimg.com/isteam/ip/e4eb0669-e209-4f06-ac79-80b42da8e2de/IMG_7944.jpeg",
+   "notes": "Campaign planks are named bills with little published detail. He describes himself as a Reagan-style conservative guided by his Christian faith and the Constitution."
+  }
+ },
+ {
+  "id": "VA-SEN/bert-mizusawa",
+  "name": "Bert Mizusawa",
+  "party": "Republican",
+  "race": "VA-SEN",
+  "race_label": "Virginia · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VA-SEN/bert-mizusawa",
+   "name": "Bert Mizusawa",
+   "party": "Republican",
+   "current_role": "Retired U.S. Army major general",
+   "bio": "Bert Mizusawa is a retired U.S. Army major general who served from 1979 to 2015, including command of the Joint Security Force in Korea. A West Point and Harvard Law graduate, he worked as an attorney, Senate Armed Services Committee staffer and at the CIA. Born in Honolulu and based in Hampton, Virginia, he previously ran for Congress in 2010.",
+   "website": "https://bertforsenate.com",
+   "social": {
+    "x": "https://x.com/GenBert2026",
+    "instagram": "https://www.instagram.com/bertforsenate2026/",
+    "facebook": "https://www.facebook.com/BertForSenate2026/"
+   },
+   "platform": [
+    {
+     "topic": "Budget",
+     "point": "Balance the federal budget and reverse the growth of national debt.",
+     "source": "https://bertforsenate.com/issues"
+    },
+    {
+     "topic": "Affordability",
+     "point": "Cut taxes, including taxes on home sales, to lower costs for Virginia families.",
+     "source": "https://bertforsenate.com/issues"
+    },
+    {
+     "topic": "Ethics",
+     "point": "Ban stock trading by members of Congress.",
+     "source": "https://bertforsenate.com/issues"
+    },
+    {
+     "topic": "Health care",
+     "point": "Hold insurance companies accountable and fund rural hospitals.",
+     "source": "https://bertforsenate.com/issues"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Protect veteran benefits and expand health care access for service members.",
+     "source": "https://bertforsenate.com/issues"
+    },
+    {
+     "topic": "Energy",
+     "point": "Expand nuclear power as a clean and reliable energy source.",
+     "source": "https://bertforsenate.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Campaign calls for a balanced budget and lower taxes, including on home sales.",
+     "source": "https://bertforsenate.com/issues"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 45,
+     "evidence": "Promotes new nuclear power as a clean, reliable source.",
+     "source": "https://bertforsenate.com/issues"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Mizusawa.jpg",
+    "license": "Public domain",
+    "author": "William Pratt, U.S. Army"
+   },
+   "campaign_photo": "",
+   "notes": ""
+  }
+ }
+]

@@ -1,0 +1,452 @@
+[
+ {
+  "id": "VA-5/cooke-harvey",
+  "name": "Cooke Harvey",
+  "party": "Independent",
+  "current_role": "Carpenter",
+  "bio": "Cooke Costa Harvey is an independent candidate for Virginia's 5th District and works as a carpenter. His campaign, Cooke for Congress, says it accepts no donations and frames his run as an effort to reduce political extremism. Little other public information about his background is available.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/p/Cooke-Costa-Harvey-Independent-for-US-Congress-Virginias-5th-61585784802359/",
+   "youtube": "https://www.youtube.com/@cooke.c.harvey.for.congress"
+  },
+  "platform": [
+   {
+    "topic": "Campaign finance",
+    "point": "Lists campaign finance reform as a priority.",
+    "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"
+   },
+   {
+    "topic": "Term limits",
+    "point": "Supports congressional term limits.",
+    "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"
+   },
+   {
+    "topic": "AI",
+    "point": "Calls for regulating artificial intelligence.",
+    "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"
+   },
+   {
+    "topic": "Campaign funding",
+    "point": "Says his campaign accepts no donations and relied on voter petition signatures to reach the ballot.",
+    "source": "https://www.youtube.com/@cooke.c.harvey.for.congress"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "General statement: lists regulating artificial intelligence as a priority, without specifics.",
+    "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched his YouTube channel, Cardinal News and local coverage; the Virginia Mercury guide blocks automated access and his Facebook page requires login. Positions beyond campaign finance, term limits and AI regulation remain unknown."
+ },
+ {
+  "id": "VA-7/taner-demirci-lopez",
+  "name": "Taner Demirci Lopez",
+  "party": "Libertarian",
+  "current_role": "Former cultural advisor to U.S. government agencies",
+  "bio": "Taner Demirci Lopez is the Libertarian candidate for Virginia's 7th District. He studied Spanish language and literature, then earned a master's in religions and cultures and a doctorate in theology from the University of Murcia in Spain, and taught at the college level. He later worked as a cultural advisor to several U.S. government agencies.",
+  "website": "https://lopezforva.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Re-independence",
+    "point": "Wants to reduce the influence of foreign countries, lobbies and large corporations over the federal government.",
+    "source": "https://lopezforva.com/about"
+   },
+   {
+    "topic": "Immigration",
+    "point": "His 10-12 Act would let vetted, working residents pay toward border security and seek legal status after ten years.",
+    "source": "https://lopezforva.com/my-legislative-proposals"
+   },
+   {
+    "topic": "Mass deportation",
+    "point": "Calls removing tens of millions of people at once impractical and costly.",
+    "source": "https://lopezforva.com/about"
+   },
+   {
+    "topic": "Health care",
+    "point": "Would cut regulatory barriers so more providers can enter the health care market and prices can fall.",
+    "source": "https://lopezforva.com/about"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Veterans 28 Act would guarantee community care when the VA cannot treat a veteran within 28 days.",
+    "source": "https://lopezforva.com/my-legislative-proposals"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Data Center Community Consent Act would give affected property owners a consent vote and make companies pay infrastructure costs.",
+    "source": "https://lopezforva.com/about"
+   },
+   {
+    "topic": "Farms",
+    "point": "Would value farms as farmland for estate tax purposes and lower after-tax costs of lawful farm labor.",
+    "source": "https://lopezforva.com/about"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Opposes bills that raise federal taxes and wants smaller federal departments and spending.",
+    "source": "https://lopezforva.com/about"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Opposes federal tax increases and calls for lower government spending and limited government.",
+    "source": "https://lopezforva.com/about"
+   },
+   "welfare": {
+    "score": 35,
+    "evidence": "General statement: wants to reduce federal spending and department size and favors deregulation to increase health care competition.",
+    "source": "https://lopezforva.com/about"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "General statement: campaigns on limited government, individual liberty and personal responsibility, without naming specific issues.",
+    "source": "https://lopezforva.com/about"
+   },
+   "security": null,
+   "immigration": {
+    "score": 45,
+    "evidence": "Rejects mass deportation as a first answer and proposes a vetted 10-year path to legal status alongside border security.",
+    "source": "https://lopezforva.com/about"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "General statement: says both major parties focus on foreign nations' priorities and pledges to serve 'America only'.",
+    "source": "https://lopezforva.com/about"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Read every page of his campaign site (home, about, legislative proposals); no social media URLs were confirmed. No positions on security, energy, AI, education or religion in public life were found."
+ },
+ {
+  "id": "VA-7/alaha-ahrar",
+  "name": "Alaha Ahrar",
+  "party": "Independent",
+  "current_role": "CEO of International Kindness Sharing",
+  "bio": "Alaha Ahrar is an independent candidate for Virginia's 7th District. Born in Kabul, she moved to the United States in 2008, earned a bachelor's degree from the University of Mary Washington and a master's in social justice and human rights from George Mason University. She is a poet, leads the nonprofit International Kindness Sharing and works as a gender consultant.",
+  "website": "https://www.alahaahrarforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Justice",
+    "point": "Makes justice and human rights a central theme of her campaign.",
+    "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Proposes digital skills training in cybersecurity, cloud and AI operations plus entrepreneur centers for small businesses.",
+    "source": "https://www.alahaahrarforcongress.com/policies"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Wants startup mentoring, financing help and remote-work options for veterans and military families.",
+    "source": "https://www.alahaahrarforcongress.com/policies"
+   },
+   {
+    "topic": "Survivors",
+    "point": "Proposes career pathways and housing-bridge programs to help people leave dangerous situations.",
+    "source": "https://www.alahaahrarforcongress.com/policies"
+   },
+   {
+    "topic": "Immigrants",
+    "point": "Supports multilingual learning and support for immigrant-owned startups.",
+    "source": "https://www.alahaahrarforcongress.com/policies"
+   },
+   {
+    "topic": "Housing",
+    "point": "Backs factory-built, energy-efficient homes, accessory dwelling units and ownership structures that build family equity.",
+    "source": "https://www.alahaahrarforcongress.com/policies"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Promotes regenerative and indoor farming tied to job training and local enterprise.",
+    "source": "https://www.alahaahrarforcongress.com/policies"
+   },
+   {
+    "topic": "Community",
+    "point": "Aims to strengthen social cohesion across communities.",
+    "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "General statement: describes immigrant communities as a source of skill and leadership and proposes support for immigrant-owned businesses.",
+    "source": "https://www.alahaahrarforcongress.com/policies"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 60,
+    "evidence": "General statement: promotes energy-efficient housing and 'triple-net-zero' community designs, without specific climate policy.",
+    "source": "https://www.alahaahrarforcongress.com/policies"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Read her campaign site's policy and biography content; it gives program ideas but no stances on taxes, health coverage, abortion, guns, foreign policy or schools. Social media accounts were not confirmed."
+ },
+ {
+  "id": "VA-7/joshua-ertle",
+  "name": "Joshua Ertle",
+  "party": "Independent",
+  "current_role": "Anti-abortion activist",
+  "bio": "Joshua Ertle is an independent candidate for Virginia's 7th Congressional District. He is part of the 'Defending the Unborn' slate of anti-abortion candidates, which runs campaign television advertising across several states.",
+  "website": "https://joshua.vote/",
+  "social": {
+   "facebook": "https://www.facebook.com/JoshForVirginia/"
+  },
+  "platform": [
+   {
+    "topic": "Abortion",
+    "point": "Opposes late-term abortion in Virginia and campaigns against the state's proposed Amendment 1.",
+    "source": "https://joshua.vote/"
+   },
+   {
+    "topic": "Abortion advocacy",
+    "point": "Aims to use campaign advertising to show images of aborted fetuses as a strategy to change public opinion.",
+    "source": "https://www.fxbgadvance.com/p/14-names-you-wont-recognize-are-on"
+   },
+   {
+    "topic": "Amendment 1",
+    "point": "Runs television ads urging a no vote on Virginia's Amendment 1.",
+    "source": "https://joshua.vote/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 85,
+    "evidence": "Based on abortion only: opposes late-term abortion and campaigns against Virginia's Amendment 1.",
+    "source": "https://joshua.vote/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://alj1eaymo673byx6.public.blob.vercel-storage.com/organizations/9/landing-pages/1788825621279-1785037474652-joshertle-rhse2jhmoj5qck28katyjihpltnlhj-92ygiq6NkistS1Ts1w37W5VIcxVEVS.jpeg",
+  "notes": "His campaign site and the babies.vote slate site contain only anti-abortion messaging; no stances on other topics were found. A directory description of him as a video producer could not be confirmed."
+ },
+ {
+  "id": "VA-7/randall-terry",
+  "name": "Randall Terry",
+  "party": "Independent",
+  "current_role": "Anti-abortion activist",
+  "bio": "Randall Terry founded the anti-abortion group Operation Rescue in 1987 and led it until 1991. He has run for office several times, including as the Constitution Party's 2024 presidential nominee, for the U.S. House in New York and for the Florida Senate. He is running as an independent in Virginia's 7th District as part of the 'Defending the Unborn' slate.",
+  "website": "https://terry.vote/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Abortion",
+    "point": "Seeks to end legal abortion and has said he would also make hormonal birth control illegal.",
+    "source": "https://en.wikipedia.org/wiki/Randall_Terry"
+   },
+   {
+    "topic": "Campaign advertising",
+    "point": "Uses federal broadcast rules for candidates to air uncensored anti-abortion ads featuring graphic fetal images.",
+    "source": "https://www.fxbgadvance.com/p/14-names-you-wont-recognize-are-on"
+   },
+   {
+    "topic": "Amendment 1",
+    "point": "Runs television ads urging Virginians to vote no on Amendment 1 and opposing late-term abortion.",
+    "source": "https://terry.vote/"
+   },
+   {
+    "topic": "Same-sex marriage",
+    "point": "Campaigned against same-sex marriage in Vermont in 2000.",
+    "source": "https://en.wikipedia.org/wiki/Randall_Terry"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 95,
+    "evidence": "Based on abortion, contraception and LGBTQ rights: supports banning abortion, said birth control pills should be illegal, and campaigned against same-sex marriage.",
+    "source": "https://en.wikipedia.org/wiki/Randall_Terry"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Randall Terry by Gage Skidmore.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Gage Skidmore"
+  },
+  "campaign_photo": "https://alj1eaymo673byx6.public.blob.vercel-storage.com/organizations/1/landing-pages/1789172338383-1784912868162-randall2-auhjpjatvl06mqxxnvkbnpahpa1vv4-5sSs2WdZXyjbzZGE9owOnRN13R8dJd.jpg",
+  "notes": "His campaign site terry.vote and Wikipedia cover only abortion-related positions; his 2024 campaign site is offline. Stances on economy, immigration, foreign policy and other topics remain unknown."
+ },
+ {
+  "id": "VA-8/tim-sharman",
+  "name": "Tim Sharman",
+  "party": "Independent",
+  "current_role": "Customer-experience startup founder",
+  "bio": "Tim Sharman is an independent candidate for Virginia's 8th District. Born in London, he studied politics, philosophy and economics at Oxford, moved to the United States about 30 years ago and became a citizen. He worked helping companies serve customers and founded a customer-experience startup.",
+  "website": "https://timsharmanforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/tim_sharman_for_congress",
+   "tiktok": "https://www.tiktok.com/@timsharmanforcongress",
+   "youtube": "https://www.youtube.com/@TimSharmanforCongress"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Prioritizes lowering costs of housing, childcare, health care, education, groceries and transportation.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Seeks universal coverage without new taxes, exploring a public United States Health Service and automatic enrollment in basic coverage.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   {
+    "topic": "Opportunity fund",
+    "point": "Would introduce a bill chartering a privately funded, voluntary American Opportunity Fund to expand housing, skills and childcare access.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   {
+    "topic": "Shutdowns",
+    "point": "Pledges never to vote to shut down the government and backs reforms to end shutdowns as a political tactic.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   {
+    "topic": "AI",
+    "point": "Wants national AI rules that preserve state authority and would abolish the Justice Department's AI Litigation Task Force.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   {
+    "topic": "AI and work",
+    "point": "Calls for an AI and Robotics Transition Program, with companies sharing responsibility for retraining displaced workers.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Says local communities should decide where data centers go and data centers should pay the infrastructure costs they create.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   {
+    "topic": "Immigration enforcement",
+    "point": "Says ICE should be fundamentally restructured rather than eliminated.",
+    "source": "https://www.arlnow.com/2026/09/15/rep-beyer-debates-challengers-on-ice-data-centers-trumps-triumphal-arch/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 40,
+    "evidence": "Says the answer is not simply more taxing and spending and that wealth should not be punished with added taxes, while calling for ending abusive corporate practices and higher wages.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Wants universal health coverage, exploring a public United States Health Service and automatic enrollment, but without new taxes.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 50,
+    "evidence": "General statement: calls for secure borders, and in a debate said ICE should be reconstituted rather than abolished.",
+    "source": "https://www.arlnow.com/2026/09/15/rep-beyer-debates-challengers-on-ice-data-centers-trumps-triumphal-arch/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Supports national AI rules that keep state authority, would abolish the DOJ task force challenging state AI laws, and proposes an AI worker-transition program.",
+    "source": "https://timsharmanforcongress.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://timsharmanforcongress.com/__l5e/assets-v1/aed2bbc7-abc5-4f87-8e30-1d39dd609f0b/candidate-profile.jpg",
+  "notes": "Read his campaign site's issue content and ARLnow debate coverage. His statements on security, defense and individual liberty are general, and no positions on energy policy, foreign affairs, schools or religion were found."
+ },
+ {
+  "id": "VT-AL/phoenix-altair",
+  "name": "Phoenix Altair",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Phoenix Altair is an independent candidate for Vermont's at-large U.S. House seat in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked Wikipedia's race page and VTDigger search; no campaign website, occupation, social accounts or issue statements were found."
+ },
+ {
+  "id": "VT-AL/adam-ortiz",
+  "name": "Adam Ortiz",
+  "party": "Independent",
+  "current_role": "Window installation contractor",
+  "bio": "Adam Ortiz is a window installation contractor running as an independent for Vermont's at-large U.S. House seat. He previously ran for the seat in 2022 and 2024, receiving about 5.5% of the vote in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked Wikipedia pages for the 2022-2026 races and VTDigger search; no campaign website or issue statements were found for any of his runs."
+ }
+]

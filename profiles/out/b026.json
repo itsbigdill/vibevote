@@ -1,0 +1,425 @@
+[
+ {
+  "id": "CA-47/dave-min",
+  "name": "Dave Min",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-47",
+  "bio": "Dave Min has represented California's 47th District in the U.S. House since January 2025, after serving in the California State Senate from 2020 to 2024. He was a law professor at UC Irvine focusing on banking and capital markets, and earlier worked as an SEC attorney and as Senate Banking Committee counsel. He was born in Rhode Island and raised in Palo Alto.",
+  "website": "https://davemin.com",
+  "social": {
+   "x": "https://x.com/daveminCA",
+   "instagram": "https://www.instagram.com/davemin_ca",
+   "facebook": "https://www.facebook.com/daveminca",
+   "youtube": "https://www.youtube.com/@DaveMinCA"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Proposes holding offshore oil and gas companies liable for cleanup costs and protecting the California coastline.", "source": "https://min.house.gov/issues/energy"},
+   {"topic": "Wildfire", "point": "Backs the bipartisan BRUSH Fires Act to update federal wildfire prevention for chaparral regions.", "source": "https://min.house.gov/issues/energy"},
+   {"topic": "Ethics", "point": "Supports ending stock trading by members of Congress and other anti-corruption measures.", "source": "https://davemin.com/"},
+   {"topic": "Reproductive rights", "point": "Supports protecting access to reproductive healthcare, including codifying abortion rights.", "source": "https://min.house.gov/issues/reproductive-rights-0"},
+   {"topic": "Housing", "point": "Prioritises expanding workforce housing and pairing affordability with climate resilience.", "source": "https://davemin.com/"},
+   {"topic": "Gun safety", "point": "Lists gun violence prevention as a priority; led a state effort to end gun shows at county fairs.", "source": "https://en.wikipedia.org/wiki/Dave_Min"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 65, "evidence": "Voted against the One Big Beautiful Bill Act, which included cuts to federal safety-net programs.", "source": "https://en.wikipedia.org/wiki/Dave_Min"},
+   "liberty": {"score": 40, "evidence": "Supports codifying abortion rights and backed a ban on gun shows at county fairs (abortion, guns).", "source": "https://min.house.gov/issues/reproductive-rights-0"},
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Calls for oversight of immigration enforcement, while voting for the Laken Riley Act.", "source": "https://en.wikipedia.org/wiki/Dave_Min"},
+   "foreign": null,
+   "energy": {"score": 90, "evidence": "Authored California's 30x30 conservation law, sponsored an offshore drilling ban and opposes cuts to clean energy investment.", "source": "https://min.house.gov/issues/energy"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-47/jenny-rae-le-roux",
+  "name": "Jenny Rae Le Roux",
+  "party": "Republican",
+  "current_role": "Executive Director of CAL DOGE and business owner",
+  "bio": "Jenny Rae Le Roux is a businesswoman who co-founded companies in energy and financial services and later bought and ran a tech-enabled services firm. She leads CAL DOGE, a group reviewing California state spending for waste and fraud. She holds an economics degree from the University of Virginia and an MBA from Columbia Business School.",
+  "website": "https://jennyraeca.com",
+  "social": {
+   "x": "https://x.com/jennyraeca",
+   "instagram": "https://www.instagram.com/jennyraeca",
+   "facebook": "https://www.facebook.com/jennyraeca",
+   "youtube": "https://www.youtube.com/@jennyraeca"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants to cut federal spending, reform permitting to lower housing costs and reduce small-business taxes.", "source": "https://jennyraeca.com/issues/"},
+   {"topic": "Government waste", "point": "Calls for public spending reports, real-time audits of high-risk programs and faster FOIA access.", "source": "https://jennyraeca.com/issues/"},
+   {"topic": "Immigration", "point": "Supports fully funding border security, ending catch-and-release and withholding federal funds from sanctuary jurisdictions.", "source": "https://jennyraeca.com/issues/"},
+   {"topic": "Public safety", "point": "Would fully fund federal law enforcement and seek maximum penalties for fentanyl traffickers.", "source": "https://jennyraeca.com/issues/"},
+   {"topic": "Ethics", "point": "Pledges to sponsor a bill ending congressional insider trading.", "source": "https://jennyraeca.com/issues/"},
+   {"topic": "Israel", "point": "Supports Israel as an ally, the disarmament of Hamas and expanding the Abraham Accords to Saudi Arabia.", "source": "https://jennyraeca.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Proposes lower federal spending, permitting reform and reduced taxes on small businesses.", "source": "https://jennyraeca.com/issues/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Calls for fully funding federal law enforcement and the harshest penalties for fentanyl traffickers.", "source": "https://jennyraeca.com/issues/"},
+   "immigration": {"score": 80, "evidence": "Backs ending catch-and-release, closing asylum loopholes and defunding sanctuary jurisdictions.", "source": "https://jennyraeca.com/issues/"},
+   "foreign": {"score": 75, "evidence": "Pledges firm support for Israel, opposes an Iran nuclear deal and backs expanding the Abraham Accords.", "source": "https://jennyraeca.com/issues/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://jennyraeca.com/assets/jenny-hero-CnOKuqw_.jpg",
+  "notes": "Campaign photo is the site's hero image, assumed to show the candidate."
+ },
+ {
+  "id": "CA-48/jim-desmond",
+  "name": "Jim Desmond",
+  "party": "Republican",
+  "current_role": "San Diego County Supervisor, District 5",
+  "bio": "Jim Desmond has served on the San Diego County Board of Supervisors since 2019, after serving as Mayor of San Marcos from 2006 to 2018 and on its city council. He is a U.S. Navy veteran and flew for Delta Air Lines for over three decades. He holds an electrical engineering degree from San Diego State University.",
+  "website": "https://www.desmondforcongress.com",
+  "social": {
+   "x": "https://x.com/JimDesmondSD",
+   "instagram": "https://www.instagram.com/desmondforcongress",
+   "facebook": "https://www.facebook.com/DesmondForCongress"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Promises lower taxes, less regulation and relief from insurance, gas and electricity costs.", "source": "https://www.desmondforcongress.com/cost-of-living"},
+   {"topic": "Homelessness", "point": "Would fund treatment-first programs for addiction and mental illness and tie federal money to measurable results.", "source": "https://www.desmondforcongress.com/homelessness"},
+   {"topic": "Mental health", "point": "Seeks to lift the Medicaid limit on larger psychiatric facilities and ease involuntary care during crises.", "source": "https://www.desmondforcongress.com/homelessness"},
+   {"topic": "Immigration", "point": "Supports border enforcement, cooperation with ICE and a streamlined legal immigration system.", "source": "https://www.desmondforcongress.com/secure-border"},
+   {"topic": "Energy", "point": "Backs an all-of-the-above energy approach including nuclear, and opposes energy mandates.", "source": "https://www.desmondforcongress.com/energy"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Campaign calls for lowering taxes and reducing overregulation.", "source": "https://www.desmondforcongress.com/cost-of-living"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 65, "evidence": "Proposes giving doctors and first responders more power to intervene, including involuntary care, and backs ICE cooperation.", "source": "https://www.desmondforcongress.com/homelessness"},
+   "immigration": {"score": 70, "evidence": "Supports border enforcement and ICE cooperation, criticised Biden-era policy, while backing streamlined legal immigration.", "source": "https://www.desmondforcongress.com/secure-border"},
+   "foreign": null,
+   "energy": {"score": 35, "evidence": "Opposes energy mandates and backs all-of-the-above production including nuclear.", "source": "https://www.desmondforcongress.com/energy"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/678019956176610b8d5f03b5/511bb210-c01b-44b2-ae67-574d2c2edc74/Jim_Desmond_4x6+copy.jpg",
+  "notes": "Commons portrait is credited to the County of San Diego under a California public-records rationale rather than a named free licence, so it was not used."
+ },
+ {
+  "id": "CA-48/marni-von-wilpert",
+  "name": "Marni von Wilpert",
+  "party": "Democratic",
+  "current_role": "San Diego City Councilmember, District 5",
+  "bio": "Marni von Wilpert has served on the San Diego City Council since December 2020, after working as a San Diego Deputy City Attorney. She previously was a labor attorney at the National Labor Relations Board and the Economic Policy Institute, clerked for a federal judge and served in the Peace Corps in Botswana. She grew up in San Diego's Scripps Ranch.",
+  "website": "https://www.marnivonwilpert.com",
+  "social": {
+   "x": "https://x.com/marnivonwilpert",
+   "instagram": "https://www.instagram.com/marni_von_wilpert",
+   "facebook": "https://www.facebook.com/marniforcongress",
+   "youtube": "https://www.youtube.com/@MarnivonWilpertforCongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Would expand the ACA with a public option, widen Medicare drug negotiation and add dental, vision and hearing coverage.", "source": "https://www.marnivonwilpert.com/issues"},
+   {"topic": "Workers", "point": "Supports the PRO Act, higher wages and stronger action against wage theft.", "source": "https://www.marnivonwilpert.com/issues"},
+   {"topic": "Abortion", "point": "Pledges to codify Roe v. Wade and oppose a national abortion ban.", "source": "https://www.marnivonwilpert.com/issues"},
+   {"topic": "Guns", "point": "Supports assault weapons bans, universal background checks and red flag laws.", "source": "https://www.marnivonwilpert.com/issues"},
+   {"topic": "Immigration", "point": "Backs secure borders with a citizenship path for Dreamers and opposes unconstitutional ICE enforcement.", "source": "https://www.marnivonwilpert.com/issues"},
+   {"topic": "Ethics", "point": "Supports banning congressional stock trading and overturning Citizens United.", "source": "https://www.marnivonwilpert.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports the PRO Act, wage increases and wage-theft enforcement, and opposes tariffs.", "source": "https://www.marnivonwilpert.com/issues"},
+   "welfare": {"score": 80, "evidence": "Backs a public option and expanded Medicare benefits and drug price negotiation.", "source": "https://www.marnivonwilpert.com/issues"},
+   "liberty": {"score": 25, "evidence": "Supports codifying Roe and the Equality Act, opposes book bans, and backs assault weapons bans (abortion, LGBTQ rights, speech, guns).", "source": "https://www.marnivonwilpert.com/issues"},
+   "security": {"score": 25, "evidence": "Opposes aggressive ICE enforcement tactics and joined litigation against ICE as a councilmember.", "source": "https://www.marnivonwilpert.com/issues"},
+   "immigration": {"score": 15, "evidence": "Supports a citizenship pathway for Dreamers and opposes current ICE tactics.", "source": "https://www.marnivonwilpert.com/issues"},
+   "foreign": {"score": 60, "evidence": "Supports Ukraine, NATO, rebuilding alliances and PEPFAR, while opposing unauthorized wars.", "source": "https://www.marnivonwilpert.com/issues"},
+   "energy": {"score": 70, "evidence": "Opposes offshore drilling off California and wants Trump-era environmental rollbacks reversed.", "source": "https://www.marnivonwilpert.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Commons portrait is credited to the City of San Diego without a named free licence, so it was not used."
+ },
+ {
+  "id": "CA-49/mike-levin",
+  "name": "Mike Levin",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-49",
+  "bio": "Mike Levin has represented California's 49th District, covering north San Diego County and south Orange County, since 2019. Before Congress he was an environmental and energy attorney and co-founded the clean-tech group CleanTech OC. He was born in Inglewood and raised in Lake Forest, California.",
+  "website": "https://mikelevin.org",
+  "social": {
+   "x": "https://x.com/RepMikeLevin",
+   "instagram": "https://www.instagram.com/RepMikeLevin",
+   "facebook": "https://www.facebook.com/RepMikeLevin",
+   "youtube": "https://www.youtube.com/channel/UCYFDRohyZgoPy5rXOaVZO-A"
+  },
+  "platform": [
+   {"topic": "Nuclear waste", "point": "Prioritises removing spent nuclear fuel from the San Onofre plant through the Spent Nuclear Fuel Solutions Caucus.", "source": "https://levin.house.gov/issues/energy"},
+   {"topic": "Immigration", "point": "Supports protections for Dreamers, a path to citizenship and technology-based border security.", "source": "https://levin.house.gov/issues/immigration"},
+   {"topic": "Climate", "point": "Backs a clean energy transition and a ban on new offshore drilling.", "source": "https://levin.house.gov/issues/climate-change-natural-resources-0"},
+   {"topic": "Ethics", "point": "Supports banning stock trading by members of Congress.", "source": "https://en.wikipedia.org/wiki/Mike_Levin"},
+   {"topic": "Prediction markets", "point": "Introduced the DEATH BETS Act to bar prediction contracts on terrorism, assassination or war.", "source": "https://en.wikipedia.org/wiki/Mike_Levin"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Opposes Trump's tariffs and supports banning congressional stock trading.", "source": "https://en.wikipedia.org/wiki/Mike_Levin"},
+   "welfare": null,
+   "liberty": {"score": 30, "evidence": "Holds a 100% NARAL rating and supports an assault weapons ban and universal background checks (abortion, guns).", "source": "https://en.wikipedia.org/wiki/Mike_Levin"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Co-sponsored the Dignity Act and the Dream and Promise Act with a path to citizenship.", "source": "https://levin.house.gov/issues/immigration"},
+   "foreign": {"score": 65, "evidence": "Supports continued military aid to Israel alongside a two-state solution.", "source": "https://en.wikipedia.org/wiki/Mike_Levin"},
+   "energy": {"score": 90, "evidence": "Former clean-energy attorney who backs a clean energy transition and offshore drilling bans.", "source": "https://levin.house.gov/issues/climate-change-natural-resources-0"},
+   "tech": {"score": 65, "evidence": "Introduced the DEATH BETS Act restricting prediction-market contracts on violent events.", "source": "https://en.wikipedia.org/wiki/Mike_Levin"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-49/armen-kurdian",
+  "name": "Armen Kurdian",
+  "party": "Republican",
+  "current_role": "U.S. Navy veteran",
+  "bio": "Armen Kurdian is a 25-year U.S. Navy veteran with a background in search and rescue. He is running for Congress in California's 49th District.",
+  "website": "https://kurdianforcongress.com",
+  "social": {
+   "x": "https://twitter.com/ArmenKurdian",
+   "instagram": "https://www.instagram.com/kurdianforcongress",
+   "facebook": "https://www.facebook.com/KurdianforCongress"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Opposes new federal taxes, wants wasteful spending cut and burdensome regulations reduced.", "source": "https://kurdianforcongress.com/issues"},
+   {"topic": "Seniors", "point": "Pledges to protect Medicare and Social Security and lower prescription drug costs.", "source": "https://kurdianforcongress.com/issues"},
+   {"topic": "Public safety", "point": "Supports police and first responders, modernised search and rescue, and action against fentanyl trafficking.", "source": "https://kurdianforcongress.com/issues"},
+   {"topic": "Defense", "point": "Would fully fund national defense, military readiness and military families.", "source": "https://kurdianforcongress.com/issues"},
+   {"topic": "Energy", "point": "Backs an all-of-the-above strategy aimed at energy independence and lower costs.", "source": "https://kurdianforcongress.com/issues"},
+   {"topic": "Workforce", "point": "Wants expanded trade and apprenticeship programs and better VA care.", "source": "https://kurdianforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Opposes new federal taxes and calls for cutting regulations and spending.", "source": "https://kurdianforcongress.com/issues"},
+   "welfare": {"score": 45, "evidence": "Pledges to protect Medicare and Social Security and expand affordable health access, alongside spending cuts.", "source": "https://kurdianforcongress.com/issues"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Campaign pledges to back police and crack down on fentanyl trafficking.", "source": "https://kurdianforcongress.com/issues"},
+   "immigration": null,
+   "foreign": {"score": 60, "evidence": "Calls for fully funding national defense and military readiness.", "source": "https://kurdianforcongress.com/issues"},
+   "energy": {"score": 30, "evidence": "Supports all-of-the-above domestic energy production for independence and lower prices.", "source": "https://kurdianforcongress.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Little biographical detail beyond Navy service was found; Ballotpedia did not load."
+ },
+ {
+  "id": "CA-50/scott-peters",
+  "name": "Scott Peters",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-50",
+  "bio": "Scott Peters has served in the U.S. House since 2013, representing CA-52 and, since 2023, CA-50. He previously served on the San Diego City Council, as its first council president, and on the Port of San Diego board. An Ohio native, he worked as an EPA economist and environmental lawyer.",
+  "website": "https://scottpeters.com",
+  "social": {
+   "x": "https://x.com/RepScottPeters",
+   "instagram": "https://www.instagram.com/repscottpeters",
+   "facebook": "https://www.facebook.com/RepScottPeters"
+  },
+  "platform": [
+   {"topic": "Climate", "point": "Seeks rapid emissions cuts and faster permitting to build clean energy and transmission projects.", "source": "https://scottpeters.house.gov/issues/climate-energy-environment"},
+   {"topic": "Housing", "point": "Supports incentives for new housing at all income levels and services for people leaving homelessness.", "source": "https://scottpeters.house.gov/issues/housing-and-homelessness"},
+   {"topic": "Fiscal policy", "point": "Leads a bipartisan fiscal forum focused on reducing the national debt.", "source": "https://scottpeters.house.gov/issues/bipartisan-fiscal-forum"},
+   {"topic": "Innovation economy", "point": "Prioritises San Diego's biotech and life-sciences industries.", "source": "https://scottpeters.house.gov/issues/growing-our-innovative-economy"},
+   {"topic": "Reproductive health", "point": "Supports access to reproductive healthcare without government interference.", "source": "https://scottpeters.house.gov/issues/reproductive-healthcare"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Focuses on debt reduction through a bipartisan fiscal forum and on supporting the biotech sector.", "source": "https://scottpeters.house.gov/issues/bipartisan-fiscal-forum"},
+   "welfare": {"score": 55, "evidence": "Supports the ACA but helped block broad Medicare drug price negotiation in 2021.", "source": "https://en.wikipedia.org/wiki/Scott_Peters_(politician)"},
+   "liberty": {"score": 25, "evidence": "Holds a 100% NARAL rating and supports universal background checks (abortion, guns).", "source": "https://en.wikipedia.org/wiki/Scott_Peters_(politician)"},
+   "security": {"score": 35, "evidence": "Opposed family separation policies at the border.", "source": "https://en.wikipedia.org/wiki/Scott_Peters_(politician)"},
+   "immigration": {"score": 25, "evidence": "Supports the DREAM Act and pathways to citizenship.", "source": "https://en.wikipedia.org/wiki/Scott_Peters_(politician)"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Supports carbon pricing and rapid emissions reductions, and opposes offshore drilling.", "source": "https://scottpeters.house.gov/issues/climate-energy-environment"},
+   "tech": {"score": 30, "evidence": "One of 16 Democrats who voted against the 2022 Merger Filing Fee Modernization Act.", "source": "https://en.wikipedia.org/wiki/Scott_Peters_(politician)"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Security score rests on thin evidence carried over from earlier research."
+ },
+ {
+  "id": "CA-50/steve-cohen",
+  "name": "Steve Cohen",
+  "party": "Republican",
+  "current_role": "Broadcast journalist",
+  "bio": "Steve Cohen is a San Diego broadcast journalist with about 50 years in media. He was news director at KUSI-TV for 20 years, covering California politics. He has not held elected office.",
+  "website": "https://cohenforcongressca50.com",
+  "social": {
+   "x": "https://x.com/scohenCA50",
+   "instagram": "https://www.instagram.com/cohen_for_congress"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Wants to expand housing supply and crack down on corporate price manipulation.", "source": "https://cohenforcongressca50.com/"},
+   {"topic": "Health care", "point": "Pledges lower drug costs, protection for pre-existing conditions and accountability for insurers.", "source": "https://cohenforcongressca50.com/"},
+   {"topic": "Seniors", "point": "Commits to defending Social Security and Medicare from cuts.", "source": "https://cohenforcongressca50.com/"},
+   {"topic": "Government spending", "point": "Opposes earmarks and calls for transparency in federal spending.", "source": "https://cohenforcongressca50.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Pairs a crackdown on corporate price manipulation with opposition to earmarks and wasteful spending.", "source": "https://cohenforcongressca50.com/"},
+   "welfare": {"score": 55, "evidence": "Pledges to defend Social Security and Medicare and protect pre-existing condition coverage.", "source": "https://cohenforcongressca50.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://cohenforcongressca50.com/wp-content/uploads/2026/03/Steve-Cohen-Mobile.webp",
+  "notes": "Campaign photo URL is inferred from the file name and may be a banner rather than a headshot."
+ },
+ {
+  "id": "CA-51/sara-jacobs",
+  "name": "Sara Jacobs",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-51",
+  "bio": "Sara Jacobs has represented CA-51 since 2023, after representing CA-53 from 2021; she serves on the Armed Services and Foreign Affairs committees. She previously worked for the United Nations and UNICEF, as a State Department contractor and as a policy adviser on Hillary Clinton's 2016 campaign, and founded a San Diego nonprofit on child poverty. She holds degrees from Columbia University.",
+  "website": "https://sarajacobsforca.com",
+  "social": {
+   "x": "https://x.com/RepSaraJacobs",
+   "instagram": "https://www.instagram.com/repsarajacobs",
+   "facebook": "https://www.facebook.com/RepSaraJacobs",
+   "youtube": "https://www.youtube.com/channel/UC66U6ma51475jG8aUzjGzVw"
+  },
+  "platform": [
+   {"topic": "Climate", "point": "Calls for urgent climate action and a zero-carbon economy.", "source": "https://sarajacobsforca.com/"},
+   {"topic": "Health care", "point": "Supports universal health coverage through Medicare for All.", "source": "https://en.wikipedia.org/wiki/Sara_Jacobs"},
+   {"topic": "Child care", "point": "Co-leads the Child Care for Every Community Act for federally funded local child care.", "source": "https://en.wikipedia.org/wiki/Sara_Jacobs"},
+   {"topic": "Data privacy", "point": "Authored the My Body, My Data Act to protect reproductive health data.", "source": "https://sarajacobsforca.com/"},
+   {"topic": "Gun violence", "point": "Lists ending gun violence in schools and communities as a priority.", "source": "https://sarajacobsforca.com/"},
+   {"topic": "Housing", "point": "Pledges to push for affordable housing.", "source": "https://sarajacobsforca.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Supports repealing tax cuts for the wealthy and raising capital gains tax rates.", "source": "https://en.wikipedia.org/wiki/Sara_Jacobs"},
+   "welfare": {"score": 95, "evidence": "Backs Medicare for All and federally funded child care centers.", "source": "https://en.wikipedia.org/wiki/Sara_Jacobs"},
+   "liberty": {"score": 15, "evidence": "Advocates abortion rights, LGBTQ protections and gun violence prevention (abortion, LGBTQ rights, guns).", "source": "https://sarajacobsforca.com/"},
+   "security": {"score": 25, "evidence": "Authored legislation limiting collection and use of reproductive health data.", "source": "https://en.wikipedia.org/wiki/Sara_Jacobs"},
+   "immigration": {"score": 15, "evidence": "Supports a citizenship path for undocumented immigrants and admitting 95,000+ refugees a year.", "source": "https://en.wikipedia.org/wiki/Sara_Jacobs"},
+   "foreign": {"score": 45, "evidence": "Serves on Foreign Affairs but has opposed arms transfers to Israel and the UAE and cluster munitions for Ukraine.", "source": "https://en.wikipedia.org/wiki/Sara_Jacobs"},
+   "energy": {"score": 95, "evidence": "Calls climate change a top threat and seeks a zero-carbon economy by 2030.", "source": "https://en.wikipedia.org/wiki/Sara_Jacobs"},
+   "tech": {"score": 65, "evidence": "Authored the My Body, My Data Act regulating health data collected by apps.", "source": "https://sarajacobsforca.com/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The House official site returned an error, so campaign and Wikipedia sources were used."
+ },
+ {
+  "id": "CA-51/ricardo-cabrera",
+  "name": "Ricardo Cabrera",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Ricardo Cabrera is a Republican candidate for California's 51st Congressional District. His campaign site gives little biographical information.",
+  "website": "https://www.cabreraforcongress2026.com",
+  "social": {
+   "x": "https://x.com/Cabrera4CA51"
+  },
+  "platform": [
+   {"topic": "Term limits", "point": "Would push for congressional term limits.", "source": "https://www.cabreraforcongress2026.com/"},
+   {"topic": "Corruption", "point": "Supports anti-corruption reform so government serves the public rather than insiders.", "source": "https://www.cabreraforcongress2026.com/"},
+   {"topic": "Cost of living", "point": "Pledges to lower living costs.", "source": "https://www.cabreraforcongress2026.com/"},
+   {"topic": "Young entrepreneurs", "point": "Wants more opportunities for young entrepreneurs.", "source": "https://www.cabreraforcongress2026.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/4f5ef7_b89818a62d714061b9034b029c0cbfa2~mv2.jpg",
+  "notes": "No career or background details were found."
+ },
+ {
+  "id": "CA-52/juan-vargas",
+  "name": "Juan Vargas",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-52",
+  "bio": "Juan Vargas has served in the U.S. House since 2013, representing CA-51 and now CA-52. He previously served on the San Diego City Council, in the California State Assembly and in the State Senate, and worked as an attorney and insurance executive. Born in National City, he studied at the University of San Diego, Fordham and Harvard Law School and was once a Jesuit novice.",
+  "website": "https://votevargas.com",
+  "social": {
+   "x": "https://x.com/RepJuanVargas",
+   "instagram": "https://www.instagram.com/repjuanvargas",
+   "facebook": "https://www.facebook.com/RepJuanVargas",
+   "youtube": "https://www.youtube.com/RepJuanVargas"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Champions the American Dream and Promise Act to give Dreamers and TPS holders a path to citizenship.", "source": "https://vargas.house.gov/issues/immigration-reform-and-border"},
+   {"topic": "Border crossings", "point": "Prioritises modernising the San Ysidro Port of Entry to cut wait times.", "source": "https://vargas.house.gov/issues/immigration-reform-and-border"},
+   {"topic": "Tijuana River pollution", "point": "Works to stop cross-border sewage pollution in the Tijuana River Valley.", "source": "https://vargas.house.gov/issues/combating-tijuana-river-valley-pollution"},
+   {"topic": "Climate", "point": "Lists climate change and extreme weather as a priority.", "source": "https://vargas.house.gov/issues/combating-climate-change"},
+   {"topic": "Housing", "point": "Supports housing tax credits and community development funding.", "source": "https://vargas.house.gov/issues/improving-housing-affordability"},
+   {"topic": "Gun safety", "point": "Backs gun violence prevention laws.", "source": "https://vargas.house.gov/issues/gun-violence-prevention"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Supports housing tax credits and federal community development funding.", "source": "https://vargas.house.gov/issues/improving-housing-affordability"},
+   "welfare": null,
+   "liberty": {"score": 30, "evidence": "Holds a 100% NARAL rating, belongs to the Equality Caucus and backs gun safety laws (abortion, LGBTQ rights, guns).", "source": "https://en.wikipedia.org/wiki/Juan_Vargas"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Champions the Dream and Promise Act and refugee admissions funding.", "source": "https://vargas.house.gov/issues/immigration-reform-and-border"},
+   "foreign": {"score": 70, "evidence": "Voted for the 2023 Israel aid package and against a 2026 Iran war powers resolution.", "source": "https://en.wikipedia.org/wiki/Juan_Vargas"},
+   "energy": {"score": 70, "evidence": "Member of the Climate Solutions Caucus who lists climate change as an official priority.", "source": "https://vargas.house.gov/issues/combating-climate-change"},
+   "tech": {"score": 30, "evidence": "Voted against the 2022 Merger Filing Fee Modernization Act.", "source": "https://en.wikipedia.org/wiki/Juan_Vargas"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-52/jeff-belle",
+  "name": "Jeff Belle",
+  "party": "Republican",
+  "current_role": "Navy veteran and former county education board member",
+  "bio": "Jeff Belle is a U.S. Navy veteran who served from 1978 to 1980. He was vice chair of the Contra Costa County Board of Education from 2014 to 2018. He holds a BS from Oklahoma City University and an MPA from American Public University.",
+  "website": "https://www.belleforcongress.com",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Lists reducing taxes as a top priority and opposes higher taxes on the wealthy.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   {"topic": "Welfare", "point": "Supports moving people from welfare to work.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   {"topic": "Immigration", "point": "Supports only properly processed immigration and opposes sanctuary cities.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   {"topic": "Education", "point": "Favours limited federal involvement and school choice, while protecting special needs and Title I funding.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   {"topic": "Abortion", "point": "Opposes elective abortion and supports legal protection for embryos.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes higher taxes on the wealthy and prioritises tax cuts.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   "welfare": {"score": 30, "evidence": "Prioritises work-to-welfare reform.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   "liberty": {"score": 50, "evidence": "Opposes elective abortion and backs traditional marriage, but opposes any gun restrictions (abortion, LGBTQ rights, guns).", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Supports only duly processed immigration and opposes sanctuary cities.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   "foreign": {"score": 85, "evidence": "Favours U.S. intervention when freedom is threatened and calls Israel the top U.S. ally.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   "energy": {"score": 30, "evidence": "Supports a mix of power sources including coal and natural gas alongside renewables.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Supports school choice and limited federal involvement in education.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"},
+   "faith": {"score": 85, "evidence": "Opposes requiring services that violate religious beliefs and defines church-state separation as barring an official church or forced prayer.", "source": "https://ivoterguide.com/candidate/92432/race/25613/election/1385"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign website returned almost no content, so positions rely on his iVoterGuide survey."
+ }
+]

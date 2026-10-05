@@ -1,0 +1,401 @@
+[
+ {
+  "id": "GA-GOV/rick-jackson",
+  "name": "Rick Jackson",
+  "party": "Republican",
+  "race": "GA-GOV",
+  "race_label": "Georgia · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 10,
+    "liberty": 80,
+    "security": 70,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 50,
+    "faith": null
+   },
+   "basis": "Pledges halving income tax, property tax freeze, Medicaid work requirements, deporting criminal undocumented immigrants, DEI ban, transgender sports limits, police support, teacher raises.",
+   "sources": [
+    "https://rickjackson.com/action-plan/",
+    "https://www.ajc.com/politics/2026/04/rick-jackson-a-look-at-the-ajcs-coverage/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "HI-GOV/josh-green",
+  "name": "Josh Green",
+  "party": "Democratic",
+  "race": "HI-GOV",
+  "race_label": "Hawaii · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 75,
+    "liberty": 40,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Signed abortion-access and sensitive-places gun laws; expanded tax credits; state-funded ACA subsidies; carbon-negative goal while proposing an LNG import facility.",
+   "sources": [
+    "https://joshgreenforhawaii.com/issues/healthcare/",
+    "https://en.wikipedia.org/wiki/Josh_Green_(politician)",
+    "https://ballotpedia.org/Joshua_Green"
+   ],
+   "photo": {
+    "file": "File:Josh Green Official Photo 2022 (cropped) 1cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Aloha102"
+   }
+  }
+ },
+ {
+  "id": "HI-GOV/gary-cordery",
+  "name": "Gary Cordery",
+  "party": "Republican",
+  "race": "HI-GOV",
+  "race_label": "Hawaii · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 45,
+    "tech": null,
+    "education": 20,
+    "faith": 70
+   },
+   "basis": "Proposes tax and government cuts, work-linked aid, vouchers and merit pay; questions the Green Fee; names the Bible as his political philosophy.",
+   "sources": [
+    "https://www.civilbeat.org/2026/07/candidate-qa-governor-gary-cordery-2/",
+    "https://www.garycorderyforgovernor.com/key-issues-priorities",
+    "https://ballotpedia.org/Gary_Cordery"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-SEN/jim-risch",
+  "name": "Jim Risch",
+  "party": "Republican",
+  "race": "ID-SEN",
+  "race_label": "Idaho · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000584",
+   "official_name": "James E. Risch",
+   "chamber": "Senate",
+   "official_site": "https://www.risch.senate.gov",
+   "official_social": {
+    "youtube": "SenatorJamesRisch",
+    "twitter": "SenatorRisch",
+    "facebook": "senatorjimrisch"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 60,
+    "security": 80,
+    "immigration": 85,
+    "foreign": 75,
+    "energy": 15,
+    "tech": 60,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Voted for OBBBA, FISA renewal, Laken Riley Act, 2024 Ukraine aid, KOSA; against Respect for Marriage and gun-safety acts; opposes abortion; backs nuclear power.",
+   "sources": [
+    "https://senatorrisch.com/issues/",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm",
+    "https://en.wikipedia.org/wiki/Jim_Risch"
+   ],
+   "photo": {
+    "file": "File:Jim Risch official portrait.jpg",
+    "license": "Public domain",
+    "author": "US Senate"
+   }
+  }
+ },
+ {
+  "id": "ID-SEN/todd-achilles",
+  "name": "Todd Achilles",
+  "party": "Independent",
+  "race": "ID-SEN",
+  "race_label": "Idaho · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 50,
+    "liberty": 10,
+    "security": 25,
+    "immigration": 50,
+    "foreign": 25,
+    "energy": null,
+    "tech": 90,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Backs antitrust, repealing right-to-work, data privacy, Big Tech accountability, abortion-rights initiative, gun rights, border security with immigration reform; opposes endless wars.",
+   "sources": [
+    "https://www.achillesforidaho.com/policies",
+    "https://ballotpedia.org/Todd_Achilles"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-GOV/brad-little",
+  "name": "Brad Little",
+  "party": "Republican",
+  "race": "ID-GOV",
+  "race_label": "Idaho · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 70,
+    "security": 70,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 40,
+    "faith": null
+   },
+   "basis": "Signed six-week abortion ban, trans sports ban, law blocking federal gun orders; opposes marijuana legalization; cut regulations, taxes; border missions; school choice, teacher raises.",
+   "sources": [
+    "https://www.bradlittleforidaho.com/accomplishments/",
+    "https://en.wikipedia.org/wiki/Brad_Little"
+   ],
+   "photo": {
+    "file": "File:Brad Little official photo.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Phil White/Office of the Governor of Idaho"
+   }
+  }
+ },
+ {
+  "id": "ID-GOV/terri-pickens",
+  "name": "Terri Pickens",
+  "party": "Democratic",
+  "race": "ID-GOV",
+  "race_label": "Idaho · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": 5,
+    "security": null,
+    "immigration": 25,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": 95,
+    "faith": 15
+   },
+   "basis": "Supports unions and living wage, accessible health care, clean energy, repealing vouchers, abortion and LGBTQ rights, humane immigration; says religion should not shape law.",
+   "sources": [
+    "https://www.terriforidaho.com/issues",
+    "https://ballotpedia.org/Terri_Pickens"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-GOV/john-stegner",
+  "name": "John Stegner",
+  "party": "Independent",
+  "race": "ID-GOV",
+  "race_label": "Idaho · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": null,
+    "security": 30,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 65,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Wants to restore Medicaid access, undo the school voucher law, require warrants for Flock camera data, and make data centers prove community benefit.",
+   "sources": [
+    "https://www.stegnerforidaho.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-SEN/juliana-stratton",
+  "name": "Juliana Stratton",
+  "party": "Democratic",
+  "race": "IL-SEN",
+  "race_label": "Illinois · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 95,
+    "liberty": 30,
+    "security": null,
+    "immigration": 5,
+    "foreign": 25,
+    "energy": 85,
+    "tech": 80,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, $25 minimum wage, millionaire tax, abolishing ICE, abortion and LGBTQ rights, gun safety laws, AI regulation; opposes Iran war.",
+   "sources": [
+    "https://www.julianastratton.com/issues",
+    "https://en.wikipedia.org/wiki/Juliana_Stratton"
+   ],
+   "photo": {
+    "file": "File:Juliana Stratton 2023 (cropped).jpg",
+    "license": "Public domain",
+    "author": "Trenton Fouche, Illinois National Guard"
+   }
+  }
+ },
+ {
+  "id": "IL-SEN/don-tracy",
+  "name": "Don Tracy",
+  "party": "Republican",
+  "race": "IL-SEN",
+  "race_label": "Illinois · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 80,
+    "security": 70,
+    "immigration": 65,
+    "foreign": 80,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Favors spending and regulation cuts, targeted tariffs, all-of-the-above energy, border security, police, China deterrence, no benefits for non-citizens; opposes transgender girls in girls' sports.",
+   "sources": [
+    "https://ballotpedia.org/Don_Tracy",
+    "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/don-tracy-illinois-primary-united-states-senate"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-GOV/jb-pritzker",
+  "name": "JB Pritzker",
+  "party": "Democratic",
+  "race": "IL-GOV",
+  "race_label": "Illinois · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 25,
+    "immigration": 15,
+    "foreign": null,
+    "energy": 85,
+    "tech": 90,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Signed $15 minimum wage, abortion protections, cannabis legalization, assault weapons ban, cash-bail repeal, clean-energy mandate, AI safety audits, ICE cooperation limits; expanded preschool.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/JB_Pritzker",
+    "https://jbpritzker.com/latest/accomplishment/creating-the-economy-of-the-future/",
+    "https://jbpritzker.com/latest/accomplishment/expanding-quality-affordable-health-care/"
+   ],
+   "photo": {
+    "file": "File:JB Pritzker 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Oscar Garza"
+   }
+  }
+ },
+ {
+  "id": "IL-GOV/darren-bailey",
+  "name": "Darren Bailey",
+  "party": "Republican",
+  "race": "IL-GOV",
+  "race_label": "Illinois · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 50,
+    "security": 80,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 40,
+    "faith": null
+   },
+   "basis": "Wants lower property and income taxes, spending cuts, tougher policing, fully funded schools with parental choice; opposes SAFE-T Act, abortion and gun control.",
+   "sources": [
+    "https://baileyforillinois.com/issues/",
+    "https://ballotpedia.org/Darren_Bailey",
+    "https://en.wikipedia.org/wiki/Darren_Bailey"
+   ],
+   "photo": {
+    "file": "File:Darren Bailey at a 2022 Campaign Event (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Cobiblair"
+   }
+  }
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "GA-5/john-salvesen",
+  "name": "John Salvesen",
+  "party": "Republican",
+  "race": "GA-5",
+  "race_label": "Georgia · US House GA-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found.",
+   "sources": [
+    "https://www.wsbtv.com/news/local/georgia-general-election-2026-candidates-us-senate-all-14-us-house-seats/TCGX3E477BG7FCEATCR67KRDBQ/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-6/lucy-mcbath",
+  "name": "Lucy McBath",
+  "party": "Democratic",
+  "race": "GA-6",
+  "race_label": "Georgia · US House GA-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001208",
+   "official_name": "Lucy McBath",
+   "chamber": "House",
+   "official_site": "https://mcbath.house.gov",
+   "official_social": {
+    "twitter": "RepLucyMcBath",
+    "facebook": "RepLucyMcBath",
+    "instagram": "replucymcbath"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": 25,
+    "security": 35,
+    "immigration": 40,
+    "foreign": null,
+    "energy": null,
+    "tech": 60,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Backs $15 minimum wage, shoring up ACA over Medicare for All, abortion rights and strict gun laws, opposes abolishing ICE and school vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lucy_McBath",
+    "https://www.ontheissues.org/GA/Lucy_McBath.htm"
+   ],
+   "photo": {
+    "file": "File:Lucy McBath portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "GA-6/kevin-martin",
+  "name": "Kevin Martin",
+  "party": "Republican",
+  "race": "GA-6",
+  "race_label": "Georgia · US House GA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found.",
+   "sources": [
+    "https://www.wsbtv.com/news/local/georgia-general-election-2026-candidates-us-senate-all-14-us-house-seats/TCGX3E477BG7FCEATCR67KRDBQ/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-7/rich-mccormick",
+  "name": "Rich McCormick",
+  "party": "Republican",
+  "race": "GA-7",
+  "race_label": "Georgia · US House GA-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001218",
+   "official_name": "Richard McCormick",
+   "chamber": "House",
+   "official_site": "https://mccormick.house.gov",
+   "official_social": {
+    "twitter": "RepMcCormick",
+    "facebook": "100089135203690",
+    "instagram": "reprichmccormick"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 85,
+    "security": 75,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": 15,
+    "tech": null,
+    "education": 25,
+    "faith": 70
+   },
+   "basis": "Favors tax cuts, no-exception abortion ban and fewer gun limits (drove liberty), qualified immunity, border wall, fracking, parents-first education.",
+   "sources": [
+    "https://www.ontheissues.org/GA/Rich_McCormick.htm",
+    "https://www.richmccormick.us/",
+    "https://en.wikipedia.org/wiki/Rich_McCormick"
+   ],
+   "photo": {
+    "file": "File:Rep. Rich McCormick official photo, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "GA-7/tony-kozycki",
+  "name": "Tony Kozycki",
+  "party": "Democratic",
+  "race": "GA-7",
+  "race_label": "Georgia · US House GA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 60,
+    "liberty": null,
+    "security": null,
+    "immigration": 55,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants to protect Social Security and Medicare and lower health costs, calls for a secure border and working system, and standing with allies.",
+   "sources": [
+    "https://kozyckiforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-8/austin-scott",
+  "name": "Austin Scott",
+  "party": "Republican",
+  "race": "GA-8",
+  "race_label": "Georgia · US House GA-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001189",
+   "official_name": "Austin Scott",
+   "chamber": "House",
+   "official_site": "https://austinscott.house.gov",
+   "official_social": {
+    "twitter": "AustinScottGA08",
+    "facebook": "RepAustinScott",
+    "youtube": "RepAustinScott"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 85,
+    "security": 70,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": 10,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Backs tax cuts, ACA repeal, work requirements; opposes abortion, gun control and same-sex marriage (drove liberty); supports Ukraine aid, drilling, vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Austin_Scott",
+    "https://www.ontheissues.org/GA/Austin_Scott.htm"
+   ],
+   "photo": {
+    "file": "File:Austin Scott 2021-22 (cropped).jpg",
+    "license": "Public domain",
+    "author": "Office of Representative Austin Scott"
+   }
+  }
+ },
+ {
+  "id": "GA-8/kelly-esti",
+  "name": "Kelly Esti",
+  "party": "Democratic",
+  "race": "GA-8",
+  "race_label": "Georgia · US House GA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 60,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Treats healthcare and education as public goods, supports federal labor standards, rural clinic funding, and community options for solar and wind.",
+   "sources": [
+    "https://www.kellyesti4congress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-9/andrew-clyde",
+  "name": "Andrew Clyde",
+  "party": "Republican",
+  "race": "GA-9",
+  "race_label": "Georgia · US House GA-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001116",
+   "official_name": "Andrew S. Clyde",
+   "chamber": "House",
+   "official_site": "https://clyde.house.gov",
+   "official_social": {
+    "twitter": "Rep_Clyde",
+    "facebook": "RepresentativeClyde",
+    "instagram": "repclyde",
+    "youtube": "UC-o-UOnLuu8pZxZpShG4s7A"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 15,
+    "liberty": 60,
+    "security": null,
+    "immigration": 95,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 15,
+    "faith": 80
+   },
+   "basis": "FairTax and abolishing IRS, voted against PACT Act, pro-life but strong gun rights, Muslim immigration ban, abolish Education Department, school-prayer stance.",
+   "sources": [
+    "https://www.clyde4congress.com/",
+    "https://en.wikipedia.org/wiki/Andrew_Clyde"
+   ],
+   "photo": {
+    "file": "File:Rep. Andrew Clyde official photo (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "GA-9/caitlyn-gegen",
+  "name": "Caitlyn Gegen",
+  "party": "Democratic",
+  "race": "GA-9",
+  "race_label": "Georgia · US House GA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found on campaign site or in coverage reviewed.",
+   "sources": [
+    "https://www.caitlynforgeorgia.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-10/houston-gaines",
+  "name": "Houston Gaines",
+  "party": "Republican",
+  "race": "GA-10",
+  "race_label": "Georgia · US House GA-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 65,
+    "security": 70,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": null,
+    "tech": 30,
+    "education": null,
+    "faith": 75
+   },
+   "basis": "Tax cuts, heartbeat bill and trans sports limits offset by constitutional carry, pro-police, full ICE cooperation, Israel support, stablecoin rules, RFRA vote.",
+   "sources": [
+    "https://houstongaines.com/issues/",
+    "https://en.wikipedia.org/wiki/Houston_Gaines"
+   ],
+   "photo": {
+    "file": "File:Official headshot of Houston Gaines.jpg",
+    "license": "Public domain",
+    "author": "Georgia House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "GA-10/pamela-delancy",
+  "name": "Pamela DeLancy",
+  "party": "Democratic",
+  "race": "GA-10",
+  "race_label": "Georgia · US House GA-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": 60,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Real Deal Act for living wage, healthcare, childcare and long-term care; legal work pathways with humane enforcement; water protection over data centers.",
+   "sources": [
+    "https://www.votepamdelancy.com/issues",
+    "https://www.votepamdelancy.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-11/john-cowan",
+  "name": "John Cowan",
+  "party": "Republican",
+  "race": "GA-11",
+  "race_label": "Georgia · US House GA-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax relief for families and businesses, opposes Obamacare; liberty score from gun rights and free speech positions.",
+   "sources": [
+    "https://www.cowanforcongress.com/issues.html"
+   ],
+   "photo": null
+  }
+ }
+]

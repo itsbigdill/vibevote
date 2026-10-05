@@ -1,0 +1,934 @@
+[
+ {
+  "id": "PA-4/aurora-stuski",
+  "name": "Aurora Stuski",
+  "party": "Republican",
+  "current_role": "Gemologist",
+  "bio": "Aurora Stuski is the Republican nominee for Pennsylvania's 4th congressional district, covering parts of Berks and Montgomery counties. She is described in campaign coverage as a gemologist and has not previously held elected office that could be confirmed.",
+  "website": "https://aurora4pa.com/",
+  "social": {
+   "x": "https://x.com/aurora4congress",
+   "instagram": "https://www.instagram.com/aurora4pa",
+   "facebook": "https://www.facebook.com/aurora4pa"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Fight inflationary federal spending and support small businesses so families can get ahead.",
+    "source": "https://aurora4pa.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Back law enforcement and prosecute violent crime to protect schools and neighborhoods.",
+    "source": "https://aurora4pa.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Enforce immigration law and stop human trafficking.",
+    "source": "https://aurora4pa.com/"
+   },
+   {
+    "topic": "Government accountability",
+    "point": "Demand transparency and cut waste in government.",
+    "source": "https://aurora4pa.com/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Opposes Governor Shapiro's data center legislation, including its bond requirements for opponents of projects.",
+    "source": "https://aurora4pa.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Campaign pledges to fight inflationary spending and support small businesses.",
+    "source": "https://aurora4pa.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 70,
+    "evidence": "Campaign pledges to back police and prosecute violent crime.",
+    "source": "https://aurora4pa.com/"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "Campaign pledges to enforce immigration law and stop trafficking.",
+    "source": "https://aurora4pa.com/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "Campaign site features her article calling for action to protect children from artificial intelligence risks and trafficking.",
+    "source": "https://aurora4pa.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Background is limited to a one-line description (gemologist) from WHTM-TV coverage. The tech score rests on a single campaign article about children and AI, without specific policy proposals."
+ },
+ {
+  "id": "PA-5/mary-gay-scanlon",
+  "name": "Mary Gay Scanlon",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for PA-5",
+  "bio": "Mary Gay Scanlon has represented Pennsylvania's 5th congressional district, based in Delaware County, since 2019 after briefly serving the old 7th district in late 2018. Born in Syracuse, New York, she is a University of Pennsylvania Law School graduate who worked as a public interest and pro bono attorney, including at Ballard Spahr. She previously served on and led the Wallingford-Swarthmore school board.",
+  "website": "https://www.scanlonforcongress.com/",
+  "social": {
+   "x": "https://x.com/marygayscanlon",
+   "instagram": "https://www.instagram.com/scanlonforcongress",
+   "facebook": "https://www.facebook.com/marygayscanlon/"
+  },
+  "platform": [
+   {
+    "topic": "Families",
+    "point": "Campaign centres on supporting children and families in the district.",
+    "source": "https://www.scanlonforcongress.com/"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Opposes abortion restrictions and works to protect abortion access.",
+    "source": "https://www.scanlonforcongress.com/"
+   },
+   {
+    "topic": "Transit and infrastructure",
+    "point": "Highlights federal funds secured for SEPTA's Market-Frankford Line, bridges and EV charging.",
+    "source": "https://www.scanlonforcongress.com/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Points to EPA funding directed toward riverfront cleanup in the district.",
+    "source": "https://www.scanlonforcongress.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports universal pre-K and access to public education.",
+    "source": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Wants to roll back the 2017 Tax Cuts and Jobs Act and supports a phased-in $15 minimum wage as a goal.",
+    "source": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Supports universal pre-K and expanded access to health care.",
+    "source": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports abortion rights, marijuana decriminalization, same-sex marriage and gun control.",
+    "source": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Earlier research recorded her opposition to warrantless ICE raids.",
+    "source": "https://ontheissues.org/PA/Mary_Gay_Scanlon.htm"
+   },
+   "immigration": {
+    "score": 20,
+    "evidence": "Supports a pathway to citizenship and opposed warrantless immigration raids.",
+    "source": "https://ontheissues.org/PA/Mary_Gay_Scanlon.htm"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Voted for resolutions to withdraw U.S. troops from Syria and Somalia.",
+    "source": "https://ontheissues.org/PA/Mary_Gay_Scanlon.htm"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Lists access to public education as a core interest and backs universal pre-K.",
+    "source": "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Economy score newly added from Wikipedia's account of her tax and minimum wage views."
+ },
+ {
+  "id": "PA-5/nicholas-manganaro",
+  "name": "Nicholas Manganaro",
+  "party": "Republican",
+  "current_role": "Retired financial professional",
+  "bio": "Nicholas Manganaro is a Haverford resident who grew up in Chester County and is the Republican nominee for Pennsylvania's 5th congressional district. He holds a mathematics degree from Reed College and an MBA from MIT, and worked in finance at firms including J.P. Morgan Chase, Merrill Lynch, BlackRock and Glenmede Trust.",
+  "website": "https://manganaroforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Federal spending",
+    "point": "Cut federal spending and deficits, which he links to inflation and unaffordable living costs.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Opposes ACA mandates and backs a Trump-aligned plan of lower drug prices and direct payments.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Supports an all-of-the-above energy approach including oil, gas and nuclear, and is skeptical of wind and solar.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Proposes portable mortgages to help buyers keep low rates when they move.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports legal immigration while backing cooperation with ICE enforcement.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Calls for reducing federal spending and deficits to curb inflation.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Opposes ACA mandates and favors direct payments over the current law's structure.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Criticizes his opponent's opposition to ICE and cites crimes by immigrants while supporting legal immigration.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Said he does not favor the current U.S. war with Iran.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   "energy": {
+    "score": 30,
+    "evidence": "Backs all-of-the-above energy including hydrocarbons and nuclear and criticizes wind and solar.",
+    "source": "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign website showed only a 'launching soon' page; the foreign score rests on a single statement about Iran."
+ },
+ {
+  "id": "PA-6/chrissy-houlahan",
+  "name": "Chrissy Houlahan",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for PA-6",
+  "bio": "Chrissy Houlahan has represented Pennsylvania's 6th congressional district, covering most of Chester County and part of Berks County, since 2019. An engineer trained at Stanford and MIT, she served in the U.S. Air Force and Air Force Reserve, was chief operating officer of AND1 and B Lab, and taught high school chemistry in Philadelphia. She grew up on naval bases around the country.",
+  "website": "https://www.chrissyhoulahanforcongress.com/",
+  "social": {
+   "x": "https://x.com/houlahanforpa",
+   "instagram": "https://www.instagram.com/chrissyhoulahan/",
+   "facebook": "https://www.facebook.com/HoulahanForPA/",
+   "youtube": "https://www.youtube.com/channel/UCGydnnhsUZqFBscmcWcT-zQ"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Treats health care as a right and supports Medicare drug price negotiation and a public option.",
+    "source": "https://www.chrissyhoulahanforcongress.com/"
+   },
+   {
+    "topic": "Wages",
+    "point": "Advocates for a living wage for workers.",
+    "source": "https://www.chrissyhoulahanforcongress.com/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Calls climate change an urgent problem requiring action.",
+    "source": "https://www.chrissyhoulahanforcongress.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Leads the New Democrat working group on economic growth and cost of living.",
+    "source": "https://www.chrissyhoulahanforcongress.com/"
+   },
+   {
+    "topic": "Science and jobs",
+    "point": "Co-founded the BIOTech Caucus to grow biotechnology jobs and research.",
+    "source": "https://www.chrissyhoulahanforcongress.com/"
+   },
+   {
+    "topic": "National security",
+    "point": "Supports a strong Defense Department alongside diplomacy.",
+    "source": "https://www.chrissyhoulahanforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Supports government negotiation of drug prices and a living wage.",
+    "source": "https://en.wikipedia.org/wiki/Chrissy_Houlahan"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "Supports a public health insurance option but opposes single-payer.",
+    "source": "https://en.wikipedia.org/wiki/Chrissy_Houlahan"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Supports same-sex marriage, the Equality Act and transgender military service.",
+    "source": "https://en.wikipedia.org/wiki/Chrissy_Houlahan"
+   },
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Earlier research recorded her vote against the Laken Riley Act.",
+    "source": "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=4393"
+   },
+   "foreign": {
+    "score": 80,
+    "evidence": "Signed a letter urging F-16s for Ukraine and opposed withdrawing troops from Syria.",
+    "source": "https://en.wikipedia.org/wiki/Chrissy_Houlahan"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Member of the Climate Solutions Caucus and calls climate change urgent.",
+    "source": "https://www.chrissyhoulahanforcongress.com/"
+   },
+   "tech": {
+    "score": 40,
+    "evidence": "Voted against the Merger Filing Fee Modernization Act antitrust package in 2022.",
+    "source": "https://en.wikipedia.org/wiki/Chrissy_Houlahan"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://chrissyhoulahanforcongress.com/wp-content/uploads/2026/03/ch1.jpg",
+  "notes": ""
+ },
+ {
+  "id": "PA-6/marty-young",
+  "name": "Marty Young",
+  "party": "Republican",
+  "current_role": "Business restructuring executive",
+  "bio": "Marty Young is a fourth-generation Pennsylvanian from West Chester and the Republican nominee for Pennsylvania's 6th congressional district. A 1993 West Point graduate, he served as an Army infantry officer and later as an Army chaplain, and is a lieutenant colonel in the Army National Guard. He has spent about 25 years as a corporate restructuring executive and holds degrees from Georgia Tech and NYU Stern.",
+  "website": "https://www.voteyoung.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Break up vertically integrated insurers and let TRICARE contractors compete to cover children, young adults and expectant mothers.",
+    "source": "https://www.voteyoung.com/fix-healthcare"
+   },
+   {
+    "topic": "Housing",
+    "point": "Offer 0% interest starter-home loans and 0% refinancing up to the local median price on 15-year terms.",
+    "source": "https://www.voteyoung.com/fix-housing"
+   },
+   {
+    "topic": "Personal debt",
+    "point": "Restore pre-2005 bankruptcy protections so student, credit card and medical debt can be discharged.",
+    "source": "https://www.voteyoung.com/fix-consumer-debt"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Lists protecting families and public safety among his priorities.",
+    "source": "https://www.voteyoung.com/priorities"
+   },
+   {
+    "topic": "National security",
+    "point": "Pledges to strengthen the military and national security.",
+    "source": "https://www.voteyoung.com/priorities"
+   },
+   {
+    "topic": "Energy",
+    "point": "Promises to strengthen energy security and lower energy costs.",
+    "source": "https://www.voteyoung.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 40,
+    "evidence": "Proposes breaking up large insurers and federal 0% home loans while pledging no tax increases.",
+    "source": "https://www.voteyoung.com/fix-housing"
+   },
+   "welfare": {
+    "score": 55,
+    "evidence": "Proposes universal coverage for children, young adults and expectant mothers through TRICARE contractors.",
+    "source": "https://www.voteyoung.com/fix-healthcare"
+   },
+   "liberty": null,
+   "security": {
+    "score": 65,
+    "evidence": "Lists protecting families and public safety as a priority and opposes defunding police.",
+    "source": "https://www.voteyoung.com/priorities"
+   },
+   "immigration": null,
+   "foreign": {
+    "score": 65,
+    "evidence": "Pledges to strengthen national security, the military and the defense industrial base.",
+    "source": "https://www.voteyoung.com/priorities"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Economy score raised from 25 to 40 because his housing and health plans call for major federal market intervention; welfare score newly added from his health plan."
+ },
+ {
+  "id": "PA-7/ryan-mackenzie",
+  "name": "Ryan Mackenzie",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-7",
+  "bio": "Ryan Mackenzie has represented Pennsylvania's 7th congressional district in the Lehigh Valley since 2025. Born in Allentown, he served in the Pennsylvania House of Representatives from 2012 to 2024, where he chaired the Labor and Industry and Government Oversight committees. He holds degrees from New York University and Harvard Business School.",
+  "website": "https://www.mackenzieforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/Ryan_Mackenzie",
+   "instagram": "https://www.instagram.com/RepMackenzie",
+   "facebook": "https://www.facebook.com/MackenzieForCongress",
+   "youtube": "https://www.youtube.com/@MackenzieForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Deliver tax relief for every American.",
+    "source": "https://www.mackenzieforcongress.com/"
+   },
+   {
+    "topic": "Local investment",
+    "point": "Bring federal funding back to Lehigh Valley communities.",
+    "source": "https://www.mackenzieforcongress.com/"
+   },
+   {
+    "topic": "Working families",
+    "point": "Lower costs for families and protect Medicare for seniors.",
+    "source": "https://www.mackenzieforcongress.com/"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Supports banning stock trading by members of Congress.",
+    "source": "https://www.mackenzieforcongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Called immigration a top priority during his 2024 campaign.",
+    "source": "https://en.wikipedia.org/wiki/Ryan_Mackenzie"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Campaign centres on tax relief for every American.",
+    "source": "https://www.mackenzieforcongress.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 80,
+    "evidence": "Record includes support for abortion restrictions and gun rights and opposition to medical marijuana.",
+    "source": "https://www.ontheissues.org/PA/Ryan_Mackenzie.htm"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Named immigration a top priority in his 2024 campaign.",
+    "source": "https://en.wikipedia.org/wiki/Ryan_Mackenzie"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Opposed further aid to Ukraine during his 2024 campaign while backing Israel.",
+    "source": "https://en.wikipedia.org/wiki/Ryan_Mackenzie"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://irp.cdn-website.com/90d7586d/dms3rep/multi/opt/GKV_8462_EDIT-42000a17-722w.jpg",
+  "notes": ""
+ },
+ {
+  "id": "PA-7/bob-brooks",
+  "name": "Bob Brooks",
+  "party": "Democratic",
+  "current_role": "Firefighter and president of the Pennsylvania Professional Fire Fighters Association",
+  "bio": "Bob Brooks is the Democratic nominee for Pennsylvania's 7th congressional district in the Lehigh Valley. He spent about 20 years as a City of Bethlehem firefighter and became president of the Pennsylvania Professional Fire Fighters Association. He earlier worked as a bartender, landscaper and baseball coach.",
+  "website": "https://brooksforcongress.com/",
+  "social": {
+   "x": "https://x.com/VoteBobBrooks",
+   "instagram": "https://www.instagram.com/votebobbrooks/",
+   "facebook": "https://www.facebook.com/profile.php?id=61579956682086"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Enact Medicare for All and lower prescription drug costs.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Create a billionaire minimum tax and repeal the 2017 tax cuts.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   {
+    "topic": "Wages and labor",
+    "point": "Raise the federal minimum wage, index it to inflation and pass the PRO Act.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Ban congressional stock trading and corporate PAC money and overturn Citizens United.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Build starter homes and limit corporate purchases of residential housing.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Preserve state and local power to regulate or reject data center projects.",
+    "source": "https://brooksforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Backs a billionaire minimum tax, higher indexed minimum wage and the PRO Act.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports Medicare for All and universal pre-K and kindergarten.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports codifying Roe, LGBTQ anti-discrimination protections and universal background checks.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 40,
+    "evidence": "Supports border security alongside a pathway to citizenship and opposes harsh enforcement tactics.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Supports Ukraine and NATO allies while opposing an unauthorized war with Iran.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   "energy": {
+    "score": 55,
+    "evidence": "Supports investment in wind, solar, nuclear and natural gas and action on climate.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   "tech": {
+    "score": 70,
+    "evidence": "Opposes federal legislation that would limit state and local regulation of data centers.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   "education": {
+    "score": 90,
+    "evidence": "Wants more federal school funding and opposes vouchers.",
+    "source": "https://brooksforcongress.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://brooksforcongress.com/wp-content/uploads/2026/07/1128-JR3A8328-scaled.jpg",
+  "notes": ""
+ },
+ {
+  "id": "PA-8/rob-bresnahan",
+  "name": "Rob Bresnahan",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-8",
+  "bio": "Rob Bresnahan has represented Pennsylvania's 8th congressional district in northeastern Pennsylvania since 2025, after defeating Democrat Matt Cartwright. Born in Kingston and raised in Wyoming, Pennsylvania, he graduated from the University of Scranton and ran his family's highway electrical contractor, Kuharchik Construction, as CEO. He also owns a real estate development company.",
+  "website": "https://robforpa.com/",
+  "social": {
+   "x": "https://twitter.com/Rob4PA",
+   "instagram": "https://instagram.com/Rob4PA",
+   "facebook": "https://www.facebook.com/RobforPA",
+   "youtube": "https://www.youtube.com/@RobforPA"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Secure the border, build the wall and reverse Biden-era immigration policies.",
+    "source": "https://robforpa.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Fight inflation by reducing government spending and cutting taxes for families.",
+    "source": "https://robforpa.com/"
+   },
+   {
+    "topic": "Social Security and Medicare",
+    "point": "Protect both programs without raising the retirement age or cutting benefits.",
+    "source": "https://robforpa.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Support law enforcement and combat the fentanyl crisis.",
+    "source": "https://robforpa.com/"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Promote small-business-friendly policies to create jobs.",
+    "source": "https://robforpa.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 45,
+    "evidence": "Voted for the One Big Beautiful Bill Act's tax cuts but cosponsored a regional cost-of-living minimum wage bill.",
+    "source": "https://en.wikipedia.org/wiki/Rob_Bresnahan"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Voted for the One Big Beautiful Bill Act, which included Medicaid cuts, while pledging to protect Social Security and Medicare.",
+    "source": "https://www.wnep.com/article/news/state/congressman-rob-bresnahan-faces-scrutiny-over-medicaid-vote-and-stock-trades-one-big-beautiful-bill-donald-trump-republican/523-aa17ec3f-6cff-4c45-99f1-05b9f03e9234"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Campaign pledges to secure the border and build the wall.",
+    "source": "https://robforpa.com/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://robforpa.com/wp-content/uploads/2026/09/IMG_3949.jpeg",
+  "notes": "Immigration score newly added from his campaign's border security page."
+ },
+ {
+  "id": "PA-8/paige-cognetti",
+  "name": "Paige Cognetti",
+  "party": "Democratic",
+  "current_role": "Mayor of Scranton",
+  "bio": "Paige Cognetti has been mayor of Scranton, Pennsylvania, since January 2020, the first woman in the role, and is the Democratic nominee for Pennsylvania's 8th congressional district. Born in Eugene, Oregon, she taught English in Japan, advised the U.S. Treasury Department during the Obama administration, served on the Scranton School Board and worked for the Pennsylvania Auditor General. She holds degrees from the University of Oregon and Harvard Business School.",
+  "website": "https://paigeforpa.com/",
+  "social": {
+   "x": "https://x.com/PaigeGCognetti",
+   "instagram": "https://www.instagram.com/PaigeForPA/",
+   "facebook": "https://www.facebook.com/PaigeForPA/"
+  },
+  "platform": [
+   {
+    "topic": "Government reform",
+    "point": "Ban congressional stock trading, reject corporate PAC money and audit federal waste.",
+    "source": "https://paigeforpa.com/priorities/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Cap credit card and consumer fees and break up monopolies that hurt small businesses.",
+    "source": "https://paigeforpa.com/priorities/"
+   },
+   {
+    "topic": "Families",
+    "point": "Provide paid family leave and affordable childcare.",
+    "source": "https://paigeforpa.com/priorities/"
+   },
+   {
+    "topic": "Manufacturing",
+    "point": "Reshore manufacturing, including defense production, with targeted tariffs and faster permitting.",
+    "source": "https://paigeforpa.com/priorities/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Bar data centers near homes and schools, require transparency and deny them tax breaks.",
+    "source": "https://paigeforpa.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Wants caps on consumer fees, monopoly break-ups, targeted tariffs and stronger unions.",
+    "source": "https://paigeforpa.com/priorities/"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Supports paid family leave and affordable childcare.",
+    "source": "https://paigeforpa.com/priorities/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Backs breaking up monopolies and strict siting and transparency rules for data centers.",
+    "source": "https://paigeforpa.com/priorities/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Paige Cognetti (52165104986) (3x4a).jpg",
+   "license": "CC BY 2.0",
+   "author": "US Department of Labor (photo by Liz Roll)"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "PA-9/dan-meuser",
+  "name": "Dan Meuser",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-9",
+  "bio": "Dan Meuser has represented Pennsylvania's 9th congressional district since 2019. He previously served as Pennsylvania's secretary of revenue under Governor Tom Corbett and was president of the Pride Corporation, a maker of motorized wheelchairs in the Wilkes-Barre/Scranton area. He chairs a House Small Business subcommittee on economic growth, tax and capital access.",
+  "website": "https://www.meuserforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/Meuser4Congress",
+   "instagram": "https://www.instagram.com/meuser4congress/",
+   "facebook": "https://www.facebook.com/MeuserforCongress/"
+  },
+  "platform": [
+   {
+    "topic": "America First",
+    "point": "Advance President Trump's America First agenda in Congress.",
+    "source": "https://www.meuserforcongress.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Address inflation and support small-business growth and tax policy through his subcommittee role.",
+    "source": "https://www.meuserforcongress.com/"
+   },
+   {
+    "topic": "Border security",
+    "point": "Promote stronger border security measures.",
+    "source": "https://www.meuserforcongress.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Support Pennsylvania's coal industry and energy infrastructure.",
+    "source": "https://www.meuserforcongress.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Opposes school property taxes and signed the Taxpayer Protection Pledge.",
+    "source": "https://en.wikipedia.org/wiki/Dan_Meuser"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Signed the Taxpayer Protection Pledge opposing any income tax rate increases.",
+    "source": "https://en.wikipedia.org/wiki/Dan_Meuser"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 70,
+    "evidence": "Opposes abortion and voted against the MORE Act, supports gun rights, and voted for the Respect for Marriage Act before opposing final passage.",
+    "source": "https://en.wikipedia.org/wiki/Dan_Meuser"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Supports a full border wall, ending DACA, cutting sanctuary city funds and limiting H-1B and OPT.",
+    "source": "https://en.wikipedia.org/wiki/Dan_Meuser"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Earlier research recorded his vote for a moratorium on Ukraine aid.",
+    "source": "https://en.wikipedia.org/wiki/Dan_Meuser"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "PA-9/rachel-wallace",
+  "name": "Rachel Wallace",
+  "party": "Democratic",
+  "current_role": "Former chief of staff, White House Office of Management and Budget",
+  "bio": "Rachel Wallace is the Democratic nominee for Pennsylvania's 9th congressional district. Born and raised in Pottsville, she began her career working for Congressman Tim Holden and later served at the State Department, in the U.S. Senate, and as chief of staff of the White House Office of Management and Budget. She now lives in southern Schuylkill County.",
+  "website": "https://www.wallaceforcongress.com/",
+  "social": {
+   "x": "https://x.com/wallaceforpa",
+   "instagram": "https://www.instagram.com/wallaceforcongress/",
+   "facebook": "https://www.facebook.com/wallaceforpa"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Reverse the 2025 federal health care cuts and ban insurer prior authorization for prescribed care.",
+    "source": "https://www.wallaceforcongress.com/issues/lower-costs"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Fund trade and technical schools and protect union rights and prevailing wages.",
+    "source": "https://www.wallaceforcongress.com/issues/lower-costs"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Take on fertilizer, seed and meatpacking monopolies and pass right-to-repair for farm equipment.",
+    "source": "https://www.wallaceforcongress.com/issues/lower-costs"
+   },
+   {
+    "topic": "Housing",
+    "point": "Create first-time homebuyer credits and starter home incentives and address absentee landlords.",
+    "source": "https://www.wallaceforcongress.com/issues/lower-costs"
+   },
+   {
+    "topic": "Government corruption",
+    "point": "Root out corruption and fraud in the federal government.",
+    "source": "https://www.wallaceforcongress.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Wants to cap insurance executive pay drawn from premiums and challenge agricultural monopolies.",
+    "source": "https://www.wallaceforcongress.com/issues/lower-costs"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "Calls for reversing the 2025 congressional health care cuts.",
+    "source": "https://www.wallaceforcongress.com/issues/lower-costs"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "Supports right-to-repair legislation for farm equipment.",
+    "source": "https://www.wallaceforcongress.com/issues/lower-costs"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Scores newly added from her campaign's cost-of-living issue page; evidence covers only a few domains."
+ },
+ {
+  "id": "PA-10/scott-perry",
+  "name": "Scott Perry",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-10",
+  "bio": "Scott Perry has represented the Harrisburg- and York-area district now numbered Pennsylvania's 10th in the U.S. House since 2013, and chaired the House Freedom Caucus from 2022 to 2024. He served in the Pennsylvania House of Representatives from 2007 to 2012 and retired from the Army National Guard in 2019 as a brigadier general. He co-founded a mechanical contracting business and grew up in south-central Pennsylvania.",
+  "website": "https://patriotsforperry.com/",
+  "social": {
+   "x": "https://twitter.com/patriotsperry",
+   "instagram": "https://www.instagram.com/patriotsforperry/",
+   "facebook": "https://www.facebook.com/ScottPerryforCongress/",
+   "youtube": "https://www.youtube.com/RepScottPerry"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Reduce taxes and regulation to help small businesses grow.",
+    "source": "https://patriotsforperry.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border and enforce laws against illegal entry.",
+    "source": "https://patriotsforperry.com/"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Preserve Medicare and Social Security benefits.",
+    "source": "https://patriotsforperry.com/"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Protect constitutional gun rights.",
+    "source": "https://patriotsforperry.com/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Holds a pro-life stance with exceptions for rape, incest and danger to the mother.",
+    "source": "https://patriotsforperry.com/"
+   },
+   {
+    "topic": "Title IX",
+    "point": "Protect athletic opportunities for women and girls.",
+    "source": "https://patriotsforperry.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Voted against the American Rescue Plan and campaigns on lower taxes and less regulation.",
+    "source": "https://en.wikipedia.org/wiki/Scott_Perry_(politician)"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 55,
+    "evidence": "Personally pro-life but opposes a federal abortion ban, supports IVF and gun rights, and voted for the Respect for Marriage Act.",
+    "source": "https://en.wikipedia.org/wiki/Scott_Perry_(politician)"
+   },
+   "security": null,
+   "immigration": {
+    "score": 90,
+    "evidence": "Campaigns on border enforcement and voted against expanding special immigrant visas for Afghan allies.",
+    "source": "https://en.wikipedia.org/wiki/Scott_Perry_(politician)"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Voted against 2024 aid packages for Ukraine, Israel and Taiwan and for withdrawing troops from Syria.",
+    "source": "https://en.wikipedia.org/wiki/Scott_Perry_(politician)"
+   },
+   "energy": {
+    "score": 5,
+    "evidence": "Frequently opposes climate change policies, including ones with some Republican support.",
+    "source": "https://en.wikipedia.org/wiki/Scott_Perry_(politician)"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

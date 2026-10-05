@@ -1,0 +1,818 @@
+[
+ {
+  "id": "NY-7/claire-valdez",
+  "name": "Claire Valdez",
+  "party": "Democratic",
+  "current_role": "New York State Assembly member for the 37th district",
+  "bio": "Claire Valdez has represented the 37th Assembly district in Queens since January 2025 and is the Democratic nominee for New York's 7th congressional district. She is a union organizer and a member of the Democratic Socialists of America. Originally from Lubbock, Texas, she moved to New York City in 2015.",
+  "website": "https://clairevaldezforcongress.com/",
+  "social": {
+   "x": "https://x.com/claireforny",
+   "instagram": "https://www.instagram.com/claireforny",
+   "facebook": "https://www.facebook.com/claireforqueens",
+   "tiktok": "https://www.tiktok.com/@claireforny",
+   "youtube": "https://www.youtube.com/@claireforny"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Would sponsor Medicare for All from her first day to replace for-profit insurance.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Guarantee affordable housing through universal rent control, social housing and stronger tenant protections.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   {
+    "topic": "Labor",
+    "point": "Pass the PRO Act to strengthen collective bargaining and workplace protections.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Abolish ICE and provide legal status for undocumented immigrants.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "End U.S. military interventions and stop funding for foreign wars, including arms to Israel.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Freeze electricity rates and move quickly to a clean, publicly backed energy system.",
+    "source": "https://clairevaldezforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 95,
+    "evidence": "Would fund Medicare for All by taxing billionaires and corporations and champions the PRO Act.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports single-payer Medicare for All and universal housing guarantees.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Abortion: supports codifying a nationwide right; LGBTQ: backs a Transgender Bill of Rights and gender-affirming care funding.",
+    "source": "https://clairevaldezforcongress.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 5,
+    "evidence": "Names abolishing ICE and legalizing undocumented immigrants as priorities.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Opposes U.S. military interventions, war with Iran and arms funding for Israel.",
+    "source": "https://clairevaldezforcongress.com/"
+   },
+   "energy": {
+    "score": 85,
+    "evidence": "Backs rapid clean-energy transition, net-zero goals and public renewable investment.",
+    "source": "https://clairevaldezforcongress.com/issues"
+   },
+   "tech": {
+    "score": 80,
+    "evidence": "Supports an AI data center moratorium bill and opt-in consent for AI systems.",
+    "source": "https://clairevaldezforcongress.com/issues"
+   },
+   "education": {
+    "score": 80,
+    "evidence": "Supports tuition-free public higher education and educator bargaining rights.",
+    "source": "https://clairevaldezforcongress.com/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Queens Bus Network Redesign Claire Valdez (cropped).jpg",
+   "license": "CC BY 4.0",
+   "author": "Metropolitan Transportation Authority"
+  },
+  "campaign_photo": "https://clairevaldezforcongress.com/claire-hero.png",
+  "notes": "Campaign photo URL was taken from the site's hero image and may not be a tight headshot."
+ },
+ {
+  "id": "NY-7/melvin-rivera",
+  "name": "Melvin Rivera",
+  "party": "Republican",
+  "current_role": "Community activist and tenant organizer",
+  "bio": "Melvin Rivera is a community activist and tenant organizer from Bushwick, Brooklyn, and the Republican nominee for New York's 7th congressional district. His campaign cites more than 30 years of community work and his own past experience of homelessness.",
+  "website": "https://melvinforcongress.com/",
+  "social": {
+   "x": "https://x.com/Melvin4Congress",
+   "instagram": "https://www.instagram.com/thinkr3public/",
+   "facebook": "https://www.facebook.com/profile.php?id=61580566675399",
+   "tiktok": "https://www.tiktok.com/@melvinforcongress",
+   "youtube": "https://www.youtube.com/@ThinkR3public"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Prioritizes housing reform, tenant protections and community ownership models.",
+    "source": "https://melvinforcongress.com/"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Focuses on workforce development and economic opportunity for working families.",
+    "source": "https://melvinforcongress.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Lists public safety and accountable, transparent government among his priorities.",
+    "source": "https://melvinforcongress.com/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Highlights environmental justice and public-health infrastructure.",
+    "source": "https://melvinforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site lists priority areas without specific policy proposals, so no domains are scored."
+ },
+ {
+  "id": "NY-7/priscilla-ghaznavi",
+  "name": "Priscilla Ghaznavi",
+  "party": "Our Future",
+  "current_role": "Designer and business executive",
+  "bio": "Priscilla Ghaznavi is running for New York's 7th congressional district on the Our Future line as an independent. Born in Washington, D.C., she has lived in New York for over 30 years and has worked in business and creative leadership roles at several publicly traded companies.",
+  "website": "https://priscillaghaznaviforcongress.com/",
+  "social": {
+   "x": "https://x.com/PriscillaNYCD7",
+   "instagram": "https://www.instagram.com/priscillaghaznaviforcongress",
+   "facebook": "https://www.facebook.com/priscillaghaznaviforcongress",
+   "tiktok": "https://www.tiktok.com/@priscillanycd7",
+   "youtube": "https://www.youtube.com/channel/UCgKWit0OPWxWwawvR-1RhxA"
+  },
+  "platform": [
+   {
+    "topic": "Governance",
+    "point": "Promotes accountable, results-driven leadership that links opportunity and access.",
+    "source": "https://priscillaghaznaviforcongress.com/"
+   },
+   {
+    "topic": "Civic engagement",
+    "point": "Emphasizes greater public participation in government.",
+    "source": "https://priscillaghaznaviforcongress.com/"
+   },
+   {
+    "topic": "Community",
+    "point": "Stresses community organizing and advocacy as a basis for her work.",
+    "source": "https://priscillaghaznaviforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site describes general themes rather than specific policies; no domains scored."
+ },
+ {
+  "id": "NY-8/hakeem-jeffries",
+  "name": "Hakeem Jeffries",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-8 and House Democratic Leader",
+  "bio": "Hakeem Jeffries has represented Brooklyn in the U.S. House since 2013 and has led House Democrats as Minority Leader since January 2023. He previously served in the New York State Assembly from 2007 to 2012 and worked as a corporate litigator. He grew up in Crown Heights, Brooklyn.",
+  "website": "https://hakeemjeffries.com/",
+  "social": {
+   "x": "https://x.com/RepJeffries",
+   "instagram": "https://www.instagram.com/repjeffries",
+   "facebook": "https://www.facebook.com/RepHakeemJeffries"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Protect Medicare, Medicaid and Social Security from cuts and lower prescription drug prices.",
+    "source": "https://jeffries.house.gov/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Lower everyday costs and create well-paying jobs through infrastructure and manufacturing.",
+    "source": "https://jeffries.house.gov/"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "Pass the George Floyd Justice in Policing Act to address profiling and excessive force.",
+    "source": "https://jeffries.house.gov/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Seek Temporary Protected Status protections for Haitian and Syrian nationals.",
+    "source": "https://jeffries.house.gov/"
+   },
+   {
+    "topic": "Student debt",
+    "point": "Pursue legislation to relieve student loan debt.",
+    "source": "https://jeffries.house.gov/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Backs public infrastructure and manufacturing investment and opposed the 2025 Republican tax and spending law.",
+    "source": "https://jeffries.house.gov/"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Opposed Medicaid cuts in the 2025 reconciliation law and pushed to extend ACA tax credits.",
+    "source": "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Abortion: reintroduced Women's Health Protection Act; LGBTQ: voted for Equality Act; drugs: cosponsored MORE Act; guns: backs assault weapons ban.",
+    "source": "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Voted in April 2024 to reauthorize FISA Section 702, while backing the George Floyd Justice in Policing Act.",
+    "source": "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Advocates Temporary Protected Status protections for Haitian and Syrian immigrants.",
+    "source": "https://jeffries.house.gov/"
+   },
+   "foreign": {
+    "score": 85,
+    "evidence": "Supports military assistance to Ukraine and is a strong supporter of Israel.",
+    "source": "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+   },
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "Supported legislation forcing TikTok's divestment from ByteDance.",
+    "source": "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://hakeemjeffries.com/wp-content/uploads/2022/11/cropped_HSJ-Hero-Headshot-1.png",
+  "notes": "Tech score rests on a single vote and could shift with more evidence."
+ },
+ {
+  "id": "NY-8/lewis-mizrahi",
+  "name": "Lewis Mizrahi",
+  "party": "Republican",
+  "current_role": "Data analyst and wildland firefighter",
+  "bio": "Lewis Mizrahi is the Republican nominee for New York's 8th congressional district. He works as a criminal justice data analyst and wildland firefighter and attended John Jay College of Criminal Justice.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website found; coverage notes support for Second Amendment rights and local sheriffs, which alone is too narrow to score liberty."
+ },
+ {
+  "id": "NY-9/yvette-clarke",
+  "name": "Yvette Clarke",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-9",
+  "bio": "Yvette Clarke has served in the U.S. House since 2007, representing NY-9 since 2013, and chairs the Congressional Black Caucus. She previously served on the New York City Council from 2002 to 2006. She is from Flatbush, Brooklyn.",
+  "website": "https://voteyvette.com/",
+  "social": {
+   "x": "https://x.com/RepYvetteClarke",
+   "instagram": "https://www.instagram.com/repyvettedclarke",
+   "facebook": "https://www.facebook.com/repyvettedclarke",
+   "youtube": "https://www.youtube.com/repyvetteclarke"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Pursue humane immigration reform and better conditions for detained immigrants.",
+    "source": "https://voteyvette.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Treats affordable health care as a right and targets drug and insurance costs.",
+    "source": "https://voteyvette.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Expand affordable housing in Brooklyn, including rent relief in subsidized units.",
+    "source": "https://voteyvette.com/"
+   },
+   {
+    "topic": "Technology",
+    "point": "Hold algorithms and deepfakes accountable through federal legislation.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Has opposed tax cuts and federal spending reductions.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Member of the Medicare for All Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Abortion: pro-choice with high Planned Parenthood ratings; LGBTQ: Equality Caucus member.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   },
+   "security": {
+    "score": 25,
+    "evidence": "Opposed Patriot Act extensions and wrote legislation easing removal from the No Fly List.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Supports a path to citizenship, the DREAM Act and DACA.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Voted for the Iran nuclear deal and favors withdrawing U.S. troops from Syria.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   },
+   "energy": {
+    "score": 85,
+    "evidence": "Received top ratings from environmental groups and opposed Paris Agreement withdrawal.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   },
+   "tech": {
+    "score": 85,
+    "evidence": "Co-authored the Algorithmic Accountability Act and introduced the Deepfakes Accountability Act.",
+    "source": "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Foreign score newly added from limited evidence (Iran deal, Syria troops)."
+ },
+ {
+  "id": "NY-9/joel-anabilah-azumah",
+  "name": "Joel Anabilah-Azumah",
+  "party": "Republican",
+  "current_role": "Bus company owner",
+  "bio": "Joel Anabilah-Azumah is the Republican nominee for New York's 9th congressional district. He owns a bus company and has run for office several times before.",
+  "website": "https://www.joelazumah.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Lower taxes, arguing people spend their money better than government.",
+    "source": "https://www.joelazumah.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Support homeownership with less taxation and regulation.",
+    "source": "https://www.joelazumah.com/"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Prioritize local projects such as a Utica Avenue subway over military spending.",
+    "source": "https://www.joelazumah.com/"
+   },
+   {
+    "topic": "Free speech",
+    "point": "Oppose censorship by government or technology companies.",
+    "source": "https://www.joelazumah.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Keep neighborhoods safe and community-invested.",
+    "source": "https://www.joelazumah.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Campaign calls for lower taxes and less regulation of property owners.",
+    "source": "https://www.joelazumah.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 30,
+    "evidence": "Campaign favors domestic infrastructure spending over military spending.",
+    "source": "https://www.joelazumah.com/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions are based only on short campaign-site statements."
+ },
+ {
+  "id": "NY-10/brad-lander",
+  "name": "Brad Lander",
+  "party": "Democratic",
+  "current_role": "Former New York City Comptroller",
+  "bio": "Brad Lander served as New York City Comptroller from 2022 to 2025 and on the City Council from 2010 to 2021. He earlier led the Fifth Avenue Committee housing nonprofit and the Pratt Center for Community Development. Originally from St. Louis, he won the June 2026 Democratic primary in NY-10 over Rep. Dan Goldman.",
+  "website": "https://www.bradlanderforcongress.com/",
+  "social": {
+   "x": "https://x.com/bradlander",
+   "instagram": "https://www.instagram.com/brad.lander",
+   "facebook": "https://www.facebook.com/bradlander",
+   "tiktok": "https://www.tiktok.com/@bradlandernyc",
+   "youtube": "https://www.youtube.com/@landerfornyc"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Raise taxes on extreme wealth and billionaires.",
+    "source": "https://www.bradlanderforcongress.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Increase apartment supply and expand housing assistance.",
+    "source": "https://www.bradlanderforcongress.com/"
+   },
+   {
+    "topic": "Money in politics",
+    "point": "Get money out of politics and refuse corporate and crypto donations.",
+    "source": "https://www.bradlanderforcongress.com/"
+   },
+   {
+    "topic": "Civil rights",
+    "point": "Protect immigrants and vulnerable communities from federal overreach.",
+    "source": "https://www.bradlanderforcongress.com/"
+   },
+   {
+    "topic": "Israel",
+    "point": "Condition military aid to Israel and oppose offensive weapons sales.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Lander"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Sponsored paid sick leave and fair scheduling laws and calls for taxing extreme wealth.",
+    "source": "https://www.bradlanderforcongress.com/"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Opposed moving city retirees onto a Medicare Advantage plan and backs expanded housing assistance.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Lander"
+   },
+   "liberty": null,
+   "security": {
+    "score": 15,
+    "evidence": "Called in 2020 for cutting $1 billion from the NYPD budget and disbanding its Vice Unit.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Lander"
+   },
+   "immigration": {
+    "score": 10,
+    "evidence": "Was arrested in 2025 while accompanying immigrants facing ICE detention and campaigns on protecting them.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Lander"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Supports conditioning military aid to Israel and opposing offensive weapons sales.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Lander"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 75,
+    "evidence": "Led a campaign to fund air conditioning in all NYC public school classrooms.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Lander"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Brad Lander.jpg",
+   "license": "CC BY 4.0",
+   "author": "Tessa Bury"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NY-10/jennifer-moore",
+  "name": "Jennifer Moore",
+  "party": "Republican",
+  "current_role": "Activist",
+  "bio": "Jennifer Moore is the Republican nominee for New York's 10th congressional district and is described in press coverage as an activist.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or policy statements found."
+ },
+ {
+  "id": "NY-11/nicole-malliotakis",
+  "name": "Nicole Malliotakis",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NY-11",
+  "bio": "Nicole Malliotakis has represented Staten Island and southern Brooklyn in the U.S. House since 2021. She served in the New York State Assembly from 2011 to 2021 and was the Republican nominee for New York City mayor in 2017. Raised on Staten Island, she earlier worked for Gov. George Pataki and Con Edison.",
+  "website": "https://nicolemalliotakis.com/",
+  "social": {
+   "x": "https://x.com/RepMalliotakis",
+   "instagram": "https://www.instagram.com/nmalliotakis",
+   "facebook": "https://www.facebook.com/RepNicole"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Oppose tax increases, back the 2017 tax cuts and restore the SALT deduction.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Support police, oppose defunding and repeal cashless bail.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Strengthen border security and end sanctuary city policies.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand parental school choice and keep specialized high school admission standards.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Support Israel, sanction Hamas and oppose the Iran nuclear deal.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Opposes tax increases and supports the Tax Cuts and Jobs Act and property tax limits.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted against the American Rescue Plan and has criticized the Affordable Care Act.",
+    "source": "https://en.wikipedia.org/wiki/Nicole_Malliotakis"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Abortion: identifies as pro-life; LGBTQ: voted for Respect for Marriage Act but against Equality Act.",
+    "source": "https://en.wikipedia.org/wiki/Nicole_Malliotakis"
+   },
+   "security": {
+    "score": 75,
+    "evidence": "Strongly backs police, opposes defunding and cashless bail.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Supports stronger border security and opposes sanctuary cities and licenses for undocumented immigrants.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Supports Israel, sanctions on Hamas and Ukraine Caucus membership.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   "energy": {
+    "score": 50,
+    "evidence": "Supports renewable expansion and emission goals; member of the Conservative Climate Caucus.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Campaigns for educational freedom and expanded parental school choice.",
+    "source": "https://nicolemalliotakis.com/the-issues/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NY-11/michael-decillis",
+  "name": "Michael DeCillis",
+  "party": "Democratic",
+  "current_role": "Retired police officer and former teacher",
+  "bio": "Mike DeCillis is the Democratic nominee for New York's 11th congressional district and a fourth-generation Staten Islander. He is a retired police officer and former teacher who cites 35 years of public service, and he ran for this seat in 2018 and 2022.",
+  "website": "https://www.decillisforcongress.com/",
+  "social": {
+   "x": "https://x.com/MikeDeCillis",
+   "instagram": "https://www.instagram.com/mike.decillis",
+   "facebook": "https://www.facebook.com/mikedecillisforcongress",
+   "tiktok": "https://www.tiktok.com/@mike.decillis"
+  },
+  "platform": [
+   {
+    "topic": "Democracy",
+    "point": "Restore Congress as a co-equal branch and limit governing by executive action.",
+    "source": "https://www.decillisforcongress.com/"
+   },
+   {
+    "topic": "Affordability",
+    "point": "Cut taxes for working families while making billionaires pay their fair share.",
+    "source": "https://www.decillisforcongress.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Prevent dismantling of the Education Department and increase public school funding.",
+    "source": "https://www.decillisforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Campaign calls for billionaires to pay a fair share and lower taxes on working families.",
+    "source": "https://www.decillisforcongress.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Opposes dismantling the Education Department and wants more public school investment.",
+    "source": "https://www.decillisforcongress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Ballot name is Michael DeCillis; he campaigns as Mike DeCillis."
+ },
+ {
+  "id": "NY-12/micah-lasher",
+  "name": "Micah Lasher",
+  "party": "Democratic",
+  "current_role": "New York State Assembly member for the 69th district",
+  "bio": "Micah Lasher has represented the 69th Assembly district in Manhattan since January 2025. He was previously policy director for Gov. Kathy Hochul, a policy and communications head at Sidewalk Labs, and a senior aide to the state attorney general and Mayor Michael Bloomberg. He is from the Upper West Side.",
+  "website": "https://micahlasher.com/",
+  "social": {
+   "x": "https://x.com/micahlasher",
+   "instagram": "https://www.instagram.com/micahlasher/",
+   "facebook": "https://www.facebook.com/assemblymembermicahlasher/",
+   "tiktok": "https://www.tiktok.com/@micahlasher",
+   "youtube": "https://www.youtube.com/@LasherforCongress"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Raise the national minimum wage indexed to inflation and greatly expand child care funding.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Pass Medicare for All or similar universal coverage and reverse Medicaid cuts.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Work to abolish ICE and protect detainees' access to counsel.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Universal background checks, a renewed assault weapons ban and a national red flag law.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Rejoin the Paris Agreement and sharply cut carbon emissions.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   {
+    "topic": "Tech and AI",
+    "point": "Investigate AI firms for antitrust violations and bar federal AI mass surveillance.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Supports an inflation-indexed federal minimum wage and the PRO Act.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Supports Medicare for All or similar universal care and major federal child care investment.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Abortion: repeal Hyde and pass WHPA; LGBTQ: Equality Act; guns: assault weapons ban and red flag law.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "security": {
+    "score": 25,
+    "evidence": "Opposes National Guard deployment to cities and federal AI use for mass surveillance.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "immigration": {
+    "score": 10,
+    "evidence": "Pledges to fight to abolish ICE; cosponsored limits on immigration arrests near schools and houses of worship.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Wants to rebuild NATO alliances while prioritizing diplomacy; opposes bills banning arms sales to Israel.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "energy": {
+    "score": 85,
+    "evidence": "Supports rapid emissions cuts, a clean energy transition and rejoining Paris.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "tech": {
+    "score": 90,
+    "evidence": "Backs a data center moratorium, AI antitrust probes, an AI Civil Rights Act and deepfake laws.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "education": {
+    "score": 70,
+    "evidence": "Opposes dismantling the Education Department and federal school funding cuts; previously led a charter-school advocacy group.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   },
+   "faith": {
+    "score": 25,
+    "evidence": "Supports the Do No Harm Act to narrow religious-freedom exemptions.",
+    "source": "https://micahlasher.com/platform-and-policies/"
+   }
+  },
+  "photo": {
+   "file": "File:FWNY25; U.S. Marines and Sailors hold wreath laying ceremony Micah Lasher (cropped).jpg",
+   "license": "Public domain",
+   "author": "Lance Cpl. Steven Wells, U.S. Marine Corps"
+  },
+  "campaign_photo": "https://micahlasher.com/wp-content/uploads/2026/01/Lasher_251104_1428_crop-1024x1024.webp",
+  "notes": "Education score is tempered by his earlier leadership of StudentsFirstNY, a charter-school advocacy group."
+ }
+]

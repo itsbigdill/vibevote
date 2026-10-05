@@ -1,0 +1,660 @@
+[
+  {
+    "state": "Arizona",
+    "district": "AZ-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jay Feely",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 70,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Describes himself as a fiscal conservative, social conservative and pro-business; social conservatism drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jay_Feely"
+        ],
+        "photo": {
+          "file": "File:Jay Feely 2026 (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Amish Shah",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Amish_Shah"
+        ],
+        "photo": {
+          "file": "File:Amish Shah by Gage Skidmore 2 (cropped).jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Monica Alponte",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Arizona%27s_1st_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "district": "AZ-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Eli Crane",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 15,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted against the 2023 debt-limit deal citing deficits; voted to cut Ukraine aid and withdraw troops from Syria.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Eli_Crane"
+        ],
+        "photo": {
+          "file": "File:Rep. Eli Crane official photo, 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Jonathan Nez",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jonathan_Nez",
+          "https://www.jonathannezforaz.com/"
+        ],
+        "photo": {
+          "file": "File:Jonathan Nez (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Wikiuser159597"
+        }
+      },
+      {
+        "name": "Curtis Goodwin",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Arizona%27s_2nd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "district": "AZ-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Yassamin Ansari",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": 10,
+          "foreign": 45,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Progressive; backs unions, climate action, LGBTQ rights (liberty), abolishing ICE; mixed Israel record, opposed Iran war.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Yassamin_Ansari"
+        ],
+        "photo": {
+          "file": "File:Rep. Yassamin Ansari official photo, 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Alan Aversa",
+        "party": "No Labels",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Arizona%27s_3rd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "David Redkey",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Arizona%27s_3rd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "district": "AZ-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Greg Stanton",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports the Equality Act and opposed overturning Roe v. Wade; LGBTQ and abortion stances drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Greg_Stanton"
+        ],
+        "photo": {
+          "file": "File:Greg Stanton 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Zuhdi Jasser",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 70,
+          "foreign": 70,
+          "energy": null,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Backs spending and regulation cuts, more border agents, military readiness, 'funding students not systems'; supported See Something Say Something Act.",
+        "sources": [
+          "https://z4az.com/",
+          "https://en.wikipedia.org/wiki/Zuhdi_Jasser"
+        ],
+        "photo": {
+          "file": "File:M. Zuhdi Jasser by Gage Skidmore (cropped).jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Tisha Benoit",
+        "party": "No Labels",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Arizona%27s_4th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "district": "AZ-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mark Lamb",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 75,
+          "security": 70,
+          "immigration": 90,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 85
+        },
+        "basis": "Runs on faith, family and guns; opposes drag shows (drove liberty); law-and-order sheriff; border security and FAIR advisor.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mark_Lamb_(sheriff)"
+        ],
+        "photo": {
+          "file": "File:Mark Lamb (55021585032) (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Elizabeth Lee",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "district": "AZ-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Juan Ciscomani",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 30,
+          "welfare": 50,
+          "liberty": 60,
+          "security": null,
+          "immigration": 55,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for One Big Beautiful Bill; opposes Medicaid cuts; backs 15-week abortion limit; border security plus openness to Dreamer protections; supports Israel.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Juan_Ciscomani"
+        ],
+        "photo": {
+          "file": "File:Rep. Juan Ciscomani official photo, 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "JoAnna Mendoza",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 50,
+          "foreign": 70,
+          "energy": 60,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Platform lists strong borders with immigration solutions, standing with allies, and climate, water and energy security.",
+        "sources": [
+          "https://www.joannamendoza.com/issues"
+        ],
+        "photo": {
+          "file": "File:JoAnna Mendoza, 2013.jpg",
+          "license": "Public domain",
+          "author": "Lance Cpl. Shaltiel Dominguez"
+        }
+      },
+      {
+        "name": "Jereme Peters",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Arizona%27s_6th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Gary Swing",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Arizona%27s_6th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "district": "AZ-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Adelita Grijalva",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 95,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 30,
+          "energy": null,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Cosponsors Medicare for All and the Block the Bombs Act; longtime public-school board advocate opposing Education Department cuts.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Adelita_Grijalva"
+        ],
+        "photo": {
+          "file": "File:Rep. Adelita Grijalva Official Portrait.jpg",
+          "license": "Public domain",
+          "author": "Damien Salas, Office of the Clerk U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Daniel Butierez",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+        ],
+        "photo": {
+          "file": "File:Daniel Butierez by Gage Skidmore.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Gage Skidmore"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "district": "AZ-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Abraham Hamadeh",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 65,
+          "security": null,
+          "immigration": 90,
+          "foreign": 70,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports finishing the border wall, ending catch and release; opposes Green New Deal; strong Israel backer; abortion stance drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Abraham_Hamadeh"
+        ],
+        "photo": {
+          "file": "File:Abraham Hamadeh 119th congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Office of Congressman Abraham Hamadeh"
+        }
+      },
+      {
+        "name": "Bernadette Greene-Placentia",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arizona",
+    "district": "AZ-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Paul Gosar",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 10,
+          "welfare": 15,
+          "liberty": 75,
+          "security": null,
+          "immigration": 95,
+          "foreign": 15,
+          "energy": 5,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts, opposes Obamacare, anti-abortion and against Respect for Marriage Act, ending birthright citizenship, rein in wars, 3% LCV score.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Paul_Gosar"
+        ],
+        "photo": {
+          "file": "File:Paul Gosar 118th Congress portrait.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Danielle Sterbinsky",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

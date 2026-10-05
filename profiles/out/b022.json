@@ -1,0 +1,420 @@
+[
+ {
+  "id": "CA-23/jay-obernolte",
+  "name": "Jay Obernolte",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CA-23",
+  "bio": "Jay Obernolte has represented California in the U.S. House since 2021, first the 8th District and since 2023 the 23rd, and chairs the House Republican Policy Committee. He previously served in the California State Assembly (2014-2020) and as mayor of Big Bear Lake. An engineer with a graduate degree in artificial intelligence, he founded the video game developer FarSight Studios.",
+  "website": "https://electjay.com",
+  "social": {
+   "x": "https://x.com/JayObernolte",
+   "facebook": "https://www.facebook.com/ElectJay/",
+   "instagram": "https://www.instagram.com/teamobernolte/",
+   "youtube": "https://www.youtube.com/@jayobernolte-b2j"
+  },
+  "platform": [
+   {"topic": "Federal spending", "point": "Work to balance the federal budget and curb spending he links to inflation.", "source": "https://electjay.com"},
+   {"topic": "Cost of living", "point": "Lower taxes and fuel costs, provide small-business tax relief and expand child tax credits.", "source": "https://electjay.com"},
+   {"topic": "Border security", "point": "Finish the border wall and add more Border Patrol agents.", "source": "https://electjay.com"},
+   {"topic": "Public safety", "point": "Hold fentanyl dealers accountable and keep sex offenders from being placed in local communities.", "source": "https://electjay.com"},
+   {"topic": "Artificial intelligence", "point": "Set a single national framework for oversight of the largest advanced AI developers through the FRONTIER Act.", "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight"},
+   {"topic": "Veterans", "point": "Expand care for veterans exposed to burn pits and hold the VA accountable.", "source": "https://electjay.com"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Has a record of opposing tax increases and minimum wage increases, criticising high taxes and big government.", "source": "https://www.ontheissues.org/CA/Jay_Obernolte.htm"},
+   "welfare": null,
+   "liberty": {"score": 40, "evidence": "Supported overturning Roe v. Wade and opposed expanded gun background checks, but voted for the Respect for Marriage Act.", "source": "https://en.wikipedia.org/wiki/Jay_Obernolte"},
+   "security": {"score": 65, "evidence": "Favours keeping existing police accountability rules and authored fentanyl dealer accountability legislation.", "source": "https://www.ontheissues.org/CA/Jay_Obernolte.htm"},
+   "immigration": {"score": 75, "evidence": "Opposed California's sanctuary law and supports finishing the border wall and adding Border Patrol agents.", "source": "https://electjay.com"},
+   "foreign": {"score": 55, "evidence": "Stresses strong national defense and full military funding, while voting to repeal the 2002 Iraq war authorization.", "source": "https://www.ontheissues.org/CA/Jay_Obernolte.htm"},
+   "energy": {"score": 30, "evidence": "Opposes what he calls EPA regulatory overreach and campaigns on lowering fuel costs.", "source": "https://www.ontheissues.org/CA/Jay_Obernolte.htm"},
+   "tech": {"score": 50, "evidence": "Co-sponsored the FRONTIER Act requiring audits and risk reporting for the largest AI developers, paired with a uniform federal standard over state rules.", "source": "https://obernolte.house.gov/media/press-releases/obernolte-trahan-introduce-bipartisan-frontier-act-strengthen-oversight"},
+   "education": null,
+   "faith": {"score": 70, "evidence": "Has spoken in favour of keeping God in the public sphere, in the context of a sex education debate.", "source": "https://www.ontheissues.org/CA/Jay_Obernolte.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://electjay.com/wp-content/uploads/2024/10/53993781387_24099162d6_b.jpg",
+  "notes": "Tech score is newly added from the July 2026 FRONTIER Act, which combines AI oversight with federal preemption of state rules."
+ },
+ {
+  "id": "CA-23/tessa-lynn-hodge",
+  "name": "Tessa Lynn Hodge",
+  "party": "Democratic",
+  "current_role": "Licensed clinical social worker",
+  "bio": "Tessa Lynn Hodge is a licensed clinical social worker who grew up in the High Desert region of California's 23rd District. She has worked with children in foster care and students needing school mental health services, and she helped San Bernardino County put state and federal legislation into county policy. This is her first campaign for Congress.",
+  "website": "https://tessaforca.com",
+  "social": {
+   "x": "https://x.com/tessaforca",
+   "instagram": "https://www.instagram.com/tessaforca/",
+   "facebook": "https://www.facebook.com/profile.php?id=61574790105613"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Make health care more affordable and accessible.", "source": "https://tessaforca.com/issues"},
+   {"topic": "Housing", "point": "Lower costs for homeowners and renters.", "source": "https://tessaforca.com/issues"},
+   {"topic": "Jobs", "point": "Bring good jobs with livable wages to the district.", "source": "https://tessaforca.com/issues"},
+   {"topic": "Immigration", "point": "Pursue a humane immigration policy.", "source": "https://tessaforca.com/issues"},
+   {"topic": "Mental health", "point": "Expand mental health resources and support.", "source": "https://tessaforca.com/issues"},
+   {"topic": "Education", "point": "Invest in public education.", "source": "https://tessaforca.com/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Lists a humane immigration policy among her campaign priorities.", "source": "https://tessaforca.com/issues"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 70, "evidence": "Lists investment in public education among her campaign priorities.", "source": "https://tessaforca.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/3d168e21-fedf-4224-a39e-27cd57192ee3/25491d87-a147-4fda-9252-939f19f6d2f6/25491d87-a147-4fda-9252-939f19f6d2f6.jpg",
+  "notes": "Campaign issues page names priorities without detailed policy proposals; Ballotpedia could not be reached."
+ },
+ {
+  "id": "CA-24/salud-carbajal",
+  "name": "Salud Carbajal",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-24",
+  "bio": "Salud Carbajal has represented California's 24th District in the U.S. House since 2017 and serves on the Agriculture, Armed Services, and Transportation and Infrastructure committees. He previously served on the Santa Barbara County Board of Supervisors (2005-2017) and in the Marine Corps Reserve, including during the Gulf War. Born in Moroleón, Mexico, he grew up in Oxnard and graduated from UC Santa Barbara.",
+  "website": "https://www.saludcarbajal.com",
+  "social": {
+   "x": "https://x.com/RepCarbajal",
+   "facebook": "https://www.facebook.com/CarbajalForCongress/",
+   "instagram": "https://www.instagram.com/repcarbajal",
+   "youtube": "https://www.youtube.com/repcarbajal"
+  },
+  "platform": [
+   {"topic": "Infrastructure", "point": "Create jobs by rebuilding roads and highways and expanding high-speed internet access.", "source": "https://www.saludcarbajal.com"},
+   {"topic": "Energy", "point": "Advance clean energy and preserve open spaces.", "source": "https://www.saludcarbajal.com"},
+   {"topic": "Wildfire and drought", "point": "Fight wildfires and drought on the Central Coast.", "source": "https://www.saludcarbajal.com"},
+   {"topic": "Health care", "point": "Improve access to health care.", "source": "https://www.saludcarbajal.com"},
+   {"topic": "Gun violence", "point": "Lists preventing gun violence among his official issue areas.", "source": "https://carbajal.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports raising income tax rates on wealthy individuals and opposes tax cuts he says expand deficits.", "source": "https://www.ontheissues.org/CA/Salud_Carbajal.htm"},
+   "welfare": {"score": 70, "evidence": "Opposes repealing the ACA and opposes privatizing Social Security or Medicare.", "source": "https://www.ontheissues.org/CA/Salud_Carbajal.htm"},
+   "liberty": {"score": 35, "evidence": "Supports abortion access without restrictions and opposed transgender care bans (individual choice), while backing universal background checks and gun control.", "source": "https://www.ontheissues.org/CA/Salud_Carbajal.htm"},
+   "security": {"score": 35, "evidence": "Prioritizes reducing mass incarceration and sponsored stricter police accountability rules.", "source": "https://www.ontheissues.org/CA/Salud_Carbajal.htm"},
+   "immigration": {"score": 20, "evidence": "Opposes requiring undocumented immigrants to return home and supports raising skilled and family visa caps.", "source": "https://www.ontheissues.org/CA/Salud_Carbajal.htm"},
+   "foreign": {"score": 60, "evidence": "Voted to support Israel after the October 2023 attacks and backs multilateral institutions, while opposing unauthorized force against Iran.", "source": "https://en.wikipedia.org/wiki/Salud_Carbajal"},
+   "energy": {"score": 85, "evidence": "Endorses the Green New Deal and supports greenhouse gas regulation and federal renewable energy development.", "source": "https://www.ontheissues.org/CA/Salud_Carbajal.htm"},
+   "tech": {"score": 60, "evidence": "Sponsored net neutrality legislation.", "source": "https://www.ontheissues.org/CA/Salud_Carbajal.htm"},
+   "education": {"score": 70, "evidence": "Supports two years of free community college and lower student loan interest rates.", "source": "https://www.ontheissues.org/CA/Salud_Carbajal.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-24/bob-smith",
+  "name": "Bob Smith",
+  "party": "Republican",
+  "current_role": "Retired U.S. Navy officer",
+  "bio": "Bob Smith is a retired member of the U.S. Navy running for California's 24th Congressional District. His campaign focuses on affordability, education, energy and water, immigration and national defense. Little other public biographical information was found.",
+  "website": "https://bobsmithforcongress.com",
+  "social": {
+   "x": "https://x.com/bobsmith4usa",
+   "facebook": "https://www.facebook.com/bobsmith4congress/",
+   "instagram": "https://www.instagram.com/bobsmith4congress",
+   "youtube": "https://www.youtube.com/@BobSmithforCongress"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Cut wasteful federal spending, expand housing supply and protect Social Security and Medicare.", "source": "https://bobsmithforcongress.com/issues/"},
+   {"topic": "Education", "point": "Focus on reading, math and STEM, fund vocational training, and ensure parental involvement in schools.", "source": "https://bobsmithforcongress.com/issues/"},
+   {"topic": "Energy and water", "point": "Keep reliable baseload power alongside clean generation and invest in water storage and drought resilience.", "source": "https://bobsmithforcongress.com/issues/"},
+   {"topic": "Immigration", "point": "Secure the border, remove violent offenders, and give long-term working residents clear legal status.", "source": "https://bobsmithforcongress.com/issues/"},
+   {"topic": "Defense", "point": "Strengthen military readiness and support Vandenberg Space Force Base and Naval Base Ventura County.", "source": "https://bobsmithforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 60, "evidence": "Calls for border security and removing violent offenders, alongside legal status clarity for long-term workers and modernized farm visas.", "source": "https://bobsmithforcongress.com/issues/"},
+   "foreign": {"score": 75, "evidence": "Campaigns on strengthening military readiness and US leadership in AI, space and cybersecurity.", "source": "https://bobsmithforcongress.com/issues/"},
+   "energy": {"score": 50, "evidence": "Supports keeping baseload power alongside clean generation and protecting coastlines.", "source": "https://bobsmithforcongress.com/issues/"},
+   "tech": null,
+   "education": {"score": 40, "evidence": "Emphasizes transparency and parental involvement in schools along with vocational funding.", "source": "https://bobsmithforcongress.com/issues/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Limited public biography; Ballotpedia could not be reached to confirm background details."
+ },
+ {
+  "id": "CA-25/raul-ruiz",
+  "name": "Raul Ruiz",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-25",
+  "bio": "Raul Ruiz has served in the U.S. House since 2013, representing the 36th District until 2023 and the 25th District since then, and sits on the Energy and Commerce Committee. An emergency physician raised in Coachella, he earned degrees from UCLA and Harvard and was a senior associate dean at the UC Riverside School of Medicine. He founded the Coachella Valley Healthcare Initiative.",
+  "website": "https://www.drraulruiz.com",
+  "social": {
+   "x": "https://x.com/RepRaulRuizMD",
+   "facebook": "https://www.facebook.com/CongressmanRaulRuizMD",
+   "youtube": "https://www.youtube.com/repraulruiz"
+  },
+  "platform": [
+   {"topic": "Seniors", "point": "Protect Social Security and Medicare and lower prescription drug costs.", "source": "https://ruiz.house.gov/issues"},
+   {"topic": "Health care", "point": "Expand access to affordable, quality health care and reduce family costs.", "source": "https://ruiz.house.gov/issues"},
+   {"topic": "Immigration", "point": "Pursue bipartisan reform that secures the border and offers an earned path to citizenship for Dreamers.", "source": "https://ruiz.house.gov/issues"},
+   {"topic": "Energy", "point": "Invest in a clean energy economy to create jobs and boost energy independence.", "source": "https://ruiz.house.gov/issues"},
+   {"topic": "Veterans", "point": "Ensure veterans receive high-quality care and earned benefits.", "source": "https://www.drraulruiz.com"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports a 30% minimum tax rate on millionaires.", "source": "https://www.ontheissues.org/CA/Raul_Ruiz.htm"},
+   "welfare": {"score": 75, "evidence": "Opposes repealing the ACA and backs protecting Medicare and Social Security.", "source": "https://www.ontheissues.org/CA/Raul_Ruiz.htm"},
+   "liberty": {"score": 40, "evidence": "Supports abortion access (individual choice) but backs universal background checks and gun restrictions.", "source": "https://www.ontheissues.org/CA/Raul_Ruiz.htm"},
+   "security": {"score": 55, "evidence": "Rated 85% by the National Association of Police Organizations and voted for government cybersecurity data-sharing.", "source": "https://www.ontheissues.org/CA/Raul_Ruiz.htm"},
+   "immigration": {"score": 20, "evidence": "Supports the DREAM Act and an earned pathway to citizenship.", "source": "https://ruiz.house.gov/issues"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Voted to ban offshore drilling in the Gulf of Mexico and promotes clean energy investment.", "source": "https://www.ontheissues.org/CA/Raul_Ruiz.htm"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Opposes private and religious school vouchers and supports preschool and after-school funding.", "source": "https://www.ontheissues.org/CA/Raul_Ruiz.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-25/joe-males",
+  "name": "Joe Males",
+  "party": "Republican",
+  "current_role": "Hemet City Council member",
+  "bio": "Joe Males is a member of the Hemet City Council and a small-business owner who started his own computer networking business in 1996. He is a Marine Corps veteran who served overseas and left the service as a sergeant. He ran for city council to focus on public safety after the murder of his son, also a Marine, which he discusses in his campaign biography.",
+  "website": "https://joemalesforca.com",
+  "social": {"x": "https://x.com/JoeMalesforCA", "instagram": "https://www.instagram.com/joemalesforca", "facebook": "https://www.facebook.com/JoeMalesforCA"},
+  "platform": [
+   {"topic": "Public safety", "point": "Make public safety and the rule of law a priority.", "source": "https://joemalesforca.com/"},
+   {"topic": "Infrastructure", "point": "Improve infrastructure and support business growth in the Inland Empire and Imperial County.", "source": "https://joemalesforca.com/"},
+   {"topic": "Veterans", "point": "Support veterans, drawing on his roles with veterans' organizations.", "source": "https://joemalesforca.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 65, "evidence": "Centers his campaign on public safety and the rule of law.", "source": "https://joemalesforca.com/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://joemalesforca.com/wp-content/uploads/2025/04/Adobe-Express-file-5-e1744046921739-847x1024.png",
+  "notes": "No detailed policy platform was found on the campaign site."
+ },
+ {
+  "id": "CA-26/jacqui-irwin",
+  "name": "Jacqui Irwin",
+  "party": "Democratic",
+  "current_role": "California State Assemblymember for AD-42",
+  "bio": "Jacqui Irwin has served in the California State Assembly since 2014, representing the 44th District and since 2022 the 42nd, and chairs the Revenue and Taxation Committee. She previously served as mayor and city council member in Thousand Oaks and worked as a systems engineer at Johns Hopkins University and Teledyne. Raised in Woodland Hills, she holds a systems engineering degree from UC San Diego.",
+  "website": "https://www.jacquiirwin.com",
+  "social": {
+   "x": "https://x.com/jacquiirwin",
+   "facebook": "https://www.facebook.com/ElectJacquiIrwin"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Address the rising cost of living, including federal action to ease construction barriers and fund affordable housing.", "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"},
+   {"topic": "Democracy", "point": "Oppose what she describes as Trump's attacks on democracy and shared values.", "source": "https://www.jacquiirwin.com"},
+   {"topic": "Gun safety", "point": "Expand gun safety measures, building on her gun violence restraining order legislation.", "source": "https://www.jacquiirwin.com"},
+   {"topic": "Climate", "point": "Cites her work reauthorizing California's climate law.", "source": "https://www.jacquiirwin.com"},
+   {"topic": "Wildfire and insurance", "point": "Improve wildfire resilience and access to home insurance.", "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"},
+   {"topic": "Health care", "point": "Protect access to health care.", "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 75, "evidence": "Authored legislation extending gun violence restraining orders to up to five years and campaigns on expanding gun safety (guns only).", "source": "https://en.wikipedia.org/wiki/Jacqui_Irwin"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Highlights her role in reauthorizing California's climate law and authored recycled-plastic content requirements.", "source": "https://www.jacquiirwin.com"},
+   "tech": {"score": 75, "evidence": "Pushed AI companies to disclose training data and authored IoT device security requirements.", "source": "https://en.wikipedia.org/wiki/Jacqui_Irwin"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:150302-Z-WQ610- (16698067641) (cropped).jpg", "license": "CC BY 2.0", "author": "Master Sgt. David J. Loeffler, California National Guard"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5df831e93182260fee97e615/31050071-9e81-41bf-aef4-14df51fe1f34/meeno_Jacqui+Irwin-2022_346.jpg",
+  "notes": "Liberty score rests only on gun policy; no evidence found on her abortion, drug or speech positions, so it may shift once those are known."
+ },
+ {
+  "id": "CA-26/sam-gallucci",
+  "name": "Sam Gallucci",
+  "party": "Republican",
+  "current_role": "Pastor, Embrace Church in Oxnard",
+  "bio": "Sam Gallucci is a pastor at Embrace Church in Oxnard and a former technology executive. He has founded nonprofit efforts serving migrants and people experiencing homelessness. He describes himself as a fiscal conservative seeking to reduce political polarization.",
+  "website": "https://www.samgallucci.com",
+  "social": {},
+  "platform": [
+   {"topic": "Homelessness", "point": "Tackle homelessness, drawing on his nonprofit work with unhoused residents.", "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"},
+   {"topic": "Immigration", "point": "Deport people who commit crimes while letting immigrant workers remain.", "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"},
+   {"topic": "Education", "point": "Lists education among his top campaign concerns.", "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"},
+   {"topic": "Polarization", "point": "Work to reduce political polarization.", "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Said criminals should be deported while immigrant workers should be allowed to stay.", "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site content could not be read beyond its title and Ballotpedia was unreachable, so the platform comes from local news coverage."
+ },
+ {
+  "id": "CA-27/george-whitesides",
+  "name": "George Whitesides",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-27",
+  "bio": "George Whitesides has represented California's 27th District in the U.S. House since January 2025 and serves on the Armed Services and Science, Space, and Technology committees. He was NASA chief of staff (2009-2010) and CEO of Virgin Galactic (2010-2021), and co-founded the wildfire prevention group Megafire Action. A Massachusetts native, he studied at Princeton and the University of Cambridge.",
+  "website": "https://www.georgewhitesides.com",
+  "social": {
+   "x": "https://x.com/Rep_Whitesides",
+   "facebook": "https://www.facebook.com/repwhitesides",
+   "instagram": "https://www.instagram.com/repwhitesides"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower everyday costs, make housing more affordable and create good local jobs.", "source": "https://www.georgewhitesides.com"},
+   {"topic": "Social Security and Medicare", "point": "Defend Social Security and Medicare.", "source": "https://www.georgewhitesides.com"},
+   {"topic": "Wildfires", "point": "Improve wildfire prevention, insurance access and firefighter resources.", "source": "https://whitesides.house.gov/issues"},
+   {"topic": "Government reform", "point": "Get corruption out of Washington and increase accountability.", "source": "https://www.georgewhitesides.com"},
+   {"topic": "Energy", "point": "Back market-driven clean energy innovation to lower costs and reach energy independence.", "source": "https://whitesides.house.gov/issues"},
+   {"topic": "Education", "point": "Expand access to quality K-12, community college and workforce training regardless of income.", "source": "https://whitesides.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 60, "evidence": "Official issues page backs affordable health care access and protecting Social Security and Medicare.", "source": "https://whitesides.house.gov/issues"},
+   "liberty": {"score": 20, "evidence": "Supports protecting reproductive rights (abortion) and is a member of the Congressional Equality Caucus (LGBTQ rights).", "source": "https://whitesides.house.gov/issues"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Supports clean energy innovation for energy independence and lower costs.", "source": "https://whitesides.house.gov/issues"},
+   "tech": null,
+   "education": {"score": 75, "evidence": "Calls for equitable access to quality public education from K-12 through community college.", "source": "https://whitesides.house.gov/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-27/jason-gibbs",
+  "name": "Jason Gibbs",
+  "party": "Republican",
+  "current_role": "Santa Clarita City Council member",
+  "bio": "Jason Gibbs was elected to the Santa Clarita City Council in 2020 and served as mayor in 2023. A mechanical engineer with degrees from Cal Poly San Luis Obispo, he worked in aerospace on the Delta II, Delta IV and Atlas V rocket programs.",
+  "website": "https://www.jasongibbsforcongress.com",
+  "social": {
+   "x": "https://x.com/JGibbs4Congress",
+   "facebook": "https://www.facebook.com/jasongibbsforcongress",
+   "instagram": "https://www.instagram.com/jason_gibbs_for_congress"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Oppose new taxes, lower energy costs and cut wasteful government spending.", "source": "https://www.jasongibbsforcongress.com"},
+   {"topic": "Public safety", "point": "Support law enforcement and end catch-and-release policies.", "source": "https://www.jasongibbsforcongress.com"},
+   {"topic": "Border security", "point": "Secure the border and crack down on fentanyl trafficking while supporting legal immigration.", "source": "https://www.jasongibbsforcongress.com"},
+   {"topic": "Local control", "point": "Oppose one-size-fits-all state and federal mandates in favor of local decisions.", "source": "https://www.jasongibbsforcongress.com"},
+   {"topic": "Education", "point": "Give parents transparency on curriculum and expand career and technical training.", "source": "https://www.jasongibbsforcongress.com"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Opposes new taxes and calls for cutting wasteful spending.", "source": "https://www.jasongibbsforcongress.com"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Backs law enforcement and wants to end catch-and-release policies.", "source": "https://www.jasongibbsforcongress.com"},
+   "immigration": {"score": 60, "evidence": "Supports border security and opposes rewarding illegal entry, while backing legal immigration.", "source": "https://www.jasongibbsforcongress.com"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 40, "evidence": "Calls for parental transparency on curriculum and more technical training.", "source": "https://www.jasongibbsforcongress.com"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Earlier welfare and liberty scores were removed because their Ballotpedia source could not be loaded to confirm them."
+ },
+ {
+  "id": "CA-28/judy-chu",
+  "name": "Judy Chu",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-28",
+  "bio": "Judy Chu has served in the U.S. House since 2009, representing the 28th District since 2023, and sits on the Ways and Means Committee; she was the first Chinese American woman elected to Congress. She previously served on the California State Board of Equalization, in the State Assembly (2001-2006), and as mayor of Monterey Park. A Los Angeles native, she taught psychology at East Los Angeles College for 13 years.",
+  "website": "https://www.judychu.org",
+  "social": {
+   "x": "https://x.com/RepJudyChu",
+   "facebook": "https://www.facebook.com/RepJudyChu",
+   "instagram": "https://www.instagram.com/repjudychu",
+   "youtube": "https://www.youtube.com/RepJudyChu"
+  },
+  "platform": [
+   {"topic": "Climate", "point": "End dependence on fossil fuels and invest in clean energy jobs.", "source": "https://chu.house.gov/issues"},
+   {"topic": "Immigration", "point": "Reform the immigration system, including for millions of undocumented immigrants and waiting family members.", "source": "https://chu.house.gov/issues"},
+   {"topic": "Education", "point": "Fully fund schools and ensure equal opportunity from pre-K through college.", "source": "https://chu.house.gov/issues"},
+   {"topic": "Seniors", "point": "Protect Social Security and Medicare and address retiree health costs.", "source": "https://chu.house.gov/issues"},
+   {"topic": "Small business", "point": "Expand access to capital and workforce development for underserved entrepreneurs.", "source": "https://chu.house.gov/issues"},
+   {"topic": "Housing", "point": "Highlights her support for extending eviction protections.", "source": "https://www.judychu.org"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Supports a 30% minimum tax on millionaires and raising estate taxes.", "source": "https://www.ontheissues.org/CA/Judy_Chu.htm"},
+   "welfare": {"score": 90, "evidence": "Member of the Medicare for All Caucus and opposed Medicare cuts in the Ryan budget.", "source": "https://en.wikipedia.org/wiki/Judy_Chu"},
+   "liberty": {"score": 30, "evidence": "Supports abortion rights and marriage equality, while backing universal background checks and limits on large-capacity magazines.", "source": "https://www.ontheissues.org/CA/Judy_Chu.htm"},
+   "security": {"score": 20, "evidence": "Opposed extending PATRIOT Act roving wiretaps and supports stricter police accountability.", "source": "https://www.ontheissues.org/CA/Judy_Chu.htm"},
+   "immigration": {"score": 10, "evidence": "Supports legalizing Dreamers, legal representation for deported children, and opposes religion-based bans.", "source": "https://www.ontheissues.org/CA/Judy_Chu.htm"},
+   "foreign": {"score": 40, "evidence": "Voted against the 2024 Israel aid package, saying Israel could pursue the war without offensive military aid.", "source": "https://en.wikipedia.org/wiki/Judy_Chu"},
+   "energy": {"score": 95, "evidence": "Backs the Green New Deal, opposes offshore drilling and calls for ending fossil fuel dependence.", "source": "https://www.ontheissues.org/CA/Judy_Chu.htm"},
+   "tech": {"score": 60, "evidence": "Supports net neutrality and opposed cybersecurity data-sharing with government.", "source": "https://www.ontheissues.org/CA/Judy_Chu.htm"},
+   "education": {"score": 85, "evidence": "Opposes school vouchers and supports free community college.", "source": "https://www.ontheissues.org/CA/Judy_Chu.htm"},
+   "faith": {"score": 15, "evidence": "Supports separation of religious and governmental spheres and opposes any religious registry.", "source": "https://www.ontheissues.org/CA/Judy_Chu.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/618bfd281b5ecf79e8d29d15/7db19626-5f86-4b13-9579-88ace945477c/meeno-Judy_Chu-1338+copy.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-28/april-verlato",
+  "name": "April Verlato",
+  "party": "Republican",
+  "current_role": "Mayor of Arcadia",
+  "bio": "April Verlato is an attorney and businesswoman who has served on the Arcadia City Council, including as mayor. She is running for California's 28th Congressional District on a platform of fiscal restraint, public safety and border security.",
+  "website": "https://verlatoforcongress.com",
+  "social": {
+   "x": "https://twitter.com/AprilVerlato",
+   "instagram": "https://instagram.com/AprilVerlato",
+   "facebook": "https://www.facebook.com/profile.php?id=61551609844120"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Create jobs through smaller government and lower taxes.", "source": "https://verlatoforcongress.com/"},
+   {"topic": "National debt", "point": "Practice fiscal responsibility and address the national debt.", "source": "https://verlatoforcongress.com/"},
+   {"topic": "Public safety", "point": "Give strong support to law enforcement.", "source": "https://verlatoforcongress.com/"},
+   {"topic": "Border security", "point": "Secure the nation's borders.", "source": "https://verlatoforcongress.com/"},
+   {"topic": "Health care", "point": "Favor market-driven health care solutions.", "source": "https://verlatoforcongress.com/"},
+   {"topic": "Veterans", "point": "Prioritize veterans' needs.", "source": "https://verlatoforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaigns on smaller government and lower taxes.", "source": "https://verlatoforcongress.com/"},
+   "welfare": {"score": 25, "evidence": "Supports market-driven health care solutions.", "source": "https://verlatoforcongress.com/"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Pledges strong support for law enforcement.", "source": "https://verlatoforcongress.com/"},
+   "immigration": {"score": 75, "evidence": "Lists securing the borders as a core priority.", "source": "https://verlatoforcongress.com/"},
+   "foreign": {"score": 60, "evidence": "Lists strengthening national security among her priorities.", "source": "https://verlatoforcongress.com/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her title comes from the campaign site; Arcadia rotates the mayor post among council members."
+ }
+]

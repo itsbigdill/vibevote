@@ -1,0 +1,398 @@
+[
+ {
+  "id": "GA-11/chris-harden",
+  "name": "Chris Harden",
+  "party": "Democratic",
+  "race": "GA-11",
+  "race_label": "Georgia · US House GA-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 75,
+    "liberty": 35,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": 70,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Wealthy pay fair share, higher minimum wage, expand ACA credits, abortion rights plus gun safety, clean energy, ban AI surveillance pricing, public schools.",
+   "sources": [
+    "https://electharden.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-12/rick-allen",
+  "name": "Rick Allen",
+  "party": "Republican",
+  "race": "GA-12",
+  "race_label": "Georgia · US House GA-12",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "A000372",
+   "official_name": "Rick W. Allen",
+   "chamber": "House",
+   "official_site": "https://allen.house.gov",
+   "official_social": {
+    "twitter": "RepRickAllen",
+    "instagram": "Rep_RickAllen",
+    "facebook": "CongressmanRickAllen"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 80,
+    "security": null,
+    "immigration": 80,
+    "foreign": 45,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": 90
+   },
+   "basis": "Tax cuts and anti-ESG bills, opposed same-sex marriage and cannabis, backed travel ban, opposed later Ukraine aid, IRA freeze, religious framing.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rick_Allen_(politician)"
+   ],
+   "photo": {
+    "file": "File:Rick Allen Official Photo, 114th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "US House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "GA-12/ceretta-smith",
+  "name": "Ceretta Smith",
+  "party": "Democratic",
+  "race": "GA-12",
+  "race_label": "Georgia · US House GA-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 45,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Fair wages, expanded affordable coverage and mental health care, reproductive rights plus gun safety measures, fair funding for public schools.",
+   "sources": [
+    "https://cerettaforga.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-13/jasmine-clark",
+  "name": "Jasmine Clark",
+  "party": "Democratic",
+  "race": "GA-13",
+  "race_label": "Georgia · US House GA-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 75,
+    "liberty": 30,
+    "security": 25,
+    "immigration": 20,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Tax billionaires, expand healthcare, abortion and LGBTQ rights with assault weapons ban, justice reform, opposes ICE raids, climate, against private school funding.",
+   "sources": [
+    "https://jasmine4ga.com/agenda"
+   ],
+   "photo": {
+    "file": "File:Member of the Georgia House of Representatives Jasmine Michelle Clark.jpg",
+    "license": "Public domain",
+    "author": "Georgia House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "GA-13/jonathan-chavez",
+  "name": "Jonathan Chavez",
+  "party": "Republican",
+  "race": "GA-13",
+  "race_label": "Georgia · US House GA-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 40,
+    "liberty": null,
+    "security": 70,
+    "immigration": 75,
+    "foreign": 55,
+    "energy": 35,
+    "tech": null,
+    "education": 15,
+    "faith": 80
+   },
+   "basis": "FairTax and deregulation, ACA repeal with Medicaid expansion, more police resources, secure borders, peace through strength, school choice, Judeo-Christian values.",
+   "sources": [
+    "https://jonathanchavezforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-14/clay-fuller",
+  "name": "Clay Fuller",
+  "party": "Republican",
+  "race": "GA-14",
+  "race_label": "Georgia · US House GA-14",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000485",
+   "official_name": "Clay Fuller",
+   "chamber": "House",
+   "official_site": "https://fuller.house.gov",
+   "official_social": {},
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 25,
+    "security": 75,
+    "immigration": 95,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 80
+   },
+   "basis": "Second Amendment rights, tough prosecution with law enforcement, backs mass deportation, says Constitution was inspired by Christ's teachings.",
+   "sources": [
+    "https://clayfullerforgeorgia.com/"
+   ],
+   "photo": {
+    "file": "File:Clay Fuller official congressional photograph 119th congress.jpg",
+    "license": "Public domain",
+    "author": "Unknown author (U.S. House)"
+   }
+  }
+ },
+ {
+  "id": "GA-14/shawn-harris",
+  "name": "Shawn Harris",
+  "party": "Democratic",
+  "race": "GA-14",
+  "race_label": "Georgia · US House GA-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 75,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Expand Medicare to long-term care and drug negotiation, Women's Health Protection Act, strong gun ownership with safe storage, restore Education Department.",
+   "sources": [
+    "https://www.shawnforgeorgia.com/on-the-issues/healthcare/",
+    "https://www.shawnforgeorgia.com/on-the-issues/womens-health/",
+    "https://www.shawnforgeorgia.com/on-the-issues/education/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-14/andrew-underwood",
+  "name": "Andrew Underwood",
+  "party": "Libertarian",
+  "race": "GA-14",
+  "race_label": "Georgia · US House GA-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "HI-1/ed-case",
+  "name": "Ed Case",
+  "party": "Democratic",
+  "race": "HI-1",
+  "race_label": "Hawaii · US House HI-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001055",
+   "official_name": "Ed Case",
+   "chamber": "House",
+   "official_site": "https://case.house.gov",
+   "official_social": {
+    "twitter": "RepEdCase",
+    "facebook": "RepEdCase",
+    "instagram": "repedcase",
+    "youtube": "RepEdCase"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 75,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Blue Dog fiscal moderate who resisted the $3.5 trillion reconciliation plan; founded Pacific Islands Caucus and backed Israel aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ed_Case"
+   ],
+   "photo": {
+    "file": "File:Ed Case, official portrait, 119th Congress (slight crop 2).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman"
+   }
+  }
+ },
+ {
+  "id": "HI-1/adriel-lam",
+  "name": "Adriel Lam",
+  "party": "Republican",
+  "race": "HI-1",
+  "race_label": "Hawaii · US House HI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": 75,
+    "security": null,
+    "immigration": null,
+    "foreign": 70,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No tax on tips, overtime or Social Security; liberty score from protecting women's sports; hawkish Iran stance.",
+   "sources": [
+    "https://lam4aloha.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "HI-1/jordan-conley",
+  "name": "Jordan Conley",
+  "party": "Green",
+  "race": "HI-1",
+  "race_label": "Hawaii · US House HI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "HI-1/nathan-berning",
+  "name": "Nathan Berning",
+  "party": "Nonpartisan",
+  "race": "HI-1",
+  "race_label": "Hawaii · US House HI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Hawaii%27s_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ }
+]

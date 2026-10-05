@@ -1,0 +1,380 @@
+[
+ {
+  "id": "OH-15/gary-josephson",
+  "name": "Gary Josephson",
+  "party": "Independent",
+  "current_role": "Former union local president (CWA Local 4501)",
+  "bio": "Gary Josephson is an independent candidate for Ohio's 15th Congressional District and was the Democratic nominee for the seat in 2022. A Cleveland native living in central Ohio, he holds two bachelor's degrees from The Ohio State University and served as president of Communications Workers of America Local 4501, negotiating for about 2,500 public-sector workers.",
+  "website": "https://josephson4rep.org/",
+  "social": {
+   "x": "https://x.com/josephson4rep",
+   "instagram": "https://www.instagram.com/josephson4rep",
+   "facebook": "https://www.facebook.com/josephson4rep"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Lists universal health care as one of his six core goals.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   {
+    "topic": "Energy",
+    "point": "Says coal's time has passed and that sustainable energy and agriculture are where future jobs lie.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Proposes rebuilding U.S. industry through public-private partnerships that create green jobs.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   {
+    "topic": "Student debt",
+    "point": "Proposes letting borrowers erase student debt through community service.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Supports reproductive rights and says contraception, marriage and privacy rights are under threat after Roe was overturned.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   {
+    "topic": "Guns",
+    "point": "Calls self-defense a natural right but says there is no individual right to unlimited firepower.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   {
+    "topic": "Redistricting",
+    "point": "Wants district lines drawn without partisan bias and says his own district fails that test.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Wants foreign policy built on human rights and environmental stewardship, backed by a science-based national defense.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "General statement: proposes rebuilding U.S. industry through public-private green-jobs partnerships (2022 campaign site).",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Lists universal health care as a core campaign goal (2022 campaign site).",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Supports reproductive rights (abortion) and says marriage and contraception rights are threatened; backs self-defense but no right to unlimited firepower (guns).",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 55,
+    "evidence": "General statement: seeks warm relations abroad grounded in human rights and supports a strong, carefully budgeted national defense.",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Says coal's time has passed and that sustainable energy and agriculture are the future (2022 campaign site).",
+    "source": "https://web.archive.org/web/20221108000314/https://josephson4rep.org/policies.html"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions come from his archived 2022 campaign site (policies and biography pages); the current josephson4rep.org returned rate-limit errors, so 2026 statements as an independent could not be checked. No positions were found on immigration, tech, education, faith or police powers."
+ },
+ {
+  "id": "OH-4/tracey-tackett",
+  "name": "Tracey Tackett",
+  "party": "Independent",
+  "current_role": "Assistant Mayor of Springfield, Ohio; small business owner",
+  "bio": "Tracey Tackett is an independent candidate for Ohio's 4th District, assistant mayor of Springfield, and owner of a Springfield paint bar for about 12 years. She holds a bachelor's degree from Wittenberg University and a master's in public policy and leadership from Ohio State, and the Forward Party has endorsed her.",
+  "website": "https://www.traceytackett.org/",
+  "social": {
+   "instagram": "https://www.instagram.com/official_tracey_tackett",
+   "facebook": "https://www.facebook.com/Officialtraceytackett",
+   "tiktok": "https://www.tiktok.com/@tracey.tackett"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Wants to end illegal immigration, reform asylum, offer citizenship to some long-present immigrants and expand high-skilled and work visas.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Immigration enforcement",
+    "point": "Wants enforcement resources focused on criminals, starting with the most serious offenders.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs an all-of-the-above energy policy favoring the lowest-cost, cleanest sources such as solar and natural gas.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Elections",
+    "point": "Supports independent redistricting, state-funded free photo IDs for voting and ending dark money in campaigns.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Congressional reform",
+    "point": "Plans to join an independent caucus, strip leadership control of committee seats and lower discharge petition thresholds.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Local government",
+    "point": "Wants more federal resources and flexibility for local governments, including funding for police and firefighters.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "War powers",
+    "point": "Wants Congress to reclaim its constitutional power over taxes and declarations of war.",
+    "source": "https://www.traceytackett.org/issues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 55,
+    "evidence": "General statement: wants every community to have federal funding for police and other frontline workers.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   "immigration": {
+    "score": 45,
+    "evidence": "Calls for ending illegal immigration and border control, but also a pathway to citizenship, criminal-focused enforcement and more work and high-skilled visas.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 50,
+    "evidence": "Supports an all-of-the-above energy policy prioritizing the cheapest and cleanest options, including solar and natural gas.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/62c47551eff9bf4b5711d34e/da9989a8-9758-4c10-a29f-ab6a9c3a4d6e/b7e4b55e-3361-4952-b365-46bdb6089bbb.jpeg",
+  "notes": "Read the campaign home, about, issues, endorsements, events and press pages; local news (Delaware Gazette, Independent Political Report) blocked automated access. No stated positions were found on taxes, health care, abortion, guns, foreign policy, tech, education or religion."
+ },
+ {
+  "id": "OH-5/michael-veloff",
+  "name": "Michael J. Veloff",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Michael J. Veloff won the 2026 Libertarian primary for Ohio's 5th District as a write-in candidate. The United States Pirate Party endorsed him in July 2026, and he frames his run as a challenge to incumbent Bob Latta.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Criminal justice",
+    "point": "Calls for reform of bail review.",
+    "source": "https://uspirates.org/endorsed-michael-veloff-for-ohios-5th-congressional-district/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Proposes providing firearms and training to vulnerable people.",
+    "source": "https://uspirates.org/endorsed-michael-veloff-for-ohios-5th-congressional-district/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Only source found is the Pirate Party endorsement post, whose humorous tone (such as moving Fort Knox's gold to his basement) makes its gun proposal unsuitable for scoring. No campaign website was found and his Facebook page requires login."
+ },
+ {
+  "id": "OK-4/rocco-bonacci",
+  "name": "Rocco Bonacci",
+  "party": "Independent",
+  "current_role": "Disability advocate; member of the Lawton Access Board",
+  "bio": "Rocco Bonacci, of Lawton, is a disability advocate and member of the Lawton Access Board. He is a retired U.S. Air Force fighter pilot who commanded Air Force Basic Military Training in San Antonio before settling in Oklahoma.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched the Wikipedia race page, the state candidate list citation, KOSU (blocked) and the Lawton Constitution archive, which had no campaign coverage. No campaign website, questionnaire answers or policy statements were found."
+ },
+ {
+  "id": "OK-5/robert-henri",
+  "name": "Robert P. Henri",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Robert Patrick Henri is an independent candidate for Oklahoma's 5th congressional district. His campaign, Project Due Course, promotes 18 congressional ethics and process reforms, and he describes himself as a working-class outsider rather than a career politician.",
+  "website": "https://projectduecourse.org/",
+  "social": {
+   "x": "https://x.com/produecourse",
+   "instagram": "https://instagram.com/projectduecourse",
+   "facebook": "https://facebook.com/projectduecourse",
+   "youtube": "https://youtube.com/@projectduecourse"
+  },
+  "platform": [
+   {
+    "topic": "Term limits",
+    "point": "Enact term limits for members of Congress.",
+    "source": "https://projectduecourse.org/"
+   },
+   {
+    "topic": "Congressional stock trading",
+    "point": "Ban members of Congress from trading individual stocks.",
+    "source": "https://projectduecourse.org/"
+   },
+   {
+    "topic": "Supreme Court ethics",
+    "point": "Adopt an enforceable Supreme Court ethics code with outside oversight and penalties.",
+    "source": "https://projectduecourse.org/"
+   },
+   {
+    "topic": "Legislative process",
+    "point": "Require a waiting period before votes so bills can be read, longer for bigger bills.",
+    "source": "https://projectduecourse.org/"
+   },
+   {
+    "topic": "Redistricting",
+    "point": "Have independent commissions draw congressional district lines.",
+    "source": "https://projectduecourse.org/"
+   },
+   {
+    "topic": "Pentagon audit",
+    "point": "Require the Department of Defense to pass a full financial audit.",
+    "source": "https://projectduecourse.org/"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Says the Patriot Act's warrantless NSA spying powers first drew him into politics.",
+    "source": "https://projectduecourse.org/robert-for-congress"
+   },
+   {
+    "topic": "Lobbying",
+    "point": "Wants stronger lobbying disclosure, whistleblower protections and restored independent-counsel enforcement.",
+    "source": "https://projectduecourse.org/issues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 25,
+    "evidence": "Cites the Patriot Act provision letting the NSA spy on Americans without a warrant or due process as what drew him into politics.",
+    "source": "https://projectduecourse.org/robert-for-congress"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://projectduecourse.org/RPH_Candidate_Photo.jpg",
+  "notes": "Read the campaign home, issues, Meet Robert and Oklahoma pages; the 18 reforms (also including age limits and post-Congress lobbying limits) cover ethics and process, not the scored domains. No positions were found on taxes, health care, social issues, immigration, foreign policy, energy, tech, education or religion."
+ },
+ {
+  "id": "OK-5/austin-nieves",
+  "name": "Austin Nieves",
+  "party": "Independent",
+  "current_role": "Entertainer and dancer",
+  "bio": "Austin Nieves is an entertainer and dancer running as an independent for Oklahoma's 5th congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Only the Wikipedia race page and state candidate list mention him; KOSU blocked access and no campaign website, social accounts or issue statements were found."
+ },
+ {
+  "id": "OR-4/justin-filip",
+  "name": "Justin Filip",
+  "party": "Pacific Green",
+  "current_role": "",
+  "bio": "Justin Filip is the Pacific Green Party nominee for Oregon's 4th congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the Wikipedia race page (FEC shows no money raised), the Pacific Green Party site (offline) and the Green Party US candidate page (script-only); Oregon's general-election voters' pamphlet is not yet published. No biography or positions were found."
+ },
+ {
+  "id": "OR-5/andrea-townsend",
+  "name": "Andrea Townsend",
+  "party": "Pacific Green",
+  "current_role": "",
+  "bio": "Andrea Townsend is the Pacific Green Party nominee for Oregon's 5th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the Wikipedia race page, the Pacific Green Party site (offline) and the Green Party US candidate page (script-only); Oregon's general-election voters' pamphlet is not yet published. No biography or positions were found."
+ }
+]

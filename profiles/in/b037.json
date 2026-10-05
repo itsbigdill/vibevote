@@ -1,0 +1,432 @@
+[
+ {
+  "id": "FL-28/carlos-gimenez",
+  "name": "Carlos Giménez",
+  "party": "Republican",
+  "race": "FL-28",
+  "race_label": "Florida · US House FL-28",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000593",
+   "official_name": "Carlos A. Gimenez",
+   "chamber": "House",
+   "official_site": "https://gimenez.house.gov",
+   "official_social": {
+    "twitter": "RepCarlos",
+    "facebook": "RepCarlosGimenez",
+    "instagram": "repcarlosfl"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 40,
+    "security": null,
+    "immigration": 35,
+    "foreign": 70,
+    "energy": 40,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes higher taxes and ran on ACA repeal; backed background checks and Respect for Marriage Act (guns, LGBTQ drove liberty); voted for Haitian TPS.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Carlos_A._Gim%C3%A9nez",
+    "https://www.ontheissues.org/FL/Carlos_Gimenez.htm"
+   ],
+   "photo": {
+    "file": "File:Rep. Carlos Gimenez official photo (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "FL-28/phil-ehr",
+  "name": "Phil Ehr",
+  "party": "Democratic",
+  "race": "FL-28",
+  "race_label": "Florida · US House FL-28",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": null,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants to lower premiums and expand health access, protect immigrant families with residency paths, and pause large AI data centers pending review.",
+   "sources": [
+    "https://ehrforcongress.us/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-28/eddy-rojas",
+  "name": "Eddy Rojas",
+  "party": "Independent",
+  "race": "FL-28",
+  "race_label": "Florida · US House FL-28",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-1/jim-kingston",
+  "name": "Jim Kingston",
+  "party": "Republican",
+  "race": "GA-1",
+  "race_label": "Georgia · US House GA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 30,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Pledges to cut taxes, rein in spending and regulation, favors market competition in health insurance, says faith matters.",
+   "sources": [
+    "https://www.jimkingston.org/",
+    "https://www.clubforgrowth.org/candidates/jim-kingston/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-1/amanda-hollowell",
+  "name": "Amanda Hollowell",
+  "party": "Democratic",
+  "race": "GA-1",
+  "race_label": "Georgia · US House GA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 30,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Medicaid expansion, national paid leave, union rights, clean-energy investment, reproductive and LGBTQ rights, and an assault weapons ban.",
+   "sources": [
+    "https://www.amandaforga.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-2/sanford-bishop",
+  "name": "Sanford Bishop",
+  "party": "Democratic",
+  "race": "GA-2",
+  "race_label": "Georgia · US House GA-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B000490",
+   "official_name": "Sanford D. Bishop, Jr.",
+   "chamber": "House",
+   "official_site": "https://bishop.house.gov",
+   "official_social": {
+    "twitter": "SanfordBishop",
+    "facebook": "sanfordbishop",
+    "youtube": "RepSanfordBishop"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": 55,
+    "security": 55,
+    "immigration": 45,
+    "foreign": 70,
+    "energy": 45,
+    "tech": 60,
+    "education": 90,
+    "faith": 70
+   },
+   "basis": "Supports ACA and opposes vouchers; mixed abortion and gun record (both drove liberty); backed PATRIOT Act, Laken Riley Act, school-prayer amendment.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sanford_Bishop",
+    "https://www.ontheissues.org/GA/Sanford_Bishop.htm"
+   ],
+   "photo": {
+    "file": "File:Sanford Bishop 117th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "GA-2/matt-day",
+  "name": "Matt Day",
+  "party": "Republican",
+  "race": "GA-2",
+  "race_label": "Georgia · US House GA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 75,
+    "security": 70,
+    "immigration": 70,
+    "foreign": 65,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaigns to fight for the unborn (drove liberty), increase border security, back law enforcement, strengthen military, and oppose solar expansion.",
+   "sources": [
+    "https://www.votemattday.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-3/brian-jack",
+  "name": "Brian Jack",
+  "party": "Republican",
+  "race": "GA-3",
+  "race_label": "Georgia · US House GA-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000311",
+   "official_name": "Brian Jack",
+   "chamber": "House",
+   "official_site": "https://jack.house.gov",
+   "official_social": {
+    "twitter": "RepBrianJack",
+    "facebook": "RepBrianJack",
+    "instagram": "repbrianjack"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": null,
+    "security": 60,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign priorities: cut taxes, end illegal immigration, unleash American energy, stop crime, strengthen the US-Israel relationship.",
+   "sources": [
+    "https://brianjack.com/",
+    "https://en.wikipedia.org/wiki/Brian_Jack"
+   ],
+   "photo": {
+    "file": "File:Jack Brian 119th Congress (3x4 crop).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "GA-3/maura-keller",
+  "name": "Maura Keller",
+  "party": "Democratic",
+  "race": "GA-3",
+  "race_label": "Georgia · US House GA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports raising the minimum wage, expanding health coverage, fixing Social Security, and right-to-repair laws.",
+   "sources": [
+    "https://maurakeller.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-4/hank-johnson",
+  "name": "Hank Johnson",
+  "party": "Democratic",
+  "race": "GA-4",
+  "race_label": "Georgia · US House GA-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000288",
+   "official_name": "Henry C. \"Hank\" Johnson, Jr.",
+   "chamber": "House",
+   "official_site": "https://hankjohnson.house.gov",
+   "official_social": {
+    "twitter": "RepHankJohnson",
+    "facebook": "115356957005",
+    "youtube": "RepHankJohnson",
+    "instagram": "rephankjohnson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 90,
+    "liberty": 15,
+    "security": 20,
+    "immigration": 15,
+    "foreign": 45,
+    "energy": 85,
+    "tech": 70,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Backs higher taxes on the wealthy, public health insurance, abortion rights and background checks, limits on surveillance, citizenship pathway, clean energy, net neutrality; opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/GA/Hank_Johnson.htm",
+    "https://en.wikipedia.org/wiki/Hank_Johnson"
+   ],
+   "photo": {
+    "file": "File:Hank Johnson, official portrait 115th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "GA-4/james-duffie",
+  "name": "James Duffie",
+  "party": "Republican",
+  "race": "GA-4",
+  "race_label": "Georgia · US House GA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found.",
+   "sources": [
+    "https://www.wsbtv.com/news/local/georgia-general-election-2026-candidates-us-senate-all-14-us-house-seats/TCGX3E477BG7FCEATCR67KRDBQ/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "GA-5/nikema-williams",
+  "name": "Nikema Williams",
+  "party": "Democratic",
+  "race": "GA-5",
+  "race_label": "Georgia · US House GA-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000788",
+   "official_name": "Nikema Williams",
+   "chamber": "House",
+   "official_site": "https://nikemawilliams.house.gov",
+   "official_social": {
+    "twitter": "RepNikema",
+    "facebook": "RepNikemaWilliams",
+    "instagram": "repnikema"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 95,
+    "liberty": 15,
+    "security": 20,
+    "immigration": 15,
+    "foreign": null,
+    "energy": 90,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Supports Medicare for All, abortion rights, gun control and marijuana legalization, police accountability, Dreamer citizenship, Green New Deal; opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/GA/Nikema_Williams.htm",
+    "https://www.nikemaforcongress.com/"
+   ],
+   "photo": {
+    "file": "File:Rep. Nikema Williams official photo, 117th Congress (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "House Creative Committee"
+   }
+  }
+ }
+]

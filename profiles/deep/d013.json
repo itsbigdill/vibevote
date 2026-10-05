@@ -1,0 +1,721 @@
+[
+ {
+  "id": "MI-5/christian-vukasovich",
+  "name": "Christian Vukasovich",
+  "party": "Democratic",
+  "current_role": "College teacher and union organizer",
+  "bio": "Christian Vukasovich is the Democratic nominee for Michigan's 5th Congressional District in 2026. His campaign describes him as a Michigan-born teacher and union organizer who worked as a bricklayer while in school. News coverage of the race lists him as a college professor.",
+  "website": "https://christian4michigan.com/",
+  "social": {
+   "x": "https://x.com/c4michigan",
+   "facebook": "https://www.facebook.com/profile.php?id=61581443142382"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Raise wages, protect union jobs and invest in local manufacturing and infrastructure.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   {
+    "topic": "Health care",
+    "point": "Lower prescription drug costs, protect coverage for preexisting conditions and expand rural access to doctors and hospitals.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   {
+    "topic": "Competition",
+    "point": "Enforce antitrust laws against monopolies, including large agribusinesses that push down prices paid to farmers.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   {
+    "topic": "Housing",
+    "point": "Build and preserve affordable homes, help first-time buyers and ensure fair treatment of renters.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand pre-K for every family, make community college and trade school tuition-free, and raise teacher pay.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Support modern border technology and fair enforcement alongside reforms to the immigration system.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   {
+    "topic": "Energy",
+    "point": "Invest in the power grid, renewable energy and storage, and hold large energy users accountable for water use.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   {
+    "topic": "Rural America",
+    "point": "Expand high-speed internet to every home and farm and invest in rural health care.",
+    "source": "https://christian4michigan.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Campaign calls for raising wages, protecting union jobs, public investment in manufacturing and stronger antitrust enforcement.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Calls health care a right and proposes pre-K for every family plus tuition-free community college and trade schools.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 45,
+    "evidence": "General statement: supports border technology and fair enforcement while calling for reforms and a compassionate system.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "General statement: favors diplomacy to prevent conflict while funding a strong military.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   "energy": {
+    "score": 65,
+    "evidence": "Backs investment in renewable energy, grid and storage, and holding polluters responsible for cleanup costs.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "General statement: pledges to enforce antitrust laws against monopolies and large corporations.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Proposes universal pre-K, tuition-free community college and trade schools, and higher teacher pay.",
+    "source": "https://christian4michigan.com/priorities"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions come from the priorities text built into the campaign site's code (the page renders with JavaScript); no questionnaires, debates or news interviews were found with web search unavailable. Stances on abortion, guns, policing, tech regulation beyond antitrust and religion remain unknown."
+ },
+ {
+  "id": "MI-7/tom-barrett",
+  "name": "Tom Barrett",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MI-7",
+  "bio": "Tom Barrett has represented Michigan's 7th district in the U.S. House since January 2025. He previously served in the Michigan House (2015-2019) and Michigan Senate (2019-2023) and spent over two decades in the Army and Michigan Army National Guard as a helicopter pilot, with deployments including Iraq. He sits on the Transportation and Infrastructure and Veterans' Affairs committees.",
+  "website": "https://tombarrettforcongress.com/",
+  "social": {
+   "x": "https://x.com/tombarrettmi7",
+   "facebook": "https://www.facebook.com/tombarrettmi7",
+   "instagram": "https://www.instagram.com/tombarrettMI7",
+   "youtube": "https://www.youtube.com/@tombarrettmi7"
+  },
+  "platform": [
+   {
+    "topic": "Veterans",
+    "point": "Introduced bills to raise benefits for severely disabled veterans and expand VA home loans to Guard and Reserve members.",
+    "source": "https://barrett.house.gov/issues/introduced-legislation"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Support tax relief for working families.",
+    "source": "https://barrett.house.gov/about"
+   },
+   {
+    "topic": "Housing",
+    "point": "Cut regulatory delays on home building and bar large institutional investors from buying single-family homes.",
+    "source": "https://barrett.house.gov/reform"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand tax-free health savings accounts and require clearer hospital and insurer pricing.",
+    "source": "https://barrett.house.gov/reform"
+   },
+   {
+    "topic": "War powers",
+    "point": "Require military force authorizations to expire after five years unless Congress renews them.",
+    "source": "https://barrett.house.gov/reform"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Ban stock trading by members of Congress and back congressional term limits.",
+    "source": "https://barrett.house.gov/reform"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Proposed a constitutional amendment letting governments limit corporate election spending.",
+    "source": "https://barrett.house.gov/reform"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Bar federal agencies from overriding local authority to reject data centers.",
+    "source": "https://barrett.house.gov/issues/introduced-legislation"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the One Big Beautiful Bill Act's tax cuts in 2025.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted for the One Big Beautiful Bill Act, which included Medicaid changes.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Abortion: voted for the Born-Alive Abortion Survivors Protection Act; LGBTQ: voted for the Protection of Women and Girls in Sports Act (2025).",
+    "source": "https://clerk.house.gov/evs/2025/roll027.xml"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "Voted for the LEOSA Reform Act and the Agent Raul Gonzalez Officer Safety Act in 2025, though he also backed the Anti-CBDC Surveillance State Act.",
+    "source": "https://clerk.house.gov/evs/2025/roll128.xml"
+   },
+   "immigration": {
+    "score": 85,
+    "evidence": "Voted for the Laken Riley Act, the SAVE Act and the District of Columbia Federal Immigration Compliance Act in 2025.",
+    "source": "https://clerk.house.gov/evs/2025/roll006.xml"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Introduced bills to sunset military force authorizations and fast-track votes to end unauthorized force, and voted in 2026 to withdraw U.S. forces from Iran.",
+    "source": "https://barrett.house.gov/reform"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Voted for the Protecting American Energy Production Act and to overturn EPA waivers for California vehicle emission rules in 2025.",
+    "source": "https://clerk.house.gov/evs/2025/roll035.xml"
+   },
+   "tech": {
+    "score": 55,
+    "evidence": "Introduced bills protecting local power to reject data centers and barring members from data center NDAs; voted for the TAKE IT DOWN Act.",
+    "source": "https://barrett.house.gov/issues/introduced-legislation"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Tom Barrett, official portrait (119th Congress).jpg",
+   "license": "Public domain",
+   "author": "Brian Thorpe"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/618846223a022e7ecb41d30c/9477560c-7360-4d24-8505-bab65e96abea/SM%2Bprofile%2B-%2Bcockpit.jpg",
+  "notes": "Scores draw on 2025 House roll calls (Clerk records through roll 208; later rolls were not accessible) and his official Blueprint and bill pages. His positions on education policy and religion in public life were not found."
+ },
+ {
+  "id": "MI-8/tom-smith",
+  "name": "Tom Smith",
+  "party": "Republican",
+  "current_role": "Retired engineer and small-business owner",
+  "bio": "Thomas (Tom) Smith is a longtime Flint resident and retired General Motors engineer who studied at Kettering University and earned an MBA from Michigan State University. In 2009 he co-founded a salsa business with his son, a Marine Corps veteran. He won the August 2026 Republican primary for Michigan's 8th district after suspending his campaign and endorsing another candidate in July.",
+  "website": "https://tomsmithformi.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=61590850209861"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Says he will work with House Republican leaders on President Trump's agenda to lower costs for working families.",
+    "source": "https://www.foxnews.com/politics/gop-dropout-candidate-puts-communist-opponent-notice-after-stunning-comeback-win"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Finish the border wall, restore deportations and end catch-and-release.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   {
+    "topic": "Constitutional rights",
+    "point": "Protect First and Second Amendment rights against federal overreach.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Cut wasteful spending, reduce regulations and lower taxes.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   {
+    "topic": "Budget",
+    "point": "Balance the federal budget and cut wasteful programs.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Support oil, gas and nuclear power for energy independence and oppose green mandates.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Ensure veterans receive the care and benefits they earned.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Push for congressional term limits and government transparency.",
+    "source": "https://tomsmithformi.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "General statement: pledges to cut spending, reduce regulations and lower taxes.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   "welfare": {
+    "score": 35,
+    "evidence": "General statement: calls for balancing the budget and cutting wasteful programs.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Guns and speech: general pledge to protect Second and First Amendment rights from federal overreach; no stated view on abortion, drugs or LGBTQ issues.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports finishing the border wall, restoring deportations and ending catch-and-release.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Backs oil, gas and nuclear energy and opposes green energy mandates.",
+    "source": "https://tomsmithformi.com/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site URL comes from his FEC committee filing and its issue text was read from the site's code. No questionnaires, debates or interviews were found, and his views on policing, foreign policy, tech, education and religion remain unknown."
+ },
+ {
+  "id": "MN-2/eric-pratt",
+  "name": "Eric Pratt",
+  "party": "Republican",
+  "current_role": "Minnesota State Senator",
+  "bio": "Eric Pratt has served in the Minnesota Senate since 2013, including terms as assistant majority leader and majority whip, and is the lead Republican on the Senate Finance Committee. He previously served on and chaired the Prior Lake-Savage school board and worked in banking and financial risk management, including at Target and U.S. Bank. He grew up in Prior Lake and holds degrees from the University of Colorado Boulder and the University of St. Thomas.",
+  "website": "https://www.ericprattmn.com/",
+  "social": {
+   "x": "https://x.com/EricPrattMN",
+   "instagram": "https://www.instagram.com/ericprattmn/",
+   "facebook": "https://www.facebook.com/EricPrattMN/",
+   "tiktok": "https://www.tiktok.com/@ericprattmn",
+   "youtube": "https://www.youtube.com/@EricPrattMN"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Lower costs, support small businesses and stabilise the economy for working families.",
+    "source": "https://www.ericprattmn.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Back law enforcement and first responders with consistent enforcement up to the border.",
+    "source": "https://www.ericprattmn.com/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Crack down on fraud and abuse in government programs.",
+    "source": "https://www.ericprattmn.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Cap local property tax growth, cut vehicle tab fees and exempt tips and overtime from state income tax.",
+    "source": "https://www.mnsenaterepublicans.com/pratt-supports-commonsense-measures-to-make-life-affordable-for-minnesota-families/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Offered an energy plan lifting Minnesota's nuclear ban and keeping coal and gas available for reliability.",
+    "source": "https://www.mnsenaterepublicans.com/democrat-blackout-bill-raises-energy-costs-lowers-reliability-3/"
+   },
+   {
+    "topic": "Paid leave",
+    "point": "Opposed Minnesota's state paid leave program as too costly, favoring a more flexible alternative.",
+    "source": "https://www.mnsenaterepublicans.com/democrats-expensive-paid-leave-program-cost-increasing-by-630-million/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Pushes state tax relief and a property tax cap, and backed a law barring local governments from setting minimum wages above the state's.",
+    "source": "https://www.mnsenaterepublicans.com/%ef%bb%bfsen-pratt-earns-guardian-of-small-business-award/"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Opposed Minnesota's paid leave program as a costly one-size-fits-all mandate and emphasizes fraud crackdowns in state programs.",
+    "source": "https://www.mnsenaterepublicans.com/democrats-expensive-paid-leave-program-cost-increasing-by-630-million/"
+   },
+   "liberty": {
+    "score": 80,
+    "evidence": "Abortion: opposed Minnesota's 2023 abortion-rights law and backed amendments for parental notification and limits on later abortions; other liberty issues not addressed.",
+    "source": "https://www.mnsenaterepublicans.com/senate-democrats-force-through-extreme-abortion-bill/"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "General statement: campaign emphasises backing law enforcement and first responders.",
+    "source": "https://www.ericprattmn.com/"
+   },
+   "immigration": {
+    "score": 65,
+    "evidence": "General statement: calls for consistent law enforcement extending to the border.",
+    "source": "https://www.ericprattmn.com/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 30,
+    "evidence": "Opposed Minnesota's 100% carbon-free power bill and offered an all-of-the-above plan adding nuclear, hydro and backup coal and gas.",
+    "source": "https://www.mnsenaterepublicans.com/democrat-blackout-bill-raises-energy-costs-lowers-reliability-3/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Minnesota State Senator Eric Pratt.jpg",
+   "license": "CC BY 2.0",
+   "author": "Minnesota Senate Republican Caucus"
+  },
+  "campaign_photo": "",
+  "notes": "Added scores come from his statements in Minnesota Senate Republican caucus releases; his campaign site lists only four broad priorities. His views on foreign policy, tech regulation, school choice and religion were not found."
+ },
+ {
+  "id": "MN-3/kelly-morrison",
+  "name": "Kelly Morrison",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MN-3",
+  "bio": "Kelly Morrison is an OB-GYN from Minneapolis who has represented Minnesota's 3rd congressional district since 2025. She served in the Minnesota House from 2019 to 2023 and the Minnesota Senate from 2023 to 2024, holding assistant majority leader roles in both chambers. She sits on the House Small Business and Veterans' Affairs committees.",
+  "website": "https://www.kellyforcongress.org/",
+  "social": {
+   "x": "https://x.com/kellymorrisonmn",
+   "instagram": "https://www.instagram.com/kellymorrisonmn",
+   "facebook": "https://www.facebook.com/repkellymorrison"
+  },
+  "platform": [
+   {
+    "topic": "Reproductive rights",
+    "point": "Protect abortion access, building on the pro-choice laws she helped pass in Minnesota.",
+    "source": "https://en.wikipedia.org/wiki/Kelly_Morrison"
+   },
+   {
+    "topic": "Health care",
+    "point": "Bring her experience as a physician to health care policy, including through the Democratic Doctors Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Kelly_Morrison"
+   },
+   {
+    "topic": "Priorities",
+    "point": "Lists the economy, environment, health care, small business and veterans as focus areas.",
+    "source": "https://morrison.house.gov/about/issues"
+   },
+   {
+    "topic": "Gun violence",
+    "point": "Called for gun safety reforms on the House floor after the Annunciation Catholic School shooting.",
+    "source": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-reads-letters-minnesotans-calling-gun-control-house"
+   },
+   {
+    "topic": "Iran war",
+    "point": "Cosponsored the No Funds for Iran War Act and voted for war powers resolutions to end the conflict.",
+    "source": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-cosponsors-bill-to-block-iran-war-funding"
+   },
+   {
+    "topic": "Immigration detention",
+    "point": "Cosponsored the Ban Warehouse Detention Act to stop ICE from converting warehouses into detention centers.",
+    "source": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-cosponsors-bill-ban-ice-warehouse-detention-facilities"
+   },
+   {
+    "topic": "Trade",
+    "point": "Calls for ending the tariff dispute with Canada.",
+    "source": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-calls-to-end-trade-war-with-canada-minnesotas-closest-ally"
+   },
+   {
+    "topic": "Voting",
+    "point": "Introduced a bill supporting ranked choice voting.",
+    "source": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-introduces-bill-support-ranked-choice-voting"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Voted against the 2025 One Big Beautiful Bill Act tax package and against repealing CFPB consumer finance rules.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Voted against the One Big Beautiful Bill Act, which included Medicaid changes, and against the 2025 Rescissions Act.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Abortion: helped pass Minnesota's abortion-rights law; guns: calls for gun safety reforms; LGBTQ: voted against the 2025 women's sports bill.",
+    "source": "https://en.wikipedia.org/wiki/Kelly_Morrison"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Voted against the LEOSA Reform Act and the Agent Raul Gonzalez Officer Safety Act in 2025.",
+    "source": "https://clerk.house.gov/evs/2025/roll128.xml"
+   },
+   "immigration": {
+    "score": 20,
+    "evidence": "Cosponsored the Ban Warehouse Detention Act and voted against the Laken Riley Act and the SAVE Act.",
+    "source": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-cosponsors-bill-ban-ice-warehouse-detention-facilities"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Cosponsored the No Funds for Iran War Act, while urging stronger ties with Canada as a close ally.",
+    "source": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-cosponsors-bill-to-block-iran-war-funding"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Criticized the repeal of clean energy tax credits and voted against the Protecting American Energy Production Act and the reversal of California vehicle emission waivers.",
+    "source": "https://morrison.house.gov/media/press-releases/us-rep-kelly-morrison-examines-rising-energy-costs-squeezing-main-street"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/654012ca83c17f263dd36e01/19f3a2d5-e23f-4234-a832-a50f26d23808/Kelly-Morrison-header3.jpg",
+  "notes": "New scores draw on 2025 House roll calls and her official press releases; her campaign site has no issues page. Her views on tech regulation, school choice and religion in public life were not found."
+ },
+ {
+  "id": "MO-1/paul-berry",
+  "name": "Paul Berry III",
+  "party": "Republican",
+  "current_role": "Bail bondsman",
+  "bio": "Paul Berry III is a St. Louis bail bondsman who has run for office several times. He won the 2026 Republican primary for Missouri's 1st District with the endorsement of the St. Louis City Republican Central Committee.",
+  "website": "https://www.momadmaga.com",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Socialism",
+    "point": "Makes opposing socialist influence in St. Louis politics the center of his campaign.",
+    "source": "https://www.momadmaga.com/"
+   },
+   {
+    "topic": "Amendment 3",
+    "point": "Urges Republicans to unite behind Amendment 3 on the Missouri ballot.",
+    "source": "https://www.momadmaga.com/"
+   },
+   {
+    "topic": "Grassroots organizing",
+    "point": "Asks for statewide volunteers to phone bank and write letters in the 1st District.",
+    "source": "https://www.momadmaga.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Campaigns against socialism, describing it as government limiting what people earn and redistributing it.",
+    "source": "https://www.momadmaga.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 80,
+    "evidence": "Abortion: calls himself essential to defending Amendment 3 and is endorsed by Missouri Right to Life; no other liberty issues are addressed.",
+    "source": "https://www.momadmaga.com/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site was re-read in full and contains only anti-socialism messaging, an Amendment 3 appeal and endorsements; no questionnaires or interviews could be found because web search was unavailable. His campaign site uses the suffix III, while Wikipedia lists him as Paul Berry."
+ },
+ {
+  "id": "MO-8/christopher-reichard",
+  "name": "Christopher Reichard",
+  "party": "Democratic",
+  "current_role": "Army veteran and union electrician",
+  "bio": "Christopher Reichard is a disabled Army veteran who served from 2004 to 2012, including deployments to Iraq, and a second-generation member of IBEW Local 1 working as a communications technician. Raised in High Ridge and living in Arnold, Missouri, he won the 2026 Democratic primary for Missouri's 8th Congressional District.",
+  "website": "https://www.reichardforrep.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Labor",
+    "point": "Pass the PRO Act to protect organizing rights and strengthen unions.",
+    "source": "https://www.reichardforrep.com/issues/support_working_families"
+   },
+   {
+    "topic": "Veterans",
+    "point": "End offsets between military retirement and VA disability pay and restore cut VA staff positions.",
+    "source": "https://www.reichardforrep.com/issues/stand-up-for-our-veterans"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Keep the U.S. out of another prolonged war, put diplomacy first and support the Full Cost of War Act.",
+    "source": "https://www.reichardforrep.com/"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "End Citizens United and remove dark money from elections; refuses corporate PAC money.",
+    "source": "https://www.reichardforrep.com/"
+   },
+   {
+    "topic": "Civil rights",
+    "point": "Support the Equality Act and the REPAIR Act.",
+    "source": "https://www.reichardforrep.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Push to defund and abolish ICE and require enforcement that follows due process.",
+    "source": "https://www.reichardforrep.com/issues/defend-our-constitution-and-civil-rights"
+   },
+   {
+    "topic": "Health care",
+    "point": "Secure rural health care access through Medicare for All or Medicaid support for rural facilities.",
+    "source": "https://www.reichardforrep.com/issues/support_working_families"
+   },
+   {
+    "topic": "Trade",
+    "point": "Seek fair trade that protects workers and farmers from tariff-driven cost increases.",
+    "source": "https://www.reichardforrep.com/issues/support_working_families"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Supports the PRO Act and stronger unions.",
+    "source": "https://www.reichardforrep.com/issues/support_working_families"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Names Medicare for All or expanded Medicaid support as ways to secure rural health care access.",
+    "source": "https://www.reichardforrep.com/issues/support_working_families"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "LGBTQ: supports the Equality Act; abortion: supports access to safe abortion care.",
+    "source": "https://www.reichardforrep.com/issues/defend-our-constitution-and-civil-rights"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Calls for holding officials accountable for rights abuses and has urged protesters to file police complaints with St. Louis civilian oversight.",
+    "source": "https://www.reichardforrep.com/news"
+   },
+   "immigration": {
+    "score": 10,
+    "evidence": "Calls for defunding and abolishing ICE.",
+    "source": "https://www.reichardforrep.com/issues/defend-our-constitution-and-civil-rights"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Wants to avoid another forever war, backs the Full Cost of War Act and says he supports diplomacy first.",
+    "source": "https://www.reichardforrep.com/issues/stand-up-for-our-veterans"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://content.campaignpartner.net/images/150810/2_download.jpg",
+  "notes": "Added positions come from the campaign's three issue subpages and news page; Wikipedia describes him as a construction worker. His views on energy, tech, education and religion were not found."
+ },
+ {
+  "id": "NC-2/gene-douglass",
+  "name": "Gene Douglass",
+  "party": "Republican",
+  "current_role": "Retired chemistry professor",
+  "bio": "Eugene (Gene) Douglass is the Republican nominee for North Carolina's 2nd District and a retired chemistry professor with a doctorate from NC State who taught at colleges in the U.S. and abroad, including UNC Pembroke. He ran in the 2024 Republican primary for this seat and in a 2002 New Hampshire congressional primary, and has not held elected office.",
+  "website": "https://www.gdouglass.us/",
+  "social": {
+   "x": "https://x.com/efdouglass"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Adopt a flat tax rate with minimal deductions for individuals and businesses.",
+    "source": "https://efdouglass.substack.com/p/a-quick-update-my-new-brochure-please"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Reduce federal regulation and return authority to states and localities.",
+    "source": "https://efdouglass.substack.com/p/a-quick-update-my-new-brochure-please"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Supports a Human Life Amendment and state bans on abortion after a heartbeat is detected, with rape and incest exceptions.",
+    "source": "https://efdouglass.substack.com/p/declaration-of-candidacy-for-us-congress"
+   },
+   {
+    "topic": "Education",
+    "point": "Shift K-12 oversight to states and localities and cut federal education spending.",
+    "source": "https://efdouglass.substack.com/p/a-quick-update-my-new-brochure-please"
+   },
+   {
+    "topic": "Parental rights",
+    "point": "Require parental consent before schools change a child's gender markers or pronouns.",
+    "source": "https://efdouglass.substack.com/p/deborah-ross-voted-to-keep-secrets"
+   },
+   {
+    "topic": "Energy",
+    "point": "License new nuclear fission plants and require large data centers to supply their own firm power.",
+    "source": "https://efdouglass.substack.com/p/nc-state-trains-nuclear-engineers"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Opposes illegal immigration, saying it lowers wages, while supporting legal seasonal work.",
+    "source": "https://efdouglass.substack.com/p/coffee-with-hispanics-gilbert-pagan"
+   },
+   {
+    "topic": "Welfare",
+    "point": "Favors work requirements and says the federal government is too large.",
+    "source": "https://efdouglass.substack.com/p/coffee-with-hispanics-gilbert-pagan"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Proposes a flat tax with minimal deductions and cuts to federal regulation.",
+    "source": "https://efdouglass.substack.com/p/a-quick-update-my-new-brochure-please"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Supports work requirements for welfare and says the federal government is too large.",
+    "source": "https://efdouglass.substack.com/p/coffee-with-hispanics-gilbert-pagan"
+   },
+   "liberty": {
+    "score": 90,
+    "evidence": "Abortion: backs a Human Life Amendment and heartbeat bans; LGBTQ: opposes gender transition care for minors and backs parental consent rules in schools.",
+    "source": "https://efdouglass.substack.com/p/declaration-of-candidacy-for-us-congress"
+   },
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Opposes illegal immigration as harmful to wages and legal residents while distinguishing legal seasonal work.",
+    "source": "https://efdouglass.substack.com/p/coffee-with-hispanics-gilbert-pagan"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Backs nuclear fission, fracked natural gas and pipelines, and criticizes support for only green energy sources.",
+    "source": "https://efdouglass.substack.com/p/the-real-cost-of-blue-governance"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Wants K-12 oversight moved to states and localities with less federal spending, and parental consent before gender changes at school.",
+    "source": "https://efdouglass.substack.com/p/a-quick-update-my-new-brochure-please"
+   },
+   "faith": {
+    "score": 70,
+    "evidence": "General statement: his platform grounds its life and gender planks in the view that only God determines sex and lifespan.",
+    "source": "https://efdouglass.substack.com/p/a-quick-update-my-new-brochure-please"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His FEC-listed website redirects to his Substack, where his candidacy declaration, brochure post and interview write-ups supplied the positions. His views on policing, foreign policy and tech regulation remain unclear."
+ }
+]

@@ -1,0 +1,381 @@
+[
+ {
+  "id": "TX-28/marlon-duran",
+  "name": "Marlon Duran",
+  "party": "Green",
+  "current_role": "Community organizer and translator",
+  "bio": "Marlon Duran is a community organizer from McAllen, Texas, who works as an English-Spanish translator. He says he grew up undocumented in South Texas. He is the Green Party of Texas nominee for the 28th Congressional District.",
+  "website": "https://marlonduran.com/",
+  "social": {"x": "https://x.com/Marlon4TX", "instagram": "https://www.instagram.com/marlon4tx", "facebook": "https://www.facebook.com/marlon4tx", "tiktok": "https://www.tiktok.com/@marlon4tx"},
+  "platform": [
+   {"topic": "Immigration", "point": "Opposes ICE, DHS and CBP enforcement operations, which he says separate families in South Texas communities.", "source": "https://marlonduran.com/"},
+   {"topic": "Campaign finance", "point": "Runs without corporate PAC money and campaigns against the influence of corporate donors and AIPAC.", "source": "https://www.txgreens.org/2026_nominated_candidates"},
+   {"topic": "Foreign policy", "point": "Backs Palestinian rights and calls for a change in U.S. policy toward Israel and Gaza.", "source": "https://marlonduran.com/"},
+   {"topic": "Indigenous rights", "point": "Calls for justice for Indigenous peoples.", "source": "https://marlonduran.com/"},
+   {"topic": "Representation", "point": "Aims to give South Texas working people a voice outside the two major parties.", "source": "https://www.txgreens.org/2026_nominated_candidates"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 5, "evidence": "His campaign site opposes ICE, DHS and CBP operations as harmful to immigrant families.", "source": "https://marlonduran.com/"},
+   "foreign": {"score": 25, "evidence": "Campaigns under a Free Palestine and anti-AIPAC message, opposing current U.S. support for Israel.", "source": "https://marlonduran.com/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://marlonduran.com/wp-content/uploads/2026/03/marlon-campaign-portrait.jpg",
+  "notes": "Little public detail on his economic or social policy views was found; Ballotpedia and Vote-USA list no survey answers."
+ },
+ {
+  "id": "TX-29/sylvia-garcia",
+  "name": "Sylvia Garcia",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for TX-29",
+  "bio": "Sylvia Garcia has represented Texas's 29th District in eastern Houston since 2019 and serves on the Financial Services Committee. She previously served as Houston City Controller, Harris County Commissioner and a Texas state senator, and earlier worked as a social worker, attorney and municipal judge. She was one of the House impeachment managers in the 2020 Senate trial of Donald Trump.",
+  "website": "https://sylviaforcongress.com/",
+  "social": {"x": "https://x.com/LaCongresista", "instagram": "https://www.instagram.com/lacongresista/", "facebook": "https://www.facebook.com/SylviaRGarcia"},
+  "platform": [
+   {"topic": "Immigration", "point": "Leads the American Dream and Promise Act to give Dreamers and TPS holders a path to citizenship.", "source": "https://sylviagarcia.house.gov/issues/immigration"},
+   {"topic": "Workers", "point": "Supports a living wage, union rights and a permanently expanded Child Tax Credit.", "source": "https://sylviagarcia.house.gov/issues/economy-and-labor"},
+   {"topic": "Health care", "point": "Defends the Affordable Care Act and backs lower prescription drug prices and reproductive health access.", "source": "https://sylviagarcia.house.gov/issues/health"},
+   {"topic": "Gun safety", "point": "Voted for the Bipartisan Safer Communities Act and universal background checks on private sales.", "source": "https://sylviagarcia.house.gov/issues/gun-violence-prevention"},
+   {"topic": "Housing and costs", "point": "Prioritises lower costs and safe, stable, affordable housing for families.", "source": "https://sylviaforcongress.com/"},
+   {"topic": "Education", "point": "Backs more funding for Houston-area public schools, Head Start and early childhood programs.", "source": "https://sylviagarcia.house.gov/issues/education"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports living-wage and union protections, an expanded Child Tax Credit, and opposes rollbacks of labor regulators.", "source": "https://sylviagarcia.house.gov/issues/economy-and-labor"},
+   "welfare": {"score": 80, "evidence": "Has pushed Medicaid expansion, defends the ACA and opposes SNAP eligibility restrictions.", "source": "https://sylviagarcia.house.gov/issues/health"},
+   "liberty": {"score": 25, "evidence": "Supports abortion rights, the Equality Act for LGBTQ protections, and gun measures such as universal background checks.", "source": "https://sylviagarcia.house.gov/issues/womens-and-lgbtq-equality"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Backs expanded legal pathways and citizenship for undocumented immigrants and leads the Dream and Promise Act.", "source": "https://sylviagarcia.house.gov/issues/immigration"},
+   "foreign": {"score": 70, "evidence": "Advocates robust defense funding to counter Russia, China, Iran and North Korea.", "source": "https://sylviagarcia.house.gov/issues/defense"},
+   "energy": {"score": 80, "evidence": "Voted for the Inflation Reduction Act and Bipartisan Infrastructure Law, citing climate and clean-energy investment.", "source": "https://sylviagarcia.house.gov/issues/energy"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Advocates increased funding for public K-12 schools, teacher pay and Head Start.", "source": "https://sylviagarcia.house.gov/issues/education"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://static.wixstatic.com/media/fbff52_8c48705aa46045caadb4356c359c763b~mv2.png",
+  "notes": ""
+ },
+ {
+  "id": "TX-29/martha-fierro",
+  "name": "Martha Fierro",
+  "party": "Republican",
+  "current_role": "Congressional candidate",
+  "bio": "Martha Elena Fierro is a Houston-area Republican who was raised in Texas and describes herself as a Latina candidate focused on the American Dream. She was the Republican nominee for Texas State Senate District 6 in 2024, losing to incumbent Carol Alvarado. She won the 2026 Republican primary for Texas's 29th Congressional District.",
+  "website": "https://www.fierrofortexas.com/",
+  "social": {"instagram": "https://www.instagram.com/fierroforcongress", "facebook": "https://www.facebook.com/FierroforTexas", "tiktok": "https://www.tiktok.com/@fierroforcongress"},
+  "platform": [
+   {"topic": "Cost of living", "point": "Cut federal spending to bring down inflation and the cost of gas, groceries and housing.", "source": "https://www.fierrofortexas.com/"},
+   {"topic": "Education", "point": "Supports school choice and parental rights in education.", "source": "https://www.fierrofortexas.com/"},
+   {"topic": "Energy", "point": "Backs Texas oil and natural gas production and a more reliable power grid.", "source": "https://www.fierrofortexas.com/"},
+   {"topic": "Border security", "point": "Supports Border Patrol and opposes policies she says encourage illegal crossings and human trafficking.", "source": "https://www.fierrofortexas.com/"},
+   {"topic": "Health care", "point": "Expand access through more competition and patient choice rather than government mandates.", "source": "https://www.fierrofortexas.com/"},
+   {"topic": "Public safety", "point": "Prioritises protecting children and communities from violent crime.", "source": "https://www.fierrofortexas.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Her campaign calls for cutting federal spending to fight inflation.", "source": "https://www.fierrofortexas.com/"},
+   "welfare": {"score": 30, "evidence": "Favours market competition and patient choice in health care over government mandates.", "source": "https://www.fierrofortexas.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Emphasises border security, backing Border Patrol and opposing policies that encourage illegal crossings.", "source": "https://www.fierrofortexas.com/"},
+   "foreign": null,
+   "energy": {"score": 20, "evidence": "Supports oil and natural gas production and Texas energy independence.", "source": "https://www.fierrofortexas.com/"},
+   "tech": null,
+   "education": {"score": 10, "evidence": "Campaigns for school choice and parental rights.", "source": "https://www.fierrofortexas.com/"},
+   "faith": null
+  },
+  "photo": {"file": "File:2026AcresHomeJuneteenthParade-63 Martha Fierro (cropped).jpg", "license": "CC BY 4.0", "author": "2C2K Photography"},
+  "campaign_photo": "https://static.wixstatic.com/media/7c7ab1_a4270530f79749548ead8fcdb57ecd80~mv2.png",
+  "notes": "Her occupation outside politics was not found in the sources checked."
+ },
+ {
+  "id": "TX-30/frederick-haynes-iii",
+  "name": "Frederick Haynes III",
+  "party": "Democratic",
+  "current_role": "Senior Pastor of Friendship-West Baptist Church, Dallas",
+  "bio": "Frederick Douglass Haynes III has been senior pastor of Friendship-West Baptist Church in Dallas since 1983, growing it to more than 13,000 members. He has worked on civil rights, voting access, workforce development and opposition to predatory lending, and serves on the Paul Quinn College board of trustees. He won the 2026 Democratic primary for the open 30th District seat.",
+  "website": "https://haynesforcongress.com/",
+  "social": {"instagram": "https://instagram.com/haynesforcongress/", "facebook": "https://facebook.com/profile.php?id=61586383132511", "tiktok": "https://www.tiktok.com/@haynesforcongress"},
+  "platform": [
+   {"topic": "Consumer protection", "point": "Cap interest rates nationally and close loopholes used by predatory lenders.", "source": "https://haynesforcongress.com/issues/congressional-priorities-for-economic-security"},
+   {"topic": "Family economics", "point": "Expand access to affordable housing, childcare, health care and paid family leave.", "source": "https://haynesforcongress.com/issues/congressional-priorities-for-economic-security"},
+   {"topic": "Wages", "point": "Tie wage growth to the real cost of living and support student debt relief.", "source": "https://haynesforcongress.com/issues/congressional-priorities-for-economic-security"},
+   {"topic": "Education", "point": "Target federal funding to high-need districts and invest in early childhood education and teacher pay.", "source": "https://haynesforcongress.com/issues/policies-for-educational-justice"},
+   {"topic": "Ethics", "point": "End dark money, curb super PACs and impose a five-year lobbying ban on former members and senior staff.", "source": "https://haynesforcongress.com/issues/legislative-agenda-for-ethical-accountability-and-public-trust"},
+   {"topic": "Environment", "point": "Address pollution sited near Black and Brown neighbourhoods through environmental justice policy.", "source": "https://haynesforcongress.com/issues/environmental-justice-confronting-racism-in-policy-and-practice"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Calls for a national interest-rate cap, stronger fair-lending enforcement and wages tied to living costs.", "source": "https://haynesforcongress.com/issues/congressional-priorities-for-economic-security"},
+   "welfare": {"score": 80, "evidence": "His site calls for wider access to affordable housing, childcare, health care and paid family leave.", "source": "https://haynesforcongress.com/issues/congressional-priorities-for-economic-security"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 5, "evidence": "Reported by WFAA to call for abolishing ICE.", "source": "https://www.wfaa.com/article/news/politics/elections/dallas-pastor-frederick-haynes-house-campaign-abolish-ice/287-6fc619b6-c6ac-43e9-9dc0-a188ee138271"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 85, "evidence": "Proposes equitable federal funding for high-need public school districts, early childhood investment and teacher pay.", "source": "https://haynesforcongress.com/issues/policies-for-educational-justice"},
+   "faith": {"score": 30, "evidence": "Says his faith informs his values but should not be imposed on others or used for proselytizing in a pluralistic democracy.", "source": "https://haynesforcongress.com/issues/faith-freedom-and-justice-values-without-imposition"}
+  },
+  "photo": {"file": "File:Frederick Haynes III at Calvary Baptist Church (cropped).png", "license": "CC BY 3.0", "author": "Calvary Baptist Church Jamaica, NY"},
+  "campaign_photo": "https://run.imgix.net/2f2ac64f-28e9-4a7c-9824-4ce14cdf94ec/cd4b01e5-cae3-459d-a054-8d7f51fc83cc/cd4b01e5-cae3-459d-a054-8d7f51fc83cc.jpg",
+  "notes": "Welfare lowered from 95 to 80 because the Medicare for All report could not be opened; the abolish-ICE immigration score rests on a WFAA report that also could not be re-opened."
+ },
+ {
+  "id": "TX-30/everett-jackson",
+  "name": "Everett Jackson",
+  "party": "Republican",
+  "current_role": "Small-business owner and community organizer",
+  "bio": "Everett Jackson is a Dallas-area small-business owner and community organizer with no prior elected office. He won the 2026 Republican nomination for Texas's 30th Congressional District after a primary runoff.",
+  "website": "",
+  "social": {"x": "https://x.com/Jackson4Texas"},
+  "platform": [
+   {"topic": "Jobs", "point": "Prioritises job growth in the district.", "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"},
+   {"topic": "National security", "point": "Strengthen national security against drug cartels.", "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"},
+   {"topic": "Religious freedom", "point": "Protect religious freedom.", "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"},
+   {"topic": "Families", "point": "Increase the child tax credit.", "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"},
+   {"topic": "Federal spending", "point": "Make DOGE spending cuts permanent.", "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Calls for making DOGE federal spending cuts permanent while also supporting a larger child tax credit.", "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 70, "evidence": "Lists protecting religious freedom among his campaign priorities.", "source": "https://www.cbsnews.com/texas/news/texas-republican-primary-election-results-us-house-district-30-dallas/"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site listed by iVoterGuide (jacksonfortexas.com) showed no content, so it was left blank."
+ },
+ {
+  "id": "TX-31/john-carter",
+  "name": "John Carter",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-31",
+  "bio": "John Carter has represented Texas's 31st District, which includes Williamson County and Fort Hood, since 2003. He serves on the House Appropriations Committee, where he has chaired the Military Construction and Veterans Affairs Subcommittee. Before Congress he spent two decades as a Williamson County district judge.",
+  "website": "https://johncarterforcongress.com/",
+  "social": {"x": "https://x.com/JudgeCarter", "instagram": "https://www.instagram.com/judgecarter", "facebook": "https://www.facebook.com/judgecarter", "youtube": "https://www.youtube.com/repjohncarter"},
+  "platform": [
+   {"topic": "Taxes", "point": "Supports conservative tax policy, including the 2017 tax cuts and full expensing for business investment.", "source": "https://carter.house.gov/issues/issue/?IssueID=14892"},
+   {"topic": "Border security", "point": "Secure the border with fences, drones and sensors, and create a temporary worker program.", "source": "https://carter.house.gov/issues/issue/?IssueID=10360"},
+   {"topic": "Defense", "point": "Uses his Appropriations seat to fund Fort Hood and soldiers' equipment and training.", "source": "https://carter.house.gov/issues/issue/?IssueID=10493"},
+   {"topic": "Energy", "point": "Backs an all-of-the-above strategy that maximises oil, gas and coal alongside renewables.", "source": "https://carter.house.gov/issues/issue/?IssueID=10177"},
+   {"topic": "Health care", "point": "Favours repealing and replacing the Affordable Care Act and enacting tort reform, while covering pre-existing conditions.", "source": "https://carter.house.gov/issues/issue/?IssueID=74"},
+   {"topic": "Law enforcement", "point": "Supports more funding for federal law enforcement and wrote laws funding active-shooter training and DNA prosecutions.", "source": "https://carter.house.gov/issues/issue/?IssueID=73"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Supported the Tax Cuts and Jobs Act and cosponsors further business tax deductions.", "source": "https://carter.house.gov/issues/issue/?IssueID=14892"},
+   "welfare": {"score": 25, "evidence": "Supports repealing and replacing the Affordable Care Act.", "source": "https://carter.house.gov/issues/issue/?IssueID=74"},
+   "liberty": {"score": 60, "evidence": "Opposes public funding of abortion and cosponsored a same-sex marriage ban amendment, while strongly backing gun rights.", "source": "https://en.wikipedia.org/wiki/John_Carter_(Texas_politician)"},
+   "security": {"score": 70, "evidence": "Says he has supported increased funding for federal law enforcement against terrorism, cybercrime and drugs.", "source": "https://carter.house.gov/issues/issue/?IssueID=73"},
+   "immigration": {"score": 85, "evidence": "Calls for physical barriers and surveillance at the border and opposes citizenship for those who entered illegally.", "source": "https://carter.house.gov/issues/issue/?IssueID=10360"},
+   "foreign": {"score": 70, "evidence": "Serves on Defense Appropriations backing military funding and cosponsored legislation supporting Israel after October 7.", "source": "https://en.wikipedia.org/wiki/John_Carter_(Texas_politician)"},
+   "energy": {"score": 15, "evidence": "Wants to maximise fossil fuel production within an all-of-the-above strategy and opposes federal waterway regulation.", "source": "https://carter.house.gov/issues/issue/?IssueID=10177"},
+   "tech": null,
+   "education": {"score": 35, "evidence": "Favours state and local control of schools and parental input on curriculum, while backing career and technical education.", "source": "https://carter.house.gov/issues/issue/?IssueID=14893"},
+   "faith": {"score": 80, "evidence": "Says God's guidance and family values direct his decisions in Congress.", "source": "https://carter.house.gov/issues/issue/?IssueID=14897"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website taken from Wikipedia and not opened directly."
+ },
+ {
+  "id": "TX-31/justin-early",
+  "name": "Justin Early",
+  "party": "Democratic",
+  "current_role": "Cybersecurity architect",
+  "bio": "Justin Early is a Georgetown, Texas, cybersecurity architect at Dell Technologies with more than 20 years in the field. He is an Army veteran who served as a paratrooper at Fort Bragg and worked at a Pentagon defense agency after 9/11. He is the Democratic nominee for Texas's 31st District.",
+  "website": "https://www.votejustinearly.com/",
+  "social": {"instagram": "https://www.instagram.com/votejustinearly", "facebook": "https://www.facebook.com/votejustinearly", "tiktok": "https://www.tiktok.com/@votejustinearly", "youtube": "https://www.youtube.com/@VoteJustinEarly"},
+  "platform": [
+   {"topic": "Wages and costs", "point": "Campaigns on lowering costs and raising wages for working families.", "source": "https://www.votejustinearly.com/"},
+   {"topic": "AI and privacy", "point": "Protect people's privacy from AI and hold corporations accountable for data use and surveillance.", "source": "https://politicsdoneright.com/2026/07/justin-early-challenges-trump-loyalist-john-carter-with-a-working-class-agenda/"},
+   {"topic": "Health care", "point": "Opposes federal health care cuts and wants to protect rural hospitals.", "source": "https://politicsdoneright.com/2026/07/justin-early-challenges-trump-loyalist-john-carter-with-a-working-class-agenda/"},
+   {"topic": "Social Security", "point": "Protect Social Security and Medicare.", "source": "https://www.votejustinearly.com/"},
+   {"topic": "Veterans", "point": "Defend and strengthen the VA and fund veterans' mental health services.", "source": "https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race"},
+   {"topic": "Labor and training", "point": "Support labor unions and increase career and technical education funding.", "source": "https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Campaigns for higher wages, labor unions and curbing corporate power.", "source": "https://politicsdoneright.com/2026/07/justin-early-challenges-trump-loyalist-john-carter-with-a-working-class-agenda/"},
+   "welfare": {"score": 70, "evidence": "Opposes federal health care, Pell Grant and food assistance cuts and pledges to protect Social Security and Medicare.", "source": "https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Lists compassionate immigration reform among his priorities.", "source": "https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 80, "evidence": "Calls for AI regulation and corporate accountability on data privacy and surveillance.", "source": "https://politicsdoneright.com/2026/07/justin-early-challenges-trump-loyalist-john-carter-with-a-working-class-agenda/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/2be89c09-84f4-4c8d-9d59-76bedd7c8463/296ae35b-7afc-4ca9-bada-48b6524a0460/296ae35b-7afc-4ca9-bada-48b6524a0460.jpeg",
+  "notes": ""
+ },
+ {
+  "id": "TX-31/greg-stoker",
+  "name": "Greg Stoker",
+  "party": "Green",
+  "current_role": "Anti-war activist and podcaster",
+  "bio": "Greg Stoker is a former U.S. Army Ranger with four combat deployments to Afghanistan who now works as an anti-war activist, writer and co-host of the Colonial Outcasts podcast. He was detained by Israeli forces in 2025 while travelling with the Global Sumud Flotilla to Gaza. He is the Green Party nominee for Texas's 31st District.",
+  "website": "https://www.stokerfortexas.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Campaign finance", "point": "Refuses PAC donations, including from military contractors, and opposes AIPAC and special-interest influence.", "source": "https://www.stokerfortexas.com/"},
+   {"topic": "Foreign policy", "point": "Opposes U.S. wars and military-contractor lobbying, drawing on his combat experience.", "source": "https://www.gp.org/veteran_anti_war_activist_greg_stoker_running_for_congress_in_texas"},
+   {"topic": "Data centers", "point": "Opposes data-center expansion that he says takes Texas land and water for corporate benefit.", "source": "https://www.sacurrent.com/news/texas-news/pro-palestinian-activist-veteran-greg-stoker-running-against-shamwow-guy-for-congress-in-austin/"},
+   {"topic": "Affordability", "point": "Redirect public resources toward affordability for working Texans and hold officials accountable.", "source": "https://www.txgreens.org/2026_nominated_candidates"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 15, "evidence": "Runs an anti-war campaign against military interventions, military-contractor influence and AIPAC.", "source": "https://www.gp.org/veteran_anti_war_activist_greg_stoker_running_for_congress_in_texas"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://assets.nationbuilder.com/themes/69d46ee99be3286671f3d5a8/attachments/original/1776834373/Group_306.png?1776834373",
+  "notes": "The flotilla detention is dated October 2025 based on coverage; one source said 2024. The campaign image URL may be a graphic rather than a plain headshot."
+ },
+ {
+  "id": "TX-32/dan-barrios",
+  "name": "Dan Barrios",
+  "party": "Democratic",
+  "current_role": "Richardson City Council member",
+  "bio": "Dan Barrios has served on the Richardson City Council since 2023. He grew up in Brownsville and has lived in North Texas for more than 25 years, working as a teacher and in business development. He is the Democratic nominee for Texas's 32nd District.",
+  "website": "https://www.danbarriosforcongress.com/",
+  "social": {"x": "https://x.com/barriosforus", "instagram": "https://www.instagram.com/danbarriosforcongress", "facebook": "https://www.facebook.com/DanBarriosForCongress"},
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower costs for families through stronger consumer protections.", "source": "https://www.danbarriosforcongress.com/"},
+   {"topic": "Health care", "point": "Make quality medical care affordable and accessible amid rising premiums and drug prices.", "source": "https://www.danbarriosforcongress.com/"},
+   {"topic": "Education and workforce", "point": "Invest in education and workforce development.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   {"topic": "Small business", "point": "Support policies that help small businesses grow and create local jobs.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   {"topic": "Democracy", "point": "Defend the Constitution, counter extremism and protect citizens' rights.", "source": "https://www.danbarriosforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Emphasises consumer protections to lower costs alongside support for small businesses.", "source": "https://www.danbarriosforcongress.com/"},
+   "welfare": {"score": 65, "evidence": "Calls for affordable, accessible health care for all Americans.", "source": "https://www.danbarriosforcongress.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 75, "evidence": "Former teacher who backs federal investment in education and workforce development.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/0db8e7_2318efad917c4a109932d87ddfa6cfe3~mv2.jpeg",
+  "notes": ""
+ },
+ {
+  "id": "TX-32/jace-yarbrough",
+  "name": "Jace Yarbrough",
+  "party": "Republican",
+  "current_role": "Attorney and Air Force reservist",
+  "bio": "Jace Yarbrough is a Dallas trial attorney and Air Force reservist who grew up in West Texas and studied at UT Austin and Stanford Law School. He has served as a Dallas precinct chair and an election integrity lawyer for Donald Trump, and co-founded a classical Christian school. He won a free-speech case against the Space Force over a 2021 retirement speech and is the Trump-endorsed Republican nominee for Texas's 32nd District.",
+  "website": "https://www.jaceforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Immigration", "point": "Finish the border wall, end catch-and-release, support mass deportations and pause immigration pending reform.", "source": "https://dallasexpress.com/profiles/jace-yarbrough-says-texas-32-must-deliver-reinforcements-for-president-trump/"},
+   {"topic": "Economy", "point": "Cut taxes and wasteful spending, unleash energy production and bring manufacturing home through fair trade.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   {"topic": "Work visas", "point": "End what he calls abuse of H-1B and other visa programs that displace American workers.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   {"topic": "Foreign policy", "point": "Backs an America First policy with no nation-building and fewer foreign military commitments.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   {"topic": "Religious liberty", "point": "Oppose government mandates and actions he views as violating religious liberty; bar Sharia law in Texas.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   {"topic": "Congress", "point": "Supports term limits and restrictions on congressional stock trading.", "source": "https://dallasexpress.com/profiles/jace-yarbrough-says-texas-32-must-deliver-reinforcements-for-president-trump/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Calls for tax cuts, ending wasteful spending and no tax increases.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   "welfare": null,
+   "liberty": {"score": 50, "evidence": "Backs concealed-carry reciprocity and NFA repeal and won a free-speech case, but opposes public funding for abortion travel and transgender policies.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   "security": null,
+   "immigration": {"score": 95, "evidence": "Supports mass deportations, finishing the wall and a temporary halt to immigration.", "source": "https://dallasexpress.com/profiles/jace-yarbrough-says-texas-32-must-deliver-reinforcements-for-president-trump/"},
+   "foreign": {"score": 25, "evidence": "Opposes nation-building, policing the world and sending troops into foreign conflicts.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   "energy": {"score": 10, "evidence": "Calls for unleashing domestic energy production and energy independence.", "source": "https://ballotpedia.org/Texas%27_32nd_Congressional_District_election,_2026"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 80, "evidence": "Co-founded a classical Christian school and campaigns on defending religious liberty against government actions.", "source": "https://www.jaceforcongress.com/"}
+  },
+  "photo": null,
+  "campaign_photo": "https://cdn.prod.website-files.com/693c3a90305739817374e10a/694bf586d39bbe99743e9130_LEAD_STILL%20%232.jpg",
+  "notes": "Liberty score changed from 15 to 50: the earlier score reflected only his gun-rights stance, while his statements on abortion funding and transgender policy lean toward community norms. The campaign image appears to be a video still rather than a formal headshot."
+ },
+ {
+  "id": "TX-33/colin-allred",
+  "name": "Colin Allred",
+  "party": "Democratic",
+  "current_role": "Former U.S. Representative for TX-32",
+  "bio": "Colin Allred represented Texas's 32nd District from 2019 to 2025 and was the 2024 Democratic nominee for U.S. Senate, losing to Ted Cruz. A former NFL linebacker with the Tennessee Titans, he later earned a law degree at UC Berkeley, practised civil rights law and worked at HUD in the Obama administration. He won the 2026 Democratic runoff for the 33rd District over Rep. Julie Johnson.",
+  "website": "https://colinallred.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower everyday costs for working families.", "source": "https://colinallred.com/"},
+   {"topic": "Corruption", "point": "Take on politicians and interests he says rig the economy against Texans.", "source": "https://colinallred.com/"},
+   {"topic": "Voting rights", "point": "Protect voting access, drawing on his civil rights legal work.", "source": "https://colinallred.com/"},
+   {"topic": "Immigration", "point": "Lists immigration and border policy as a core agenda item.", "source": "https://colinallred.com/"},
+   {"topic": "Local investment", "point": "Points to $135 million secured for transit, health care, housing and law enforcement, and new VA clinics.", "source": "https://ballotpedia.org/Texas%27_33rd_Congressional_District_election,_2026"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Voted for the Inflation Reduction Act and campaigns on lowering everyday costs for working families.", "source": "https://en.wikipedia.org/wiki/Colin_Allred"},
+   "welfare": {"score": 65, "evidence": "Supported expanding Affordable Care Act coverage.", "source": "https://en.wikipedia.org/wiki/Colin_Allred"},
+   "liberty": {"score": 30, "evidence": "Supports restoring Roe v. Wade abortion rights and LGBTQ equality, and backs an assault weapons ban.", "source": "https://en.wikipedia.org/wiki/Colin_Allred"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Joined Republicans in 2024 to condemn Biden border policies while supporting immigration reform.", "source": "https://en.wikipedia.org/wiki/Colin_Allred"},
+   "foreign": {"score": 70, "evidence": "Voted for aid to Israel and Ukraine; criticised the 2026 Iran strikes as unauthorised by Congress.", "source": "https://en.wikipedia.org/wiki/Colin_Allred"},
+   "energy": {"score": 60, "evidence": "Voted for the Inflation Reduction Act's clean-energy investments.", "source": "https://en.wikipedia.org/wiki/Colin_Allred"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Colin Allred, official portrait, 117th Congress (cropped).jpg", "license": "Public domain", "author": "Ike Hayman, Official House Photographer"},
+  "campaign_photo": "",
+  "notes": "His campaign site links to several social accounts, but their exact URLs were not captured. The Ukraine aid vote comes from earlier research and was not re-checked this pass."
+ },
+ {
+  "id": "TX-33/patrick-gillespie",
+  "name": "Patrick Gillespie",
+  "party": "Republican",
+  "current_role": "Logistics employee and former union local officer",
+  "bio": "Patrick David Gillespie is from Huntington, West Virginia, and attended Marshall University. He has worked at Boeing, BAE Systems, American Airlines and Flextronics, now works at UPS Supply Chain Solutions, and was vice president of a Machinists union local. He ran for the 33rd District in 2022 and 2024 and won the 2026 Republican nomination.",
+  "website": "https://patrickgillespie4congress33.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Opposes a tax on wage income and supports free enterprise without government subsidies.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   {"topic": "Education", "point": "Supports vouchers, charters and private school choice and wants to eliminate the Department of Education.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   {"topic": "Crime and drugs", "point": "Wants no-parole sentences for gang violence and capital murder charges for fentanyl dealers.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   {"topic": "Immigration", "point": "Favours reducing immigration and barring foreign land ownership near military bases.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   {"topic": "Energy", "point": "Increase use of natural gas for U.S. electricity generation.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   {"topic": "Elections", "point": "Require government-issued photo ID to vote.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes wage income taxes and student loan forgiveness and favours free enterprise without government subsidies.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   "welfare": {"score": 30, "evidence": "Opposes student loan forgiveness while backing restored Medicare funding.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   "liberty": {"score": 75, "evidence": "Abortion: opposes it; also opposes what he calls woke policies in schools and backs capital charges for drug dealers.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   "security": {"score": 85, "evidence": "Calls for no-parole sentences for gang violence and capital murder charges for drug dealers.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   "immigration": {"score": 80, "evidence": "Favours reducing immigration levels.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   "foreign": null,
+   "energy": {"score": 25, "evidence": "Supports expanding natural gas for electricity generation.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"},
+   "tech": null,
+   "education": {"score": 5, "evidence": "Backs vouchers, charters and private school choice and eliminating the federal Department of Education.", "source": "https://www.branch.vote/races/2026-texas-primary-runoff-tx-state-us-representative-tx-congressional-33-r/candidates/patrick-david-gillespie"}
+  ,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "A voter-guide profile says he served in the Texas House, but this could not be confirmed and is left out. Campaign website taken from that profile and not opened directly."
+ }
+]

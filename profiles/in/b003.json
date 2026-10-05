@@ -1,0 +1,452 @@
+[
+ {
+  "id": "CT-GOV/ryan-fazio",
+  "name": "Ryan Fazio",
+  "party": "Republican",
+  "race": "CT-GOV",
+  "race_label": "Connecticut · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 20,
+    "security": null,
+    "immigration": 65,
+    "foreign": null,
+    "energy": 25,
+    "tech": null,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Proposes income and property tax cuts, ending public benefits charge, natural gas pipelines, school choice; opposes single-payer; supports legal abortion; gun-group endorsed.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ryan_Fazio",
+    "https://ctmirror.org/2026/09/01/ryan-fazio-offers-prayers-talks-property-taxes-to-unseat-a-governor/",
+    "https://ctmirror.org/2026/07/09/fazio-housing-transportation-energy-election/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "DE-SEN/chris-coons",
+  "name": "Chris Coons",
+  "party": "Democratic",
+  "race": "DE-SEN",
+  "race_label": "Delaware · US Senate",
+  "race_status": "Democratic and Republican primaries on Sep 15",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001088",
+   "official_name": "Christopher A. Coons",
+   "chamber": "Senate",
+   "official_site": "https://www.coons.senate.gov",
+   "official_social": {
+    "twitter": "ChrisCoons",
+    "facebook": "senatorchriscoons",
+    "youtube": "senatorchriscoons",
+    "instagram": "senatorchriscoons"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": 55,
+    "liberty": 30,
+    "security": null,
+    "immigration": 30,
+    "foreign": 85,
+    "energy": 75,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Defends ACA and abortion rights, backs clean-energy transition, immigration reform, gun control, NO FAKES AI bill; staunch Israel supporter; opposes Trump tariffs.",
+   "sources": [
+    "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons",
+    "https://en.wikipedia.org/wiki/Chris_Coons",
+    "https://en.wikipedia.org/wiki/NO_FAKES_Act"
+   ],
+   "photo": {
+    "file": "File:Chris Coons, official portrait, 112th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Senate"
+   }
+  }
+ },
+ {
+  "id": "DE-SEN/jeff-appelhans",
+  "name": "Jeff Appelhans",
+  "party": "Democratic",
+  "race": "DE-SEN",
+  "race_label": "Delaware · US Senate",
+  "race_status": "Democratic and Republican primaries on Sep 15",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 95,
+    "liberty": null,
+    "security": 10,
+    "immigration": null,
+    "foreign": 25,
+    "energy": null,
+    "tech": 90,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, AI regulation, warrants for government data purchases; wants to end U.S. support for Israel's Gaza war; opposes Iran war.",
+   "sources": [
+    "https://whyy.org/articles/election-2026-delaware-primary-senate-voter-guide/",
+    "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "DE-SEN/michael-katz",
+  "name": "Michael Katz",
+  "party": "Republican",
+  "race": "DE-SEN",
+  "race_label": "Delaware · US Senate",
+  "race_status": "Democratic and Republican primaries on Sep 15",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 75,
+    "security": 65,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports completing the border wall, withholding funds from sanctuary cities, backing police, protecting women's sports, manufacturing jobs, and lower health care costs.",
+   "sources": [
+    "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons",
+    "https://whyy.org/articles/election-2026-delaware-us-senate-republican-primary-voter-guide/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "DE-SEN/john-shulli",
+  "name": "John Shulli",
+  "party": "Republican",
+  "race": "DE-SEN",
+  "race_label": "Delaware · US Senate",
+  "race_status": "Democratic and Republican primaries on Sep 15",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 15,
+    "liberty": null,
+    "security": 65,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Backs repealing the ACA, federal immigration crackdown, law enforcement, 'Drill, Baby, Drill' energy, parental rights in education, and term limits.",
+   "sources": [
+    "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons",
+    "https://whyy.org/articles/election-2026-delaware-us-senate-republican-primary-voter-guide/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-SEN-S/angie-nixon",
+  "name": "Angie Nixon",
+  "party": "Democratic",
+  "race": "FL-SEN-S",
+  "race_label": "Florida · US Senate (special)",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 95,
+    "welfare": 95,
+    "liberty": 5,
+    "security": 10,
+    "immigration": 5,
+    "foreign": 35,
+    "energy": 90,
+    "tech": 90,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, billionaire wealth tax, rent stabilization, abolishing ICE, renewable transition, breaking up tech monopolies, abortion rights; prioritizes diplomacy over military action.",
+   "sources": [
+    "https://angienixon.com/priorities/",
+    "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy"
+   ],
+   "photo": {
+    "file": "File:Angie Nixon official portrait.jpg",
+    "license": "Public domain",
+    "author": "Florida House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "FL-SEN-S/ashley-moody",
+  "name": "Ashley Moody",
+  "party": "Republican",
+  "race": "FL-SEN-S",
+  "race_label": "Florida · US Senate (special)",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001244",
+   "official_name": "Ashley Moody",
+   "chamber": "Senate",
+   "official_site": "https://www.moody.senate.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 15,
+    "liberty": 75,
+    "security": 70,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": 45,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 tax-cut law, against ACA subsidy extension; challenged Amendment 4 abortion measure; backs border security, police, Iran strikes, kids' tech protections.",
+   "sources": [
+    "https://www.moody.senate.gov/about/",
+    "https://en.wikipedia.org/wiki/Ashley_Moody",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"
+   ],
+   "photo": {
+    "file": "File:Senator Ashley Moody Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "United States Senate Photography Service"
+   }
+  }
+ },
+ {
+  "id": "FL-GOV/david-jolly",
+  "name": "David Jolly",
+  "party": "Democratic",
+  "race": "FL-GOV",
+  "race_label": "Florida · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": 35,
+    "security": 40,
+    "immigration": 20,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Backs Medicaid expansion, codifying Roe, assault weapons ban, universal background checks, clean energy, means-tested vouchers, more public school funding; opposes property tax repeal.",
+   "sources": [
+    "https://davidjolly.com/issues/",
+    "https://www.wusf.org/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration"
+   ],
+   "photo": {
+    "file": "File:David Jolly (3x4).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "FL-GOV/byron-donalds",
+  "name": "Byron Donalds",
+  "party": "Republican",
+  "race": "FL-GOV",
+  "race_label": "Florida · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "D000032",
+   "official_name": "Byron Donalds",
+   "chamber": "House",
+   "official_site": "https://donalds.house.gov",
+   "official_social": {
+    "twitter": "RepDonaldsPress",
+    "instagram": "byrondonalds",
+    "youtube": "UCjy0W7sksMz37IYY27tAZNQ"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 65,
+    "security": 75,
+    "immigration": 90,
+    "foreign": 50,
+    "energy": 15,
+    "tech": 55,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Backs property tax cuts, withholding state funds over immigration noncooperation, school choice, current abortion law, Second Amendment absolutism; opposed Ukraine aid; questions climate science.",
+   "sources": [
+    "https://byrondonalds.com/issues/",
+    "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues",
+    "https://en.wikipedia.org/wiki/Byron_Donalds"
+   ],
+   "photo": {
+    "file": "File:Rep. Byron Donalds official photo, 117th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "GA-SEN/jon-ossoff",
+  "name": "Jon Ossoff",
+  "party": "Democratic",
+  "race": "GA-SEN",
+  "race_label": "Georgia · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "O000174",
+   "official_name": "Jon Ossoff",
+   "chamber": "Senate",
+   "official_site": "https://www.ossoff.senate.gov",
+   "official_social": {
+    "twitter": "SenOssoff",
+    "facebook": "SenOssoff",
+    "instagram": "jonossoff"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 60,
+    "liberty": 20,
+    "security": 45,
+    "immigration": 45,
+    "foreign": 55,
+    "energy": 65,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs public option, abortion rights, Equality Act, cannabis legalization; voted for 2022 gun safety law, Laken Riley Act, Ukraine-Israel aid; opposes Iran war.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jon_Ossoff",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00242.htm"
+   ],
+   "photo": {
+    "file": "File:Jon Ossoff Senate Portrait 2021.jpg",
+    "license": "Public domain",
+    "author": "U.S. Senate Photographic Studio"
+   }
+  }
+ },
+ {
+  "id": "GA-SEN/mike-collins",
+  "name": "Mike Collins",
+  "party": "Republican",
+  "race": "GA-SEN",
+  "race_label": "Georgia · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "C001129",
+   "official_name": "Mike Collins",
+   "chamber": "House",
+   "official_site": "https://collins.house.gov",
+   "official_social": {
+    "twitter": "RepMikeCollins",
+    "facebook": "RepMikeCollinsGA",
+    "instagram": "repmikecollins"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 15,
+    "liberty": 95,
+    "security": null,
+    "immigration": 90,
+    "foreign": 50,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Sponsored Laken Riley Act; backs deportations, 2025 tax cuts, ACA repeal, abortion ban without exceptions; voted against Ukraine aid; called climate change a hoax.",
+   "sources": [
+    "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/",
+    "https://en.wikipedia.org/wiki/Mike_Collins_(politician)"
+   ],
+   "photo": {
+    "file": "File:Rep. Mike Collins official photo, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "GA-GOV/keisha-lance-bottoms",
+  "name": "Keisha Lance Bottoms",
+  "party": "Democratic",
+  "race": "GA-GOV",
+  "race_label": "Georgia · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 85,
+    "liberty": 40,
+    "security": 50,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": 65,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Backs Medicaid expansion, universal childcare and pre-K, restoring abortion rights, universal background checks, slowing data center growth, fully funded schools, conditional ICE cooperation.",
+   "sources": [
+    "https://keishaforgovernor.com/issues",
+    "https://www.ajc.com/politics/2026/04/keisha-lance-bottoms-a-look-at-the-ajcs-coverage/",
+    "https://www.atlantanewsfirst.com/2026/04/19/keisha-lance-bottoms-goes-record-supports-casinos-medicaid-expansion-tougher-gun-laws/"
+   ],
+   "photo": {
+    "file": "File:Keisha Lance Bottoms.jpg",
+    "license": "Public domain",
+    "author": "Executive Office of the President of the United States"
+   }
+  }
+ }
+]

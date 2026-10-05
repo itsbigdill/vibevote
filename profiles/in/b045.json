@@ -1,0 +1,419 @@
+[
+ {
+  "id": "IN-6/cynthia-wirth",
+  "name": "Cynthia Wirth",
+  "party": "Democratic",
+  "race": "IN-6",
+  "race_label": "Indiana · US House IN-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 75,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Calls for affordable healthcare for all, paid family leave and childcare, clean energy investment, and stronger public schools.",
+   "sources": [
+    "https://wirth4congress.com/priorities/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-7/andre-carson",
+  "name": "André Carson",
+  "party": "Democratic",
+  "race": "IN-7",
+  "race_label": "Indiana · US House IN-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001072",
+   "official_name": "André Carson",
+   "chamber": "House",
+   "official_site": "https://carson.house.gov",
+   "official_social": {
+    "twitter": "RepAndreCarson",
+    "facebook": "CongressmanAndreCarson",
+    "youtube": "repandrecarson",
+    "instagram": "repandrecarson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": 25,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports comprehensive immigration reform and welcoming refugees, renewable energy and green jobs; voted against 2025 reconciliation law's Medicaid cuts.",
+   "sources": [
+    "https://carson.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Andr%C3%A9_Carson"
+   ],
+   "photo": {
+    "file": "File:Andre Carson 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "US Congress"
+   }
+  }
+ },
+ {
+  "id": "IN-7/patrick-mcauley",
+  "name": "Patrick McAuley",
+  "party": "Republican",
+  "race": "IN-7",
+  "race_label": "Indiana · US House IN-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign stresses community policing, housing supply and trades training without concrete stances on scored issues.",
+   "sources": [
+    "https://mcauleyforthe7th.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-7/james-sceniak",
+  "name": "James Sceniak",
+  "party": "Libertarian",
+  "race": "IN-7",
+  "race_label": "Indiana · US House IN-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-8/mark-messmer",
+  "name": "Mark Messmer",
+  "party": "Republican",
+  "race": "IN-8",
+  "race_label": "Indiana · US House IN-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001233",
+   "official_name": "Mark B. Messmer",
+   "chamber": "House",
+   "official_site": "https://messmer.house.gov",
+   "official_social": {
+    "facebook": "CongressmanMessmer",
+    "instagram": "HouseRepublicans"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": 70,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 reconciliation law with tax cuts, Medicaid work requirements, immigration enforcement funding and clean-energy credit repeal.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mark_Messmer",
+    "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   ],
+   "photo": {
+    "file": "File:Rep. Mark Messmer Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "IN-8/mary-allen",
+  "name": "Mary Allen",
+  "party": "Democratic",
+  "race": "IN-8",
+  "race_label": "Indiana · US House IN-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 85,
+    "liberty": null,
+    "security": null,
+    "immigration": 25,
+    "foreign": 65,
+    "energy": 75,
+    "tech": 80,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Backs universal healthcare, higher taxes on wealthy, citizenship pathways, defending allies, wind and solar, an AI data center moratorium, and public schools.",
+   "sources": [
+    "https://www.maryallenforcongress.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-9/erin-houchin",
+  "name": "Erin Houchin",
+  "party": "Republican",
+  "race": "IN-9",
+  "race_label": "Indiana · US House IN-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001093",
+   "official_name": "Erin Houchin",
+   "chamber": "House",
+   "official_site": "https://houchin.house.gov",
+   "official_social": {
+    "twitter": "RepHouchin",
+    "facebook": "RepHouchin",
+    "instagram": "rephouchin"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": 70,
+    "foreign": 35,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2023 amendment to halt Ukraine military aid and for 2025 reconciliation law with tax cuts, Medicaid work requirements and enforcement funding.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Erin_Houchin",
+    "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   ],
+   "photo": {
+    "file": "File:Rep. Erin Houchin official photo, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "IN-9/brad-meyer",
+  "name": "Brad Meyer",
+  "party": "Democratic",
+  "race": "IN-9",
+  "race_label": "Indiana · US House IN-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": 40,
+    "foreign": 50,
+    "energy": 70,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Supports Medicare for All, collective bargaining, fair taxes, immigration matched to labor needs, force as last resort, clean energy, and public education.",
+   "sources": [
+    "https://bradmeyer.org/policy-overview/",
+    "https://www.bradmeyer.org/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-9/tonya-hudson",
+  "name": "Tonya Hudson",
+  "party": "Libertarian",
+  "race": "IN-9",
+  "race_label": "Indiana · US House IN-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-1/mariannette-miller-meeks",
+  "name": "Mariannette Miller-Meeks",
+  "party": "Republican",
+  "race": "IA-1",
+  "race_label": "Iowa · US House IA-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001215",
+   "official_name": "Mariannette Miller-Meeks",
+   "chamber": "House",
+   "official_site": "https://millermeeks.house.gov",
+   "official_social": {
+    "twitter": "RepMMM",
+    "facebook": "RepMMM"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 55,
+    "security": null,
+    "immigration": 70,
+    "foreign": 75,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes higher taxes on wealthy, voted against ARPA; pro-life, opposed background checks; backs border wall; supports Iran strikes, Ukraine Caucus.",
+   "sources": [
+    "https://www.ontheissues.org/House/Mariannette_Miller-Meeks.htm",
+    "https://en.wikipedia.org/wiki/Mariannette_Miller-Meeks"
+   ],
+   "photo": {
+    "file": "File:Mariannette Miller-Meeks 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "IA-1/christina-bohannan",
+  "name": "Christina Bohannan",
+  "party": "Democratic",
+  "race": "IA-1",
+  "race_label": "Iowa · US House IA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 75,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 65,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Opposes tariffs and billionaire tax breaks; Medicare buy-in at any age; restore Roe; clean energy expansion; opposes school vouchers.",
+   "sources": [
+    "https://bohannanforcongress.com/priorities/",
+    "https://en.wikipedia.org/wiki/Christina_Bohannan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-1/michael-bridgford",
+  "name": "Michael Bridgford",
+  "party": "Independent",
+  "race": "IA-1",
+  "race_label": "Iowa · US House IA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Healthcare price transparency, antitrust enforcement and fiscal responsibility; strict guardrails on AI data centers and Big Tech.",
+   "sources": [
+    "https://bridgfordforiowa.com/Issues"
+   ],
+   "photo": {
+    "file": "File:Michael Bridgford 3.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hinginmusic"
+   }
+  }
+ }
+]

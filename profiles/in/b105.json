@@ -1,0 +1,400 @@
+[
+ {
+  "id": "WI-4/arthur-burks",
+  "name": "Arthur Burks",
+  "party": "Independent",
+  "race": "WI-4",
+  "race_label": "Wisconsin · US House WI-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Wisconsin%27s_4th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-5/scott-fitzgerald",
+  "name": "Scott Fitzgerald",
+  "party": "Republican",
+  "race": "WI-5",
+  "race_label": "Wisconsin · US House WI-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000471",
+   "official_name": "Scott Fitzgerald",
+   "chamber": "House",
+   "official_site": "https://fitzgerald.house.gov",
+   "official_social": {
+    "twitter": "RepFitzgerald",
+    "facebook": "CongressmanScottFitzgerald"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 45,
+    "security": 60,
+    "immigration": 80,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes higher taxes on wealthy, Medicaid work requirements, 20-week abortion ban but fewer gun limits, tougher juvenile sentencing, opposes citizenship pathway, backed Israel.",
+   "sources": [
+    "https://www.ontheissues.org/House/Scott_Fitzgerald.htm",
+    "https://en.wikipedia.org/wiki/Scott_Fitzgerald_(politician)"
+   ],
+   "photo": {
+    "file": "File:Scott Fitzgerald Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "Leah Herman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "WI-5/andrew-beck",
+  "name": "Andrew Beck",
+  "party": "Democratic",
+  "race": "WI-5",
+  "race_label": "Wisconsin · US House WI-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 75,
+    "liberty": 25,
+    "security": null,
+    "immigration": 45,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Pro-union, protect Social Security, Medicare and Medicaid, free trade school, reproductive rights protections, secure borders humanely, combat climate change.",
+   "sources": [
+    "https://www.beckforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-6/glenn-grothman",
+  "name": "Glenn Grothman",
+  "party": "Republican",
+  "race": "WI-6",
+  "race_label": "Wisconsin · US House WI-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000576",
+   "official_name": "Glenn Grothman",
+   "chamber": "House",
+   "official_site": "https://grothman.house.gov",
+   "official_social": {
+    "facebook": "RepGrothman",
+    "twitter": "RepGrothman",
+    "instagram": "repglenngrothman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 70,
+    "security": 40,
+    "immigration": 85,
+    "foreign": 45,
+    "energy": 15,
+    "tech": null,
+    "education": 15,
+    "faith": 85
+   },
+   "basis": "Lower taxes, work requirements, ACA repeal, anti-abortion and anti-same-sex marriage, opposes phone tracking and citizenship pathway, against Ukraine aid, vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/House/Glenn_Grothman.htm",
+    "https://en.wikipedia.org/wiki/Glenn_Grothman"
+   ],
+   "photo": {
+    "file": "File:Glenn Grothman 117th Congress portrait.jpg",
+    "license": "Public domain",
+    "author": "Leah Herman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "WI-6/brad-smith",
+  "name": "Brad Smith",
+  "party": "Democratic",
+  "race": "WI-6",
+  "race_label": "Wisconsin · US House WI-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 15,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 85,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "PRO Act, public option toward universal coverage, reproductive freedom, LGBTQ protections, license-plate-reader moratorium, legal status path, solar and wind, data-center oversight.",
+   "sources": [
+    "https://www.bradsmithforcongress.com/priorities-and-positions"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-6/michael-thurow",
+  "name": "Michael Thurow",
+  "party": "Independent",
+  "race": "WI-6",
+  "race_label": "Wisconsin · US House WI-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 60,
+    "liberty": 20,
+    "security": 25,
+    "immigration": null,
+    "foreign": 20,
+    "energy": null,
+    "tech": 80,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Glass-Steagall, stock buyback ban, drug price caps, expanded child tax credit, marijuana legalization, stronger privacy laws, end foreign war spending, AI regulation.",
+   "sources": [
+    "https://www.thurowforcongress.com/platform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-6/matthew-arndt",
+  "name": "Matthew Arndt",
+  "party": "Green",
+  "race": "WI-6",
+  "race_label": "Wisconsin · US House WI-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Wisconsin%27s_6th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-6/elizabeth-fitzgibbon",
+  "name": "Elizabeth Fitzgibbon",
+  "party": "Independent",
+  "race": "WI-6",
+  "race_label": "Wisconsin · US House WI-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Wisconsin%27s_6th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-7/michael-alfonso",
+  "name": "Michael Alfonso",
+  "party": "Republican",
+  "race": "WI-7",
+  "race_label": "Wisconsin · US House WI-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 60,
+    "security": null,
+    "immigration": 75,
+    "foreign": 15,
+    "energy": null,
+    "tech": null,
+    "education": 10,
+    "faith": 85
+   },
+   "basis": "Cut spending and red tape, pro-life and constitutional carry, restrict H-1B, reduce foreign aid, school choice and homeschooling, religious liberty.",
+   "sources": [
+    "https://www.alfonsoforwisconsin.com/issues/"
+   ],
+   "photo": {
+    "file": "File:Michael Alfonso 2025.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "WI-7/fred-clark",
+  "name": "Fred Clark",
+  "party": "Democratic",
+  "race": "WI-7",
+  "race_label": "Wisconsin · US House WI-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 85,
+    "liberty": 20,
+    "security": null,
+    "immigration": 45,
+    "foreign": null,
+    "energy": null,
+    "tech": 75,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Universal health coverage, reproductive freedom and contraception access, secure border with humane legal immigration, strong public oversight of AI.",
+   "sources": [
+    "https://www.clarkforwi.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-8/tony-wied",
+  "name": "Tony Wied",
+  "party": "Republican",
+  "race": "WI-8",
+  "race_label": "Wisconsin · US House WI-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000829",
+   "official_name": "Tony Wied",
+   "chamber": "House",
+   "official_site": "https://wied.house.gov",
+   "official_social": {
+    "twitter": "RepTonyWied",
+    "facebook": "61568624194199",
+    "instagram": "reptonywied"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 85,
+    "foreign": 55,
+    "energy": 15,
+    "tech": 30,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cut spending and regulation, finish border wall and Remain in Mexico, peace through strength, expand domestic energy, US leadership on crypto.",
+   "sources": [
+    "https://tonywiedforcongress.com/issues/"
+   ],
+   "photo": {
+    "file": "File:Representative Tony Wied Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "WI-8/rick-crosson",
+  "name": "Rick Crosson",
+  "party": "Democratic",
+  "race": "WI-8",
+  "race_label": "Wisconsin · US House WI-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 15,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Higher taxes on the wealthy, health care as a right, abortion, IVF and contraception access, border resources plus earned path to legal status.",
+   "sources": [
+    "https://rickcrosson.com/issues/"
+   ],
+   "photo": null
+  }
+ }
+]

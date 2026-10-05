@@ -1,0 +1,414 @@
+[
+ {
+  "id": "NJ-3/michael-mcguire",
+  "name": "Michael McGuire",
+  "party": "Republican",
+  "race": "NJ-3",
+  "race_label": "New Jersey · US House NJ-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Calls for cutting wasteful spending, lower middle-class taxes, and strong military funding and modernization.",
+   "sources": [
+    "https://michaelmcguireforcongress.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-3/ryan-michael-kelly",
+  "name": "Ryan Michael Kelly",
+  "party": "Affordability, Accountability, People",
+  "race": "NJ-3",
+  "race_label": "New Jersey · US House NJ-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-3/steven-welzer",
+  "name": "Steven Welzer",
+  "party": "Green",
+  "race": "NJ-3",
+  "race_label": "New Jersey · US House NJ-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-4/chris-smith",
+  "name": "Chris Smith",
+  "party": "Republican",
+  "race": "NJ-4",
+  "race_label": "New Jersey · US House NJ-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S000522",
+   "official_name": "Christopher H. Smith",
+   "chamber": "House",
+   "official_site": "https://chrissmith.house.gov",
+   "official_social": {
+    "facebook": "RepChrisSmith",
+    "youtube": "USRepChrisSmith",
+    "instagram": "repchrissmith"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 50,
+    "liberty": 85,
+    "security": null,
+    "immigration": 40,
+    "foreign": 75,
+    "energy": 65,
+    "tech": null,
+    "education": null,
+    "faith": 75
+   },
+   "basis": "Strongly anti-abortion, voted against Respect for Marriage Act, backs gun restrictions and unions, climate action, farmworker legalization, international religious-freedom work.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"
+   ],
+   "photo": {
+    "file": "File:Chris Smith official photo (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "NJ-4/rachel-peace",
+  "name": "Rachel Peace",
+  "party": "Democratic",
+  "race": "NJ-4",
+  "race_label": "New Jersey · US House NJ-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions could be retrieved from her campaign site or other sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-5/josh-gottheimer",
+  "name": "Josh Gottheimer",
+  "party": "Democratic",
+  "race": "NJ-5",
+  "race_label": "New Jersey · US House NJ-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000583",
+   "official_name": "Josh Gottheimer",
+   "chamber": "House",
+   "official_site": "https://gottheimer.house.gov",
+   "official_social": {
+    "facebook": "RepJoshG",
+    "twitter": "RepJoshG",
+    "instagram": "RepJoshG"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 40,
+    "welfare": 45,
+    "liberty": 30,
+    "security": 65,
+    "immigration": 50,
+    "foreign": 90,
+    "energy": 60,
+    "tech": 40,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Centrist: SALT restoration, opposes single-payer, abortion rights and gun control, police funding, Laken Riley Act, strong Israel/Ukraine support, light-touch AI.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Josh_Gottheimer"
+   ],
+   "photo": {
+    "file": "File:Josh Gottheimer Photo (cropped).jpg",
+    "license": "Public domain",
+    "author": "Kristie Boyd; U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "NJ-5/sean-kirrane",
+  "name": "Sean Kirrane",
+  "party": "Republican",
+  "race": "NJ-5",
+  "race_label": "New Jersey · US House NJ-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions could be retrieved from his campaign site or other sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-5/adam-rueda",
+  "name": "Adam Rueda",
+  "party": "Humane Sustainable Future",
+  "race": "NJ-5",
+  "race_label": "New Jersey · US House NJ-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-6/frank-pallone",
+  "name": "Frank Pallone",
+  "party": "Democratic",
+  "race": "NJ-6",
+  "race_label": "New Jersey · US House NJ-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000034",
+   "official_name": "Frank Pallone, Jr.",
+   "chamber": "House",
+   "official_site": "https://pallone.house.gov",
+   "official_social": {
+    "twitter": "FrankPallone",
+    "facebook": "repfrankpallone",
+    "youtube": "repfrankpallone",
+    "instagram": "repfrankpallone"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 85,
+    "liberty": 30,
+    "security": 25,
+    "immigration": 20,
+    "foreign": 60,
+    "energy": 90,
+    "tech": 80,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "ACA defender, backs higher wages, abortion and LGBTQ rights, background checks, police accountability, data-privacy law, clean energy; opposes vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Frank_Pallone",
+    "https://pallone.house.gov/issues",
+    "https://www.ontheissues.org/NJ/Frank_Pallone.htm"
+   ],
+   "photo": {
+    "file": "File:Frank Pallone Photo.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "NJ-6/hillary-herzig",
+  "name": "Hillary Herzig",
+  "party": "Republican",
+  "race": "NJ-6",
+  "race_label": "New Jersey · US House NJ-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 40,
+    "welfare": 30,
+    "liberty": 25,
+    "security": 20,
+    "immigration": 60,
+    "foreign": null,
+    "energy": 50,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Backs lower taxes and breaking up monopolies, federal cannabis legalization, limits on police surveillance, legal immigration, and school choice.",
+   "sources": [
+    "https://www.herzigforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-7/thomas-kean-jr",
+  "name": "Thomas Kean Jr.",
+  "party": "Republican",
+  "race": "NJ-7",
+  "race_label": "New Jersey · US House NJ-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000398",
+   "official_name": "Thomas H. Kean, Jr.",
+   "chamber": "House",
+   "official_site": "https://kean.house.gov",
+   "official_social": {
+    "twitter": "CongressmanKean",
+    "facebook": "CongressmanKean",
+    "instagram": "congressmankean"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 40,
+    "welfare": 45,
+    "liberty": 55,
+    "security": null,
+    "immigration": 70,
+    "foreign": 70,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Seeks full SALT deduction, voted to extend ACA credits, voted against abortion-rights bill, backs border security and Iran strikes.",
+   "sources": [
+    "https://kean.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Thomas_Kean_Jr."
+   ],
+   "photo": {
+    "file": "File:Rep. Tom Kean official photo, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Office of Congressman Tom Kean"
+   }
+  }
+ },
+ {
+  "id": "NJ-7/rebecca-bennett",
+  "name": "Rebecca Bennett",
+  "party": "Democratic",
+  "race": "NJ-7",
+  "race_label": "New Jersey · US House NJ-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 60,
+    "liberty": 65,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pledges to protect health coverage, keep weapons off streets, and invest in renewable energy to address climate change; liberty from guns only.",
+   "sources": [
+    "https://rebeccabennettforcongress.com/priorities/"
+   ],
+   "photo": null
+  }
+ }
+]

@@ -1,0 +1,382 @@
+[
+ {
+  "id": "IN-6/cynthia-wirth",
+  "name": "Cynthia Wirth",
+  "party": "Democratic",
+  "current_role": "Former science teacher and policy writer",
+  "bio": "Cynthia \"Cinde\" Wirth is a seventh-generation Hoosier from Bartholomew County who taught high school biology and environmental science for more than ten years. She was a congressional fellow in Washington in 2018-19 and completed a Ph.D. at Ball State University in 2025. She describes herself as a teacher, scientist, small-business owner and policy writer.",
+  "website": "https://wirth4congress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/wirth4congress",
+   "facebook": "https://www.facebook.com/cwirth4congress",
+   "tiktok": "https://www.tiktok.com/@cindewirth4in"
+  },
+  "platform": [
+   {"topic": "Working families", "point": "Supports good-paying jobs, affordable housing, childcare, paid sick time and paid family leave.", "source": "https://wirth4congress.com/priorities/"},
+   {"topic": "Education", "point": "Wants equitable early learning and investment in the teacher workforce for neighborhood preK-12 public schools.", "source": "https://wirth4congress.com/priorities/"},
+   {"topic": "Healthcare", "point": "Seeks affordable, accessible healthcare so no one avoids treatment over cost, job loss or discrimination.", "source": "https://wirth4congress.com/priorities/"},
+   {"topic": "Environment", "point": "Calls for prompt climate action through clean and renewable energy investment and scrutiny of data center resource use.", "source": "https://wirth4congress.com/priorities/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 75, "evidence": "Backs affordable healthcare access for all, paid family leave, sick time and childcare support.", "source": "https://wirth4congress.com/priorities/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Calls for immediate climate action and investment in clean and renewable energy.", "source": "https://wirth4congress.com/priorities/"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Prioritises strengthening neighborhood public preK-12 schools and the teaching workforce.", "source": "https://wirth4congress.com/priorities/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign uses the name Dr. Cinde Wirth."
+ },
+ {
+  "id": "IN-7/andre-carson",
+  "name": "André Carson",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for IN-7",
+  "bio": "André Carson has represented Indiana's 7th district, covering much of Indianapolis, since winning a 2008 special election. Before Congress he worked as a compliance officer with the Indiana Excise Police and in homeland security anti-terrorism work. He is the dean of Indiana's congressional delegation.",
+  "website": "https://andrecarson.com",
+  "social": {
+   "x": "https://x.com/RepAndreCarson",
+   "instagram": "https://www.instagram.com/repandrecarson",
+   "facebook": "https://www.facebook.com/CongressmanAndreCarson",
+   "youtube": "https://www.youtube.com/repandrecarson"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Supports measures that create jobs, stimulate the economy and assist people looking for work.", "source": "https://carson.house.gov/issues"},
+   {"topic": "Immigration", "point": "Backs comprehensive immigration reform that keeps families together, welcomes refugees and addresses undocumented residents.", "source": "https://carson.house.gov/issues"},
+   {"topic": "Energy", "point": "Supports developing renewable energy to reduce reliance on foreign oil and create green jobs.", "source": "https://carson.house.gov/issues"},
+   {"topic": "Education", "point": "Advocates equal access to quality education and programs preparing students for college and careers.", "source": "https://carson.house.gov/issues"},
+   {"topic": "Healthcare", "point": "Supported the Affordable Care Act and a public insurance option.", "source": "https://en.wikipedia.org/wiki/Andr%C3%A9_Carson"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Supports economic stimulus, job-creation programs, consumer protection and financial reform.", "source": "https://en.wikipedia.org/wiki/Andr%C3%A9_Carson"},
+   "welfare": {"score": 70, "evidence": "Voted for the Affordable Care Act and supports a public option; voted against the 2025 reconciliation law's Medicaid cuts.", "source": "https://en.wikipedia.org/wiki/Andr%C3%A9_Carson"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Supports comprehensive reform addressing undocumented immigrants and welcoming refugees; opposed the 2017 travel ban.", "source": "https://carson.house.gov/issues"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Supports renewable energy and green jobs, opposed offshore drilling and voted for the American Clean Energy and Security Act.", "source": "https://en.wikipedia.org/wiki/Andr%C3%A9_Carson"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website taken from Wikipedia and not independently confirmed as active."
+ },
+ {
+  "id": "IN-7/patrick-mcauley",
+  "name": "Patrick McAuley",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Patrick McAuley is the Republican nominee for Indiana's 7th district in Indianapolis. His campaign says he wants to work with local, state and federal leaders to bring more financial resources into the district's communities.",
+  "website": "https://mcauleyforthe7th.com",
+  "social": {},
+  "platform": [
+   {"topic": "Public safety", "point": "Wants stronger community-police relationships, more officers in neighborhoods and targeted crime-reduction resources.", "source": "https://mcauleyforthe7th.com/issues/"},
+   {"topic": "Housing", "point": "Proposes expanding housing supply and reusing vacant buildings to address rising rents.", "source": "https://mcauleyforthe7th.com/issues/"},
+   {"topic": "Homelessness", "point": "Supports partnerships and federal resources to help people move off the street.", "source": "https://mcauleyforthe7th.com/issues/"},
+   {"topic": "Jobs", "point": "Prioritises vocational training and apprenticeships as paths to skilled jobs for young people.", "source": "https://mcauleyforthe7th.com/issues/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 60, "evidence": "Calls for increasing police officer presence in neighborhoods alongside community policing.", "source": "https://mcauleyforthe7th.com/issues/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://mcauleyforthe7th.com/wp-content/uploads/2026/07/hero-profile.png",
+  "notes": "Little biographical information is published; security score added from his public-safety platform."
+ },
+ {
+  "id": "IN-7/james-sceniak",
+  "name": "James Sceniak",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "James Sceniak is the Libertarian nominee for Indiana's 7th congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, candidate profile or public statements were found."
+ },
+ {
+  "id": "IN-8/mark-messmer",
+  "name": "Mark Messmer",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IN-8",
+  "bio": "Mark Messmer, from Jasper, Indiana, has represented Indiana's 8th district since 2025. He served in the Indiana House from 2008 to 2014 and the Indiana Senate from 2014 to 2024, including as Senate Majority Leader. He is a Purdue University graduate and serves on the Agriculture, Armed Services, and Education and Workforce committees.",
+  "website": "https://www.markmessmer.com",
+  "social": {
+   "facebook": "https://www.facebook.com/CongressmanMessmer",
+   "youtube": "https://www.youtube.com/channel/UCTEbPkJbamL_JqEYtMfLGnQ"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Holds that smaller government leads to more job creation.", "source": "https://www.markmessmer.com/"},
+   {"topic": "Taxes", "point": "Has promoted the benefits of the 2025 reconciliation law, the One Big Beautiful Bill Act.", "source": "https://messmer.house.gov/issues"},
+   {"topic": "Veterans", "point": "Has convened roundtables on services for veterans.", "source": "https://messmer.house.gov/issues"},
+   {"topic": "Workforce", "point": "Highlights apprenticeships and workforce development and has worked on child care legislation.", "source": "https://messmer.house.gov/issues"},
+   {"topic": "Agriculture", "point": "Sponsored an Indiana law restricting foreign ownership of farmland.", "source": "https://en.wikipedia.org/wiki/Mark_Messmer"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2025 reconciliation law's tax cuts and says less government creates more jobs.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 reconciliation law, which added Medicaid work requirements.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Voted for the 2025 reconciliation law's immigration enforcement funding.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "foreign": null,
+   "energy": {"score": 20, "evidence": "Voted for the 2025 reconciliation law, which repealed clean-energy tax credits.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "As a state legislator he co-authored 2022 bills on in-state tuition and driver's licenses for undocumented immigrants, which tempers the immigration score."
+ },
+ {
+  "id": "IN-8/mary-allen",
+  "name": "Mary Allen",
+  "party": "Democratic",
+  "current_role": "At-large City Council member, Evansville",
+  "bio": "Mary Allen is an at-large member of the Evansville City Council, a small-business owner and an Army Reserve veteran. She has lived in Indiana for more than 30 years and has worked in nonprofit leadership, economic revitalization and local health initiatives.",
+  "website": "https://www.maryallenforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/maryallenforcongress",
+   "facebook": "https://www.facebook.com/share/1Chr644Ucy/",
+   "tiktok": "https://www.tiktok.com/@maryallen4congress",
+   "youtube": "https://www.youtube.com/@MaryAllenForCongress"
+  },
+  "platform": [
+   {"topic": "Healthcare", "point": "Treats healthcare as a right, opposes Medicaid cuts and wants to protect and expand Medicaid, Medicare and rural hospitals.", "source": "https://www.maryallenforcongress.com/priorities"},
+   {"topic": "Childcare", "point": "Proposes capping family childcare costs at 7% of income and universal pre-K.", "source": "https://www.maryallenforcongress.com/priorities"},
+   {"topic": "Jobs", "point": "Supports a national minimum wage indexed to inflation and protecting workers' right to join a union.", "source": "https://www.maryallenforcongress.com/priorities"},
+   {"topic": "Data centers", "point": "Calls for a federal pause on new large data center projects until safeguards exist.", "source": "https://www.maryallenforcongress.com/priorities"},
+   {"topic": "Government reform", "point": "Wants to ban congressional stock trading, adopt term limits and reduce corporate money in politics.", "source": "https://www.maryallenforcongress.com/priorities"},
+   {"topic": "Agriculture", "point": "Supports breaking up large agriculture monopolies and a national right-to-repair law for farm equipment.", "source": "https://www.maryallenforcongress.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Backs higher taxes on the ultra-wealthy and corporations, an inflation-indexed minimum wage and breaking up agriculture monopolies.", "source": "https://www.maryallenforcongress.com/priorities"},
+   "welfare": {"score": 85, "evidence": "Calls healthcare a human right, wants to expand Medicaid and Medicare, cap childcare costs and provide universal pre-K.", "source": "https://www.maryallenforcongress.com/priorities"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Supports immigration reform with pathways to citizenship that keeps families together.", "source": "https://www.maryallenforcongress.com/priorities"},
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Proposes investing in wind, solar and grid modernisation to create clean-energy jobs.", "source": "https://www.maryallenforcongress.com/priorities"},
+   "tech": {"score": 80, "evidence": "Supports a federal pause on new large-scale data center projects until safeguards are in place.", "source": "https://www.maryallenforcongress.com/priorities"},
+   "education": {"score": 85, "evidence": "Calls for full funding of public schools and a living wage for teachers.", "source": "https://www.maryallenforcongress.com/priorities"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The earlier foreign-policy score (65) was removed because no statement on allies or foreign policy could be confirmed on the current priorities page."
+ },
+ {
+  "id": "IN-9/erin-houchin",
+  "name": "Erin Houchin",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IN-9",
+  "bio": "Erin Houchin, from Salem, Indiana, has represented Indiana's 9th district since 2023 and serves as Secretary of the House Republican Conference. She served in the Indiana Senate from 2014 to 2022 and earlier worked as a field manager for U.S. Senator Dan Coats.",
+  "website": "https://erinhouchin.com",
+  "social": {
+   "x": "https://x.com/erin_houchin",
+   "instagram": "https://www.instagram.com/rephouchin",
+   "facebook": "https://www.facebook.com/erinhouchinindiana/"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Supports finishing the border wall and deporting immigrants who have committed crimes.", "source": "https://erinhouchin.com/"},
+   {"topic": "Economy", "point": "Wants to cut red tape, reduce taxes and control federal spending to help small businesses.", "source": "https://erinhouchin.com/"},
+   {"topic": "Abortion", "point": "Describes herself as pro-life and supports prohibiting late-term abortions.", "source": "https://erinhouchin.com/"},
+   {"topic": "Education", "point": "Says parents should direct their children's education and voted for the Parents Bill of Rights.", "source": "https://erinhouchin.com/"},
+   {"topic": "Law enforcement", "point": "Opposes efforts to defund the police.", "source": "https://erinhouchin.com/"},
+   {"topic": "Israel", "point": "Supports Israel's right to defend itself against terrorism.", "source": "https://erinhouchin.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Advocates lower taxes and less regulation and voted for the 2025 reconciliation law's tax cuts.", "source": "https://erinhouchin.com/"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 reconciliation law, which added Medicaid work requirements.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "liberty": {"score": 55, "evidence": "Supports abortion restrictions (community norms) while opposing limits on gun rights (individual choice).", "source": "https://erinhouchin.com/"},
+   "security": {"score": 70, "evidence": "Opposes defunding police and emphasises support for law enforcement.", "source": "https://erinhouchin.com/"},
+   "immigration": {"score": 70, "evidence": "Supports finishing the border wall and deporting criminal offenders; voted for enforcement funding in 2025.", "source": "https://erinhouchin.com/"},
+   "foreign": {"score": 35, "evidence": "Voted in 2023 for an amendment to halt U.S. military aid to Ukraine, while voicing strong support for Israel.", "source": "https://en.wikipedia.org/wiki/Erin_Houchin"},
+   "energy": {"score": 20, "evidence": "Voted for the 2025 reconciliation law, which repealed clean-energy tax credits.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Says parents should direct education and voted for the Parents Bill of Rights.", "source": "https://erinhouchin.com/"},
+   "faith": {"score": 65, "evidence": "Campaign stresses defending the right to worship freely and faith-based conservative values.", "source": "https://erinhouchin.com/"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/659802c416dbae450c0b6be9/348cd883-d2bd-416b-935a-0b927e199df5/Houchin-Erin_Indiana.png",
+  "notes": "Liberty, security, education and faith scores were newly added from her campaign issues page."
+ },
+ {
+  "id": "IN-9/brad-meyer",
+  "name": "Brad Meyer",
+  "party": "Democratic",
+  "current_role": "Retiree and candidate",
+  "bio": "Brad Meyer is the Democratic nominee for Indiana's 9th district. His campaign says he left retirement to run and has held numerous town halls and roundtables across the district.",
+  "website": "https://www.bradmeyer.org",
+  "social": {
+   "x": "https://x.com/BMeyer4Congress",
+   "instagram": "https://www.instagram.com/bradmeyerforindiana/",
+   "facebook": "https://www.facebook.com/bradmeyerforindiana",
+   "youtube": "https://www.youtube.com/@BradMeyer4congress"
+  },
+  "platform": [
+   {"topic": "Healthcare", "point": "Supports Medicare for All to guarantee coverage for every resident and end medical bankruptcies.", "source": "https://bradmeyer.org/policy-overview/"},
+   {"topic": "Economy", "point": "Seeks higher wages, fair taxation and restored collective bargaining for working families.", "source": "https://www.bradmeyer.org/"},
+   {"topic": "Education", "point": "Opposes dismantling public education and supports keeping the Department of Education's role.", "source": "https://bradmeyer.org/policy-overview/"},
+   {"topic": "Immigration", "point": "Wants immigration levels matched to legal hiring needs and action against illegal hiring practices.", "source": "https://bradmeyer.org/policy-overview/"},
+   {"topic": "Environment", "point": "Supports clean energy and fair regulation to address Indiana's air and water pollution.", "source": "https://bradmeyer.org/policy-overview/"},
+   {"topic": "Foreign policy", "point": "Favors diplomacy and treats military force as a last resort.", "source": "https://bradmeyer.org/policy-overview/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Says the economy has long favored billionaires and corporations and calls for holding corporations accountable through strategic public investment.", "source": "https://bradmeyer.org/policy-overview/"},
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All with guaranteed coverage for every resident.", "source": "https://bradmeyer.org/policy-overview/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 40, "evidence": "Frames immigration as an economic issue, matching entry to legal hiring needs rather than enforcement alone.", "source": "https://bradmeyer.org/policy-overview/"},
+   "foreign": {"score": 50, "evidence": "Describes himself as neither a hawk nor a pacifist, with force as a last resort.", "source": "https://bradmeyer.org/policy-overview/"},
+   "energy": {"score": 70, "evidence": "Advocates clean energy and fair environmental regulation.", "source": "https://bradmeyer.org/policy-overview/"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Opposes dismantling public education and defends the Department of Education.", "source": "https://bradmeyer.org/policy-overview/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign site gives no details of his pre-retirement career."
+ },
+ {
+  "id": "IN-9/tonya-hudson",
+  "name": "Tonya Hudson",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Tonya Hudson is the Libertarian nominee for Indiana's 9th congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, candidate profile or public statements were found."
+ },
+ {
+  "id": "IA-1/mariannette-miller-meeks",
+  "name": "Mariannette Miller-Meeks",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IA-1",
+  "bio": "Mariannette Miller-Meeks has served in the U.S. House since 2021, first for Iowa's 2nd district and now the 1st. She is an ophthalmologist who practiced in Ottumwa, served 24 years in the Army and Army Reserve, directed the Iowa Department of Public Health from 2011 to 2014, and served in the Iowa Senate from 2019 to 2021.",
+  "website": "https://drmillermeeks.com",
+  "social": {
+   "x": "https://x.com/millermeeks",
+   "instagram": "https://www.instagram.com/millermeeks/",
+   "facebook": "https://www.facebook.com/MillerMeeksIA"
+  },
+  "platform": [
+   {"topic": "Biofuels", "point": "Has led efforts to allow year-round E15 sales and extend biofuel tax incentives.", "source": "https://millermeeks.house.gov/issues/energy"},
+   {"topic": "Energy", "point": "Backs all-of-the-above domestic energy, including protecting hydraulic fracturing and LNG exports.", "source": "https://millermeeks.house.gov/issues/energy"},
+   {"topic": "Regulation", "point": "Opposes federal electric vehicle mandates and sought to limit Energy Department appliance rules.", "source": "https://millermeeks.house.gov/issues/energy"},
+   {"topic": "Border", "point": "Supports a border wall.", "source": "https://www.ontheissues.org/House/Mariannette_Miller-Meeks.htm"},
+   {"topic": "Iran", "point": "Supports the administration's military action against Iran and voted against war powers limits.", "source": "https://en.wikipedia.org/wiki/Mariannette_Miller-Meeks"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Opposes higher taxes on the wealthy and supports corporate tax cuts.", "source": "https://www.ontheissues.org/House/Mariannette_Miller-Meeks.htm"},
+   "welfare": {"score": 25, "evidence": "Opposed the Affordable Care Act in 2014 and voted against the American Rescue Plan Act in 2021.", "source": "https://en.wikipedia.org/wiki/Mariannette_Miller-Meeks"},
+   "liberty": {"score": 55, "evidence": "Opposes abortion except for rape, incest or the mother's health and opposed same-sex marriage in 2014, but voted against expanded gun background checks.", "source": "https://www.ontheissues.org/House/Mariannette_Miller-Meeks.htm"},
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Supports a border wall and immigration bans on non-cooperating countries, while co-sponsoring the America's CHILDREN Act.", "source": "https://www.ontheissues.org/House/Mariannette_Miller-Meeks.htm"},
+   "foreign": {"score": 75, "evidence": "Supports military action against Iran and has been a member of the Ukraine Caucus.", "source": "https://en.wikipedia.org/wiki/Mariannette_Miller-Meeks"},
+   "energy": {"score": 20, "evidence": "Opposes limits on drilling and EV mandates and protects fracking, while strongly backing biofuels.", "source": "https://millermeeks.house.gov/issues/energy"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://drmillermeeks.com/_astro/headshot-peter-owens.BGhqHe9w_Z1NPQ4d.webp",
+  "notes": "Welfare and energy scores were newly added from her votes and official energy page."
+ },
+ {
+  "id": "IA-1/christina-bohannan",
+  "name": "Christina Bohannan",
+  "party": "Democratic",
+  "current_role": "Former Iowa state representative and law professor",
+  "bio": "Christina Bohannan, who grew up in Florida, worked as an environmental engineer before becoming a law professor at the University of Iowa College of Law in 2000. She represented the 85th district in the Iowa House from 2021 to 2023. She was the Democratic nominee for Iowa's 1st district in 2022 and 2024.",
+  "website": "https://bohannanforcongress.com",
+  "social": {
+   "x": "https://x.com/BohannanIowa",
+   "instagram": "https://www.instagram.com/christinaforcongress",
+   "facebook": "https://www.facebook.com/BohannanforIowa"
+  },
+  "platform": [
+   {"topic": "Tariffs", "point": "Wants Congress to end current tariffs and expand markets for Iowa farm products.", "source": "https://bohannanforcongress.com/priorities/"},
+   {"topic": "Healthcare", "point": "Proposes a Medicare buy-in at any age, a $35 insulin cap and restoring Medicaid cuts.", "source": "https://bohannanforcongress.com/priorities/"},
+   {"topic": "Abortion", "point": "Pledges to write Roe v. Wade protections into federal law.", "source": "https://bohannanforcongress.com/priorities/"},
+   {"topic": "Education", "point": "Opposes vouchers and supports investment in public schools, career-technical education and universal school meals.", "source": "https://bohannanforcongress.com/priorities/"},
+   {"topic": "Ethics", "point": "Supports a congressional stock-trading ban, term limits and overturning Citizens United.", "source": "https://bohannanforcongress.com/priorities/"},
+   {"topic": "Seniors", "point": "Opposes privatizing Social Security or raising the retirement age.", "source": "https://bohannanforcongress.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Opposes tariffs but backs action on corporate price gouging, a ban on hedge funds buying family homes and union protections.", "source": "https://bohannanforcongress.com/priorities/"},
+   "welfare": {"score": 75, "evidence": "Supports a Medicare buy-in at any age and expanded coverage, while not endorsing single-payer.", "source": "https://bohannanforcongress.com/priorities/"},
+   "liberty": {"score": 15, "evidence": "On abortion, pledges to restore Roe v. Wade in federal law and opposes Iowa's six-week ban.", "source": "https://bohannanforcongress.com/priorities/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 65, "evidence": "Supports expanding clean energy and opposes cuts to renewable projects.", "source": "https://bohannanforcongress.com/priorities/"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Opposes school vouchers and calls for major public investment from pre-K through college.", "source": "https://bohannanforcongress.com/priorities/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://bohannanforcongress.com/wp-content/uploads/2025/11/Bohannan_Transparent_Yellow-1.png",
+  "notes": "The Wikipedia portrait is an Iowa General Assembly photo under a 'copyrighted free use' permission rather than a named free licence, so it was not used."
+ },
+ {
+  "id": "IA-1/michael-bridgford",
+  "name": "Michael Bridgford",
+  "party": "Independent",
+  "current_role": "Small-business owner and financial advisor",
+  "bio": "Michael Bridgford is an independent candidate for Iowa's 1st district who grew up on a seventh-generation family farm. He describes himself as a small-business owner, and Wikipedia lists him as an independent financial advisor.",
+  "website": "https://bridgfordforiowa.com",
+  "social": {
+   "x": "https://x.com/Bridgford4Iowa",
+   "instagram": "https://www.instagram.com/bridgfordforiowa",
+   "facebook": "https://www.facebook.com/bridgfordforiowa",
+   "tiktok": "https://www.tiktok.com/@bridgfordforiowa",
+   "youtube": "https://www.youtube.com/@bridgfordforiowa"
+  },
+  "platform": [
+   {"topic": "Government reform", "point": "Supports term limits, a congressional stock-trading ban and campaign finance reform.", "source": "https://bridgfordforiowa.com/Issues"},
+   {"topic": "Rural healthcare", "point": "Wants healthcare price transparency and revived rural clinics.", "source": "https://bridgfordforiowa.com/Issues"},
+   {"topic": "Social Security", "point": "Seeks to fix Social Security before it reaches a funding crisis.", "source": "https://bridgfordforiowa.com/Issues"},
+   {"topic": "Technology", "point": "Calls for strict oversight of AI data centers and technology companies.", "source": "https://bridgfordforiowa.com/Issues"},
+   {"topic": "Agriculture", "point": "Supports farmers, the biofuels industry, small businesses and manufacturing revival.", "source": "https://bridgfordforiowa.com/Issues"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Pairs fiscal responsibility with healthcare price transparency and strict guardrails on Big Tech.", "source": "https://bridgfordforiowa.com/Issues"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Calls for strict guardrails on AI data centers and Big Tech.", "source": "https://bridgfordforiowa.com/Issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Michael Bridgford 3.jpg", "license": "CC BY-SA 4.0", "author": "Hinginmusic"},
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

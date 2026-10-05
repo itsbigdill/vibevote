@@ -1,0 +1,127 @@
+[
+ {
+  "id": "WY-AL/chuck-gray",
+  "name": "Chuck Gray",
+  "party": "Republican",
+  "current_role": "Wyoming Secretary of State",
+  "bio": "Chuck Gray has served as Wyoming's Secretary of State since January 2023, after representing the 57th district in the Wyoming House from 2017 to 2023. Originally from La Crescenta, California, he holds an economics degree from the Wharton School and hosted a conservative talk radio program in Casper after moving to Wyoming. He won the 2026 Republican primary for Wyoming's open at-large U.S. House seat.",
+  "website": "https://chuckforwyoming.com",
+  "social": {
+   "x": "https://twitter.com/ChuckGrayWY",
+   "facebook": "https://www.facebook.com/ChuckGrayWY"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Protect coal, oil and gas jobs and end federal subsidies for wind projects.", "source": "https://chuckforwyoming.com"},
+   {"topic": "Affordability", "point": "Cut taxes for working families and reduce government spending to ease inflation.", "source": "https://chuckforwyoming.com"},
+   {"topic": "Elections", "point": "Require proof of citizenship to register to vote and keep election processes transparent.", "source": "https://chuckforwyoming.com"},
+   {"topic": "Immigration", "point": "Secure the border, stop illegal immigration and enforce existing immigration laws.", "source": "https://chuckforwyoming.com"},
+   {"topic": "Finance", "point": "Oppose ESG investing rules, building on anti-ESG enforcement rules he advanced as securities regulator.", "source": "https://chuckforwyoming.com"},
+   {"topic": "Rights", "point": "Defend Second Amendment rights and stop taxpayer-funded abortion policies.", "source": "https://chuckforwyoming.com"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Campaign pledges lower taxes and reduced government spending and cites a Club for Growth economic freedom award.", "source": "https://chuckforwyoming.com"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Abortion: sponsored ultrasound and reporting requirements and opposes taxpayer-funded abortion; guns: backs an unrestricted Second Amendment.", "source": "https://en.wikipedia.org/wiki/Chuck_Gray_(Wyoming_politician)"},
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Campaign backs President Trump's approach to securing the border, stopping illegal immigration and enforcing existing law.", "source": "https://chuckforwyoming.com"},
+   "foreign": null,
+   "energy": {"score": 10, "evidence": "Pledges to protect coal, oil and gas and to end federal subsidies for wind projects; sponsored a 2019 coal protection bill.", "source": "https://chuckforwyoming.com"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Chuck Gray in 2025 (cropped).jpg", "license": "CC BY-SA 2.0", "author": "Gage Skidmore"},
+  "campaign_photo": "",
+  "notes": "Liberty lowered from 80 to 60 because the earlier score reflected abortion only, while his stated gun-rights position points toward individual choice."
+ },
+ {
+  "id": "WY-AL/lisa-kinney",
+  "name": "Lisa Kinney",
+  "party": "Democratic",
+  "current_role": "Former Wyoming state senator and financial advisor",
+  "bio": "Lisa Kinney, a Laramie native, represented Laramie in the Wyoming Senate from 1985 to 1995 and was minority floor leader in her final two years. She holds undergraduate and law degrees from the University of Wyoming and a master's from the University of Oregon, directed the Albany County Library and worked for over two decades as a financial advisor. She won the 2026 Democratic primary for Wyoming's at-large U.S. House seat.",
+  "website": "https://lisakinneyforcongress.com",
+  "social": {
+   "facebook": "https://www.facebook.com/people/Lisa-Kinney-for-US-House/61589214634389/"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Oppose tariffs, close tax loopholes used by billionaires and help first-time homebuyers.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   {"topic": "Health care", "point": "Keep Affordable Care Act subsidies until a bipartisan replacement exists and increase insurance competition in Wyoming.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   {"topic": "Education", "point": "Re-establish the Education Department, restore Head Start, special education programs and free school meals, and support student loan forgiveness.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   {"topic": "Foreign policy", "point": "End U.S. military involvement in Iran, stop intervention in Venezuela and Cuba, and honor NATO commitments.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   {"topic": "Public lands", "point": "Oppose selling or transferring federal public lands.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   {"topic": "Government", "point": "Strengthen constitutional checks and balances, including removing the presidential pardon power.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Proposes closing billionaire tax loopholes, opposes tariffs and supports homebuyer assistance.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   "welfare": {"score": 65, "evidence": "Supports keeping ACA subsidies, restoring SNAP benefits and providing free school meals.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Criticizes ICE's mission and favors an immigration system she describes as fair and just.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   "foreign": {"score": 40, "evidence": "Wants to end the Iran war and intervention in Venezuela and Cuba while honoring NATO commitments.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 90, "evidence": "Calls for re-establishing the Education Department and restoring Head Start and special education funding.", "source": "https://lisakinneyforcongress.com/news/r-e-a-l/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://lisakinneyforcongress.com/wp-content/uploads/2026/06/3A9A1418-718x1024.jpg",
+  "notes": ""
+ },
+ {
+  "id": "WY-AL/shawn-johnson",
+  "name": "Shawn Johnson",
+  "party": "Libertarian",
+  "current_role": "Former vice mayor of Casper",
+  "bio": "Shawn Johnson is the Libertarian nominee for Wyoming's at-large U.S. House seat in 2026. He is described as a former vice mayor of Casper.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or policy statements were found; the former Casper vice mayor description comes from the Wikipedia article on the 2026 race."
+ },
+ {
+  "id": "WY-AL/jeff-haggit",
+  "name": "Jeff Haggit",
+  "party": "Constitution",
+  "current_role": "",
+  "bio": "Jeff Haggit is the Constitution Party nominee for Wyoming's at-large U.S. House seat, his third run for the office. He was the party's nominee in 2024, when he received about 2 percent of the vote.",
+  "website": "https://haggitforhouse.com",
+  "social": {},
+  "platform": [
+   {"topic": "Regulation", "point": "Shield ranchers and small businesses from layers of federal regulation.", "source": "https://haggitforhouse.com/campaign-announcement/"},
+   {"topic": "Health", "point": "Protect medical freedom and support withdrawing the U.S. from the World Health Organization (H.R. 79).", "source": "https://haggitforhouse.com/"},
+   {"topic": "Privacy", "point": "Oppose a central bank digital currency and government surveillance of personal finances.", "source": "https://haggitforhouse.com/"},
+   {"topic": "Agriculture", "point": "Protect family farms from inheritance taxes and government oversight, treating property rights as fundamental.", "source": "https://haggitforhouse.com/"},
+   {"topic": "Infrastructure", "point": "Secure and modernize the national electrical grid.", "source": "https://haggitforhouse.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Campaign calls for cutting federal regulation of ranchers and small businesses and ending inheritance taxes on family farms.", "source": "https://haggitforhouse.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 20, "evidence": "Opposes a central bank digital currency and government financial surveillance.", "source": "https://haggitforhouse.com/"},
+   "immigration": null,
+   "foreign": {"score": 25, "evidence": "Supports H.R. 79 to withdraw the United States from the World Health Organization.", "source": "https://haggitforhouse.com/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No biographical details were found; the campaign's main image includes overlaid text, so it was not recorded as a headshot."
+ }
+]

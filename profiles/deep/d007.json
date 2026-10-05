@@ -1,0 +1,308 @@
+[
+ {
+  "id": "GA-6/kevin-martin",
+  "name": "Kevin Martin",
+  "party": "Republican",
+  "current_role": "Controller (accounting and finance)",
+  "bio": "Kevin Martin is the Republican nominee for Georgia's 6th Congressional District after defeating Justin Pinker in the May 2026 primary. A fifth-generation Cobb County native, he has worked about 30 years as a controller in accounting and financial oversight. He holds bachelor's degrees from the Georgia Institute of Technology and Georgia State University.",
+  "website": "https://kevinmartinforcongress.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=61591253832696"
+  },
+  "platform": [
+   {"topic": "Federal budget", "point": "Pass budgets through regular order, fund core obligations first and require other programs to justify new appropriations.", "source": "https://kevinmartinforcongress.com/issues/budget"},
+   {"topic": "Schools", "point": "Send federal education money to states without federal conditions and shrink the Department of Education's bureaucracy.", "source": "https://kevinmartinforcongress.com/issues/schools"},
+   {"topic": "Trades", "point": "Make federal student aid usable for shorter technical programs and increase career and technical education funding.", "source": "https://kevinmartinforcongress.com/issues/trade-jobs"},
+   {"topic": "Housing", "point": "Open unused federal land for home building, review mortgage terms and keep lending standards strict.", "source": "https://kevinmartinforcongress.com/issues/housing"},
+   {"topic": "Wages", "point": "Keep the federal minimum wage above the cost of living and indexed to inflation, with support aimed at working families.", "source": "https://kevinmartinforcongress.com/issues/wages"},
+   {"topic": "Drug prices", "point": "Cap federal drug prices at what other developed countries pay and bring critical drug manufacturing back to the US.", "source": "https://kevinmartinforcongress.com/issues/drug-prices"},
+   {"topic": "Crime", "point": "Fund law enforcement, tighten federal pretrial release standards and appoint originalist judges.", "source": "https://kevinmartinforcongress.com/issues/crime"},
+   {"topic": "Second Amendment", "point": "Opposes a national gun ownership registry while keeping firearms from felons and people shown to be dangerous.", "source": "https://kevinmartinforcongress.com/issues/second-amendment"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Backs an inflation-indexed minimum wage, capping drug prices at international levels and antitrust action against hospital monopolies, alongside strict budget discipline.", "source": "https://kevinmartinforcongress.com/issues/wages"},
+   "welfare": {"score": 40, "evidence": "Says federal support should go to people who are working but still cannot cover basics, and that every non-core program should be audited.", "source": "https://kevinmartinforcongress.com/issues/wages"},
+   "liberty": {"score": 30, "evidence": "Guns: opposes a national gun registry and red tape for law-abiding buyers, while supporting bans for felons and dangerous people; no other liberty issue addressed.", "source": "https://kevinmartinforcongress.com/issues/second-amendment"},
+   "security": {"score": 70, "evidence": "Calls for full law enforcement funding, tighter federal pretrial release rules and originalist judges.", "source": "https://kevinmartinforcongress.com/issues/crime"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://kevinmartinforcongress.com/assets/kevin-hero.jpg",
+  "notes": "Positions come from the campaign issues pages found at kevinmartinforcongress.com; his education plank concerns federal versus local control rather than school choice, so education was left unscored. No statements were found on immigration, foreign policy beyond defense budgeting, energy, tech or religion in public life."
+ },
+ {
+  "id": "GA-9/caitlyn-gegen",
+  "name": "Caitlyn Gegen",
+  "party": "Democratic",
+  "current_role": "Community organizer",
+  "bio": "Caitlyn Gegen is the Democratic nominee for Georgia's 9th Congressional District after winning the May 2026 primary with about 60% of the vote. She holds a bachelor's degree and a master of public administration from the University of Georgia and studied at the London School of Economics. She has worked as a community organizer on reproductive rights and criminal justice reform and in local government on cost-of-living issues.",
+  "website": "https://www.caitlynforgeorgia.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All covering mental, dental and vision care, and restoring Affordable Care Act subsidies.", "source": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/"},
+   {"topic": "Wages", "point": "Raise the federal minimum wage to at least $15 an hour.", "source": "https://www.redandblack.com/uganews/uga-alumna-caitlyn-gegen-enters-georgia-s-9th-congressional-district-race/article_ecb604a5-c42a-45cd-b03c-d6601220657d.html"},
+   {"topic": "Taxes", "point": "Increase taxes on billionaires.", "source": "https://www.redandblack.com/uganews/uga-alumna-caitlyn-gegen-enters-georgia-s-9th-congressional-district-race/article_ecb604a5-c42a-45cd-b03c-d6601220657d.html"},
+   {"topic": "Competition", "point": "Break up corporate monopolies to lower prices for consumers and help small businesses.", "source": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/"},
+   {"topic": "Immigration", "point": "Supports abolishing ICE and ending mass deportations.", "source": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/"},
+   {"topic": "Reproductive rights", "point": "Wants to reverse the Dobbs decision and opposes Georgia's six-week abortion ban.", "source": "https://www.jejunemagazine.com/home/caitlyn-gegen-georgias-9th-congressional-district"},
+   {"topic": "Guns", "point": "Supports universal background checks and mandatory safety training for gun owners.", "source": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/"},
+   {"topic": "Higher education", "point": "Supports free tuition at public colleges and universities.", "source": "https://www.jejunemagazine.com/home/caitlyn-gegen-georgias-9th-congressional-district"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Supports raising the minimum wage and stronger antitrust enforcement to break up monopolies.", "source": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All including mental, dental and vision coverage.", "source": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/"},
+   "liberty": {"score": 40, "evidence": "Abortion: lists protecting reproductive rights as a focus (individual choice); guns: backs universal background checks and mandatory training (community rules).", "source": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/"},
+   "security": null,
+   "immigration": {"score": 5, "evidence": "Supports abolishing ICE and ending mass deportations.", "source": "https://nowgeorgia.com/gegen-pitches-progressive-platform-systemic-change-in-9th-district-race/"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "General statement: calls for investing in clean energy projects across Georgia.", "source": "https://www.redandblack.com/uganews/uga-alumna-caitlyn-gegen-enters-georgia-s-9th-congressional-district-race/article_ecb604a5-c42a-45cd-b03c-d6601220657d.html"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Supports free tuition at public colleges and universities.", "source": "https://www.jejunemagazine.com/home/caitlyn-gegen-georgias-9th-congressional-district"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her campaign site still showed no issue pages; positions come from Now Georgia, Red & Black and a Jejune Magazine profile quoting her, while the Main Street News questionnaire and AccessWDUN preview were blocked. No statements were found on policing, foreign policy, tech or religion in public life."
+ },
+ {
+  "id": "HI-1/adriel-lam",
+  "name": "Adriel Lam",
+  "party": "Republican",
+  "current_role": "Retired U.S. Army officer",
+  "bio": "Adriel Lam is the Republican nominee for Hawaii's 1st Congressional District. He is a fourth-generation Kaneohe resident who served nearly 24 years in the U.S. Army. He ran for the U.S. Senate in 2024.",
+  "website": "https://lam4aloha.com/",
+  "social": {
+   "x": "https://x.com/lam4aloha",
+   "instagram": "https://www.instagram.com/lam4aloha",
+   "facebook": "https://www.facebook.com/lam4aloha"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "End federal taxes on tips, overtime pay and Social Security benefits.", "source": "https://lam4aloha.com/"},
+   {"topic": "Shipping", "point": "Reform the Jones Act to lower shipping costs for Hawaii.", "source": "https://lam4aloha.com/"},
+   {"topic": "Women's sports", "point": "Protect women's sports through policies on athlete eligibility.", "source": "https://lam4aloha.com/"},
+   {"topic": "Foreign policy", "point": "Take a hard line on Iran and emphasize Hawaii's strategic Pacific role.", "source": "https://lam4aloha.com/"},
+   {"topic": "Guns", "point": "Favors firearms and self-defense education over new gun restrictions.", "source": "https://www.civilbeat.org/2024/08/candidate-qa-u-s-senate-adriel-lam/"},
+   {"topic": "Safety net", "point": "Says safety net programs should serve emergencies and be returned toward individual management.", "source": "https://www.civilbeat.org/2024/08/candidate-qa-u-s-senate-adriel-lam/"},
+   {"topic": "Military land", "point": "Seek fair compensation for Hawaii's military training lands through infrastructure and housing help.", "source": "https://www.civilbeat.org/2024/08/candidate-qa-u-s-senate-adriel-lam/"},
+   {"topic": "Border", "point": "Lists a secure border among his campaign goals.", "source": "https://lam4aloha.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Supports eliminating taxes on tips, overtime and Social Security, reforming the Jones Act and a business-friendly climate.", "source": "https://lam4aloha.com/"},
+   "welfare": {"score": 20, "evidence": "In a 2024 Q&A said safety nets are for emergencies, not routine needs, and should be returned to individuals to manage.", "source": "https://www.civilbeat.org/2024/08/candidate-qa-u-s-senate-adriel-lam/"},
+   "liberty": {"score": 45, "evidence": "Guns: opposes new carry restrictions (individual choice); LGBTQ: supports eligibility limits to protect women's sports (community norms).", "source": "https://www.civilbeat.org/2024/08/candidate-qa-u-s-senate-adriel-lam/"},
+   "security": null,
+   "immigration": {"score": 65, "evidence": "General statement: lists a secure border among his goals without specific policies.", "source": "https://lam4aloha.com/"},
+   "foreign": {"score": 70, "evidence": "Calls for a forceful approach to Iran and backs maintaining US partnerships in the Asia-Pacific.", "source": "https://lam4aloha.com/"},
+   "energy": {"score": 35, "evidence": "In a 2024 Q&A opposed what he called politically driven climate research, favoring monitoring and hard-science investment.", "source": "https://www.civilbeat.org/2024/08/candidate-qa-u-s-senate-adriel-lam/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://i0.wp.com/lam4aloha.com/wp-content/uploads/2024/02/lam-e1776074029360.png",
+  "notes": "Welfare, energy and gun views come from his 2024 Senate-race Civil Beat Q&A; no 2026 Civil Beat Q&A from him was found. No statements were found on policing, tech, education or religion in public life."
+ },
+ {
+  "id": "HI-2/jill-tokuda",
+  "name": "Jill Tokuda",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for HI-2",
+  "bio": "Jill Tokuda has represented Hawaii's 2nd congressional district in the U.S. House since 2023 and serves on the Armed Services and Agriculture committees. She previously served in the Hawaii State Senate from 2006 to 2018. She grew up in Kaneohe on Oahu and studied international relations at George Washington University.",
+  "website": "https://tokudaforhawaii.com",
+  "social": {
+   "x": "https://x.com/RepJillTokuda",
+   "instagram": "https://www.instagram.com/repjilltokuda",
+   "facebook": "https://www.facebook.com/RepJillTokuda",
+   "youtube": "https://www.youtube.com/channel/UCBXwZrEZWQiSXebInVuYuvw"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Opposes the Trump tariffs and backs expanded Child Tax Credit and Earned Income Tax Credit.", "source": "https://www.tokudaforhawaii.com/issues/"},
+   {"topic": "Healthcare", "point": "Backed the Medicare for All Act of 2023 and wants wider access to mental health services.", "source": "https://www.tokudaforhawaii.com/issues/"},
+   {"topic": "Climate", "point": "Supports aggressive climate action and expanding solar, wind and hydropower in Hawaii.", "source": "https://www.tokudaforhawaii.com/issues/"},
+   {"topic": "Housing", "point": "Co-led the Stop Wall Street Landlords Act to curb investor purchases of homes.", "source": "https://www.tokudaforhawaii.com/issues/"},
+   {"topic": "Gun safety", "point": "Supports banning assault weapons and high-capacity magazines, universal background checks and red flag laws.", "source": "https://www.tokudaforhawaii.com/issues/"},
+   {"topic": "Agriculture", "point": "Introduced the Grow Your Own Food Act to boost local food production and food security in Hawaii.", "source": "https://en.wikipedia.org/wiki/Jill_Tokuda"},
+   {"topic": "Military oversight", "point": "Presses the military on the Red Hill fuel facility cleanup and use of the Pohakuloa Training Area.", "source": "https://tokuda.house.gov/"},
+   {"topic": "Rural health", "point": "Co-chairs the Bipartisan Rural Health Caucus.", "source": "https://tokuda.house.gov/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Voted against the 2025 reconciliation bill, citing tax breaks for the wealthy, and opposes the Trump tariffs while backing worker organizing.", "source": "https://tokuda.house.gov/media/press-releases/rep-tokuda-votes-against-republicans-big-ugly-bill"},
+   "welfare": {"score": 90, "evidence": "Campaign site says she backed the Medicare for All Act of 2023 and supports expanded child tax credits and childcare aid.", "source": "https://www.tokudaforhawaii.com/issues/"},
+   "liberty": {"score": 45, "evidence": "Abortion: cosponsored the Women's Health Protection Act (individual choice); guns: backs federal bans on assault weapons and high-capacity magazines (community rules).", "source": "https://www.tokudaforhawaii.com/issues/"},
+   "security": {"score": 45, "evidence": "In April 2024 voted for the Section 702 reauthorization (H.R. 7888) and also for the failed Biggs amendment requiring warrants for searches of Americans' data.", "source": "https://clerk.house.gov/Votes/2024114"},
+   "immigration": {"score": 25, "evidence": "Voted against final passage of the Laken Riley Act (S. 5) requiring detention of certain migrants in January 2025.", "source": "https://clerk.house.gov/Votes/202523"},
+   "foreign": {"score": 35, "evidence": "Voted in 2023 for H.Con.Res. 21 directing withdrawal of U.S. troops from Syria.", "source": "https://en.wikipedia.org/wiki/Jill_Tokuda"},
+   "energy": {"score": 85, "evidence": "Campaign site calls for aggressive climate action and expanding renewable energy in Hawaii.", "source": "https://www.tokudaforhawaii.com/issues/"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Supports universal free public education, early childhood education and community college.", "source": "https://www.tokudaforhawaii.com/issues/"},
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://www.tokudaforhawaii.com/wp-content/uploads/jill-tokuda-hero.png",
+  "notes": "Added scores from the campaign issues page, a House press release and House Clerk roll calls (Laken Riley Act; H.R. 7888 and its Biggs warrant amendment). No clear statements were found on AI or tech regulation or on religion in public life."
+ },
+ {
+  "id": "HI-2/brenton-awa",
+  "name": "Brenton Awa",
+  "party": "Republican",
+  "current_role": "Hawaii State Senator and Senate Minority Leader",
+  "bio": "Brenton Awa has represented District 23 in the Hawaii State Senate since 2022 and became Senate Minority Leader in 2024. Before office he was a KITV television news anchor and later a substitute teacher. He was born in Kaaawa and raised in Kahaluu on Oahu.",
+  "website": "https://www.votebrentonawa.com",
+  "social": {
+   "x": "https://x.com/brentonawa",
+   "instagram": "https://www.instagram.com/brentonawa",
+   "facebook": "https://www.facebook.com/brentonawa",
+   "tiktok": "https://www.tiktok.com/@brentonawa",
+   "youtube": "https://www.youtube.com/user/awabrenton"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Restrict corporate buying of single-family homes and give local owner-occupants a priority window to buy.", "source": "https://www.votebrentonawa.com/"},
+   {"topic": "Federal land", "point": "Open federally controlled land in Hawaii for workforce housing.", "source": "https://www.votebrentonawa.com/"},
+   {"topic": "Homeownership", "point": "Offer down payment assistance to first-time buyers and adjust the tax code to cut costs for owner-occupants.", "source": "https://www.votebrentonawa.com/"},
+   {"topic": "Hawaiian Home Lands", "point": "Lower blood quantum requirements for Hawaiian Homes programs.", "source": "https://www.votebrentonawa.com/"},
+   {"topic": "Land ownership", "point": "Restrict land purchases by non-citizens to ease the housing crisis.", "source": "https://en.wikipedia.org/wiki/Brenton_Awa"},
+   {"topic": "Health care", "point": "Expand federally funded community health centers and require providers to post prices in advance.", "source": "https://www.votebrentonawa.com/issues"},
+   {"topic": "Family costs", "point": "Raise child tax credits, widen federal childcare aid eligibility and cut the federal gas tax.", "source": "https://www.votebrentonawa.com/issues"},
+   {"topic": "Public safety", "point": "Deploy National Guard units to high-crime areas when local police request it, based on crime data.", "source": "https://www.votebrentonawa.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Proposes limits on investor home purchases and price-posting mandates for providers, alongside gas tax cuts and tax changes favoring owner-occupants.", "source": "https://www.votebrentonawa.com/issues"},
+   "welfare": {"score": 60, "evidence": "Wants more federally funded community health centers, larger child tax credits and wider federal childcare aid eligibility.", "source": "https://www.votebrentonawa.com/issues"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Proposes deploying National Guard units to high-crime areas at local law enforcement request.", "source": "https://www.votebrentonawa.com/issues"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 45, "evidence": "General statement: supports clean energy but says the transition must not outpace affordability and reliability.", "source": "https://www.votebrentonawa.com/issues"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Introduced 2026 Senate resolution SR 148 urging the governor to opt Hawaii into the federal Education Freedom Tax Credit scholarship program.", "source": "https://civilbeat.digitaldemocracy.org/legislators/brenton-awa-187579"},
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Senator Awa Visits Marine Corps Base Hawaii (8) (cropped).jpg",
+   "license": "Public domain",
+   "author": "Sgt. Julian Elliott-Drouin, U.S. Marine Corps"
+  },
+  "campaign_photo": "https://static.wixstatic.com/media/f27991_2e83689b337342598df6b9a57939cb39~mv2.png",
+  "notes": "Searched the campaign issues page, Civil Beat and Digital Democracy; his state Senate votes on abortion and gun bills could not be verified from a primary source (the legislature site and LegiScan blocked access). No statements were found on immigration, foreign policy, tech or religion in public life."
+ },
+ {
+  "id": "IA-2/lindsay-james",
+  "name": "Lindsay James",
+  "party": "Democratic",
+  "current_role": "Iowa State Representative, 71st District",
+  "bio": "Lindsay James has represented Dubuque in the Iowa House of Representatives since 2019 and was elected House Minority Whip in 2022; she won the June 2026 Democratic primary for Iowa's open 2nd District. She is a Presbyterian minister with a Master of Divinity from Fuller Theological Seminary who has worked as a pastor and college chaplain and teaches as an adjunct professor at the University of Dubuque.",
+  "website": "https://www.lindsayforiowa.com/",
+  "social": {
+   "x": "https://x.com/lindsay4iowa",
+   "instagram": "https://www.instagram.com/lindsay4iowa",
+   "facebook": "https://www.facebook.com/lindsayjamesIA"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Aims to lower everyday costs such as utilities, food and rent for working Iowans.", "source": "https://lindsayforiowa.com/issues"},
+   {"topic": "Health care", "point": "Supports lowering the Medicare eligibility age to 55 and raising Medicare and Medicaid reimbursement rates.", "source": "https://www.thegazette.com/news/elections/meet-the-democrats-running-for-iowa-s-2nd-congressional-district-seat/article_3e61f743-41a3-4034-a8f0-4eb8003be5f8.html"},
+   {"topic": "Education", "point": "Opposes private school vouchers and supports well-funded public schools.", "source": "https://lindsayforiowa.com/issues"},
+   {"topic": "Technology", "point": "Wants to limit social media and AI risks to children and restore parental control from tech companies.", "source": "https://lindsayforiowa.com/issues"},
+   {"topic": "Immigration", "point": "Supports comprehensive reform pairing stronger border security with a pathway to citizenship, and reforming ICE.", "source": "https://cbs2iowa.com/news/beyond-the-podium/beyond-the-podium-2nd-congressional-district-candidate-lindsay-james"},
+   {"topic": "Wages and trade", "point": "Supports raising the federal minimum wage and opposes the Trump tariffs.", "source": "https://www.thegazette.com/news/elections/meet-the-democrats-running-for-iowa-s-2nd-congressional-district-seat/article_3e61f743-41a3-4034-a8f0-4eb8003be5f8.html"},
+   {"topic": "Government reform", "point": "Wants to reduce the influence of money and corporations in politics and supports roughly 12-year term limits.", "source": "https://cbs2iowa.com/news/beyond-the-podium/beyond-the-podium-2nd-congressional-district-candidate-lindsay-james"},
+   {"topic": "Agriculture", "point": "Supports farmers and calls for timely passage of a farm bill.", "source": "https://lindsayforiowa.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports a higher federal minimum wage, opposes the Trump tariffs and passed state protections for mobile home residents against steep rent hikes.", "source": "https://www.thegazette.com/news/elections/meet-the-democrats-running-for-iowa-s-2nd-congressional-district-seat/article_3e61f743-41a3-4034-a8f0-4eb8003be5f8.html"},
+   "welfare": {"score": 75, "evidence": "Supports lowering the Medicare eligibility age to 55, larger dependent-care tax credits and reversing Medicaid cuts.", "source": "https://www.iowapublicradio.org/political-news/2026-05-21/candidates-running-iowa-2nd-congressional-district-primary"},
+   "liberty": {"score": 35, "evidence": "Abortion: says the decision belongs to women, families and doctors (individual choice); guns: calls for gun safety reform (community rules).", "source": "https://www.thegazette.com/news/elections/meet-the-democrats-running-for-iowa-s-2nd-congressional-district-seat/article_3e61f743-41a3-4034-a8f0-4eb8003be5f8.html"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Supports a pathway to citizenship and reforming how ICE operates, paired with stronger border security.", "source": "https://cbs2iowa.com/news/beyond-the-podium/beyond-the-podium-2nd-congressional-district-candidate-lindsay-james"},
+   "foreign": {"score": 35, "evidence": "Criticized spending billions on the Iran conflict without a war plan and called for bringing those resources home.", "source": "https://cbs2iowa.com/news/beyond-the-podium/beyond-the-podium-2nd-congressional-district-candidate-lindsay-james"},
+   "energy": null,
+   "tech": {"score": 80, "evidence": "'Kids Over Clicks' plank seeks limits on social media and AI harms to children.", "source": "https://lindsayforiowa.com/issues"},
+   "education": {"score": 85, "evidence": "Opposes private school vouchers and supports robust public school funding.", "source": "https://lindsayforiowa.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Added positions from The Gazette, Iowa Public Radio and a CBS2 interview; Iowa Capital Dispatch debate coverage was blocked. No clear statements were found on policing powers, energy policy or religion in public life, and a reported renewable-energy stance could not be confirmed from an accessible source."
+ },
+ {
+  "id": "IA-4/dave-dawson",
+  "name": "Dave Dawson",
+  "party": "Democratic",
+  "current_role": "Prosecutor and former Iowa state representative",
+  "bio": "Dave Dawson is the Democratic nominee for Iowa's 4th District and represented the 14th District in the Iowa House from 2013 to 2017. He has practiced law for 27 years, including about 19 as a Woodbury County prosecutor handling child abuse cases, and is a longtime AFSCME member. He grew up in Washta in northwest Iowa and holds degrees from Iowa State University and UCLA School of Law.",
+  "website": "https://davedawsonforiowa.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/davedawsonforiowa",
+   "instagram": "https://www.instagram.com/dawsonforiowa/"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare drug negotiation, insulin caps, protecting the ACA and Medicaid, and a public option.", "source": "https://davedawsonforiowa.com/issues"},
+   {"topic": "Wages", "point": "Backs a higher federal minimum wage, the PRO Act and an expanded Child Tax Credit.", "source": "https://davedawsonforiowa.com/issues"},
+   {"topic": "Rural communities", "point": "Calls for broadband expansion, a farm bill and antitrust action against agricultural consolidation.", "source": "https://davedawsonforiowa.com/issues"},
+   {"topic": "Social Security", "point": "Opposes cuts or privatization and supports lifting the payroll tax cap on high earners.", "source": "https://davedawsonforiowa.com/issues"},
+   {"topic": "Ethics", "point": "Proposes banning congressional stock trading, term limits and a Supreme Court ethics code.", "source": "https://davedawsonforiowa.com/issues"},
+   {"topic": "Voting rights", "point": "Supports restoring the Voting Rights Act and a constitutional amendment to overturn Citizens United.", "source": "https://davedawsonforiowa.com/issues"},
+   {"topic": "Veterans", "point": "Fully fund the VA, expand local mental health and suicide prevention services, and strengthen the GI Bill.", "source": "https://davedawsonforiowa.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Supports a higher minimum wage, the PRO Act, closing corporate tax loopholes and antitrust enforcement.", "source": "https://davedawsonforiowa.com/issues"},
+   "welfare": {"score": 70, "evidence": "Backs a public option, expanded Child Tax Credit and childcare investment, and protecting the ACA and Medicaid.", "source": "https://davedawsonforiowa.com/issues"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched the campaign home, issues and about pages, Iowa Public Radio forum coverage, Spencer Daily Reporter, KTIV, Iowa Starting Line and Wikipedia; none gave his views on immigration, foreign policy, energy, tech, education or religion. His 2013-2017 Iowa House votes could not be reviewed from an accessible source."
+ },
+ {
+  "id": "ID-2/elinor-gilbreath",
+  "name": "Elinor Gilbreath",
+  "party": "Democratic",
+  "current_role": "Lawyer and mediator",
+  "bio": "Elinor \"Ellie\" Gilbreath is the Democratic nominee for Idaho's 2nd congressional district, challenging longtime Rep. Mike Simpson. A Ketchum resident who moved to Idaho in 2003, she is a lawyer and conflict-resolution mediator with a law degree from Georgetown and a psychology degree from UCLA. She describes herself as a political centrist.",
+  "website": "https://ellieforidaho.com",
+  "social": {
+   "instagram": "https://www.instagram.com/ellieforidaho/",
+   "facebook": "https://www.facebook.com/profile.php?id=61583905597891"
+  },
+  "platform": [
+   {"topic": "Public lands", "point": "Keep public lands public and oppose selling or transferring federal land to the state.", "source": "https://www.kmvt.com/2026/09/16/idaho-district-2-congressional-candidates-say-theyre-worried-about-high-cost-living/"},
+   {"topic": "Health care", "point": "Restore recent Medicaid cuts and increase federal funding for rural hospitals.", "source": "https://www.kmvt.com/2026/09/16/idaho-district-2-congressional-candidates-say-theyre-worried-about-high-cost-living/"},
+   {"topic": "Immigration", "point": "Pairs secure borders with expanding H-2A work visas to year-round industries such as dairy.", "source": "https://www.kmvt.com/2026/09/16/idaho-district-2-congressional-candidates-say-theyre-worried-about-high-cost-living/"},
+   {"topic": "Data centers", "point": "Wants transparency, public involvement and local control over data center development.", "source": "https://www.kmvt.com/2026/09/16/idaho-district-2-congressional-candidates-say-theyre-worried-about-high-cost-living/"},
+   {"topic": "Education", "point": "Seeks parity for trade schools as part of supporting rural Idaho.", "source": "https://www.kmvt.com/2026/09/16/idaho-district-2-congressional-candidates-say-theyre-worried-about-high-cost-living/"},
+   {"topic": "Water", "point": "Protect Idaho's water rights and manage water carefully amid drought.", "source": "https://www.eastidahonews.com/2026/05/idaho-is-not-for-sale-why-democrat-ellie-gilbreath-thinks-its-time-for-change-in-the-states-2nd-congressional-district/"},
+   {"topic": "Housing and prices", "point": "Stop Wall Street firms from buying Idaho homes and fight price gouging on food and essentials.", "source": "https://ellieforidaho.com/"},
+   {"topic": "Ethics", "point": "Ban dark money and end stock trading by members of Congress and their immediate families.", "source": "https://ellieforidaho.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Largely general statements: fight price gouging, stop Wall Street home buying and push for tax fairness for working families.", "source": "https://ellieforidaho.com/"},
+   "welfare": {"score": 65, "evidence": "Wants to restore Medicaid cuts from the 2025 reconciliation law and expand federal funding for rural hospitals.", "source": "https://www.kmvt.com/2026/09/16/idaho-district-2-congressional-candidates-say-theyre-worried-about-high-cost-living/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 40, "evidence": "Supports secure borders together with expanding H-2A agricultural work visas to year-round industries.", "source": "https://www.kmvt.com/2026/09/16/idaho-district-2-congressional-candidates-say-theyre-worried-about-high-cost-living/"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 60, "evidence": "General statement: calls for transparency, public input and local control over data center development.", "source": "https://www.kmvt.com/2026/09/16/idaho-district-2-congressional-candidates-say-theyre-worried-about-high-cost-living/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her campaign site blocks automated access, so points attributed to it were read through BallotReady's quotations of the site; the rest come from KMVT and East Idaho News interviews. No statements were found on abortion, guns, policing, foreign policy, climate or school choice, and her energy plank ('responsible energy development') was too general to score."
+ }
+]

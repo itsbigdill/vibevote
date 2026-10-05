@@ -1,0 +1,424 @@
+[
+ {
+  "id": "PA-10/janelle-stelson",
+  "name": "Janelle Stelson",
+  "party": "Democratic",
+  "current_role": "Former television news anchor",
+  "bio": "Janelle Stelson spent more than 30 years in Pennsylvania television news, including 26 years as an anchor at WGAL-TV in Lancaster, before leaving journalism in 2023. Born in Fairbanks, Alaska, and raised in Seattle, she was the Democratic nominee for PA-10 in 2024 and lost narrowly to Scott Perry.",
+  "website": "https://janellestelson.com",
+  "social": {
+   "x": "https://x.com/janellestelson",
+   "instagram": "https://www.instagram.com/janellestelson",
+   "facebook": "https://www.facebook.com/janellestelson"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Cut taxes for the middle class rather than billionaires and oppose tariffs that raise prices for families and small businesses.", "source": "https://janellestelson.com/priorities/"},
+   {"topic": "Government reform", "point": "Ban stock trading by members of Congress, impose a lifetime lobbying ban on ex-members, and self-impose a 12-year term limit.", "source": "https://janellestelson.com/priorities/"},
+   {"topic": "Health care", "point": "Let the government negotiate drug prices, ban surprise billing and remove medical debt from credit reports.", "source": "https://janellestelson.com/priorities/"},
+   {"topic": "Housing", "point": "Stop Wall Street firms from buying homes, reduce construction red tape and reward towns that build more housing.", "source": "https://janellestelson.com/priorities/"},
+   {"topic": "Immigration", "point": "Pair stronger technology-based border security and deportation of violent offenders with independent reviews of every killing involving ICE agents.", "source": "https://janellestelson.com/priorities/"},
+   {"topic": "Abortion", "point": "Restore Roe v. Wade protections in federal law, protect IVF access and oppose a nationwide abortion ban.", "source": "https://janellestelson.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Backs middle-class tax breaks instead of cuts for billionaires, a higher minimum wage and the CHIPS and Science Act, while pledging to cut wasteful spending.", "source": "https://janellestelson.com/priorities/"},
+   "welfare": {"score": 65, "evidence": "Supports Medicare drug price negotiation, protecting Social Security benefits, expanded paid leave and action on childcare costs.", "source": "https://janellestelson.com/priorities/"},
+   "liberty": {"score": 20, "evidence": "On abortion, supports restoring Roe protections and IVF access and opposes a national ban.", "source": "https://janellestelson.com/priorities/"},
+   "security": {"score": 35, "evidence": "Calls for independent investigations of killings involving ICE agents and for federal agents to wear uniforms and badges rather than masks.", "source": "https://janellestelson.com/priorities/"},
+   "immigration": {"score": 55, "evidence": "Supports stronger border security, deporting violent undocumented immigrants and no taxpayer benefits for them, alongside ICE accountability.", "source": "https://janellestelson.com/priorities/"},
+   "foreign": {"score": 35, "evidence": "Opposes the 2026 Iran war, saying resources should go to the middle class at home.", "source": "https://en.wikipedia.org/wiki/Janelle_Stelson"},
+   "energy": null,
+   "tech": {"score": 60, "evidence": "Backs right-to-repair for farm equipment, opposes subsidies for data center developers and wants communities to approve such projects.", "source": "https://janellestelson.com/priorities/"},
+   "education": {"score": 80, "evidence": "Supports quality public schools and higher teacher pay.", "source": "https://janellestelson.com/priorities/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Tech score newly added from her right-to-repair and data center positions. The Commons photo (File:Janelle Stelson 08-29-2026.jpg) was not used because its CC BY-SA licence rests on permission relayed by direct message rather than the photographer's own upload."
+ },
+ {
+  "id": "PA-11/lloyd-smucker",
+  "name": "Lloyd Smucker",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-11",
+  "bio": "Lloyd Smucker has represented Pennsylvania in the U.S. House since 2017 (PA-16 until 2019, then PA-11) and serves on the Ways and Means and Budget committees. A Lancaster County native, he ran a family commercial construction company for 25 years and served in the Pennsylvania State Senate from 2009 to 2016.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepSmucker",
+   "facebook": "https://www.facebook.com/RepSmucker"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Keep taxes low to promote growth, working on tax and trade policy from the Ways and Means Committee.", "source": "https://smucker.house.gov/issues"},
+   {"topic": "Budget", "point": "Fix the federal budget process as a senior member of the House Budget Committee.", "source": "https://smucker.house.gov/issues"},
+   {"topic": "Immigration", "point": "Secure the southern border and reform the immigration system.", "source": "https://smucker.house.gov/issues"},
+   {"topic": "Agriculture", "point": "Support the farm economy of Lancaster and York counties.", "source": "https://smucker.house.gov/issues"},
+   {"topic": "Energy", "point": "Support American energy production.", "source": "https://smucker.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes income tax increases and favors lower taxes and reduced federal spending.", "source": "https://en.wikipedia.org/wiki/Lloyd_Smucker"},
+   "welfare": {"score": 15, "evidence": "Supported repealing the Affordable Care Act and backed the American Health Care Act.", "source": "https://en.wikipedia.org/wiki/Lloyd_Smucker"},
+   "liberty": {"score": 85, "evidence": "Opposes abortion, voted against the Respect for Marriage Act, and twice voted against expanded gun background checks.", "source": "https://en.wikipedia.org/wiki/Lloyd_Smucker"},
+   "security": null,
+   "immigration": {"score": 55, "evidence": "Wants unlawful immigrants to return home before seeking citizenship but voted for the Farm Workforce Modernization Act in 2021.", "source": "https://en.wikipedia.org/wiki/Lloyd_Smucker"},
+   "foreign": {"score": 75, "evidence": "Pro-Israel, backed the Soleimani strike and supported the 2026 Iran war decision.", "source": "https://en.wikipedia.org/wiki/Lloyd_Smucker"},
+   "energy": {"score": 10, "evidence": "Opposes federal regulation of greenhouse gas emissions.", "source": "https://en.wikipedia.org/wiki/Lloyd_Smucker"},
+   "tech": {"score": 20, "evidence": "Opposes net neutrality regulations.", "source": "https://en.wikipedia.org/wiki/Lloyd_Smucker"},
+   "education": {"score": 25, "evidence": "Opposes federal education standards in favor of state control and received an F rating from the NEA.", "source": "https://en.wikipedia.org/wiki/Lloyd_Smucker"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not confirmed."
+ },
+ {
+  "id": "PA-11/nancy-mannion",
+  "name": "Nancy Mannion",
+  "party": "Democratic",
+  "current_role": "Registered nurse and healthcare executive",
+  "bio": "Nancy Mannion is a former emergency nurse and international healthcare leader with more than 40 years of experience in patient care and healthcare administration. She is based in the Lancaster area and is running for Congress in PA-11.",
+  "website": "https://www.nancymannion.com",
+  "social": {
+   "instagram": "https://www.instagram.com/nancymannionpa",
+   "facebook": "https://www.facebook.com/nancymannionpa"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Pursue affordable health care for all, lower prescription costs and coverage for every child.", "source": "https://www.nancymannion.com/Priorities/"},
+   {"topic": "Affordability", "point": "Raise the federal minimum wage, expand child tax credits, build affordable housing and end broad Trump tariffs.", "source": "https://www.nancymannion.com/Priorities/"},
+   {"topic": "Taxes and budget", "point": "Roll back the 2025 corporate tax cuts, close loopholes and increase IRS funding to address the deficit.", "source": "https://www.nancymannion.com/Priorities/"},
+   {"topic": "Education", "point": "Provide free school meals, pay teachers more instead of funding vouchers, and strengthen gun laws for school safety.", "source": "https://www.nancymannion.com/Priorities/"},
+   {"topic": "Immigration", "point": "Create citizenship pathways for Dreamers and asylum seekers, expand work visas and focus ICE on serious criminals.", "source": "https://www.nancymannion.com/Priorities/"},
+   {"topic": "Voting rights", "point": "Support early and mail-in voting, inclusive voter ID rules and campaign finance transparency.", "source": "https://www.nancymannion.com/Priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Wants to reverse the 2025 corporate tax cuts, raise the federal minimum wage and boost IRS funding.", "source": "https://www.nancymannion.com/Priorities/"},
+   "welfare": {"score": 80, "evidence": "Supports affordable health care for all, coverage for all children, universal free school meals and expanded ACA subsidies.", "source": "https://www.nancymannion.com/Priorities/"},
+   "liberty": {"score": 20, "evidence": "Says reproductive decisions belong to patients and providers (abortion) and backs stronger gun laws.", "source": "https://www.nancymannion.com/Priorities/"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Backs pathways to citizenship for Dreamers and asylum seekers, more worker visas and treating violations as civil matters.", "source": "https://www.nancymannion.com/Priorities/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 85, "evidence": "Favors better-paid public school teachers over voucher programs and free meals for all students.", "source": "https://www.nancymannion.com/Priorities/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.nancymannion.com/img/Nancy-Mannion-Main.png",
+  "notes": ""
+ },
+ {
+  "id": "PA-12/summer-lee",
+  "name": "Summer Lee",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for PA-12",
+  "bio": "Summer Lee has represented Pennsylvania's 12th district in the U.S. House since 2023 and serves on the Education and Workforce Committee. Born in North Braddock, she is a Penn State and Howard University law graduate who served in the Pennsylvania House of Representatives from 2019 to 2022.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepSummerLee",
+   "instagram": "https://www.instagram.com/repsummerlee",
+   "facebook": "https://www.facebook.com/RepSummerLee",
+   "youtube": "https://www.youtube.com/channel/UCqQJ44qlkVxWV5N12YeacyA"
+  },
+  "platform": [
+   {"topic": "Money in politics", "point": "Support a constitutional amendment to overturn Citizens United.", "source": "https://www.monvalleyindependent.com/2026/09/02/summer-lee-james-hayes-set-for-rematch-in-pa-s-12th-congressional-district/"},
+   {"topic": "Environment", "point": "Advance environmental justice, including clean air and water for affected communities.", "source": "https://summerlee.house.gov/issues"},
+   {"topic": "Workers", "point": "Strengthen workers' rights and corporate accountability.", "source": "https://summerlee.house.gov/issues"},
+   {"topic": "Health care", "point": "Expand health access and equity, including reproductive health and rights.", "source": "https://summerlee.house.gov/issues"},
+   {"topic": "Housing", "point": "Increase the supply of affordable housing.", "source": "https://summerlee.house.gov/issues"},
+   {"topic": "Oversight", "point": "Act as a congressional check on presidential power, including on ICE enforcement.", "source": "https://www.monvalleyindependent.com/2026/09/02/summer-lee-james-hayes-set-for-rematch-in-pa-s-12th-congressional-district/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Prioritizes workers' rights and corporate accountability and voted against the Fiscal Responsibility Act of 2023.", "source": "https://en.wikipedia.org/wiki/Summer_Lee"},
+   "welfare": null,
+   "liberty": {"score": 10, "evidence": "Supports abortion rights, including preserving mifepristone approval, and calls for stricter gun regulation.", "source": "https://en.wikipedia.org/wiki/Summer_Lee"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Supports abolishing ICE and demanded accountability after an asylum seeker died in ICE custody.", "source": "https://en.wikipedia.org/wiki/Summer_Lee"},
+   "foreign": {"score": 15, "evidence": "Voted against pro-Israel resolutions and military aid packages for Israel and called for a ceasefire.", "source": "https://en.wikipedia.org/wiki/Summer_Lee"},
+   "energy": {"score": 85, "evidence": "Lists environmental justice and climate among her core issue areas.", "source": "https://summerlee.house.gov/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score added from her official environmental justice issue area; detailed climate votes were not reviewed. Campaign website not confirmed."
+ },
+ {
+  "id": "PA-12/james-hayes",
+  "name": "James Hayes",
+  "party": "Republican",
+  "current_role": "Business executive",
+  "bio": "James Hayes is a corporate strategy and acquisitions professional who has held roles at Wabtec, the Federal Reserve Bank of Richmond, Bankers Trust, Eaton, Tyco and Motorola. Born in Lancaster, he holds degrees from Georgetown, Princeton, the University of Chicago and Case Western Reserve, and was the 2024 Republican nominee for PA-12.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Energy", "point": "Develop Pennsylvania's natural gas so the state becomes a national energy center.", "source": "https://www.monvalleyindependent.com/2026/09/02/summer-lee-james-hayes-set-for-rematch-in-pa-s-12th-congressional-district/"},
+   {"topic": "Economy", "point": "Cut bureaucratic red tape and speed up permitting to help businesses grow.", "source": "https://www.monvalleyindependent.com/2026/09/02/summer-lee-james-hayes-set-for-rematch-in-pa-s-12th-congressional-district/"},
+   {"topic": "Public safety", "point": "Take a tougher approach to violent crime and reopen the Shuman Juvenile Detention Center.", "source": "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/"},
+   {"topic": "Education", "point": "Expand school choice so funding follows the student.", "source": "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/"},
+   {"topic": "Israel", "point": "Support Israel as a key ally and oppose the BDS movement.", "source": "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Favors cutting regulation and speeding permits, generally supports free trade but backs tariffs on China.", "source": "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/"},
+   "welfare": null,
+   "liberty": {"score": 45, "evidence": "Describes himself as pro-life on abortion but pledges to vote against any national abortion ban.", "source": "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/"},
+   "security": {"score": 70, "evidence": "Wants tougher crime policy, reopening a juvenile detention center and federal support for police.", "source": "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/"},
+   "immigration": null,
+   "foreign": {"score": 70, "evidence": "Calls Israel one of America's strongest allies and says he fully supports it.", "source": "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/"},
+   "energy": {"score": 15, "evidence": "Criticizes executive orders restricting the energy industry and wants to expand natural gas development.", "source": "https://www.monvalleyindependent.com/2026/09/02/summer-lee-james-hayes-set-for-rematch-in-pa-s-12th-congressional-district/"},
+   "tech": null,
+   "education": {"score": 10, "evidence": "Strongly supports school choice with money following the child.", "source": "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or social accounts were found; some positions come from 2024 coverage."
+ },
+ {
+  "id": "PA-13/john-joyce",
+  "name": "John Joyce",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-13",
+  "bio": "John Joyce, a dermatologist trained at Johns Hopkins, has represented Pennsylvania's 13th district in the U.S. House since 2019 and serves on the Energy and Commerce Committee. He was born in Altoona and studied at Penn State and Temple University School of Medicine.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepJohnJoyce"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Pursue pro-growth policies for families, workers and small businesses and counter Chinese Communist Party threats.", "source": "https://johnjoyce.house.gov/issues"},
+   {"topic": "Energy", "point": "Support Pennsylvania's energy industry through deregulation and lower energy costs.", "source": "https://johnjoyce.house.gov/issues"},
+   {"topic": "Health care", "point": "Protect Medicare, respond to the addiction crisis and recruit rural physicians through his Homegrown Health Care Initiative.", "source": "https://johnjoyce.house.gov/issues"},
+   {"topic": "National security", "point": "Maintain a strong military and prepare for 21st-century threats.", "source": "https://johnjoyce.house.gov/issues"},
+   {"topic": "Veterans", "point": "Improve veterans' access to VA health care.", "source": "https://johnjoyce.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Opposed bills expanding high-skilled and H-2B visas and voted against limiting ICE cooperation with HHS.", "source": "https://en.wikipedia.org/wiki/John_Joyce_(American_politician)"},
+   "foreign": {"score": 25, "evidence": "Voted to withdraw troops from Syria and Somalia and opposed the $60 billion Ukraine aid package.", "source": "https://en.wikipedia.org/wiki/John_Joyce_(American_politician)"},
+   "energy": {"score": 25, "evidence": "Promotes Pennsylvania's energy industry through deregulation.", "source": "https://johnjoyce.house.gov/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not confirmed."
+ },
+ {
+  "id": "PA-13/beth-farnham",
+  "name": "Beth Farnham",
+  "party": "Democratic",
+  "current_role": "Former school board member",
+  "bio": "Beth Farnham has worked as a credit analyst, administrative assistant and pharmacy technician and has served on a school board. A Baltimore native educated in public schools, she studied biology, French and secondary education, and she previously ran for PA-13.",
+  "website": "https://bethfarnhamforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/bethfarnhamforcongress",
+   "facebook": "https://www.facebook.com/profile.php?id=61554730581395",
+   "tiktok": "https://www.tiktok.com/@bethfarnhamforcongress",
+   "youtube": "https://www.youtube.com/@UnitePA13"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Create a national health program in federal law that covers all treatment and preventive care.", "source": "https://bethfarnhamforcongress.com/"},
+   {"topic": "Reproductive rights", "point": "Protect personal decisions on abortion and birth control.", "source": "https://bethfarnhamforcongress.com/"},
+   {"topic": "Gun safety", "point": "Reduce gun violence against children through measures such as universal background checks and red-flag orders.", "source": "https://bethfarnhamforcongress.com/"},
+   {"topic": "Affordability", "point": "Address rising living costs for working families, retirees, students and veterans.", "source": "https://bethfarnhamforcongress.com/"},
+   {"topic": "Education", "point": "Defend public education.", "source": "https://bethfarnhamforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 95, "evidence": "Wants a national healthcare program in federal law covering all treatment and preventive care.", "source": "https://bethfarnhamforcongress.com/"},
+   "liberty": {"score": 15, "evidence": "Supports reproductive freedom on abortion and birth control and gun safety measures.", "source": "https://bethfarnhamforcongress.com/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 80, "evidence": "Campaign pledges to defend public education.", "source": "https://bethfarnhamforcongress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://bethfarnhamforcongress.com/wp-content/uploads/2024/06/pxl_20251025_143840001.mp_.jpg",
+  "notes": "Her site mentions immigration reform without details; the location of her school board service was not stated."
+ },
+ {
+  "id": "PA-14/guy-reschenthaler",
+  "name": "Guy Reschenthaler",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-14",
+  "bio": "Guy Reschenthaler has represented Pennsylvania's 14th district since 2019, serves as House Republican Chief Deputy Whip and sits on the Appropriations and Rules committees. A Pittsburgh native, he served in the Navy JAG Corps including a deployment to Iraq, was a magisterial district judge and served in the Pennsylvania State Senate from 2015 to 2019.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/GReschenthaler",
+   "instagram": "https://www.instagram.com/greschenthaler",
+   "facebook": "https://www.facebook.com/GReschenthaler",
+   "youtube": "https://www.youtube.com/user/RepGuyReschenthaler"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Make the 2017 tax cuts permanent.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   {"topic": "Immigration", "point": "Continue border wall construction and ban sanctuary cities.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   {"topic": "Abortion", "point": "Protect infants who survive abortion and end dismemberment abortions.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   {"topic": "National security", "point": "Focus on defense and countering China through the China Task Force.", "source": "https://reschenthaler.house.gov/issues"},
+   {"topic": "Opioids", "point": "Respond to the opioid epidemic.", "source": "https://reschenthaler.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Supports making tax cuts permanent and voted against $2,000 pandemic stimulus checks.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   "welfare": null,
+   "liberty": {"score": 85, "evidence": "Sponsored abortion restrictions and voted against universal background checks for gun sales.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   "security": {"score": 65, "evidence": "Opposes changes to police accountability rules and favors stricter punishment for crime.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   "immigration": {"score": 90, "evidence": "Opposes a pathway to citizenship and supports the border wall and banning sanctuary cities.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   "foreign": {"score": 75, "evidence": "Rejects avoiding foreign entanglements and supports military action in the Middle East.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   "energy": {"score": 20, "evidence": "Opposes prioritizing green energy and voted against rural renewable energy assistance.", "source": "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not confirmed."
+ },
+ {
+  "id": "PA-14/alan-bradstock",
+  "name": "Alan Bradstock",
+  "party": "Democratic",
+  "current_role": "Retired FBI special agent",
+  "bio": "Alan Bradstock is a Desert Storm combat veteran and retired FBI special agent. He was born and raised in western Pennsylvania and is running for PA-14.",
+  "website": "https://www.bradstockforcongress.com",
+  "social": {
+   "x": "https://x.com/BradstockPA14",
+   "instagram": "https://www.instagram.com/bradstock4congress",
+   "facebook": "https://www.facebook.com/bradstockforcongress",
+   "youtube": "https://www.youtube.com/channel/UCfGfY1rBofwtD0LaXsEyvcA"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Establish a universal health system covering every American and end medical debt.", "source": "https://www.bradstockforcongress.com/issues"},
+   {"topic": "Economy", "point": "Raise wages, protect workers, support small businesses and reform taxes to reward work over wealth.", "source": "https://www.bradstockforcongress.com/issues"},
+   {"topic": "Rule of law", "point": "Defend constitutional norms and hold powerful officials equally accountable.", "source": "https://www.bradstockforcongress.com/issues"},
+   {"topic": "Campaign finance", "point": "Strengthen campaign finance laws, increase donor transparency and limit dark money.", "source": "https://www.bradstockforcongress.com/issues"},
+   {"topic": "AI and disinformation", "point": "Set guardrails for AI that protect workers and personal data, and promote platform accountability.", "source": "https://www.bradstockforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Calls for higher wages, worker protections and tax reform that rewards work over accumulated wealth.", "source": "https://www.bradstockforcongress.com/issues"},
+   "welfare": {"score": 85, "evidence": "Proposes a universal health system covering every American and ending medical debt.", "source": "https://www.bradstockforcongress.com/issues"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Wants responsible AI guardrails protecting workers and personal data, plus platform accountability for disinformation.", "source": "https://www.bradstockforcongress.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6897cada8764414f9733ee5d/51b95d22-2439-4280-9610-178c96eb48e1/Alan+Smiles+at+Park+2.png",
+  "notes": "Economy and tech scores newly added from his issues page."
+ },
+ {
+  "id": "PA-15/glenn-thompson",
+  "name": "Glenn Thompson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-15",
+  "bio": "Glenn \"GT\" Thompson has served in the U.S. House since 2009 (PA-5 until 2019, then PA-15) and has chaired the House Agriculture Committee since 2023. Born in Bellefonte and raised in Howard, he worked 28 years in therapeutic recreation and rehabilitation, including as a licensed nursing home administrator, and was a volunteer firefighter and EMT.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/CongressmanGT",
+   "instagram": "https://www.instagram.com/congressman_gt",
+   "facebook": "https://www.facebook.com/CongressmanGT",
+   "youtube": "https://www.youtube.com/user/CongressmanGT"
+  },
+  "platform": [
+   {"topic": "Agriculture", "point": "Support farming as Pennsylvania's leading industry and a driver of rural economies.", "source": "https://thompson.house.gov/issues"},
+   {"topic": "Energy", "point": "Keep energy affordable and develop Marcellus Shale natural gas.", "source": "https://thompson.house.gov/issues"},
+   {"topic": "Education", "point": "Expand access to affordable rural education and career and technical education.", "source": "https://thompson.house.gov/issues"},
+   {"topic": "Health care", "point": "Improve access, affordability and patient choice in rural health care.", "source": "https://thompson.house.gov/issues"},
+   {"topic": "Public lands", "point": "Manage the Allegheny National Forest for multiple uses, including timber and energy.", "source": "https://thompson.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 65, "evidence": "Voted against the Respect for Marriage Act, while opposing arming teachers and supporting background check system funding (guns).", "source": "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)"},
+   "security": null,
+   "immigration": {"score": 55, "evidence": "Was one of 30 Republicans to vote for the Farm Workforce Modernization Act in 2021.", "source": "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)"},
+   "foreign": null,
+   "energy": {"score": 30, "evidence": "Prioritizes affordable energy and Marcellus Shale gas, opposed the WOTUS rule and is unsure how much humans drive climate change.", "source": "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not confirmed."
+ },
+ {
+  "id": "PA-15/ray-bilger",
+  "name": "Ray Bilger",
+  "party": "Democratic",
+  "current_role": "Retired national security official",
+  "bio": "Ray Bilger spent 35 years in national security with the Air Force, the National Security Agency and the State Department, serving in Desert Shield and Desert Storm and later as NSA Technical Director for Cyber Analysis. He was born in Bellefonte and grew up in Pleasant Gap in Centre County.",
+  "website": "https://bilgerforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/raybilgerforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61588097334475",
+   "tiktok": "https://www.tiktok.com/@raybilgerforcongress"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Grow local jobs through small business and manufacturing support and by breaking up monopolies.", "source": "https://bilgerforcongress.com/priorities/"},
+   {"topic": "Health care", "point": "Defend Medicare and Medicaid, keep enhanced ACA tax credits, lower drug costs and support rural hospitals.", "source": "https://bilgerforcongress.com/priorities/"},
+   {"topic": "Data centers", "point": "Require tech firms to fund broadband, sign community benefit agreements, disclose water use and protect ratepayers.", "source": "https://bilgerforcongress.com/priorities/"},
+   {"topic": "Energy", "point": "Support natural gas jobs with environmental enforcement and expand clean energy work in the district.", "source": "https://bilgerforcongress.com/priorities/"},
+   {"topic": "Immigration", "point": "Secure the border, create legal pathways, clear case backlogs and add accountability for ICE and CBP agents.", "source": "https://bilgerforcongress.com/priorities/"},
+   {"topic": "War powers", "point": "Oppose the Iran war without clear objectives and back a War Powers Resolution.", "source": "https://bilgerforcongress.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Backs breaking up monopolies and supporting manufacturing while stressing fiscal responsibility.", "source": "https://bilgerforcongress.com/priorities/"},
+   "welfare": {"score": 70, "evidence": "Wants to defend Medicare and Medicaid and keep enhanced ACA tax credits.", "source": "https://bilgerforcongress.com/priorities/"},
+   "liberty": {"score": 20, "evidence": "Says government should stay out of reproductive decisions (abortion) and supports background checks alongside Second Amendment rights (guns).", "source": "https://bilgerforcongress.com/priorities/"},
+   "security": {"score": 35, "evidence": "Calls for uniform requirements and independent review panels for ICE and CBP agents.", "source": "https://bilgerforcongress.com/priorities/"},
+   "immigration": {"score": 40, "evidence": "Pairs border security with legal pathways and faster processing of case backlogs.", "source": "https://bilgerforcongress.com/priorities/"},
+   "foreign": {"score": 30, "evidence": "Opposes the Iran war and supports restoring congressional war powers.", "source": "https://bilgerforcongress.com/priorities/"},
+   "energy": {"score": 50, "evidence": "Supports natural gas jobs along with environmental enforcement and clean energy expansion.", "source": "https://bilgerforcongress.com/priorities/"},
+   "tech": {"score": 70, "evidence": "Wants community benefit agreements, water transparency and ratepayer protections for data centers, and antitrust action on monopolies.", "source": "https://bilgerforcongress.com/priorities/"},
+   "education": {"score": 75, "evidence": "Calls for investing in educators and STEM teacher recruitment and protecting Penn State research funding.", "source": "https://bilgerforcongress.com/priorities/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "PA-16/mike-kelly",
+  "name": "Mike Kelly",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-16",
+  "bio": "Mike Kelly has served in the U.S. House since 2011 (PA-3 until 2019, then PA-16) and sits on the Ways and Means Committee, where he chairs the Tax Subcommittee. Born in Pittsburgh and a Notre Dame graduate, he ran his family's car dealership business in Butler before entering Congress.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/MikeKellyPA",
+   "facebook": "https://www.facebook.com/191056827594903",
+   "youtube": "https://www.youtube.com/user/repmikekelly"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Shape tax policy on the Ways and Means Committee with a focus on spending taxpayer money wisely.", "source": "https://kelly.house.gov/issues"},
+   {"topic": "Gun rights", "point": "Protect law-abiding citizens' Second Amendment right to keep and bear arms.", "source": "https://kelly.house.gov/issues"},
+   {"topic": "Abortion", "point": "Defend protections for the unborn.", "source": "https://kelly.house.gov/issues"},
+   {"topic": "Health care", "point": "Preserve patients' ability to choose their own doctors and treatments.", "source": "https://kelly.house.gov/issues"},
+   {"topic": "Retirement", "point": "Strengthen retirement security for working Americans.", "source": "https://kelly.house.gov/issues"},
+   {"topic": "Infrastructure", "point": "Reinvest in roads, highways and transportation.", "source": "https://kelly.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted against the $1.9 trillion American Rescue Plan in 2021.", "source": "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)"},
+   "welfare": null,
+   "liberty": {"score": 80, "evidence": "Cosponsored the Federal Marriage Amendment, voted against the Respect for Marriage Act, opposes abortion and backs gun rights.", "source": "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)"},
+   "security": null,
+   "immigration": {"score": 55, "evidence": "Cosponsored the DIGNIDAD Act, pairing legal status for undocumented immigrants with stricter enforcement.", "source": "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 80, "evidence": "Called the federal contraceptive mandate an attack on religious freedom.", "source": "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not confirmed; YouTube URL built from the official account handle."
+ }
+]

@@ -1,0 +1,881 @@
+[
+ {
+  "id": "NC-2/matthew-laszacs",
+  "name": "Matthew Laszacs",
+  "party": "Libertarian",
+  "current_role": "Business director",
+  "bio": "Matthew Laszacs is the Libertarian nominee for North Carolina's 2nd congressional district. He works as a business director and was previously the Libertarian nominee for NC Senate District 14 in 2022 and NC House District 41 in 2024.",
+  "website": "https://matt4nc.us/",
+  "social": {
+   "facebook": "https://www.facebook.com/matt-laszacs-for-nc-senate-14-100630799248775"
+  },
+  "platform": [
+   {
+    "topic": "Education",
+    "point": "Replace address-based school assignment and expand education savings accounts, vouchers and scholarships so parents can pick schools.",
+    "source": "https://matt4nc.us/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Cut occupational licensing, zoning and other regulations to make it easier to start new businesses.",
+    "source": "https://matt4nc.us/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Remove regulations blocking lower-cost care options and bring price competition into healthcare.",
+    "source": "https://matt4nc.us/"
+   },
+   {
+    "topic": "Government",
+    "point": "Pursue smaller government and greater personal choice as the route to peace and prosperity.",
+    "source": "https://matt4nc.us/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Calls for cutting licensing, zoning and other business regulations.",
+    "source": "https://matt4nc.us/"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Favours deregulation and price competition in healthcare over new public programs.",
+    "source": "https://matt4nc.us/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Backs education savings accounts, vouchers and scholarships in place of address-based school assignment.",
+    "source": "https://matt4nc.us/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://matt4nc.us/wp-content/uploads/sites/40/2022/05/Matthew-Laszacs.jpg",
+  "notes": "Campaign site still carries NC House 41 branding from an earlier run; its Facebook page is from his 2022 state Senate campaign."
+ },
+ {
+  "id": "NC-3/greg-murphy",
+  "name": "Greg Murphy",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-3",
+  "bio": "Greg Murphy has represented North Carolina's 3rd congressional district since 2019 and previously served in the North Carolina House from 2015 to 2019. He is a urologist based in Greenville who trained at Davidson College and UNC Chapel Hill.",
+  "website": "https://murphy4congress.com/",
+  "social": {
+   "x": "https://x.com/RepGregMurphy",
+   "facebook": "https://www.facebook.com/RepGregMurphy",
+   "instagram": "https://www.instagram.com/repgregmurphy"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Promote economic growth for Eastern North Carolina.",
+    "source": "https://murphy4congress.com/"
+   },
+   {
+    "topic": "Border security",
+    "point": "Strengthen border security and immigration enforcement.",
+    "source": "https://murphy4congress.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Make healthcare more affordable and give physicians a larger voice in health policy.",
+    "source": "https://murphy.house.gov/issues"
+   },
+   {
+    "topic": "Veterans and military",
+    "point": "Deliver services for veterans and support active-duty troops.",
+    "source": "https://murphy4congress.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Stand up for farmers and preserve agricultural tax benefits.",
+    "source": "https://murphy.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation tax-cut bill.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 reconciliation bill that included Medicaid work requirements.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Voted to bar transgender girls from girls' school sports; based mainly on LGBTQ issues.",
+    "source": "https://clerk.house.gov/evs/2025/roll12.xml"
+   },
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Supported the Laken Riley and SAVE Acts and campaigns on border enforcement.",
+    "source": "https://murphy4congress.com/"
+   },
+   "foreign": {
+    "score": 80,
+    "evidence": "Voted for the 2024 Ukraine and Israel aid packages and strongly backs Israel's military campaign.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Murphy_(politician)"
+   },
+   "energy": {
+    "score": 30,
+    "evidence": "Voted to revoke California's vehicle emissions waiver.",
+    "source": "https://clerk.house.gov/evs/2025/roll114.xml"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://murphy4congress.com/wp-content/uploads/2021/02/dr-murphy-1024x684.jpg",
+  "notes": ""
+ },
+ {
+  "id": "NC-3/raymond-smith-jr",
+  "name": "Raymond Smith Jr.",
+  "party": "Democratic",
+  "current_role": "Former North Carolina state representative",
+  "bio": "Raymond Smith Jr. represented the 21st district in the North Carolina House from 2019 to 2023 and earlier served on the Wayne County Board of Education. A Goldsboro native, he served in the U.S. Army during the Persian Gulf War and worked in local and state government.",
+  "website": "https://raymondsmithfornc.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Government reform",
+    "point": "Pursue campaign finance reform, overturn Citizens United and ban stock trading by members of Congress.",
+    "source": "https://raymondsmithfornc.com/platform"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Lower costs for working families through job creation and infrastructure investment.",
+    "source": "https://raymondsmithfornc.com/platform"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Expand affordable healthcare access, particularly in rural communities.",
+    "source": "https://raymondsmithfornc.com/platform"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Secure federal funding for broadband and flood resilience projects.",
+    "source": "https://raymondsmithfornc.com/platform"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Improve VA services, military family childcare and base housing.",
+    "source": "https://raymondsmithfornc.com/platform"
+   },
+   {
+    "topic": "Education",
+    "point": "Protect public school funding while keeping local control of schools.",
+    "source": "https://raymondsmithfornc.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Calls for overturning Citizens United and public investment in jobs and infrastructure to cut costs.",
+    "source": "https://raymondsmithfornc.com/platform"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Proposes expanding healthcare access and military family childcare.",
+    "source": "https://raymondsmithfornc.com/platform"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Pledges to protect public education funding.",
+    "source": "https://raymondsmithfornc.com/platform"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons portrait is credited to the NC General Assembly as public domain without a specific licence or statute, so it was not used. Wikipedia lists raymondesmithjr.com as his campaign site."
+ },
+ {
+  "id": "NC-3/daniel-cavender",
+  "name": "Daniel Cavender",
+  "party": "Libertarian",
+  "current_role": "Technician",
+  "bio": "Daniel Cavender is the Libertarian nominee for North Carolina's 3rd congressional district. He works as a technician and was the Libertarian nominee for NC Senate District 30 in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public issue positions were found."
+ },
+ {
+  "id": "NC-4/valerie-foushee",
+  "name": "Valerie Foushee",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NC-4",
+  "bio": "Valerie Foushee has represented North Carolina's 4th congressional district since 2023, after serving in the North Carolina Senate from 2013 to 2023 and briefly in the state House. From Chapel Hill, she previously served on the Orange County Board of Commissioners and the Chapel Hill-Carrboro school board and worked for the Chapel Hill Police Department.",
+  "website": "https://valeriefoushee.com/",
+  "social": {
+   "x": "https://x.com/ValerieFoushee",
+   "facebook": "https://www.facebook.com/RepValerieFoushee",
+   "instagram": "https://www.instagram.com/repvaleriefoushee",
+   "youtube": "https://www.youtube.com/@RepValerieFoushee"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Defend Medicaid, extend ACA subsidies and work toward Medicare for All.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Limit ICE authority, require agent body cameras and ban masked agents.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Raise corporate tax rates and create a minimum tax on billionaires.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Codify Roe v. Wade to protect abortion and contraception access.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Support the Green New Deal and invest in rail infrastructure.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Cancel student debt and make community college tuition-free.",
+    "source": "https://valeriefoushee.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Backs higher corporate taxes, a billionaire minimum tax and action on price gouging.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports Medicare for All.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports codifying Roe and decriminalizing marijuana; based on abortion and drugs.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Seeks to limit ICE powers, end cash bail and abolish private prisons.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   "immigration": {
+    "score": 5,
+    "evidence": "Has called for dismantling ICE and cosponsored the Melt ICE Act.",
+    "source": "https://en.wikipedia.org/wiki/Valerie_Foushee"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Voted against weapons transfers to Israel and cosponsored the Block the Bombs Act.",
+    "source": "https://en.wikipedia.org/wiki/Valerie_Foushee"
+   },
+   "energy": {
+    "score": 95,
+    "evidence": "Supports the Green New Deal and authored a cement decarbonization bill.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   "tech": {
+    "score": 85,
+    "evidence": "Has raised AI safety concerns and cosponsored a bill studying data center impacts.",
+    "source": "https://en.wikipedia.org/wiki/Valerie_Foushee"
+   },
+   "education": {
+    "score": 80,
+    "evidence": "Backs tuition-free community college and federal funding for public schools.",
+    "source": "https://valeriefoushee.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Education score is new and rests on public-funding priorities rather than an explicit voucher stance."
+ },
+ {
+  "id": "NC-4/max-ganorkar",
+  "name": "Max Ganorkar",
+  "party": "Republican",
+  "current_role": "Home building contractor",
+  "bio": "Max Ganorkar is the Republican nominee for North Carolina's 4th congressional district and has run for office several times before. He works as a home building contractor and describes himself as an immigrant and a constitutionalist.",
+  "website": "https://maxforcongress.com/",
+  "social": {
+   "x": "https://x.com/GanorkarMax",
+   "instagram": "https://www.instagram.com/max.ganorkar",
+   "facebook": "https://www.facebook.com/profile.php?id=61591802939592",
+   "tiktok": "https://www.tiktok.com/@maxforcongress",
+   "youtube": "https://www.youtube.com/@MaxforCongressNC-04"
+  },
+  "platform": [
+   {
+    "topic": "Education",
+    "point": "Expand school choice and vouchers so a ZIP code does not determine a child's school.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Give citizens healthcare vouchers to buy insurance on the market.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   {
+    "topic": "Housing",
+    "point": "Lower housing costs through deregulation and limit corporate takeover of rentals.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   {
+    "topic": "Taxes",
+    "point": "End taxes for people at 63 and eliminate capital gains tax on primary homes.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Put diplomacy ahead of military intervention and spend tax dollars at home.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Favour merit-based legal immigration plus a legal seasonal worker program.",
+    "source": "https://maxforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Calls for lower taxes, fewer business regulations and reduced tariffs.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Proposes healthcare vouchers instead of expanded public programs.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Averages opposition to abortion with exceptions, opposition to gender ideology, and support for constitutional carry.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 60,
+    "evidence": "Supports merit-based legal immigration with assimilation and a legal seasonal worker exchange.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Prioritizes diplomacy over intervention and directing tax dollars to Americans.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 5,
+    "evidence": "Backs school choice and vouchers.",
+    "source": "https://maxforcongress.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-4/guy-meilleur",
+  "name": "Guy Meilleur",
+  "party": "Libertarian",
+  "current_role": "Consulting arborist",
+  "bio": "Guy Meilleur is the Libertarian nominee for North Carolina's 4th congressional district and has run for office before. He is a consulting arborist and educator who has taught at NC State and Duke, and has lived in Durham since 2015 after moving to North Carolina in 1985.",
+  "website": "https://guy4nc.org/",
+  "social": {
+   "x": "https://x.com/GuyMeilleur",
+   "facebook": "https://www.facebook.com/profile.php?id=100068513959266"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Limit regulations that hold back local businesses.",
+    "source": "https://guy4nc.org/priorities/"
+   },
+   {
+    "topic": "Education",
+    "point": "Support school choice so parents can select their children's schools.",
+    "source": "https://guy4nc.org/priorities/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Pursue affordable care using market-based models such as Singapore's.",
+    "source": "https://guy4nc.org/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Protect National Guard members from overseas deployments without proper authorization.",
+    "source": "https://guy4nc.org/priorities/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Adopt instant runoff voting and strengthen rights of independent voters.",
+    "source": "https://guy4nc.org/priorities/"
+   },
+   {
+    "topic": "Justice",
+    "point": "Rebalance the justice system toward restorative approaches.",
+    "source": "https://guy4nc.org/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Calls for limiting regulations on local businesses.",
+    "source": "https://guy4nc.org/priorities/"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Favours market-based healthcare modelled on Singapore.",
+    "source": "https://guy4nc.org/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 20,
+    "evidence": "Backs Defend the Guard limits on overseas National Guard deployments.",
+    "source": "https://guy4nc.org/priorities/"
+   },
+   "energy": {
+    "score": 50,
+    "evidence": "Supports cost-effective conservation that accounts for climate change.",
+    "source": "https://guy4nc.org/priorities/"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Supports school choice for parents.",
+    "source": "https://guy4nc.org/priorities/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://guy4nc.org/wp-content/uploads/sites/15/2020/04/Meilleur_Guy_08_Web.jpg",
+  "notes": "Priority pages give few details beyond headings."
+ },
+ {
+  "id": "NC-5/virginia-foxx",
+  "name": "Virginia Foxx",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-5",
+  "bio": "Virginia Foxx has represented North Carolina's 5th congressional district since 2005 and chairs the House Rules Committee, having earlier chaired the Education Committee. She served in the North Carolina Senate from 1995 to 2005 and was a professor at Appalachian State University and president of Mayland Community College.",
+  "website": "https://virginiafoxx.com/",
+  "social": {
+   "x": "https://x.com/VirginiaFoxx",
+   "facebook": "https://www.facebook.com/RepVirginiaFoxx",
+   "instagram": "https://www.instagram.com/repvirginiafoxx",
+   "youtube": "https://www.youtube.com/user/repvirginiafoxx"
+  },
+  "platform": [
+   {
+    "topic": "Taxes and spending",
+    "point": "Keep taxes low, balance the budget and extend the Tax Cuts and Jobs Act.",
+    "source": "https://virginiafoxx.com/issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border and enforce existing immigration law.",
+    "source": "https://virginiafoxx.com/issues/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Oppose Medicare for All in favour of market-based, patient-centered solutions.",
+    "source": "https://virginiafoxx.com/issues/"
+   },
+   {
+    "topic": "Life and religious liberty",
+    "point": "Advance pro-life legislation and protect religious liberty.",
+    "source": "https://virginiafoxx.com/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Return education decisions to states and reduce federal involvement.",
+    "source": "https://virginiafoxx.com/issues/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue energy independence and innovation rather than regulation.",
+    "source": "https://virginiafoxx.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Backs lower taxes, less regulation and the 2025 tax bill.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Opposes Medicare for All and supports market-based health policy.",
+    "source": "https://virginiafoxx.com/issues/"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Opposes abortion without exceptions, the Equality Act and marijuana legalization; supports gun rights.",
+    "source": "https://en.wikipedia.org/wiki/Virginia_Foxx"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Cosponsored legislation to end birthright citizenship for children of undocumented immigrants.",
+    "source": "https://en.wikipedia.org/wiki/Virginia_Foxx"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Supports strong military funding and sanctions on hostile regimes.",
+    "source": "https://virginiafoxx.com/issues/"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Prioritizes energy independence and innovation over climate regulation.",
+    "source": "https://virginiafoxx.com/issues/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 85,
+    "evidence": "Campaigns on protecting religious liberty and is a Prayer Caucus member.",
+    "source": "https://virginiafoxx.com/issues/"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-5/chuck-hubbard",
+  "name": "Chuck Hubbard",
+  "party": "Democratic",
+  "current_role": "Retired newspaper reporter",
+  "bio": "Chuck Hubbard is a Wilkes County native who spent over four decades as a reporter with the Wilkes Journal-Patriot, the newspaper his grandfather founded. A Wofford College graduate, he was the Democratic nominee for this seat in 2024.",
+  "website": "https://hubbardforcongress.com/",
+  "social": {
+   "x": "https://x.com/ChuckHubbardNC",
+   "instagram": "https://www.instagram.com/ChuckHubbardNC",
+   "facebook": "https://www.facebook.com/ChuckHubbardNC",
+   "tiktok": "https://www.tiktok.com/@chuckhubbardnc"
+  },
+  "platform": [
+   {
+    "topic": "Wages and taxes",
+    "point": "Raise the minimum wage and shift more of the tax burden to the wealthy and corporations.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Create a government health insurance option and keep hospitals accessible everywhere.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   {
+    "topic": "Retirement",
+    "point": "Protect Medicare, Medicaid and Social Security from cuts.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   {
+    "topic": "Education",
+    "point": "Increase federal support for teachers and public schools.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Ban congressional stock trading and overturn Citizens United.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   {
+    "topic": "Disaster recovery",
+    "point": "Secure promised Helene recovery funds and press FEMA for transparency.",
+    "source": "https://hubbardforcongress.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Calls for a higher minimum wage and higher taxes on the wealthy and corporations.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Supports a government health option and protecting entitlement programs.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports abortion access and anti-discrimination protections; based on abortion and LGBTQ rights.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Pledges more federal support for public schools and teachers.",
+    "source": "https://hubbardforcongress.com/platform"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://hubbardforcongress.com/wp-content/uploads/2024/04/chuckatappstate-683x1024.webp",
+  "notes": ""
+ },
+ {
+  "id": "NC-5/robert-b-luffman",
+  "name": "Robert B. Luffman",
+  "party": "Libertarian",
+  "current_role": "Truck driver",
+  "bio": "Robert B. Luffman is the Libertarian nominee for North Carolina's 5th congressional district. He has worked in the transportation industry for about 25 years as a truck driver.",
+  "website": "https://luffmanforcongress.org/",
+  "social": {
+   "facebook": "https://www.facebook.com/Luffman4Congress"
+  },
+  "platform": [
+   {
+    "topic": "Two-party system",
+    "point": "Challenge the two-party system and reduce partisan division.",
+    "source": "https://luffmanforcongress.org/"
+   },
+   {
+    "topic": "Governance",
+    "point": "Replace political gamesmanship with practical problem-solving.",
+    "source": "https://luffmanforcongress.org/"
+   },
+   {
+    "topic": "Representation",
+    "point": "Put constituents ahead of party and amplify NC-5 voters' voices.",
+    "source": "https://luffmanforcongress.org/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site lists general themes but no specific policy positions."
+ },
+ {
+  "id": "NC-6/addison-mcdowell",
+  "name": "Addison McDowell",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-6",
+  "bio": "Addison McDowell has represented North Carolina's 6th congressional district since January 2025. Raised in Lexington, he graduated from UNC Charlotte, worked on campaign and constituent staff for Republicans Richard Hudson and Ted Budd, and was a lobbyist for Blue Cross Blue Shield of North Carolina.",
+  "website": "https://www.mcdowellfornc.com/",
+  "social": {
+   "x": "https://x.com/RepMcDowell",
+   "facebook": "https://www.facebook.com/RepMcDowell",
+   "instagram": "https://www.instagram.com/repmcdowell",
+   "youtube": "http://www.youtube.com/@TeamAddisonMcDowell"
+  },
+  "platform": [
+   {
+    "topic": "Border and drugs",
+    "point": "Secure the southern border and stop the flow of fentanyl and other illegal drugs.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   {
+    "topic": "Trade",
+    "point": "Support the America First trade agenda to protect American jobs.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Oppose government restrictions on firearm ownership.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Cast pro-life votes and back pro-family policies.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   {
+    "topic": "Elections",
+    "point": "Require voter ID, tighten absentee rules and oppose federalizing elections.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   {
+    "topic": "Crypto",
+    "point": "Promote digital asset innovation and oppose a central bank digital currency.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Voted for the 2025 tax bill while backing protective America First trade policy.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 reconciliation bill with Medicaid work requirements.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Averages a pro-life stance with opposition to gun restrictions; based on abortion and guns.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Campaigns on border security and voted for the SAVE Act.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 25,
+    "evidence": "Voted for the 2025 reconciliation bill that rolled back clean-energy tax credits.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "tech": {
+    "score": 20,
+    "evidence": "Favours light digital-asset rules and opposes a central bank digital currency.",
+    "source": "https://www.mcdowellfornc.com/issues"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-6/cyril-jefferson",
+  "name": "Cyril Jefferson",
+  "party": "Democratic",
+  "current_role": "Mayor of High Point",
+  "bio": "Cyril Jefferson is the mayor of High Point, North Carolina, and a business owner raised in the area. He launched the Thrive High Point small-business initiative and worked to bring the Carolina Core FC soccer club to the city.",
+  "website": "https://www.cyrilforcongress.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/CyrilForCongress",
+   "instagram": "https://www.instagram.com/cyriljefferson/",
+   "youtube": "https://www.youtube.com/@Cyril.Jefferson"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Lower costs and expand affordable housing.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Protect Medicaid and Medicare, lower drug prices and expand mental health care.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Raise educator pay, expand childcare and create apprenticeship pathways.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Modernize transportation and broadband and support small businesses and farmers.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   {
+    "topic": "Security and immigration",
+    "point": "Pursue bipartisan border security and immigration reform and strengthen the military.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Proposes public investment in housing, infrastructure and lower drug prices.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Pledges to protect Medicaid, Medicare and SNAP and expand childcare.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 45,
+    "evidence": "Backs bipartisan immigration reform paired with border security.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Calls for strengthening U.S. military capabilities.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 75,
+    "evidence": "Supports higher educator pay and investment in public education.",
+    "source": "https://www.cyrilforcongress.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/9737c2de-b64d-4bdb-8b6b-f4061378eaaf/d20611d0-1253-4c0a-9b96-a05b06862057/d20611d0-1253-4c0a-9b96-a05b06862057.jpg",
+  "notes": "The campaign headshot URL came from the About page and was not visually confirmed."
+ }
+]

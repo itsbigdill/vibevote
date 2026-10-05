@@ -1,0 +1,417 @@
+[
+ {
+  "id": "CA-29/luz-rivas",
+  "name": "Luz Rivas",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-29",
+  "bio": "Luz Rivas has represented California's 29th District in the U.S. House since January 2025, after serving in the California State Assembly from 2018 to 2024. An electrical engineer trained at MIT with a master's in education from Harvard, she worked at Motorola and founded DIY Girls, a STEM nonprofit for girls. She was born in Los Angeles and represents the northeast San Fernando Valley.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepLuzRivas",
+   "instagram": "https://www.instagram.com/RepLuzRivas",
+   "facebook": "https://www.facebook.com/congresswomanluzrivas"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Pressing ICE and CBP leadership over enforcement raids in Los Angeles and pledging to protect immigrant communities.", "source": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-demands-meeting-ice-and-cbp-leadership-regarding-la"},
+   {"topic": "Environment", "point": "Introduced legislation to hold oil and gas companies accountable for methane pollution affecting public health.", "source": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-protect-public-health-and-our"},
+   {"topic": "STEM education", "point": "Introduced a bill to reauthorize and widen access to NSF undergraduate research programs.", "source": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-expand-access-undergraduate-research"},
+   {"topic": "Disaster readiness", "point": "Introduced a bill to strengthen telecommunications infrastructure during wildfires and other natural disasters.", "source": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-strengthen-telecommunications"},
+   {"topic": "Water infrastructure", "point": "Secured $50 million in authorizations for San Fernando Valley water system improvements.", "source": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-secures-50-million-authorizations-san-fernando-valley"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 40, "evidence": "Record favors abortion rights and gun regulation (abortion, guns), while other liberty issues have little recorded evidence.", "source": "https://www.ontheissues.org/CA/Luz_Rivas.htm"},
+   "security": {"score": 35, "evidence": "Backed cutting administrative fees for people in the criminal justice system and more accountability in justice reporting.", "source": "https://www.ontheissues.org/CA/Luz_Rivas.htm"},
+   "immigration": {"score": 15, "evidence": "Demanded a meeting with ICE and CBP leadership over Los Angeles raids and opposed expanded ICE funding.", "source": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-demands-meeting-ice-and-cbp-leadership-regarding-la"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Introduced a bill to curb methane pollution and hold the oil and gas industry accountable.", "source": "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-introduces-bill-protect-public-health-and-our"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score newly added from her 2026 methane bill; campaign website could not be loaded."
+ },
+ {
+  "id": "CA-29/angelica-maria-duenas",
+  "name": "Angélica María Dueñas",
+  "party": "Democratic",
+  "current_role": "Community organizer",
+  "bio": "Angélica Dueñas is a community organizer born and raised in the East San Fernando Valley. She served two terms as president and one as vice president of the Sun Valley Area Neighborhood Council, and has run for this House seat in previous cycles. She holds a political science degree from Cal State LA and a master's in organizational leadership from Woodbury University.",
+  "website": "https://angelica4congress.com/",
+  "social": {
+   "x": "https://x.com/angelica4US",
+   "instagram": "https://www.instagram.com/angelica4US/",
+   "facebook": "https://www.facebook.com/Angelica4CA"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Create a single-payer Medicare for All system.", "source": "https://angelica4congress.com/"},
+   {"topic": "Housing", "point": "Fight gentrification, expand affordable homes and address homelessness.", "source": "https://angelica4congress.com/"},
+   {"topic": "Immigration", "point": "Provide legal status for all, citizenship for Dreamers and protections for asylum seekers.", "source": "https://angelica4congress.com/"},
+   {"topic": "Workers", "point": "Protect the right to unionize and raise the minimum wage to a living wage.", "source": "https://angelica4congress.com/"},
+   {"topic": "Criminal justice", "point": "Demilitarize police, end private prisons and reform use-of-force laws.", "source": "https://angelica4congress.com/"},
+   {"topic": "Education", "point": "Strengthen public schools and make college and trade school tuition-free.", "source": "https://angelica4congress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Calls for a living-wage minimum wage and taxing billionaires' borrowing.", "source": "https://angelica4congress.com/"},
+   "welfare": {"score": 100, "evidence": "Supports single-payer Medicare for All.", "source": "https://angelica4congress.com/"},
+   "liberty": {"score": 10, "evidence": "Supports abortion access (abortion); other liberty issues are not addressed in detail.", "source": "https://angelica4congress.com/"},
+   "security": {"score": 15, "evidence": "Wants to demilitarize police, end private prisons and tighten use-of-force laws.", "source": "https://angelica4congress.com/"},
+   "immigration": {"score": 5, "evidence": "Supports legal status for all immigrants and abolishing ICE.", "source": "https://angelica4congress.com/"},
+   "foreign": {"score": 10, "evidence": "Favors a diplomacy-first foreign policy and opposes military aid to Israel.", "source": "https://angelica4congress.com/"},
+   "energy": {"score": 90, "evidence": "Backs clean-energy initiatives to create jobs and address climate change.", "source": "https://angelica4congress.com/"},
+   "tech": null,
+   "education": {"score": 95, "evidence": "Wants stronger public schools and tuition-free college and trade school.", "source": "https://angelica4congress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://angelica4congress.com/wp-content/uploads/2026/09/angelica_SFV_v2-876x1024.png",
+  "notes": "Ballotpedia pages could not be loaded; profile relies mainly on the campaign site."
+ },
+ {
+  "id": "CA-30/laura-friedman",
+  "name": "Laura Friedman",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-30",
+  "bio": "Laura Friedman has represented California's 30th District in the U.S. House since January 2025. She previously served in the California State Assembly (2016-2024), on the Glendale City Council (2009-2016) and as Mayor of Glendale. Born in New York City, she worked as a film producer and development executive before moving to Glendale in 2000.",
+  "website": "https://www.lauraforcongress.org/",
+  "social": {
+   "x": "https://x.com/RepFriedmanCA",
+   "instagram": "https://www.instagram.com/RepLauraFriedman",
+   "facebook": "https://www.facebook.com/RepLauraFriedman"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Expand access to affordable housing and pursue land-use reform.", "source": "https://www.lauraforcongress.org/"},
+   {"topic": "Health care", "point": "Support universal health care and childcare access.", "source": "https://www.lauraforcongress.org/"},
+   {"topic": "Climate", "point": "Act on climate change and protect the environment.", "source": "https://www.lauraforcongress.org/"},
+   {"topic": "Film industry", "point": "Backs a bipartisan federal film tax credit to keep production in the U.S.", "source": "https://friedman.house.gov/media/press-releases/release-rep-friedman-welcomes-trumps-call-bipartisan-federal-film-tax-credit"},
+   {"topic": "Early education", "point": "Opposes efforts to roll back Head Start funding.", "source": "https://friedman.house.gov/media/press-releases/release-rep-friedman-tours-head-start-site-connect-parents-children-teachers"},
+   {"topic": "Social issues", "point": "Prioritizes gun violence prevention, LGBTQ+ rights and reproductive freedom.", "source": "https://www.lauraforcongress.org/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 90, "evidence": "Campaign supports universal health care and childcare access.", "source": "https://www.lauraforcongress.org/"},
+   "liberty": {"score": 40, "evidence": "Strong support for abortion rights and firearm limits (abortion, guns), plus LGBTQ+ rights advocacy.", "source": "https://www.ontheissues.org/CA/Laura_Friedman.htm"},
+   "security": {"score": 35, "evidence": "Backed cutting administrative fees in the criminal justice system and co-led the No Masks for ICE Act.", "source": "https://www.ontheissues.org/CA/Laura_Friedman.htm"},
+   "immigration": {"score": 15, "evidence": "Supports limits on masked ICE agents and convened an advisory committee on enforcement concerns.", "source": "https://friedman.house.gov/media/press-releases/release-rep-friedman-convenes-immigration-advisory-committee"},
+   "foreign": null,
+   "energy": {"score": 90, "evidence": "Campaign lists fighting climate change as a core priority.", "source": "https://www.lauraforcongress.org/"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Campaign describes her as a consistent voice for public education.", "source": "https://www.lauraforcongress.org/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://static.wixstatic.com/media/992b34_ea58544f4ec24c3aa6b83e20b4042135~mv2.jpg",
+  "notes": "She is a member of the Congressional Freethought Caucus, but no specific religion-policy evidence was found, so faith is left empty."
+ },
+ {
+  "id": "CA-30/scott-alan-meyers",
+  "name": "Scott Alan Meyers",
+  "party": "Republican",
+  "current_role": "Attorney",
+  "bio": "Scott Alan Meyers is an attorney and lifelong resident of the communities in California's 30th District. His campaign says he began working at age 14 and was raised by a teacher and a minister. He has not held elected office.",
+  "website": "https://www.meyersforcongress.com/",
+  "social": {
+   "x": "https://x.com/ScottAMeyersLA"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Cut federal spending to curb inflation and oppose tax increases on families and small businesses.", "source": "https://www.meyersforcongress.com/"},
+   {"topic": "Border security", "point": "Strengthen border enforcement against drug trafficking.", "source": "https://www.meyersforcongress.com/"},
+   {"topic": "Public safety", "point": "Support law enforcement and neighborhood safety.", "source": "https://www.meyersforcongress.com/"},
+   {"topic": "Elections", "point": "Supports election integrity legislation such as the SAVE Act.", "source": "https://www.meyersforcongress.com/"},
+   {"topic": "Entertainment industry", "point": "Revive film and television production in California.", "source": "https://www.meyersforcongress.com/"},
+   {"topic": "Education", "point": "Keep schools focused on core academics rather than political messaging.", "source": "https://www.meyersforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for lower spending and taxes and fewer regulations on small businesses.", "source": "https://www.meyersforcongress.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 75, "evidence": "Campaigns on restoring law and order and backing law enforcement.", "source": "https://www.meyersforcongress.com/"},
+   "immigration": {"score": 80, "evidence": "Campaigns on securing the border and supports the SAVE Act.", "source": "https://www.meyersforcongress.com/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 30, "evidence": "Wants schools focused on core academics without political content.", "source": "https://www.meyersforcongress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No single headshot URL could be identified on the campaign site."
+ },
+ {
+  "id": "CA-31/gil-cisneros",
+  "name": "Gil Cisneros",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-31",
+  "bio": "Gil Cisneros has represented California's 31st District since 2025; he earlier represented the 39th District (2019-2021) and served as Under Secretary of Defense for Personnel and Readiness (2021-2023). He is a Navy veteran who served as a supply officer from 1994 to 2004 and later started an education-focused foundation. He was raised in the Los Angeles area and serves on the Armed Services and Small Business committees.",
+  "website": "",
+  "social": {
+   "instagram": "https://www.instagram.com/repgilcisneros",
+   "facebook": "https://www.facebook.com/RepGilCisneros"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Keep immigrant families together, protect citizenship pathways and seek permanent status for Dreamers.", "source": "https://cisneros.house.gov/issues/immigration"},
+   {"topic": "Military families", "point": "Co-introduced the PROTECT Military Families Act to shield service members' families from deportation.", "source": "https://cisneros.house.gov/issues/immigration"},
+   {"topic": "Health care", "point": "Expand access to affordable, quality health care for working families.", "source": "https://cisneros.house.gov/issues"},
+   {"topic": "Education", "point": "Make schools and college more affordable and accessible for working families.", "source": "https://cisneros.house.gov/issues"},
+   {"topic": "Israel-Palestine", "point": "Calls for a permanent ceasefire, humanitarian aid and a two-state solution.", "source": "https://cisneros.house.gov/issues/israeli-palestinian-conflict"},
+   {"topic": "War powers", "point": "Opposed strikes on Iran and Venezuela conducted without congressional authorization.", "source": "https://cisneros.house.gov/issues/foreign-affairs"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Opposed the 2017 tax law and supports higher taxes on the wealthy and a living wage.", "source": "https://www.ontheissues.org/CA/Gil_Cisneros.htm"},
+   "welfare": {"score": 80, "evidence": "Supports expanding the Affordable Care Act and free community college.", "source": "https://www.ontheissues.org/CA/Gil_Cisneros.htm"},
+   "liberty": {"score": 35, "evidence": "Pro-choice and supports marijuana legalization and LGBT equality (abortion, drugs, LGBTQ), while backing an assault weapons ban (guns).", "source": "https://www.ontheissues.org/CA/Gil_Cisneros.htm"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Supports a DACA citizenship path, opposes the border wall and backed an independent probe of ICE detention deaths.", "source": "https://cisneros.house.gov/issues/immigration"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Supports renewable energy funding and regulating greenhouse gas emissions.", "source": "https://www.ontheissues.org/CA/Gil_Cisneros.htm"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Opposes diverting public school funds to private school vouchers.", "source": "https://www.ontheissues.org/CA/Gil_Cisneros.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Foreign policy is left empty: he opposed unauthorized strikes and voted no on the 2025 NDAA, but his stance on alliances and aid is unclear. No campaign website was confirmed."
+ },
+ {
+  "id": "CA-31/eric-ching",
+  "name": "Eric Ching",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Eric Ching is the Republican nominee for California's 31st District. Little public biographical information could be confirmed.",
+  "website": "https://www.ericchingforcongress.com/",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site has almost no content and Ballotpedia could not be loaded, so an earlier report that he served on the Walnut City Council could not be confirmed. No policy positions were found."
+ },
+ {
+  "id": "CA-32/brad-sherman",
+  "name": "Brad Sherman",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-32",
+  "bio": "Brad Sherman has served in the U.S. House since 1997, representing the 32nd District since 2023. A certified public accountant from Los Angeles, he previously served on the California State Board of Equalization (1991-1997), including as its chair. He is a senior member of the House Foreign Affairs Committee.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/BradSherman",
+   "instagram": "https://www.instagram.com/congressmansherman",
+   "facebook": "https://www.facebook.com/63158229861",
+   "youtube": "https://www.youtube.com/user/shermanca27"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Proposed a windfall profits tax on crude oil prices above $75 per barrel.", "source": "https://en.wikipedia.org/wiki/Brad_Sherman"},
+   {"topic": "Israel", "point": "Works to strengthen the U.S.-Israel relationship.", "source": "https://sherman.house.gov/issues/israel"},
+   {"topic": "Seniors", "point": "Protect Social Security, Medicare and related programs.", "source": "https://sherman.house.gov/issues/seniors"},
+   {"topic": "Environment", "point": "Advance energy independence while protecting the environment.", "source": "https://sherman.house.gov/issues/energy-independence"},
+   {"topic": "Human rights", "point": "Urged sanctions on Chinese officials over Uyghur abuses and supports Armenian genocide recognition.", "source": "https://en.wikipedia.org/wiki/Brad_Sherman"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Voted against making the Bush tax cuts permanent and proposed an oil windfall profits tax.", "source": "https://www.ontheissues.org/CA/Brad_Sherman.htm"},
+   "welfare": {"score": 80, "evidence": "Backs the Affordable Care Act and protecting Social Security and Medicare.", "source": "https://sherman.house.gov/issues/seniors"},
+   "liberty": {"score": 30, "evidence": "Rated 100% by NARAL and 75% by NORML (abortion, drugs), but rated F by the NRA and backs universal background checks (guns).", "source": "https://www.ontheissues.org/CA/Brad_Sherman.htm"},
+   "security": {"score": 25, "evidence": "Voted against extending PATRIOT Act roving wiretaps and supports ending bulk data collection.", "source": "https://www.ontheissues.org/CA/Brad_Sherman.htm"},
+   "immigration": {"score": 15, "evidence": "Rated 0% by FAIR and voted to legalize Dreamers through military service.", "source": "https://www.ontheissues.org/CA/Brad_Sherman.htm"},
+   "foreign": {"score": 80, "evidence": "Longtime backer of Israel aid and author of many Iran sanctions bills.", "source": "https://en.wikipedia.org/wiki/Brad_Sherman"},
+   "energy": {"score": 90, "evidence": "Rated 100% by LCV and supports 50% carbon-free electricity by 2030.", "source": "https://www.ontheissues.org/CA/Brad_Sherman.htm"},
+   "tech": {"score": 60, "evidence": "Sponsored net neutrality legislation and co-sponsored SOPA.", "source": "https://www.ontheissues.org/CA/Brad_Sherman.htm"},
+   "education": {"score": 85, "evidence": "Rated 100% by NEA and voted against private and parochial school vouchers.", "source": "https://www.ontheissues.org/CA/Brad_Sherman.htm"},
+   "faith": {"score": 15, "evidence": "Voted against allowing school prayer and for letting courts rule on 'God' in the Pledge.", "source": "https://www.ontheissues.org/CA/Brad_Sherman.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was confirmed."
+ },
+ {
+  "id": "CA-32/larry-thompson",
+  "name": "Larry Thompson",
+  "party": "Republican",
+  "current_role": "Entertainment lawyer and film producer",
+  "bio": "Larry Thompson is an entertainment lawyer, talent manager, film producer, author and speaker who describes himself as a centrist Republican. Originally from Clarksdale, Mississippi, he has lived in California for most of his life. He has not held elected office.",
+  "website": "https://www.larrythompsonforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/LarryCongress",
+   "instagram": "https://www.instagram.com/larrythompsonforcongress32/",
+   "facebook": "https://www.facebook.com/LarryThompsonForCongress/",
+   "tiktok": "https://www.tiktok.com/@larrythompsonforcongress",
+   "youtube": "https://www.youtube.com/@larrythompson2847"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Lower taxes and end federal taxes on Social Security, tips and overtime.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   {"topic": "Debt", "point": "Stop printing money and cut the national debt by at least 10% a year.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   {"topic": "Border", "point": "Close the border, enforce immigration law and deport those here illegally.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   {"topic": "Homelessness", "point": "House and treat homeless people in mental health and addiction facilities.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   {"topic": "Israel", "point": "Strong support for Israel and Jewish communities worldwide.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   {"topic": "Film industry", "point": "Improve entertainment tax incentives to keep film production in California.", "source": "https://www.larrythompsonforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Wants lower taxes and major annual cuts to the national debt.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   "welfare": null,
+   "liberty": {"score": 35, "evidence": "Personally opposes abortion but would leave it to states (abortion); defends Second Amendment rights (guns).", "source": "https://www.larrythompsonforcongress.com/issues"},
+   "security": {"score": 50, "evidence": "Takes a tough-on-crime stance and backs law enforcement.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   "immigration": {"score": 90, "evidence": "Calls for closing the border and deporting undocumented immigrants.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   "foreign": {"score": 65, "evidence": "Voices strong support for Israel and for Armenian communities.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   "energy": {"score": 25, "evidence": "Favors free-market competition among energy sources, including American oil.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   "tech": {"score": 15, "evidence": "Supports Bitcoin and crypto innovation in competitive markets and raises concerns about CBDCs.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   "education": {"score": 35, "evidence": "Wants transparency about classroom content and ideological funding.", "source": "https://www.larrythompsonforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://content.campaignpartner.net/images/84090/Larry_Thompson_0041_1000p.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-33/pete-aguilar",
+  "name": "Pete Aguilar",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-33; House Democratic Caucus Chair",
+  "bio": "Pete Aguilar has served in the U.S. House since 2015, representing the 33rd District since 2023, and has chaired the House Democratic Caucus since 2023. He previously served on the Redlands City Council and as Mayor of Redlands (2010-2014). Born in Fontana and raised in San Bernardino, he also served on the January 6 Select Committee.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepPeteAguilar",
+   "facebook": "https://www.facebook.com/reppeteaguilar"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Expand affordable coverage, including Medicare drug price negotiation.", "source": "https://aguilar.house.gov/issues/"},
+   {"topic": "Reproductive rights", "point": "Protect abortion access across state lines and codify the right to contraception.", "source": "https://aguilar.house.gov/issues/"},
+   {"topic": "Housing", "point": "Widen access to FHA loans and homeownership, including for DACA recipients.", "source": "https://aguilar.house.gov/issues/"},
+   {"topic": "Immigration", "point": "Pass comprehensive immigration reform with a path to citizenship and support for Dreamers.", "source": "https://aguilar.house.gov/issues/"},
+   {"topic": "Community safety", "point": "Prevent gun violence and fund police mental health and recruitment support.", "source": "https://aguilar.house.gov/issues/"},
+   {"topic": "Democracy", "point": "Protect voting rights; helped write Electoral Count Act reforms.", "source": "https://aguilar.house.gov/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Voted for the Inflation Reduction Act and supports a higher minimum wage and estate tax.", "source": "https://www.ontheissues.org/CA/Pete_Aguilar.htm"},
+   "welfare": null,
+   "liberty": {"score": 20, "evidence": "Supports abortion rights and LGBTQ protections, backs assault weapons ban (abortion, LGBTQ, guns).", "source": "https://en.wikipedia.org/wiki/Pete_Aguilar"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Backs comprehensive reform with a path to citizenship and opposes deporting undocumented immigrants.", "source": "https://www.ontheissues.org/CA/Pete_Aguilar.htm"},
+   "foreign": {"score": 70, "evidence": "Voted to support Israel after the October 7 attacks.", "source": "https://en.wikipedia.org/wiki/Pete_Aguilar"},
+   "energy": {"score": 75, "evidence": "Backed the Inflation Reduction Act's clean energy investments and carbon regulation.", "source": "https://aguilar.house.gov/issues/"},
+   "tech": {"score": 40, "evidence": "Voted against a 2022 antitrust merger-fee package.", "source": "https://en.wikipedia.org/wiki/Pete_Aguilar"},
+   "education": {"score": 80, "evidence": "Opposes private and religious school vouchers and backs free community college.", "source": "https://www.ontheissues.org/CA/Pete_Aguilar.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Immigration and education scores are newly added from OnTheIssues. No campaign website was confirmed."
+ },
+ {
+  "id": "CA-33/stephanie-vargas",
+  "name": "Stephanie Vargas",
+  "party": "Republican",
+  "current_role": "Chief Deputy City Clerk of Colton",
+  "bio": "Stephanie M. Vargas is Chief Deputy City Clerk and an elections official for the City of Colton. Her campaign describes her as a lifelong resident of California's 33rd District. She has not held elected federal or state office.",
+  "website": "https://www.stephanievargas4congress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/stephanievargas4congress",
+   "facebook": "https://www.facebook.com/StephanieVargas4Congress/"
+  },
+  "platform": [
+   {"topic": "Public safety", "point": "Support police and fire services and address root causes of danger to communities.", "source": "https://www.stephanievargas4congress.com/"},
+   {"topic": "Children and families", "point": "Pursue legislation that helps children grow up healthy.", "source": "https://www.stephanievargas4congress.com/"},
+   {"topic": "Economy", "point": "Lower taxes and the cost of living, including energy and housing costs.", "source": "https://www.stephanievargas4congress.com/"},
+   {"topic": "Elections", "point": "Strengthen election integrity to restore public trust.", "source": "https://www.stephanievargas4congress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for lower taxes and reducing the cost of living.", "source": "https://www.stephanievargas4congress.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Makes support for law enforcement a top priority.", "source": "https://www.stephanievargas4congress.com/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 20, "evidence": "Supports school choice and parental rights.", "source": "https://www.stephanievargas4congress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/56f31b_bfd4c17aae4541dd9fde123328dde1bc~mv2.png",
+  "notes": "The energy score stays empty because the campaign site only mentions energy costs, not specific energy policy."
+ },
+ {
+  "id": "CA-34/jimmy-gomez",
+  "name": "Jimmy Gomez",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-34",
+  "bio": "Jimmy Gomez has represented California's 34th District in the U.S. House since 2017. He previously served in the California State Assembly (2012-2017), including as Majority Whip. Born in Orange County to immigrant parents, he holds degrees from UCLA and the Harvard Kennedy School and founded the Congressional Renters Caucus.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepJimmyGomez",
+   "instagram": "https://www.instagram.com/repjimmygomez",
+   "facebook": "https://www.facebook.com/RepJimmyGomez",
+   "youtube": "https://www.youtube.com/channel/UCOmm091WM6D01xTdzsWNvbQ"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Authored the Rent Relief Act, a refundable tax credit for rent-burdened households earning up to $100,000.", "source": "https://gomez.house.gov/issues/issue/?IssueID=14951"},
+   {"topic": "Homeownership", "point": "Backs down-payment aid for first-time buyers and incentives to build starter homes.", "source": "https://gomez.house.gov/issues/issue/?IssueID=14951"},
+   {"topic": "Office conversions", "point": "Proposed a federal tax incentive for turning vacant commercial buildings into affordable housing.", "source": "https://gomez.house.gov/issues/issue/?IssueID=14951"},
+   {"topic": "Health care", "point": "Supports a single-payer health system and member of the Medicare for All Caucus.", "source": "https://www.ontheissues.org/CA/Jimmy_Gomez.htm"},
+   {"topic": "Immigration", "point": "Supports a path to citizenship and opposes a border wall.", "source": "https://www.ontheissues.org/CA/Jimmy_Gomez.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Voted for the Inflation Reduction Act and supports higher taxes on the wealthy and a higher minimum wage.", "source": "https://www.ontheissues.org/CA/Jimmy_Gomez.htm"},
+   "welfare": {"score": 95, "evidence": "Supports single-payer health care and is a Medicare for All Caucus member.", "source": "https://www.ontheissues.org/CA/Jimmy_Gomez.htm"},
+   "liberty": {"score": 20, "evidence": "100% NARAL and HRC ratings (abortion, LGBTQ), backs reducing drug possession penalties (drugs) and universal background checks (guns).", "source": "https://www.ontheissues.org/CA/Jimmy_Gomez.htm"},
+   "security": null,
+   "immigration": {"score": 10, "evidence": "Supports a path to citizenship and higher visa caps, and opposes a border wall.", "source": "https://www.ontheissues.org/CA/Jimmy_Gomez.htm"},
+   "foreign": {"score": 75, "evidence": "Supports military aid to Israel and voted to back Israel after October 7.", "source": "https://en.wikipedia.org/wiki/Jimmy_Gomez"},
+   "energy": {"score": 80, "evidence": "LCV lifetime score of 97%, voted for the IRA and endorsed the Green New Deal.", "source": "https://en.wikipedia.org/wiki/Jimmy_Gomez"},
+   "tech": {"score": 35, "evidence": "Backed crypto-industry bills (GENIUS, CLARITY Acts) and was endorsed by a super PAC opposing AI safety rules.", "source": "https://en.wikipedia.org/wiki/Jimmy_Gomez"},
+   "education": {"score": 85, "evidence": "Opposes school vouchers and supports debt-free public college.", "source": "https://www.ontheissues.org/CA/Jimmy_Gomez.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "His foreign score is kept, though he has also opposed US military intervention in the Middle East and required congressional approval for Iran action. Campaign website could not be reached."
+ },
+ {
+  "id": "CA-34/angela-gonzales-torres",
+  "name": "Angela Gonzales-Torres",
+  "party": "Democratic",
+  "current_role": "Community organizer and academic counselor",
+  "bio": "Angela Gonzales-Torres is a community organizer from East Los Angeles who works as an academic counselor at Pasadena City College and directs an Altadena affordable housing program for Eaton Fire–affected tenants. She served as president of the Historic Highland Park Neighborhood Council from 2023 to 2025 and is a UCLA graduate. A democratic socialist endorsed by Justice Democrats, she placed second in the June 2026 primary.",
+  "website": "https://angela4congress.com",
+  "social": {
+   "x": "https://x.com/angela4ca",
+   "instagram": "https://www.instagram.com/angela4congress",
+   "facebook": "https://www.facebook.com/profile.php?id=61575225022271"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All.", "source": "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres"},
+   {"topic": "Immigration", "point": "Abolish ICE and create citizenship pathways for undocumented residents.", "source": "https://angela4congress.com"},
+   {"topic": "Workers", "point": "Backs basic-income pilots, universal paid sick leave and bargaining rights for gig workers.", "source": "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres"},
+   {"topic": "Education", "point": "Expand funding for education and youth programs.", "source": "https://angela4congress.com"},
+   {"topic": "Campaign finance", "point": "Rejects corporate PAC money, wants Citizens United overturned and a congressional stock-trading ban.", "source": "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres"},
+   {"topic": "Housing", "point": "Strengthen renter protections and prevent displacement.", "source": "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres"}
+  ],
+  "positions": {
+   "economy": {"score": 90, "evidence": "Backs basic-income pilots, equitable taxation and collective bargaining for gig workers.", "source": "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and universal paid sick leave.", "source": "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 5, "evidence": "Calls for abolishing ICE and citizenship pathways for undocumented residents.", "source": "https://angela4congress.com"},
+   "foreign": {"score": 20, "evidence": "Opposes U.S. military aid to Israel.", "source": "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres"},
+   "energy": {"score": 95, "evidence": "Supports the Green New Deal.", "source": "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Campaign pledges expanded public funding for education and youth programs.", "source": "https://angela4congress.com"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/06be24b2-0f79-4e8b-946c-e788fb89576f/fc0dd3b5-f7bb-4776-8e55-8f195ddd2460/fc0dd3b5-f7bb-4776-8e55-8f195ddd2460.jpg",
+  "notes": "Education score newly added from the campaign's funding pledge. Her Wikipedia article has no infobox image."
+ }
+]

@@ -1,0 +1,725 @@
+[
+ {
+  "id": "LA-5/antonio-wilson",
+  "name": "Antonio Wilson",
+  "party": "Democratic",
+  "current_role": "Contractor",
+  "bio": "Antonio Wilson is a contractor from Tallulah, Louisiana. He ran as a Democrat for Louisiana's 5th Congressional District in 2026; the state Democratic Party endorsed state Rep. Pat Moore in that race.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Coverage from February 2026 listed Wilson as disqualified or withdrawn from the earlier 5th District contest, so his status on the November ballot is unconfirmed. No campaign website or issue statements were found."
+ },
+ {
+  "id": "LA-6/chauna-banks",
+  "name": "Chauna Banks",
+  "party": "Democratic",
+  "current_role": "Former East Baton Rouge Metro Council member",
+  "bio": "Chauna Banks represented District 2 on the East Baton Rouge Metro Council from 2013 through 2024. She spent more than two decades in public education and community economic development work. She holds degrees in computer science and mental health counseling from Southern University.",
+  "website": "https://chaunabanksforcongress.vote/",
+  "social": {
+   "facebook": "https://www.facebook.com/ChaunaBanksForCongress",
+   "instagram": "https://www.instagram.com/chaunabanksforcongress/",
+   "tiktok": "https://www.tiktok.com/@chaunabanksforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Jobs",
+    "point": "Support small businesses, expand workforce training and attract well-paying jobs to the district.",
+    "source": "https://chaunabanksforcongress.vote/"
+   },
+   {
+    "topic": "Education",
+    "point": "Invest in schools, support teachers and build pathways to student success.",
+    "source": "https://chaunabanksforcongress.vote/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Protect and expand access to affordable, quality healthcare.",
+    "source": "https://chaunabanksforcongress.vote/"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Back community infrastructure and transportation projects.",
+    "source": "https://chaunabanksforcongress.vote/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Work toward safer neighborhoods and stronger local family support systems.",
+    "source": "https://chaunabanksforcongress.vote/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Campaigns on affordable housing and economic security for Louisiana families.",
+    "source": "https://www.brweeklypress.com/chauna-banks-enters-congressional-race-with-focus-on-opportunity-and-economic-security/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 65,
+    "evidence": "Campaign pledges to protect and expand access to affordable healthcare.",
+    "source": "https://chaunabanksforcongress.vote/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "Campaign calls for investing in schools and supporting teachers.",
+    "source": "https://chaunabanksforcongress.vote/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her campaign site lists priorities in general terms, so the two scores rest on limited detail."
+ },
+ {
+  "id": "LA-6/rick-edmonds",
+  "name": "Rick Edmonds",
+  "party": "Republican",
+  "current_role": "Louisiana State Senator, District 6",
+  "bio": "Rick Edmonds has served in the Louisiana State Senate since 2024, where he chairs the Senate Education Committee, after representing District 66 in the Louisiana House from 2016 to 2024. A Baptist minister born in Shreveport, he has served as a pastor and ran for Secretary of State in 2018. He lives in the Baton Rouge area.",
+  "website": "https://rickedmonds.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/RickEdmondsLA"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Protect jobs and make living in Louisiana more affordable.",
+    "source": "https://rickedmonds.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Strengthen Louisiana's energy sector.",
+    "source": "https://rickedmonds.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Support law enforcement.",
+    "source": "https://rickedmonds.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Reduce federal spending.",
+    "source": "https://rickedmonds.com/"
+   },
+   {
+    "topic": "Disasters",
+    "point": "Improve access to flood insurance and disaster relief and invest in infrastructure.",
+    "source": "https://rickedmonds.com/"
+   },
+   {
+    "topic": "Values",
+    "point": "Defend life and faith-based values in Congress.",
+    "source": "https://rickedmonds.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Campaign prioritizes reducing federal spending.",
+    "source": "https://rickedmonds.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 70,
+    "evidence": "On abortion, campaign pledges to defend life; no other liberty issues are addressed.",
+    "source": "https://rickedmonds.com/"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "Campaign lists supporting law enforcement as a priority.",
+    "source": "https://rickedmonds.com/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 80,
+    "evidence": "Baptist minister whose campaign pledges to defend faith-based values.",
+    "source": "https://rickedmonds.com/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "https://rickedmonds.com/wp-content/uploads/2026/02/Edmonds-Rick_075-edit-cropped.png",
+  "notes": "He first announced for the 5th District and moved to the 6th after the 2026 redistricting. His campaign site gives priorities without detailed policy."
+ },
+ {
+  "id": "LA-6/blake-miguez",
+  "name": "Blake Miguez",
+  "party": "Republican",
+  "current_role": "Louisiana State Senator, District 22",
+  "bio": "Blake Miguez has served in the Louisiana State Senate since 2024, after representing District 49 in the Louisiana House from 2015 to 2024, including four years as House Republican leader. Born in Lafayette, he is an attorney and oil and gas business owner, a former Youngsville chief administrative officer and a competitive marksman. He ran for U.S. Senate in 2025 before switching to a U.S. House bid.",
+  "website": "https://blakemiguez.com/",
+  "social": {
+   "x": "https://x.com/BlakeMiguezLA",
+   "instagram": "https://www.instagram.com/Blake.Miguez/",
+   "facebook": "https://www.facebook.com/blake.miguez/",
+   "youtube": "https://www.youtube.com/@BlakeMiguezforLouisiana"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Cut taxes and regulations so Louisiana keeps its workforce.",
+    "source": "https://blakemiguez.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Points to his state law requiring New Orleans to cooperate with immigration enforcement and deportation of violent offenders.",
+    "source": "https://blakemiguez.com/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Authored Louisiana's constitutional carry law and pledges to defend the Second Amendment.",
+    "source": "https://blakemiguez.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs Louisiana's energy industry as a core source of jobs.",
+    "source": "https://blakemiguez.com/"
+   },
+   {
+    "topic": "Corruption",
+    "point": "Cites his law allowing prosecution of corrupt politicians after they leave office.",
+    "source": "https://blakemiguez.com/"
+   },
+   {
+    "topic": "Affordability",
+    "point": "Lower household costs for power, insurance, groceries, housing and healthcare.",
+    "source": "https://blakemiguez.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Campaign calls for cutting taxes and regulations.",
+    "source": "https://blakemiguez.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "Backed Louisiana's 'Don't Say Gay' legislation (LGBTQ) while authoring constitutional carry (guns).",
+    "source": "https://en.wikipedia.org/wiki/Blake_Miguez"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Authored a law requiring New Orleans to comply with immigration enforcement and deportations.",
+    "source": "https://blakemiguez.com/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 25,
+    "evidence": "Oil and gas business owner who campaigns on supporting Louisiana's energy industry.",
+    "source": "https://blakemiguez.com/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://blakemiguez.com/wp-content/uploads/2026/09/blake-miguez-hero.jpg",
+  "notes": "Liberty lowered from 75 to 65 because his constitutional carry law points toward individual choice on guns. He moved his bid from the 5th to the 6th District after redistricting."
+ },
+ {
+  "id": "LA-6/pat-forbes",
+  "name": "Pat Forbes",
+  "party": "Democratic",
+  "current_role": "Former executive director, Louisiana Office of Community Development",
+  "bio": "Pat Forbes is an engineer who worked about 20 years in Louisiana state government, leading the Office of Community Development's disaster recovery programs. He served under Governors Kathleen Blanco, Bobby Jindal and John Bel Edwards, overseeing federal recovery funds after Katrina, Gustav and the 2016 floods.",
+  "website": "https://www.patforbes.com/",
+  "social": {
+   "x": "https://x.com/forbesforla",
+   "instagram": "https://www.instagram.com/forbesforlouisiana",
+   "facebook": "https://www.facebook.com/people/Forbes-For-Louisiana/61593868861430/",
+   "tiktok": "https://www.tiktok.com/@forbesforlouisiana"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "End tariffs he calls hidden consumer taxes and oppose a war with Iran to ease fuel prices.",
+    "source": "https://www.patforbes.com/about-pat"
+   },
+   {
+    "topic": "Storms",
+    "point": "Invest in flood risk reduction and home fortification to lower insurance premiums.",
+    "source": "https://www.patforbes.com/about-pat"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Protect Medicaid and marketplace coverage and keep rural hospitals open.",
+    "source": "https://www.patforbes.com/about-pat"
+   },
+   {
+    "topic": "Economic fairness",
+    "point": "Rewrite the tax code, ban stock trading by members of Congress, and restore Head Start, ACA and SNAP funding.",
+    "source": "https://www.patforbes.com/about-pat"
+   },
+   {
+    "topic": "Voting rights",
+    "point": "Restore the Voting Rights Act and move to independent redistricting.",
+    "source": "https://www.patforbes.com/about-pat"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Wants to rewrite a tax code he says gives the largest breaks to those who need them least, while also opposing tariffs.",
+    "source": "https://www.patforbes.com/about-pat"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Wants to protect Medicaid and restore funding for Head Start, the ACA and SNAP.",
+    "source": "https://www.patforbes.com/about-pat"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 35,
+    "evidence": "Criticizes the war with Iran, citing its effect on fuel and consumer prices.",
+    "source": "https://www.patforbes.com/about-pat"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/637d7a_8cc2a2562383408f9ba5064535a3f412~mv2.jpg",
+  "notes": "Endorsed by former Gov. John Bel Edwards."
+ },
+ {
+  "id": "LA-6/monique-appeaning",
+  "name": "Monique Appeaning",
+  "party": "Republican",
+  "current_role": "Former Baton Rouge assistant chief administrative officer",
+  "bio": "Monique Appeaning is a former assistant chief administrative officer for the City of Baton Rouge and a former budget analyst for the Louisiana National Guard. She reports more than 25 years in public service across executive and legislative roles and ran for the Louisiana House in 2023.",
+  "website": "https://www.appeaningforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/moniqueappeaningforcongress/",
+   "facebook": "https://www.facebook.com/moniqueappeaningforcongress",
+   "tiktok": "https://www.tiktok.com/@moniqueappeaningforcongr",
+   "youtube": "https://www.youtube.com/@appeaningforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Public safety",
+    "point": "Back law enforcement, fight violent crime and trafficking, and modernize the military.",
+    "source": "https://www.appeaningforcongress.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Cut taxes for working Americans and end taxes on tips, overtime and Social Security.",
+    "source": "https://www.appeaningforcongress.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Reduce government waste.",
+    "source": "https://www.appeaningforcongress.com/"
+   },
+   {
+    "topic": "Manufacturing",
+    "point": "Rebuild domestic manufacturing and support Louisiana agriculture and small businesses.",
+    "source": "https://www.appeaningforcongress.com/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Hold a visible presence across all parishes in the district and pursue congressional oversight.",
+    "source": "https://www.appeaningforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Calls for tax cuts, no tax on tips, overtime or Social Security, and less government waste.",
+    "source": "https://www.appeaningforcongress.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 55,
+    "evidence": "Describes herself as pro-life (abortion) and pro-Second Amendment (guns).",
+    "source": "https://www.appeaningforcongress.com/"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Campaign pledges to back law enforcement and combat violent crime and trafficking.",
+    "source": "https://www.appeaningforcongress.com/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/281b6c_82844882943543ba89c816b9c20959e5~mv2.png",
+  "notes": ""
+ },
+ {
+  "id": "LA-6/larry-davis",
+  "name": "Larry Davis III",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Larry Davis III is a Republican candidate for Louisiana's 6th Congressional District. News coverage describes him as active in Livingston Parish politics.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Qualifying coverage lists him as Larry Davis III. No campaign website or issue statements were found."
+ },
+ {
+  "id": "LA-6/michael-mebruer",
+  "name": "Michael Mebreur",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Michael Mebreur is a Republican candidate for Louisiana's 6th Congressional District. He first entered the race for the 5th District before the 2026 redistricting.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "WBRZ and the Louisiana Illuminator spell the surname Mebreur, while another outlet uses Mebruer; the ballot spelling is unconfirmed. No campaign website or issue statements were found."
+ },
+ {
+  "id": "LA-6/lindsay-garcia",
+  "name": "Lindsay \"Rubia\" Garcia",
+  "party": "Democratic",
+  "current_role": "Former teacher and attorney",
+  "bio": "Lindsay \"Rubia\" Garcia is a former teacher from Walker, Louisiana, and a graduate of Southern University's law school. She first ran in the 5th District and was lead plaintiff in litigation over Louisiana's election changes. The Louisiana Democratic Party endorsed her for the 6th District.",
+  "website": "https://www.rubiagarcia.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/rubiagarciaforcongress/",
+   "facebook": "https://www.facebook.com/RubiaForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Defend Medicaid expansion, oppose cuts that threaten rural hospitals, and expand telehealth.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   {
+    "topic": "Wages",
+    "point": "Raise the federal minimum wage and widen small-business access to SBA and CDFI lending.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Extend infrastructure funding with priority for rural roads, bridges and old drinking water systems.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Prioritize clean, renewable energy investment and require parish-level consent for carbon capture projects.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Fund early childhood education and offer loan forgiveness to teachers in high-need districts.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   {
+    "topic": "Voting rights",
+    "point": "Defend voting rights, prevent wrongful voter purges and restore checks on executive power.",
+    "source": "https://www.rubiagarcia.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Wants a higher federal minimum wage and public investment to attract industries.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Pledges to defend Medicaid expansion and fund early childhood education.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 70,
+    "evidence": "Says carbon capture cannot replace urgent investment in renewable energy and wants local consent for such projects.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Would require affordable low-cost broadband tiers in underserved areas.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Calls for teacher recruitment support, loan forgiveness for educators and robust early childhood funding.",
+    "source": "https://www.rubiagarcia.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/efbd32_98fef5bb792a4bee97d0a964f3246551~mv2.png",
+  "notes": "Input name lacked her nickname 'Rubia', which her campaign and filings use; confirm the exact ballot form."
+ },
+ {
+  "id": "ME-1/chellie-pingree",
+  "name": "Chellie Pingree",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for ME-1",
+  "bio": "Chellie Pingree has represented Maine's 1st Congressional District since 2009 and is seeking a tenth term. She previously served in the Maine Senate from 1992 to 2000, including as majority leader, and led the advocacy group Common Cause from 2003 to 2006. Born in Minneapolis, she has lived on North Haven Island since college.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/ChelliePingree",
+   "instagram": "https://www.instagram.com/chelliepingree",
+   "facebook": "https://www.facebook.com/ChelliePingree",
+   "youtube": "https://www.youtube.com/congresswomanpingree"
+  },
+  "platform": [
+   {
+    "topic": "Agriculture",
+    "point": "Support Maine farmers and lobstermen and reduce food waste and hunger.",
+    "source": "https://pingree.house.gov/issues/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Fight climate change and remove toxic chemicals from food and the environment.",
+    "source": "https://pingree.house.gov/issues/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Backs Medicare for All and works on the opioid epidemic and Lyme disease.",
+    "source": "https://en.wikipedia.org/wiki/Chellie_Pingree"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Protect access to abortion and reproductive health care.",
+    "source": "https://pingree.house.gov/issues/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Supports universal background checks and reinstating the federal assault weapons ban.",
+    "source": "https://en.wikipedia.org/wiki/Chellie_Pingree"
+   },
+   {
+    "topic": "Ukraine",
+    "point": "Supports continued military aid to Ukraine.",
+    "source": "https://pingree.house.gov/issues/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 90,
+    "evidence": "Cosponsors Medicare for All legislation.",
+    "source": "https://jayapal.house.gov/2025/04/29/jayapal-sanders-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/"
+   },
+   "liberty": {
+    "score": 45,
+    "evidence": "Opposes abortion restrictions but backs universal background checks and an assault weapons ban (guns).",
+    "source": "https://en.wikipedia.org/wiki/Chellie_Pingree"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Supports shrinking DHS warrantless stop authority from 100 to 25 miles of the border.",
+    "source": "https://en.wikipedia.org/wiki/Chellie_Pingree"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Opposed the SAVE Act and backs limits on border-zone warrantless stops.",
+    "source": "https://en.wikipedia.org/wiki/Chellie_Pingree"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Backs Ukraine aid but voted against military support for Israel and to withdraw forces from Afghanistan and Libya.",
+    "source": "https://en.wikipedia.org/wiki/Chellie_Pingree"
+   },
+   "energy": {
+    "score": 95,
+    "evidence": "Supports the Green New Deal and has urged a climate emergency declaration.",
+    "source": "https://en.wikipedia.org/wiki/Chellie_Pingree"
+   },
+   "tech": {
+    "score": 70,
+    "evidence": "Long-time net neutrality advocate; lists net neutrality and consumer protection among her issues.",
+    "source": "https://pingree.house.gov/issues/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Campaign website was not confirmed; official site is https://pingree.house.gov."
+ },
+ {
+  "id": "ME-1/ronald-russell",
+  "name": "Ron Russell",
+  "party": "Republican",
+  "current_role": "Retired Army officer and former defense contractor",
+  "bio": "Ron Russell is a West Point graduate who served 30 years in the U.S. Army, including as a Ranger and Special Forces officer, retiring in 2006. He then built a defense contracting firm and returned to Maine in 2021, living in Kennebunkport. He was the 2024 Republican nominee against Rep. Chellie Pingree.",
+  "website": "https://ronrussellforcongress.com/",
+  "social": {
+   "x": "https://x.com/RussellForHouse/",
+   "instagram": "https://www.instagram.com/ronrussellforcongress/",
+   "facebook": "https://www.facebook.com/RonRussellforCongress/"
+  },
+  "platform": [
+   {
+    "topic": "Public safety",
+    "point": "Reduce crime and support first responders.",
+    "source": "https://ronrussellforcongress.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Lists education as a core campaign priority.",
+    "source": "https://ronrussellforcongress.com/"
+   },
+   {
+    "topic": "Civility",
+    "point": "Promote civility, respect and productive debate in Congress.",
+    "source": "https://ronrussellforcongress.com/"
+   },
+   {
+    "topic": "Other issues",
+    "point": "Campaign issue list also covers immigration, taxes, energy and the economy, guns, and election integrity.",
+    "source": "https://ronrussellforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 65,
+    "evidence": "Campaign prioritizes reducing crime and supporting first responders.",
+    "source": "https://ronrussellforcongress.com/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The ballot may list him as Ronald Russell; he campaigns as Ron Russell. His issue pages name topics, but detailed positions could not be retrieved."
+ },
+ {
+  "id": "ME-2/matthew-dunlap",
+  "name": "Matthew Dunlap",
+  "party": "Democratic",
+  "current_role": "Maine State Auditor",
+  "bio": "Matthew Dunlap has been Maine State Auditor since 2022 and served as Maine Secretary of State from 2005 to 2011 and from 2013 to 2021. He represented Old Town in the Maine House from 1996 to 2004. Born in Bar Harbor, he worked jobs including textile worker, editor and radio host before holding office.",
+  "website": "https://www.mattdunlapforuscongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Protect Medicare, Medicaid and Social Security and move toward Medicare for All.",
+    "source": "https://www.mattdunlapforuscongress.com/issues"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Opposes current tariffs and backs universal childcare and more affordable housing.",
+    "source": "https://www.mattdunlapforuscongress.com/issues"
+   },
+   {
+    "topic": "Labor",
+    "point": "Supports the PRO Act and workers' right to organize.",
+    "source": "https://www.mattdunlapforuscongress.com/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Wants reproductive health care access treated as a constitutional right.",
+    "source": "https://www.mattdunlapforuscongress.com/issues"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Opposes war with Iran and wants stronger support for Ukraine.",
+    "source": "https://www.pressherald.com/2026/07/29/we-asked-paul-lepage-and-matt-dunlap-about-iran-trump-and-healthcare-heres-what-they-said/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Backs the PRO Act and living wages while opposing tariffs.",
+    "source": "https://www.mattdunlapforuscongress.com/issues"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Supports Medicare for All and universal childcare.",
+    "source": "https://www.mattdunlapforuscongress.com/issues"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Abortion: supports a woman's right to make her own reproductive health decisions; no stated positions found on other issues.",
+    "source": "https://www.mattdunlapforuscongress.com/issues"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 45,
+    "evidence": "Opposes war with Iran but faults weak support for Ukraine.",
+    "source": "https://www.pressherald.com/2026/07/29/we-asked-paul-lepage-and-matt-dunlap-about-iran-trump-and-healthcare-heres-what-they-said/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign site links to X, Bluesky, Facebook, Instagram and YouTube accounts, but the exact URLs could not be read. A gun-rights claim was dropped from the liberty evidence because neither his issues page nor Wikipedia supports it."
+ }
+]

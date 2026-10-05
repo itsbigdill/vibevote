@@ -1,0 +1,4338 @@
+[
+{
+"name": "Doug Jones",
+"race": "Governor",
+"state": "Alabama",
+"kind": "commons",
+"credit": "U.S. Senate Photographic Studio-Renee Bouchard, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Senator_Doug_Jones_official_photo_(1).jpg"
+},
+{
+"name": "Tommy Tuberville",
+"race": "Governor",
+"state": "Alabama",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jerry Carl",
+"race": "US House · District 1",
+"state": "Alabama",
+"kind": "commons",
+"credit": "Franmarie Metzler, House Creative Services, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Rep._Jerry_Carl_official_photo.jpg"
+},
+{
+"name": "Shomari Figures",
+"race": "US House · District 2",
+"state": "Alabama",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Rogers",
+"race": "US House · District 3",
+"state": "Alabama",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Robert Aderholt",
+"race": "US House · District 4",
+"state": "Alabama",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Dale Strong",
+"race": "US House · District 5",
+"state": "Alabama",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Gary Palmer",
+"race": "US House · District 6",
+"state": "Alabama",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Terri Sewell",
+"race": "US House · District 7",
+"state": "Alabama",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Barry Moore",
+"race": "US Senate",
+"state": "Alabama",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Dave Bronson",
+"race": "Governor",
+"state": "Alaska",
+"kind": "commons",
+"credit": "RadioKAOS, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Dave_bronson_(cropped).jpg"
+},
+{
+"name": "Nick Begich III",
+"race": "US House · At-large",
+"state": "Alaska",
+"kind": "commons",
+"credit": "House Creative Services, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Nick_Begich_III_119th_Congress.jpg"
+},
+{
+"name": "Dan S. Sullivan",
+"race": "US Senate",
+"state": "Alaska",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mary Peltola",
+"race": "US Senate",
+"state": "Alaska",
+"kind": "commons",
+"credit": "Leah Herman, House Creative Services, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Mary_Peltola_Congressional_Member_Portrait_(2).jpeg"
+},
+{
+"name": "Andy Biggs",
+"race": "Governor",
+"state": "Arizona",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Katie Hobbs",
+"race": "Governor",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Katie_Hobbs_2026.jpg"
+},
+{
+"name": "Amish Shah",
+"race": "US House · District 1",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Amish_Shah_by_Gage_Skidmore_2_(cropped).jpg"
+},
+{
+"name": "Jay Feely",
+"race": "US House · District 1",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Jay_Feely_2026_(cropped).jpg"
+},
+{
+"name": "Eli Crane",
+"race": "US House · District 2",
+"state": "Arizona",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jonathan Nez",
+"race": "US House · District 2",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Wikiuser159597, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Jonathan_Nez_(cropped).jpg"
+},
+{
+"name": "Yassamin Ansari",
+"race": "US House · District 3",
+"state": "Arizona",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Greg Stanton",
+"race": "US House · District 4",
+"state": "Arizona",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Zuhdi Jasser",
+"race": "US House · District 4",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:M._Zuhdi_Jasser_by_Gage_Skidmore_(cropped).jpg"
+},
+{
+"name": "Mark Lamb",
+"race": "US House · District 5",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Mark_Lamb_(55021585032)_(cropped).jpg"
+},
+{
+"name": "JoAnna Mendoza",
+"race": "US House · District 6",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Lance Cpl. Shaltiel Dominguez, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:JoAnna_Mendoza%2C_2013.jpg"
+},
+{
+"name": "Juan Ciscomani",
+"race": "US House · District 6",
+"state": "Arizona",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Adelita Grijalva",
+"race": "US House · District 7",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Damien Salas, Office of the Clerk U.S. House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Congresswoman_Adelita_Grijalva_Official_Portrait.jpg"
+},
+{
+"name": "Daniel Butierez",
+"race": "US House · District 7",
+"state": "Arizona",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Daniel_Butierez_by_Gage_Skidmore.jpg"
+},
+{
+"name": "Abraham Hamadeh",
+"race": "US House · District 8",
+"state": "Arizona",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Paul Gosar",
+"race": "US House · District 9",
+"state": "Arizona",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sarah Huckabee Sanders",
+"race": "Governor",
+"state": "Arkansas",
+"kind": "commons",
+"credit": "U.S. Embassy Jerusalem, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Governor_Sarah_Huckabee_Sanders_(cropped_3x4).jpg"
+},
+{
+"name": "Rick Crawford",
+"race": "US House · District 1",
+"state": "Arkansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chris Jones",
+"race": "US House · District 2",
+"state": "Arkansas",
+"kind": "commons",
+"credit": "BloodshotRollinRed, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Chris_Jones%2C_Arkansas_gubernatorial_candidate.jpg"
+},
+{
+"name": "French Hill",
+"race": "US House · District 2",
+"state": "Arkansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Steve Womack",
+"race": "US House · District 3",
+"state": "Arkansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bruce Westerman",
+"race": "US House · District 4",
+"state": "Arkansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Hallie Shoffner",
+"race": "US Senate",
+"state": "Arkansas",
+"kind": "commons",
+"credit": "Arkansas Agricultural Experiment Station, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Hallie_Shoffner_(cropped).jpg"
+},
+{
+"name": "Tom Cotton",
+"race": "US Senate",
+"state": "Arkansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Steve Hilton",
+"race": "Governor",
+"state": "California",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Steve_Hilton_(54233451292)_(cropped)_(cropped).jpg"
+},
+{
+"name": "Xavier Becerra",
+"race": "Governor",
+"state": "California",
+"kind": "commons",
+"credit": "United States Department of Health and Human Services, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:HHS_Xavier_Becerra.jpg"
+},
+{
+"name": "James Gallagher",
+"race": "US House · District 1",
+"state": "California",
+"kind": "commons",
+"credit": "U.S. House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:James_Gallagher%2C_official_portrait_(119th_Congress).jpg"
+},
+{
+"name": "Mark DeSaulnier",
+"race": "US House · District 10",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lateefah Simon",
+"race": "US House · District 12",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Adam Gray",
+"race": "US House · District 13",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Aisha Wahab",
+"race": "US House · District 14",
+"state": "California",
+"kind": "commons",
+"credit": "U.S. House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Aisha_Wahab%2C_official_portrait_-_2026_(cropped).jpg"
+},
+{
+"name": "Kevin Mullin",
+"race": "US House · District 15",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sam Liccardo",
+"race": "US House · District 16",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ro Khanna",
+"race": "US House · District 17",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Zoe Lofgren",
+"race": "US House · District 18",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jimmy Panetta",
+"race": "US House · District 19",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jared Huffman",
+"race": "US House · District 2",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Vince Fong",
+"race": "US House · District 20",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jim Costa",
+"race": "US House · District 21",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "David Valadao",
+"race": "US House · District 22",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jay Obernolte",
+"race": "US House · District 23",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Salud Carbajal",
+"race": "US House · District 24",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Raul Ruiz",
+"race": "US House · District 25",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jacqui Irwin",
+"race": "US House · District 26",
+"state": "California",
+"kind": "commons",
+"credit": "Master Sgt. David J. Loeffler, California National Guard, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:150302-Z-WQ610-_(16698067641)_(cropped).jpg"
+},
+{
+"name": "George Whitesides",
+"race": "US House · District 27",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Judy Chu",
+"race": "US House · District 28",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Luz Rivas",
+"race": "US House · District 29",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ami Bera",
+"race": "US House · District 3",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Laura Friedman",
+"race": "US House · District 30",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Gil Cisneros",
+"race": "US House · District 31",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brad Sherman",
+"race": "US House · District 32",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Pete Aguilar",
+"race": "US House · District 33",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jimmy Gomez",
+"race": "US House · District 34",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Norma Torres",
+"race": "US House · District 35",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ted Lieu",
+"race": "US House · District 36",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sydney Kamlager-Dove",
+"race": "US House · District 37",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mark Takano",
+"race": "US House · District 39",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Thompson",
+"race": "US House · District 4",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ken Calvert",
+"race": "US House · District 40",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Young Kim",
+"race": "US House · District 40",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Linda Sánchez",
+"race": "US House · District 41",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Robert Garcia",
+"race": "US House · District 42",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Maxine Waters",
+"race": "US House · District 43",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Nanette Barragán",
+"race": "US House · District 44",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Derek Tran",
+"race": "US House · District 45",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lou Correa",
+"race": "US House · District 46",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Dave Min",
+"race": "US House · District 47",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Levin",
+"race": "US House · District 49",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tom McClintock",
+"race": "US House · District 5",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Scott Peters",
+"race": "US House · District 50",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sara Jacobs",
+"race": "US House · District 51",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Juan Vargas",
+"race": "US House · District 52",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Kevin Kiley",
+"race": "US House · District 6",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Doris Matsui",
+"race": "US House · District 7",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "John Garamendi",
+"race": "US House · District 8",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Josh Harder",
+"race": "US House · District 9",
+"state": "California",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Victor Marx",
+"race": "Governor",
+"state": "Colorado",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Victor_Marx_(52125665777)_(cropped).jpg"
+},
+{
+"name": "Joe Neguse",
+"race": "US House · District 2",
+"state": "Colorado",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jeff Hurd",
+"race": "US House · District 3",
+"state": "Colorado",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Eileen Laubacher",
+"race": "US House · District 4",
+"state": "Colorado",
+"kind": "commons",
+"credit": "U.S. Navy, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Eileen_H._Laubacher_(3).jpg"
+},
+{
+"name": "Lauren Boebert",
+"race": "US House · District 4",
+"state": "Colorado",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jeff Crank",
+"race": "US House · District 5",
+"state": "Colorado",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jason Crow",
+"race": "US House · District 6",
+"state": "Colorado",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brittany Pettersen",
+"race": "US House · District 7",
+"state": "Colorado",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Gabe Evans",
+"race": "US House · District 8",
+"state": "Colorado",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Manny Rutinel",
+"race": "US House · District 8",
+"state": "Colorado",
+"kind": "commons",
+"credit": "Andy Bosselman, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Manny_Rutinel_at_2024_YIMBY_Denver_Legislative_Kickoff_(cropped).jpg"
+},
+{
+"name": "John Hickenlooper",
+"race": "US Senate",
+"state": "Colorado",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ned Lamont",
+"race": "Governor",
+"state": "Connecticut",
+"kind": "commons",
+"credit": "The Office of Governor Ned Lamont, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Governor_Ned_Lamont_of_Connecticut%2C_official_portrait.jpg"
+},
+{
+"name": "Luke Bronin",
+"race": "US House · District 1",
+"state": "Connecticut",
+"kind": "commons",
+"credit": "Dannel Malloy, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Luke_Bronin_(42831415392).jpg"
+},
+{
+"name": "Joe Courtney",
+"race": "US House · District 2",
+"state": "Connecticut",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Rosa DeLauro",
+"race": "US House · District 3",
+"state": "Connecticut",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jim Himes",
+"race": "US House · District 4",
+"state": "Connecticut",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michael Goldstein",
+"race": "US House · District 4",
+"state": "Connecticut",
+"kind": "commons",
+"credit": "Uviboewr, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:MichaelGoldsteinCT.png"
+},
+{
+"name": "Jahana Hayes",
+"race": "US House · District 5",
+"state": "Connecticut",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sarah McBride",
+"race": "US House · At-large",
+"state": "Delaware",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chris Coons",
+"race": "US Senate",
+"state": "Delaware",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Byron Donalds",
+"race": "Governor",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "David Jolly",
+"race": "Governor",
+"state": "Florida",
+"kind": "commons",
+"credit": "United States Congress, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:David_Jolly_(3x4).jpg"
+},
+{
+"name": "Jimmy Patronis",
+"race": "US House · District 1",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Maxwell Frost",
+"race": "US House · District 10",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Gus Bilirakis",
+"race": "US House · District 12",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Anna Paulina Luna",
+"race": "US House · District 13",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Kathy Castor",
+"race": "US House · District 14",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Beltran",
+"race": "US House · District 14",
+"state": "Florida",
+"kind": "commons",
+"credit": "Florida House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Mike_Beltran.jpg"
+},
+{
+"name": "Laurel Lee",
+"race": "US House · District 15",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Greg Steube",
+"race": "US House · District 17",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Scott Franklin",
+"race": "US House · District 18",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Debbie Wasserman Schultz",
+"race": "US House · District 20",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brian Mast",
+"race": "US House · District 21",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lois Frankel",
+"race": "US House · District 23",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Oliver Gilbert",
+"race": "US House · District 24",
+"state": "Florida",
+"kind": "commons",
+"credit": "DeveryR7, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:OG3_High_Res_headshot.jpg"
+},
+{
+"name": "Jared Moskowitz",
+"race": "US House · District 25",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mario Díaz-Balart",
+"race": "US House · District 26",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "María Elvira Salazar",
+"race": "US House · District 27",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Carlos Giménez",
+"race": "US House · District 28",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Kat Cammack",
+"race": "US House · District 3",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Aaron Bean",
+"race": "US House · District 4",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "John Rutherford",
+"race": "US House · District 5",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Randy Fine",
+"race": "US House · District 6",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bale Dalton",
+"race": "US House · District 7",
+"state": "Florida",
+"kind": "commons",
+"credit": "NASA, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Bale_Dalton.webp"
+},
+{
+"name": "Jennifer Jenkins",
+"race": "US House · District 8",
+"state": "Florida",
+"kind": "commons",
+"credit": "Brevard Public Schools, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Jennifer_Jenkins.jpg"
+},
+{
+"name": "Mike Haridopolos",
+"race": "US House · District 8",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Dan Green",
+"race": "US House · District 9",
+"state": "Florida",
+"kind": "commons",
+"credit": "JoAnne Sorrentino, U.S. Department of Defense, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Daniel_R._Green_(cropped).jpg"
+},
+{
+"name": "Darren Soto",
+"race": "US House · District 9",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Angie Nixon",
+"race": "US Senate · Special election",
+"state": "Florida",
+"kind": "commons",
+"credit": "Florida House of Representatives, Public domain (Florida public record, Fl, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Angie_Nixon_official_portrait.jpg"
+},
+{
+"name": "Ashley Moody",
+"race": "US Senate · Special election",
+"state": "Florida",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Keisha Lance Bottoms",
+"race": "Governor",
+"state": "Georgia",
+"kind": "commons",
+"credit": "Executive Office of the President of the United States, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Keisha_Lance_Bottoms.jpg"
+},
+{
+"name": "Rick Allen",
+"race": "US House · District 12",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Clay Fuller",
+"race": "US House · District 14",
+"state": "Georgia",
+"kind": "commons",
+"credit": "Brian Thorpe (U.S. House), Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Clay_Fuller%2C_official_portrait_(119th_Congress).jpg"
+},
+{
+"name": "Sanford Bishop",
+"race": "US House · District 2",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brian Jack",
+"race": "US House · District 3",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Hank Johnson",
+"race": "US House · District 4",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Nikema Williams",
+"race": "US House · District 5",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lucy McBath",
+"race": "US House · District 6",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Rich McCormick",
+"race": "US House · District 7",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Austin Scott",
+"race": "US House · District 8",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Andrew Clyde",
+"race": "US House · District 9",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jon Ossoff",
+"race": "US Senate",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Collins",
+"race": "US Senate",
+"state": "Georgia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ed Case",
+"race": "US House · District 1",
+"state": "Hawaii",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brenton Awa",
+"race": "US House · District 2",
+"state": "Hawaii",
+"kind": "commons",
+"credit": "Sgt. Julian Elliott-Drouin, U.S. Marine Corps, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Senator_Awa_Visits_Marine_Corps_Base_Hawaii_(8)_(cropped).jpg"
+},
+{
+"name": "Jill Tokuda",
+"race": "US House · District 2",
+"state": "Hawaii",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brad Little",
+"race": "Governor",
+"state": "Idaho",
+"kind": "commons",
+"credit": "Phil White/Office of the Governor of Idaho, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Brad_Little_official_photo.jpg"
+},
+{
+"name": "Russ Fulcher",
+"race": "US House · District 1",
+"state": "Idaho",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sarah Zabel",
+"race": "US House · District 1",
+"state": "Idaho",
+"kind": "commons",
+"credit": "Todd Maki, U.S. Air Force, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Maj._Gen._Sarah_Zabel_discusses_the_Air_Force_Journey_to_Agile_Software_Acquisition_(cropped).jpg"
+},
+{
+"name": "Mike Simpson",
+"race": "US House · District 2",
+"state": "Idaho",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jim Risch",
+"race": "US Senate",
+"state": "Idaho",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Darren Bailey",
+"race": "Governor",
+"state": "Illinois",
+"kind": "commons",
+"credit": "Cobiblair, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Darren_Bailey_at_a_2022_Campaign_Event_(cropped).jpg"
+},
+{
+"name": "JB Pritzker",
+"race": "Governor",
+"state": "Illinois",
+"kind": "commons",
+"credit": "Oscar Garza, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:JB_Pritzker_2026.jpg"
+},
+{
+"name": "Jonathan Jackson",
+"race": "US House · District 1",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brad Schneider",
+"race": "US House · District 10",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bill Foster",
+"race": "US House · District 11",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Bost",
+"race": "US House · District 12",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Nikki Budzinski",
+"race": "US House · District 13",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lauren Underwood",
+"race": "US House · District 14",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mary Miller",
+"race": "US House · District 15",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Darin LaHood",
+"race": "US House · District 16",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Eric Sorensen",
+"race": "US House · District 17",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Donna Miller",
+"race": "US House · District 2",
+"state": "Illinois",
+"kind": "commons",
+"credit": "MaylenePena, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Donna_Miller_in_front_of_Christmas_Tree.jpg"
+},
+{
+"name": "Delia Ramirez",
+"race": "US House · District 3",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Patty Garcia",
+"race": "US House · District 4",
+"state": "Illinois",
+"kind": "commons",
+"credit": "Paul Goyette, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Patty_Garcia_with_Alderman_Andre_Vasquez_at_Fundraiser_Cropped.jpg"
+},
+{
+"name": "Mike Quigley",
+"race": "US House · District 5",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sean Casten",
+"race": "US House · District 6",
+"state": "Illinois",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "La Shawn K. Ford",
+"race": "US House · District 7",
+"state": "Illinois",
+"kind": "commons",
+"credit": "US Department of Education, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:La_Shawn_K._Ford_on_11_December_2023_-_8_(cropped).jpg"
+},
+{
+"name": "Melissa Bean",
+"race": "US House · District 8",
+"state": "Illinois",
+"kind": "commons",
+"credit": "U.S. House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Melissa_Bean_Official.jpg"
+},
+{
+"name": "Juliana Stratton",
+"race": "US Senate",
+"state": "Illinois",
+"kind": "commons",
+"credit": "Sgt. Trenton Fouche, Illinois National Guard, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Juliana_Stratton_2023_(cropped).jpg"
+},
+{
+"name": "Frank Mrvan",
+"race": "US House · District 1",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Rudy Yakym III",
+"race": "US House · District 2",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Marlin Stutzman",
+"race": "US House · District 3",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jim Baird",
+"race": "US House · District 4",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "J. D. Ford",
+"race": "US House · District 5",
+"state": "Indiana",
+"kind": "commons",
+"credit": "Dominic (Wikimedia Commons user), CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:JD_Ford%2C_Indy_Pride_Parade_2023_(2)_(cropped).jpg"
+},
+{
+"name": "Victoria Spartz",
+"race": "US House · District 5",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jefferson Shreve",
+"race": "US House · District 6",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "André Carson",
+"race": "US House · District 7",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mark Messmer",
+"race": "US House · District 8",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Erin Houchin",
+"race": "US House · District 9",
+"state": "Indiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Rob Sand",
+"race": "Governor",
+"state": "Iowa",
+"kind": "commons",
+"credit": "Williamskt, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Rob_sand_IA.png"
+},
+{
+"name": "Zach Lahn",
+"race": "Governor",
+"state": "Iowa",
+"kind": "commons",
+"credit": "Aunger67 (cropped by Raydo), CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Zach_Lahn_IA_State_Fair_2026.jog_(cropped).jpg"
+},
+{
+"name": "Mariannette Miller-Meeks",
+"race": "US House · District 1",
+"state": "Iowa",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michael Bridgford",
+"race": "US House · District 1",
+"state": "Iowa",
+"kind": "commons",
+"credit": "Hinginmusic, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Michael_Bridgford_3.jpg"
+},
+{
+"name": "Zach Nunn",
+"race": "US House · District 3",
+"state": "Iowa",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ashley Hinson",
+"race": "US Senate",
+"state": "Iowa",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lauren Reinhold",
+"race": "US House · District 1",
+"state": "Kansas",
+"kind": "commons",
+"credit": "Catboy69, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Lauren_Reinhold_KS_1_Acceptance_Speech_Cropped_1.jpg"
+},
+{
+"name": "Tracey Mann",
+"race": "US House · District 1",
+"state": "Kansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Derek Schmidt",
+"race": "US House · District 2",
+"state": "Kansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sharice Davids",
+"race": "US House · District 3",
+"state": "Kansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ron Estes",
+"race": "US House · District 4",
+"state": "Kansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Adam Hamilton",
+"race": "US Senate",
+"state": "Kansas",
+"kind": "commons",
+"credit": "Working Preacher, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Adam_Hamilton_on_the_Courage_to_Preach_(cropped).png"
+},
+{
+"name": "Roger Marshall",
+"race": "US Senate",
+"state": "Kansas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "James Comer",
+"race": "US House · District 1",
+"state": "Kentucky",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brett Guthrie",
+"race": "US House · District 2",
+"state": "Kentucky",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Maria Rodriguez",
+"race": "US House · District 3",
+"state": "Kentucky",
+"kind": "commons",
+"credit": "William R. Wilks II, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Maria_Rodriguez.png"
+},
+{
+"name": "Morgan McGarvey",
+"race": "US House · District 3",
+"state": "Kentucky",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ed Gallrein",
+"race": "US House · District 4",
+"state": "Kentucky",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Ed_Gallrein_(55505179851)_(cropped).jpg"
+},
+{
+"name": "Hal Rogers",
+"race": "US House · District 5",
+"state": "Kentucky",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ralph Alvarado",
+"race": "US House · District 6",
+"state": "Kentucky",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Ralph_Alvarado_by_Gage_Skidmore.jpg"
+},
+{
+"name": "Andy Barr",
+"race": "US Senate",
+"state": "Kentucky",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Charles Booker",
+"race": "US Senate",
+"state": "Kentucky",
+"kind": "commons",
+"credit": "Breadwin, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Charles_solar_panels_(cropped).jpg"
+},
+{
+"name": "Steve Scalise",
+"race": "US House · District 1",
+"state": "Louisiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Troy Carter",
+"race": "US House · District 2",
+"state": "Louisiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Clay Higgins",
+"race": "US House · District 3",
+"state": "Louisiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Johnson",
+"race": "US House · District 4",
+"state": "Louisiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michael Echols",
+"race": "US House · District 5",
+"state": "Louisiana",
+"kind": "commons",
+"credit": "Timothy Holdiness, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Michael_Echols.jpg"
+},
+{
+"name": "Pat Moore",
+"race": "US House · District 5",
+"state": "Louisiana",
+"kind": "commons",
+"credit": "Timothy Holdiness, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Pat_Moore.jpg"
+},
+{
+"name": "Stewart Cathey Jr.",
+"race": "US House · District 5",
+"state": "Louisiana",
+"kind": "commons",
+"credit": "Timothy Holdiness, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Stewart_Cathey_Jr.jpg"
+},
+{
+"name": "Julia Letlow",
+"race": "US Senate",
+"state": "Louisiana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bobby Charles",
+"race": "Governor",
+"state": "Maine",
+"kind": "commons",
+"credit": "Hoveros, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Robert_Charles.jpg"
+},
+{
+"name": "Hannah Pingree",
+"race": "Governor",
+"state": "Maine",
+"kind": "commons",
+"credit": "Office of U.S. Representative Chellie Pingree, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Hannah_Pingree_(cropped).jpg"
+},
+{
+"name": "Chellie Pingree",
+"race": "US House · District 1",
+"state": "Maine",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Paul LePage",
+"race": "US House · District 2",
+"state": "Maine",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Paul_LePage_by_Gage_Skidmore.jpg"
+},
+{
+"name": "Susan Collins",
+"race": "US Senate",
+"state": "Maine",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Troy Jackson",
+"race": "US Senate",
+"state": "Maine",
+"kind": "commons",
+"credit": "ArenLeBrun, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Troy_Jackson_in_the_Senate_Chamber_(cropped).jpg"
+},
+{
+"name": "Dan Cox",
+"race": "Governor",
+"state": "Maryland",
+"kind": "commons",
+"credit": "Joe Andrucyk / MDGovpics, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Dan_Cox_Mar2020_(49617550556).jpg"
+},
+{
+"name": "Wes Moore",
+"race": "Governor",
+"state": "Maryland",
+"kind": "commons",
+"credit": "Maryland State Government, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Wes_Moore_Official_Governor_Portrait.jpg"
+},
+{
+"name": "Andy Harris",
+"race": "US House · District 1",
+"state": "Maryland",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Johnny Olszewski Jr.",
+"race": "US House · District 2",
+"state": "Maryland",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sarah Elfreth",
+"race": "US House · District 3",
+"state": "Maryland",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Glenn Ivey",
+"race": "US House · District 4",
+"state": "Maryland",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Adrian Boafo",
+"race": "US House · District 5",
+"state": "Maryland",
+"kind": "commons",
+"credit": "Joe Andrucyk / Maryland GovPics, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Adrian_Boafo_Feb2023.jpg"
+},
+{
+"name": "April McClain Delaney",
+"race": "US House · District 6",
+"state": "Maryland",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Robin Ficker",
+"race": "US House · District 6",
+"state": "Maryland",
+"kind": "commons",
+"credit": "Maryland GovPics, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Robin_Ficker_(35598540490).jpg"
+},
+{
+"name": "Kweisi Mfume",
+"race": "US House · District 7",
+"state": "Maryland",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jamie Raskin",
+"race": "US House · District 8",
+"state": "Maryland",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Richard E. Neal",
+"race": "US House · District 1",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jim McGovern",
+"race": "US House · District 2",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lori Trahan",
+"race": "US House · District 3",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jake Auchincloss",
+"race": "US House · District 4",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Katherine Clark",
+"race": "US House · District 5",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ayanna Pressley",
+"race": "US House · District 7",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Stephen Lynch",
+"race": "US House · District 8",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bill Keating",
+"race": "US House · District 9",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ed Markey",
+"race": "US Senate",
+"state": "Massachusetts",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jocelyn Benson",
+"race": "Governor",
+"state": "Michigan",
+"kind": "commons",
+"credit": "John F. Martin (JFM Photo 73), CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:SOS_Jocelyn_Benson_web.jpg"
+},
+{
+"name": "John James",
+"race": "Governor",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jack Bergman",
+"race": "US House · District 1",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jeremy Moss",
+"race": "US House · District 11",
+"state": "Michigan",
+"kind": "commons",
+"credit": "Anmanwell, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Michigan_Senator_Jeremy_Moss_2019.jpg"
+},
+{
+"name": "Rashida Tlaib",
+"race": "US House · District 12",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "John Moolenaar",
+"race": "US House · District 2",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Hillary Scholten",
+"race": "US House · District 3",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bill Huizenga",
+"race": "US House · District 4",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tim Walberg",
+"race": "US House · District 5",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Debbie Dingell",
+"race": "US House · District 6",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tom Barrett",
+"race": "US House · District 7",
+"state": "Michigan",
+"kind": "commons",
+"credit": "Brian Thorpe, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Tom_Barrett%2C_official_portrait_(119th_Congress).jpg"
+},
+{
+"name": "William Lawrence",
+"race": "US House · District 7",
+"state": "Michigan",
+"kind": "commons",
+"credit": "Sabio117, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:William_Lawrence_2026.jpg"
+},
+{
+"name": "Kristen McDonald Rivet",
+"race": "US House · District 8",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lisa McClain",
+"race": "US House · District 9",
+"state": "Michigan",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Abdul El-Sayed",
+"race": "US Senate",
+"state": "Michigan",
+"kind": "commons",
+"credit": "Kenneth C. Zirkel, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Abdul_El-Sayed.jpg"
+},
+{
+"name": "Mike Rogers",
+"race": "US Senate",
+"state": "Michigan",
+"kind": "commons",
+"credit": "United States Congress, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Mike-Rogers-Head-Shot-2_(3x4_cropped).jpg"
+},
+{
+"name": "Amy Klobuchar",
+"race": "Governor",
+"state": "Minnesota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brad Finstad",
+"race": "US House · District 1",
+"state": "Minnesota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Eric Pratt",
+"race": "US House · District 2",
+"state": "Minnesota",
+"kind": "commons",
+"credit": "Minnesota Senate Republican Caucus, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Minnesota_State_Senator_Eric_Pratt.jpg"
+},
+{
+"name": "Matt Little",
+"race": "US House · District 2",
+"state": "Minnesota",
+"kind": "commons",
+"credit": "Travellers & Tinkers, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:2026Little.jpg"
+},
+{
+"name": "Kelly Morrison",
+"race": "US House · District 3",
+"state": "Minnesota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Betty McCollum",
+"race": "US House · District 4",
+"state": "Minnesota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ilhan Omar",
+"race": "US House · District 5",
+"state": "Minnesota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tom Emmer",
+"race": "US House · District 6",
+"state": "Minnesota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michelle Fischbach",
+"race": "US House · District 7",
+"state": "Minnesota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Pete Stauber",
+"race": "US House · District 8",
+"state": "Minnesota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michele Tafoya",
+"race": "US Senate",
+"state": "Minnesota",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:MicheleTafoya2023.jpg"
+},
+{
+"name": "Peggy Flanagan",
+"race": "US Senate",
+"state": "Minnesota",
+"kind": "commons",
+"credit": "Travellers & Tinkers, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:2026PeggyFlanagan_(newcropped).jpg"
+},
+{
+"name": "Trent Kelly",
+"race": "US House · District 1",
+"state": "Mississippi",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bennie Thompson",
+"race": "US House · District 2",
+"state": "Mississippi",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michael Guest",
+"race": "US House · District 3",
+"state": "Mississippi",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jeffrey Hulum III",
+"race": "US House · District 4",
+"state": "Mississippi",
+"kind": "commons",
+"credit": "Joe Andrucyk (Maryland GovPics), CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Rep._Jeffrey_Hulum_III_(cropped).jpg"
+},
+{
+"name": "Mike Ezell",
+"race": "US House · District 4",
+"state": "Mississippi",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Cindy Hyde-Smith",
+"race": "US Senate",
+"state": "Mississippi",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Wesley Bell",
+"race": "US House · District 1",
+"state": "Missouri",
+"kind": "commons",
+"credit": "Brian Thorpe, U.S. House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Wesley_Bell%2C_official_portrait_(119th_Congress).jpg"
+},
+{
+"name": "Ann Wagner",
+"race": "US House · District 2",
+"state": "Missouri",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bob Onder",
+"race": "US House · District 3",
+"state": "Missouri",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mark Alford",
+"race": "US House · District 4",
+"state": "Missouri",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Emanuel Cleaver",
+"race": "US House · District 5",
+"state": "Missouri",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chris Stigall",
+"race": "US House · District 6",
+"state": "Missouri",
+"kind": "commons",
+"credit": "Jared Hart, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Chris_Stigall_2017_(cropped).jpg"
+},
+{
+"name": "Eric Burlison",
+"race": "US House · District 7",
+"state": "Missouri",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jason Smith",
+"race": "US House · District 8",
+"state": "Missouri",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sam Forstag",
+"race": "US House · District 1",
+"state": "Montana",
+"kind": "commons",
+"credit": "Conorhogan16, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Sam_Forstag_Portrait_(cropped).jpg"
+},
+{
+"name": "Troy Downing",
+"race": "US House · District 2",
+"state": "Montana",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Alani Bankhead",
+"race": "US Senate",
+"state": "Montana",
+"kind": "commons",
+"credit": "Technical Sergeant Nicholas Brown, U.S. Air Force, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Alani_Bankhead_USAF_2021.png"
+},
+{
+"name": "Kurt Alme",
+"race": "US Senate",
+"state": "Montana",
+"kind": "commons",
+"credit": "United States Department of Justice, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Kurt_G._Alme_official_photo.jpg"
+},
+{
+"name": "Seth Bodnar",
+"race": "US Senate",
+"state": "Montana",
+"kind": "commons",
+"credit": "Todd Goodrich (University of Montana), CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Seth_Bodnar_-_President_at_University_of_Montana_(cropped).jpg"
+},
+{
+"name": "Brett Lindstrom",
+"race": "Governor",
+"state": "Nebraska",
+"kind": "commons",
+"credit": "Matt Johnson, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Brett_Lindstrom.jpg"
+},
+{
+"name": "Jim Pillen",
+"race": "Governor",
+"state": "Nebraska",
+"kind": "commons",
+"credit": "Polly Irungu (Maryland GovPics), CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Jim_Pillen_SelectUSA_(55251574792).jpg"
+},
+{
+"name": "Chris Backemeyer",
+"race": "US House · District 1",
+"state": "Nebraska",
+"kind": "commons",
+"credit": "US Department of State, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Christopher_Backemyer_DOS_(cropped).jpg"
+},
+{
+"name": "Mike Flood",
+"race": "US House · District 1",
+"state": "Nebraska",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Adrian Smith",
+"race": "US House · District 3",
+"state": "Nebraska",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Pete Ricketts",
+"race": "US Senate",
+"state": "Nebraska",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Aaron Ford",
+"race": "Governor",
+"state": "Nevada",
+"kind": "commons",
+"credit": "United States Mission to Geneva, U.S. Department of State, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Nevada_Attorney_General_Aaron_Ford_addresses_the_United_Nations_Human_Rights_Committee%2C_October_17-18%2C_2023_1_(cropped).jpg"
+},
+{
+"name": "Joe Lombardo",
+"race": "Governor",
+"state": "Nevada",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Joe_Lombardo_(55512849370)(cropped).jpg"
+},
+{
+"name": "Dina Titus",
+"race": "US House · District 1",
+"state": "Nevada",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Martin O'Donnell",
+"race": "US House · District 3",
+"state": "Nevada",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Marty_O%27Donnell_by_Gage_Skidmore.jpg"
+},
+{
+"name": "Susie Lee",
+"race": "US House · District 3",
+"state": "Nevada",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Steven Horsford",
+"race": "US House · District 4",
+"state": "Nevada",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Kelly Ayotte",
+"race": "Governor",
+"state": "New Hampshire",
+"kind": "commons",
+"credit": "Sgt. Kelly Boyer, U.S. Army National Guard, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Governor_Kelly_Ayotte_receives_a_briefing_from_National_Guard_cyber_operators_(cropped)_(cropped).jpg"
+},
+{
+"name": "Lily Tang Williams",
+"race": "US House · District 2",
+"state": "New Hampshire",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Lily_Tang_Williams_by_Gage_Skidmore.jpg"
+},
+{
+"name": "Maggie Goodlander",
+"race": "US House · District 2",
+"state": "New Hampshire",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chris Pappas",
+"race": "US Senate",
+"state": "New Hampshire",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "John E. Sununu",
+"race": "US Senate",
+"state": "New Hampshire",
+"kind": "commons",
+"credit": "Office of U.S. Senator John E. Sununu, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:John_E._Sununu.jpg"
+},
+{
+"name": "Donald Norcross",
+"race": "US House · District 1",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "LaMonica McIver",
+"race": "US House · District 10",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Analilia Mejia",
+"race": "US House · District 11",
+"state": "New Jersey",
+"kind": "commons",
+"credit": "U.S. House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Analilia_Mejia%2C_official_portrait_(119th_Congress)_(cropped).jpg"
+},
+{
+"name": "Jeff Van Drew",
+"race": "US House · District 2",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Herb Conaway",
+"race": "US House · District 3",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chris Smith",
+"race": "US House · District 4",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Josh Gottheimer",
+"race": "US House · District 5",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Frank Pallone Jr.",
+"race": "US House · District 6",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Thomas Kean Jr.",
+"race": "US House · District 7",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Rob Menendez",
+"race": "US House · District 8",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Nellie Pou",
+"race": "US House · District 9",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Cory Booker",
+"race": "US Senate",
+"state": "New Jersey",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Deb Haaland",
+"race": "Governor",
+"state": "New Mexico",
+"kind": "commons",
+"credit": "U.S. Department of the Interior, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Secretary_Deb_Haaland%2C_official_headshot.jpg"
+},
+{
+"name": "Melanie Stansbury",
+"race": "US House · District 1",
+"state": "New Mexico",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Gabe Vasquez",
+"race": "US House · District 2",
+"state": "New Mexico",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Teresa Leger Fernández",
+"race": "US House · District 3",
+"state": "New Mexico",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ben Ray Luján",
+"race": "US Senate",
+"state": "New Mexico",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bruce Blakeman",
+"race": "Governor",
+"state": "New York",
+"kind": "commons",
+"credit": "Arthur Raslich, Nassau County, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Blakeman_Profile_Picture_(cropped_2).jpg"
+},
+{
+"name": "Kathy Hochul",
+"race": "Governor",
+"state": "New York",
+"kind": "commons",
+"credit": "Marc A. Hermann / MTA, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Governor_Hochul_Announces_Five-Point_Plan_to_Protect_New_Yorkers_on_the_Subway_(cropped_4).jpg"
+},
+{
+"name": "Nick LaLota",
+"race": "US House · District 1",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brad Lander",
+"race": "US House · District 10",
+"state": "New York",
+"kind": "commons",
+"credit": "Tessa Bury, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Brad_Lander.jpg"
+},
+{
+"name": "Nicole Malliotakis",
+"race": "US House · District 11",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Micah Lasher",
+"race": "US House · District 12",
+"state": "New York",
+"kind": "commons",
+"credit": "Lance Cpl. Steven Wells, U.S. Marine Corps, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:FWNY25%3B_U.S._Marines_and_Sailors_hold_wreath_laying_ceremony_Micah_Lasher_(cropped).jpg"
+},
+{
+"name": "Alexandria Ocasio-Cortez",
+"race": "US House · District 14",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ritchie Torres",
+"race": "US House · District 15",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "George Latimer",
+"race": "US House · District 16",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Cait Conley",
+"race": "US House · District 17",
+"state": "New York",
+"kind": "commons",
+"credit": "Tia Dufour, U.S. Department of Homeland Security, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:DHS_Secretary_Alejandro_Mayorkas_Gives_Opening_Remarks_During_CISA_National_Election_Exercise_in_Arlington%2C_Virginia_on_22_August_2024_-_6.jpg"
+},
+{
+"name": "Mike Lawler",
+"race": "US House · District 17",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Pat Ryan",
+"race": "US House · District 18",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Josh Riley",
+"race": "US House · District 19",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Peter Oberacker",
+"race": "US House · District 19",
+"state": "New York",
+"kind": "commons",
+"credit": "NY Senate Photo, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:(05-12-25)_NYS_Senator_Peter_Oberacker_(cropped).jpg"
+},
+{
+"name": "Andrew Garbarino",
+"race": "US House · District 2",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Paul Tonko",
+"race": "US House · District 20",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "John Mannion",
+"race": "US House · District 22",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Nick Langworthy",
+"race": "US House · District 23",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Claudia Tenney",
+"race": "US House · District 24",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Joseph Morelle",
+"race": "US House · District 25",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tim Kennedy",
+"race": "US House · District 26",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike LiPetri",
+"race": "US House · District 3",
+"state": "New York",
+"kind": "commons",
+"credit": "ComplexRational, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Mike_LiPetri_(2024_Italian_Heritage_Street_Festival)_(cropped).jpg"
+},
+{
+"name": "Tom Suozzi",
+"race": "US House · District 3",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Laura Gillen",
+"race": "US House · District 4",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Gregory Meeks",
+"race": "US House · District 5",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Grace Meng",
+"race": "US House · District 6",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Claire Valdez",
+"race": "US House · District 7",
+"state": "New York",
+"kind": "commons",
+"credit": "Metropolitan Transportation Authority, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Queens_Bus_Network_Redesign_Claire_Valdez_(cropped).jpg"
+},
+{
+"name": "Hakeem Jeffries",
+"race": "US House · District 8",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Yvette Clarke",
+"race": "US House · District 9",
+"state": "New York",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Don Davis",
+"race": "US House · District 1",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Laurie Buckhout",
+"race": "US House · District 1",
+"state": "North Carolina",
+"kind": "commons",
+"credit": "U.S. Department of Defense, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Laurie_Buckhout.jpg"
+},
+{
+"name": "Pat Harrigan",
+"race": "US House · District 10",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Alma Adams",
+"race": "US House · District 12",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brad Knott",
+"race": "US House · District 13",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tim Moore",
+"race": "US House · District 14",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Deborah Ross",
+"race": "US House · District 2",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Greg Murphy",
+"race": "US House · District 3",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Valerie Foushee",
+"race": "US House · District 4",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Virginia Foxx",
+"race": "US House · District 5",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Addison McDowell",
+"race": "US House · District 6",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "David Rouzer",
+"race": "US House · District 7",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mark Harris",
+"race": "US House · District 8",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Richard Hudson",
+"race": "US House · District 9",
+"state": "North Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michael Whatley",
+"race": "US Senate",
+"state": "North Carolina",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Michael_Whatley_(54670563614)_(cropped).jpg"
+},
+{
+"name": "Roy Cooper",
+"race": "US Senate",
+"state": "North Carolina",
+"kind": "commons",
+"credit": "NCDOTcommunications, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Gov._Cooper_Cropped.jpg"
+},
+{
+"name": "Julie Fedorchak",
+"race": "US House · At-large",
+"state": "North Dakota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Amy Acton",
+"race": "Governor",
+"state": "Ohio",
+"kind": "commons",
+"credit": "Senior Airman Gwendalyn Smith, U.S. Air National Guard, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Amy_Acton_(cropped).jpg"
+},
+{
+"name": "Vivek Ramaswamy",
+"race": "Governor",
+"state": "Ohio",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Vivek_Ramaswamy_(55241367373)_(cropped).jpg"
+},
+{
+"name": "Greg Landsman",
+"race": "US House · District 1",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Turner",
+"race": "US House · District 10",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Shontel Brown",
+"race": "US House · District 11",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Troy Balderson",
+"race": "US House · District 12",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Emilia Sykes",
+"race": "US House · District 13",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "David Joyce",
+"race": "US House · District 14",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Carey",
+"race": "US House · District 15",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "David Taylor",
+"race": "US House · District 2",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Joyce Beatty",
+"race": "US House · District 3",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jim Jordan",
+"race": "US House · District 4",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bob Latta",
+"race": "US House · District 5",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michael Rulli",
+"race": "US House · District 6",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Max Miller",
+"race": "US House · District 7",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Warren Davidson",
+"race": "US House · District 8",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Derek Merrin",
+"race": "US House · District 9",
+"state": "Ohio",
+"kind": "commons",
+"credit": "SchOg, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Derek_Merrin_jpeg_(cropped).jpg"
+},
+{
+"name": "Marcy Kaptur",
+"race": "US House · District 9",
+"state": "Ohio",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jon Husted",
+"race": "US Senate · Special election",
+"state": "Ohio",
+"kind": "commons",
+"credit": "John Shinkle, U.S. Senate Photographic Services, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Sen._Jon_Husted_official_portrait%2C_119th_Congress_(cropped).jpg"
+},
+{
+"name": "Sherrod Brown",
+"race": "US Senate · Special election",
+"state": "Ohio",
+"kind": "commons",
+"credit": "U.S. Senate Photographic Services; Rebecca Hammel, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Sherrod_Brown_117th_Congress_(2)_(cropped).jpg"
+},
+{
+"name": "Josh Brecheen",
+"race": "US House · District 2",
+"state": "Oklahoma",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Frank Lucas",
+"race": "US House · District 3",
+"state": "Oklahoma",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tom Cole",
+"race": "US House · District 4",
+"state": "Oklahoma",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Stephanie Bice",
+"race": "US House · District 5",
+"state": "Oklahoma",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Kevin Hern",
+"race": "US Senate",
+"state": "Oklahoma",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Christine Drazan",
+"race": "Governor",
+"state": "Oregon",
+"kind": "commons",
+"credit": "Oregon State University, CC BY-SA 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Christine_Drazan_in_August_2022_(cropped).jpg"
+},
+{
+"name": "Tina Kotek",
+"race": "Governor",
+"state": "Oregon",
+"kind": "commons",
+"credit": "Oregon National Guard, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:2025_Tina_Kotek_(cropped).jpg"
+},
+{
+"name": "Suzanne Bonamici",
+"race": "US House · District 1",
+"state": "Oregon",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Cliff Bentz",
+"race": "US House · District 2",
+"state": "Oregon",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Maxine Dexter",
+"race": "US House · District 3",
+"state": "Oregon",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Val Hoyle",
+"race": "US House · District 4",
+"state": "Oregon",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Janelle Bynum",
+"race": "US House · District 5",
+"state": "Oregon",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Andrea Salinas",
+"race": "US House · District 6",
+"state": "Oregon",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "David Brock Smith",
+"race": "US Senate",
+"state": "Oregon",
+"kind": "commons",
+"credit": "Gary Halvorson, Oregon State Archives, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:David_Brock_Smith.jpg"
+},
+{
+"name": "Jeff Merkley",
+"race": "US Senate",
+"state": "Oregon",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Josh Shapiro",
+"race": "Governor",
+"state": "Pennsylvania",
+"kind": "commons",
+"credit": "Maryland GovPics, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Gov._Shapiro.jpg"
+},
+{
+"name": "Brian Fitzpatrick",
+"race": "US House · District 1",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Scott Perry",
+"race": "US House · District 10",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lloyd Smucker",
+"race": "US House · District 11",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Summer Lee",
+"race": "US House · District 12",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "John Joyce",
+"race": "US House · District 13",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Guy Reschenthaler",
+"race": "US House · District 14",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Glenn Thompson",
+"race": "US House · District 15",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Kelly",
+"race": "US House · District 16",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chris Deluzio",
+"race": "US House · District 17",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brendan Boyle",
+"race": "US House · District 2",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Madeleine Dean",
+"race": "US House · District 4",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mary Gay Scanlon",
+"race": "US House · District 5",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chrissy Houlahan",
+"race": "US House · District 6",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ryan Mackenzie",
+"race": "US House · District 7",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Paige Cognetti",
+"race": "US House · District 8",
+"state": "Pennsylvania",
+"kind": "commons",
+"credit": "US Department of Labor (photo by Liz Roll), CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Paige_Cognetti_(52165104986)_(3x4a).jpg"
+},
+{
+"name": "Rob Bresnahan",
+"race": "US House · District 8",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Dan Meuser",
+"race": "US House · District 9",
+"state": "Pennsylvania",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Helena Foulkes",
+"race": "Governor",
+"state": "Rhode Island",
+"kind": "commons",
+"credit": "Pablo Corradi/DigitasLBi, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:HelenaFoulkes_CROP.jpg"
+},
+{
+"name": "Gabe Amo",
+"race": "US House · District 1",
+"state": "Rhode Island",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Seth Magaziner",
+"race": "US House · District 2",
+"state": "Rhode Island",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jack Reed",
+"race": "US Senate",
+"state": "Rhode Island",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Nancy Lacore",
+"race": "US House · District 1",
+"state": "South Carolina",
+"kind": "commons",
+"credit": "U.S. Navy, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:VADM_Nancy_S._Lacore_(2).jpg"
+},
+{
+"name": "Joe Wilson",
+"race": "US House · District 2",
+"state": "South Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Sheri Biggs",
+"race": "US House · District 3",
+"state": "South Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "William Timmons",
+"race": "US House · District 4",
+"state": "South Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jim Clyburn",
+"race": "US House · District 6",
+"state": "South Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Russell Fry",
+"race": "US House · District 7",
+"state": "South Carolina",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Annie Andrews",
+"race": "US Senate",
+"state": "South Carolina",
+"kind": "commons",
+"credit": "Stimpus1, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Annie_Andrews_Greenville_(cropped_2).jpg"
+},
+{
+"name": "Darline Graham",
+"race": "US Senate",
+"state": "South Carolina",
+"kind": "commons",
+"credit": "Rosa Pineda, United States Senate, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Darline_Graham%2C_member_of_the_United_States_Senate_from_South_Carolina_(2026).jpg"
+},
+{
+"name": "Larry Rhoden",
+"race": "Governor",
+"state": "South Dakota",
+"kind": "commons",
+"credit": "U.S. Embassy Jerusalem, CC BY 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Larry_Rhoden_2025_(cropped).jpg"
+},
+{
+"name": "Marty Jackley",
+"race": "US House · At-large",
+"state": "South Dakota",
+"kind": "commons",
+"credit": "US District of South Dakota, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:US_District_Attorney_Marty_Jackley.png"
+},
+{
+"name": "Mike Rounds",
+"race": "US Senate",
+"state": "South Dakota",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jerri Green",
+"race": "Governor",
+"state": "Tennessee",
+"kind": "commons",
+"credit": "Zach Kinslow, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Jerri_Green_(cropped).3_(cropped).jpg"
+},
+{
+"name": "Marsha Blackburn",
+"race": "Governor",
+"state": "Tennessee",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Diana Harshbarger",
+"race": "US House · District 1",
+"state": "Tennessee",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tim Burchett",
+"race": "US House · District 2",
+"state": "Tennessee",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chuck Fleischmann",
+"race": "US House · District 3",
+"state": "Tennessee",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Scott DesJarlais",
+"race": "US House · District 4",
+"state": "Tennessee",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chaz Molder",
+"race": "US House · District 5",
+"state": "Tennessee",
+"kind": "commons",
+"credit": "Hmil6 (cropped by Fad8229), CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Mayor_Chaz_Molder_(cropped).jpg"
+},
+{
+"name": "Matt Van Epps",
+"race": "US House · District 7",
+"state": "Tennessee",
+"kind": "commons",
+"credit": "House Creative Services, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Rep_Matt_Van_Epps%2C_119th_Congress_(cropped).jpg"
+},
+{
+"name": "David Kustoff",
+"race": "US House · District 8",
+"state": "Tennessee",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brent Taylor",
+"race": "US House · District 9",
+"state": "Tennessee",
+"kind": "commons",
+"credit": "GatewayPolitics, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Brent_Taylor_(Tennessee_politician).jpg"
+},
+{
+"name": "Justin J. Pearson",
+"race": "US House · District 9",
+"state": "Tennessee",
+"kind": "commons",
+"credit": "TrentBenge, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Justin_J_Pearson_August_2023.jpg"
+},
+{
+"name": "Bill Hagerty",
+"race": "US Senate",
+"state": "Tennessee",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Marquita Bradshaw",
+"race": "US Senate",
+"state": "Tennessee",
+"kind": "commons",
+"credit": "Walker Kinsler, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Marquita_Bradshaw_at_Morristown_(cropped).jpg"
+},
+{
+"name": "Gina Hinojosa",
+"race": "Governor",
+"state": "Texas",
+"kind": "commons",
+"credit": "RRC1701, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Gina_Hinojosa_at_the_AFL-CIO_COPE_convention_in_2024.jpg"
+},
+{
+"name": "Greg Abbott",
+"race": "Governor",
+"state": "Texas",
+"kind": "commons",
+"credit": "U.S. Department of Agriculture, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Greg_Abbott_2026.jpg"
+},
+{
+"name": "Nathaniel Moran",
+"race": "US House · District 1",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "August Pfluger",
+"race": "US House · District 11",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Craig Goldman",
+"race": "US House · District 12",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Ronny Jackson",
+"race": "US House · District 13",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Randy Weber",
+"race": "US House · District 14",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bobby Pulido",
+"race": "US House · District 15",
+"state": "Texas",
+"kind": "commons",
+"credit": "Mezquitic, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Bobby23_(cropped).jpg"
+},
+{
+"name": "Monica De La Cruz",
+"race": "US House · District 15",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Veronica Escobar",
+"race": "US House · District 16",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Pete Sessions",
+"race": "US House · District 17",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Christian Menefee",
+"race": "US House · District 18",
+"state": "Texas",
+"kind": "commons",
+"credit": "Brendan O'Hara, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Christian_Menefee%2C_official_portrait_(119th_Congress)_(2)_(cropped).jpg"
+},
+{
+"name": "Steve Toth",
+"race": "US House · District 2",
+"state": "Texas",
+"kind": "commons",
+"credit": "LiwenAristodemos, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:SteveToth--EagleForum--TX2Debate--GraceChurch--SpringTX--08Jan2026_(cropped).jpg"
+},
+{
+"name": "Joaquin Castro",
+"race": "US House · District 20",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mark Teixeira",
+"race": "US House · District 21",
+"state": "Texas",
+"kind": "commons",
+"credit": "Keith Allison, CC BY-SA 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Mark_Teixeira_basepaths_2011_(cropped).jpg"
+},
+{
+"name": "Trever Nehls",
+"race": "US House · District 22",
+"state": "Texas",
+"kind": "commons",
+"credit": "Spc. Dakota Vanidestine, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Blackjack_Recognition_Ceremony_Trever_Nehls_(cropped).jpg"
+},
+{
+"name": "Brandon Herrera",
+"race": "US House · District 23",
+"state": "Texas",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Brandon_Herrera_with_attendees_(55457704523)_(cropped).jpg"
+},
+{
+"name": "Katy Padilla Stout",
+"race": "US House · District 23",
+"state": "Texas",
+"kind": "commons",
+"credit": "DivaaNut, CC0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Katy_Padilla_Stout_Cropped.jpg"
+},
+{
+"name": "Beth Van Duyne",
+"race": "US House · District 24",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Roger Williams",
+"race": "US House · District 25",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brandon Gill",
+"race": "US House · District 26",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michael Cloud",
+"race": "US House · District 27",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Henry Cuellar",
+"race": "US House · District 28",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tano Tijerina",
+"race": "US House · District 28",
+"state": "Texas",
+"kind": "commons",
+"credit": "E. R. Softwood, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Tano_Tijerina.jpg"
+},
+{
+"name": "Martha Fierro",
+"race": "US House · District 29",
+"state": "Texas",
+"kind": "commons",
+"credit": "2C2K Photography, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:2026AcresHomeJuneteenthParade-63_Martha_Fierro_(cropped).jpg"
+},
+{
+"name": "Sylvia Garcia",
+"race": "US House · District 29",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Keith Self",
+"race": "US House · District 3",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Frederick Haynes III",
+"race": "US House · District 30",
+"state": "Texas",
+"kind": "commons",
+"credit": "Calvary Baptist Church Jamaica, NY, CC BY 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Frederick_Haynes_III_at_Calvary_Baptist_Church_(cropped).png"
+},
+{
+"name": "John Carter",
+"race": "US House · District 31",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Colin Allred",
+"race": "US House · District 33",
+"state": "Texas",
+"kind": "commons",
+"credit": "Ike Hayman, Official House Photographer, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Colin_Allred%2C_official_portrait%2C_117th_Congress_(cropped).jpg"
+},
+{
+"name": "Vicente Gonzalez",
+"race": "US House · District 34",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Brian Babin",
+"race": "US House · District 36",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Greg Casar",
+"race": "US House · District 37",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Pat Fallon",
+"race": "US House · District 4",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lance Gooden",
+"race": "US House · District 5",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jake Ellzey",
+"race": "US House · District 6",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Lizzie Fletcher",
+"race": "US House · District 7",
+"state": "Texas",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "James Talarico",
+"race": "US Senate",
+"state": "Texas",
+"kind": "commons",
+"credit": "Antonioaesparza, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:James_Talarico_Press_Conference_(cropped).jpg"
+},
+{
+"name": "Ken Paxton",
+"race": "US Senate",
+"state": "Texas",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:K_Paxton.jpg"
+},
+{
+"name": "Ben McAdams",
+"race": "US House · District 1",
+"state": "Utah",
+"kind": "commons",
+"credit": "Eric Connolly, U.S. House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Ben_McAdams%2C_official_portrait%2C_116th_Congress.jpg"
+},
+{
+"name": "Blake Moore",
+"race": "US House · District 2",
+"state": "Utah",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Celeste Maloy",
+"race": "US House · District 3",
+"state": "Utah",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mike Kennedy",
+"race": "US House · District 4",
+"state": "Utah",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Amanda Janoo",
+"race": "Governor",
+"state": "Vermont",
+"kind": "commons",
+"credit": "Town Meeting TV, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Amanda_Janoo_at_candidate_forum_in_May_2026_(cropped).png"
+},
+{
+"name": "Phil Scott",
+"race": "Governor",
+"state": "Vermont",
+"kind": "commons",
+"credit": "Master Sgt. Sarah Mattison, U.S. Air National Guard, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Phil_Scott_2019_(cropped).jpg"
+},
+{
+"name": "Becca Balint",
+"race": "US House · At-large",
+"state": "Vermont",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Rob Wittman",
+"race": "US House · District 1",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Suhas Subramanyam",
+"race": "US House · District 10",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "James Walkinshaw",
+"race": "US House · District 11",
+"state": "Virginia",
+"kind": "commons",
+"credit": "U.S. House Office of Photography, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Congressman_Walkinshaw_Official_Portrait.jpg"
+},
+{
+"name": "Elaine Luria",
+"race": "US House · District 2",
+"state": "Virginia",
+"kind": "commons",
+"credit": "U.S. House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Rep._Elaine_Luria_official_photo%2C_117th_Congress_(cropped).jpg"
+},
+{
+"name": "Jen Kiggans",
+"race": "US House · District 2",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bobby Scott",
+"race": "US House · District 3",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Jennifer McClellan",
+"race": "US House · District 4",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "John McGuire",
+"race": "US House · District 5",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Tom Perriello",
+"race": "US House · District 5",
+"state": "Virginia",
+"kind": "commons",
+"credit": "Unknown photographer (U.S. Department of State), Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Thomas_Perriello%2C_U.S._Special_Envoy_for_Sudan.jpg"
+},
+{
+"name": "Ben Cline",
+"race": "US House · District 6",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Beth Macy",
+"race": "US House · District 6",
+"state": "Virginia",
+"kind": "commons",
+"credit": "Meredith Roller, CC BY 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Beth_Macy.jpg"
+},
+{
+"name": "Eugene Vindman",
+"race": "US House · District 7",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Randall Terry",
+"race": "US House · District 7",
+"state": "Virginia",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 3.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Randall_Terry_by_Gage_Skidmore.jpg"
+},
+{
+"name": "Don Beyer",
+"race": "US House · District 8",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Morgan Griffith",
+"race": "US House · District 9",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Bert Mizusawa",
+"race": "US Senate",
+"state": "Virginia",
+"kind": "commons",
+"credit": "William Pratt, U.S. Army, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Mizusawa.jpg"
+},
+{
+"name": "Mark Warner",
+"race": "US Senate",
+"state": "Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Suzan DelBene",
+"race": "US House · District 1",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Marilyn Strickland",
+"race": "US House · District 10",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Rick Larsen",
+"race": "US House · District 2",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Marie Gluesenkamp Perez",
+"race": "US House · District 3",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Carmela Conroy",
+"race": "US House · District 5",
+"state": "Washington",
+"kind": "commons",
+"credit": "U.S. Department of State, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Carmela_Conroy_State_Department_Portrait_(cropped).jpg"
+},
+{
+"name": "Michael Baumgartner",
+"race": "US House · District 5",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Emily Randall",
+"race": "US House · District 6",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Pramila Jayapal",
+"race": "US House · District 7",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Kim Schrier",
+"race": "US House · District 8",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Adam Smith",
+"race": "US House · District 9",
+"state": "Washington",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Carol Miller",
+"race": "US House · District 1",
+"state": "West Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Riley Moore",
+"race": "US House · District 2",
+"state": "West Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Shelley Moore Capito",
+"race": "US Senate",
+"state": "West Virginia",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "David Crowley",
+"race": "Governor",
+"state": "Wisconsin",
+"kind": "commons",
+"credit": "LaShawnda Jones, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Milwaukee_County_Executive_David_Crowley_during_Democratic_Primary_debate_on_July_28%2C_2026.jpg"
+},
+{
+"name": "Tom Tiffany",
+"race": "Governor",
+"state": "Wisconsin",
+"kind": "commons",
+"credit": "US House of Representatives, Public domain, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Tom_Tiffany.jpg"
+},
+{
+"name": "Bryan Steil",
+"race": "US House · District 1",
+"state": "Wisconsin",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Mark Pocan",
+"race": "US House · District 2",
+"state": "Wisconsin",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Derrick Van Orden",
+"race": "US House · District 3",
+"state": "Wisconsin",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Gwen Moore",
+"race": "US House · District 4",
+"state": "Wisconsin",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Scott Fitzgerald",
+"race": "US House · District 5",
+"state": "Wisconsin",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Glenn Grothman",
+"race": "US House · District 6",
+"state": "Wisconsin",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Michael Alfonso",
+"race": "US House · District 7",
+"state": "Wisconsin",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 4.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Michael_Alfonso_2025.jpg"
+},
+{
+"name": "Tony Wied",
+"race": "US House · District 8",
+"state": "Wisconsin",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+},
+{
+"name": "Chuck Gray",
+"race": "US House · At-large",
+"state": "Wyoming",
+"kind": "commons",
+"credit": "Gage Skidmore, CC BY-SA 2.0, Wikimedia Commons",
+"source": "https://commons.wikimedia.org/wiki/File:Chuck_Gray_in_2025_(cropped).jpg"
+},
+{
+"name": "Harriet Hageman",
+"race": "US Senate",
+"state": "Wyoming",
+"kind": "official",
+"credit": "Official portrait, U.S. Congress (public domain)",
+"source": "https://github.com/unitedstates/images"
+}
+]

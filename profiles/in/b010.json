@@ -1,0 +1,441 @@
+[
+ {
+  "id": "OH-SEN-S/sherrod-brown",
+  "name": "Sherrod Brown",
+  "party": "Democratic",
+  "race": "OH-SEN-S",
+  "race_label": "Ohio · US Senate (special)",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 80,
+    "liberty": 45,
+    "security": 25,
+    "immigration": 20,
+    "foreign": 45,
+    "energy": 80,
+    "tech": 65,
+    "education": 90,
+    "faith": 25
+   },
+   "basis": "Backs higher taxes on wealthy, tariffs, $15 wage, climate action, DACA; opposes vouchers and Patriot Act renewal; liberty mixes pro-choice with assault-weapons ban.",
+   "sources": [
+    "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"
+   ],
+   "photo": {
+    "file": "File:Sherrod Brown 117th Congress (2) (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. Senate Photographic Services; Rebecca Hammel"
+   }
+  }
+ },
+ {
+  "id": "OH-SEN-S/jon-husted",
+  "name": "Jon Husted",
+  "party": "Republican",
+  "race": "OH-SEN-S",
+  "race_label": "Ohio · US Senate (special)",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001104",
+   "official_name": "Jon Husted",
+   "chamber": "Senate",
+   "official_site": "https://www.husted.senate.gov",
+   "official_social": {},
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 65,
+    "security": null,
+    "immigration": 60,
+    "foreign": 70,
+    "energy": 30,
+    "tech": null,
+    "education": 20,
+    "faith": 75
+   },
+   "basis": "Voted for 2025 reconciliation law; backs Medicaid work requirements, Russia sanctions, school choice; opposes abortion, backs gun rights (liberty mix); sponsored appliance-rule repeal.",
+   "sources": [
+    "https://www.ontheissues.org/Senate/Jon_Husted.htm",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm",
+    "https://en.wikipedia.org/wiki/Jon_Husted"
+   ],
+   "photo": {
+    "file": "File:Sen. Jon Husted official portrait, 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Senate"
+   }
+  }
+ },
+ {
+  "id": "OH-GOV/amy-acton",
+  "name": "Amy Acton",
+  "party": "Democratic",
+  "race": "OH-GOV",
+  "race_label": "Ohio · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 40,
+    "security": 45,
+    "immigration": null,
+    "foreign": null,
+    "energy": 50,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Pledges abortion access, voucher reform ('public money for public schools'), working-family tax credits, union protections, funded police; opposes transgender girls in girls' sports.",
+   "sources": [
+    "https://actonforgovernor.com/issue/education/",
+    "https://www.ontheissues.org/Amy_Acton.htm",
+    "https://en.wikipedia.org/wiki/Amy_Acton"
+   ],
+   "photo": {
+    "file": "File:Amy Acton (cropped).jpg",
+    "license": "Public domain",
+    "author": "Senior Airman Gwendalyn Smith, U.S. Air National Guard"
+   }
+  }
+ },
+ {
+  "id": "OH-GOV/vivek-ramaswamy",
+  "name": "Vivek Ramaswamy",
+  "party": "Republican",
+  "race": "OH-GOV",
+  "race_label": "Ohio · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": null,
+    "liberty": 50,
+    "security": 70,
+    "immigration": 90,
+    "foreign": 25,
+    "energy": 10,
+    "tech": 65,
+    "education": 15,
+    "faith": 70
+   },
+   "basis": "Plans income-tax phaseout, property-tax cuts, data-center approval pause; backs school choice, mass deportation, fossil fuels, ending Ukraine aid; opposes abortion, backs constitutional carry.",
+   "sources": [
+    "https://vivekforohio.com/the-plan/",
+    "https://www.ontheissues.org/Vivek_Ramaswamy.htm"
+   ],
+   "photo": {
+    "file": "File:Vivek Ramaswamy (55241367373) (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "OK-SEN/kevin-hern",
+  "name": "Kevin Hern",
+  "party": "Republican",
+  "race": "OK-SEN",
+  "race_label": "Oklahoma · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "H001082",
+   "official_name": "Kevin Hern",
+   "chamber": "House",
+   "official_site": "https://hern.house.gov",
+   "official_social": {
+    "twitter": "repkevinhern",
+    "facebook": "repkevinhern",
+    "youtube": "UC9XRRGCgGOEtEOwUAo1rYZg"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 10,
+    "liberty": 60,
+    "security": null,
+    "immigration": 70,
+    "foreign": 65,
+    "energy": 5,
+    "tech": 40,
+    "education": null,
+    "faith": 80
+   },
+   "basis": "Favors flat tax, work requirements, border wall, defending Israel; opposes climate regulation, net neutrality; abortion and marriage stances offset pro-gun views (liberty).",
+   "sources": [
+    "https://www.ontheissues.org/House/Kevin_Hern.htm",
+    "https://en.wikipedia.org/wiki/Kevin_Hern"
+   ],
+   "photo": {
+    "file": "File:Rep. Kevin Hern official photo, 116th congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Franmarie Metzler; U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "OK-SEN/n-kiyla-jasmine-thomas",
+  "name": "N'Kiyla Jasmine Thomas",
+  "party": "Democratic",
+  "race": "OK-SEN",
+  "race_label": "Oklahoma · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 5,
+    "security": 20,
+    "immigration": 5,
+    "foreign": null,
+    "energy": 65,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, universal childcare, living wage, abolishing ICE, restoring Roe, codifying marriage equality, stronger Clean Water Act, smaller classes, free school meals.",
+   "sources": [
+    "https://www.jasmineforok.com/policies",
+    "https://www.nbcnews.com/politics/2026-election/nkiyla-jasmine-thomas-wins-oklahoma-senate-primary-democrat-rcna593618",
+    "https://ocpathink.org/post/independent-journalism/democratic-socialist-wins-oklahoma-senate-nomination"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-GOV/mike-mazzei",
+  "name": "Mike Mazzei",
+  "party": "Republican",
+  "race": "OK-GOV",
+  "race_label": "Oklahoma · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": null,
+    "liberty": 95,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 30,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Would phase out income tax, cut green-energy and data-center tax breaks, regulate data-center water and power; opposes abortion in all cases (sole liberty evidence).",
+   "sources": [
+    "https://mikeforok.com/the-issues/",
+    "https://www.newson6.com/oklahoma-elections/oklahoma-governor-tax-plans-mazzei-drummond",
+    "https://www.news9.com/oklahoma-elections/who-should-i-vote-for-oklahomas-gubernatorial-runoff-drummond-mazzei"
+   ],
+   "photo": {
+    "file": "File:Mike Mazzei OK Senate Headshot.jpg",
+    "license": "Public domain",
+    "author": "Oklahoma State Senate"
+   }
+  }
+ },
+ {
+  "id": "OK-GOV/cyndi-munson",
+  "name": "Cyndi Munson",
+  "party": "Democratic",
+  "race": "OK-GOV",
+  "race_label": "Oklahoma · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 30,
+    "immigration": 25,
+    "foreign": null,
+    "energy": 50,
+    "tech": 80,
+    "education": 95,
+    "faith": 25
+   },
+   "basis": "Would repeal voucher tax credit, pause new data centers, raise minimum wage, protect Medicaid; liberty: abortion-ban repeal, opposed church stand-your-ground bill.",
+   "sources": [
+    "https://www.cyndimunson.com/Priorities",
+    "https://www.ontheissues.org/Cyndi_Munson.htm"
+   ],
+   "photo": {
+    "file": "File:Cyndi Munson.jpg",
+    "license": "Public domain",
+    "author": "Oklahoma House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "OR-SEN/jeff-merkley",
+  "name": "Jeff Merkley",
+  "party": "Democratic",
+  "race": "OR-SEN",
+  "race_label": "Oregon · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001176",
+   "official_name": "Jeff Merkley",
+   "chamber": "Senate",
+   "official_site": "https://www.merkley.senate.gov",
+   "official_social": {
+    "twitter": "SenJeffMerkley",
+    "facebook": "jeffmerkley",
+    "youtube": "SenatorJeffMerkley",
+    "instagram": "senjeffmerkley"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 70,
+    "liberty": 25,
+    "security": 20,
+    "immigration": 15,
+    "foreign": 30,
+    "energy": 90,
+    "tech": 75,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Opposes tax breaks for ultra-wealthy; abortion, LGBTQ, cannabis-banking support drive liberty; backs background checks; voted against FISA reauthorization, Laken Riley, 2024 aid package; climate advocate.",
+   "sources": [
+    "https://www.jeffmerkley.com/",
+    "https://en.wikipedia.org/wiki/Jeff_Merkley",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm"
+   ],
+   "photo": {
+    "file": "File:Jeff Merkley, 115th official photo.jpg",
+    "license": "Public domain",
+    "author": "United States Senate"
+   }
+  }
+ },
+ {
+  "id": "OR-SEN/david-brock-smith",
+  "name": "David Brock Smith",
+  "party": "Republican",
+  "race": "OR-SEN",
+  "race_label": "Oregon · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": null,
+    "security": 75,
+    "immigration": 70,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pledges no new taxes and reduced spending, backs law enforcement and repeat-offender accountability, and signed a letter supporting Texas in the Eagle Pass border standoff.",
+   "sources": [
+    "https://www.davidbrocksmithfororegon.com/issues",
+    "https://en.wikipedia.org/wiki/David_Brock_Smith"
+   ],
+   "photo": {
+    "file": "File:David Brock Smith.jpg",
+    "license": "CC BY 2.0",
+    "author": "Oregon Secretary of State"
+   }
+  }
+ },
+ {
+  "id": "OR-GOV/tina-kotek",
+  "name": "Tina Kotek",
+  "party": "Democratic",
+  "race": "OR-GOV",
+  "race_label": "Oregon · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": 25,
+    "security": 40,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Signed abortion and gender-affirming care protections plus 2024 drug recriminalization; sued over federal Guard deployment; targets price gouging, healthcare access, climate action, schools.",
+   "sources": [
+    "https://www.tinafororegon.com/progress-for-oregon/",
+    "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Oregon",
+    "https://en.wikipedia.org/wiki/Drug_policy_of_Oregon"
+   ],
+   "photo": {
+    "file": "File:2025 Tina Kotek (cropped).jpg",
+    "license": "CC BY 4.0",
+    "author": "Oregon National Guard"
+   }
+  }
+ },
+ {
+  "id": "OR-GOV/christine-drazan",
+  "name": "Christine Drazan",
+  "party": "Republican",
+  "race": "OR-GOV",
+  "race_label": "Oregon · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 60,
+    "security": 75,
+    "immigration": null,
+    "foreign": null,
+    "energy": 15,
+    "tech": 60,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Plans tax cuts, regulation freeze, Climate Protection Program repeal, school choice, more police, data-center limits; anti-abortion, trans-athlete and drug-penalty stances outweigh gun-rights record.",
+   "sources": [
+    "https://www.christinefororegon.com/drazan-plan/",
+    "https://en.wikipedia.org/wiki/Christine_Drazan"
+   ],
+   "photo": {
+    "file": "File:Christine Drazan in August 2022 (cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Oregon State University"
+   }
+  }
+ }
+]

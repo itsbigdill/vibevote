@@ -1,0 +1,532 @@
+[
+ {
+  "id": "PA-3/dennis-mahoney",
+  "name": "Dennis Mahoney",
+  "party": "Independent",
+  "race": "PA-3",
+  "race_label": "Pennsylvania · US House PA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "PA-3/dennis-mahoney",
+   "name": "Dennis Mahoney",
+   "party": "Independent",
+   "current_role": "Disaster relief and community development worker",
+   "bio": "Dennis Mahoney is an independent candidate whose career has focused on disaster relief and long-term development. In Philadelphia he works with businesses, nonprofits and faith groups on child welfare, food access and school support.",
+   "website": "https://mahoneyforcongress.com",
+   "social": {
+    "instagram": "https://www.instagram.com/mahoneyforcongress/",
+    "facebook": "https://www.facebook.com/profile.php?id=61591219070719",
+    "tiktok": "https://www.tiktok.com/@mahoneyforcongress"
+   },
+   "platform": [
+    {
+     "topic": "Benefits cliff",
+     "point": "Phase benefits out gradually as income rises and update anti-poverty programs around mobility.",
+     "source": "https://mahoneyforcongress.com/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Expand affordable housing, support first-time buyers and build more homes near transit.",
+     "source": "https://mahoneyforcongress.com/"
+    },
+    {
+     "topic": "Neighborhood opportunity",
+     "point": "Improve transit, broadband and workforce training across neighborhoods.",
+     "source": "https://mahoneyforcongress.com/"
+    },
+    {
+     "topic": "Families",
+     "point": "Restore the expanded Child Tax Credit, protect food aid and make childcare cheaper.",
+     "source": "https://mahoneyforcongress.com/"
+    },
+    {
+     "topic": "Wealth building",
+     "point": "Fix tangled property titles, fund home repairs and support small businesses.",
+     "source": "https://mahoneyforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 65,
+     "evidence": "Backs restoring the Child Tax Credit, protecting food assistance and cheaper childcare.",
+     "source": "https://mahoneyforcongress.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://mahoneyforcongress.com/assets/dennis-mahoney-BRyxUWya.jpg",
+   "notes": ""
+  }
+ },
+ {
+  "id": "RI-1/wilfred-curioso",
+  "name": "Wilfred Curioso",
+  "party": "Independent",
+  "race": "RI-1",
+  "race_label": "Rhode Island · US House RI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "RI-1/wilfred-curioso",
+   "name": "Wilfred Curioso",
+   "party": "Independent",
+   "current_role": "",
+   "bio": "Wilfred Curioso is an independent candidate for Rhode Island's 1st Congressional District.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website, biography or issue statements were found."
+  }
+ },
+ {
+  "id": "RI-2/armando-anzoli",
+  "name": "Armando Anzoli",
+  "party": "Independent",
+  "race": "RI-2",
+  "race_label": "Rhode Island · US House RI-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "RI-2/armando-anzoli",
+   "name": "Armando Anzoli",
+   "party": "Independent",
+   "current_role": "",
+   "bio": "Armando Anzoli is an independent candidate for Rhode Island's 2nd Congressional District.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website, biography or issue statements were found."
+  }
+ },
+ {
+  "id": "RI-GOV/ken-block",
+  "name": "Ken Block",
+  "party": "Independent",
+  "race": "RI-GOV",
+  "race_label": "Rhode Island · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "RI-GOV/ken-block",
+   "name": "Ken Block",
+   "party": "Independent",
+   "current_role": "Software engineer and businessman",
+   "bio": "Ken Block is running for Governor of Rhode Island as an independent in 2026, his third bid for the office. He founded the Moderate Party of Rhode Island and was its 2010 nominee, then lost the 2014 Republican primary. A software engineer with a Dartmouth computer science degree, he founded companies that analyze government waste and fraud; he was born in Milford, Connecticut, and lives in Barrington.",
+   "website": "https://blockforgovernor.com",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "Veto a millionaires tax and lower state fees and taxes to reduce living costs.",
+     "source": "https://blockforgovernor.com/issues.php"
+    },
+    {
+     "topic": "Tolls",
+     "point": "Suspend the truck toll program and oppose tolls on cars.",
+     "source": "https://blockforgovernor.com/issues.php"
+    },
+    {
+     "topic": "Spending",
+     "point": "Review every state agency and end spending on poorly managed projects.",
+     "source": "https://blockforgovernor.com/issues.php"
+    },
+    {
+     "topic": "Housing",
+     "point": "Use state-owned property for affordable housing and require a housing impact note on legislation.",
+     "source": "https://blockforgovernor.com/issues.php"
+    },
+    {
+     "topic": "Transportation",
+     "point": "Overhaul RIDOT management and award contracts on merit.",
+     "source": "https://blockforgovernor.com/issues.php"
+    },
+    {
+     "topic": "Courts",
+     "point": "Base judicial appointments on merit and take magistrate picks away from the General Assembly.",
+     "source": "https://blockforgovernor.com/issues.php"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Would veto a millionaires tax and focus on cutting spending, fees and taxes.",
+     "source": "https://blockforgovernor.com/issues.php"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://blockforgovernor.com/assets/ken.png",
+   "notes": "He says he will not prioritize social issues as governor, so no liberty score was assigned."
+  }
+ },
+ {
+  "id": "SC-1/clayton-cuteri",
+  "name": "Clayton Cuteri",
+  "party": "Independent",
+  "race": "SC-1",
+  "race_label": "South Carolina · US House SC-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "SC-1/clayton-cuteri",
+   "name": "Clayton Cuteri",
+   "party": "Independent",
+   "current_role": "Software entrepreneur and content creator",
+   "bio": "Clayton Cuteri is a software engineer and entrepreneur from Mount Pleasant who owns several businesses, including a social media company, and hosts a podcast. He co-founded the American Congress Party, a new national party, and serves as its secretary general. He is running as a write-in candidate.",
+   "website": "https://writeincuteri.com/",
+   "social": {
+    "x": "https://x.com/ClaytonCuteri",
+    "instagram": "https://www.instagram.com/claytoncuteri",
+    "facebook": "https://www.facebook.com/clayton.cuteri.2025/",
+    "youtube": "https://www.youtube.com/@ClaytonCuteriACP"
+   },
+   "platform": [
+    {
+     "topic": "Insurance",
+     "point": "Aims to curb rising homeowner insurance premiums in the Lowcountry.",
+     "source": "https://writeincuteri.com/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Wants to make homes affordable for Lowcountry families.",
+     "source": "https://writeincuteri.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Backs free medication as part of the American Congress Party platform.",
+     "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+    },
+    {
+     "topic": "Education",
+     "point": "Supports free education under his party's platform.",
+     "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+    },
+    {
+     "topic": "Taxes",
+     "point": "Favors eliminating the federal income tax and returning to the gold standard.",
+     "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+    },
+    {
+     "topic": "Foreign policy",
+     "point": "Wants to end heavy spending on foreign wars and redirect those resources home.",
+     "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 80,
+     "evidence": "Party platform he promotes calls for free medication and free education.",
+     "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 20,
+     "evidence": "Calls for ending spending on foreign wars and redirecting the money home.",
+     "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://writeincuteri.com/images/Clayton_Headshot.jpg",
+   "notes": "His campaign site describes him as a write-in candidate for the American Congress Party, while the input lists him as Independent. Economy left null because he pairs abolishing the income tax with free public services."
+  }
+ },
+ {
+  "id": "SD-SEN/brian-bengs",
+  "name": "Brian Bengs",
+  "party": "Independent",
+  "race": "SD-SEN",
+  "race_label": "South Dakota · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "SD-SEN/brian-bengs",
+   "name": "Brian Bengs",
+   "party": "Independent",
+   "current_role": "Veteran and former political science professor",
+   "bio": "Brian Bengs is a veteran of the U.S. Navy and Air Force who taught political science at Northern State University in Aberdeen. He was the Democratic nominee for U.S. Senate in South Dakota in 2022. In 2026 he is running as an independent.",
+   "website": "https://bengsforsouthdakota.com",
+   "social": {
+    "x": "https://x.com/BrianBengs",
+    "facebook": "https://www.facebook.com/BBengs1970/",
+    "instagram": "https://www.instagram.com/brianbengs",
+    "tiktok": "https://www.tiktok.com/@brianbengsforsd"
+   },
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "Raise taxes on the ultra-wealthy toward 1960s levels while lowering taxes for workers and small businesses.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Overhaul the health care system in stages to lower costs and widen access.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    },
+    {
+     "topic": "Ethics",
+     "point": "Ban stock trading by members of Congress, adopt a Supreme Court ethics code and limit senators to two terms.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Pair strong border security with expanded legal immigration to support economic growth.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    },
+    {
+     "topic": "Agriculture",
+     "point": "Enforce antitrust law against corporate concentration in agriculture.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    },
+    {
+     "topic": "Right to repair",
+     "point": "Guarantee consumers the right to repair products they own.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 70,
+     "evidence": "Wants the ultra-wealthy taxed at 1960s-era levels and antitrust enforcement in agriculture.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 25,
+     "evidence": "Supports abortion access until viability, gun rights with reasonable safety measures, and LGBTQ acceptance.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    },
+    "security": null,
+    "immigration": {
+     "score": 40,
+     "evidence": "Calls for strong border security together with more legal immigration.",
+     "source": "https://bengsforsouthdakota.com/policy-positions/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "The Commons file claims a U.S. Air Force public-domain licence but was taken from his campaign website with an unknown author, so it was not used."
+  }
+ },
+ {
+  "id": "TN-1/joshua-ray-ashburn",
+  "name": "Joshua Ray Ashburn",
+  "party": "Independent",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TN-1/joshua-ray-ashburn",
+   "name": "Joshua Ray Ashburn",
+   "party": "Independent",
+   "current_role": "",
+   "bio": "Joshua Ray Ashburn is an independent candidate for Tennessee's 1st Congressional District, listed on the Tennessee Secretary of State's 2026 candidate list.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or public statements were found."
+  }
+ },
+ {
+  "id": "TN-1/richard-baker",
+  "name": "Richard G. Baker",
+  "party": "Independent",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TN-1/richard-baker",
+   "name": "Richard G. Baker",
+   "party": "Independent",
+   "current_role": "",
+   "bio": "Richard G. Baker is an independent candidate for Tennessee's 1st Congressional District, listed on the Tennessee Secretary of State's 2026 candidate list.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Name follows the state candidate list as cited on Wikipedia (Richard G. Baker). No campaign website or public statements were found."
+  }
+ }
+]

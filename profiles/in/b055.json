@@ -1,0 +1,417 @@
+[
+ {
+  "id": "MI-1/laveta-davenport",
+  "name": "LaVeta Davenport",
+  "party": "Green",
+  "race": "MI-1",
+  "race_label": "Michigan · US House MI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-1/doc-kovaly",
+  "name": "Doc Kovaly",
+  "party": "U.S. Taxpayers",
+  "race": "MI-1",
+  "race_label": "Michigan · US House MI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-1/liz-hakola",
+  "name": "Liz Hakola",
+  "party": "Working Class",
+  "race": "MI-1",
+  "race_label": "Michigan · US House MI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-1/zebulon-featherly",
+  "name": "Zebulon Featherly",
+  "party": "Independent",
+  "race": "MI-1",
+  "race_label": "Michigan · US House MI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-2/john-moolenaar",
+  "name": "John Moolenaar",
+  "party": "Republican",
+  "race": "MI-2",
+  "race_label": "Michigan · US House MI-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001194",
+   "official_name": "John R. Moolenaar",
+   "chamber": "House",
+   "official_site": "https://moolenaar.house.gov",
+   "official_social": {
+    "twitter": "RepMoolenaar",
+    "facebook": "RepMoolenaar",
+    "instagram": "RepMoolenaar"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 65,
+    "security": null,
+    "immigration": 80,
+    "foreign": 75,
+    "energy": 20,
+    "tech": null,
+    "education": 15,
+    "faith": 70
+   },
+   "basis": "Lower taxes, estate-tax repeal; life-begins-at-conception and anti-gun-restriction (liberty); opposes citizenship path; Iran sanctions; all-of-the-above energy; vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/MI/John_Moolenaar.htm",
+    "https://moolenaar.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:John Moolenaar portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MI-2/benjamin-ambrose",
+  "name": "Benjamin Ambrose",
+  "party": "Democratic",
+  "race": "MI-2",
+  "race_label": "Michigan · US House MI-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign priorities include championing Medicare for All; other issues stated only as general headings.",
+   "sources": [
+    "https://ambrose4congress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-3/hillary-scholten",
+  "name": "Hillary Scholten",
+  "party": "Democratic",
+  "race": "MI-3",
+  "race_label": "Michigan · US House MI-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001221",
+   "official_name": "Hillary J. Scholten",
+   "chamber": "House",
+   "official_site": "https://scholten.house.gov",
+   "official_social": {
+    "twitter": "RepScholten",
+    "facebook": "100089476625799",
+    "instagram": "RepScholten"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": 35,
+    "security": null,
+    "immigration": 45,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 80,
+    "faith": 65
+   },
+   "basis": "Defends ACA, collective bargaining; pro-choice with background checks and red flag laws (liberty); voted for Laken Riley Act; renewables; public schools; faith-driven.",
+   "sources": [
+    "https://hillaryscholten.com/priorities/",
+    "https://en.wikipedia.org/wiki/Hillary_Scholten"
+   ],
+   "photo": {
+    "file": "File:Rep. Hillary Scholten - 118th Congress (1).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MI-3/terri-deboer",
+  "name": "Terri DeBoer",
+  "party": "Republican",
+  "race": "MI-3",
+  "race_label": "Michigan · US House MI-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Tax and spending cuts, deregulation, HSAs and market health choice, border enforcement and removals, all-of-the-above energy against mandates, educational freedom.",
+   "sources": [
+    "https://terrideboer.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-4/bill-huizenga",
+  "name": "Bill Huizenga",
+  "party": "Republican",
+  "race": "MI-4",
+  "race_label": "Michigan · US House MI-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001058",
+   "official_name": "Bill Huizenga",
+   "chamber": "House",
+   "official_site": "https://huizenga.house.gov",
+   "official_social": {
+    "twitter": "RepHuizenga",
+    "facebook": "RepHuizenga",
+    "youtube": "RepHuizenga",
+    "instagram": "RepHuizenga"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 65,
+    "security": 60,
+    "immigration": 80,
+    "foreign": 75,
+    "energy": 10,
+    "tech": 20,
+    "education": 15,
+    "faith": 85
+   },
+   "basis": "Corporate tax cuts, welfare work requirements; pro-life and pro-carry (liberty); no citizenship path; Iran sanctions; anti-cap-and-trade; vouchers; God in public sphere.",
+   "sources": [
+    "https://www.ontheissues.org/MI/Bill_Huizenga.htm",
+    "https://en.wikipedia.org/wiki/Bill_Huizenga"
+   ],
+   "photo": {
+    "file": "File:Rep. Bill Huizenga - 118th Congress (portrait crop).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MI-4/sean-mccann",
+  "name": "Sean McCann",
+  "party": "Democratic",
+  "race": "MI-4",
+  "race_label": "Michigan · US House MI-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 75,
+    "liberty": 35,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Opposes corporate handouts and tariffs; Medicaid expansion, ACA credits; pro-choice with gun-violence prevention (liberty); legal pathways; renewables; strong public-school funding.",
+   "sources": [
+    "https://seanmccannforcongress.com/issues/",
+    "https://en.wikipedia.org/wiki/Sean_McCann_(politician)"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-5/tim-walberg",
+  "name": "Tim Walberg",
+  "party": "Republican",
+  "race": "MI-5",
+  "race_label": "Michigan · US House MI-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000798",
+   "official_name": "Tim Walberg",
+   "chamber": "House",
+   "official_site": "https://walberg.house.gov",
+   "official_social": {
+    "twitter": "RepWalberg",
+    "facebook": "RepWalberg",
+    "youtube": "RepWalberg",
+    "instagram": "repwalberg"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 75,
+    "security": 60,
+    "immigration": 80,
+    "foreign": 55,
+    "energy": 5,
+    "tech": 20,
+    "education": 15,
+    "faith": 90
+   },
+   "basis": "Corporate tax cuts, work requirements; anti-abortion and anti-same-sex-marriage, pro-gun (liberty); no amnesty; opposed Ukraine aid; rejects climate consensus; vouchers; God in public life.",
+   "sources": [
+    "https://www.ontheissues.org/MI/Tim_Walberg.htm",
+    "https://en.wikipedia.org/wiki/Tim_Walberg"
+   ],
+   "photo": {
+    "file": "File:TimWalbergHeadshot.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MI-5/christian-vukasovich",
+  "name": "Christian Vukasovich",
+  "party": "Democratic",
+  "race": "MI-5",
+  "race_label": "Michigan · US House MI-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found on the campaign website.",
+   "sources": [
+    "https://christian4michigan.com/"
+   ],
+   "photo": null
+  }
+ }
+]

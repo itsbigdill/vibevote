@@ -1,0 +1,438 @@
+[
+ {
+  "id": "NY-17/cait-conley",
+  "name": "Cait Conley",
+  "party": "Democratic",
+  "race": "NY-17",
+  "race_label": "New York · US House NY-17",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 60,
+    "liberty": 30,
+    "security": 65,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Moderate Democrat campaigning on homeland security and public safety, protecting Medicaid and Medicare, and codifying abortion rights.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cait_Conley"
+   ],
+   "photo": {
+    "file": "File:DHS Secretary Alejandro Mayorkas Gives Opening Remarks During CISA National Election Exercise in Arlington, Virginia on 22 August 2024 - 6.jpg",
+    "license": "Public domain",
+    "author": "U.S. Department of Homeland Security"
+   }
+  }
+ },
+ {
+  "id": "NY-18/pat-ryan",
+  "name": "Pat Ryan",
+  "party": "Democratic",
+  "race": "NY-18",
+  "race_label": "New York · US House NY-18",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000579",
+   "official_name": "Patrick Ryan",
+   "chamber": "House",
+   "official_site": "https://patryan.house.gov",
+   "official_social": {
+    "twitter": "RepPatRyanNY"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 40,
+    "security": null,
+    "immigration": 25,
+    "foreign": 55,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants billionaires to pay fair share, piloted guaranteed income, backs Roe protections and assault weapons ban, voted against ICE funding, pushed Ukraine aid.",
+   "sources": [
+    "https://www.patryanforcongress.com/priorities",
+    "https://en.wikipedia.org/wiki/Pat_Ryan_(politician)"
+   ],
+   "photo": {
+    "file": "File:Pat Ryan 117th Congress portrait.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services, Ike Hayman"
+   }
+  }
+ },
+ {
+  "id": "NY-18/jackie-auringer",
+  "name": "Jackie Auringer",
+  "party": "Republican",
+  "race": "NY-18",
+  "race_label": "New York · US House NY-18",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-19/josh-riley",
+  "name": "Josh Riley",
+  "party": "Democratic",
+  "race": "NY-19",
+  "race_label": "New York · US House NY-19",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000622",
+   "official_name": "Josh Riley",
+   "chamber": "House",
+   "official_site": "https://riley.house.gov",
+   "official_social": {
+    "facebook": "RepRileyNY",
+    "instagram": "RepRileyNY"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 40,
+    "security": 65,
+    "immigration": 45,
+    "foreign": 70,
+    "energy": 60,
+    "tech": 65,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Backs taxing wealthy and corporations, Medicare expansion, abortion rights, background checks, more police funding, border agents, AI and crypto regulation, special-ed funding.",
+   "sources": [
+    "https://joshrileyforcongress.com/policy-positions/",
+    "https://en.wikipedia.org/wiki/Josh_Riley"
+   ],
+   "photo": {
+    "file": "File:Rep. Josh Riley official photo, 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NY-19/peter-oberacker",
+  "name": "Peter Oberacker",
+  "party": "Republican",
+  "race": "NY-19",
+  "race_label": "New York · US House NY-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 65,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "As state senator voted against legalizing recreational marijuana; liberty score driven by drug policy only.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Peter_Oberacker"
+   ],
+   "photo": {
+    "file": "File:(05-12-25) NYS Senator Peter Oberacker (cropped).jpg",
+    "license": "CC BY 2.0",
+    "author": "NY Senate Photo"
+   }
+  }
+ },
+ {
+  "id": "NY-20/paul-tonko",
+  "name": "Paul Tonko",
+  "party": "Democratic",
+  "race": "NY-20",
+  "race_label": "New York · US House NY-20",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000469",
+   "official_name": "Paul Tonko",
+   "chamber": "House",
+   "official_site": "https://tonko.house.gov",
+   "official_social": {
+    "twitter": "RepPaulTonko",
+    "facebook": "reppaultonko",
+    "youtube": "reppaultonko",
+    "instagram": "reppaultonko"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 35,
+    "security": 20,
+    "immigration": 20,
+    "foreign": 45,
+    "energy": 95,
+    "tech": 65,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Supports Green New Deal, public option, abortion rights and gun control, opposed Patriot Act wiretaps, path to citizenship, net neutrality, opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/NY/Paul_Tonko.htm",
+    "https://en.wikipedia.org/wiki/Paul_Tonko"
+   ],
+   "photo": {
+    "file": "File:Paul Tonko 118th Congress.jpeg",
+    "license": "Public domain",
+    "author": "Nate Payne, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NY-20/ralph-ambrosio",
+  "name": "Ralph Ambrosio",
+  "party": "Republican",
+  "race": "NY-20",
+  "race_label": "New York · US House NY-20",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-21/anthony-constantino",
+  "name": "Anthony Constantino",
+  "party": "Republican",
+  "race": "NY-21",
+  "race_label": "New York · US House NY-21",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-21/blake-gendebien",
+  "name": "Blake Gendebien",
+  "party": "Democratic",
+  "race": "NY-21",
+  "race_label": "New York · US House NY-21",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-22/john-mannion",
+  "name": "John Mannion",
+  "party": "Democratic",
+  "race": "NY-22",
+  "race_label": "New York · US House NY-22",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001231",
+   "official_name": "John W. Mannion",
+   "chamber": "House",
+   "official_site": "https://mannion.house.gov",
+   "official_social": {
+    "twitter": "JohnMannionNY22",
+    "facebook": "CongressmanJohnMannion",
+    "instagram": "congressmannion"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 20,
+    "security": null,
+    "immigration": 45,
+    "foreign": 40,
+    "energy": 80,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Voted against 2025 tax-and-Medicaid bill and SAVE Act, for Laken Riley Act; pro-choice; climate action; ex-teachers union leader; backed cutting Israel aid. Liberty: abortion, LGBTQ.",
+   "sources": [
+    "https://www.mannionforny.com/on-the-issues/",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2025/roll114.xml"
+   ],
+   "photo": {
+    "file": "File:John Mannion, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "NY-22/kailee-buller",
+  "name": "Kailee Buller",
+  "party": "Republican",
+  "race": "NY-22",
+  "race_label": "New York · US House NY-22",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 40,
+    "liberty": null,
+    "security": 70,
+    "immigration": null,
+    "foreign": 75,
+    "energy": 25,
+    "tech": null,
+    "education": 40,
+    "faith": null
+   },
+   "basis": "Platform: lower taxes, balanced budget, HSA expansion, opposes cashless bail, peace through strength and Israel ties, opposes wind/solar mandates, curriculum transparency.",
+   "sources": [
+    "https://kaileebuller.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-23/nick-langworthy",
+  "name": "Nick Langworthy",
+  "party": "Republican",
+  "race": "NY-23",
+  "race_label": "New York · US House NY-23",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000600",
+   "official_name": "Nicholas A. Langworthy",
+   "chamber": "House",
+   "official_site": "https://langworthy.house.gov",
+   "official_social": {
+    "twitter": "RepLangworthy",
+    "facebook": "RepLangworthy",
+    "instagram": "replangworthy"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 60,
+    "security": 80,
+    "immigration": 85,
+    "foreign": 50,
+    "energy": 20,
+    "tech": 60,
+    "education": 20,
+    "faith": 65
+   },
+   "basis": "Backed 2025 tax bill, Laken Riley and SAVE Acts; opposed 2024 Ukraine aid; more police, energy production, parental choice, anti-abortion, pro-gun. Liberty: abortion, guns.",
+   "sources": [
+    "https://nicklangworthy.com/",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2024/roll151.xml"
+   ],
+   "photo": {
+    "file": "File:Rep. Langworthy Headshot 118.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ }
+]

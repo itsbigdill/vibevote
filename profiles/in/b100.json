@@ -1,0 +1,423 @@
+[
+ {
+  "id": "VA-4/jennifer-mcclellan",
+  "name": "Jennifer McClellan",
+  "party": "Democratic",
+  "race": "VA-4",
+  "race_label": "Virginia · US House VA-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001227",
+   "official_name": "Jennifer L. McClellan",
+   "chamber": "House",
+   "official_site": "https://mcclellan.house.gov",
+   "official_social": {
+    "twitter": "RepMcClellan",
+    "instagram": "repmcclellan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 35,
+    "security": 30,
+    "immigration": 20,
+    "foreign": null,
+    "energy": 90,
+    "tech": null,
+    "education": 90,
+    "faith": 15
+   },
+   "basis": "Opposed ending state income tax, Medicaid expansion, abortion-rights law and background checks (abortion drove liberty), justice reform, Virginia Clean Economy Act, anti-voucher.",
+   "sources": [
+    "https://www.ontheissues.org/VA/Jennifer_McClellan.htm",
+    "https://jennifermcclellan.com/"
+   ],
+   "photo": {
+    "file": "File:U.S. Rep. Jennifer McClellan - 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "VA-4/robert-murray",
+  "name": "Robert Murray",
+  "party": "Republican",
+  "race": "VA-4",
+  "race_label": "Virginia · US House VA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 5,
+    "welfare": null,
+    "liberty": null,
+    "security": 15,
+    "immigration": null,
+    "foreign": 25,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Proposes eliminating federal individual income tax by 2032, opposes government surveillance of Americans, bring 20% of overseas troops home.",
+   "sources": [
+    "https://www.murrayforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-4/joan-andrews-bell",
+  "name": "Joan Andrews Bell",
+  "party": "Independent",
+  "race": "VA-4",
+  "race_label": "Virginia · US House VA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-5/john-mcguire",
+  "name": "John McGuire",
+  "party": "Republican",
+  "race": "VA-5",
+  "race_label": "Virginia · US House VA-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001239",
+   "official_name": "John J. McGuire III",
+   "chamber": "House",
+   "official_site": "https://mcguire.house.gov",
+   "official_social": {
+    "twitter": "RepJohnMcGuire",
+    "facebook": "RepJohnMcGuire",
+    "instagram": "repjohnmcguire"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 60,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": 80
+   },
+   "basis": "Voted for OBBBA and against fracking moratoriums, energy dominance, pro-life and pro-gun (abortion drove liberty), campaigns on pro-God values.",
+   "sources": [
+    "https://mcguire.house.gov/issues/energy",
+    "https://www.mcguireva.com/"
+   ],
+   "photo": {
+    "file": "File:McGuire John 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "VA-5/tom-perriello",
+  "name": "Tom Perriello",
+  "party": "Democratic",
+  "race": "VA-5",
+  "race_label": "Virginia · US House VA-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 70,
+    "liberty": 25,
+    "security": null,
+    "immigration": 30,
+    "foreign": 65,
+    "energy": 80,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Anti-tariff economic populism and infrastructure spending, ACA vote, abortion as fundamental right with NRA-backed gun record, DREAM Act, cap-and-trade vote.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tom_Perriello",
+    "https://www.tomperriello.com/issues"
+   ],
+   "photo": {
+    "file": "File:Official portrait of Thomas Perriello, U.S. Special Envoy for Sudan.jpg",
+    "license": "Public domain",
+    "author": "Unknown photographer (U.S. Department of State)"
+   }
+  }
+ },
+ {
+  "id": "VA-5/cooke-harvey",
+  "name": "Cooke Harvey",
+  "party": "Independent",
+  "race": "VA-5",
+  "race_label": "Virginia · US House VA-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-6/ben-cline",
+  "name": "Ben Cline",
+  "party": "Republican",
+  "race": "VA-6",
+  "race_label": "Virginia · US House VA-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001118",
+   "official_name": "Ben Cline",
+   "chamber": "House",
+   "official_site": "https://cline.house.gov",
+   "official_social": {
+    "twitter": "RepBenCline",
+    "facebook": "RepBenCline",
+    "instagram": "repbencline",
+    "youtube": "@congressmanbencline8000"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 70,
+    "security": 65,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": 15,
+    "tech": 20,
+    "education": 30,
+    "faith": 85
+   },
+   "basis": "Opposes tax hikes, ACA repeal, anti-abortion and pro-gun (abortion drove liberty), border wall, Iran action, fossil fuels, against net neutrality, school prayer.",
+   "sources": [
+    "https://www.ontheissues.org/VA/Ben_Cline.htm",
+    "https://en.wikipedia.org/wiki/Ben_Cline"
+   ],
+   "photo": {
+    "file": "File:Rep Ben Cline Official Photo 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services, Nate Payne"
+   }
+  }
+ },
+ {
+  "id": "VA-6/beth-macy",
+  "name": "Beth Macy",
+  "party": "Democratic",
+  "race": "VA-6",
+  "race_label": "Virginia · US House VA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": null,
+    "security": null,
+    "immigration": 15,
+    "foreign": null,
+    "energy": 85,
+    "tech": 90,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Higher capital gains taxes, Medicare for All, citizenship pathways and opposing non-criminal deportations, renewables, data center moratorium and AI guardrails, double Pell Grants.",
+   "sources": [
+    "https://bethmacyforcongress.com/priorities/"
+   ],
+   "photo": {
+    "file": "File:Beth Macy.jpg",
+    "license": "CC BY 4.0",
+    "author": "Meredith Roller"
+   }
+  }
+ },
+ {
+  "id": "VA-7/eugene-vindman",
+  "name": "Eugene Vindman",
+  "party": "Democratic",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "V000138",
+   "official_name": "Eugene Simon Vindman",
+   "chamber": "House",
+   "official_site": "https://vindman.house.gov",
+   "official_social": {
+    "twitter": "RepVindman",
+    "facebook": "CongressmanEugeneVindman",
+    "instagram": "repvindman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 65,
+    "liberty": 35,
+    "security": 60,
+    "immigration": 35,
+    "foreign": 85,
+    "energy": 75,
+    "tech": 70,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Anti-tariff, ACA and Medicare support, abortion-access bill but backed SIPKA (abortion drove liberty), police funding, legal pathways, alliances, clean energy, AI guardrails.",
+   "sources": [
+    "https://vindmanforcongress.com/issues/",
+    "https://en.wikipedia.org/wiki/Eugene_Vindman"
+   ],
+   "photo": {
+    "file": "File:Vindman Eugene 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "VA-7/doug-ollivant",
+  "name": "Doug Ollivant",
+  "party": "Republican",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 65,
+    "immigration": 75,
+    "foreign": 70,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Reduce spending and tax burden, invest in policing, strong immigration enforcement, peace through strength, nuclear and natural gas centered energy.",
+   "sources": [
+    "https://www.dougforvirginia.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-7/taner-demirci-lopez",
+  "name": "Taner Demirci Lopez",
+  "party": "Libertarian",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-7/alaha-ahrar",
+  "name": "Alaha Ahrar",
+  "party": "Independent",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ }
+]

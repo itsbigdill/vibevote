@@ -1,0 +1,519 @@
+[
+ {
+  "id": "VA-5/cooke-harvey",
+  "name": "Cooke Harvey",
+  "party": "Independent",
+  "race": "VA-5",
+  "race_label": "Virginia · US House VA-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VA-5/cooke-harvey",
+   "name": "Cooke Harvey",
+   "party": "Independent",
+   "current_role": "Carpenter",
+   "bio": "Cooke Costa Harvey is an independent candidate for Virginia's 5th District and works as a carpenter. He registered a campaign committee, Cooke for Congress, with the Federal Election Commission. Little other public information about his background is available.",
+   "website": "",
+   "social": {
+    "facebook": "https://www.facebook.com/p/Cooke-Costa-Harvey-Independent-for-US-Congress-Virginias-5th-61585784802359/",
+    "youtube": "https://www.youtube.com/@cooke.c.harvey.for.congress"
+   },
+   "platform": [
+    {
+     "topic": "Campaign finance",
+     "point": "Lists campaign finance reform as a priority.",
+     "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"
+    },
+    {
+     "topic": "Term limits",
+     "point": "Supports congressional term limits.",
+     "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"
+    },
+    {
+     "topic": "AI",
+     "point": "Calls for regulating artificial intelligence.",
+     "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "His priorities come from a search summary of the Virginia Mercury voter guide, which could not be opened directly. AI regulation is listed without detail, so tech is left unscored."
+  }
+ },
+ {
+  "id": "VA-7/taner-demirci-lopez",
+  "name": "Taner Demirci Lopez",
+  "party": "Libertarian",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VA-7/taner-demirci-lopez",
+   "name": "Taner Demirci Lopez",
+   "party": "Libertarian",
+   "current_role": "Former cultural advisor to U.S. government agencies",
+   "bio": "Taner Demirci Lopez is the Libertarian candidate for Virginia's 7th District. He holds a doctorate in theology from the University of Murcia in Spain, taught at the university level, and later worked as a cultural advisor to U.S. government agencies, including the Department of Defense. He has drafted several bills he says he would introduce if elected.",
+   "website": "https://lopezforva.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Re-independence",
+     "point": "Wants to limit foreign and corporate influence over the federal government.",
+     "source": "https://lopezforva.com/about"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Proposes an act restoring border control with a vetted 10-12 year path for current residents.",
+     "source": "https://lopezforva.com/about"
+    },
+    {
+     "topic": "Data centers",
+     "point": "Would require community consent before large data centers and industrial projects are built.",
+     "source": "https://lopezforva.com/"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Would guarantee community care when the VA cannot treat a veteran within 28 days.",
+     "source": "https://lopezforva.com/"
+    },
+    {
+     "topic": "Farms",
+     "point": "Seeks to help family farms pass between generations and lower costs of lawful farm labor.",
+     "source": "https://lopezforva.com/"
+    },
+    {
+     "topic": "Taxes",
+     "point": "Opposes federal tax increases and supports reducing government spending.",
+     "source": "https://lopezforva.com/about"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Opposes federal tax increases and calls for lower government spending and limited government.",
+     "source": "https://lopezforva.com/about"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 50,
+     "evidence": "Pairs restored border control with a vetted 10-12 year pathway for current residents.",
+     "source": "https://lopezforva.com/about"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "His campaign lists social media accounts, but the exact URLs could not be confirmed."
+  }
+ },
+ {
+  "id": "VA-7/alaha-ahrar",
+  "name": "Alaha Ahrar",
+  "party": "Independent",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VA-7/alaha-ahrar",
+   "name": "Alaha Ahrar",
+   "party": "Independent",
+   "current_role": "CEO of International Kindness Sharing",
+   "bio": "Alaha Ahrar is an independent candidate for Virginia's 7th District. Born in Kabul, she lived in Pakistan before moving to the United States in 2008 for college, and holds degrees from the University of Mary Washington and George Mason University. She is a poet and human rights advocate who leads the nonprofit International Kindness Sharing and works as a business consultant.",
+   "website": "https://www.alahaahrarforcongress.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Justice",
+     "point": "Makes justice and human rights a central theme of her campaign.",
+     "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"
+    },
+    {
+     "topic": "Economy",
+     "point": "Wants to expand economic opportunity in the district.",
+     "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"
+    },
+    {
+     "topic": "Education",
+     "point": "Lists education reform as a campaign priority.",
+     "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"
+    },
+    {
+     "topic": "Community",
+     "point": "Aims to strengthen social cohesion across communities.",
+     "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Her campaign website content could not be read, and her platform is described only in general terms."
+  }
+ },
+ {
+  "id": "VA-7/joshua-ertle",
+  "name": "Joshua Ertle",
+  "party": "Independent",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VA-7/joshua-ertle",
+   "name": "Joshua Ertle",
+   "party": "Independent",
+   "current_role": "Anti-abortion activist",
+   "bio": "Joshua Ertle is an independent candidate for Virginia's 7th Congressional District. He is part of the 'Defending the Unborn' slate of anti-abortion candidates, which runs campaign television advertising across several states.",
+   "website": "https://joshua.vote/",
+   "social": {
+    "facebook": "https://www.facebook.com/JoshForVirginia/"
+   },
+   "platform": [
+    {
+     "topic": "Abortion",
+     "point": "Opposes late-term abortion in Virginia and campaigns against the state's proposed Amendment 1.",
+     "source": "https://joshua.vote/"
+    },
+    {
+     "topic": "Abortion advocacy",
+     "point": "Aims to use campaign advertising to show images of aborted fetuses as a strategy to change public opinion.",
+     "source": "https://www.fxbgadvance.com/p/14-names-you-wont-recognize-are-on"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 85,
+     "evidence": "Based on abortion only: opposes late-term abortion and campaigns against Virginia's Amendment 1.",
+     "source": "https://joshua.vote/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://alj1eaymo673byx6.public.blob.vercel-storage.com/organizations/9/landing-pages/1788825621279-1785037474652-joshertle-rhse2jhmoj5qck28katyjihpltnlhj-92ygiq6NkistS1Ts1w37W5VIcxVEVS.jpeg",
+   "notes": "Little public biographical information exists; a candidate directory describes him as a video producer and photographer, which could not be confirmed. The Facebook page 'JoshForVirginia' is assumed to be his campaign page."
+  }
+ },
+ {
+  "id": "VA-7/randall-terry",
+  "name": "Randall Terry",
+  "party": "Independent",
+  "race": "VA-7",
+  "race_label": "Virginia · US House VA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VA-7/randall-terry",
+   "name": "Randall Terry",
+   "party": "Independent",
+   "current_role": "Anti-abortion activist",
+   "bio": "Randall Terry founded the anti-abortion group Operation Rescue in 1987 and led it until 1991. He has run for office several times, including as the Constitution Party's 2024 presidential nominee, for the U.S. House in New York and Florida, and for the Florida Senate. He is running as an independent in Virginia's 7th District as part of the 'Defending the Unborn' slate.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Abortion",
+     "point": "Seeks to end legal abortion and has said he would also make hormonal birth control illegal.",
+     "source": "https://en.wikipedia.org/wiki/Randall_Terry"
+    },
+    {
+     "topic": "Campaign advertising",
+     "point": "Uses federal broadcast rules for candidates to air uncensored anti-abortion ads featuring graphic fetal images.",
+     "source": "https://www.fxbgadvance.com/p/14-names-you-wont-recognize-are-on"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 95,
+     "evidence": "Based on abortion and contraception: supports banning abortion and has said birth control pills should be illegal.",
+     "source": "https://en.wikipedia.org/wiki/Randall_Terry"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Randall Terry by Gage Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   },
+   "campaign_photo": "",
+   "notes": "No dedicated campaign website was found; he appears on the babies.vote joint fundraising committee site."
+  }
+ },
+ {
+  "id": "VA-8/tim-sharman",
+  "name": "Tim Sharman",
+  "party": "Independent",
+  "race": "VA-8",
+  "race_label": "Virginia · US House VA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VA-8/tim-sharman",
+   "name": "Tim Sharman",
+   "party": "Independent",
+   "current_role": "Customer-experience startup founder",
+   "bio": "Tim Sharman is an independent candidate for Virginia's 8th District. Born in London, he studied politics, philosophy and economics at Oxford, moved to the United States about 30 years ago and became a citizen. He worked helping companies serve customers and founded a customer-experience startup.",
+   "website": "https://timsharmanforcongress.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/tim_sharman_for_congress",
+    "tiktok": "https://www.tiktok.com/@timsharmanforcongress",
+    "youtube": "https://www.youtube.com/@TimSharmanforCongress"
+   },
+   "platform": [
+    {
+     "topic": "Affordability",
+     "point": "Prioritizes lowering costs of housing, childcare, health care, education, groceries and transportation.",
+     "source": "https://timsharmanforcongress.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Proposes an 'Affordable Healthcare Moonshot' to reduce health care costs.",
+     "source": "https://timsharmanforcongress.com/"
+    },
+    {
+     "topic": "Economy",
+     "point": "Proposes an American Opportunity Fund Act as part of an economy-of-opportunity agenda.",
+     "source": "https://timsharmanforcongress.com/"
+    },
+    {
+     "topic": "Immigration enforcement",
+     "point": "Says ICE should be fundamentally restructured rather than eliminated.",
+     "source": "https://www.arlnow.com/2026/09/15/rep-beyer-debates-challengers-on-ice-data-centers-trumps-triumphal-arch/"
+    },
+    {
+     "topic": "Data centers",
+     "point": "Prefers local decisions over federal mandates on regulating data centers.",
+     "source": "https://www.arlnow.com/2026/09/15/rep-beyer-debates-challengers-on-ice-data-centers-trumps-triumphal-arch/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://timsharmanforcongress.com/__l5e/assets-v1/aed2bbc7-abc5-4f87-8e30-1d39dd609f0b/candidate-profile.jpg",
+   "notes": "Detailed issue pages could not be retrieved, so no position scores were assigned."
+  }
+ },
+ {
+  "id": "VT-AL/phoenix-altair",
+  "name": "Phoenix Altair",
+  "party": "Independent",
+  "race": "VT-AL",
+  "race_label": "Vermont · US House VT-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VT-AL/phoenix-altair",
+   "name": "Phoenix Altair",
+   "party": "Independent",
+   "current_role": "",
+   "bio": "Phoenix Altair is an independent candidate for Vermont's at-large U.S. House seat in 2026.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or public issue statements were found."
+  }
+ },
+ {
+  "id": "VT-AL/adam-ortiz",
+  "name": "Adam Ortiz",
+  "party": "Independent",
+  "race": "VT-AL",
+  "race_label": "Vermont · US House VT-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "VT-AL/adam-ortiz",
+   "name": "Adam Ortiz",
+   "party": "Independent",
+   "current_role": "Window installation contractor",
+   "bio": "Adam Ortiz is a window installation contractor running as an independent for Vermont's at-large U.S. House seat. He previously ran for the seat in 2022 and 2024, receiving about 5.5% of the vote in 2024.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or public issue statements were found."
+  }
+ }
+]

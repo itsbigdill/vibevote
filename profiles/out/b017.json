@@ -1,0 +1,981 @@
+[
+ {
+  "id": "AZ-7/adelita-grijalva",
+  "name": "Adelita Grijalva",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for AZ-7",
+  "bio": "Adelita Grijalva has represented Arizona's 7th district since November 2025. She previously served on the Pima County Board of Supervisors from 2021 to 2025 and on the Tucson Unified School District governing board for twenty years. A Tucson native, she directed Pima County Teen Court for about 25 years.",
+  "website": "https://www.adelitaforcongress.com/",
+  "social": {
+   "x": "https://x.com/AdelitaForAZ",
+   "instagram": "https://www.instagram.com/AdelitaForCongress",
+   "facebook": "https://www.facebook.com/adelitaforcongress/",
+   "youtube": "https://www.youtube.com/@AdelitaforCongress"
+  },
+  "platform": [
+   {
+    "topic": "Labor",
+    "point": "Introduced the Fairness for Farm Workers Act to extend labor protections to agricultural workers.",
+    "source": "https://grijalva.house.gov"
+   },
+   {
+    "topic": "Environment",
+    "point": "Opposes EPA rollbacks of power plant emission rules.",
+    "source": "https://grijalva.house.gov"
+   },
+   {
+    "topic": "Mining",
+    "point": "Opposes fast-tracked mining permits, including for the Hermosa Mine project in southern Arizona.",
+    "source": "https://grijalva.house.gov"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Challenges expansion of Border Patrol checkpoints and offers constituent help with deportation cases.",
+    "source": "https://grijalva.house.gov"
+   },
+   {
+    "topic": "Health care",
+    "point": "Supports a single-payer Medicare for All system.",
+    "source": "https://en.wikipedia.org/wiki/Adelita_Grijalva"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Cosponsored the Block the Bombs Act to halt certain military aid to Israel.",
+    "source": "https://en.wikipedia.org/wiki/Adelita_Grijalva"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Introduced the Fairness for Farm Workers Act, expanding federal labor protections for farmworkers.",
+    "source": "https://grijalva.house.gov"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports single-payer Medicare for All.",
+    "source": "https://en.wikipedia.org/wiki/Adelita_Grijalva"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 20,
+    "evidence": "Has challenged the expansion of Border Patrol checkpoints and criticized ICE enforcement actions in her district.",
+    "source": "https://grijalva.house.gov"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Cosponsored the Block the Bombs Act to halt offensive weapons transfers to Israel.",
+    "source": "https://en.wikipedia.org/wiki/Adelita_Grijalva"
+   },
+   "energy": {
+    "score": 85,
+    "evidence": "Opposes EPA rollbacks of power plant emission standards.",
+    "source": "https://grijalva.house.gov"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Served twenty years on the Tucson Unified school board and backs public school funding.",
+    "source": "https://en.wikipedia.org/wiki/Adelita_Grijalva"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Congresswoman Adelita Grijalva Official Portrait.jpg",
+   "license": "Public domain",
+   "author": "Damien Salas, Office of the Clerk U.S. House of Representatives"
+  },
+  "campaign_photo": "https://static.wixstatic.com/media/37fecb_9e9cc8af74864fa284d79beabfa9b72f~mv2.png/v1/crop/x_544,y_166,w_1398,h_1528/fill/w_598,h_653,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/2026%20Adelita%20Grijalva%20Headshot.png",
+  "notes": "Added economy, immigration and energy scores from her official House site; her campaign site lists no detailed issue platform."
+ },
+ {
+  "id": "AZ-7/daniel-butierez",
+  "name": "Daniel Butierez",
+  "party": "Republican",
+  "current_role": "Painting contractor and small-business owner",
+  "bio": "Daniel Butierez is a third-generation Arizonan who runs two businesses, including a painting contracting company. He was the Republican nominee for Arizona's 7th district in 2024 and in the 2025 special election.",
+  "website": "https://butierezforcongress.com/",
+  "social": {
+   "x": "https://x.com/Butierez4C",
+   "facebook": "https://www.facebook.com/p/Butierez-For-Congress-61556219533310/"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Secure the southern border and give the U.S. Border Patrol the resources it needs.",
+    "source": "https://butierezforcongress.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Cut taxes and simplify the tax code for small businesses, moving toward a flatter system without the IRS.",
+    "source": "https://butierezforcongress.com/policy/"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Promote job growth in southern Arizona through responsible mining.",
+    "source": "https://butierezforcongress.com/"
+   },
+   {
+    "topic": "Homelessness",
+    "point": "Address homelessness with an approach he describes as combining compassion and accountability.",
+    "source": "https://butierezforcongress.com/policy/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Calls for cutting taxes, a flatter tax code and eliminating the IRS.",
+    "source": "https://butierezforcongress.com/policy/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Prioritizes securing the southern border and expanding Border Patrol resources.",
+    "source": "https://butierezforcongress.com/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Daniel Butierez by Gage Skidmore.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Gage Skidmore"
+  },
+  "campaign_photo": "",
+  "notes": "His campaign policy page gives only short summaries, so most domains remain unscored."
+ },
+ {
+  "id": "AZ-8/abraham-hamadeh",
+  "name": "Abraham Hamadeh",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AZ-8",
+  "bio": "Abraham Hamadeh has represented Arizona's 8th district since January 2025. Born in Chicago and raised in Phoenix, he worked as a prosecutor in the Tucson City Prosecutor's Office and the Maricopa County Attorney's Office and serves as an intelligence officer in the U.S. Army Reserve. He was the Republican nominee for Arizona attorney general in 2022.",
+  "website": "https://www.abeforaz.com/",
+  "social": {
+   "x": "https://x.com/AbrahamHamadeh",
+   "instagram": "https://www.instagram.com/abrahamhamadeh/",
+   "facebook": "https://www.facebook.com/abeforaz",
+   "youtube": "https://www.youtube.com/channel/UCF71fYnHkCg3E53PGP_no6A"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Treats border security as national security and backs resources to stop illegal crossings and border crime.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   {
+    "topic": "Crime",
+    "point": "Supports more police funding and tougher sentencing for fentanyl offenses.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Wants clean voter rolls and a federal ban on ranked-choice voting.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Calls for federal fiscal discipline to ease inflation and household costs.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   {
+    "topic": "Veterans and seniors",
+    "point": "Pledges more VA hospital funding and protection of earned Social Security benefits.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Supports gun rights without qualification.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Campaign emphasizes tax cuts and reduced federal spending to fight inflation.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "Describes himself as pro-life and a firm Second Amendment supporter (abortion, guns); later framed abortion as a state issue.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   "security": {
+    "score": 75,
+    "evidence": "Backs increased police funding and enhanced sentencing for fentanyl crimes.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports completing the border wall and ending catch and release.",
+    "source": "https://en.wikipedia.org/wiki/Abraham_Hamadeh"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Advocates peace through strength, sanctions, and strong support for Israel.",
+    "source": "https://www.abeforaz.com/our-issues/"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Opposes Green New Deal policies and promotes American energy independence.",
+    "source": "https://en.wikipedia.org/wiki/Abraham_Hamadeh"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AZ-8/bernadette-greene-placentia",
+  "name": "Bernadette Greene-Placentia",
+  "party": "Democratic",
+  "current_role": "Truck driver and trucking business owner",
+  "bio": "Bernadette Greene-Placentia is a professional truck driver who says she has driven more than 4 million miles and started her own trucking business. She was raised in the rural Midwest and is making her first run for Congress.",
+  "website": "https://www.bgp4az.com/",
+  "social": {
+   "x": "https://x.com/bernadetteaz08",
+   "instagram": "https://www.instagram.com/bernadetteforaz/",
+   "facebook": "https://www.facebook.com/bernadetteforcongress/",
+   "tiktok": "https://www.tiktok.com/@bernadetteforcongress",
+   "youtube": "https://www.youtube.com/@Bernadette4District8"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Protect coverage for pre-existing conditions, require upfront price transparency and gradually lower the Medicare eligibility age.",
+    "source": "https://bgp4az.com/priorities/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pair modern border technology and anti-trafficking enforcement with an earned path to citizenship.",
+    "source": "https://bgp4az.com/priorities/"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Defend access to abortion, contraception and emergency care, and expand paid parental leave and childcare.",
+    "source": "https://bgp4az.com/priorities/"
+   },
+   {
+    "topic": "Education",
+    "point": "Invest in public K-12 schools, expand apprenticeships and make student borrowing fairer.",
+    "source": "https://bgp4az.com/priorities/"
+   },
+   {
+    "topic": "Trucking",
+    "point": "Fight predatory lease-purchase schemes and support owner-operator truckers.",
+    "source": "https://www.bgp4az.com/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Fully fund VA services and expand mental health care.",
+    "source": "https://www.bgp4az.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 65,
+    "evidence": "Proposes gradually lowering the Medicare eligibility age and expanding paid parental leave and childcare.",
+    "source": "https://bgp4az.com/priorities/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Supports reproductive freedom and contraception access (abortion); no stated positions on guns, drugs or speech.",
+    "source": "https://bgp4az.com/priorities/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 40,
+    "evidence": "Combines stronger border technology with an earned citizenship pathway.",
+    "source": "https://bgp4az.com/priorities/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 75,
+    "evidence": "Calls for investing in public K-12 schools and vocational programs.",
+    "source": "https://bgp4az.com/priorities/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://bgp4az.com/wp-content/uploads/2026/07/bernadette-hero-portrait-1020x1024.png",
+  "notes": ""
+ },
+ {
+  "id": "AZ-9/paul-gosar",
+  "name": "Paul Gosar",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AZ-9",
+  "bio": "Paul Gosar has served in the U.S. House since 2011, representing Arizona's 1st, 4th and now 9th districts. Before Congress he practiced dentistry in Flagstaff for about two decades. He was born in Wyoming and earned his degrees at Creighton University.",
+  "website": "https://drpaulgosar.com/",
+  "social": {
+   "x": "https://x.com/RepGosar",
+   "instagram": "https://www.instagram.com/REPGOSAR",
+   "facebook": "https://www.facebook.com/repgosar",
+   "youtube": "https://www.youtube.com/repgosar"
+  },
+  "platform": [
+   {
+    "topic": "Water",
+    "point": "Protect Arizona's share of Colorado River water.",
+    "source": "https://drpaulgosar.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Supports spending cuts and a Balanced Budget Amendment.",
+    "source": "https://drpaulgosar.com/issues/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "End taxes on Social Security benefits and remove pension offsets that reduce benefits.",
+    "source": "https://drpaulgosar.com/issues/"
+   },
+   {
+    "topic": "Border",
+    "point": "Supports the border wall and opposes amnesty for people in the country illegally.",
+    "source": "https://drpaulgosar.com/issues/"
+   },
+   {
+    "topic": "Energy and land",
+    "point": "Open federal lands in Arizona to resource development and pursue energy independence.",
+    "source": "https://drpaulgosar.com/issues/"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Expand Interstate 11 between Phoenix and Las Vegas.",
+    "source": "https://drpaulgosar.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Voted for the 2017 tax cuts and backs cutting regulations and taxes; signed the Taxpayer Protection Pledge.",
+    "source": "https://drpaulgosar.com/issues/"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Opposes the Affordable Care Act and favors consumer-choice health care.",
+    "source": "https://en.wikipedia.org/wiki/Paul_Gosar"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Anti-abortion, voted against the Respect for Marriage Act, and holds A ratings from gun-rights groups (abortion, LGBTQ rights, guns).",
+    "source": "https://en.wikipedia.org/wiki/Paul_Gosar"
+   },
+   "security": null,
+   "immigration": {
+    "score": 95,
+    "evidence": "Backs the border wall, proposed a ten-year immigration moratorium and cosponsored ending birthright citizenship.",
+    "source": "https://en.wikipedia.org/wiki/Paul_Gosar"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Opposed 2022 military aid to Ukraine and has sought limits on overseas deployments.",
+    "source": "https://en.wikipedia.org/wiki/Paul_Gosar"
+   },
+   "energy": {
+    "score": 5,
+    "evidence": "Rejects climate change science, scores about 3% with environmental groups and backs opening federal lands to development.",
+    "source": "https://en.wikipedia.org/wiki/Paul_Gosar"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 75,
+    "evidence": "Lists defending religious liberty as a campaign issue and cites perfect scores from faith organizations.",
+    "source": "https://drpaulgosar.com/issues/"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "The social links are his official House accounts; his campaign site also links https://twitter.com/DrPaulGosar."
+ },
+ {
+  "id": "AZ-9/danielle-sterbinsky",
+  "name": "Danielle Sterbinsky",
+  "party": "Democratic",
+  "current_role": "Navy veteran and human resources professional",
+  "bio": "Danielle (Dani) Sterbinsky is a U.S. Navy veteran who served aboard the USS Bainbridge and now works as a certified human resources professional. She lives in Wittmann, Arizona, and holds degrees from the University of Hawaii and Grand Canyon University.",
+  "website": "https://www.sterbinskyforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/sterbinsky_for_congress/",
+   "facebook": "https://www.facebook.com/daniforcongress",
+   "tiktok": "https://www.tiktok.com/@sterbinskyforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Help first-time homebuyers, expand affordable childcare, expand affordable health coverage and raise the federal minimum wage.",
+    "source": "https://www.sterbinskyforcongress.com/"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Overturn Citizens United, increase campaign finance transparency and offer public financing options.",
+    "source": "https://www.sterbinskyforcongress.com/services"
+   },
+   {
+    "topic": "Term limits",
+    "point": "Pledges personal term limits of three House terms and two Senate terms.",
+    "source": "https://www.sterbinskyforcongress.com/services"
+   },
+   {
+    "topic": "Rural communities",
+    "point": "Expand broadband, protect water for families and farms and fund rural infrastructure.",
+    "source": "https://www.sterbinskyforcongress.com/"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Lift the Social Security tax cap and protect people on fixed incomes.",
+    "source": "https://www.sterbinskyforcongress.com/services"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Modernize legal immigration and strengthen border security with humane protections for families and workers.",
+    "source": "https://www.sterbinskyforcongress.com/services"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Backs a higher federal minimum wage, and breaking up corporate consolidation.",
+    "source": "https://www.sterbinskyforcongress.com/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Calls for affordable health coverage and expanded affordable childcare.",
+    "source": "https://www.sterbinskyforcongress.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 40,
+    "evidence": "Calls for modernized legal immigration alongside stronger border security.",
+    "source": "https://www.sterbinskyforcongress.com/services"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 60,
+    "evidence": "Supports local clean-energy jobs and long-term water protection.",
+    "source": "https://www.sterbinskyforcongress.com/services"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Calls for action against corporate consolidation and algorithmic price-fixing.",
+    "source": "https://www.sterbinskyforcongress.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/ed15e8_ac1fac9a3eb148fd8b49b347128ddf7f~mv2.jpg",
+  "notes": ""
+ },
+ {
+  "id": "AR-1/rick-crawford",
+  "name": "Rick Crawford",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AR-1",
+  "bio": "Rick Crawford has represented Arkansas's 1st district since 2011 and chairs the House Intelligence Committee. He served in the Army as an explosive ordnance disposal technician and later worked as an agricultural radio broadcaster. He is a graduate of Arkansas State University.",
+  "website": "https://www.meetrickcrawford.com/",
+  "social": {
+   "x": "https://x.com/RepRickCrawford",
+   "instagram": "https://www.instagram.com/reprickcrawford",
+   "facebook": "https://www.facebook.com/RepRickCrawford",
+   "youtube": "https://www.youtube.com/RepRickCrawford"
+  },
+  "platform": [
+   {
+    "topic": "Debt",
+    "point": "Top priority is enacting permanent spending controls to address the national debt.",
+    "source": "https://www.meetrickcrawford.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Keep taxes low to grow the economy.",
+    "source": "https://www.meetrickcrawford.com/"
+   },
+   {
+    "topic": "Limited government",
+    "point": "Limit federal government intervention in the lives of Arkansans.",
+    "source": "https://www.meetrickcrawford.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Eliminate the federal estate tax.",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Voted for the 2017 tax cuts and supports eliminating the estate tax.",
+    "source": "https://en.wikipedia.org/wiki/Rick_Crawford_(politician)"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Supports repealing the ACA and keeping welfare work requirements.",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   },
+   "liberty": {
+    "score": 80,
+    "evidence": "Opposes abortion and same-sex marriage and opposes background-check requirements (abortion, LGBTQ rights, guns).",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Supports PATRIOT Act roving wiretaps and expanded surveillance capabilities.",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Supported the 2017 travel ban and opposes benefits for undocumented immigrants.",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Backs sanctions on Iran and voted to support Israel after the October 2023 attack.",
+    "source": "https://en.wikipedia.org/wiki/Rick_Crawford_(politician)"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Signed the No Climate Tax Pledge and supports offshore oil and gas drilling.",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   },
+   "tech": {
+    "score": 30,
+    "evidence": "Opposed net neutrality regulation while supporting cybersecurity data-sharing.",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   },
+   "education": {
+    "score": 20,
+    "evidence": "Supports education vouchers and opposes Common Core.",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   },
+   "faith": {
+    "score": 85,
+    "evidence": "Supports school prayer and keeping God in the public sphere.",
+    "source": "https://www.ontheissues.org/House/Rick_Crawford.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://www.meetrickcrawford.com/wp-content/uploads/2026/04/2018-09-06-12.27.22.jpg",
+  "notes": "The campaign photo URL is from the campaign homepage and may not be a formal headshot."
+ },
+ {
+  "id": "AR-1/terri-yarbrough-green",
+  "name": "Terri Yarbrough Green",
+  "party": "Democratic",
+  "current_role": "Retired pathologist",
+  "bio": "Terri Yarbrough Green is a board-certified pathologist and former laboratory medical director whose career included work at rural hospitals. Born in El Paso, she lives in Paragould, Arkansas, and earned degrees from Baylor University and the University of Texas Health Science Center at San Antonio.",
+  "website": "https://www.terrigreenforarkansas.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/terrigreenforarkansas",
+   "facebook": "https://www.facebook.com/profile.php?id=61585254656309"
+  },
+  "platform": [
+   {
+    "topic": "Accountable government",
+    "point": "Uphold the rule of law, equal justice and checks and balances.",
+    "source": "https://www.terrigreenforarkansas.com/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Remove dark money from politics and ensure free, fair and transparent elections.",
+    "source": "https://www.terrigreenforarkansas.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Support family farms.",
+    "source": "https://www.terrigreenforarkansas.com/"
+   },
+   {
+    "topic": "Wages",
+    "point": "Raise the minimum wage.",
+    "source": "https://www.terrigreenforarkansas.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand access to affordable health care.",
+    "source": "https://www.terrigreenforarkansas.com/"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Improve infrastructure and broadband.",
+    "source": "https://www.terrigreenforarkansas.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Supports raising the minimum wage and backing family farms against agricultural consolidation.",
+    "source": "https://www.terrigreenforarkansas.com/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Calls for expanding access to affordable health care.",
+    "source": "https://www.terrigreenforarkansas.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/fbff52_92d0a00fb0eb41b49623e5c0de59dab4~mv2.jpg",
+  "notes": "Campaign materials use the name Terri Green."
+ },
+ {
+  "id": "AR-1/steve-parsons",
+  "name": "Steve Parsons",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Steve Parsons is a resident of Lakeview, Arkansas. He was the Libertarian nominee for Arkansas's 1st district in 2024.",
+  "website": "https://www.steve-parsons.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Government",
+    "point": "Reduce government intrusion in personal and business decisions.",
+    "source": "https://www.steve-parsons.com/"
+   },
+   {
+    "topic": "Inflation",
+    "point": "Cut inflation to make living costs more affordable, including reforming the Federal Reserve.",
+    "source": "https://www.steve-parsons.com/"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Reduce regulatory burdens on businesses.",
+    "source": "https://www.steve-parsons.com/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "End extensive foreign aid and overseas military commitments.",
+    "source": "https://www.steve-parsons.com/"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "Reform incarceration and the handling of substance abuse and mental health.",
+    "source": "https://www.steve-parsons.com/"
+   },
+   {
+    "topic": "Trade",
+    "point": "Reform tariff policy and the US-Mexico-Canada Agreement.",
+    "source": "https://www.steve-parsons.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Calls for less government and reduced regulation of businesses.",
+    "source": "https://www.steve-parsons.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 15,
+    "evidence": "Opposes government involvement in personal choices such as seatbelt use and marijuana (drugs).",
+    "source": "https://www.steve-parsons.com/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 10,
+    "evidence": "Wants to end extensive international aid and military commitments.",
+    "source": "https://www.steve-parsons.com/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6604740e5df423578247f024/207732e3-450c-4662-9a25-b32ee8d5fdd6/steveparsonpicture.jpg",
+  "notes": "Little biographical information is public; his occupation was not found."
+ },
+ {
+  "id": "AR-2/french-hill",
+  "name": "French Hill",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AR-2",
+  "bio": "French Hill has represented Arkansas's 2nd district since 2015 and has chaired the House Financial Services Committee since 2025. A Little Rock native, he served in Treasury Department and White House economic policy roles under President George H.W. Bush. He founded Delta Trust and Banking Corporation and led it until its 2014 sale.",
+  "website": "https://www.electfrench.com/",
+  "social": {
+   "x": "https://x.com/ElectFrench",
+   "instagram": "https://www.instagram.com/repfrenchhill",
+   "facebook": "https://www.facebook.com/electfrench/"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Cut taxes, reduce inflation, improve housing affordability and support small businesses.",
+    "source": "https://www.electfrench.com/"
+   },
+   {
+    "topic": "Digital assets",
+    "point": "Set a regulatory framework for digital assets.",
+    "source": "https://www.electfrench.com/"
+   },
+   {
+    "topic": "Border",
+    "point": "Enforce immigration law, secure the border and stop drug trafficking.",
+    "source": "https://www.electfrench.com/"
+   },
+   {
+    "topic": "Veterans and seniors",
+    "point": "Expand veterans' health access and protect Social Security benefits.",
+    "source": "https://www.electfrench.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Reduce federal waste and pursue budget reforms.",
+    "source": "https://www.electfrench.com/"
+   },
+   {
+    "topic": "Conservation",
+    "point": "Support wilderness preservation and sustainable river programs.",
+    "source": "https://www.electfrench.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Voted for the 2017 tax cuts and opposes higher taxes on the wealthy.",
+    "source": "https://www.ontheissues.org/House/French_Hill.htm"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted to repeal the Affordable Care Act in 2017.",
+    "source": "https://en.wikipedia.org/wiki/French_Hill_(politician)"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Holds a 100% National Right to Life rating and backs national concealed carry (abortion, guns); record on same-sex marriage is less restrictive.",
+    "source": "https://www.ontheissues.org/House/French_Hill.htm"
+   },
+   "security": null,
+   "immigration": {
+    "score": 65,
+    "evidence": "Opposes a path to citizenship for undocumented immigrants but supports raising high-skill visa caps.",
+    "source": "https://www.ontheissues.org/House/French_Hill.htm"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Supported strikes on Iranian targets and presidential authority to use force against Iran.",
+    "source": "https://en.wikipedia.org/wiki/French_Hill_(politician)"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Supports offshore oil and gas drilling and opposed cancelling the Keystone pipeline.",
+    "source": "https://www.ontheissues.org/House/French_Hill.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Supports school choice vouchers.",
+    "source": "https://www.ontheissues.org/House/French_Hill.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://www.electfrench.com/wp-content/themes/french-hill-lp/assets/images/1_hero_cutout.png",
+  "notes": ""
+ },
+ {
+  "id": "AR-2/chris-jones",
+  "name": "Chris Jones",
+  "party": "Democratic",
+  "current_role": "Nuclear engineer and minister",
+  "bio": "Chris Jones is a nuclear engineer and ordained minister from Pine Bluff, Arkansas, with a bachelor's degree from Morehouse College and a PhD from MIT. He has worked as an assistant dean at MIT, led a Boston community development nonprofit and directed the Arkansas Regional Innovation Hub. He was the 2022 Democratic nominee for governor of Arkansas.",
+  "website": "https://chrisjonesforcongress.com/",
+  "social": {
+   "x": "https://chrisjonesforcongress.com/x/",
+   "instagram": "https://chrisjonesforcongress.com/instagram/",
+   "facebook": "https://chrisjonesforcongress.com/facebook/",
+   "youtube": "https://chrisjonesforcongress.com/youtube/"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Lower the cost of living for Arkansas families.",
+    "source": "https://chrisjonesforcongress.com/priorities/"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Strengthen trust between government and the people through clear ethics rules.",
+    "source": "https://chrisjonesforcongress.com/priorities/"
+   },
+   {
+    "topic": "Opportunity",
+    "point": "Expand access to jobs, infrastructure, education and economic growth.",
+    "source": "https://chrisjonesforcongress.com/priorities/"
+   },
+   {
+    "topic": "Early education and broadband",
+    "point": "His earlier agenda prioritized preschool, broadband and job investment.",
+    "source": "https://en.wikipedia.org/wiki/Chris_Jones_(Arkansas_politician)"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Campaign centers public investment in jobs, infrastructure and affordability.",
+    "source": "https://chrisjonesforcongress.com/priorities/"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "Has called for investing in health care and preschool access.",
+    "source": "https://en.wikipedia.org/wiki/Chris_Jones_(Arkansas_politician)"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 65,
+    "evidence": "Prioritized public investment in preschool and education.",
+    "source": "https://en.wikipedia.org/wiki/Chris_Jones_(Arkansas_politician)"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Chris Jones, Arkansas gubernatorial candidate.jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "BloodshotRollinRed"
+  },
+  "campaign_photo": "https://chrisjonesforcongress.com/wp-content/uploads/2025/09/chris-footer.jpg",
+  "notes": "Social links are the redirect links published on his campaign site."
+ },
+ {
+  "id": "AR-3/steve-womack",
+  "name": "Steve Womack",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AR-3",
+  "bio": "Steve Womack has represented Arkansas's 3rd district since 2011 and serves on the House Appropriations Committee, where he chairs the Transportation-HUD subcommittee; he previously chaired the Budget Committee. He was mayor of Rogers from 1999 to 2011 and retired as a colonel after three decades in the Arkansas Army National Guard. He is from Russellville and earlier worked in radio and as a financial consultant.",
+  "website": "https://www.womackforcongress.com/",
+  "social": {
+   "x": "https://x.com/Rep_SteveWomack",
+   "instagram": "https://www.instagram.com/rep_stevewomack",
+   "facebook": "https://www.facebook.com/womackforcongress/",
+   "youtube": "https://www.youtube.com/CongressmanWomack"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Opposes tax increases and supports repealing the estate tax.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   {
+    "topic": "Health care",
+    "point": "Supports repealing the Affordable Care Act.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   {
+    "topic": "Border",
+    "point": "Supports continued border wall construction and opposes a path to citizenship.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   {
+    "topic": "Energy",
+    "point": "Supports offshore drilling and licensing new nuclear plants.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   {
+    "topic": "Appropriations",
+    "point": "Oversees transportation and housing funding as an Appropriations subcommittee chair.",
+    "source": "https://www.womackforcongress.com/about/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Signed the Taxpayer Protection Pledge, voted for the 2017 tax cuts and backs estate tax repeal.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Opposes the ACA and supports welfare work requirements.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "liberty": {
+    "score": 80,
+    "evidence": "Pro-life, voted against background checks and opposes same-sex marriage (abortion, guns, LGBTQ rights).",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Supports extending PATRIOT Act roving wiretaps.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "immigration": {
+    "score": 85,
+    "evidence": "Supports border wall construction and opposes a path to citizenship.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Favors an active U.S. role abroad, including military options against Iran.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Signed the No Climate Tax Pledge and supports offshore drilling.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "tech": {
+    "score": 30,
+    "evidence": "Voted against net neutrality regulation.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "education": {
+    "score": 20,
+    "evidence": "Supports school vouchers.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   },
+   "faith": {
+    "score": 65,
+    "evidence": "Supports faith-based opposition to same-sex marriage and religious exemptions.",
+    "source": "https://www.ontheissues.org/House/Steve_Womack.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5e304dece3199f4d2d443f33/dd2808cc-7644-4bb1-a10f-f7f9893a6220/IMG_9519+2.jpg",
+  "notes": "Faith score rests on a limited record of religious-exemption positions."
+ }
+]

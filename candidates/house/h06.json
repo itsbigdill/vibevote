@@ -1,0 +1,694 @@
+[
+  {
+    "state": "California",
+    "district": "CA-33",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Pete Aguilar",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 70,
+          "energy": 75,
+          "tech": 40,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for Inflation Reduction Act and Israel aid; opposed Dobbs and trans sports ban; voted against 2022 antitrust merger-fee package. Liberty driven by abortion, LGBTQ.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Pete_Aguilar",
+          "https://aguilar.house.gov"
+        ],
+        "photo": {
+          "file": "File:Pete Aguilar 117th congress.jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services, Franmarie Metzler"
+        }
+      },
+      {
+        "name": "Stephanie Vargas",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": null,
+          "foreign": null,
+          "energy": 30,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Campaign backs lower taxes, fighting energy costs, support for law enforcement, parental rights and school choice.",
+        "sources": [
+          "https://www.stephanievargas4congress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-34",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jimmy Gomez",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 75,
+          "energy": 80,
+          "tech": 35,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Perfect NARAL and HRC ratings, LCV 97% lifetime, voted for IRA, backs Israel military aid, AI-industry PAC support. Liberty: abortion, LGBTQ.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jimmy_Gomez",
+          "https://gomez.house.gov"
+        ],
+        "photo": {
+          "file": "File:Jimmy Gomez official portrait (light crop).jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "Angela Gonzales-Torres",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 90,
+          "welfare": 95,
+          "liberty": null,
+          "security": null,
+          "immigration": 5,
+          "foreign": 20,
+          "energy": 95,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Democratic socialist backing Medicare for All, Green New Deal, basic-income pilot, citizenship path for all undocumented; opposes military aid to Israel.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres",
+          "https://angela4congress.com"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-35",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Norma Torres",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 70,
+          "energy": 75,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "100% NARAL rating and opposed Dobbs; voted for Inflation Reduction Act and Israel support. Liberty driven by abortion.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Norma_Torres",
+          "https://torres.house.gov"
+        ],
+        "photo": {
+          "file": "File:Norma Torres 118th congress.jpeg",
+          "license": "Public domain",
+          "author": "Brendan O'Hara, House Creative Services"
+        }
+      },
+      {
+        "name": "Mike Cargile",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 55,
+          "security": 80,
+          "immigration": 90,
+          "foreign": 15,
+          "energy": 20,
+          "tech": null,
+          "education": 10,
+          "faith": 85
+        },
+        "basis": "America First: close the border, shrink federal government, no gun regulation, pro-life with exceptions, legal cannabis, conditional Israel aid, parental rights, 'pro-God'.",
+        "sources": [
+          "https://www.cargileforcongress.com/issues-1",
+          "https://www.cargileforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-36",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ted Lieu",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": null,
+          "liberty": 15,
+          "security": 35,
+          "immigration": 15,
+          "foreign": 60,
+          "energy": 80,
+          "tech": 85,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pro-choice, authored conversion-therapy ban, called for AI regulation, opposed family separation, criticized Saudi Yemen war and FBI profiling of Chinese scholars.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ted_Lieu",
+          "https://lieu.house.gov"
+        ],
+        "photo": {
+          "file": "File:Congressman Ted W. Lieu Official Photo.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Houston Brignano",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": null,
+          "security": null,
+          "immigration": 75,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign backs cutting regulation and waste, tax incentives, market-based healthcare choice, border security and no amnesty.",
+        "sources": [
+          "https://www.ballotready.org/people/houston-brignano",
+          "https://www.voteforhouston.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-37",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Sydney Kamlager-Dove",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 55,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Called for supporting Israel yet opposed 'river to the sea' resolution; co-authored CROWN Act; backs Equal Rights Amendment. Liberty driven by civil rights.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove",
+          "https://kamlager-dove.house.gov"
+        ],
+        "photo": {
+          "file": "File:Sydney Kamlager-Dove 118th-2.jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Samantha Mota",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": null,
+          "security": null,
+          "immigration": 15,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign backs national health insurance, more public housing funding (Homes for All Act), congressional stock-trade ban and citizenship pathways.",
+        "sources": [
+          "https://www.motaforcongress.com/about"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-38",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Hilda Solis",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": 10,
+          "foreign": null,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Former House progressive: pro-union, opposed CAFTA, green-jobs and environmental-justice work, pro-choice; opposed HR 4437, created LA legal fund for immigrants.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Hilda_Solis"
+        ],
+        "photo": {
+          "file": "File:Hilda Solis, 2025.jpg",
+          "license": "Public domain",
+          "author": "Los Angeles County Board of Supervisors"
+        }
+      },
+      {
+        "name": "Pedro Antonio Casas",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found in reliable sources.",
+        "sources": [
+          "https://ballotpedia.org/California%27s_38th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-39",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mark Takano",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 90,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": 50,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Medicare for All supporter (endorsed Sanders); pro-choice; backs gun control and transgender rights; criticized Israel's Gaza conduct. Liberty driven by abortion, guns, LGBTQ.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mark_Takano",
+          "https://takano.house.gov"
+        ],
+        "photo": {
+          "file": "File:Mark Takano 118th Congress.jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Steve Manos",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 75,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Campaign stresses limiting government overreach, removing housing regulations, empowering police against theft and drug use, and parental rights.",
+        "sources": [
+          "https://www.manosforcongress.com/",
+          "https://electstevemanos.com/issues/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-40",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ken Calvert",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 65,
+          "security": null,
+          "immigration": 85,
+          "foreign": 75,
+          "energy": 20,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Authored E-Verify; supported Dobbs; voted for 2025 tax-cut law; defense appropriations chair backing Israel aid; opposed IRA. Liberty driven by abortion; backed marriage act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ken_Calvert",
+          "https://calvert.house.gov"
+        ],
+        "photo": {
+          "file": "File:Ken Calvert.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Young Kim",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": 60,
+          "security": 60,
+          "immigration": 45,
+          "foreign": 85,
+          "energy": 25,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Fiscal conservative favoring deregulation; voted for 2025 tax law; cosponsored DIGNIDAD legalization bill; foreign-affairs hawk; opposed Respect for Marriage Act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Young_Kim",
+          "https://youngkim.house.gov"
+        ],
+        "photo": {
+          "file": "File:Young Kim 117th U.S Congress.jpg",
+          "license": "Public domain",
+          "author": "Office of Congresswoman Young Kim"
+        }
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-41",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Linda Sánchez",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": 15,
+          "foreign": null,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pro-choice and pro-LGBTQ record; supports drug-sentencing reform, opposes new oil drilling, backs renewable credits and immigration family reunification.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez",
+          "https://lindasanchez.house.gov"
+        ],
+        "photo": {
+          "file": "File:Linda Sánchez, 116th Congress, official photo.jpg",
+          "license": "Public domain",
+          "author": "United States Government"
+        }
+      },
+      {
+        "name": "Mitch Clemmons",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 70,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign backs cutting red tape and housing barriers, support for law enforcement and secure borders.",
+        "sources": [
+          "https://electmitchclemmons.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-42",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Robert Garcia",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 90,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 65,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports Medicare for All; led Long Beach climate plan; voted for 2024 Ukraine, Israel and Taiwan aid packages.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)",
+          "https://robertgarcia.house.gov"
+        ],
+        "photo": {
+          "file": "File:Robert Garcia 119th Congress.jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Brian Burley",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 80,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 20,
+          "faith": null
+        },
+        "basis": "Campaign backs tax relief, opposing illegal immigration, full support for police and military, family values and parental involvement.",
+        "sources": [
+          "https://www.burley4congress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-43",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Maxine Waters",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 85,
+          "welfare": null,
+          "liberty": 15,
+          "security": 30,
+          "immigration": null,
+          "foreign": 30,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pro-choice record; opposes mandatory minimums; pushed crypto and Wall Street regulation; opposes Cuba embargo and criticized Haiti intervention.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Maxine_Waters",
+          "https://waters.house.gov"
+        ],
+        "photo": {
+          "file": "File:Maxine Waters, Official Portrait, 113th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Cristian Morales",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found in reliable sources.",
+        "sources": [
+          "https://ballotpedia.org/Cristian_Morales"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-44",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Nanette Barragán",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "100% NARAL rating and opposed Dobbs; pushes refinery hydrofluoric-acid ban and environmental rules; voted for Inflation Reduction Act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n",
+          "https://barragan.house.gov"
+        ],
+        "photo": {
+          "file": "File:Nanette Barragan official portrait.jpg",
+          "license": "Public domain",
+          "author": "Sharon Wallace, U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Genevieve Angel",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign lists only general goals on affordability, public safety, healthcare access and immigration; no specific stances found.",
+        "sources": [
+          "https://www.angelforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

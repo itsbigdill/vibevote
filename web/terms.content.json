@@ -1,0 +1,688 @@
+{
+  "_links": {
+    "vote": "https://vote.gov",
+    "retention": "https://ai.google.dev/gemini-api/terms",
+    "mail": "mailto:hello@vibevote.us",
+    "credits": "/credits"
+  },
+  "en": {
+    "title": "Terms and privacy",
+    "updated": "Last updated 5 October 2026",
+    "back": "← Back to VibeVote",
+    "note": "",
+    "blocks": [
+      [
+        "lead",
+        "VibeVote asks you a few questions about your own life, writes a short political self-portrait from your answers, and compares it with the candidates on this November's ballot in your state."
+      ],
+      [
+        "h2",
+        "Terms of use"
+      ],
+      [
+        "h3",
+        "Who can use it"
+      ],
+      [
+        "p",
+        "You must be 18 or older and live in the United States. VibeVote is for your own personal, non-commercial use. Don't take the interview on someone else's behalf, and don't resell, scrape or automate access to the service."
+      ],
+      [
+        "h3",
+        "What the results are"
+      ],
+      [
+        "p",
+        "The questions, your manifesto, the political traditions and the state matches are written by AI: Gemini, made by Google. Your positions on the ten topics are calculated by VibeVote's own code from the answers you choose; the AI writes the scenes, not the score. Candidate positions are estimates drawn from public records, and every candidate carries a link to a source you can check yourself. Any of it can be incomplete, out of date or simply wrong."
+      ],
+      [
+        "p",
+        "VibeVote is not voting advice, not legal advice and not an official election resource. For registration, deadlines, polling places and the official ballot, use <a href=\"{vote}\" target=\"_blank\" rel=\"noopener\">vote.gov</a> or your state election office."
+      ],
+      [
+        "p",
+        "Every result records which versions of the AI model, the questions, the scoring method and the candidate data produced it, so a result can be explained after the method changes."
+      ],
+      [
+        "h3",
+        "Independence"
+      ],
+      [
+        "p",
+        "VibeVote isn't affiliated with, funded by or endorsed by any political party, candidate, campaign, committee or government agency. It carries no political advertising and never tells you who to vote for."
+      ],
+      [
+        "h3",
+        "Photos"
+      ],
+      [
+        "p",
+        "Candidate portraits are official congressional photographs in the public domain or freely licensed images from Wikimedia Commons. The <a href=\"{credits}\">photo credits</a> page names every author and licence."
+      ],
+      [
+        "h3",
+        "No warranty"
+      ],
+      [
+        "p",
+        "The service is provided as is, without warranties of any kind. To the fullest extent the law allows, VibeVote isn't liable for any loss, damage or decision that follows from using it. The service can change or stop at any time."
+      ],
+      [
+        "h2",
+        "Privacy"
+      ],
+      [
+        "h3",
+        "What happens to your answers"
+      ],
+      [
+        "p",
+        "Your ZIP code stays in your browser: the page uses it only to find your state and district. Your state, the optional details you give (age, gender, household and work), your interview answers and your language are sent to Google's Gemini API so Gemini can write your next questions and your manifesto. VibeVote keeps no copy on its servers and has no accounts. While the interview runs, its progress is held in your browser as an encrypted token that only our server can read; it is not stored anywhere else."
+      ],
+      [
+        "p",
+        "Google processes that text under the Gemini API terms for paid services. It does not use it to improve its products or train its models, and keeps it for a limited time only to detect and prevent abuse; VibeVote has no zero-retention arrangement. See <a href=\"{retention}\" target=\"_blank\" rel=\"noopener\">the Gemini API terms</a>."
+      ],
+      [
+        "p",
+        "Please don't type anything that identifies you or anyone else: no names, addresses, phone numbers, health details or other sensitive information."
+      ],
+      [
+        "h3",
+        "Share links"
+      ],
+      [
+        "p",
+        "A share link is created only when you tap Share, Copy link or one of the social buttons. It stores your state, your congressional district, your language and your manifesto: the title, the text, the traditions, the priorities, the best-fit states and the position scores, plus a preview card drawn from them so the link shows it when pasted. It does not store your age, gender, household, work or your interview answers. Anyone who has the link can open it."
+      ],
+      [
+        "p",
+        "A link expires by itself after about three months. You can delete it sooner yourself: open Share and choose Delete shared link, in the browser where you created it. If that browser is gone, send the link to <a href=\"{mail}\">hello@vibevote.us</a>."
+      ],
+      [
+        "h3",
+        "Your browser"
+      ],
+      [
+        "p",
+        "VibeVote keeps your consent, your language, your ZIP code, your latest result, your share link id and the key that lets you delete that link in your browser's local storage, so the page can show them to you again. Clearing the site data removes them. One short-lived cookie holds a random id for your anonymous interview session, for up to three hours, and nothing about you. There are no advertising or analytics cookies."
+      ],
+      [
+        "h3",
+        "Checking you're a person"
+      ],
+      [
+        "p",
+        "Before the interview starts, Cloudflare Turnstile checks that a person, not a script, is asking. It does this without a puzzle in most cases and without advertising cookies."
+      ],
+      [
+        "h3",
+        "Technical logs"
+      ],
+      [
+        "p",
+        "The site runs on Cloudflare, which processes your IP address and request details to deliver the page, block abuse and apply rate limits. For each AI request VibeVote logs only technical facts: which step ran, the model, the language, token counts, duration and whether it succeeded. Your details, your answers and your manifesto are never written to logs. VibeVote doesn't sell or share personal information and doesn't use it for advertising."
+      ],
+      [
+        "h3",
+        "Where it works"
+      ],
+      [
+        "p",
+        "The interview and shared results are available to visitors in the United States. The country is determined by Cloudflare from the network connection."
+      ],
+      [
+        "h3",
+        "Questions"
+      ],
+      [
+        "p",
+        "Write to <a href=\"{mail}\">hello@vibevote.us</a>."
+      ]
+    ]
+  },
+  "es": {
+    "title": "Términos y privacidad",
+    "updated": "Última actualización: 5 de octubre de 2026",
+    "back": "← Volver a VibeVote",
+    "note": "Esta traducción se ofrece para tu comodidad. Si difiere de la versión en inglés, prevalece la versión en inglés.",
+    "blocks": [
+      [
+        "lead",
+        "VibeVote te hace unas preguntas sobre tu propia vida, escribe un breve autorretrato político a partir de tus respuestas y lo compara con los candidatos que aparecen en la boleta de noviembre en tu estado."
+      ],
+      [
+        "h2",
+        "Términos de uso"
+      ],
+      [
+        "h3",
+        "Quién puede usarlo"
+      ],
+      [
+        "p",
+        "Debes tener 18 años o más y vivir en Estados Unidos. VibeVote es para tu uso personal y no comercial. No hagas la entrevista en nombre de otra persona, y no revendas, extraigas de forma masiva ni automatices el acceso al servicio."
+      ],
+      [
+        "h3",
+        "Qué son los resultados"
+      ],
+      [
+        "p",
+        "Las preguntas, tu manifiesto, las tradiciones políticas y las coincidencias con estados los escribe una IA: Gemini, de Google. Tus posiciones en los diez temas las calcula el propio código de VibeVote a partir de las respuestas que eliges; la IA escribe las escenas, no la puntuación. Las posiciones de los candidatos son estimaciones basadas en registros públicos, y cada candidato incluye un enlace a una fuente que puedes comprobar. Todo ello puede estar incompleto, desactualizado o ser sencillamente erróneo."
+      ],
+      [
+        "p",
+        "VibeVote no es una recomendación de voto, ni asesoría legal, ni un recurso electoral oficial. Para el registro, los plazos, los centros de votación y la boleta oficial, usa <a href=\"{vote}\" target=\"_blank\" rel=\"noopener\">vote.gov</a> o la oficina electoral de tu estado."
+      ],
+      [
+        "p",
+        "Cada resultado registra qué versiones del modelo de IA, de las preguntas, del método de puntuación y de los datos de candidatos lo produjeron, para poder explicarlo si el método cambia."
+      ],
+      [
+        "h3",
+        "Independencia"
+      ],
+      [
+        "p",
+        "VibeVote no está afiliado, financiado ni respaldado por ningún partido político, candidato, campaña, comité u organismo público. No contiene publicidad política y nunca te dice por quién votar."
+      ],
+      [
+        "h3",
+        "Fotos"
+      ],
+      [
+        "p",
+        "Los retratos de los candidatos son fotografías oficiales del Congreso en dominio público o imágenes con licencia libre de Wikimedia Commons. La página de <a href=\"{credits}\">créditos de las fotos</a> nombra a cada autor y cada licencia."
+      ],
+      [
+        "h3",
+        "Sin garantía"
+      ],
+      [
+        "p",
+        "El servicio se ofrece tal cual, sin garantías de ningún tipo. En la máxima medida que permita la ley, VibeVote no responde de ninguna pérdida, daño o decisión derivada de su uso. El servicio puede cambiar o interrumpirse en cualquier momento."
+      ],
+      [
+        "h2",
+        "Privacidad"
+      ],
+      [
+        "h3",
+        "Qué pasa con tus respuestas"
+      ],
+      [
+        "p",
+        "Tu código postal se queda en tu navegador: la página solo lo usa para encontrar tu estado y tu distrito. Tu estado, los datos opcionales que des (edad, género, hogar y trabajo), tus respuestas y tu idioma se envían a la API de Gemini de Google para que Gemini escriba tus siguientes preguntas y tu manifiesto. VibeVote no guarda ninguna copia en sus servidores y no tiene cuentas. Mientras dura la entrevista, su progreso se guarda en tu navegador como un token cifrado que solo nuestro servidor puede leer; no se almacena en ningún otro lugar."
+      ],
+      [
+        "p",
+        "Google procesa ese texto según los términos de la API de Gemini para servicios de pago. No lo usa para mejorar sus productos ni para entrenar sus modelos, y lo conserva durante un tiempo limitado solo para detectar y prevenir abusos; VibeVote no tiene un acuerdo de retención cero. Consulta los <a href=\"{retention}\" target=\"_blank\" rel=\"noopener\">términos de la API de Gemini</a>."
+      ],
+      [
+        "p",
+        "Por favor, no escribas nada que te identifique a ti o a otra persona: ni nombres, direcciones, teléfonos, datos de salud ni otra información sensible."
+      ],
+      [
+        "h3",
+        "Enlaces para compartir"
+      ],
+      [
+        "p",
+        "Un enlace para compartir solo se crea cuando tocas Compartir, Copiar enlace o uno de los botones de redes sociales. Guarda tu estado, tu distrito congresional, tu idioma y tu manifiesto: el título, el texto, las tradiciones, las prioridades, los estados más afines y las puntuaciones, además de una tarjeta de vista previa generada a partir de ellos. No guarda tu edad, género, hogar, trabajo ni tus respuestas. Cualquiera que tenga el enlace puede abrirlo."
+      ],
+      [
+        "p",
+        "El enlace caduca por sí solo tras unos tres meses. Puedes eliminarlo antes tú mismo: abre Compartir y elige Eliminar enlace compartido, en el navegador donde lo creaste. Si ya no tienes ese navegador, envía el enlace a <a href=\"{mail}\">hello@vibevote.us</a>."
+      ],
+      [
+        "h3",
+        "Tu navegador"
+      ],
+      [
+        "p",
+        "VibeVote guarda en el almacenamiento local de tu navegador tu consentimiento, tu idioma, tu código postal, tu último resultado, el identificador de tu enlace y la clave que te permite eliminarlo, para poder mostrártelos de nuevo. Al borrar los datos del sitio desaparecen. Una cookie de corta duración contiene un identificador aleatorio de tu sesión anónima de entrevista, durante un máximo de tres horas, y nada sobre ti. No hay cookies publicitarias ni de analítica."
+      ],
+      [
+        "h3",
+        "Comprobar que eres una persona"
+      ],
+      [
+        "p",
+        "Antes de empezar la entrevista, Cloudflare Turnstile comprueba que quien pregunta es una persona y no un programa. En la mayoría de los casos lo hace sin acertijos y sin cookies publicitarias."
+      ],
+      [
+        "h3",
+        "Registros técnicos"
+      ],
+      [
+        "p",
+        "El sitio funciona sobre Cloudflare, que procesa tu dirección IP y los datos de la solicitud para servir la página, bloquear abusos y aplicar límites de uso. Por cada solicitud a la IA, VibeVote registra solo datos técnicos: qué paso se ejecutó, el modelo, el idioma, el número de tokens, la duración y si tuvo éxito. Tus datos, tus respuestas y tu manifiesto nunca se escriben en los registros. VibeVote no vende ni comparte información personal ni la usa para publicidad."
+      ],
+      [
+        "h3",
+        "Dónde funciona"
+      ],
+      [
+        "p",
+        "La entrevista y los resultados compartidos están disponibles para visitantes en Estados Unidos. El país lo determina Cloudflare a partir de la conexión de red."
+      ],
+      [
+        "h3",
+        "Preguntas"
+      ],
+      [
+        "p",
+        "Escribe a <a href=\"{mail}\">hello@vibevote.us</a>."
+      ]
+    ]
+  },
+  "pt": {
+    "title": "Termos e privacidade",
+    "updated": "Última atualização: 5 de outubro de 2026",
+    "back": "← Voltar ao VibeVote",
+    "note": "Esta tradução é oferecida para sua conveniência. Se houver diferença em relação à versão em inglês, vale a versão em inglês.",
+    "blocks": [
+      [
+        "lead",
+        "O VibeVote faz algumas perguntas sobre a sua própria vida, escreve um breve autorretrato político a partir das suas respostas e o compara com os candidatos da cédula de novembro no seu estado."
+      ],
+      [
+        "h2",
+        "Termos de uso"
+      ],
+      [
+        "h3",
+        "Quem pode usar"
+      ],
+      [
+        "p",
+        "Você precisa ter 18 anos ou mais e morar nos Estados Unidos. O VibeVote é para uso pessoal e não comercial. Não faça a entrevista em nome de outra pessoa e não revenda, extraia em massa nem automatize o acesso ao serviço."
+      ],
+      [
+        "h3",
+        "O que são os resultados"
+      ],
+      [
+        "p",
+        "As perguntas, o seu manifesto, as tradições políticas e as correspondências com estados são escritos por IA: Gemini, do Google. As suas posições nos dez temas são calculadas pelo próprio código do VibeVote a partir das respostas que você escolhe; a IA escreve as cenas, não a pontuação. As posições dos candidatos são estimativas baseadas em registros públicos, e cada candidato traz um link para uma fonte que você pode conferir. Tudo isso pode estar incompleto, desatualizado ou simplesmente errado."
+      ],
+      [
+        "p",
+        "O VibeVote não é orientação de voto, nem aconselhamento jurídico, nem um recurso eleitoral oficial. Para registro, prazos, locais de votação e a cédula oficial, use <a href=\"{vote}\" target=\"_blank\" rel=\"noopener\">vote.gov</a> ou o órgão eleitoral do seu estado."
+      ],
+      [
+        "p",
+        "Cada resultado registra quais versões do modelo de IA, das perguntas, do método de pontuação e dos dados de candidatos o produziram, para que ele possa ser explicado se o método mudar."
+      ],
+      [
+        "h3",
+        "Independência"
+      ],
+      [
+        "p",
+        "O VibeVote não é afiliado, financiado nem apoiado por nenhum partido político, candidato, campanha, comitê ou órgão público. Não tem propaganda política e nunca diz em quem você deve votar."
+      ],
+      [
+        "h3",
+        "Fotos"
+      ],
+      [
+        "p",
+        "Os retratos dos candidatos são fotografias oficiais do Congresso em domínio público ou imagens com licença livre do Wikimedia Commons. A página de <a href=\"{credits}\">créditos das fotos</a> traz cada autor e cada licença."
+      ],
+      [
+        "h3",
+        "Sem garantia"
+      ],
+      [
+        "p",
+        "O serviço é oferecido como está, sem garantias de qualquer tipo. Na máxima extensão permitida por lei, o VibeVote não se responsabiliza por perdas, danos ou decisões decorrentes do seu uso. O serviço pode mudar ou ser encerrado a qualquer momento."
+      ],
+      [
+        "h2",
+        "Privacidade"
+      ],
+      [
+        "h3",
+        "O que acontece com as suas respostas"
+      ],
+      [
+        "p",
+        "O seu CEP fica no seu navegador: a página o usa apenas para encontrar o seu estado e o seu distrito. O seu estado, os dados opcionais que você informar (idade, gênero, família e trabalho), as suas respostas e o seu idioma são enviados à API do Gemini, do Google, para que o Gemini escreva as próximas perguntas e o seu manifesto. O VibeVote não guarda nenhuma cópia em seus servidores e não tem contas. Enquanto a entrevista acontece, o progresso fica no seu navegador como um token criptografado que só o nosso servidor consegue ler; ele não é armazenado em nenhum outro lugar."
+      ],
+      [
+        "p",
+        "O Google processa esse texto conforme os termos da API do Gemini para serviços pagos. Não o usa para melhorar seus produtos nem para treinar seus modelos, e o guarda por tempo limitado apenas para detectar e evitar abusos; o VibeVote não tem acordo de retenção zero. Veja os <a href=\"{retention}\" target=\"_blank\" rel=\"noopener\">termos da API do Gemini</a>."
+      ],
+      [
+        "p",
+        "Por favor, não digite nada que identifique você ou outra pessoa: nomes, endereços, telefones, dados de saúde ou outras informações sensíveis."
+      ],
+      [
+        "h3",
+        "Links de compartilhamento"
+      ],
+      [
+        "p",
+        "Um link de compartilhamento só é criado quando você toca em Compartilhar, Copiar link ou em um dos botões de redes sociais. Ele guarda o seu estado, o seu distrito eleitoral, o seu idioma e o seu manifesto: o título, o texto, as tradições, as prioridades, os estados mais próximos e as pontuações, além de um cartão de pré-visualização gerado a partir deles. Não guarda idade, gênero, família, trabalho nem as suas respostas. Qualquer pessoa com o link pode abri-lo."
+      ],
+      [
+        "p",
+        "O link expira sozinho em cerca de três meses. Você pode excluí-lo antes: abra Compartilhar e escolha Excluir link compartilhado, no navegador em que o criou. Se esse navegador não existir mais, envie o link para <a href=\"{mail}\">hello@vibevote.us</a>."
+      ],
+      [
+        "h3",
+        "O seu navegador"
+      ],
+      [
+        "p",
+        "O VibeVote guarda no armazenamento local do navegador o seu consentimento, o seu idioma, o seu CEP, o seu último resultado, o identificador do seu link e a chave que permite excluí-lo, para poder mostrá-los de novo. Limpar os dados do site remove tudo isso. Um cookie de curta duração guarda um identificador aleatório da sua sessão anônima de entrevista, por até três horas, e nada sobre você. Não há cookies de publicidade nem de análise."
+      ],
+      [
+        "h3",
+        "Verificar que você é uma pessoa"
+      ],
+      [
+        "p",
+        "Antes do início da entrevista, o Cloudflare Turnstile verifica se quem está pedindo é uma pessoa e não um script. Na maioria dos casos faz isso sem desafios e sem cookies de publicidade."
+      ],
+      [
+        "h3",
+        "Registros técnicos"
+      ],
+      [
+        "p",
+        "O site roda na Cloudflare, que processa o seu endereço IP e os dados da requisição para entregar a página, bloquear abusos e aplicar limites de uso. Para cada requisição à IA, o VibeVote registra apenas fatos técnicos: qual etapa rodou, o modelo, o idioma, a contagem de tokens, a duração e se deu certo. Os seus dados, as suas respostas e o seu manifesto nunca são gravados em registros. O VibeVote não vende nem compartilha informações pessoais e não as usa para publicidade."
+      ],
+      [
+        "h3",
+        "Onde funciona"
+      ],
+      [
+        "p",
+        "A entrevista e os resultados compartilhados estão disponíveis para visitantes nos Estados Unidos. O país é determinado pela Cloudflare a partir da conexão de rede."
+      ],
+      [
+        "h3",
+        "Dúvidas"
+      ],
+      [
+        "p",
+        "Escreva para <a href=\"{mail}\">hello@vibevote.us</a>."
+      ]
+    ]
+  },
+  "zh": {
+    "title": "条款与隐私",
+    "updated": "最后更新：2026年10月5日",
+    "back": "← 返回 VibeVote",
+    "note": "本译文仅为方便阅读而提供。如与英文版本不一致，以英文版本为准。",
+    "blocks": [
+      [
+        "lead",
+        "VibeVote 会就你自己的生活问几个问题，根据你的回答写出一份简短的政治自画像，并与你所在州今年11月选票上的候选人进行比较。"
+      ],
+      [
+        "h2",
+        "使用条款"
+      ],
+      [
+        "h3",
+        "谁可以使用"
+      ],
+      [
+        "p",
+        "你必须年满18岁并居住在美国。VibeVote 仅供你个人、非商业用途使用。请勿代他人完成访谈，也不要转售、批量抓取或以自动化方式访问本服务。"
+      ],
+      [
+        "h3",
+        "结果是什么"
+      ],
+      [
+        "p",
+        "问题、你的宣言、政治传统和州匹配由人工智能撰写：Google 公司的 Gemini。你在十个议题上的立场，由 VibeVote 自己的代码根据你选择的答案计算得出；人工智能只负责写情境，不负责打分。候选人的立场是根据公开记录做出的估计，每位候选人都附有可供你自行核对的来源链接。以上内容都可能不完整、已过时，或者干脆有误。"
+      ],
+      [
+        "p",
+        "VibeVote 不是投票建议，不是法律意见，也不是官方选举资源。有关选民登记、截止日期、投票地点和正式选票，请使用 <a href=\"{vote}\" target=\"_blank\" rel=\"noopener\">vote.gov</a> 或你所在州的选举机构。"
+      ],
+      [
+        "p",
+        "每份结果都会记录生成它的人工智能模型、问题、计分方法和候选人数据的版本，以便在方法更新后仍能解释该结果。"
+      ],
+      [
+        "h3",
+        "独立性"
+      ],
+      [
+        "p",
+        "VibeVote 不隶属于任何政党、候选人、竞选团队、委员会或政府机构，也不接受其资助或背书。本站不刊登政治广告，也绝不会告诉你该投给谁。"
+      ],
+      [
+        "h3",
+        "照片"
+      ],
+      [
+        "p",
+        "候选人肖像为属于公有领域的国会官方照片，或来自维基共享资源的自由许可图片。<a href=\"{credits}\">照片来源</a>页面列出了每位作者和每项许可。"
+      ],
+      [
+        "h3",
+        "免责声明"
+      ],
+      [
+        "p",
+        "本服务按现状提供，不附带任何形式的保证。在法律允许的最大范围内，VibeVote 不对因使用本服务而产生的任何损失、损害或决定承担责任。本服务可能随时变更或停止。"
+      ],
+      [
+        "h2",
+        "隐私"
+      ],
+      [
+        "h3",
+        "你的回答会怎样处理"
+      ],
+      [
+        "p",
+        "你的邮政编码只保存在你的浏览器中：页面仅用它来确定你所在的州和选区。你所在的州、你选择提供的信息（年龄、性别、家庭情况和工作）、你的访谈回答以及你的语言，会发送到 Google 的 Gemini API，以便 Gemini 撰写接下来的问题和你的宣言。VibeVote 不在自己的服务器上保留任何副本，也没有账户系统。访谈进行期间，进度以加密令牌的形式保存在你的浏览器中，只有我们的服务器能够读取；它不会存放在其他任何地方。"
+      ],
+      [
+        "p",
+        "Google 按照 Gemini API 付费服务条款处理这些文本。它不会用这些内容改进其产品或训练其模型，只会为发现和防止滥用而保留有限时间。VibeVote 没有零保留协议。详见 <a href=\"{retention}\" target=\"_blank\" rel=\"noopener\">Gemini API 条款</a>。"
+      ],
+      [
+        "p",
+        "请不要输入任何能识别你或他人身份的内容：姓名、地址、电话号码、健康状况或其他敏感信息。"
+      ],
+      [
+        "h3",
+        "分享链接"
+      ],
+      [
+        "p",
+        "只有当你点击“分享”、“复制链接”或某个社交按钮时，才会创建分享链接。它保存你所在的州、国会选区、语言和你的宣言：标题、正文、政治传统、优先议题、最匹配的州和立场分数，以及据此生成的预览卡片。它不保存你的年龄、性别、家庭情况、工作或访谈回答。任何拿到链接的人都可以打开它。"
+      ],
+      [
+        "p",
+        "链接大约三个月后自动失效。你也可以提前自行删除：在创建链接的那个浏览器中打开“分享”，选择“删除分享链接”。如果那个浏览器已无法使用，请把链接发送到 <a href=\"{mail}\">hello@vibevote.us</a>。"
+      ],
+      [
+        "h3",
+        "你的浏览器"
+      ],
+      [
+        "p",
+        "VibeVote 会在你浏览器的本地存储中保存你的同意记录、语言、邮政编码、最近一次结果、分享链接的编号以及用于删除该链接的密钥，以便再次向你展示。清除网站数据即可将其删除。有一个短期 Cookie 保存你匿名访谈会话的随机编号，最长三小时，不含任何关于你的信息。本站没有广告或分析类 Cookie。"
+      ],
+      [
+        "h3",
+        "确认你是真人"
+      ],
+      [
+        "p",
+        "访谈开始前，Cloudflare Turnstile 会确认发出请求的是真人而不是脚本。多数情况下无需做验证题，也不使用广告 Cookie。"
+      ],
+      [
+        "h3",
+        "技术日志"
+      ],
+      [
+        "p",
+        "本站运行在 Cloudflare 上，Cloudflare 会处理你的 IP 地址和请求信息，用于提供页面、阻止滥用和限制访问频率。对于每一次人工智能请求，VibeVote 只记录技术信息：执行的步骤、模型、语言、令牌数量、耗时以及是否成功。你的个人信息、回答和宣言绝不会写入日志。VibeVote 不出售、不共享个人信息，也不将其用于广告。"
+      ],
+      [
+        "h3",
+        "适用地区"
+      ],
+      [
+        "p",
+        "访谈和分享的结果仅向位于美国的访问者开放。所在国家由 Cloudflare 根据网络连接判定。"
+      ],
+      [
+        "h3",
+        "联系我们"
+      ],
+      [
+        "p",
+        "请写信至 <a href=\"{mail}\">hello@vibevote.us</a>。"
+      ]
+    ]
+  },
+  "ru": {
+    "title": "Условия и конфиденциальность",
+    "updated": "Последнее обновление: 5 октября 2026 года",
+    "back": "← Назад в VibeVote",
+    "note": "Этот перевод предоставлен для удобства. При расхождениях с английской версией действует английская версия.",
+    "blocks": [
+      [
+        "lead",
+        "VibeVote задаёт несколько вопросов о вашей собственной жизни, составляет по ответам короткий политический автопортрет и сравнивает его с кандидатами из ноябрьского бюллетеня в вашем штате."
+      ],
+      [
+        "h2",
+        "Условия использования"
+      ],
+      [
+        "h3",
+        "Кто может пользоваться"
+      ],
+      [
+        "p",
+        "Вам должно быть не меньше 18 лет, и вы должны жить в США. VibeVote предназначен для личного некоммерческого использования. Не проходите интервью за другого человека, не перепродавайте сервис, не собирайте данные массово и не автоматизируйте доступ к нему."
+      ],
+      [
+        "h3",
+        "Что представляют собой результаты"
+      ],
+      [
+        "p",
+        "Вопросы, ваш манифест, политические традиции и подбор штатов пишет ИИ: Gemini от Google. Ваши позиции по десяти темам рассчитывает собственный код VibeVote по выбранным вами ответам: ИИ пишет ситуации, но не выставляет оценки. Позиции кандидатов являются оценками на основе открытых источников, и у каждого кандидата есть ссылка на источник, который можно проверить. Всё это может быть неполным, устаревшим или просто ошибочным."
+      ],
+      [
+        "p",
+        "VibeVote не является рекомендацией по голосованию, юридической консультацией или официальным избирательным ресурсом. По вопросам регистрации, сроков, избирательных участков и официального бюллетеня обращайтесь на <a href=\"{vote}\" target=\"_blank\" rel=\"noopener\">vote.gov</a> или в избирательный орган своего штата."
+      ],
+      [
+        "p",
+        "В каждом результате записано, какие версии модели ИИ, вопросов, метода подсчёта и данных о кандидатах его создали, чтобы результат можно было объяснить после изменения методики."
+      ],
+      [
+        "h3",
+        "Независимость"
+      ],
+      [
+        "p",
+        "VibeVote не связан ни с одной политической партией, кандидатом, кампанией, комитетом или государственным органом, не финансируется и не поддерживается ими. Здесь нет политической рекламы, и сервис никогда не говорит, за кого голосовать."
+      ],
+      [
+        "h3",
+        "Фотографии"
+      ],
+      [
+        "p",
+        "Портреты кандидатов взяты из официальных фотографий Конгресса, находящихся в общественном достоянии, или из свободно лицензированных изображений Викисклада. На странице <a href=\"{credits}\">авторов фотографий</a> указаны каждый автор и каждая лицензия."
+      ],
+      [
+        "h3",
+        "Отсутствие гарантий"
+      ],
+      [
+        "p",
+        "Сервис предоставляется как есть, без каких-либо гарантий. В максимальной степени, допустимой законом, VibeVote не несёт ответственности за убытки, ущерб или решения, связанные с его использованием. Сервис может измениться или прекратить работу в любой момент."
+      ],
+      [
+        "h2",
+        "Конфиденциальность"
+      ],
+      [
+        "h3",
+        "Что происходит с вашими ответами"
+      ],
+      [
+        "p",
+        "Ваш почтовый индекс остаётся в браузере: страница использует его только чтобы определить штат и округ. Ваш штат, необязательные сведения, которые вы указали (возраст, пол, состав семьи и работа), ответы интервью и язык отправляются в Gemini API компании Google, чтобы Gemini написал следующие вопросы и ваш манифест. VibeVote не хранит копий на своих серверах, и учётных записей у нас нет. Пока идёт интервью, его ход хранится в вашем браузере в виде зашифрованного токена, прочитать который может только наш сервер; больше он нигде не сохраняется."
+      ],
+      [
+        "p",
+        "Google обрабатывает этот текст по условиям Gemini API для платных сервисов. Он не использует его для улучшения своих продуктов или обучения моделей и хранит ограниченное время только для выявления и предотвращения злоупотреблений. Соглашения о нулевом хранении у VibeVote нет. См. <a href=\"{retention}\" target=\"_blank\" rel=\"noopener\">условия Gemini API</a>."
+      ],
+      [
+        "p",
+        "Пожалуйста, не вводите ничего, что позволяет опознать вас или другого человека: имена, адреса, телефоны, сведения о здоровье и другую чувствительную информацию."
+      ],
+      [
+        "h3",
+        "Ссылки для публикации"
+      ],
+      [
+        "p",
+        "Ссылка создаётся только когда вы нажимаете «Поделиться», «Копировать ссылку» или одну из кнопок соцсетей. В ней сохраняются ваш штат, избирательный округ, язык и манифест: заголовок, текст, традиции, приоритеты, наиболее близкие штаты и оценки позиций, а также карточка предпросмотра, построенная по ним. Возраст, пол, состав семьи, работа и ответы интервью не сохраняются. Открыть ссылку может любой, у кого она есть."
+      ],
+      [
+        "p",
+        "Ссылка сама перестаёт действовать примерно через три месяца. Удалить её раньше можно самостоятельно: откройте «Поделиться» и выберите «Удалить ссылку» в том браузере, где она была создана. Если этого браузера больше нет, пришлите ссылку на <a href=\"{mail}\">hello@vibevote.us</a>."
+      ],
+      [
+        "h3",
+        "Ваш браузер"
+      ],
+      [
+        "p",
+        "VibeVote хранит в локальном хранилище браузера ваше согласие, язык, почтовый индекс, последний результат, идентификатор ссылки и ключ для её удаления, чтобы показать их вам снова. Очистка данных сайта всё это удаляет. Одна кратковременная cookie хранит случайный идентификатор вашей анонимной сессии интервью не дольше трёх часов и ничего о вас. Рекламных и аналитических cookie нет."
+      ],
+      [
+        "h3",
+        "Проверка, что вы человек"
+      ],
+      [
+        "p",
+        "Перед началом интервью Cloudflare Turnstile проверяет, что запрос отправляет человек, а не скрипт. В большинстве случаев это происходит без заданий и без рекламных cookie."
+      ],
+      [
+        "h3",
+        "Технические журналы"
+      ],
+      [
+        "p",
+        "Сайт работает на Cloudflare, который обрабатывает ваш IP-адрес и сведения о запросе, чтобы отдавать страницу, блокировать злоупотребления и ограничивать частоту запросов. По каждому запросу к ИИ VibeVote записывает только технические данные: какой шаг выполнялся, модель, язык, число токенов, длительность и успешность. Ваши сведения, ответы и манифест в журналы никогда не попадают. VibeVote не продаёт и не передаёт личную информацию и не использует её для рекламы."
+      ],
+      [
+        "h3",
+        "Где работает"
+      ],
+      [
+        "p",
+        "Интервью и опубликованные результаты доступны посетителям из США. Страну определяет Cloudflare по сетевому подключению."
+      ],
+      [
+        "h3",
+        "Вопросы"
+      ],
+      [
+        "p",
+        "Пишите на <a href=\"{mail}\">hello@vibevote.us</a>."
+      ]
+    ]
+  }
+}

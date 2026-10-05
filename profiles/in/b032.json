@@ -1,0 +1,421 @@
+[
+ {
+  "id": "FL-4/todd-schaefer",
+  "name": "Todd Schaefer",
+  "party": "Independent",
+  "race": "FL-4",
+  "race_label": "Florida · US House FL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-5/john-rutherford",
+  "name": "John Rutherford",
+  "party": "Republican",
+  "race": "FL-5",
+  "race_label": "Florida · US House FL-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000609",
+   "official_name": "John H. Rutherford",
+   "chamber": "House",
+   "official_site": "https://rutherford.house.gov",
+   "official_social": {
+    "facebook": "RepRutherfordFL",
+    "twitter": "RepRutherfordFL",
+    "instagram": "reprutherfordfl",
+    "youtube": "Reprutherfordfl"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 75,
+    "security": 75,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 40,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 and 2025 tax cuts, ACA repeal, Laken Riley Act; opposes abortion and marijuana (liberty); ex-sheriff; opposes offshore drilling and Green New Deal.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2025/roll023.xml"
+   ],
+   "photo": {
+    "file": "File:Rutherford John 119th Congress (cropped) (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "FL-5/rachel-grage",
+  "name": "Rachel Grage",
+  "party": "Democratic",
+  "race": "FL-5",
+  "race_label": "Florida · US House FL-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found on campaign site.",
+   "sources": [
+    "https://www.rachelgrage.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-6/randy-fine",
+  "name": "Randy Fine",
+  "party": "Republican",
+  "race": "FL-6",
+  "race_label": "Florida · US House FL-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000484",
+   "official_name": "Randy Fine",
+   "chamber": "House",
+   "official_site": "https://fine.house.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 70,
+    "security": 80,
+    "immigration": 90,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Voted for 2025 tax bill; backs vouchers, drag-show limits (liberty), harsher penalties, immigration enforcement, hawkish Israel/Iran stance, skeptical of Ukraine.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Randy_Fine",
+    "https://clerk.house.gov/evs/2025/roll190.xml"
+   ],
+   "photo": {
+    "file": "File:Rep. Randy Fine, official portrait, 2026 (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "FL-6/eric-yonce",
+  "name": "Eric Yonce",
+  "party": "Democratic",
+  "race": "FL-6",
+  "race_label": "Florida · US House FL-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found on campaign site.",
+   "sources": [
+    "https://yonceforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-6/andrew-parrott",
+  "name": "Andrew Parrott",
+  "party": "Libertarian",
+  "race": "FL-6",
+  "race_label": "Florida · US House FL-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-7/ryan-elijah",
+  "name": "Ryan Elijah",
+  "party": "Republican",
+  "race": "FL-7",
+  "race_label": "Florida · US House FL-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 30,
+    "liberty": 55,
+    "security": 70,
+    "immigration": 70,
+    "foreign": null,
+    "energy": 25,
+    "tech": null,
+    "education": 15,
+    "faith": 65
+   },
+   "basis": "Backs low taxes, HSAs, pro-life stance and NRA-rated gun rights (liberty), tougher penalties, SAVE Act, energy independence, school choice, family values.",
+   "sources": [
+    "https://elijahforcongress.com/issues.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-7/bale-dalton",
+  "name": "Bale Dalton",
+  "party": "Democratic",
+  "race": "FL-7",
+  "race_label": "Florida · US House FL-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 25,
+    "security": 55,
+    "immigration": 55,
+    "foreign": 30,
+    "energy": 45,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs higher minimum wage, PRO Act, ACA expansion, codifying Roe and gun rights (liberty), police funding, border security, opposes Middle East wars.",
+   "sources": [
+    "https://baledalton.com/priorities/"
+   ],
+   "photo": {
+    "file": "File:Bale Dalton.webp",
+    "license": "Public domain",
+    "author": "NASA"
+   }
+  }
+ },
+ {
+  "id": "FL-7/christopher-dennison",
+  "name": "Christopher Dennison",
+  "party": "Libertarian",
+  "race": "FL-7",
+  "race_label": "Florida · US House FL-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-8/mike-haridopolos",
+  "name": "Mike Haridopolos",
+  "party": "Republican",
+  "race": "FL-8",
+  "race_label": "Florida · US House FL-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001099",
+   "official_name": "Mike Haridopolos",
+   "chamber": "House",
+   "official_site": "https://haridopolos.house.gov",
+   "official_social": {
+    "twitter": "repharidopolos"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 20,
+    "security": 55,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 tax bill and Laken Riley Act; supports Second Amendment (liberty), backing police while opposing justice-system weaponization, border security.",
+   "sources": [
+    "https://www.mike4congress.com/issues",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2025/roll023.xml"
+   ],
+   "photo": {
+    "file": "File:Haridolopos Mike 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "FL-8/jennifer-jenkins",
+  "name": "Jennifer Jenkins",
+  "party": "Democratic",
+  "race": "FL-8",
+  "race_label": "Florida · US House FL-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 80,
+    "liberty": null,
+    "security": 40,
+    "immigration": 30,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Backs Medicaid expansion, ACA subsidies, evidence-based public safety, immigrants' constitutional rights, Department of Education and Title I funding.",
+   "sources": [
+    "https://jenkinsforfl.com/priorities/"
+   ],
+   "photo": {
+    "file": "File:Jennifer Jenkins.jpg",
+    "license": "Public domain",
+    "author": "Brevard County School"
+   }
+  }
+ },
+ {
+  "id": "FL-9/darren-soto",
+  "name": "Darren Soto",
+  "party": "Democratic",
+  "race": "FL-9",
+  "race_label": "Florida · US House FL-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001200",
+   "official_name": "Darren Soto",
+   "chamber": "House",
+   "official_site": "https://soto.house.gov",
+   "official_social": {
+    "twitter": "RepDarrenSoto",
+    "facebook": "CongressmanDarrenSoto",
+    "youtube": "repdarrensoto",
+    "instagram": "RepDarrenSoto"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 75,
+    "security": null,
+    "immigration": 25,
+    "foreign": null,
+    "energy": 85,
+    "tech": 35,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposed 2025 tax bill; backs manufacturing incentives, DREAM Act, assault-weapons ban (liberty from guns), LCV-rated environmental votes; eased crypto oversight.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Darren_Soto",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2025/roll023.xml"
+   ],
+   "photo": {
+    "file": "File:Darren Soto, official portrait, 115th Congress (congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ }
+]

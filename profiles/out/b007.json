@@ -1,0 +1,439 @@
+[
+ {
+  "id": "MI-SEN/mike-rogers",
+  "name": "Mike Rogers",
+  "party": "Republican",
+  "current_role": "Former U.S. Representative for MI-8",
+  "bio": "Mike Rogers represented Michigan's 8th congressional district in the U.S. House from 2001 to 2015 and chaired the House Intelligence Committee from 2011 to 2015. He previously served in the Michigan State Senate and worked as an FBI special agent. He was the Republican nominee for U.S. Senate in 2024 and is the party's nominee again in 2026.",
+  "website": "https://rogersforsenate.com/",
+  "social": {
+   "x": "https://x.com/MikeRogersForMI",
+   "instagram": "https://www.instagram.com/mikerogersformi/",
+   "facebook": "https://www.facebook.com/MikeRogersForMI",
+   "youtube": "https://www.youtube.com/@MikeRogersForMI"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Require hospitals and insurers to post prices and report claim denial rates, with penalties for companies that fail to comply.", "source": "https://rogersforsenate.com/healthplan"},
+   {"topic": "Prescription drugs", "point": "Expand the TrumpRx bulk-purchasing program and speed up approval of generic drugs to lower medication costs.", "source": "https://rogersforsenate.com/healthplan"},
+   {"topic": "Manufacturing", "point": "Bring manufacturing jobs back to Michigan.", "source": "https://rogersforsenate.com/"},
+   {"topic": "Cost of living", "point": "Lower prices for gas, groceries and prescription drugs.", "source": "https://rogersforsenate.com/"},
+   {"topic": "Seniors", "point": "Protect Social Security and Medicare.", "source": "https://rogersforsenate.com/"},
+   {"topic": "Housing", "point": "Has released a housing plan aimed at making homes more affordable for Michigan families.", "source": "https://rogersforsenate.com/housingplan"}
+  ],
+  "positions": {
+   "economy": {"score": 35, "evidence": "Supports Trump's tariffs on foreign goods while calling for lower federal spending to bring down interest rates.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"},
+   "welfare": {"score": 30, "evidence": "Health plan relies on price transparency, insurer accountability and bulk drug purchasing rather than expanded public coverage.", "source": "https://rogersforsenate.com/healthplan"},
+   "liberty": {"score": 70, "evidence": "Abortion: consistent anti-abortion voting record, though he says he would respect Michigan's constitutional abortion protections.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"},
+   "security": {"score": 80, "evidence": "As Intelligence Committee chair he introduced the Cyber Intelligence Sharing and Protection Act (CISPA) and backed intelligence authorization bills.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"},
+   "immigration": {"score": 85, "evidence": "Links crime to open borders and supports a border wall and stricter enforcement.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"},
+   "foreign": {"score": 80, "evidence": "Strongly pro-Israel and supported U.S. strikes on Iran.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"},
+   "energy": {"score": 20, "evidence": "Calls for more American oil production to achieve energy independence.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)"},
+   "tech": null,
+   "education": {"score": 35, "evidence": "Campaign says schools should prioritise education over what it calls indoctrination.", "source": "https://rogersforsenate.com/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Mike-Rogers-Head-Shot-2 (3x4 cropped).jpg", "license": "Public domain", "author": "United States Congress"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/65ef633c0132364ea5b0285f/4b3418df-de68-4503-af85-42fb777427c0/530A0631+%281%29.jpg",
+  "notes": "The campaign photo URL is a campaign-site image and may not be a formal headshot."
+ },
+ {
+  "id": "MI-GOV/jocelyn-benson",
+  "name": "Jocelyn Benson",
+  "party": "Democratic",
+  "current_role": "Michigan Secretary of State",
+  "bio": "Jocelyn Benson has served as Michigan's Secretary of State since 2019 and was reelected in 2022. She previously worked as a civil rights and voting rights attorney, served as dean of Wayne State University Law School from 2012 to 2016, and led the Ross Initiative in Sports for Equality. She is originally from Pittsburgh, Pennsylvania.",
+  "website": "https://www.jocelynbenson.com/",
+  "social": {
+   "x": "https://x.com/JocelynBenson",
+   "instagram": "https://instagram.com/jocelynbenson",
+   "facebook": "https://facebook.com/bensonformichigan",
+   "tiktok": "https://tiktok.com/@jocelynbensonhq",
+   "youtube": "https://www.youtube.com/@BensonforGovernor"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Create an independent Prescription Drug Affordability Board with power to review and limit drug price increases.", "source": "https://www.jocelynbenson.com/issues/Healthcare"},
+   {"topic": "Medical debt", "point": "Pass cost transparency legislation to end surprise medical bills and expand medical debt relief.", "source": "https://www.jocelynbenson.com/issues/Healthcare"},
+   {"topic": "Data centers", "point": "Require public hearings for data center projects, proof they will not strain water and land, and that they pay their own energy costs.", "source": "https://www.jocelynbenson.com/issues/data-centers"},
+   {"topic": "Energy costs", "point": "Hold utilities accountable so rate increases fund grid upgrades and fewer outages; refuses energy-company corporate PAC money.", "source": "https://www.jocelynbenson.com/issues/Energy-Costs"},
+   {"topic": "Education", "point": "Work with educators, parents and students to transform public schools against world-class benchmarks.", "source": "https://www.jocelynbenson.com/issues/education"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Proposes a state board to regulate prescription drug price increases and union-contract requirements for data centers.", "source": "https://www.jocelynbenson.com/issues/data-centers"},
+   "welfare": {"score": 70, "evidence": "Pledges to protect Medicaid from federal cuts and expand low- or no-cost preventive care and medical debt relief.", "source": "https://www.jocelynbenson.com/issues/Healthcare"},
+   "liberty": {"score": 20, "evidence": "Abortion: pledges to defend women's health services and reproductive care against federal rollbacks.", "source": "https://www.jocelynbenson.com/issues/Healthcare"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Campaign lists environmental protection as an issue and requires data centers to prove they will not deplete natural resources.", "source": "https://www.jocelynbenson.com/issues/environment"},
+   "tech": {"score": 65, "evidence": "Calls for mandatory public hearings, disclosure and environmental conditions before data centers are built.", "source": "https://www.jocelynbenson.com/issues/data-centers"},
+   "education": {"score": 80, "evidence": "Education plan centres on transforming Michigan's public schools with educators and parents.", "source": "https://www.jocelynbenson.com/issues/education"},
+   "faith": null
+  },
+  "photo": {"file": "File:SOS Jocelyn Benson web.jpg", "license": "CC BY 4.0", "author": "John F. Martin (JFM Photo 73)"},
+  "campaign_photo": "https://run.imgix.net/c9b12638-e867-4422-b5c9-3bbe3a93dc72/e832ad6e-a0a1-4779-8af3-4f2786d9bda2/e832ad6e-a0a1-4779-8af3-4f2786d9bda2.jpg",
+  "notes": ""
+ },
+ {
+  "id": "MI-GOV/john-james",
+  "name": "John James",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MI-10",
+  "bio": "John James has represented Michigan's 10th congressional district in the U.S. House since 2023. A West Point graduate, he served eight years as an Army aviation officer and flew Apache helicopters in Iraq, then led his family's Detroit-area logistics business. He was the Republican nominee for U.S. Senate in 2018 and 2020.",
+  "website": "https://johnjamesmi.com/",
+  "social": {
+   "x": "https://twitter.com/johnjamesmi",
+   "instagram": "https://instagram.com/johnjamesmi",
+   "facebook": "https://www.facebook.com/JohnJamesMI/",
+   "youtube": "https://youtube.com/johnjamesmi"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Eliminate Michigan's income tax and add tax credits for shortage occupations and skilled-trades scholarships.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   {"topic": "Education", "point": "Expand school choice and school accountability through an Education Freedom Agenda.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   {"topic": "Parental rights", "point": "Pass a Parents' Bill of Rights covering parents' say in education and health care.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   {"topic": "Ethics", "point": "Enact ethics reform and government transparency measures.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   {"topic": "Cannabis", "point": "Tighten cannabis tax enforcement and regulation as part of a public safety plan.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   {"topic": "Health", "point": "Offer a Michigan Family Health and Freedom Plan on health care access and wellness.", "source": "https://johnjamesmi.com/freedom-agenda/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Pledges to eliminate Michigan's state income tax.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   "welfare": {"score": 20, "evidence": "Health plan emphasises family choice and wellness over expanded public programs.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   "liberty": {"score": 55, "evidence": "Abortion: describes himself as pro-life; guns: pro-Second Amendment; drugs: opposed recreational marijuana legalization.", "source": "https://en.wikipedia.org/wiki/John_James_(Michigan_politician)"},
+   "security": {"score": 70, "evidence": "Has pledged to designate the Council on American-Islamic Relations a terrorist organization if elected.", "source": "https://arabamericannews.com/2026/07/10/john-james-doubles-down-on-ashura-remarks-vows-to-label-cair-a-terrorist-organization-if-elected-governor/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Agenda includes requiring parental approval for minors' app store downloads.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   "education": {"score": 10, "evidence": "Backs school choice tax credits and a parents' bill of rights.", "source": "https://johnjamesmi.com/freedom-agenda/"},
+   "faith": {"score": 70, "evidence": "Nondenominational Christian who has pledged religious freedom protections for all faiths.", "source": "https://en.wikipedia.org/wiki/John_James_(Michigan_politician)"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "An earlier immigration score was removed because no specific immigration statement could be confirmed."
+ },
+ {
+  "id": "MN-SEN/peggy-flanagan",
+  "name": "Peggy Flanagan",
+  "party": "Democratic",
+  "current_role": "Lieutenant Governor of Minnesota",
+  "bio": "Peggy Flanagan has served as Minnesota's lieutenant governor since 2019 alongside Governor Tim Walz. She previously served in the Minnesota House of Representatives from 2015 to 2019 and on the Minneapolis Public Schools board. She is a citizen of the White Earth Nation and grew up in St. Louis Park, Minnesota.",
+  "website": "https://peggyflanagan.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/peggyflanagan",
+   "facebook": "https://www.facebook.com/people/Peggy-Flanagan/61573651403308/"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Enact Medicare for All, ban prior authorization and negotiate prescription drug prices.", "source": "https://peggyflanagan.com/priorities/"},
+   {"topic": "Wages", "point": "Raise the minimum wage to $17 indexed to inflation, create national paid leave and pass the PRO Act.", "source": "https://peggyflanagan.com/priorities/"},
+   {"topic": "Immigration", "point": "Dismantle ICE, end mass deportations and create pathways to legal status.", "source": "https://peggyflanagan.com/priorities/"},
+   {"topic": "Energy", "point": "Reach 100% carbon-free electricity by 2040 with union clean-energy jobs.", "source": "https://peggyflanagan.com/priorities/"},
+   {"topic": "Education", "point": "Provide universal pre-K, fully fund special education and fund public K-12 schools without vouchers.", "source": "https://peggyflanagan.com/priorities/"},
+   {"topic": "Guns", "point": "Ban assault weapons, high-capacity magazines and ghost guns.", "source": "https://peggyflanagan.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Supports a $17 inflation-indexed minimum wage, national paid leave and the PRO Act.", "source": "https://peggyflanagan.com/priorities/"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and universal pre-K.", "source": "https://peggyflanagan.com/priorities/"},
+   "liberty": {"score": 30, "evidence": "Abortion and LGBTQ rights: supports abortion rights and gender-affirming care; guns: backs assault weapons and ghost gun bans.", "source": "https://en.wikipedia.org/wiki/Peggy_Flanagan"},
+   "security": {"score": 30, "evidence": "Calls for dismantling ICE and protecting due process for all immigrants.", "source": "https://peggyflanagan.com/priorities/"},
+   "immigration": {"score": 10, "evidence": "Calls for dismantling ICE, ending mass deportation and creating pathways to legal status.", "source": "https://peggyflanagan.com/priorities/"},
+   "foreign": {"score": 55, "evidence": "Supports a two-state solution but would back cuts to U.S. military aid to Israel; called the 2026 Iran war illegal.", "source": "https://en.wikipedia.org/wiki/Peggy_Flanagan"},
+   "energy": {"score": 85, "evidence": "Supports 100% carbon-free electricity by 2040.", "source": "https://peggyflanagan.com/priorities/"},
+   "tech": {"score": 70, "evidence": "Opposes insurers using AI to make prior authorization decisions.", "source": "https://peggyflanagan.com/priorities/"},
+   "education": {"score": 90, "evidence": "Supports robust federal K-12 funding and opposes voucher programs.", "source": "https://peggyflanagan.com/priorities/"},
+   "faith": null
+  },
+  "photo": {"file": "File:2026PeggyFlanagan (newcropped).jpg", "license": "CC BY-SA 4.0", "author": "Travellers & Tinkers"},
+  "campaign_photo": "https://peggyflanagan.com/wp-content/uploads/2025/02/FlanaganSenate2-1024x370.webp",
+  "notes": "The campaign photo is a wide banner image rather than a tight headshot."
+ },
+ {
+  "id": "MN-SEN/michele-tafoya",
+  "name": "Michele Tafoya",
+  "party": "Republican",
+  "current_role": "Former sports broadcaster",
+  "bio": "Michele Tafoya is a former sports broadcaster who worked for CBS Sports, ESPN/ABC and NBC Sports, where she was the sideline reporter for Sunday Night Football until 2022. She co-chaired Kendall Qualls's 2022 campaign for Minnesota governor. She announced her U.S. Senate campaign in January 2026.",
+  "website": "https://micheletafoya.com/",
+  "social": {
+   "x": "https://x.com/Michele_Tafoya",
+   "instagram": "https://www.instagram.com/realmicheletafoya",
+   "facebook": "https://www.facebook.com/micheletafoyaforsenate"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Protect middle-class tax cuts and reduce federal spending and borrowing.", "source": "https://micheletafoya.com/issues/"},
+   {"topic": "Energy", "point": "Pursue an all-of-the-above energy approach to lower utility bills.", "source": "https://micheletafoya.com/issues/"},
+   {"topic": "Immigration", "point": "Deport immigrants convicted of fraud or other crimes and oppose abolishing ICE.", "source": "https://micheletafoya.com/issues/"},
+   {"topic": "Public safety", "point": "Increase support for law enforcement and toughen penalties for violent crime.", "source": "https://micheletafoya.com/issues/"},
+   {"topic": "Fraud", "point": "Impose tough sentences for fraud and withhold federal funds from states lacking anti-fraud controls.", "source": "https://micheletafoya.com/issues/"},
+   {"topic": "Elections", "point": "Require voter ID and paper ballots.", "source": "https://micheletafoya.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Opposes raising taxes and calls for cutting federal spending and borrowing.", "source": "https://micheletafoya.com/issues/"},
+   "welfare": {"score": 25, "evidence": "Opposes government-run health care and expanding the Affordable Care Act.", "source": "https://www.ontheissues.org/Senate/Michele_Tafoya.htm"},
+   "liberty": {"score": 50, "evidence": "Abortion: describes herself as a pro-choice Republican; LGBTQ: would bar transgender athletes from women's sports and facilities.", "source": "https://www.ontheissues.org/Senate/Michele_Tafoya.htm"},
+   "security": {"score": 70, "evidence": "Supports more funding for police, tougher violent-crime penalties and opposes defunding the police.", "source": "https://micheletafoya.com/issues/"},
+   "immigration": {"score": 70, "evidence": "Supports deporting criminal immigrants and opposes abolishing ICE.", "source": "https://micheletafoya.com/issues/"},
+   "foreign": {"score": 65, "evidence": "Takes a firm line against Iran's nuclear program while opposing extended military involvement in the region.", "source": "https://en.wikipedia.org/wiki/Michele_Tafoya"},
+   "energy": {"score": 35, "evidence": "Backs an all-of-the-above approach using all U.S. energy sources.", "source": "https://micheletafoya.com/issues/"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Calls for more parental involvement and transparency in schools and has backed school vouchers.", "source": "https://www.ontheissues.org/Senate/Michele_Tafoya.htm"},
+   "faith": null
+  },
+  "photo": {"file": "File:MicheleTafoya2023.jpg", "license": "CC BY-SA 2.0", "author": "Gage Skidmore"},
+  "campaign_photo": "https://micheletafoya.com/wp-content/uploads/2026/01/Tafoya_Photo-1024x1024.jpg",
+  "notes": ""
+ },
+ {
+  "id": "MN-GOV/amy-klobuchar",
+  "name": "Amy Klobuchar",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from Minnesota",
+  "bio": "Amy Klobuchar has represented Minnesota in the U.S. Senate since 2007. She previously served as Hennepin County Attorney from 1999 to 2007 and practised telecommunications law in private firms. She grew up in Plymouth, Minnesota, and won the DFL nomination for governor in August 2026.",
+  "website": "https://amyklobuchar.com/",
+  "social": {
+   "x": "https://twitter.com/amyklobuchar",
+   "instagram": "https://instagram.com/amyklobuchar",
+   "facebook": "https://facebook.com/amyklobuchar",
+   "youtube": "https://youtube.com/amyklobuchar"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Lower premiums and drug costs through state bulk purchasing, reinsurance and small-business tax credits.", "source": "https://amyklobuchar.com/priorities/healthcare"},
+   {"topic": "Rural hospitals", "point": "Fund modernization of rural and safety-net hospitals and restore Medicaid coverage threatened by federal cuts.", "source": "https://amyklobuchar.com/priorities/healthcare"},
+   {"topic": "Housing", "point": "Build 100,000 homes by streamlining permits and ban algorithmic rent coordination by institutional landlords.", "source": "https://amyklobuchar.com/priorities/lower-housing-costs-for-minnesotans"},
+   {"topic": "Fraud", "point": "Create an independent inspector general, a 'Do Not Pay' list and tougher penalties for fraud against the state.", "source": "https://amyklobuchar.com/priorities/get-results-and-make-government-accountable"},
+   {"topic": "Government services", "point": "Modernize state IT systems and refund fees when permit applications miss deadlines.", "source": "https://amyklobuchar.com/priorities/get-results-and-make-government-accountable"},
+   {"topic": "Mental health", "point": "Restore school-linked mental health grants and add psychiatric beds and mobile crisis teams.", "source": "https://amyklobuchar.com/priorities/healthcare"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Has supported restoring a 39.6% top income tax rate and raising the minimum wage.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "welfare": {"score": 75, "evidence": "Favors a public option and Medicare drug price negotiation, and pledges to restore Medicaid coverage.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "liberty": {"score": 30, "evidence": "Abortion: supports codifying Roe; LGBTQ: supports protections; guns: backs universal background checks and an assault weapons ban.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "security": {"score": 40, "evidence": "Voted for the Patriot Act but opposes domestic phone monitoring; supports sentencing reform.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "immigration": {"score": 30, "evidence": "Supports comprehensive reform with a path to citizenship while opposing decriminalizing illegal entry.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "foreign": {"score": 75, "evidence": "Emphasizes allied cooperation, supports Israel with a two-state solution and criticizes isolationism.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "energy": {"score": 75, "evidence": "Supports clean energy investment and rejoining the Paris climate agreement, while opposing a fracking ban.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "tech": {"score": 90, "evidence": "Has pushed stronger antitrust enforcement against tech monopolies, net neutrality and user data control.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "education": {"score": 70, "evidence": "Supports community college and Pell Grant expansion and higher teacher pay.", "source": "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://amyklobuchar.com/html/assets/img/home/hero-desktop.webp",
+  "notes": ""
+ },
+ {
+  "id": "MN-GOV/lisa-demuth",
+  "name": "Lisa Demuth",
+  "party": "Republican",
+  "current_role": "Speaker of the Minnesota House of Representatives",
+  "bio": "Lisa Demuth has served in the Minnesota House of Representatives since 2019, was House Minority Leader from 2023 to 2025, and became Speaker in 2025. She previously served on the Rocori school board and worked in property management and small business. She was born in Paynesville, Minnesota.",
+  "website": "https://lisaformn.com/",
+  "social": {
+   "x": "https://x.com/LisaDemuthMN",
+   "instagram": "https://www.instagram.com/lisademuthmn/",
+   "facebook": "https://www.facebook.com/LisaforMN/"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Cut the two lowest income tax brackets and end Minnesota's tax on Social Security benefits.", "source": "https://lisaformn.com/affordability-agenda/"},
+   {"topic": "Cost of living", "point": "Cap car tab fees at $99, freeze the gas tax and provide $150 million in property tax relief.", "source": "https://lisaformn.com/affordability-agenda/"},
+   {"topic": "Fraud", "point": "Direct agencies to find $1 billion in savings and crack down on Medicaid fraud.", "source": "https://lisaformn.com/affordability-agenda/"},
+   {"topic": "Education", "point": "Adopt phonics-based reading and evidence-based math standards and expand tutoring programs.", "source": "https://lisaformn.com/education-comeback-plan/"},
+   {"topic": "School choice", "point": "Opt into the federal education tax credit to fund scholarships for public, charter and private students.", "source": "https://lisaformn.com/education-comeback-plan/"},
+   {"topic": "School safety", "point": "Fund security grants and a school resource officer in every school building.", "source": "https://lisaformn.com/education-comeback-plan/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Proposes income tax cuts, a gas tax freeze and $1 billion in state spending savings.", "source": "https://lisaformn.com/affordability-agenda/"},
+   "welfare": {"score": 25, "evidence": "Criticizes the state paid-leave payroll tax and says aid should go only to those who truly need it.", "source": "https://kstp.com/kstp-news/top-news/5-questions-on-5-issues-lisa-demuth-republican-candidate-for-governor/"},
+   "liberty": {"score": 80, "evidence": "Abortion: opposes abortion and has supported fetal heartbeat legislation.", "source": "https://en.wikipedia.org/wiki/Lisa_Demuth"},
+   "security": {"score": 70, "evidence": "Proposes school resource officers in every school building.", "source": "https://lisaformn.com/education-comeback-plan/"},
+   "immigration": {"score": 75, "evidence": "Says the state should help enforce federal immigration laws.", "source": "https://kstp.com/kstp-news/top-news/5-questions-on-5-issues-lisa-demuth-republican-candidate-for-governor/"},
+   "foreign": null,
+   "energy": {"score": 40, "evidence": "Wants to repeal Minnesota's ban on new nuclear power plants.", "source": "https://en.wikipedia.org/wiki/Lisa_Demuth"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Supports scholarship tax credits for private and charter students and expanded parental rights over curriculum.", "source": "https://lisaformn.com/education-comeback-plan/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://lisaformn.com/wp-content/uploads/sites/67/2025/10/photo-1@2x.jpg",
+  "notes": "The earlier Commons photo was posted by the Minnesota governor's office under a Public Domain Mark rather than a named free licence, so it was not used."
+ },
+ {
+  "id": "MS-SEN/cindy-hyde-smith",
+  "name": "Cindy Hyde-Smith",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Mississippi",
+  "bio": "Cindy Hyde-Smith has represented Mississippi in the U.S. Senate since 2018 and is the first woman to represent the state in Congress. She previously served as Mississippi Commissioner of Agriculture and Commerce from 2012 to 2018 and in the Mississippi State Senate from 2000 to 2012. She is from Brookhaven, Mississippi.",
+  "website": "https://cindyhydesmith.com/",
+  "social": {
+   "x": "https://twitter.com/cindyhydesmith",
+   "facebook": "https://www.facebook.com/CindyHydeSmithMS/",
+   "youtube": "https://youtube.com/channel/UCeebpe6-06XKPPbqtL5AkiQ"
+  },
+  "platform": [
+   {"topic": "Abortion", "point": "Defend unborn life and continue her anti-abortion record in the Senate.", "source": "https://cindyhydesmith.com/issue/defending-life-and-protecting-the-unborn/"},
+   {"topic": "Immigration", "point": "Secure the border, support wall construction and strengthen enforcement of immigration laws.", "source": "https://cindyhydesmith.com/issue/stopping-illegal-immigration/"},
+   {"topic": "Guns", "point": "Protect Second Amendment rights.", "source": "https://cindyhydesmith.com/issue/supporting-our-2nd-amendment-rights/"},
+   {"topic": "Taxes", "point": "Make the 2017 Trump tax cuts permanent.", "source": "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm"},
+   {"topic": "Agriculture", "point": "Support farmers and rural Mississippi communities.", "source": "https://www.hydesmith.senate.gov/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Supports permanently extending the 2017 tax cuts and opposes higher taxes on the wealthy.", "source": "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm"},
+   "welfare": {"score": 15, "evidence": "Supports repealing the Affordable Care Act.", "source": "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm"},
+   "liberty": {"score": 70, "evidence": "Abortion: cites a 100% pro-life record; LGBTQ: defines marriage as between a man and a woman; drugs: opposes medical and recreational marijuana; guns: backs gun rights.", "source": "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm"},
+   "security": {"score": 60, "evidence": "Backs law enforcement initiatives while having supported bipartisan criminal justice reform.", "source": "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm"},
+   "immigration": {"score": 90, "evidence": "Supports a border wall, opposes DACA and a path to citizenship.", "source": "https://cindyhydesmith.com/issue/stopping-illegal-immigration/"},
+   "foreign": {"score": 75, "evidence": "Supports military strength, Israel and countering Iran.", "source": "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm"},
+   "energy": {"score": 15, "evidence": "Voted to repeal the Clean Power Plan.", "source": "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Backs school choice through charter school grants.", "source": "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MS-SEN/scott-colom",
+  "name": "Scott Colom",
+  "party": "Democratic",
+  "current_role": "District Attorney for Mississippi's 16th Judicial District",
+  "bio": "Scott Colom has been district attorney for Mississippi's 16th Judicial District since 2016. He previously was a staff lawyer at the Mississippi Center for Justice, a justice court and municipal court judge, and Columbus city prosecutor. He is from Columbus, Mississippi, and holds degrees from Millsaps College and the University of Wisconsin Law School.",
+  "website": "https://scottcolom.com/",
+  "social": {
+   "x": "https://x.com/scott_colom",
+   "instagram": "https://www.instagram.com/scott_colom/",
+   "facebook": "https://www.facebook.com/ColomForSenate/",
+   "tiktok": "https://www.tiktok.com/@scott.colom"
+  },
+  "platform": [
+   {"topic": "Wages", "point": "Raise the federal minimum wage, which has stayed at $7.25 for more than 16 years.", "source": "https://www.wlox.com/2026/02/08/democrat-scott-colom-lays-out-senate-primary-platform-targeting-rising-costs-healthcare-access/"},
+   {"topic": "Prices", "point": "Reduce tariffs to bring down the cost of groceries and everyday goods.", "source": "https://www.wlox.com/2026/02/08/democrat-scott-colom-lays-out-senate-primary-platform-targeting-rising-costs-healthcare-access/"},
+   {"topic": "Health care", "point": "Protect Mississippians' health coverage and save the state's hospitals.", "source": "https://scottcolom.com/"},
+   {"topic": "Taxes", "point": "Eliminate income taxes for teachers and police officers earning under $75,000.", "source": "https://www.wlox.com/2026/02/08/democrat-scott-colom-lays-out-senate-primary-platform-targeting-rising-costs-healthcare-access/"},
+   {"topic": "Corruption", "point": "Root out corruption in Washington through an anti-corruption plan.", "source": "https://scottcolom.com/scotts-anti-corruption-plan/"},
+   {"topic": "Public safety", "point": "Keep communities safe from violent crime.", "source": "https://scottcolom.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Supports raising the federal minimum wage and lowering tariffs to reduce consumer prices.", "source": "https://www.wlox.com/2026/02/08/democrat-scott-colom-lays-out-senate-primary-platform-targeting-rising-costs-healthcare-access/"},
+   "welfare": {"score": 65, "evidence": "Criticizes cuts that would remove health coverage from Mississippians and pledges to protect Medicaid.", "source": "https://www.wlox.com/2026/02/08/democrat-scott-colom-lays-out-senate-primary-platform-targeting-rising-costs-healthcare-access/"},
+   "liberty": {"score": 40, "evidence": "LGBTQ: supports transgender protections; drugs: favors treatment; guns: has voiced gun-safety concerns.", "source": "https://www.ontheissues.org/Senate/Scott_Colom.htm"},
+   "security": {"score": 55, "evidence": "Makes prosecuting violent crime a campaign priority, citing his record as district attorney.", "source": "https://scottcolom.com/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 75, "evidence": "Says federal education funds should go to Mississippi's public schools.", "source": "https://www.ontheissues.org/Senate/Scott_Colom.htm"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://scottcolom.com/wp-content/uploads/2025/08/081825_TSG_Colom_Columbus_MS_CD_7153-scaled.jpg",
+  "notes": ""
+ },
+ {
+  "id": "MS-SEN/ty-pinkins",
+  "name": "Ty Pinkins",
+  "party": "Independent",
+  "current_role": "Civil rights attorney and Army veteran",
+  "bio": "Ty Pinkins is a civil rights attorney and a 21-year Army veteran who served three combat tours, and he is a graduate of Georgetown University's law school. He grew up in Rolling Fork in the Mississippi Delta. He was the Democratic nominee for U.S. Senate in 2024 and left the party to run as an independent in 2026.",
+  "website": "https://www.typinkins.com/",
+  "social": {
+   "x": "https://twitter.com/TyPinkins",
+   "instagram": "https://www.instagram.com/typinkins/",
+   "facebook": "https://www.facebook.com/typinkinsMS",
+   "youtube": "https://www.youtube.com/channel/UCXep5rT6DKsUtAvkwKdKiNg"
+  },
+  "platform": [
+   {"topic": "Jobs", "point": "Bring well-paying jobs to Mississippi and support small family farmers over corporate monopolies.", "source": "https://www.typinkins.com/issues-1/jobs-economy"},
+   {"topic": "Health care", "point": "Expand Medicaid in Mississippi and treat affordable health care as a human right.", "source": "https://www.typinkins.com/issues-1/healthcare"},
+   {"topic": "Housing", "point": "Make housing more affordable for Mississippi families.", "source": "https://www.typinkins.com/issues-1/housing"},
+   {"topic": "Education", "point": "Invest in excellent public schools for all children rather than vouchers.", "source": "https://www.typinkins.com/issues-1/education"},
+   {"topic": "Criminal justice", "point": "Focus prisons on rehabilitation instead of retribution.", "source": "https://www.ontheissues.org/Senate/Ty_Pinkins.htm"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 75, "evidence": "Calls affordable health care a human right and backs Medicaid expansion in Mississippi.", "source": "https://www.ontheissues.org/Senate/Ty_Pinkins.htm"},
+   "liberty": {"score": 35, "evidence": "Abortion: decisions belong to a woman and her doctor; guns: supports an assault rifle ban and comprehensive background checks.", "source": "https://www.ontheissues.org/Senate/Ty_Pinkins.htm"},
+   "security": {"score": 30, "evidence": "Says prisons should prioritize rehabilitation over retribution.", "source": "https://www.ontheissues.org/Senate/Ty_Pinkins.htm"},
+   "immigration": {"score": 30, "evidence": "Supports reform with a reasonable path to citizenship.", "source": "https://www.ontheissues.org/Senate/Ty_Pinkins.htm"},
+   "foreign": {"score": 70, "evidence": "Strongly supports Ukraine against Russia and favors international engagement.", "source": "https://www.ontheissues.org/Senate/Ty_Pinkins.htm"},
+   "energy": {"score": 65, "evidence": "Emphasizes sustainable, resilient infrastructure including hydropower.", "source": "https://www.ontheissues.org/Senate/Ty_Pinkins.htm"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Opposes voucher-based school choice in favor of strong public schools.", "source": "https://www.ontheissues.org/Senate/Ty_Pinkins.htm"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/d4630a_f9d1ef563ad749b09ae73c528a39519d~mv2.jpeg",
+  "notes": "No freely licensed Commons portrait was found."
+ },
+ {
+  "id": "MT-SEN/kurt-alme",
+  "name": "Kurt Alme",
+  "party": "Republican",
+  "current_role": "Former U.S. Attorney for the District of Montana",
+  "bio": "Kurt Alme served as U.S. Attorney for the District of Montana from 2017 to 2020 and again in an interim role in 2025-2026. He has also been director of the Montana Department of Revenue and Governor Greg Gianforte's budget director, and earlier practised law and worked as a federal prosecutor. He was born in Great Falls and attended high school in Miles City, Montana.",
+  "website": "https://www.almeforsenate.com/",
+  "social": {
+   "x": "https://x.com/kurtalme",
+   "instagram": "https://www.instagram.com/almeforsenate",
+   "facebook": "https://www.facebook.com/profile.php?id=61584161184583",
+   "youtube": "https://www.youtube.com/@almeforsenate"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Balance the federal budget and cut spending to bring inflation down.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+   {"topic": "Housing", "point": "Cut regulatory red tape to increase housing construction.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+   {"topic": "Rural health", "point": "Invest in Montana providers, telehealth and price transparency rather than insurance subsidies.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+   {"topic": "Public safety", "point": "Keep the border secure, prioritize prosecuting violent criminals and investigate drug trafficking groups.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+   {"topic": "Addiction", "point": "Expand drug prevention and treatment using marijuana tax revenue.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+   {"topic": "War powers", "point": "Wants Congress to take its constitutional power to declare war seriously.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for balanced budgets, reduced federal spending and less regulation.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+   "welfare": {"score": 40, "evidence": "Prefers investing in rural providers and telehealth over health insurance subsidies.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+   "liberty": {"score": 75, "evidence": "Abortion: endorsed by SBA Pro-Life America; drugs: has prioritized marijuana prosecutions tied to the greatest safety threats.", "source": "https://www.ontheissues.org/Senate/Kurt_Alme.htm"},
+   "security": {"score": 80, "evidence": "Prioritizes aggressive prosecution of violent criminals and drug traffickers.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/"},
+   "immigration": {"score": 75, "evidence": "Emphasizes keeping the border secure and has backed using immigration charges against offenders.", "source": "https://www.ontheissues.org/Senate/Kurt_Alme.htm"},
+   "foreign": {"score": 70, "evidence": "Spoke approvingly of the president's 2026 war on Iran.", "source": "https://montanafreepress.org/2026/08/24/republican-montana-senate-kurt-alme-low-profile/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Kurt G. Alme official photo.jpg", "license": "Public domain", "author": "United States Department of Justice"},
+  "campaign_photo": "https://almeforsenate.com/wp-content/uploads/2026/04/alme-scaled-e1776961575300.webp",
+  "notes": "The campaign site's priorities page showed placeholder text, so the platform comes from the Montana Free Press guide."
+ },
+ {
+  "id": "MT-SEN/seth-bodnar",
+  "name": "Seth Bodnar",
+  "party": "Independent",
+  "current_role": "Former President of the University of Montana",
+  "bio": "Seth Bodnar was president of the University of Montana from 2018 to 2026. A West Point graduate and Rhodes Scholar, he served in the Army from 2003 to 2022, including as a Green Beret, and was a senior executive at General Electric's transportation division. He entered Montana's U.S. Senate race as an independent in March 2026.",
+  "website": "https://sethformontana.com/",
+  "social": {
+   "x": "https://x.com/SethBodnarForMT",
+   "instagram": "https://instagram.com/sethbodnarcampaign/",
+   "facebook": "https://facebook.com/sethformontanacampaign",
+   "youtube": "https://www.youtube.com/@SethForMontana"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Oppose cuts to rural hospitals and Medicaid and expand telehealth and rural health workforce incentives.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/"},
+   {"topic": "Trade", "point": "Adopt a stable trade policy that protects Montana farmers and ranchers from shifting tariffs.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/"},
+   {"topic": "Housing", "point": "Reduce regulations, use tax incentives and stop private equity from buying up single-family homes.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/"},
+   {"topic": "War powers", "point": "Have Congress reclaim its constitutional power to declare war.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/"},
+   {"topic": "Public lands", "point": "Safeguard public lands for hunting and fishing.", "source": "https://www.newsweek.com/montana-senate-seth-bodnar-democrat-republican-independent-12185515"},
+   {"topic": "Political reform", "point": "Work across party lines as an independent to reform how politics works.", "source": "https://sethformontana.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Criticizes shifting tariffs while favoring less regulation and limits on private equity home buying.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/"},
+   "welfare": {"score": 60, "evidence": "Supports Medicaid expansion and opposes coverage cuts.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/"},
+   "liberty": {"score": 20, "evidence": "Abortion and guns: says government has no business in doctors' offices or gun cabinets.", "source": "https://www.newsweek.com/montana-senate-seth-bodnar-democrat-republican-independent-12185515"},
+   "security": {"score": 50, "evidence": "Campaign lists safety, security and the rule of law as a core theme.", "source": "https://sethformontana.com/"},
+   "immigration": {"score": 45, "evidence": "Supports strong borders along with comprehensive reform and faster legal pathways.", "source": "https://www.newsweek.com/montana-senate-seth-bodnar-democrat-republican-independent-12185515"},
+   "foreign": {"score": 40, "evidence": "Called the Iran conflict a strategic failure and says Congress must authorize war.", "source": "https://www.newsweek.com/montana-senate-seth-bodnar-democrat-republican-independent-12185515"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 75, "evidence": "Pledges investment in public education, citing teacher shortages in Montana.", "source": "https://www.newsweek.com/montana-senate-seth-bodnar-democrat-republican-independent-12185515"},
+   "faith": null
+  },
+  "photo": {"file": "File:Seth Bodnar - President at University of Montana (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Todd Goodrich (University of Montana)"},
+  "campaign_photo": "https://run.imgix.net/ce73de18-3d81-4625-8bb3-7868e4c01170/d1a7b2b8-33e9-403b-b999-5ec151586785/d1a7b2b8-33e9-403b-b999-5ec151586785.png",
+  "notes": ""
+ }
+]

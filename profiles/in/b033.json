@@ -1,0 +1,427 @@
+[
+ {
+  "id": "FL-9/dan-green",
+  "name": "Dan Green",
+  "party": "Republican",
+  "race": "FL-9",
+  "race_label": "Florida · US House FL-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Former defense official pledging to keep the military funded; site stresses affordability without detailed stances.",
+   "sources": [
+    "https://dangreenfl.com/"
+   ],
+   "photo": {
+    "file": "File:Daniel R. Green (cropped).jpg",
+    "license": "Public domain",
+    "author": "JoAnne Sorrentino, U.S. Department of Defense"
+   }
+  }
+ },
+ {
+  "id": "FL-10/maxwell-frost",
+  "name": "Maxwell Frost",
+  "party": "Democratic",
+  "race": "FL-10",
+  "race_label": "Florida · US House FL-10",
+  "race_status": "Frost unopposed; general election canceled",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000476",
+   "official_name": "Maxwell Frost",
+   "chamber": "House",
+   "official_site": "https://frost.house.gov",
+   "official_social": {
+    "twitter": "RepMaxwellFrost",
+    "facebook": "RepMaxwellFrost",
+    "instagram": "RepMaxwellFrost"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 95,
+    "liberty": 30,
+    "security": 10,
+    "immigration": 10,
+    "foreign": 30,
+    "energy": 95,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs single-payer, Green New Deal, cannabis and sex-work decriminalization (liberty, with gun control), prison abolition goal; opposes border wall, further Israel aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Maxwell_Frost",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2025/roll023.xml"
+   ],
+   "photo": {
+    "file": "File:Rep. Maxwell Frost - 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "FL-11/joe-strada",
+  "name": "Joe Strada",
+  "party": "Republican",
+  "race": "FL-11",
+  "race_label": "Florida · US House FL-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 40,
+    "liberty": 55,
+    "security": 70,
+    "immigration": 90,
+    "foreign": 70,
+    "energy": 20,
+    "tech": null,
+    "education": 15,
+    "faith": 75
+   },
+   "basis": "Backs balanced budget, protecting Social Security, gun rights and barring trans athletes (liberty), finishing the wall, peace through strength, school choice, religious liberty.",
+   "sources": [
+    "https://votestrada.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-11/james-pericola",
+  "name": "James Pericola",
+  "party": "Democratic",
+  "race": "FL-11",
+  "race_label": "Florida · US House FL-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Proposes no income tax under $100,000, protecting Social Security and Medicare, ACA expansion and Medicare drug negotiation.",
+   "sources": [
+    "https://jamespericola.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-11/ralph-groves",
+  "name": "Ralph Groves",
+  "party": "Libertarian",
+  "race": "FL-11",
+  "race_label": "Florida · US House FL-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-12/gus-bilirakis",
+  "name": "Gus Bilirakis",
+  "party": "Republican",
+  "race": "FL-12",
+  "race_label": "Florida · US House FL-12",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001257",
+   "official_name": "Gus M. Bilirakis",
+   "chamber": "House",
+   "official_site": "https://bilirakis.house.gov",
+   "official_social": {
+    "twitter": "RepGusBilirakis",
+    "facebook": "GusBilirakis",
+    "youtube": "RepGusBilirakis",
+    "instagram": "gusbilirakis"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 35,
+    "security": 60,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 25,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 and 2025 tax cuts, ACA repeal, Laken Riley Act; NRA A-rated (liberty); anti-climate-tax pledge; backs Take It Down Act for kids online.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gus_Bilirakis",
+    "https://bilirakisforcongress.com/",
+    "https://clerk.house.gov/evs/2025/roll190.xml"
+   ],
+   "photo": {
+    "file": "File:Gus Bilirakis, official portrait, 118th Congress (head crop).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "FL-12/kimberly-overman",
+  "name": "Kimberly Overman",
+  "party": "Democratic",
+  "race": "FL-12",
+  "race_label": "Florida · US House FL-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 75,
+    "liberty": 35,
+    "security": 45,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Backs expanded care access, reproductive and LGBTQ rights with gun-safety endorsements (liberty), balanced policing with prevention, fully funded public schools.",
+   "sources": [
+    "https://kimberlyoverman.com/issues/"
+   ],
+   "photo": {
+    "file": "File:Overman Full HCFLGovnet.jpg",
+    "license": "Public domain",
+    "author": "Hillsborough County, Florida"
+   }
+  }
+ },
+ {
+  "id": "FL-12/branden-scrivener",
+  "name": "Branden Scrivener",
+  "party": "Independent",
+  "race": "FL-12",
+  "race_label": "Florida · US House FL-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-13/anna-paulina-luna",
+  "name": "Anna Paulina Luna",
+  "party": "Republican",
+  "race": "FL-13",
+  "race_label": "Florida · US House FL-13",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000596",
+   "official_name": "Anna Paulina Luna",
+   "chamber": "House",
+   "official_site": "https://luna.house.gov",
+   "official_social": {
+    "twitter": "RepLuna",
+    "instagram": "repluna",
+    "youtube": "@RepLuna"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": null,
+    "liberty": 50,
+    "security": 65,
+    "immigration": null,
+    "foreign": 10,
+    "energy": 20,
+    "tech": 25,
+    "education": 25,
+    "faith": 65
+   },
+   "basis": "Backs abortion bans but gun rights and anti-mandate stances; opposes NATO and Ukraine aid; pro-oil; backs police immunity; religious liberty; anti-gender-theory schooling.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+    "https://www.ontheissues.org/FL/Anna_Paulina_Luna.htm"
+   ],
+   "photo": {
+    "file": "File:Anna Paulina Luna.jpg",
+    "license": "Public domain",
+    "author": "US House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "FL-13/leela-gray",
+  "name": "Leela Gray",
+  "party": "Democratic",
+  "race": "FL-13",
+  "race_label": "Florida · US House FL-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 40,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes Medicaid and SNAP cuts and Trump tariffs; backs middle-class tax cut and action on insurance monopolies; criticizes Iran strikes.",
+   "sources": [
+    "https://www.fox13news.com/news/florida-congressional-race-retired-army-leela-gray-challenges-anna-paulina-luna",
+    "https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-13/tony-d-arrigo",
+  "name": "Tony D'Arrigo",
+  "party": "Independent",
+  "race": "FL-13",
+  "race_label": "Florida · US House FL-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Calls health care his top issue: expand coverage, de-privatize hospitals, protect the ACA.",
+   "sources": [
+    "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-us-district-13"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-14/kathy-castor",
+  "name": "Kathy Castor",
+  "party": "Democratic",
+  "race": "FL-14",
+  "race_label": "Florida · US House FL-14",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001066",
+   "official_name": "Kathy Castor",
+   "chamber": "House",
+   "official_site": "https://castor.house.gov",
+   "official_social": {
+    "youtube": "RepKathyCastor",
+    "facebook": "USRepKathyCastor",
+    "twitter": "USRepKCastor",
+    "instagram": "usrepkathycastor"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": 30,
+    "security": 30,
+    "immigration": 20,
+    "foreign": 50,
+    "energy": 90,
+    "tech": 65,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Chaired climate crisis committee; backs ACA, Medicaid expansion, abortion rights, gun control, Dreamers, net neutrality; opposes vouchers; repealed Iraq AUMF.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kathy_Castor",
+    "https://www.ontheissues.org/FL/Kathy_Castor.htm"
+   ],
+   "photo": {
+    "file": "File:Kathy Castor 113th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ }
+]

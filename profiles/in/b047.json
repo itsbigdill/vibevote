@@ -1,0 +1,411 @@
+[
+ {
+  "id": "KS-2/don-coover",
+  "name": "Don Coover",
+  "party": "Democratic",
+  "race": "KS-2",
+  "race_label": "Kansas · US House KS-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign site describes background and themes but states no concrete policy positions, so no domain is scored.",
+   "sources": [
+    "https://doncooverforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-2/john-hauer",
+  "name": "John Hauer",
+  "party": "Libertarian",
+  "race": "KS-2",
+  "race_label": "Kansas · US House KS-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Kansas%27_2nd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-3/sharice-davids",
+  "name": "Sharice Davids",
+  "party": "Democratic",
+  "race": "KS-3",
+  "race_label": "Kansas · US House KS-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000629",
+   "official_name": "Sharice Davids",
+   "chamber": "House",
+   "official_site": "https://davids.house.gov",
+   "official_social": {
+    "twitter": "RepDavids"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 70,
+    "liberty": 25,
+    "security": 30,
+    "immigration": 25,
+    "foreign": 55,
+    "energy": 80,
+    "tech": 65,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Higher taxes on wealthy; Medicaid expansion; pro-choice, LGBTQ rights, universal background checks; pathway to citizenship; renewables; net neutrality; opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/House/Sharice_Davids.htm",
+    "https://en.wikipedia.org/wiki/Sharice_Davids"
+   ],
+   "photo": {
+    "file": "File:Sharice Davids.jpg",
+    "license": "Public domain",
+    "author": "Kristie Boyd, U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "KS-3/eric-jenkins",
+  "name": "Eric Jenkins",
+  "party": "Republican",
+  "race": "KS-3",
+  "race_label": "Kansas · US House KS-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 30,
+    "liberty": 25,
+    "security": null,
+    "immigration": 75,
+    "foreign": 45,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": 65
+   },
+   "basis": "Permanent Trump tax cuts, deregulation; defends gun rights and free speech; defund sanctuary cities; avoid foreign entanglements; opposes Green New Deal.",
+   "sources": [
+    "https://ericjenkinsforkansas.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-3/steve-hohe",
+  "name": "Steve Hohe",
+  "party": "Libertarian",
+  "race": "KS-3",
+  "race_label": "Kansas · US House KS-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Kansas%27_3rd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-4/ron-estes",
+  "name": "Ron Estes",
+  "party": "Republican",
+  "race": "KS-4",
+  "race_label": "Kansas · US House KS-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "E000298",
+   "official_name": "Ron Estes",
+   "chamber": "House",
+   "official_site": "https://estes.house.gov",
+   "official_social": {
+    "twitter": "RepRonEstes",
+    "facebook": "RepRonEstes",
+    "instagram": "RepRonEstes"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 55,
+    "security": 65,
+    "immigration": 70,
+    "foreign": 70,
+    "energy": 15,
+    "tech": 25,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Corporate tax cuts, balanced budget; ACA repeal; pro-life, gun rights; border wall; Israel support; opposes greenhouse gas rules, net neutrality; vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/House/Ron_Estes.htm",
+    "https://en.wikipedia.org/wiki/Ron_Estes"
+   ],
+   "photo": {
+    "file": "File:Ron Estes, 115th official photo.jpg",
+    "license": "Public domain",
+    "author": "Kristie Boyd, U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "KS-4/katy-tyndell",
+  "name": "Katy Tyndell",
+  "party": "Democratic",
+  "race": "KS-4",
+  "race_label": "Kansas · US House KS-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 35,
+    "energy": null,
+    "tech": 70,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Lower taxes on workers, no corporate breaks; affordable healthcare for all; opposes Iran war; AI worker protections, online privacy; public schools.",
+   "sources": [
+    "https://katyforkansas.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-4/drew-cranmer",
+  "name": "Drew Cranmer",
+  "party": "Libertarian",
+  "race": "KS-4",
+  "race_label": "Kansas · US House KS-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Kansas%27_4th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-1/james-comer",
+  "name": "James Comer",
+  "party": "Republican",
+  "race": "KY-1",
+  "race_label": "Kentucky · US House KY-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001108",
+   "official_name": "James Comer",
+   "chamber": "House",
+   "official_site": "https://comer.house.gov",
+   "official_social": {
+    "facebook": "congressmancomer",
+    "instagram": "congressmancomer",
+    "twitter": "RepJamesComer"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 70,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts, opposes ACA and federal paid parental leave, backs border wall, anti-abortion and opposes same-sex marriage; climate skeptic.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/James_Comer"
+   ],
+   "photo": {
+    "file": "File:James Comer (54346937894)(cropped).jpg",
+    "license": "CC BY 2.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "KY-1/drew-williams",
+  "name": "Drew Williams",
+  "party": "Democratic",
+  "race": "KY-1",
+  "race_label": "Kentucky · US House KY-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-2/brett-guthrie",
+  "name": "Brett Guthrie",
+  "party": "Republican",
+  "race": "KY-2",
+  "race_label": "Kentucky · US House KY-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000558",
+   "official_name": "Brett Guthrie",
+   "chamber": "House",
+   "official_site": "https://guthrie.house.gov",
+   "official_social": {
+    "youtube": "BrettGuthrie",
+    "facebook": "CongressmanGuthrie",
+    "twitter": "RepGuthrie",
+    "instagram": "repguthrie"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": null,
+    "security": 65,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts, supports ACA repeal, sought to end Public Service Loan Forgiveness, voted for NDAA detention and against defunding NSA.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brett_Guthrie"
+   ],
+   "photo": {
+    "file": "File:Brett Guthrie, Official Photo.jpg",
+    "license": "Public domain",
+    "author": "United States House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "KY-2/megan-wingfield",
+  "name": "Megan Wingfield",
+  "party": "Democratic",
+  "race": "KY-2",
+  "race_label": "Kentucky · US House KY-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ }
+]

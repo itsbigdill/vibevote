@@ -1,0 +1,421 @@
+[
+ {
+  "id": "OK-5/jena-nelson",
+  "name": "Jena Nelson",
+  "party": "Democratic",
+  "race": "OK-5",
+  "race_label": "Oklahoma · US House OK-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": null,
+    "security": null,
+    "immigration": 40,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Opposes tax breaks for the richest, would protect Social Security, Medicare and Medicaid, pairs border enforcement with more work visas, backs free school meals.",
+   "sources": [
+    "https://jenanelson.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-5/robert-henri",
+  "name": "Robert Henri",
+  "party": "Independent",
+  "race": "OK-5",
+  "race_label": "Oklahoma · US House OK-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://ballotpedia.org/Oklahoma's_5th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-5/austin-nieves",
+  "name": "Austin Nieves",
+  "party": "Independent",
+  "race": "OK-5",
+  "race_label": "Oklahoma · US House OK-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://ballotpedia.org/Oklahoma's_5th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OR-1/suzanne-bonamici",
+  "name": "Suzanne Bonamici",
+  "party": "Democratic",
+  "race": "OR-1",
+  "race_label": "Oregon · US House OR-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001278",
+   "official_name": "Suzanne Bonamici",
+   "chamber": "House",
+   "official_site": "https://bonamici.house.gov",
+   "official_social": {
+    "twitter": "RepBonamici",
+    "facebook": "congresswomanbonamici",
+    "youtube": "RepSuzanneBonamici",
+    "instagram": "RepBonamici"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 90,
+    "liberty": 20,
+    "security": 30,
+    "immigration": 20,
+    "foreign": 60,
+    "energy": 85,
+    "tech": null,
+    "education": 85,
+    "faith": 20
+   },
+   "basis": "Backs Medicare for All, ending top-bracket tax cuts, gun background checks, police accountability, humane immigration reform, Ukraine/Israel/Taiwan aid, climate action; Freethought Caucus.",
+   "sources": [
+    "https://www.ontheissues.org/House/Suzanne_Bonamici.htm",
+    "https://bonamici.house.gov/issues/health-care",
+    "https://en.wikipedia.org/wiki/Suzanne_Bonamici"
+   ],
+   "photo": {
+    "file": "File:Suzanne Bonamici.jpg",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   }
+  }
+ },
+ {
+  "id": "OR-1/barbara-kahl",
+  "name": "Barbara Kahl",
+  "party": "Republican",
+  "race": "OR-1",
+  "race_label": "Oregon · US House OR-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": null,
+    "liberty": null,
+    "security": 55,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Campaign platform backs federal school choice with funding following the student, cutting red tape for small business, and funding local law enforcement.",
+   "sources": [
+    "https://drkahlforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OR-2/cliff-bentz",
+  "name": "Cliff Bentz",
+  "party": "Republican",
+  "race": "OR-2",
+  "race_label": "Oregon · US House OR-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B000668",
+   "official_name": "Cliff Bentz",
+   "chamber": "House",
+   "official_site": "https://bentz.house.gov",
+   "official_social": {
+    "twitter": "RepBentz",
+    "facebook": "RepBentz",
+    "instagram": "repbentz"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 20,
+    "liberty": 70,
+    "security": 65,
+    "immigration": 65,
+    "foreign": 45,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for One Big Beautiful Bill and Laken Riley Act; opposes government-run healthcare, most abortion, private-sale background checks (liberty drivers); mixed Ukraine votes.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cliff_Bentz",
+    "https://www.ontheissues.org/House/Cliff_Bentz.htm",
+    "https://www.opb.org/article/2025/08/26/oregon-congressman-cliff-bentz-defends-vote-big-beautiful-bill/"
+   ],
+   "photo": {
+    "file": "File:Cliff Bentz 117th U.S Congress (cropped) (centered).jpg",
+    "license": "Public domain",
+    "author": "House Creative Committee"
+   }
+  }
+ },
+ {
+  "id": "OR-2/chris-beck",
+  "name": "Chris Beck",
+  "party": "Democratic",
+  "race": "OR-2",
+  "race_label": "Oregon · US House OR-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 75,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": 30,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants HR-1 Medicaid cuts repealed, a public care option, fewer luxury-home tax breaks, legal farm immigration, and an end to the Iran war.",
+   "sources": [
+    "https://chrisbeckforcongress.com/district2issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OR-3/maxine-dexter",
+  "name": "Maxine Dexter",
+  "party": "Democratic",
+  "race": "OR-3",
+  "race_label": "Oregon · US House OR-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000635",
+   "official_name": "Maxine Dexter",
+   "chamber": "House",
+   "official_site": "https://dexter.house.gov",
+   "official_social": {
+    "twitter": "RepDexterOR",
+    "facebook": "RepDexterOR",
+    "instagram": "repdexteror"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 95,
+    "liberty": 15,
+    "security": null,
+    "immigration": 5,
+    "foreign": 35,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports single-payer healthcare, abortion rights, LGBTQ equality, stricter gun control, dismantling ICE, conditioning Israel aid, and cutting greenhouse emissions.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Maxine_Dexter",
+    "https://dexter.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Dexter Maxine 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "OR-3/loran-ayles",
+  "name": "Loran Ayles",
+  "party": "Republican",
+  "race": "OR-3",
+  "race_label": "Oregon · US House OR-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions were found for this candidate.",
+   "sources": [
+    "https://vote-usa.org/intro.aspx?state=or&id=oraylesloran"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OR-4/val-hoyle",
+  "name": "Val Hoyle",
+  "party": "Democratic",
+  "race": "OR-4",
+  "race_label": "Oregon · US House OR-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001094",
+   "official_name": "Val T. Hoyle",
+   "chamber": "House",
+   "official_site": "https://hoyle.house.gov",
+   "official_social": {
+    "twitter": "repvalhoyle",
+    "facebook": "repvalhoyle",
+    "instagram": "RepHoyle"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 90,
+    "liberty": 25,
+    "security": 30,
+    "immigration": 15,
+    "foreign": 40,
+    "energy": 90,
+    "tech": null,
+    "education": null,
+    "faith": 20
+   },
+   "basis": "Supports Medicare for All, gun background checks, 100% clean electricity and halting federal fossil leasing; opposed ICE/CBP funding increase; limits on Israel arms; Freethought Caucus.",
+   "sources": [
+    "https://www.valhoyle.com/issues/",
+    "https://en.wikipedia.org/wiki/Val_Hoyle",
+    "https://www.ontheissues.org/House/Val_Hoyle.htm"
+   ],
+   "photo": {
+    "file": "File:Rep. Val Hoyle portrait, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "OR-4/monique-despain",
+  "name": "Monique DeSpain",
+  "party": "Republican",
+  "race": "OR-4",
+  "race_label": "Oregon · US House OR-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 60,
+    "immigration": 60,
+    "foreign": 60,
+    "energy": 30,
+    "tech": null,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Platform: lower taxes and regulation, back police, secure border with legal path for long-settled residents, peace through strength, all-of-the-above energy, parents' bill of rights.",
+   "sources": [
+    "https://moniqueforcongress.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OR-4/justin-filip",
+  "name": "Justin Filip",
+  "party": "Pacific Green",
+  "race": "OR-4",
+  "race_label": "Oregon · US House OR-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+    "https://ballotpedia.org/Oregon's_4th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ }
+]

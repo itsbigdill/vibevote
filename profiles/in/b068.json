@@ -1,0 +1,430 @@
+[
+ {
+  "id": "NY-1/chris-gallant",
+  "name": "Chris Gallant",
+  "party": "Democratic",
+  "race": "NY-1",
+  "race_label": "New York · US House NY-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources.",
+   "sources": [
+    "https://www.newsweek.com/chris-gallant-chances-fire-island-district-bdsm-photos-12439638"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-2/andrew-garbarino",
+  "name": "Andrew Garbarino",
+  "party": "Republican",
+  "race": "NY-2",
+  "race_label": "New York · US House NY-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000597",
+   "official_name": "Andrew R. Garbarino",
+   "chamber": "House",
+   "official_site": "https://garbarino.house.gov",
+   "official_social": {
+    "twitter": "RepGarbarino",
+    "facebook": "RepAndrewGarbarino"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 35,
+    "security": null,
+    "immigration": 50,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for the Bipartisan Background Checks Act, Respect for Marriage Act and Farm Workforce Modernization Act; liberty driven by guns and LGBTQ votes.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Andrew_Garbarino"
+   ],
+   "photo": {
+    "file": "File:Andrew Garbarino 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "Franmarie Metzler, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NY-2/patrick-halpin",
+  "name": "Patrick Halpin",
+  "party": "Democratic",
+  "race": "NY-2",
+  "race_label": "New York · US House NY-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pledges to protect Medicaid and lower medical costs; wants secure borders but more accountability and training standards for ICE.",
+   "sources": [
+    "https://www.halpinforcongress.com/",
+    "https://www.halpinforcongress.com/article-newsday-when-will-garbarino-hold-hearing-ice"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-3/tom-suozzi",
+  "name": "Tom Suozzi",
+  "party": "Democratic",
+  "race": "NY-3",
+  "race_label": "New York · US House NY-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001201",
+   "official_name": "Thomas R. Suozzi",
+   "chamber": "House",
+   "official_site": "https://suozzi.house.gov",
+   "official_social": {
+    "twitter": "reptomsuozzi",
+    "facebook": "RepTomSuozzi"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 50,
+    "foreign": 85,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for Ukraine, Israel and Taiwan military aid, strong Israel supporter; voted for 2026 DHS funding including ICE, later expressed regret.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tom_Suozzi"
+   ],
+   "photo": {
+    "file": "File:TomSuozzi118thCongress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NY-3/mike-lipetri",
+  "name": "Mike LiPetri",
+  "party": "Republican",
+  "race": "NY-3",
+  "race_label": "New York · US House NY-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": 75,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants SALT cap removed, no tax on tips, overtime or Social Security, fewer regulations; stresses border security, police protections and support for Israel.",
+   "sources": [
+    "https://www.longislandpress.com/2026/02/03/mike-lipetri-congressional-bid/",
+    "https://en.wikipedia.org/wiki/Mike_LiPetri"
+   ],
+   "photo": {
+    "file": "File:Mike LiPetri (2024 Italian Heritage Street Festival) (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "ComplexRational"
+   }
+  }
+ },
+ {
+  "id": "NY-4/laura-gillen",
+  "name": "Laura Gillen",
+  "party": "Democratic",
+  "race": "NY-4",
+  "race_label": "New York · US House NY-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000602",
+   "official_name": "Laura Gillen",
+   "chamber": "House",
+   "official_site": "https://gillen.house.gov",
+   "official_social": {
+    "twitter": "RepLauraGillen",
+    "facebook": "replauragillen",
+    "instagram": "replauragillen"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 40,
+    "welfare": null,
+    "liberty": 55,
+    "security": null,
+    "immigration": 55,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 45,
+    "faith": null
+   },
+   "basis": "Opposed Mamdani's higher-tax agenda, voted for 2026 DHS/ICE funding and the Stopping Indoctrination and Protecting Kids Act; liberty driven by LGBTQ vote.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Laura_Gillen"
+   ],
+   "photo": {
+    "file": "File:Gillen Laura 119th Congress (cropped2).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NY-4/jeanine-driscoll",
+  "name": "Jeanine Driscoll",
+  "party": "Republican",
+  "race": "NY-4",
+  "race_label": "New York · US House NY-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 65,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Calls for full SALT restoration, lower small-business taxes, less regulation, no tax on tips and overtime, and securing the border.",
+   "sources": [
+    "https://patch.com/new-york/longisland/new-york-primary-previews-meet-jeanine-driscoll-candidate-new-york-s-4th",
+    "https://driscoll4congress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-4/blay-tarnoff",
+  "name": "Blay Tarnoff",
+  "party": "Libertarian",
+  "race": "NY-4",
+  "race_label": "New York · US House NY-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/New_York%27s_4th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-5/gregory-meeks",
+  "name": "Gregory Meeks",
+  "party": "Democratic",
+  "race": "NY-5",
+  "race_label": "New York · US House NY-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001137",
+   "official_name": "Gregory W. Meeks",
+   "chamber": "House",
+   "official_site": "https://meeks.house.gov",
+   "official_social": {
+    "twitter": "RepGregoryMeeks",
+    "facebook": "gregorymeeksny05",
+    "youtube": "gwmeeks",
+    "instagram": "repgregorymeeks"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 80,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Foreign-affairs focused lawmaker engaged with allies including Israel; publicly urged combating climate change at the 2022 G20 parliamentary summit.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gregory_Meeks"
+   ],
+   "photo": {
+    "file": "File:Gregory Meeks, official portrait, 115th congress (3x4 cropped).jpg",
+    "license": "Public domain",
+    "author": "Kristie Boyd, U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "NY-5/george-marsh",
+  "name": "George Marsh",
+  "party": "Republican",
+  "race": "NY-5",
+  "race_label": "New York · US House NY-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources.",
+   "sources": [
+    "https://www.cityandstateny.com/prediction-markets/candidates/george-marsh"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-6/grace-meng",
+  "name": "Grace Meng",
+  "party": "Democratic",
+  "race": "NY-6",
+  "race_label": "New York · US House NY-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001188",
+   "official_name": "Grace Meng",
+   "chamber": "House",
+   "official_site": "https://meng.house.gov",
+   "official_social": {
+    "twitter": "RepGraceMeng",
+    "facebook": "repgracemeng"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": 30,
+    "foreign": 80,
+    "energy": 80,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against Fiscal Responsibility Act cuts, for Ukraine/Israel/Taiwan aid; seeks ICE accountability without abolition; joined 2019 climate strike.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Grace_Meng"
+   ],
+   "photo": {
+    "file": "File:Grace Meng Official Congressional Photo.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "NY-6/joseph-chou",
+  "name": "Joseph Chou",
+  "party": "Republican",
+  "race": "NY-6",
+  "race_label": "New York · US House NY-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports reducing taxes and wasteful spending with a growth-oriented tax policy for families and small businesses.",
+   "sources": [
+    "https://ballotpedia.org/Joseph_Chou"
+   ],
+   "photo": null
+  }
+ }
+]

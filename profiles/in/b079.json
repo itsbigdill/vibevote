@@ -1,0 +1,424 @@
+[
+ {
+  "id": "OH-15/gary-josephson",
+  "name": "Gary Josephson",
+  "party": "Independent",
+  "race": "OH-15",
+  "race_label": "Ohio · US House OH-15",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Ohio's_15th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-1/mark-tedford",
+  "name": "Mark Tedford",
+  "party": "Republican",
+  "race": "OK-1",
+  "race_label": "Oklahoma · US House OK-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 50,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": 35,
+    "faith": 80
+   },
+   "basis": "Campaigns on tax cuts, strict immigration enforcement, ending benefits for undocumented immigrants, more energy production, parental rights, religious liberty; liberty mixes pro-life and gun-rights stances.",
+   "sources": [
+    "https://www.tedfordforcongress.com/",
+    "https://en.wikipedia.org/wiki/Mark_Tedford"
+   ],
+   "photo": {
+    "file": "File:Tedford Mark OKHouse.jpg",
+    "license": "Public domain",
+    "author": "State of Oklahoma Legislative Service Bureau, Photo Division"
+   }
+  }
+ },
+ {
+  "id": "OK-1/john-croisant",
+  "name": "John Croisant",
+  "party": "Democratic",
+  "race": "OK-1",
+  "race_label": "Oklahoma · US House OK-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 80,
+    "liberty": 55,
+    "security": 50,
+    "immigration": 45,
+    "foreign": 25,
+    "energy": 55,
+    "tech": 75,
+    "education": 80,
+    "faith": 15
+   },
+   "basis": "Backs universal coverage, illegal-gun enforcement, border security plus citizenship path, no forever wars, AI safeguards, no vouchers, church-state separation; liberty from guns.",
+   "sources": [
+    "https://www.croisantforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-2/josh-brecheen",
+  "name": "Josh Brecheen",
+  "party": "Republican",
+  "race": "OK-2",
+  "race_label": "Oklahoma · US House OK-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001317",
+   "official_name": "Josh Brecheen",
+   "chamber": "House",
+   "official_site": "https://brecheen.house.gov",
+   "official_social": {
+    "twitter": "repbrecheen",
+    "facebook": "100089040632497",
+    "instagram": "repbrecheen",
+    "youtube": "UCSX3nV53o-1-e0nFA6pPs2w"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 65,
+    "security": 75,
+    "immigration": 90,
+    "foreign": 35,
+    "energy": 15,
+    "tech": null,
+    "education": 10,
+    "faith": 90
+   },
+   "basis": "Seeks spending cuts, backs police, closed border, opposed Ukraine aid, no federal education role; liberty from faith-based abortion stance, anti-Pride bill, gun rights.",
+   "sources": [
+    "https://joshbrecheen.com/issues-2/",
+    "https://en.wikipedia.org/wiki/Josh_Brecheen"
+   ],
+   "photo": {
+    "file": "File:Rep. Josh Brecheen official photo, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "OK-2/brandon-wade",
+  "name": "Brandon Wade",
+  "party": "Democratic",
+  "race": "OK-2",
+  "race_label": "Oklahoma · US House OK-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 85,
+    "liberty": 10,
+    "security": 40,
+    "immigration": 25,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Wants wealthy and corporations taxed more, healthcare decoupled from jobs, codified Roe, LGBTQ protections, faster immigration courts, no masked raids, public-only school funding.",
+   "sources": [
+    "https://brandon4congress.com/policies/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-2/ronnie-hopkins",
+  "name": "Ronnie Hopkins",
+  "party": "Independent",
+  "race": "OK-2",
+  "race_label": "Oklahoma · US House OK-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://ballotpedia.org/Oklahoma's_2nd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-3/frank-lucas",
+  "name": "Frank Lucas",
+  "party": "Republican",
+  "race": "OK-3",
+  "race_label": "Oklahoma · US House OK-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000491",
+   "official_name": "Frank D. Lucas",
+   "chamber": "House",
+   "official_site": "https://lucas.house.gov",
+   "official_social": {
+    "facebook": "RepFrankLucas",
+    "youtube": "RepFrankLucas",
+    "twitter": "RepFrankLucas",
+    "instagram": "repfranklucas"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 50,
+    "security": null,
+    "immigration": 65,
+    "foreign": 65,
+    "energy": null,
+    "tech": 55,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs low taxes, deregulation, pro-life and gun rights, border security with skilled and farm visas, strong defense; voted for merger-fee antitrust bill.",
+   "sources": [
+    "https://frankdlucas.com/issues/",
+    "https://en.wikipedia.org/wiki/Frank_Lucas_(Oklahoma_politician)"
+   ],
+   "photo": {
+    "file": "File:Frank Lucas portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives, Office of the Clerk"
+   }
+  }
+ },
+ {
+  "id": "OK-3/suzie-byrd",
+  "name": "Suzie Byrd",
+  "party": "Democratic",
+  "race": "OK-3",
+  "race_label": "Oklahoma · US House OK-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions could be verified; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-4/tom-cole",
+  "name": "Tom Cole",
+  "party": "Republican",
+  "race": "OK-4",
+  "race_label": "Oklahoma · US House OK-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001053",
+   "official_name": "Tom Cole",
+   "chamber": "House",
+   "official_site": "https://cole.house.gov",
+   "official_social": {
+    "twitter": "TomColeOK04",
+    "facebook": "TomColeOK04",
+    "youtube": "reptomcole",
+    "instagram": "TomColeOK04"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 55,
+    "security": null,
+    "immigration": 75,
+    "foreign": 75,
+    "energy": 25,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Criticizes Obamacare, calls border security a top priority, backs robust military and Israel aid, all-of-the-above energy, merger-fee antitrust bill; liberty mixes anti-abortion and gun rights.",
+   "sources": [
+    "https://cole.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Tom_Cole"
+   ],
+   "photo": {
+    "file": "File:Rep-Tom-Cole-117thCong.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "OK-4/mitchell-jacob",
+  "name": "Mitchell Jacob",
+  "party": "Democratic",
+  "race": "OK-4",
+  "race_label": "Oklahoma · US House OK-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 40,
+    "welfare": 80,
+    "liberty": 35,
+    "security": 25,
+    "immigration": 15,
+    "foreign": 20,
+    "energy": null,
+    "tech": 70,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Wants spending cuts, healthcare as a right, abortion rights, targeted gun rules, justice reform, less immigration enforcement, ending Israel support, AI rules, public schools.",
+   "sources": [
+    "https://www.mitchelljacob.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-4/rocco-bonacci",
+  "name": "Rocco Bonacci",
+  "party": "Independent",
+  "race": "OK-4",
+  "race_label": "Oklahoma · US House OK-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oklahoma",
+    "https://ballotpedia.org/Oklahoma's_4th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OK-5/stephanie-bice",
+  "name": "Stephanie Bice",
+  "party": "Republican",
+  "race": "OK-5",
+  "race_label": "Oklahoma · US House OK-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B000740",
+   "official_name": "Stephanie I. Bice",
+   "chamber": "House",
+   "official_site": "https://bice.house.gov",
+   "official_social": {
+    "twitter": "RepBice",
+    "facebook": "RepStephanieBice"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 55,
+    "security": null,
+    "immigration": 70,
+    "foreign": 80,
+    "energy": 15,
+    "tech": null,
+    "education": 30,
+    "faith": 65
+   },
+   "basis": "Voted for One Big Beautiful Bill; backs border enforcement, Israel aid, Iran war, oil and gas, local school control, religious liberty; liberty from guns, pro-life.",
+   "sources": [
+    "https://biceforcongress.com/issues/",
+    "https://en.wikipedia.org/wiki/Stephanie_Bice",
+    "https://bice.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Rep. Stephanie Bice, 117th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ }
+]

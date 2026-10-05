@@ -1,0 +1,419 @@
+[
+ {
+  "id": "TX-23/ben-mendoza",
+  "name": "Ben Mendoza",
+  "party": "Independent",
+  "current_role": "Professional mediator",
+  "bio": "Benjamin Eloy Mendoza is a professional mediator based in El Paso, Texas. He has previously run for El Paso City Council and for mayor of El Paso. He qualified as an independent candidate for the open Texas' 23rd Congressional District seat.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, social accounts or issue statements were found; the San Antonio Report profile is the main public source."
+ },
+ {
+  "id": "TX-24/beth-van-duyne",
+  "name": "Beth Van Duyne",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-24",
+  "bio": "Beth Van Duyne has represented Texas' 24th Congressional District since 2021. She previously served on the Irving City Council (2004-2010), as Mayor of Irving (2011-2017) and as Southwest Regional Administrator at the U.S. Department of Housing and Urban Development (2017-2020). Born in Albany, New York, she moved to Irving in 1986 and is a graduate of Cornell University.",
+  "website": "https://bethfortexas.com",
+  "social": {
+   "x": "https://x.com/RepBethVanDuyne",
+   "facebook": "https://www.facebook.com/RepBethVanDuyne",
+   "instagram": "https://www.instagram.com/repbethvanduyne"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Supports a border wall, ICE enforcement and ending sanctuary city policies.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"},
+   {"topic": "Health care", "point": "Favors private insurance over universal coverage and has opposed the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Beth_Van_Duyne"},
+   {"topic": "Abortion", "point": "Supports legal protection for life from conception and legislation on infants born alive after abortion attempts.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"},
+   {"topic": "Public safety", "point": "Opposes ending cash bail and supports mandatory minimum sentencing.", "source": "https://en.wikipedia.org/wiki/Beth_Van_Duyne"},
+   {"topic": "Work visas", "point": "Co-sponsored a bill setting wage floors for H-1B visas and ending Optional Practical Training for foreign graduates.", "source": "https://en.wikipedia.org/wiki/Beth_Van_Duyne"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Opposed the American Rescue Plan spending package and supports right-to-work rules.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"},
+   "welfare": {"score": 25, "evidence": "Opposes universal coverage and favors private insurance; has criticized the Affordable Care Act.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"},
+   "liberty": {"score": 55, "evidence": "Abortion: supports protecting life from conception; guns: voted against background checks on private transfers.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"},
+   "security": {"score": 65, "evidence": "Opposed expanded police accountability rules, supports mandatory minimums and opposes ending cash bail.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"},
+   "immigration": {"score": 80, "evidence": "Strongly supports a border wall and ICE, opposes sanctuary cities and backs entry bans on non-cooperating countries.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"},
+   "foreign": {"score": 60, "evidence": "Strongly opposes boycotts of Israel and supports applying the 2002 Iraq AUMF to ISIS, though she voted against 2022 Ukraine aid.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 75, "evidence": "Pledged strong protection of religious liberty and support for Judeo-Christian values in public life.", "source": "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Liberty raised from 30 to 55 because the earlier score reflected only her gun votes and omitted her anti-abortion positions. Several positions rest on a 2020 candidate survey summarized by OnTheIssues."
+ },
+ {
+  "id": "TX-24/kevin-burge",
+  "name": "Kevin Burge",
+  "party": "Democratic",
+  "current_role": "Cybersecurity manager and Marine Corps veteran",
+  "bio": "Kevin Burge is a U.S. Marine Corps veteran who deployed twice to Iraq and once to Afghanistan, and later spent more than 15 years in national security work, including with the Defense Intelligence Agency. He served as a senior technical advisor at the White House during the Biden administration and now works as a cybersecurity manager at Caterpillar. He lives in Tarrant County and holds a master's degree in sustainable development from North Carolina State University.",
+  "website": "https://burgeforcongress.com",
+  "social": {
+   "x": "https://x.com/burge4congress",
+   "instagram": "https://www.instagram.com/burge4congress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61576948851760",
+   "tiktok": "https://www.tiktok.com/@burge4congress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports restoring ACA subsidies and a universal coverage option that keeps private insurance available.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   {"topic": "Cost of living", "point": "Opposes current tariffs, citing higher costs for building materials, and prioritizes affordable housing.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   {"topic": "Immigration", "point": "Wants a secure border using technology and training so enforcement is humane and lawful.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   {"topic": "Technology", "point": "Backs a federal AI framework protecting workers from AI-driven discrimination and federal rules on data center environmental impacts.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   {"topic": "Education", "point": "Wants to fully fund public schools, expand trade apprenticeships and make public college tuition-free.", "source": "https://burgeforcongress.com/"},
+   {"topic": "Abortion", "point": "Supports restoring abortion rights.", "source": "https://burgeforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Opposes current tariffs and campaigns on an economy that works for everyone rather than billionaires.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   "welfare": {"score": 75, "evidence": "Supports universal health coverage through an optional public system alongside private insurance, and lists Medicare for All on his site.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   "liberty": {"score": 25, "evidence": "Abortion: supports restoring abortion rights; drugs: opposes blanket bans on THC products in favor of safety regulation.", "source": "https://burgeforcongress.com/"},
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Supports a secure border with humane, compliant enforcement and campaigns on immigration reform and civil liberties.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 75, "evidence": "Calls for a federal AI framework against workplace discrimination and federal regulation of data center environmental impacts.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   "education": {"score": 85, "evidence": "Prioritizes fully funding public schools and reforming federal funding formulas.", "source": "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site shows a family photo rather than a headshot, so no campaign photo was recorded."
+ },
+ {
+  "id": "TX-25/roger-williams",
+  "name": "Roger Williams",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-25",
+  "bio": "Roger Williams has represented Texas' 25th Congressional District since 2013 and has chaired the House Small Business Committee since 2023. He served as Texas Secretary of State from 2005 to 2007. A Fort Worth-area native, he owns an automobile dealership business founded by his family in 1939.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepRWilliams",
+   "facebook": "https://www.facebook.com/RepRogerWilliams"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Wants to lower taxes, arguing people spend their money more wisely than government.", "source": "https://williams.house.gov/issues"},
+   {"topic": "Small business", "point": "Supports lower taxes and fewer regulations for job creators.", "source": "https://williams.house.gov/issues"},
+   {"topic": "Spending", "point": "Says the country has a spending problem and prioritizes spending cuts.", "source": "https://williams.house.gov/issues"},
+   {"topic": "Energy", "point": "Supports domestic oil and gas production within an all-of-the-above energy approach.", "source": "https://williams.house.gov/issues"},
+   {"topic": "Second Amendment", "point": "Opposes background check expansions, buybacks, assault weapon bans and red flag laws.", "source": "https://williams.house.gov/issues"},
+   {"topic": "Pro-life", "point": "Believes life begins at conception and has voted to block federal abortion funding.", "source": "https://williams.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Supports lower taxes, fewer regulations on business and spending cuts.", "source": "https://williams.house.gov/issues"},
+   "welfare": {"score": 20, "evidence": "Advocates cutting waste and fraud from Medicare and Medicaid and voted for the 2025 reconciliation law with Medicaid work requirements.", "source": "https://williams.house.gov/issues"},
+   "liberty": {"score": 60, "evidence": "Abortion: opposes it and backs a 20-week ban; LGBTQ: opposes same-sex marriage; guns: opposes new gun restrictions.", "source": "https://www.ontheissues.org/TX/Roger_Williams.htm"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Prioritizes law-and-order border enforcement and supported the 2017 entry restrictions on several countries.", "source": "https://en.wikipedia.org/wiki/Roger_Williams_(Texas_politician)"},
+   "foreign": {"score": 65, "evidence": "Supports expanded military funding, opposes defense cuts and has said the president may use force against Iran.", "source": "https://www.ontheissues.org/TX/Roger_Williams.htm"},
+   "energy": {"score": 10, "evidence": "Signed the No Climate Tax Pledge, opposes greenhouse gas regulation and backs offshore drilling.", "source": "https://www.ontheissues.org/TX/Roger_Williams.htm"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supports school choice, charter schools and homeschooling, and opposes federal education reform grants.", "source": "https://www.ontheissues.org/TX/Roger_Williams.htm"},
+   "faith": {"score": 75, "evidence": "Describes life as a gift from God and defends faith-based opposition to same-sex marriage.", "source": "https://www.ontheissues.org/TX/Roger_Williams.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was confirmed."
+ },
+ {
+  "id": "TX-25/dione-sims",
+  "name": "Dione Sims",
+  "party": "Democratic",
+  "current_role": "Nonprofit founder and IT professional",
+  "bio": "Dione Sims founded Unity Unlimited, Inc., a Fort Worth nonprofit focused on unity and educational opportunity, in 2000 and has worked as a software quality manager. Since 2015 she has co-produced Fort Worth's annual Juneteenth celebration, and her campaign highlights her grandmother, Dr. Opal Lee. She is a Texas Wesleyan University graduate and won the 2026 Democratic primary for Texas' 25th District.",
+  "website": "https://dionesimsforcongress.com",
+  "social": {
+   "x": "https://x.com/DioneSims365",
+   "instagram": "https://instagram.com/dionesimsforcongress",
+   "facebook": "https://www.facebook.com/61586174535447/",
+   "tiktok": "https://tiktok.com/@dionesimsforcongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Would push Texas to close its coverage gap through ACA Medicaid expansion and lower prescription drug costs.", "source": "https://dionesimsforcongress.com/issues"},
+   {"topic": "Rural health", "point": "Plans to protect rural and community health care and make private insurance more affordable.", "source": "https://dionesimsforcongress.com/issues"},
+   {"topic": "Childcare", "point": "Proposes making childcare cheaper, expanding supply and employer-supported care, and strengthening Head Start and pre-K partnerships.", "source": "https://dionesimsforcongress.com/issues"},
+   {"topic": "Technology", "point": "Supports AI leadership with guardrails and a meaningful local say over large data center projects.", "source": "https://dionesimsforcongress.com/issues"},
+   {"topic": "Ethics", "point": "Pledges bipartisan oversight of corruption and stronger financial disclosure and insider-trading safeguards for officials.", "source": "https://dionesimsforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 70, "evidence": "Backs Medicaid expansion in Texas, cheaper private insurance and broader, more affordable childcare.", "source": "https://dionesimsforcongress.com/issues"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 65, "evidence": "Calls for responsible guardrails on AI and data centers, including community input and protections for workers and personal data.", "source": "https://dionesimsforcongress.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Economy score of 65 removed because the current issues page no longer shows the wage and retirement proposals it was based on. Some coverage calls her Opal Lee's daughter, but her campaign site says granddaughter."
+ },
+ {
+  "id": "TX-26/brandon-gill",
+  "name": "Brandon Gill",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-26",
+  "bio": "Brandon Gill has represented Texas' 26th Congressional District since January 2025 and sits on the Judiciary, Budget and Oversight committees. Born on an Air Force base and raised on a West Texas ranch, he studied history and economics at Dartmouth College. He worked as an investment banker and founded the online outlet D.C. Enquirer before running for Congress.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/repbrandongill",
+   "facebook": "https://www.facebook.com/RepBrandonGill",
+   "instagram": "https://www.instagram.com/repbrandongill"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Lists securing the border as a top priority and supports mass deportations.", "source": "https://gill.house.gov/about"},
+   {"topic": "Life", "point": "Names protecting life among his core priorities in Congress.", "source": "https://gill.house.gov/about"},
+   {"topic": "Government waste", "point": "Aims to eliminate government waste, including through the Oversight Committee's DOGE subcommittee.", "source": "https://gill.house.gov/about"},
+   {"topic": "Economy", "point": "Seeks to restore economic strength by reversing Biden administration policies.", "source": "https://gill.house.gov/about"},
+   {"topic": "Immigration", "point": "Has called for restricting Muslim immigration and supports what he calls remigration.", "source": "https://en.wikipedia.org/wiki/Brandon_Gill"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Voted for the 2025 reconciliation tax-cut law and prioritizes cutting government waste.", "source": "https://clerk.house.gov/Votes/2025190"},
+   "welfare": {"score": 15, "evidence": "Voted for the 2025 reconciliation law, which added Medicaid work requirements and reduced program spending.", "source": "https://clerk.house.gov/Votes/2025190"},
+   "liberty": {"score": 65, "evidence": "Abortion: lists protecting life as a core priority.", "source": "https://gill.house.gov/about"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Supports mass deportations and fortifying the border, and has called for restricting Muslim immigration.", "source": "https://en.wikipedia.org/wiki/Brandon_Gill"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score of 15 removed because no statement or vote on energy could be verified. The liberty score rests mainly on his anti-abortion stance."
+ },
+ {
+  "id": "TX-26/steven-shook",
+  "name": "Steven Shook",
+  "party": "Democratic",
+  "current_role": "Acute care nurse practitioner",
+  "bio": "Steven Shook is a registered nurse and acute care nurse practitioner who has worked in critical care since 2009. Born and raised in Fort Worth, he studied at Tarrant County College, Texas Tech University and the University of Texas at Arlington. He is the Democratic nominee for Texas' 26th Congressional District.",
+  "website": "https://shookforcongress2026.com",
+  "social": {
+   "x": "https://www.x.com/shook4congress",
+   "instagram": "https://www.instagram.com/shook_for_congress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61581168892730",
+   "tiktok": "https://www.tiktok.com/@shook4tx26"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Proposes a planned, step-by-step move to universal health care and wider Medicare drug price negotiation.", "source": "https://shookforcongress2026.com/"},
+   {"topic": "Cost of living", "point": "Wants lower health, energy and education costs and a crackdown on corporate price gouging.", "source": "https://shookforcongress2026.com/"},
+   {"topic": "Education", "point": "Would shift school funding away from property taxes toward more state and federal investment.", "source": "https://shookforcongress2026.com/"},
+   {"topic": "Social Security", "point": "Opposes cuts or privatization and wants wealthy Americans to pay a fairer share into the program.", "source": "https://shookforcongress2026.com/"},
+   {"topic": "Gun violence", "point": "Supports police training funds, closing background check loopholes and red flag laws.", "source": "https://shookforcongress2026.com/"},
+   {"topic": "Ethics", "point": "Prioritizes ethics reforms and constituent service over political theater.", "source": "https://shookforcongress2026.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Calls for cracking down on corporate price gouging and having the wealthy pay more to support Social Security.", "source": "https://shookforcongress2026.com/"},
+   "welfare": {"score": 80, "evidence": "Proposes a phased transition to universal health care and opposes Social Security cuts or privatization.", "source": "https://shookforcongress2026.com/"},
+   "liberty": {"score": 70, "evidence": "Guns: supports closing background check loopholes and red flag laws.", "source": "https://shookforcongress2026.com/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 70, "evidence": "Wants more state and federal investment in schools to reduce reliance on property taxes.", "source": "https://shookforcongress2026.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://img1.wsimg.com/isteam/ip/0c919ca8-e4db-46a9-9559-2a15e200d69e/Candidate%20Steven%20Shook%20Profile%20Picture%20Pic%20Hal.jpg",
+  "notes": "Welfare raised from 65 to 80 because his site explicitly proposes a transition to universal health care. The liberty score reflects only his gun policy positions."
+ },
+ {
+  "id": "TX-26/phil-gray",
+  "name": "Phil Gray",
+  "party": "Libertarian",
+  "current_role": "Property management business owner",
+  "bio": "Phil Gray owns a property management business and has about three decades of experience in the field. He holds bachelor's and master's degrees from the University of Texas at Tyler. He was the Libertarian nominee for Texas' 26th Congressional District in 2024 and is running again in 2026.",
+  "website": "https://philgrayforcongress.org",
+  "social": {
+   "facebook": "https://www.facebook.com/PhilGrayForLiberty"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Would let immigrants pay to enter and stay after background checks, with fees reducing the debt and no federal benefits.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   {"topic": "Foreign policy", "point": "Says the U.S. has become too involved in other countries' affairs and should focus on its own sovereignty.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   {"topic": "National debt", "point": "Prioritizes paying down the national debt and opposes student loan forgiveness.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   {"topic": "Education", "point": "Opposes school vouchers.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   {"topic": "Abortion", "point": "Opposes federal limits on abortion, leaving the decision to the mother.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 60, "evidence": "Prefers government-funded health options offered alongside private coverage.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   "liberty": {"score": 15, "evidence": "Abortion: opposes federal restrictions and leaves the choice to the mother.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   "security": null,
+   "immigration": {"score": 10, "evidence": "Opposes more physical border security and would let immigrants pay to enter and stay after background checks.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   "foreign": {"score": 20, "evidence": "Says the U.S. is too involved in other nations' policies and should focus on sovereignty.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 90, "evidence": "Strongly opposes school vouchers.", "source": "https://ivoterguide.com/candidate/32149/race/6584/election/1214?culture=en-us"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions come from his 2024 iVoterGuide survey answers, as no 2026 platform was found. The campaign website did not load during research and may be out of date."
+ },
+ {
+  "id": "TX-27/michael-cloud",
+  "name": "Michael Cloud",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-27",
+  "bio": "Michael Cloud has represented Texas' 27th Congressional District since June 2018 and serves on the Appropriations and Oversight committees. He previously chaired the Victoria County Republican Party from 2010 to 2017. Born in Baton Rouge, Louisiana, he graduated from Oral Roberts University.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepCloudTX",
+   "facebook": "https://www.facebook.com/RepCloudTX",
+   "instagram": "https://www.instagram.com/repcloudtx",
+   "youtube": "https://www.youtube.com/RepCloudTX"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Calls for fully funding a border wall and opposes a path to citizenship for undocumented immigrants.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   {"topic": "Health care", "point": "Favors a market-driven health system and repeal of the Affordable Care Act.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   {"topic": "Taxes", "point": "Opposes tax increases to balance the budget and supports lower corporate tax rates.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   {"topic": "Life", "point": "Describes himself as fully pro-life and sponsored protections for infants who survive abortions.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   {"topic": "Education", "point": "Supports parental school choice and state rather than federal control of education standards.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes raising taxes, supports lower corporate rates and voted for the 2025 reconciliation tax law.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   "welfare": {"score": 20, "evidence": "Supports a market-oriented health system and repealing the Affordable Care Act.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   "liberty": {"score": 65, "evidence": "Abortion: fully pro-life; guns: opposes background check requirements.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Wants the border wall fully funded, opposes a citizenship path and backs entry bans on non-cooperating countries.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   "foreign": {"score": 25, "evidence": "Voted to repeal the 2002 Iraq AUMF and to direct troop withdrawal from Syria, and opposed 2024 Ukraine aid.", "source": "https://en.wikipedia.org/wiki/Michael_Cloud"},
+   "energy": {"score": 10, "evidence": "Opposes renewable energy subsidies and greenhouse gas regulations.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   "tech": {"score": 30, "evidence": "Voted against net neutrality rules but for the 2022 merger filing fee antitrust bill.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   "education": {"score": 15, "evidence": "Supports vouchers and parental school choice, with states setting standards.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"},
+   "faith": {"score": 75, "evidence": "Emphasizes religious freedom protections and opposes discrimination against people of faith.", "source": "https://www.ontheissues.org/TX/Michael_Cloud.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was confirmed."
+ },
+ {
+  "id": "TX-27/tanya-lloyd",
+  "name": "Tanya Lloyd",
+  "party": "Democratic",
+  "current_role": "Kindergarten teacher, Lockhart ISD",
+  "bio": "Tanya Lloyd is a kindergarten teacher in the Lockhart Independent School District and a fifth-generation Texan who grew up on a farm near Lockhart. After working in car dealerships and real estate, she earned an education degree and became a teacher. She won the 2026 Democratic primary for Texas' 27th Congressional District.",
+  "website": "https://www.tanyafortx27.com",
+  "social": {
+   "x": "https://x.com/tanyafortexas",
+   "instagram": "https://www.instagram.com/tanyafortexas",
+   "facebook": "https://www.facebook.com/tanyafortexas",
+   "tiktok": "https://www.tiktok.com/@tanyafortexas",
+   "youtube": "https://www.youtube.com/@tanyafortexas"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports a government-funded single-payer system and reopening rural hospitals and clinics.", "source": "https://www.tanyafortx27.com/issues"},
+   {"topic": "Reproductive rights", "point": "Would write Roe v. Wade protections into federal law and improve maternal health access.", "source": "https://www.tanyafortx27.com/issues"},
+   {"topic": "Agriculture", "point": "Would break up agribusiness monopolies, cap subsidies for the largest operations and redirect support to small farms.", "source": "https://www.tanyafortx27.com/issues"},
+   {"topic": "Education", "point": "Wants equitable rural school funding, higher teacher pay, universal early childhood education and year-round free school meals.", "source": "https://www.tanyafortx27.com/issues"},
+   {"topic": "Rural infrastructure", "point": "Proposes investing in broadband, water and locally owned renewable energy in rural areas.", "source": "https://www.tanyafortx27.com/issues"},
+   {"topic": "Workers", "point": "Supports living wages and workers' right to organize.", "source": "https://www.tanyafortx27.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Would break up agribusiness monopolies, cap large-farm subsidies and back living wages and union rights.", "source": "https://www.tanyafortx27.com/issues"},
+   "welfare": {"score": 95, "evidence": "Supports government-funded single-payer health care, guaranteed daycare and universal free school meals.", "source": "https://www.tanyafortx27.com/issues"},
+   "liberty": {"score": 20, "evidence": "Abortion: would restore abortion access and write Roe v. Wade protections into federal law.", "source": "https://www.tanyafortx27.com/issues"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Proposes investment in locally owned solar, wind and biomass energy and emphasizes conservation.", "source": "https://www.tanyafortx27.com/issues"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Calls for equitable public school funding, higher teacher salaries and universal early childhood education.", "source": "https://www.tanyafortx27.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Social links are taken from those listed on her campaign issues page; the TikTok link there appears mistyped, so the plain handle was used."
+ },
+ {
+  "id": "TX-28/henry-cuellar",
+  "name": "Henry Cuellar",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for TX-28",
+  "bio": "Henry Cuellar has represented Texas' 28th Congressional District since 2005 and serves on the House Appropriations Committee. He previously served in the Texas House of Representatives from 1987 to 2001 and briefly as Texas Secretary of State in 2001. A Laredo native, he holds degrees from Georgetown University, Texas A&M International University and the University of Texas, including a law degree and a doctorate.",
+  "website": "https://henrycuellar.com",
+  "social": {
+   "x": "https://x.com/RepCuellar",
+   "facebook": "https://www.facebook.com/152569121550",
+   "instagram": "https://www.instagram.com/RepCuellar",
+   "youtube": "https://www.youtube.com/henrycuellar"
+  },
+  "platform": [
+   {"topic": "Trade", "point": "Opposes the current tariffs, citing their effect on trade through the Port of Laredo.", "source": "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/"},
+   {"topic": "Immigration", "point": "Says ICE should focus on criminals rather than families, Dreamers and workers, while backing border enforcement funding.", "source": "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/"},
+   {"topic": "Data centers", "point": "Filed the Ratepayer Bill of Rights Act requiring data centers to disclose water and power use and bear project costs.", "source": "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/"},
+   {"topic": "Local funding", "point": "Emphasizes using his Appropriations seniority to secure federal funding for district projects.", "source": "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Voted against the 2025 reconciliation tax law and opposes current tariffs, while describing himself as a moderate, conservative Democrat.", "source": "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/"},
+   "welfare": {"score": 60, "evidence": "Voted for the Affordable Care Act and against the 2025 reconciliation law's Medicaid cuts.", "source": "https://en.wikipedia.org/wiki/Henry_Cuellar"},
+   "liberty": {"score": 60, "evidence": "Abortion: opposes abortion rights and voted for a 20-week ban; drugs: opposed marijuana legalization; guns: supports gun rights.", "source": "https://en.wikipedia.org/wiki/Henry_Cuellar"},
+   "security": {"score": 60, "evidence": "Supports automated license plate recognition technology and backed Kate's Law penalties.", "source": "https://en.wikipedia.org/wiki/Henry_Cuellar"},
+   "immigration": {"score": 55, "evidence": "Backed Kate's Law and cutting funds to sanctuary jurisdictions and voted for ICE funding, but says ICE should not target families or Dreamers.", "source": "https://en.wikipedia.org/wiki/Henry_Cuellar"},
+   "foreign": {"score": 70, "evidence": "Supports aid to Ukraine and Israel and opposed a 2026 Iran war powers resolution.", "source": "https://en.wikipedia.org/wiki/Henry_Cuellar"},
+   "energy": {"score": 40, "evidence": "Voted for 2009 cap-and-trade but in 2023 was one of two Democrats voting to roll back Inflation Reduction Act rules.", "source": "https://en.wikipedia.org/wiki/Henry_Cuellar"},
+   "tech": {"score": 60, "evidence": "Filed a bill requiring data centers to disclose water and electricity use and cover project costs.", "source": "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Liberty raised from 50 to 60 because his abortion votes and opposition to marijuana legalization outweigh his gun-rights stance. He was indicted on federal bribery charges, denied wrongdoing and was pardoned by President Trump in late 2025."
+ },
+ {
+  "id": "TX-28/tano-tijerina",
+  "name": "Tano Tijerina",
+  "party": "Republican",
+  "current_role": "Webb County Judge",
+  "bio": "Tano Tijerina has served as Webb County Judge, the county's top executive, since 2015. He is a former professional baseball player from Laredo. Previously a Democrat, he switched to the Republican Party after the 2024 election.",
+  "website": "https://www.tanoforcongress.com",
+  "social": {
+   "x": "https://twitter.com/JudgeTano",
+   "facebook": "https://www.facebook.com/judgetanotijerina/"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Wants to stop illegal crossings, enforce the law and support law enforcement, with practical, bipartisan immigration reform.", "source": "https://www.tanoforcongress.com/issues"},
+   {"topic": "Taxes", "point": "Promises lower taxes for working families and small businesses, pointing to property tax cuts as county judge.", "source": "https://www.tanoforcongress.com/issues"},
+   {"topic": "Government reform", "point": "Would cut federal regulations and wasteful spending and reduce bureaucracy.", "source": "https://www.tanoforcongress.com/issues"},
+   {"topic": "Crypto", "point": "Supports crypto innovation under clear, fair rules that protect financial freedom.", "source": "https://www.tanoforcongress.com/issues"},
+   {"topic": "Data centers", "point": "Welcomes new industry but wants water, land and affordable power protected from resource-heavy projects.", "source": "https://www.tanoforcongress.com/issues"},
+   {"topic": "Foreign policy", "point": "Backs an America First approach, support for Israel and a firm stance toward hostile regimes.", "source": "https://www.tanoforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for lower taxes, fewer federal regulations and less spending.", "source": "https://www.tanoforcongress.com/issues"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Prioritizes stopping illegal crossings and enforcing the law, while calling for practical, bipartisan reform.", "source": "https://www.tanoforcongress.com/issues"},
+   "foreign": {"score": 60, "evidence": "Supports Israel and confronting hostile regimes within an America First framework.", "source": "https://www.tanoforcongress.com/issues"},
+   "energy": null,
+   "tech": {"score": 40, "evidence": "Wants clear but light crypto rules that protect innovation, plus resource protections around data centers.", "source": "https://www.tanoforcongress.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Tano Tijerina.jpg", "license": "CC BY-SA 4.0", "author": "E. R. Softwood"},
+  "campaign_photo": "",
+  "notes": "The Commons photo dates from 2010. Sources did not make clear whether he still holds the county judge post during his campaign."
+ }
+]

@@ -1,0 +1,942 @@
+[
+ {
+  "id": "IL-6/sean-casten",
+  "name": "Sean Casten",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for IL-6",
+  "bio": "Sean Casten has represented Illinois's 6th congressional district since 2019. Before Congress he worked as a biochemical researcher and consultant and led clean-energy companies including Turbosteam and Recycled Energy Development. He was born in Dublin, Ireland, raised in New York, and lives in Downers Grove.",
+  "website": "https://www.castenforcongress.com",
+  "social": {
+   "x": "https://x.com/RepCasten",
+   "instagram": "https://www.instagram.com/repseancasten",
+   "facebook": "https://www.facebook.com/RepSeanCasten"
+  },
+  "platform": [
+   {
+    "topic": "Climate and energy",
+    "point": "Pursue aggressive, market-based climate policy, end oil and gas subsidies and move to a clean, affordable power grid.",
+    "source": "https://www.castenforcongress.com/issues/energy-and-climate-policy"
+   },
+   {
+    "topic": "Gun safety",
+    "point": "Supports universal background checks and a ban on military-style semi-automatic weapons.",
+    "source": "https://www.castenforcongress.com/issues/gun-safety"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Backs comprehensive immigration reform with pathways to citizenship and due-process protections.",
+    "source": "https://www.castenforcongress.com/issues/immigration-reform"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Supports abortion rights and voted for the Women's Health Protection Act.",
+    "source": "https://en.wikipedia.org/wiki/Sean_Casten"
+   },
+   {
+    "topic": "Gaza",
+    "point": "Filed the Ceasefire Compliance Act in 2026 and has criticised the Netanyahu government's conduct toward Palestinians.",
+    "source": "https://en.wikipedia.org/wiki/Sean_Casten"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports abortion rights (Women's Health Protection Act), LGBTQ rights and gun restrictions including an assault weapons ban.",
+    "source": "https://www.castenforcongress.com/issues/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 20,
+    "evidence": "Supports comprehensive reform with pathways to citizenship and opposes current administration enforcement tactics.",
+    "source": "https://www.castenforcongress.com/issues/immigration-reform"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Voted to support Israel after October 2023 while seeking ceasefire compliance conditions; member of the Congressional Ukraine Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Sean_Casten"
+   },
+   "energy": {
+    "score": 95,
+    "evidence": "Makes climate his central issue, backs the Inflation Reduction Act and ending oil and gas subsidies.",
+    "source": "https://www.castenforcongress.com/issues/energy-and-climate-policy"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 15,
+    "evidence": "Member of the Congressional Freethought Caucus, which advocates secular government.",
+    "source": "https://en.wikipedia.org/wiki/Sean_Casten"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://g16b8v54re.ufs.sh/f/RYCPyeiatJoU7GCJ2ZVoua4W9jdTFMxpIiKAwqe1zZQrJlRY",
+  "notes": ""
+ },
+ {
+  "id": "IL-6/niki-conforti",
+  "name": "Niki Conforti",
+  "party": "Republican",
+  "current_role": "Energy consultant",
+  "bio": "Niki Conforti is an energy consultant from Wheaton who previously worked in healthcare administration and owned a staffing business. She holds an economics degree from the University of Chicago and an MBA from George Washington University, and has served as an elected Republican precinct committeeman.",
+  "website": "https://conforti4congress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Bring manufacturing back through tariffs and workforce training while opposing tax and fee increases.",
+    "source": "https://conforti4congress.com/issues/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Lower costs through medical billing transparency and insurance policies portable across state lines.",
+    "source": "https://conforti4congress.com/issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Expand ICE and deport violent criminals while supporting legal immigration.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/niki-conforti-illinois-primary-6th-congressional-district"
+   },
+   {
+    "topic": "Energy",
+    "point": "Cut energy-industry regulations and limit renewable requirements to lower costs.",
+    "source": "https://www.shawlocal.com/my-suburban-life/2026/02/07/2026-election-questionnaire-niki-conforti-us-house-of-representatives-6th-district/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Seek stronger fentanyl penalties and more task forces; opposes Illinois's SAFE-T Act.",
+    "source": "https://conforti4congress.com/issues/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Opposes abortion except for rape, incest or the mother's life, and opposes taxpayer funding.",
+    "source": "https://conforti4congress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Opposes tax hikes and wants spending caps and fewer small-business regulations, while backing tariffs to revive manufacturing.",
+    "source": "https://conforti4congress.com/issues/"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Calls the ACA unaffordable and favors market competition and billing transparency over expanded programs.",
+    "source": "https://www.shawlocal.com/my-suburban-life/2026/02/07/2026-election-questionnaire-niki-conforti-us-house-of-representatives-6th-district/"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Opposes abortion with limited exceptions and wants tougher fentanyl penalties (drugs) but supports Second Amendment rights (guns).",
+    "source": "https://conforti4congress.com/issues/"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Opposes the SAFE-T Act and supports police with added training plus tougher penalties for fentanyl crimes.",
+    "source": "https://conforti4congress.com/issues/"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Wants borders closed until reforms are made and ICE expanded, while supporting legal immigration.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/niki-conforti-illinois-primary-6th-congressional-district"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Says Americans should not be drawn into wars involving Ukraine, Israel or Venezuela.",
+    "source": "https://www.shawlocal.com/my-suburban-life/2026/02/07/2026-election-questionnaire-niki-conforti-us-house-of-representatives-6th-district/"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Proposes cutting energy regulations and limiting the renewable component.",
+    "source": "https://www.shawlocal.com/my-suburban-life/2026/02/07/2026-election-questionnaire-niki-conforti-us-house-of-representatives-6th-district/"
+   },
+   "tech": {
+    "score": 50,
+    "evidence": "Backs sound regulatory frameworks for emerging technology alongside tax incentives for AI, blockchain and crypto development.",
+    "source": "https://conforti4congress.com/issues/"
+   },
+   "education": {
+    "score": 40,
+    "evidence": "Wants schools refocused on core academics and supports protecting parental rights.",
+    "source": "https://conforti4congress.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://conforti4congress.com/wp-content/uploads/2021/06/nikicoverweb-scaled.jpg",
+  "notes": "No official campaign social accounts were confirmed."
+ },
+ {
+  "id": "IL-7/la-shawn-ford",
+  "name": "La Shawn K. Ford",
+  "party": "Democratic",
+  "current_role": "Illinois State Representative, 8th District",
+  "bio": "La Shawn K. Ford has served in the Illinois House of Representatives since 2007, where he chairs the higher education appropriations committee. He grew up in Chicago's Austin neighborhood, worked as a Chicago Public Schools history teacher and coach, and founded a real estate firm. He ran for mayor of Chicago in 2019.",
+  "website": "https://fordforcongress.com/",
+  "social": {
+   "x": "https://x.com/ford4congress",
+   "instagram": "https://www.instagram.com/fordforthe7th",
+   "facebook": "https://www.facebook.com/fordforcongress",
+   "youtube": "https://www.youtube.com/@LaShawnK.FordForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Make healthcare, housing, childcare, retirement and wages more affordable for lower-income households in the district.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/la-shawn-k-ford-illinois-primary-7th-congressional-district"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Lower out-of-pocket costs and protect coverage by expanding ACA subsidies and lowering drug prices.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/la-shawn-k-ford-illinois-primary-7th-congressional-district"
+   },
+   {
+    "topic": "Immigration enforcement",
+    "point": "Require transparency, use-of-force standards and independent review for federal immigration operations.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/la-shawn-k-ford-illinois-primary-7th-congressional-district"
+   },
+   {
+    "topic": "Trade",
+    "point": "Replace broad tariffs with targeted trade enforcement and investment in domestic manufacturing.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/la-shawn-k-ford-illinois-primary-7th-congressional-district"
+   },
+   {
+    "topic": "Housing and childcare",
+    "point": "Offers an affordable housing plan and support for child care and early learning teachers.",
+    "source": "https://fordforcongress.com/platform/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Calls for living wages and public investment in manufacturing while opposing broad tariffs as a consumer tax.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/la-shawn-k-ford-illinois-primary-7th-congressional-district"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Backs expanding ACA subsidies, lowering drug costs and making childcare affordable.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/la-shawn-k-ford-illinois-primary-7th-congressional-district"
+   },
+   "liberty": null,
+   "security": {
+    "score": 35,
+    "evidence": "Wants use-of-force standards and independent review of federal enforcement operations.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/la-shawn-k-ford-illinois-primary-7th-congressional-district"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Criticised Operation Midway Blitz and seeks accountability limits on immigration enforcement.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/la-shawn-k-ford-illinois-primary-7th-congressional-district"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:La Shawn K. Ford on 11 December 2023 - 8 (cropped).jpg",
+   "license": "CC BY 2.0",
+   "author": "US Department of Education"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IL-7/chad-koppie",
+  "name": "Chad Koppie",
+  "party": "Republican",
+  "current_role": "Farmer and retired airline pilot",
+  "bio": "Chad Koppie is a farmer from northern Illinois and a retired Delta Air Lines captain who trained at Purdue University's aviation school. He has served on the Kane County Regional Board of Schools, a local school board and as a township trustee, and was the Republican nominee for this seat in earlier cycles.",
+  "website": "https://www.koppieforcongress.com/",
+  "social": {
+   "x": "https://x.com/ChadKoppieIL"
+  },
+  "platform": [
+   {
+    "topic": "Abortion",
+    "point": "Names banning abortion as the main goal of his campaign.",
+    "source": "https://www.koppieforcongress.com/"
+   },
+   {
+    "topic": "Taxes and spending",
+    "point": "Cut federal spending substantially and lower tax rates.",
+    "source": "https://www.koppieforcongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Build a border wall and have ICE arrest and deport all people in the country illegally.",
+    "source": "https://www.oakpark.com/2024/10/14/who-are-the-u-s-7th-district-house-candidates-danny-davis-and-chad-koppie/"
+   },
+   {
+    "topic": "Limited government",
+    "point": "Reduce federal government power, which he describes as a threat to liberty.",
+    "source": "https://www.koppieforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Calls for large spending cuts and lower tax rates.",
+    "source": "https://www.koppieforcongress.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 70,
+    "evidence": "Opposes abortion and pledges to protect all human life (abortion), and as a lifetime NRA member pledges to defend the Second Amendment (guns).",
+    "source": "https://www.oakpark.com/2024/10/14/who-are-the-u-s-7th-district-house-candidates-danny-davis-and-chad-koppie/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 95,
+    "evidence": "Supports a border wall and deportation of all undocumented immigrants.",
+    "source": "https://www.oakpark.com/2024/10/14/who-are-the-u-s-7th-district-house-candidates-danny-davis-and-chad-koppie/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "http://www.chadkoppie.com/img/profile-pic.jpg",
+  "notes": "Abortion and immigration positions come from 2022-2024 coverage and questionnaires. The campaign headshot is hosted on his older chadkoppie.com domain."
+ },
+ {
+  "id": "IL-8/melissa-bean",
+  "name": "Melissa Bean",
+  "party": "Democratic",
+  "current_role": "Former U.S. Representative for IL-8",
+  "bio": "Melissa Bean represented Illinois's 8th congressional district from 2005 to 2011 as a member of the Blue Dog and New Democrat coalitions. After Congress she led the Executives Club of Chicago, was a Midwest executive at JPMorgan Chase and became CEO of Mesirow Wealth Advisors. She was born in Chicago and lives in Palatine Township.",
+  "website": "https://www.melissabeanforcongress.com",
+  "social": {
+   "x": "https://x.com/Melissabeanil08",
+   "instagram": "https://instagram.com/melissabeanforillinois",
+   "facebook": "https://facebook.com/melissabeanforillinois"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Protect and strengthen the ACA, lower prescription drug prices and reverse Medicaid cuts.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Codify Roe v. Wade and protect access to abortion, contraception and IVF.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pass comprehensive reform with a path to citizenship and oppose mass deportation.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Fully fund public and special education and oppose vouchers.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   {
+    "topic": "Technology",
+    "point": "Invest in US AI leadership while setting consumer protections and digital safety standards.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Rebuild alliances and pair diplomacy with defense investment.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "In the House voted to extend capital gains and dividend tax cuts and backed CAFTA; now emphasises workforce and small-business investment.",
+    "source": "https://en.wikipedia.org/wiki/Melissa_Bean"
+   },
+   "welfare": {
+    "score": 55,
+    "evidence": "Voted for the ACA and now pledges to strengthen it and reverse Medicaid cuts, without endorsing single-payer.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Abortion: pledges to codify Roe and protect contraception and IVF access.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Supports a path to citizenship and opposes mass deportation.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Supported the Iraq war initially and now calls for rebuilding alliances with defense investment.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   "energy": {
+    "score": 70,
+    "evidence": "Voted for 2009 cap-and-trade and now backs clean-energy investment and emissions reduction.",
+    "source": "https://en.wikipedia.org/wiki/Melissa_Bean"
+   },
+   "tech": {
+    "score": 55,
+    "evidence": "Pairs AI innovation investment with consumer protection and digital safety standards.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Wants public schools fully funded and opposes vouchers.",
+    "source": "https://www.melissabeanforcongress.com/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Melissa Bean Official.jpg",
+   "license": "Public domain",
+   "author": "U.S. House of Representatives"
+  },
+  "campaign_photo": "https://run.imgix.net/01a39ac7-16f9-4503-be10-d460e6101335/f94d7ce3-dab6-4b98-9959-262f99852b2e/f94d7ce3-dab6-4b98-9959-262f99852b2e.png",
+  "notes": ""
+ },
+ {
+  "id": "IL-8/jennifer-davis",
+  "name": "Jennifer Davis",
+  "party": "Republican",
+  "current_role": "Business owner and author",
+  "bio": "Jennifer Davis co-founded the service-software company Davisware and later launched BExponential, a program for women in business. She is the author of a book on business and life and lives in Huntley. She has not previously held elected office.",
+  "website": "https://www.votejenniferdavis.com/",
+  "social": {
+   "x": "https://x.com/DavisforIL8",
+   "instagram": "https://instagram.com/votejenniferdavis",
+   "facebook": "https://www.facebook.com/profile.php?id=61578993118568",
+   "tiktok": "https://www.tiktok.com/@votejenniferdavis"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Cut taxes and regulations to make Illinois more affordable for families and small businesses.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border with technology, enforce current law, deport criminals and prioritise skilled legal immigration.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand parental involvement and options across public, charter, private and homeschool settings.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Grow domestic oil, gas and renewable production for energy independence.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   {
+    "topic": "Cybersecurity",
+    "point": "Create a national 'Digital Dome' against foreign cyberattacks and online predators.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Calls for cutting taxes and streamlining regulations.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 60,
+    "evidence": "Wants better training, modern equipment and technology for law enforcement.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   "immigration": {
+    "score": 60,
+    "evidence": "Supports border technology and deporting criminals alongside streamlined legal immigration for skilled workers.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 30,
+    "evidence": "Supports expanding oil and gas along with renewables for energy independence.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   "tech": {
+    "score": 55,
+    "evidence": "Proposes a national 'Digital Dome' against cyberattacks, online predators and digital manipulation.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   "education": {
+    "score": 25,
+    "evidence": "Prioritises parental involvement and school options including charter, private and homeschool.",
+    "source": "https://www.votejenniferdavis.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/acaba8_2a5c202d028e48fdad468e3d9e01f681~mv2.jpg",
+  "notes": "Her campaign site states no position on abortion, guns or other liberty issues, so liberty is unscored."
+ },
+ {
+  "id": "IL-9/daniel-biss",
+  "name": "Daniel Biss",
+  "party": "Democratic",
+  "current_role": "Mayor of Evanston",
+  "bio": "Daniel Biss has been mayor of Evanston since 2021. He previously served in the Illinois House from 2011 to 2013 and the Illinois Senate from 2013 to 2019, and earlier taught mathematics at the University of Chicago. He was born in Akron, Ohio.",
+  "website": "https://danielbiss.com",
+  "social": {
+   "x": "https://x.com/danielbiss",
+   "instagram": "https://instagram.com/daniel.biss",
+   "facebook": "https://facebook.com/danielbiss",
+   "tiktok": "https://tiktok.com/@bissforcongress",
+   "youtube": "https://youtube.com/@bissforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Make billionaires and large corporations pay more in taxes.",
+    "source": "https://danielbiss.com/issues"
+   },
+   {
+    "topic": "Climate",
+    "point": "Take bold action on climate change and rising energy costs.",
+    "source": "https://danielbiss.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Fully fund public schools and oppose privatisation.",
+    "source": "https://danielbiss.com/issues"
+   },
+   {
+    "topic": "Gun violence",
+    "point": "Treat gun violence as a public health emergency with common-sense reforms.",
+    "source": "https://danielbiss.com/issues"
+   },
+   {
+    "topic": "Technology",
+    "point": "Hold tech platforms accountable for spreading misinformation.",
+    "source": "https://danielbiss.com/issues"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Lower housing and childcare costs for working families.",
+    "source": "https://danielbiss.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Wants billionaires and corporations to pay more and backed a graduated state income tax.",
+    "source": "https://danielbiss.com/issues"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Has advocated single-payer healthcare.",
+    "source": "https://en.wikipedia.org/wiki/Daniel_Biss"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Supports abortion rights and marijuana legalisation (individual choice) and gun control (community rules).",
+    "source": "https://en.wikipedia.org/wiki/Daniel_Biss"
+   },
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Supported in-state tuition for undocumented graduates and calls for fixing the immigration system.",
+    "source": "https://en.wikipedia.org/wiki/Daniel_Biss"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 85,
+    "evidence": "Supports carbon limits and enacted Evanston's Healthy Buildings emissions ordinance.",
+    "source": "https://en.wikipedia.org/wiki/Daniel_Biss"
+   },
+   "tech": {
+    "score": 70,
+    "evidence": "Calls for holding tech platforms accountable for misinformation.",
+    "source": "https://danielbiss.com/issues"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Opposes school privatisation and supports public school funding and teacher pay.",
+    "source": "https://danielbiss.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The only Commons image found is a group photo of four people, not a portrait, so no photo is given."
+ },
+ {
+  "id": "IL-9/john-elleson",
+  "name": "John Elleson",
+  "party": "Republican",
+  "current_role": "Pastor, Lakewood Chapel",
+  "bio": "John Elleson is a pastor at Lakewood Chapel in Arlington Heights and has served Chicago-area congregations for about 40 years. He was born in Monmouth, Illinois, attended Christian Life College, and was the Republican nominee for this seat in 2018.",
+  "website": "https://www.johnelleson.com",
+  "social": {
+   "facebook": "https://www.facebook.com/johnelleson/"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Cut regulations and taxes on workers and small businesses and support local economic revitalisation.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/john-elleson-illinois-primary-9th-congressional-district"
+   },
+   {
+    "topic": "Energy",
+    "point": "Expand domestic oil and gas production to lower fuel costs.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/john-elleson-illinois-primary-9th-congressional-district"
+   },
+   {
+    "topic": "China",
+    "point": "Use targeted tariffs against unfair trade and maintain strong support for Taiwan.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/john-elleson-illinois-primary-9th-congressional-district"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Prioritise removing people who pose public-safety threats while respecting due process.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/john-elleson-illinois-primary-9th-congressional-district"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Support police with de-escalation training and fund addiction and mental-health programs.",
+    "source": "https://www.johnelleson.com/stances/"
+   },
+   {
+    "topic": "Religious liberty",
+    "point": "Protect religious freedom.",
+    "source": "https://www.johnelleson.com/stances/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Calls for pro-growth tax and regulatory cuts, along with targeted tariffs on China.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/john-elleson-illinois-primary-9th-congressional-district"
+   },
+   "welfare": {
+    "score": 35,
+    "evidence": "Favors community clinics and affordability measures with limited federal involvement in healthcare.",
+    "source": "https://www.johnelleson.com/stances/"
+   },
+   "liberty": null,
+   "security": {
+    "score": 55,
+    "evidence": "Supports law enforcement paired with de-escalation training and community trust.",
+    "source": "https://www.johnelleson.com/stances/"
+   },
+   "immigration": {
+    "score": 65,
+    "evidence": "Supports the administration's enforcement approach focused on public-safety threats, with due process.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/john-elleson-illinois-primary-9th-congressional-district"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Backs strong support for Taiwan's security.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/john-elleson-illinois-primary-9th-congressional-district"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Wants to expand domestic oil and gas production.",
+    "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/john-elleson-illinois-primary-9th-congressional-district"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 65,
+    "evidence": "Lists protecting religious liberty as a campaign priority.",
+    "source": "https://www.johnelleson.com/stances/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IL-10/brad-schneider",
+  "name": "Brad Schneider",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for IL-10",
+  "bio": "Brad Schneider has represented Illinois's 10th congressional district from 2013 to 2015 and again since 2017, and chairs the New Democrat Coalition. Before Congress he worked in management consulting and insurance. Born in Denver, he lives in Deerfield.",
+  "website": "https://www.schneiderforcongress.com",
+  "social": {
+   "x": "https://x.com/RepSchneider",
+   "instagram": "https://www.instagram.com/repschneider",
+   "facebook": "https://www.facebook.com/CongressmanBradSchneider",
+   "youtube": "https://www.youtube.com/RepBradSchneider"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Extend enhanced ACA premium tax credits to keep coverage affordable.",
+    "source": "https://schneider.house.gov/"
+   },
+   {
+    "topic": "Trade",
+    "point": "Rein in the president's unilateral tariff authority to protect businesses and household budgets.",
+    "source": "https://schneider.house.gov/"
+   },
+   {
+    "topic": "Gun violence",
+    "point": "Reduce gun violence, including regulating homemade firearms.",
+    "source": "https://www.schneiderforcongress.com/"
+   },
+   {
+    "topic": "Retirement security",
+    "point": "Protect Social Security and Medicare.",
+    "source": "https://www.schneiderforcongress.com/"
+   },
+   {
+    "topic": "Rights",
+    "point": "Protect reproductive rights and full LGBTQ+ equality.",
+    "source": "https://www.schneiderforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Supported higher taxes on high incomes and a $10.10 minimum wage.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Schneider"
+   },
+   "welfare": {
+    "score": 40,
+    "evidence": "Supports the ACA and extending its subsidies but opposes Medicare for All.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Schneider"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Supports abortion rights and the Equality Act and backs gun regulation such as limits on homemade firearms.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Schneider"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Voted against the Amash-Conyers amendment to end NSA bulk surveillance.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Schneider"
+   },
+   "immigration": null,
+   "foreign": {
+    "score": 90,
+    "evidence": "Supports close U.S.-Israel ties and urged sending F-16s to Ukraine.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Schneider"
+   },
+   "energy": {
+    "score": 75,
+    "evidence": "Supports EPA carbon standards and emissions trading.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Schneider"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://run.imgix.net/f58dd643-0666-4bea-8202-6d0d5348ba36/8253e1fa-326b-40ac-8659-23198374a405/47d4a6aa-8607-4adc-bbaf-a38b8a2a6ec0.webp",
+  "notes": ""
+ },
+ {
+  "id": "IL-10/carl-lambrecht",
+  "name": "Carl Lambrecht",
+  "party": "Republican",
+  "current_role": "Owner of Laurel Industries",
+  "bio": "Carl Lambrecht is a business owner who has run the optics manufacturer Laurel Industries since 1978 and holds a bachelor's degree from the University of Illinois. He ran unsuccessfully for the Illinois House in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue positions were found. Sources differ on which Illinois House district he ran in during 2024."
+ },
+ {
+  "id": "IL-11/bill-foster",
+  "name": "Bill Foster",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for IL-11",
+  "bio": "Bill Foster has represented Illinois's 11th congressional district since 2013 and earlier represented the 14th district from 2008 to 2011. A physicist, he spent 22 years at Fermilab and co-founded the lighting company Electronic Theatre Controls. Born in Madison, Wisconsin, he lives in Naperville.",
+  "website": "https://www.billfoster.com",
+  "social": {
+   "x": "https://x.com/RepBillFoster",
+   "facebook": "https://www.facebook.com/CongressmanBillFoster",
+   "youtube": "https://www.youtube.com/RepBillFoster"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Move step by step toward universal coverage with a strong public option and drug price negotiation.",
+    "source": "https://www.billfoster.com/issue/healthcare/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Fund clean-energy research and energy storage to decarbonise the economy.",
+    "source": "https://www.billfoster.com/issue/combating-the-climate-crisis/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pass the DREAM Act and comprehensive reform pairing border security with a path to citizenship.",
+    "source": "https://www.billfoster.com/issue/immigration/"
+   },
+   {
+    "topic": "Science",
+    "point": "Increase federal investment in basic research and its commercialisation.",
+    "source": "https://www.billfoster.com/issue/science-and-technology/"
+   },
+   {
+    "topic": "Financial regulation",
+    "point": "Strengthen Wall Street oversight to prevent another financial crisis.",
+    "source": "https://www.billfoster.com/issue/reforming-wall-street/"
+   },
+   {
+    "topic": "Reproductive freedom",
+    "point": "Protect abortion access and bodily autonomy.",
+    "source": "https://www.billfoster.com/issue/reproductive-freedom/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Opposed extending Bush tax cuts, defends the estate tax and backed Dodd-Frank and card check.",
+    "source": "https://en.wikipedia.org/wiki/Bill_Foster_(politician)"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "Calls healthcare a human right and backs a public option in a step-by-step path to universal coverage, not single-payer.",
+    "source": "https://www.billfoster.com/issue/healthcare/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Campaigns on reproductive freedom (abortion) and on reducing gun violence (guns).",
+    "source": "https://www.billfoster.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Voted for the DREAM Act and supports a path to citizenship.",
+    "source": "https://www.billfoster.com/issue/immigration/"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Voted to support Israel after October 7 while co-sponsoring the West Bank Violence Prevention Act.",
+    "source": "https://en.wikipedia.org/wiki/Bill_Foster_(politician)"
+   },
+   "energy": {
+    "score": 70,
+    "evidence": "Backs the Inflation Reduction Act's clean-energy investments and authored the BEST Act on energy storage.",
+    "source": "https://www.billfoster.com/issue/combating-the-climate-crisis/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Energy score raised from 50 to 70: his 2009 vote against cap-and-trade is outweighed by his current support for the IRA and clean-energy research."
+ },
+ {
+  "id": "IL-11/jeff-walter",
+  "name": "Jeff Walter",
+  "party": "Republican",
+  "current_role": "Mayor of Elburn",
+  "bio": "Jeff Walter is the mayor of Elburn and a businessman. He served in the U.S. Navy from 1978 to 2000, retiring as a master chief petty officer. Born in Toledo, Ohio, he holds a bachelor's degree from the University of South Florida.",
+  "website": "https://www.jeffwalterforcongress.com",
+  "social": {
+   "x": "https://x.com/jeffwalteril",
+   "instagram": "https://www.instagram.com/jeffwalterforcongress/",
+   "facebook": "https://www.facebook.com/JeffWalterIL/"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Make the Trump tax cuts permanent and cut government waste.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   {
+    "topic": "Border",
+    "point": "Secure the border, finish the wall and stop drug trafficking.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Fully fund law enforcement and end what he calls soft-on-crime policies.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Protect Social Security and Medicare without cuts.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand school choice and career and technical training.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Expand American energy production and cut regulations.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Wants Trump tax cuts made permanent and red tape cut.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 75,
+    "evidence": "Pledges full funding for law enforcement and an end to policies he describes as soft on crime.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   "immigration": {
+    "score": 90,
+    "evidence": "Pledges to finish the border wall under the administration's agenda.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Endorses a 'peace through strength' approach focused on American interests.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Calls for unleashing American energy production.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Supports expanding school choice across private, charter and vocational options.",
+    "source": "https://www.jeffwalterforcongress.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6862a998f72d105f9d938b41/b13fa9ce-717b-4b30-861f-d8bcb5585415/Jeffrey-Walter-Illinois-Eburn.png",
+  "notes": "Ballotpedia lists his name as Jeffrey Walter."
+ }
+]

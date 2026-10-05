@@ -1,0 +1,409 @@
+[
+ {
+  "id": "CA-35/norma-torres",
+  "name": "Norma Torres",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-35",
+  "bio": "Norma Torres has represented California's 35th district in the U.S. House since 2015 and sits on the Appropriations Committee. Born in Guatemala and raised in California, she worked as a 9-1-1 dispatcher before serving on the Pomona City Council, as Mayor of Pomona, and in the California State Assembly and Senate.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/NormaJTorres",
+   "facebook": "https://www.facebook.com/RepNormaTorres",
+   "instagram": "https://www.instagram.com/repnormatorres"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Presses for oversight of federal immigration detention facilities and accountability for ICE arrests in the Inland Empire.", "source": "https://torres.house.gov/issue/immigration"},
+   {"topic": "Central America", "point": "Focuses on U.S. policy toward Central America, including democratic governance in the region.", "source": "https://torres.house.gov/issue/central-america"},
+   {"topic": "Public safety", "point": "Lists public safety and emergency communications among her legislative priorities.", "source": "https://torres.house.gov/issue/public-safety"},
+   {"topic": "Abortion", "point": "Opposed the overturning of Roe v. Wade and supports abortion rights.", "source": "https://en.wikipedia.org/wiki/Norma_Torres"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Voted for the Inflation Reduction Act's climate, tax and drug-pricing package.", "source": "https://en.wikipedia.org/wiki/Norma_Torres"},
+   "welfare": null,
+   "liberty": {"score": 20, "evidence": "Abortion: holds a 100% NARAL rating and called the reversal of Roe devastating.", "source": "https://en.wikipedia.org/wiki/Norma_Torres"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Has challenged the administration over access to ICE detention facilities and criticised enforcement arrests in her region.", "source": "https://torres.house.gov/issue/immigration"},
+   "foreign": {"score": 70, "evidence": "Voted to support Israel after the October 7 attacks and is active on Central America policy.", "source": "https://en.wikipedia.org/wiki/Norma_Torres"},
+   "energy": {"score": 75, "evidence": "Voted for the Inflation Reduction Act's clean-energy investments.", "source": "https://en.wikipedia.org/wiki/Norma_Torres"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not located; immigration score is newly added from her official statements on ICE oversight."
+ },
+ {
+  "id": "CA-35/mike-cargile",
+  "name": "Mike Cargile",
+  "party": "Republican",
+  "current_role": "Army veteran and congressional candidate",
+  "bio": "Mike Cargile is a former U.S. Army officer running for California's 35th district. He describes himself as an America First constitutional conservative.",
+  "website": "https://www.cargileforcongress.com/",
+  "social": {
+   "x": "https://x.com/CargileForCA35",
+   "facebook": "https://www.facebook.com/CargileForCongress",
+   "instagram": "https://www.instagram.com/cargileforcongress/",
+   "youtube": "https://www.youtube.com/channel/UCc9J8E_5HJZfUGaoFfLp8aw"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Wants to close the border and enforce immigration law strictly to curb trafficking and fentanyl.", "source": "https://www.cargileforcongress.com/issues-1"},
+   {"topic": "Guns", "point": "Opposes any new gun restrictions, registration or regulation under the Second Amendment.", "source": "https://www.cargileforcongress.com/issues-1"},
+   {"topic": "Abortion", "point": "Describes himself as pro-life, with exceptions for rape, incest and the mother's health.", "source": "https://www.cargileforcongress.com/issues-1"},
+   {"topic": "Cannabis", "point": "Supports legal cannabis regulated like alcohol, with age limits and impaired-driving rules.", "source": "https://www.cargileforcongress.com/issues-1"},
+   {"topic": "Education", "point": "Backs parental rights and opposes DEI and critical race theory in schools.", "source": "https://www.cargileforcongress.com/issues-1"},
+   {"topic": "Foreign policy", "point": "Supports aid to Israel only where it serves U.S. interests, putting America first.", "source": "https://www.cargileforcongress.com/issues-1"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Campaign calls for shrinking the federal government and opposes regulation of household appliances.", "source": "https://www.cargileforcongress.com/issues-1"},
+   "welfare": null,
+   "liberty": {"score": 55, "evidence": "Mixed: pro-life on abortion, but opposes gun restrictions and supports legal cannabis.", "source": "https://www.cargileforcongress.com/issues-1"},
+   "security": {"score": 80, "evidence": "Campaign describes him as pro-police and prioritises border and crime enforcement.", "source": "https://www.cargileforcongress.com/"},
+   "immigration": {"score": 90, "evidence": "Campaign pledges to close the border and enforce immigration law strictly.", "source": "https://www.cargileforcongress.com/issues-1"},
+   "foreign": {"score": 15, "evidence": "America First stance with aid to Israel conditional on U.S. benefit.", "source": "https://www.cargileforcongress.com/issues-1"},
+   "energy": {"score": 20, "evidence": "Opposes restrictions on gas stoves and appliances and emphasises energy independence.", "source": "https://www.cargileforcongress.com/issues-1"},
+   "tech": null,
+   "education": {"score": 10, "evidence": "Backs parental rights and opposes DEI and CRT in schools.", "source": "https://www.cargileforcongress.com/issues-1"},
+   "faith": {"score": 85, "evidence": "Campaign presents him as pro-God and pro-family.", "source": "https://www.cargileforcongress.com/"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Ballotpedia page did not load, so career details beyond military service are unverified."
+ },
+ {
+  "id": "CA-36/ted-lieu",
+  "name": "Ted Lieu",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-36",
+  "bio": "Ted Lieu has served in the U.S. House since 2015, first for CA-33 and since 2023 for CA-36, and is Vice Chair of the House Democratic Caucus. Born in Taiwan and raised in Ohio, he served in the Air Force JAG Corps and Reserve, retiring as a colonel. He previously served in the California State Assembly and State Senate.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepTedLieu",
+   "facebook": "https://www.facebook.com/RepTedLieu",
+   "instagram": "https://www.instagram.com/RepTedLieu"
+  },
+  "platform": [
+   {"topic": "Artificial intelligence", "point": "Makes AI regulation a leading priority and co-sponsored a bill requiring developers to keep shutdown capability.", "source": "https://lieu.house.gov/issues/artificial-intelligence"},
+   {"topic": "Cybersecurity", "point": "Works on cybersecurity and technology policy, including opposing state mandates to weaken encryption.", "source": "https://lieu.house.gov/issues/cyber"},
+   {"topic": "Civil rights", "point": "Pledges to protect civil rights and oppose racial, cultural and religious intolerance.", "source": "https://lieu.house.gov/issues/civil-rights"},
+   {"topic": "Foreign policy", "point": "Supports aid to Ukraine and Taiwan and has criticised U.S. support for the Saudi-led campaign in Yemen.", "source": "https://en.wikipedia.org/wiki/Ted_Lieu"},
+   {"topic": "Health care", "point": "Is a member of the Medicare for All Caucus.", "source": "https://en.wikipedia.org/wiki/Ted_Lieu"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Voted with the Biden administration's economic agenda 100% of the time in the 117th Congress.", "source": "https://en.wikipedia.org/wiki/Ted_Lieu"},
+   "welfare": {"score": 90, "evidence": "Member of the Medicare for All Caucus.", "source": "https://en.wikipedia.org/wiki/Ted_Lieu"},
+   "liberty": {"score": 15, "evidence": "Abortion: calls himself 100% pro-choice; LGBTQ: authored California's conversion-therapy ban; guns: supports gun safety laws.", "source": "https://en.wikipedia.org/wiki/Ted_Lieu"},
+   "security": {"score": 35, "evidence": "Introduced bipartisan legislation barring states from requiring weakened encryption for law enforcement.", "source": "https://en.wikipedia.org/wiki/Ted_Lieu"},
+   "immigration": {"score": 15, "evidence": "Opposed family separation at the border and highlighted it on the House floor.", "source": "https://en.wikipedia.org/wiki/Ted_Lieu"},
+   "foreign": {"score": 60, "evidence": "Supports Ukraine and Taiwan aid while opposing U.S. backing of the Saudi war in Yemen.", "source": "https://en.wikipedia.org/wiki/Ted_Lieu"},
+   "energy": {"score": 80, "evidence": "Lists environmental protection as a priority and supports banning hydrofluoric acid at refineries.", "source": "https://lieu.house.gov/issues"},
+   "tech": {"score": 85, "evidence": "Advocates AI regulation and co-sponsored the AI Kill Switch Act.", "source": "https://lieu.house.gov/issues/artificial-intelligence"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not located."
+ },
+ {
+  "id": "CA-36/houston-brignano",
+  "name": "Houston Brignano",
+  "party": "Republican",
+  "current_role": "Bank technology manager and Marine Corps veteran",
+  "bio": "Houston Brignano is a South Bay native and Marine Corps veteran who served two deployments to Iraq. He is a vice president for infrastructure architecture at City National Bank and previously worked in network architecture at AEG. He serves on the boards of a homeschool co-op and a church in the South Bay.",
+  "website": "https://www.voteforhouston.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Regulation", "point": "Wants to cut government waste and regulations and supports the REINS Act to limit executive rulemaking.", "source": "https://www.ballotready.org/people/houston-brignano"},
+   {"topic": "Housing", "point": "Proposes tax breaks for homebuyers to address rising costs for first-time buyers.", "source": "https://www.voteforhouston.com/"},
+   {"topic": "Jobs and AI", "point": "Calls for training young people in AI and reskilling programmes to protect jobs from automation.", "source": "https://www.voteforhouston.com/"},
+   {"topic": "Health care", "point": "Favours a less top-down health system with more individual choice of providers.", "source": "https://www.ballotready.org/people/houston-brignano"},
+   {"topic": "Immigration", "point": "Supports strong border security and thorough vetting and opposes amnesty.", "source": "https://www.ballotready.org/people/houston-brignano"},
+   {"topic": "Student debt", "point": "Lists relief from college loan burdens among his priorities.", "source": "https://www.voteforhouston.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Supports cutting regulations and waste and offering tax breaks to homebuyers and startups.", "source": "https://www.ballotready.org/people/houston-brignano"},
+   "welfare": {"score": 25, "evidence": "Favours decentralised, choice-based health care over a top-down model.", "source": "https://www.ballotready.org/people/houston-brignano"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Backs strong border security, thorough vetting and no amnesty.", "source": "https://www.ballotready.org/people/houston-brignano"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The act he cites appears as 'REIGNS Act' in the source and is taken to mean the REINS Act."
+ },
+ {
+  "id": "CA-37/sydney-kamlager-dove",
+  "name": "Sydney Kamlager-Dove",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-37",
+  "bio": "Sydney Kamlager-Dove has represented California's 37th district since 2023 and sits on the Foreign Affairs and Judiciary committees. Born in Chicago, she previously served as a Los Angeles Community College District trustee and in the California State Assembly and State Senate.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepKamlagerDove",
+   "facebook": "https://www.facebook.com/RepKamlagerDove",
+   "instagram": "https://www.instagram.com/rep_kamlagerdove"
+  },
+  "platform": [
+   {"topic": "Civil rights", "point": "Co-authored California's CROWN Act banning discrimination based on natural hairstyles.", "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"},
+   {"topic": "Criminal justice", "point": "Has backed police use-of-force standards and restoring voting rights for people on parole.", "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"},
+   {"topic": "Foreign affairs", "point": "Serves as ranking member of the Foreign Affairs subcommittee on South and Central Asia.", "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"},
+   {"topic": "Priorities", "point": "Lists the economy, education, energy, health and veterans as focus areas.", "source": "https://kamlager-dove.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 30, "evidence": "Advocated stronger statewide standards for police use of force.", "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"},
+   "immigration": null,
+   "foreign": {"score": 55, "evidence": "Describes Israel as a democracy to support, while voting against a resolution on the 'river to the sea' phrase.", "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Economy score of 70 was removed for lack of citable evidence, and the liberty score was removed because the source covers the CROWN Act and ERA rather than the liberty issues on the scale."
+ },
+ {
+  "id": "CA-37/samantha-mota",
+  "name": "Samantha Mota",
+  "party": "Democratic",
+  "current_role": "Community activist",
+  "bio": "Samantha Mota is a Los Angeles County native and community activist running for California's 37th district. She served on Santa Monica's Public Safety Reform and Oversight Commission and has worked on urban agriculture efforts.",
+  "website": "https://www.motaforcongress.com/",
+  "social": {
+   "x": "https://x.com/motaforcongress",
+   "instagram": "https://www.instagram.com/motaforcongress",
+   "facebook": "https://www.facebook.com/motaforcongress",
+   "tiktok": "https://www.tiktok.com/@motaforcongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Makes universal health care a top campaign priority.", "source": "https://www.motaforcongress.com/issues/universal-healthcare"},
+   {"topic": "Housing", "point": "Runs on a 'Housing for All' agenda to expand access to affordable homes.", "source": "https://www.motaforcongress.com/issues"},
+   {"topic": "Immigration", "point": "Calls for immigration reform including pathways to citizenship.", "source": "https://www.motaforcongress.com/issues/immigration-reform"},
+   {"topic": "Education", "point": "Supports student loan forgiveness and lower tuition costs.", "source": "https://www.motaforcongress.com/issues"},
+   {"topic": "Families", "point": "Wants to expand the Family and Medical Leave Act.", "source": "https://www.motaforcongress.com/issues"},
+   {"topic": "Democracy", "point": "Pushes democracy reform and less special-interest influence in Congress.", "source": "https://www.motaforcongress.com/about"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 90, "evidence": "Campaign makes universal health care a top priority.", "source": "https://www.motaforcongress.com/issues/universal-healthcare"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Campaign supports immigration reform with pathways to citizenship.", "source": "https://www.motaforcongress.com/issues/immigration-reform"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Issue pages list priorities with few specifics; the economy score was removed because the stock-trading and housing-funding positions it cited could not be confirmed."
+ },
+ {
+  "id": "CA-38/hilda-solis",
+  "name": "Hilda Solis",
+  "party": "Democratic",
+  "current_role": "Los Angeles County Supervisor, District 1",
+  "bio": "Hilda Solis has served on the Los Angeles County Board of Supervisors since 2014. She was U.S. Secretary of Labor from 2009 to 2013, served in the U.S. House from 2001 to 2009, and before that in the California State Assembly and Senate. She was born in Los Angeles and raised in La Puente.",
+  "website": "https://www.hildasolis.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Environment", "point": "Prioritises environmental justice for communities burdened by pollution.", "source": "https://www.hildasolis.com/"},
+   {"topic": "Health care", "point": "Seeks to widen access to health care services.", "source": "https://www.hildasolis.com/"},
+   {"topic": "Housing", "point": "Focuses on affordable housing and reducing homelessness.", "source": "https://www.hildasolis.com/"},
+   {"topic": "Jobs", "point": "Emphasises job creation, workforce development and workers' rights.", "source": "https://www.hildasolis.com/"},
+   {"topic": "Transportation", "point": "Lists transportation equity among her priorities.", "source": "https://www.hildasolis.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Pushed minimum wage increases and wage enforcement and voted against CAFTA and other trade deals.", "source": "https://en.wikipedia.org/wiki/Hilda_Solis"},
+   "welfare": null,
+   "liberty": {"score": 20, "evidence": "Abortion: describes herself as a pro-choice Catholic.", "source": "https://en.wikipedia.org/wiki/Hilda_Solis"},
+   "security": null,
+   "immigration": {"score": 10, "evidence": "Opposed the restrictive HR 4437 and backed comprehensive reform and college access for undocumented students.", "source": "https://en.wikipedia.org/wiki/Hilda_Solis"},
+   "foreign": null,
+   "energy": {"score": 85, "evidence": "Authored California's 1999 environmental justice law and backs green jobs.", "source": "https://en.wikipedia.org/wiki/Hilda_Solis"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Hilda Solis, 2025.jpg", "license": "Public domain (California Public Records Act)", "author": "Los Angeles County Board of Supervisors"},
+  "campaign_photo": "https://www.hildasolis.com/2022/wp-content/uploads/2025/09/HildaWebsiteHeadshot_1920_crop.jpg",
+  "notes": "The Commons photo is a county work tagged public domain under the California Public Records Act, which may need a second look. Campaign site priorities appear partly carried over from her county campaigns."
+ },
+ {
+  "id": "CA-38/pedro-antonio-casas",
+  "name": "Pedro Antonio Casas",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Pedro Antonio Casas is the Republican nominee for California's 38th district. No further biographical information was found in public sources.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, Ballotpedia profile or issue statements could be found."
+ },
+ {
+  "id": "CA-39/mark-takano",
+  "name": "Mark Takano",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-39",
+  "bio": "Mark Takano has served in the U.S. House since 2013 and is ranking member of the Veterans' Affairs Committee, which he chaired from 2019 to 2023. A Riverside native, he taught in public schools for 23 years and served on the Riverside Community College Board of Trustees. He chairs the Congressional LGBTQ+ Equality Caucus.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepMarkTakano",
+   "facebook": "https://www.facebook.com/RepMarkTakano",
+   "instagram": "https://www.instagram.com/repmarktakano",
+   "youtube": "https://www.youtube.com/RepMarkTakano"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports the Medicare for All Act and adding dental, vision and hearing coverage to Medicare.", "source": "https://takano.house.gov/issues/healthcare-and-seniors"},
+   {"topic": "Immigration", "point": "Backs comprehensive reform with pathways to citizenship, including the American Dream and Promise Act.", "source": "https://takano.house.gov/issues/immigration"},
+   {"topic": "Veterans", "point": "Championed a law letting noncitizen service members pursue naturalization during basic training.", "source": "https://takano.house.gov/issues/immigration"},
+   {"topic": "LGBTQ+ rights", "point": "Opposes restrictions on transgender military service and leads the LGBTQ+ Equality Caucus.", "source": "https://en.wikipedia.org/wiki/Mark_Takano"},
+   {"topic": "Foreign affairs", "point": "Supports a two-state solution and has criticised Israeli conduct in Gaza.", "source": "https://en.wikipedia.org/wiki/Mark_Takano"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports Medicare drug-price negotiation and out-of-pocket caps enacted in the Inflation Reduction Act.", "source": "https://takano.house.gov/issues/healthcare-and-seniors"},
+   "welfare": {"score": 90, "evidence": "Describes himself as a strong advocate of the Medicare for All Act.", "source": "https://takano.house.gov/issues/healthcare-and-seniors"},
+   "liberty": {"score": 15, "evidence": "Abortion: pro-choice; LGBTQ: opposes limits on transgender service; guns: has called for gun control.", "source": "https://en.wikipedia.org/wiki/Mark_Takano"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Supports pathways to citizenship for undocumented immigrants and Dreamers.", "source": "https://takano.house.gov/issues/immigration"},
+   "foreign": {"score": 50, "evidence": "Criticised Israel's Gaza conduct while backing a two-state solution.", "source": "https://en.wikipedia.org/wiki/Mark_Takano"},
+   "energy": {"score": 80, "evidence": "Co-chairs the Energy Storage Caucus and backed the Inflation Reduction Act.", "source": "https://takano.house.gov/issues/energy-and-environment"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Immigration score newly added from his official issues page; campaign website not located."
+ },
+ {
+  "id": "CA-39/steve-manos",
+  "name": "Steve Manos",
+  "party": "Republican",
+  "current_role": "Lake Elsinore City Council member",
+  "bio": "Steve Manos has served on the Lake Elsinore City Council since 2012, including several terms as mayor. An Inland Empire resident since 1987, he has owned a business since 1996 and has held leadership roles in regional organisations.",
+  "website": "https://www.manosforcongress.com/",
+  "social": {
+   "x": "https://x.com/smanos1",
+   "facebook": "https://www.facebook.com/manos4le",
+   "instagram": "https://www.instagram.com/stevenjmanos"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Wants to remove regulatory barriers that raise housing costs and stop hedge funds treating homes as investments.", "source": "https://www.manosforcongress.com/"},
+   {"topic": "Infrastructure", "point": "Seeks immediate funding for repairs on the 215 freeway and more regional transportation capacity.", "source": "https://www.manosforcongress.com/"},
+   {"topic": "Government reform", "point": "Pledges to limit government overreach and focus on results.", "source": "https://www.manosforcongress.com/"},
+   {"topic": "Parental rights", "point": "Commits to protecting parental rights alongside national security.", "source": "https://www.manosforcongress.com/"},
+   {"topic": "Veterans", "point": "Promises continued legislative support for veterans.", "source": "https://www.manosforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for removing housing regulations and limiting government overreach.", "source": "https://www.manosforcongress.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 75, "evidence": "Opposes defunding police and supports empowering officers against theft and drug crimes.", "source": "https://electstevemanos.com/issues/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 15, "evidence": "Campaign pledges to protect parental rights.", "source": "https://www.manosforcongress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Public safety positions come from his city council campaign site."
+ },
+ {
+  "id": "CA-40/ken-calvert",
+  "name": "Ken Calvert",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CA-41",
+  "bio": "Ken Calvert has served in the U.S. House since 1993 and chairs the Appropriations Subcommittee on Defense. A Corona native, he owned restaurant and real estate businesses and chaired the Riverside County Republican Party before entering Congress.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/KenCalvert",
+   "facebook": "https://www.facebook.com/70063393423",
+   "instagram": "https://www.instagram.com/repkencalvert",
+   "youtube": "https://www.youtube.com/RepKenCalvert"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Wants to increase domestic energy production to cut reliance on foreign sources.", "source": "https://calvert.house.gov/issues/energy-and-environment"},
+   {"topic": "Critical minerals", "point": "Introduced the MINES Act to counter Chinese and Russian control of critical minerals.", "source": "https://calvert.house.gov/issues/energy-and-environment"},
+   {"topic": "Immigration", "point": "Authored E-Verify and has pushed to make it mandatory for employers.", "source": "https://en.wikipedia.org/wiki/Ken_Calvert"},
+   {"topic": "Defense", "point": "Supports a strong military and reviewing weapons programs for competition with China.", "source": "https://calvert.house.gov/issues/defense"},
+   {"topic": "Small business", "point": "Seeks to reduce tax and regulatory burdens on small businesses.", "source": "https://calvert.house.gov/issues/small-business"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2017 Tax Cuts and Jobs Act and the 2025 tax-cut law.", "source": "https://en.wikipedia.org/wiki/Ken_Calvert"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 tax and spending law that trimmed safety-net programs.", "source": "https://en.wikipedia.org/wiki/Ken_Calvert"},
+   "liberty": {"score": 65, "evidence": "Abortion: welcomed the reversal of Roe; LGBTQ: voted for the Respect for Marriage Act but against the Shepard hate-crimes act.", "source": "https://en.wikipedia.org/wiki/Ken_Calvert"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Authored E-Verify and advocates making it mandatory.", "source": "https://en.wikipedia.org/wiki/Ken_Calvert"},
+   "foreign": {"score": 75, "evidence": "Chairs defense appropriations and voted to support Israel after October 7.", "source": "https://en.wikipedia.org/wiki/Ken_Calvert"},
+   "energy": {"score": 20, "evidence": "Favours more domestic production and voted to block the Biden WOTUS rule.", "source": "https://calvert.house.gov/issues/energy-and-environment"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Calvert currently represents CA-41 and is running in the redrawn CA-40 against fellow incumbent Young Kim; campaign website not located."
+ },
+ {
+  "id": "CA-40/young-kim",
+  "name": "Young Kim",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CA-40",
+  "bio": "Young Kim has served in the U.S. House since 2021, representing CA-39 and, since 2023, CA-40; she chairs the Foreign Affairs Indo-Pacific subcommittee. Born in South Korea, she worked as a financial analyst and as a longtime aide to Rep. Ed Royce, and served one term in the California State Assembly.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepYoungKim",
+   "facebook": "https://www.facebook.com/RepYoungKim",
+   "instagram": "https://www.instagram.com/repyoungkim",
+   "youtube": "https://www.youtube.com/@RepYoungKim"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Wants secure borders and modern tools for border agents while treating DACA recipients fairly.", "source": "https://youngkim.house.gov/issues/immigration/"},
+   {"topic": "Foreign affairs", "point": "Focuses on Indo-Pacific security, Taiwan and reuniting Korean American families with relatives in North Korea.", "source": "https://en.wikipedia.org/wiki/Young_Kim"},
+   {"topic": "Small business", "point": "Lists small business support and economic growth among her priorities.", "source": "https://youngkim.house.gov/issues/small-business/"},
+   {"topic": "Wildfires", "point": "Works on wildfire prevention and recovery for her district.", "source": "https://youngkim.house.gov/issues/wildfires/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Fiscal conservative who voted for the 2025 tax-cut law.", "source": "https://en.wikipedia.org/wiki/Young_Kim"},
+   "welfare": {"score": 25, "evidence": "Opposed the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Young_Kim"},
+   "liberty": {"score": 60, "evidence": "LGBTQ: voted against the Equality Act and Respect for Marriage Act, though she backed restoring discharges for LGBTQ veterans.", "source": "https://en.wikipedia.org/wiki/Young_Kim"},
+   "security": {"score": 60, "evidence": "Opposes calls to defund the police.", "source": "https://en.wikipedia.org/wiki/Young_Kim"},
+   "immigration": {"score": 45, "evidence": "Backs border security but cosponsored the DIGNIDAD Act offering legal status and supports DACA recipients.", "source": "https://youngkim.house.gov/issues/immigration/"},
+   "foreign": {"score": 85, "evidence": "Chairs the Indo-Pacific subcommittee and is a Taiwan Caucus member.", "source": "https://en.wikipedia.org/wiki/Young_Kim"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score of 25 removed because no citable evidence was found; campaign website not located."
+ }
+]

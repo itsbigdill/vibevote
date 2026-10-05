@@ -1,0 +1,432 @@
+[
+ {
+  "id": "OH-SEN-S/sherrod-brown",
+  "name": "Sherrod Brown",
+  "party": "Democratic",
+  "current_role": "Former U.S. Senator from Ohio",
+  "bio": "Sherrod Brown represented Ohio in the U.S. Senate from 2007 to 2025 and in the U.S. House from 1993 to 2007. He earlier served as Ohio Secretary of State and in the Ohio House of Representatives. He is from Mansfield, Ohio.",
+  "website": "https://www.sherrodbrown.com",
+  "social": {
+   "x": "https://twitter.com/sherrodbrown",
+   "instagram": "https://www.instagram.com/sherrod/",
+   "facebook": "https://www.facebook.com/sherrod",
+   "tiktok": "https://www.tiktok.com/@sherrodbrown",
+   "youtube": "https://www.youtube.com/channel/UCt_l7Nge_872rTm5Jvbo6Mw"
+  },
+  "platform": [
+   {"topic": "Trade", "point": "Opposes trade deals he says send Ohio jobs overseas and supports protections for workers.", "source": "https://www.sherrodbrown.com/our-fight/"},
+   {"topic": "Retirement", "point": "Wants to secure earned pensions and restore full Social Security payments to retired teachers, firefighters and police.", "source": "https://www.sherrodbrown.com/our-fight/"},
+   {"topic": "Health care", "point": "Backs capping insulin costs and lowering prescription drug prices for seniors.", "source": "https://www.sherrodbrown.com/our-fight/"},
+   {"topic": "Veterans", "point": "Supports health care access for veterans exposed to burn pits and other toxic substances.", "source": "https://www.sherrodbrown.com/our-fight/"},
+   {"topic": "Taxes", "point": "Opposes tax breaks for billionaires and large corporations.", "source": "https://www.sherrodbrown.com/our-fight/"}
+  ],
+  "positions": {
+   "economy": {"score": 90, "evidence": "Supports higher taxes on the wealthy, tariffs against unfair trade and a higher minimum wage.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "welfare": {"score": 80, "evidence": "Record of expanding health coverage and protecting Social Security and Medicare benefits.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "liberty": {"score": 45, "evidence": "Mix of abortion-rights support and backing for an assault-weapons ban (abortion, guns).", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "security": {"score": 25, "evidence": "Opposed renewal of Patriot Act surveillance powers.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "immigration": {"score": 20, "evidence": "Supports protections for DACA recipients and legal pathways.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "foreign": {"score": 45, "evidence": "Senate record mixes support for allies with skepticism of some interventions and trade pacts.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "energy": {"score": 80, "evidence": "Supports action on climate change and clean-energy investment.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "tech": {"score": 65, "evidence": "Senate record favors consumer-protection rules for technology and finance, including net neutrality.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "education": {"score": 90, "evidence": "Opposes school vouchers and supports public school funding.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"},
+   "faith": {"score": 25, "evidence": "Senate record leans toward church-state separation positions.", "source": "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"}
+  },
+  "photo": {"file": "File:Sherrod Brown 117th Congress (2) (cropped).jpg", "license": "Public domain", "author": "U.S. Senate Photographic Services; Rebecca Hammel"},
+  "campaign_photo": "",
+  "notes": "Tech, foreign and faith scores rest on older OnTheIssues summaries and were not re-verified against specific votes."
+ },
+ {
+  "id": "OH-SEN-S/jon-husted",
+  "name": "Jon Husted",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Ohio",
+  "bio": "Jon Husted was appointed to the U.S. Senate in January 2025 to fill the seat vacated by JD Vance. He previously served as Ohio's lieutenant governor (2019-2025), secretary of state (2011-2019), and as Speaker of the Ohio House. He was born in Michigan and built his career in Ohio.",
+  "website": "https://www.jonhustedforsenate.com",
+  "social": {
+   "x": "https://x.com/TeamHusted",
+   "facebook": "https://www.facebook.com/profile.php?id=61574099496829",
+   "youtube": "https://www.youtube.com/@jonhustedforsenate"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Argues that hard work should pay off and that working families should keep more of their money.", "source": "https://www.jonhustedforsenate.com/"},
+   {"topic": "Immigration", "point": "Proposes the Red Light Act to withhold federal transportation funds from states licensing undocumented immigrants to drive.", "source": "https://www.jonhustedforsenate.com/"},
+   {"topic": "Energy", "point": "Sponsored a successful resolution repealing a federal appliance energy-efficiency rule.", "source": "https://en.wikipedia.org/wiki/Jon_Husted"},
+   {"topic": "Foreign policy", "point": "Supports sanctions on Russia tied to pursuing a lasting peace in Ukraine.", "source": "https://en.wikipedia.org/wiki/Jon_Husted"},
+   {"topic": "Upward mobility", "point": "Sponsors the Upward Mobility Act as part of his Senate legislative agenda.", "source": "https://www.husted.senate.gov/legislation/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Voted for the 2025 budget reconciliation law extending tax cuts.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"},
+   "welfare": {"score": 15, "evidence": "Voted for the 2025 reconciliation law, which added Medicaid work requirements.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"},
+   "liberty": {"score": 65, "evidence": "Opposes abortion rights (abortion) while backing expanded concealed carry and Castle Doctrine (guns).", "source": "https://www.ontheissues.org/Senate/Jon_Husted.htm"},
+   "security": null,
+   "immigration": {"score": 60, "evidence": "Backs deporting lawbreakers and the Red Light Act, while past statements mention a legal pathway.", "source": "https://www.ontheissues.org/Senate/Jon_Husted.htm"},
+   "foreign": {"score": 70, "evidence": "Supports Russia sanctions linked to a lasting peace in Ukraine.", "source": "https://en.wikipedia.org/wiki/Jon_Husted"},
+   "energy": {"score": 30, "evidence": "Sponsored the law repealing a Biden-era appliance efficiency rule.", "source": "https://en.wikipedia.org/wiki/Jon_Husted"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Voted for the 2025 reconciliation law, which created a federal tax credit for school-choice scholarships.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"},
+   "faith": {"score": 75, "evidence": "Has defended public prayer in the legislature and described America as founded on Christian values.", "source": "https://www.ontheissues.org/Senate/Jon_Husted.htm"}
+  },
+  "photo": {"file": "File:Sen. Jon Husted official portrait, 119th Congress (cropped).jpg", "license": "Public domain", "author": "John Shinkle, U.S. Senate Photographic Services"},
+  "campaign_photo": "",
+  "notes": "OnTheIssues lists an older Husted statement opposing vouchers, which conflicts with the education score based on his 2025 vote. Wikipedia reports he voted against Iran war powers resolutions in 2026."
+ },
+ {
+  "id": "OH-GOV/amy-acton",
+  "name": "Amy Acton",
+  "party": "Democratic",
+  "current_role": "Physician and former Director of the Ohio Department of Health",
+  "bio": "Amy Acton is a physician who served as director of the Ohio Department of Health from 2019 to 2020, including the early COVID-19 response. She has worked in public health, community health and academia. She is from the Youngstown area of Ohio.",
+  "website": "https://actonforgovernor.com",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Plans to lower costs for Ohio families, including tax credits aimed at working families.", "source": "https://actonforgovernor.com/issue/reducing-costs-for-ohio-families/"},
+   {"topic": "Education", "point": "Wants public money directed to public schools and reforms to the state voucher program.", "source": "https://actonforgovernor.com/issue/education/"},
+   {"topic": "Health care", "point": "Aims to lower health care costs and expand affordable coverage for Ohioans.", "source": "https://actonforgovernor.com/issue/affordable-healthcare-for-all-ohioans/"},
+   {"topic": "Ethics", "point": "Promises to clean up corruption in state government.", "source": "https://actonforgovernor.com/issue/cleaning-up-corruption/"},
+   {"topic": "Workers", "point": "Pledges to protect workers and union rights.", "source": "https://actonforgovernor.com/issue/standing-up-for-workers/"},
+   {"topic": "Abortion", "point": "Commits to protecting reproductive freedom in Ohio.", "source": "https://actonforgovernor.com/issue/ensuring-reproductive-freedom/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Campaigns against billionaire and special-interest influence and for worker protections and family tax credits.", "source": "https://actonforgovernor.com/issue/standing-up-for-workers/"},
+   "welfare": {"score": 65, "evidence": "Pledges to expand affordable health care access for all Ohioans.", "source": "https://actonforgovernor.com/issue/affordable-healthcare-for-all-ohioans/"},
+   "liberty": {"score": 40, "evidence": "Supports abortion access (abortion) but has said transgender girls should not play in girls' sports (LGBTQ).", "source": "https://www.ontheissues.org/Amy_Acton.htm"},
+   "security": {"score": 45, "evidence": "Safer-communities plan backs funding for police alongside prevention.", "source": "https://actonforgovernor.com/issue/building-safer-communities/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 60, "evidence": "Calls for a diverse energy mix, and OnTheIssues lists her as favoring green energy development.", "source": "https://www.ontheissues.org/Amy_Acton.htm"},
+   "tech": null,
+   "education": {"score": 90, "evidence": "Calls for public money for public schools and reform of vouchers.", "source": "https://actonforgovernor.com/issue/education/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Amy Acton (cropped).jpg", "license": "Public domain", "author": "Senior Airman Gwendalyn Smith, U.S. Air National Guard"},
+  "campaign_photo": "https://actonforgovernor.com/wp-content/uploads/2025/12/aah-1016x1024.jpg",
+  "notes": "Campaign social account URLs were not visible in the fetched page. The energy score has thin evidence."
+ },
+ {
+  "id": "OH-GOV/vivek-ramaswamy",
+  "name": "Vivek Ramaswamy",
+  "party": "Republican",
+  "current_role": "Entrepreneur and former presidential candidate",
+  "bio": "Vivek Ramaswamy is a biotech entrepreneur who founded Roivant Sciences and later co-founded Strive Asset Management. He ran for the 2024 Republican presidential nomination and briefly co-led the Department of Government Efficiency effort in 2024-2025. He is from the Cincinnati area of Ohio.",
+  "website": "https://vivekforohio.com",
+  "social": {
+   "x": "https://x.com/VivekGRamaswamy",
+   "instagram": "https://www.instagram.com/vivekgramaswamy/",
+   "facebook": "https://www.facebook.com/VivekGRamaswamy",
+   "youtube": "https://www.youtube.com/@VivekGRamaswamy"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Would cut property taxes right away and phase out the state income tax, starting with capital gains.", "source": "https://vivekforohio.com/the-plan/"},
+   {"topic": "Energy", "point": "Plans to expand natural gas and new energy technologies to lower electric bills.", "source": "https://vivekforohio.com/the-plan/"},
+   {"topic": "Education", "point": "Wants higher standards in literacy, math and civics, more parental choice, and higher pay for top teachers.", "source": "https://vivekforohio.com/the-plan/"},
+   {"topic": "Crime", "point": "Backs tougher bail and sentencing for repeat violent offenders and support for local police.", "source": "https://vivekforohio.com/the-plan/"},
+   {"topic": "Data centers", "point": "Pledges free electricity and property tax rebates for residents near data centers, plus farmland safeguards.", "source": "https://vivekforohio.com/the-plan/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Plans to phase out the state income tax and cut regulation.", "source": "https://vivekforohio.com/the-plan/"},
+   "welfare": null,
+   "liberty": {"score": 50, "evidence": "Opposes abortion (abortion) while supporting constitutional carry (guns).", "source": "https://www.ontheissues.org/Vivek_Ramaswamy.htm"},
+   "security": {"score": 70, "evidence": "Calls for stricter bail and sentencing and more support for police.", "source": "https://vivekforohio.com/the-plan/"},
+   "immigration": {"score": 90, "evidence": "Has backed mass deportation of people in the country illegally.", "source": "https://www.ontheissues.org/Vivek_Ramaswamy.htm"},
+   "foreign": {"score": 25, "evidence": "Has called for ending U.S. aid to Ukraine.", "source": "https://www.ontheissues.org/Vivek_Ramaswamy.htm"},
+   "energy": {"score": 10, "evidence": "Favors expanded natural gas and fossil fuel production.", "source": "https://vivekforohio.com/the-plan/"},
+   "tech": {"score": 65, "evidence": "Data-center pledge sets conditions on siting, environmental compliance and community benefits.", "source": "https://vivekforohio.com/the-plan/"},
+   "education": {"score": 15, "evidence": "Promises parents transparency and meaningful school choices.", "source": "https://vivekforohio.com/the-plan/"},
+   "faith": {"score": 70, "evidence": "Has emphasized religious faith and faith-based values in public life.", "source": "https://www.ontheissues.org/Vivek_Ramaswamy.htm"}
+  },
+  "photo": {"file": "File:Vivek Ramaswamy (55241367373) (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"},
+  "campaign_photo": "https://vivekforohio.com/wp-content/uploads/2025/11/1021ba0dd10d215fe5d916a708e1ce30f555a7d8.jpg",
+  "notes": "The current plan page describes data-center conditions rather than the approval pause mentioned in earlier research."
+ },
+ {
+  "id": "OK-SEN/kevin-hern",
+  "name": "Kevin Hern",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OK-1",
+  "bio": "Kevin Hern has represented Oklahoma's 1st congressional district since 2018 and chaired the Republican Study Committee from 2023 to 2025 before leading the House Republican Policy Committee. Before Congress he owned McDonald's franchises in the Tulsa area and other businesses. He is running for the Senate seat vacated by Markwayne Mullin.",
+  "website": "https://www.kevinhern.com",
+  "social": {
+   "x": "https://x.com/repkevinhern",
+   "facebook": "https://www.facebook.com/repkevinhern",
+   "youtube": "https://www.youtube.com/channel/UC9XRRGCgGOEtEOwUAo1rYZg"
+  },
+  "platform": [
+   {"topic": "Welfare", "point": "Supports work requirements for people receiving public assistance.", "source": "https://en.wikipedia.org/wiki/Kevin_Hern"},
+   {"topic": "Health care", "point": "Opposes extending enhanced Affordable Care Act tax credits.", "source": "https://en.wikipedia.org/wiki/Kevin_Hern"},
+   {"topic": "Taxes", "point": "Favors a flat tax and reduced federal spending.", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"},
+   {"topic": "Immigration", "point": "Supports building a border wall and stronger border enforcement.", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"},
+   {"topic": "National security", "point": "Supports defending Israel and a strong national defense.", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Favors a flat tax and lower federal spending.", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"},
+   "welfare": {"score": 10, "evidence": "Strongly supports work requirements and opposes extending ACA tax credits.", "source": "https://en.wikipedia.org/wiki/Kevin_Hern"},
+   "liberty": {"score": 60, "evidence": "Opposes abortion and same-sex marriage (abortion, LGBTQ) while supporting gun rights (guns).", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"},
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Supports a border wall.", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"},
+   "foreign": {"score": 65, "evidence": "Backs defending Israel and strong alliances.", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"},
+   "energy": {"score": 5, "evidence": "Opposes climate regulation and has expressed doubt that humans cause climate change.", "source": "https://en.wikipedia.org/wiki/Kevin_Hern"},
+   "tech": {"score": 40, "evidence": "Opposes net neutrality rules.", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"},
+   "education": null,
+   "faith": {"score": 80, "evidence": "Lists family values as a core issue and supports faith-based positions on marriage and life.", "source": "https://www.ontheissues.org/House/Kevin_Hern.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The campaign website could not be loaded, so the URL is unverified and platform items come from his record. Social links are his official House accounts."
+ },
+ {
+  "id": "OK-SEN/n-kiyla-jasmine-thomas",
+  "name": "N'Kiyla Jasmine Thomas",
+  "party": "Democratic",
+  "current_role": "Nurse",
+  "bio": "N'Kiyla Jasmine Thomas is a nurse and a citizen of the Chickasaw Nation who won Oklahoma's Democratic Senate primary runoff in August 2026. She describes herself as a democratic socialist and a military spouse. She has not previously held elected office.",
+  "website": "https://www.jasmineforok.com",
+  "social": {
+   "instagram": "https://www.instagram.com/jasmineforok",
+   "tiktok": "https://www.tiktok.com/@jasmineforok",
+   "youtube": "https://www.youtube.com/@jasmineforok"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All and stronger rural health care, including protecting Medicaid.", "source": "https://www.jasmineforok.com/policies"},
+   {"topic": "Child care", "point": "Wants universal affordable child care, including round-the-clock options, and paid family leave.", "source": "https://www.jasmineforok.com/policies"},
+   {"topic": "Cost of living", "point": "Backs a living-wage minimum, price-gouging protections and investment in affordable housing.", "source": "https://www.jasmineforok.com/policies"},
+   {"topic": "Education", "point": "Calls for smaller classes, free school meals, full special-education funding and competitive teacher pay.", "source": "https://www.jasmineforok.com/policies"},
+   {"topic": "Reproductive rights", "point": "Would restore Roe v. Wade protections in federal law.", "source": "https://www.jasmineforok.com/policies"},
+   {"topic": "Environment", "point": "Supports strengthening the Clean Water Act and tribal water sovereignty.", "source": "https://www.jasmineforok.com/policies"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Backs a living-wage minimum and strong price-gouging protections.", "source": "https://www.jasmineforok.com/policies"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and universal child care.", "source": "https://www.jasmineforok.com/policies"},
+   "liberty": {"score": 5, "evidence": "Supports restoring Roe (abortion) and codifying marriage equality and trans youth protections (LGBTQ).", "source": "https://www.jasmineforok.com/policies"},
+   "security": {"score": 20, "evidence": "Calls for trauma-informed policing and protecting survivors from criminalization.", "source": "https://www.jasmineforok.com/policies"},
+   "immigration": {"score": 5, "evidence": "Has called for dismantling ICE.", "source": "https://www.nbcnews.com/politics/2026-election/nkiyla-jasmine-thomas-wins-oklahoma-senate-primary-democrat-rcna593618"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 85, "evidence": "Calls for more public school resources, smaller classes and free meals.", "source": "https://www.jasmineforok.com/policies"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68824b88a601dd5ba5f1c198/a61362d3-472e-4c87-9220-43a834b9b990/jasmine-12.jpg",
+  "notes": "NBC reports she opposes defunding the Defense Department, but that is not enough to score foreign policy. Her Facebook page URL was not confirmed."
+ },
+ {
+  "id": "OK-GOV/mike-mazzei",
+  "name": "Mike Mazzei",
+  "party": "Republican",
+  "current_role": "Financial adviser and former Oklahoma Secretary of Budget",
+  "bio": "Mike Mazzei served in the Oklahoma Senate from 2004 to 2016, where he chaired the Finance Committee, and was Oklahoma's Secretary of Budget from 2019 to 2020 under Governor Kevin Stitt. He founded a financial coaching business and leads an investment management firm. He is based in Tulsa.",
+  "website": "https://mikeforok.com",
+  "social": {
+   "x": "https://x.com/MazzeiMike",
+   "instagram": "https://www.instagram.com/mikemazzeiok/",
+   "facebook": "https://www.facebook.com/MikeForOK"
+  },
+  "platform": [
+   {"topic": "Property tax", "point": "Would eliminate property taxes for seniors and veterans.", "source": "https://mikeforok.com/the-issues/"},
+   {"topic": "Land", "point": "Wants to close loopholes that let foreign adversaries control Oklahoma land.", "source": "https://mikeforok.com/the-issues/"},
+   {"topic": "Education", "point": "Prioritises reading proficiency and accountability in schools.", "source": "https://mikeforok.com/the-issues/"},
+   {"topic": "Jobs", "point": "Aims to attract investment and more high-paying jobs.", "source": "https://mikeforok.com/the-issues/"},
+   {"topic": "Government", "point": "Promises transparency and fiscal discipline in state government.", "source": "https://mikeforok.com/the-issues/"},
+   {"topic": "Abortion", "point": "Opposes abortion in all circumstances.", "source": "https://mikeforok.com/the-issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Proposes phasing out the state income tax.", "source": "https://www.newson6.com/oklahoma-elections/oklahoma-governor-tax-plans-mazzei-drummond"},
+   "welfare": null,
+   "liberty": {"score": 95, "evidence": "Opposes abortion in all circumstances (abortion); no other liberty issues found.", "source": "https://mikeforok.com/the-issues/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 60, "evidence": "Would end data-center tax breaks and regulate their water and power use.", "source": "https://www.news9.com/oklahoma-elections/who-should-i-vote-for-oklahomas-gubernatorial-runoff-drummond-mazzei"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons photo is marked public domain only by an Oklahoma Legislative Service Bureau statement, not a named free license, so it was not used. Liberty score rests on abortion alone."
+ },
+ {
+  "id": "OK-GOV/cyndi-munson",
+  "name": "Cyndi Munson",
+  "party": "Democratic",
+  "current_role": "Minority Leader, Oklahoma House of Representatives",
+  "bio": "Cyndi Munson has represented District 85 in the Oklahoma House since 2015 and has been House Minority Leader since 2022. She previously worked in the nonprofit sector. She was born in Monterey, California, and raised in Lawton, Oklahoma.",
+  "website": "https://www.cyndimunson.com",
+  "social": {
+   "x": "https://x.com/CyndiMunsonOK",
+   "instagram": "https://www.instagram.com/CyndiMunsonOK",
+   "facebook": "https://www.facebook.com/CyndiMunsonOK"
+  },
+  "platform": [
+   {"topic": "Jobs", "point": "Supports workforce development, paid family leave and a higher minimum wage.", "source": "https://www.cyndimunson.com/Priorities"},
+   {"topic": "Education", "point": "Would raise teacher pay, expand Oklahoma's Promise, end voucher programs and provide free school meals.", "source": "https://www.cyndimunson.com/Priorities"},
+   {"topic": "Health care", "point": "Pledges to protect Medicaid and expand rural prenatal and mental health care and abortion rights.", "source": "https://www.cyndimunson.com/Priorities"},
+   {"topic": "Data centers", "point": "Calls for a data-center moratorium and an end to corporate giveaways.", "source": "https://www.cyndimunson.com/Priorities"},
+   {"topic": "Taxes", "point": "Would increase child care and earned income tax credits for lower- and middle-income families.", "source": "https://www.cyndimunson.com/Priorities"},
+   {"topic": "Tribal relations", "point": "Would restore a Secretary of Native American Affairs to strengthen state-tribal relations.", "source": "https://www.cyndimunson.com/Priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Backs raising the minimum wage and ending corporate giveaways.", "source": "https://www.cyndimunson.com/Priorities"},
+   "welfare": {"score": 80, "evidence": "Supports protecting Medicaid and paid family leave.", "source": "https://www.cyndimunson.com/Priorities"},
+   "liberty": {"score": 25, "evidence": "Supports abortion rights (abortion) and opposed a church stand-your-ground bill (guns).", "source": "https://www.ontheissues.org/Cyndi_Munson.htm"},
+   "security": {"score": 30, "evidence": "Legislative record includes criminal justice reform, such as compensation for the wrongfully convicted.", "source": "https://en.wikipedia.org/wiki/Cyndi_Munson"},
+   "immigration": {"score": 25, "evidence": "Supports a pathway to citizenship and criticized state bills aimed at undocumented immigrants.", "source": "https://www.ontheissues.org/Cyndi_Munson.htm"},
+   "foreign": null,
+   "energy": {"score": 50, "evidence": "Favors an all-of-the-above energy approach with water and landowner protections.", "source": "https://www.cyndimunson.com/Priorities"},
+   "tech": {"score": 80, "evidence": "Calls for a data-center moratorium and opposes dynamic pricing.", "source": "https://www.cyndimunson.com/Priorities"},
+   "education": {"score": 95, "evidence": "Would eliminate voucher programs and raise public school funding.", "source": "https://www.cyndimunson.com/Priorities"},
+   "faith": {"score": 25, "evidence": "Rejects the view that America was founded on Christian values and opposed letting child welfare agencies refuse services on religious grounds.", "source": "https://www.ontheissues.org/Cyndi_Munson.htm"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons portrait is marked public domain only by an Oklahoma legislature statement with an unknown author, so it was not used. Immigration and faith scores rest on thin OnTheIssues evidence."
+ },
+ {
+  "id": "OR-SEN/jeff-merkley",
+  "name": "Jeff Merkley",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from Oregon",
+  "bio": "Jeff Merkley has represented Oregon in the U.S. Senate since 2009. He previously served in the Oregon House of Representatives, including as Speaker from 2007 to 2009, and led Portland Habitat for Humanity. He grew up in Oregon.",
+  "website": "https://www.jeffmerkley.com",
+  "social": {
+   "x": "https://x.com/SenJeffMerkley",
+   "instagram": "https://www.instagram.com/senjeffmerkley",
+   "facebook": "https://www.facebook.com/jeffmerkley",
+   "youtube": "https://www.youtube.com/SenatorJeffMerkley"
+  },
+  "platform": [
+   {"topic": "Democracy", "point": "Pushes anti-corruption bills such as the DISCLOSE Act to curb dark money in politics.", "source": "https://www.jeffmerkley.com/"},
+   {"topic": "Voting", "point": "Wants to protect voting rights and access to vote by mail.", "source": "https://www.jeffmerkley.com/"},
+   {"topic": "Climate", "point": "Prioritises tackling the climate crisis, including wildfire emissions prevention.", "source": "https://www.merkley.senate.gov/"},
+   {"topic": "Economy", "point": "Focuses on creating economic opportunity for working families.", "source": "https://www.jeffmerkley.com/"},
+   {"topic": "Health care", "point": "Sponsors a bill to stop corporate takeovers of physician practices.", "source": "https://www.merkley.senate.gov/"},
+   {"topic": "Consumer protection", "point": "Backs limits on surveillance pricing by companies.", "source": "https://www.merkley.senate.gov/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Opposes tax breaks for the ultra-wealthy and campaigns against corporate influence.", "source": "https://www.jeffmerkley.com/"},
+   "welfare": {"score": 70, "evidence": "Senate record supports expanding health coverage and affordable housing.", "source": "https://en.wikipedia.org/wiki/Jeff_Merkley"},
+   "liberty": {"score": 25, "evidence": "Supports abortion rights, LGBTQ protections and cannabis banking (abortion, LGBTQ, drugs), plus background checks (guns).", "source": "https://en.wikipedia.org/wiki/Jeff_Merkley"},
+   "security": {"score": 20, "evidence": "Voted against FISA surveillance reauthorization.", "source": "https://en.wikipedia.org/wiki/Jeff_Merkley"},
+   "immigration": {"score": 15, "evidence": "Voted against the Laken Riley Act.", "source": "https://en.wikipedia.org/wiki/Jeff_Merkley"},
+   "foreign": {"score": 30, "evidence": "Voted against the 2024 foreign aid package.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm"},
+   "energy": {"score": 90, "evidence": "Longtime advocate of fast climate action and clean energy.", "source": "https://www.jeffmerkley.com/"},
+   "tech": {"score": 75, "evidence": "Backs restrictions on surveillance pricing and crypto anti-corruption rules.", "source": "https://www.merkley.senate.gov/"},
+   "education": {"score": 70, "evidence": "Senate record supports public education funding.", "source": "https://en.wikipedia.org/wiki/Jeff_Merkley"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Social links are his official Senate accounts; campaign account URLs were not visible on the campaign site."
+ },
+ {
+  "id": "OR-SEN/david-brock-smith",
+  "name": "David Brock Smith",
+  "party": "Republican",
+  "current_role": "Oregon State Senator for District 1",
+  "bio": "David Brock Smith has served in the Oregon State Senate since 2023, after representing House District 1 from 2017 to 2023. He previously served as a Curry County commissioner and on the Port Orford city council and school board. He is from Oregon's southern coast.",
+  "website": "https://www.davidbrocksmithfororegon.com",
+  "social": {
+   "x": "https://x.com/DavidBrockSmith",
+   "instagram": "https://www.instagram.com/davidbrocksmith01",
+   "facebook": "https://www.facebook.com/StateSenatorDavidBrockSmith",
+   "youtube": "https://www.youtube.com/@DavidBrockSmith"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Pledges no new taxes, support for local businesses, fraud reduction and less government spending.", "source": "https://www.davidbrocksmithfororegon.com/issues"},
+   {"topic": "Public safety", "point": "Backs law enforcement and accountability for repeat offenders.", "source": "https://www.davidbrocksmithfororegon.com/issues"},
+   {"topic": "Homelessness", "point": "Supports effective drug and mental health treatment and opposes permanent street camping.", "source": "https://www.davidbrocksmithfororegon.com/issues"},
+   {"topic": "Wildfire", "point": "Favors active forest management and fuel reduction with landowner cooperation.", "source": "https://www.davidbrocksmithfororegon.com/issues"},
+   {"topic": "Priorities", "point": "Says he will put Oregon families, communities and local jobs ahead of partisan bases.", "source": "https://www.davidbrocksmithfororegon.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Pledges no new taxes and reduced government spending.", "source": "https://www.davidbrocksmithfororegon.com/issues"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 75, "evidence": "Backs law enforcement and accountability for repeat offenders.", "source": "https://www.davidbrocksmithfororegon.com/issues"},
+   "immigration": {"score": 70, "evidence": "Signed a 2024 letter supporting Texas in the Eagle Pass border standoff.", "source": "https://en.wikipedia.org/wiki/David_Brock_Smith"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:David Brock Smith.jpg", "license": "CC BY 2.0", "author": "Gary Halvorson, Oregon State Archives"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "OR-GOV/tina-kotek",
+  "name": "Tina Kotek",
+  "party": "Democratic",
+  "current_role": "Governor of Oregon",
+  "bio": "Tina Kotek has been Governor of Oregon since 2023. She served in the Oregon House of Representatives from 2007 to 2022, including as Speaker from 2013 to 2022. She was born in Pennsylvania and has lived in Portland for decades.",
+  "website": "https://www.tinafororegon.com",
+  "social": {
+   "x": "https://twitter.com/TinaKotek",
+   "instagram": "https://www.instagram.com/tina4oregon/",
+   "facebook": "https://www.facebook.com/Tina4Oregon/"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Targets corporate price gouging and housing costs.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   {"topic": "Homelessness", "point": "Aims to address the housing shortage and prevent homelessness.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   {"topic": "Mental health", "point": "Plans to expand access to mental health and addiction treatment.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   {"topic": "Education", "point": "Supports educators and student success statewide.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   {"topic": "Federal policy", "point": "Pledges to protect Oregon voting rights and health care from federal overreach.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   {"topic": "Environment", "point": "Commits to protecting land, water and air and addressing climate change.", "source": "https://www.tinafororegon.com/progress-for-oregon/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Campaigns against corporate price gouging and for workforce investment.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   "welfare": {"score": 70, "evidence": "Pledges to protect health care access and expand treatment services.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   "liberty": {"score": 25, "evidence": "LGBTQ: signed a 2023 law protecting access to gender-affirming care; the cited source does not cover her other liberty positions.", "source": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Oregon"},
+   "security": {"score": 40, "evidence": "Backs resourcing police while contesting federal Guard deployment in Oregon.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Prioritises climate action and environmental protection.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   "tech": null,
+   "education": {"score": 70, "evidence": "Emphasizes support for public school educators and student outcomes.", "source": "https://www.tinafororegon.com/progress-for-oregon/"},
+   "faith": null
+  },
+  "photo": {"file": "File:2025 Tina Kotek (cropped).jpg", "license": "CC BY 4.0", "author": "Oregon National Guard"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "OR-GOV/christine-drazan",
+  "name": "Christine Drazan",
+  "party": "Republican",
+  "current_role": "Oregon State Senator for District 26",
+  "bio": "Christine Drazan has served in the Oregon State Senate since October 2025. She represented Oregon House districts from 2019 to 2022 and in 2025, serving twice as House Republican Leader, and was the Republican nominee for governor in 2022. She was born in Klamath Falls, Oregon.",
+  "website": "https://www.christinefororegon.com",
+  "social": {
+   "x": "https://x.com/ChristineDrazan",
+   "instagram": "https://www.instagram.com/christine4oregon/",
+   "facebook": "https://www.facebook.com/ChristineforOregon/",
+   "tiktok": "https://www.tiktok.com/@christine.drazan",
+   "youtube": "https://www.youtube.com/channel/UCzj0___2WruvJsMn3KZkCDw"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Plans a day-one affordability order, repeal of the Climate Protection Program and property tax relief for veterans and seniors.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   {"topic": "Economy", "point": "Would declare Oregon open for business, freeze regulations and create a $200 million infrastructure fund.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   {"topic": "Homelessness", "point": "Would audit spending, prioritise recovery programs, support police and declare a state of emergency.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   {"topic": "Housing", "point": "Proposes a 120-day permitting timeline and tax credits for first-time homebuyers.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   {"topic": "Education", "point": "Would restore graduation requirements, focus on early literacy and expand parental transparency.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   {"topic": "Data centers", "point": "Would end special treatment for data centers through community benefit agreements and farmland protection.", "source": "https://www.christinefororegon.com/drazan-plan/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Plans a regulatory freeze and tax and fee controls.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Opposes abortion access and trans athletes in girls' sports (abortion, LGBTQ), while holding an NRA A rating (guns).", "source": "https://en.wikipedia.org/wiki/Christine_Drazan"},
+   "security": {"score": 75, "evidence": "Plan prioritises support for law enforcement in addressing homelessness and addiction.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Would repeal Oregon's Climate Protection Program.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   "tech": {"score": 60, "evidence": "Would require data-center community benefit agreements and ban their nondisclosure agreements.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   "education": {"score": 15, "evidence": "Emphasizes parental transparency rights and supports school choice.", "source": "https://www.christinefororegon.com/drazan-plan/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Christine Drazan in August 2022 (cropped).jpg", "license": "CC BY-SA 2.0", "author": "Oregon State University"},
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

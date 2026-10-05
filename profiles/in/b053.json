@@ -1,0 +1,469 @@
+[
+ {
+  "id": "MD-6/april-mcclain-delaney",
+  "name": "April McClain Delaney",
+  "party": "Democratic",
+  "race": "MD-6",
+  "race_label": "Maryland · US House MD-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001232",
+   "official_name": "April McClain Delaney",
+   "chamber": "House",
+   "official_site": "https://mcclaindelaney.house.gov",
+   "official_social": {
+    "twitter": "RepAprilDelaney",
+    "facebook": "RepAprilDelaney",
+    "instagram": "repaprildelaney"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 65,
+    "liberty": 45,
+    "security": 50,
+    "immigration": 40,
+    "foreign": 75,
+    "energy": 75,
+    "tech": 55,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Grocery antitrust, protecting SNAP and ACA credits; codify Roe, assault weapons ban; police funding; Laken Riley vote and Dream Act; NATO and Ukraine; universal pre-K.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/April_McClain_Delaney",
+    "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"
+   ],
+   "photo": {
+    "file": "File:Rep. April McClain Delaney Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MD-6/robin-ficker",
+  "name": "Robin Ficker",
+  "party": "Republican",
+  "race": "MD-6",
+  "race_label": "Maryland · US House MD-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 60,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports balanced budget and budget caps, no new deficit programs; enforce legal immigration levels and oppose open borders.",
+   "sources": [
+    "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"
+   ],
+   "photo": {
+    "file": "File:Robin Ficker (35598540490).jpg",
+    "license": "CC BY 2.0",
+    "author": "Maryland GovPics"
+   }
+  }
+ },
+ {
+  "id": "MD-7/kweisi-mfume",
+  "name": "Kweisi Mfume",
+  "party": "Democratic",
+  "race": "MD-7",
+  "race_label": "Maryland · US House MD-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M000687",
+   "official_name": "Kweisi Mfume",
+   "chamber": "House",
+   "official_site": "https://mfume.house.gov",
+   "official_social": {
+    "twitter": "RepKweisiMfume",
+    "facebook": "RepKweisiMfume",
+    "instagram": "repkweisimfume",
+    "youtube": "UCbE6PJy-4U0DxosEW2TBQRA"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 90,
+    "liberty": 45,
+    "security": 30,
+    "immigration": 15,
+    "foreign": 40,
+    "energy": 80,
+    "tech": null,
+    "education": 90,
+    "faith": 15
+   },
+   "basis": "Cosponsors Medicare for All, opposed 2017 tax cuts; pro-choice, gun restrictions; police accountability; opposes ICE raids; cut defense; opposes vouchers and school religion.",
+   "sources": [
+    "https://www.ontheissues.org/House/Kweisi_Mfume.htm",
+    "https://www.baltimoresun.com/2026/05/20/maryland-7th-congressional-district-candidates-2026-election/",
+    "https://jayapal.house.gov/2025/04/29/jayapal-sanders-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/"
+   ],
+   "photo": {
+    "file": "File:Maryland Congressman Kweisi Mfume, 117th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MD-7/scott-collier",
+  "name": "Scott Collier",
+  "party": "Republican",
+  "race": "MD-7",
+  "race_label": "Maryland · US House MD-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue statements found in candidate questionnaires or major coverage; all domains left unscored.",
+   "sources": [],
+   "photo": null
+  }
+ },
+ {
+  "id": "MD-8/jamie-raskin",
+  "name": "Jamie Raskin",
+  "party": "Democratic",
+  "race": "MD-8",
+  "race_label": "Maryland · US House MD-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000606",
+   "official_name": "Jamie Raskin",
+   "chamber": "House",
+   "official_site": "https://raskin.house.gov",
+   "official_social": {
+    "facebook": "repraskin",
+    "twitter": "RepRaskin",
+    "instagram": "repraskin"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": 30,
+    "security": 20,
+    "immigration": 15,
+    "foreign": 45,
+    "energy": 90,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Taxing the wealthy, single-payer health care; pro-choice, LGBTQ rights, lighter marijuana penalties, assault weapons ban; citizenship path; Green New Deal; net neutrality.",
+   "sources": [
+    "https://www.ontheissues.org/House/Jamie_Raskin.htm",
+    "https://en.wikipedia.org/wiki/Jamie_Raskin",
+    "https://jayapal.house.gov/2025/04/29/jayapal-sanders-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/"
+   ],
+   "photo": {
+    "file": "File:Jamie Raskin Official Portrait 2019.jpg",
+    "license": "Public domain",
+    "author": "Leah Herman"
+   }
+  }
+ },
+ {
+  "id": "MD-8/cheryl-riley",
+  "name": "Cheryl Riley",
+  "party": "Republican",
+  "race": "MD-8",
+  "race_label": "Maryland · US House MD-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 90,
+    "foreign": 30,
+    "energy": 15,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Campaign calls for sealed borders, lower taxes and regulation, unleashed energy production, parents' rights in education, and an America First foreign policy.",
+   "sources": [
+    "https://www.cheryl4maryland.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MA-1/richard-neal",
+  "name": "Richard Neal",
+  "party": "Democratic",
+  "race": "MA-1",
+  "race_label": "Massachusetts · US House MA-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "N000015",
+   "official_name": "Richard E. Neal",
+   "chamber": "House",
+   "official_site": "https://neal.house.gov",
+   "official_social": {
+    "twitter": "RepRichardNeal",
+    "facebook": "reprichardneal",
+    "youtube": "RepRichardENeal"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 55,
+    "liberty": 35,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes tax cuts for the wealthy and tariffs; backed ACA but opposed Medicare for All; mixed abortion record, opposed Federal Marriage Amendment.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Richard_Neal",
+    "https://www.nealforcongress.com/"
+   ],
+   "photo": {
+    "file": "File:Richard Neal portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives, Office of the Clerk"
+   }
+  }
+ },
+ {
+  "id": "MA-1/nadia-milleron",
+  "name": "Nadia Milleron",
+  "party": "Independent",
+  "race": "MA-1",
+  "race_label": "Massachusetts · US House MA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 10,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Healthcare for All without insurers, rent caps, closing corporate loopholes, federal manufacturing zone; opposes funding foreign wars.",
+   "sources": [
+    "https://nadiaforcongress.com/fight/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MA-2/jim-mcgovern",
+  "name": "Jim McGovern",
+  "party": "Democratic",
+  "race": "MA-2",
+  "race_label": "Massachusetts · US House MA-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M000312",
+   "official_name": "James P. McGovern",
+   "chamber": "House",
+   "official_site": "https://mcgovern.house.gov",
+   "official_social": {
+    "twitter": "RepMcGovern",
+    "facebook": "RepJimMcGovern",
+    "youtube": "repjimmcgovern",
+    "instagram": "repmcgovern"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 95,
+    "liberty": 15,
+    "security": null,
+    "immigration": 20,
+    "foreign": 35,
+    "energy": null,
+    "tech": 35,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports Medicare for All and higher taxes on top earners; pro-choice, pro-LGBTQ votes; opposed Secure Fence Act, Iraq War, TikTok ban.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"
+   ],
+   "photo": {
+    "file": "File:Jim McGovern, official portrait, 116th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography/House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MA-3/lori-trahan",
+  "name": "Lori Trahan",
+  "party": "Democratic",
+  "race": "MA-3",
+  "race_label": "Massachusetts · US House MA-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000482",
+   "official_name": "Lori Trahan",
+   "chamber": "House",
+   "official_site": "https://trahan.house.gov",
+   "official_social": {
+    "twitter": "RepLoriTrahan",
+    "facebook": "reploritrahan",
+    "instagram": "reploritrahan",
+    "youtube": "UCsRXg0BmoS4Rkjz-pqX1PmQ"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": 20,
+    "security": null,
+    "immigration": 20,
+    "foreign": null,
+    "energy": 90,
+    "tech": 85,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Healthcare as a right and ACA expansion; pathway to citizenship, no wall; Green New Deal cosponsor; FRONTIER AI safety act; reproductive and trans rights (liberty).",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lori_Trahan",
+    "https://loritrahan.com/immigration/",
+    "https://loritrahan.com/healthcare/"
+   ],
+   "photo": {
+    "file": "File:Lori Trahan, official portrait, 116th Congress (cropped 2).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "MA-3/gary-grossi",
+  "name": "Gary Grossi",
+  "party": "Republican",
+  "race": "MA-3",
+  "race_label": "Massachusetts · US House MA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": null,
+    "liberty": 25,
+    "security": 60,
+    "immigration": null,
+    "foreign": null,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cut waste and housing regulations; Second Amendment and free speech drive liberty score; supports law enforcement; prioritizes immediate energy affordability.",
+   "sources": [
+    "https://www.votegarygrossi.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MA-4/jake-auchincloss",
+  "name": "Jake Auchincloss",
+  "party": "Democratic",
+  "race": "MA-4",
+  "race_label": "Massachusetts · US House MA-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "A000148",
+   "official_name": "Jake Auchincloss",
+   "chamber": "House",
+   "official_site": "https://auchincloss.house.gov",
+   "official_social": {
+    "twitter": "RepAuchincloss",
+    "facebook": "RepAuchincloss",
+    "youtube": "RepAuchincloss"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": 25,
+    "foreign": 75,
+    "energy": null,
+    "tech": 85,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Balanced budgets, free trade, opposed drug price controls; LGBTQ caucus; sanctuary ordinances, criticizes ICE; Ukraine caucus, pro-Israel; social media age 16, TikTok divestiture.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jake_Auchincloss",
+    "https://www.jakeforma.com/"
+   ],
+   "photo": {
+    "file": "File:Jake Auchincloss portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives, Office of the Clerk"
+   }
+  }
+ }
+]

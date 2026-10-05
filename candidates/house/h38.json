@@ -1,0 +1,809 @@
+[
+  {
+    "state": "Texas",
+    "district": "TX-25",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Roger Williams",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 60,
+          "security": null,
+          "immigration": 85,
+          "foreign": null,
+          "energy": 10,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 and 2025 tax cuts and Medicaid work requirements, H.R. 2 border bill; opposes abortion, backs gun rights and oil and gas.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Roger_Williams_(Texas_politician)",
+          "https://williams.house.gov"
+        ],
+        "photo": {
+          "file": "File:Rep. Roger Williams, 118th Congress portrait.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Dione Sims",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign issues page prioritizes affordable health care access, fair wages, retirement security and housing stability.",
+        "sources": [
+          "https://dionesimsforcongress.com/issues",
+          "https://ballotpedia.org/Dione_Sims"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-26",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brandon Gill",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 65,
+          "security": null,
+          "immigration": 90,
+          "foreign": null,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2025 reconciliation tax cuts and spending cuts; backs mass deportation, abortion limits, gun rights and expanded fossil fuel production.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brandon_Gill",
+          "https://gill.house.gov"
+        ],
+        "photo": {
+          "file": "File:Brandon Gill, official portrait, 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Steven Shook",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Critical care nurse practitioner whose campaign centers on expanding affordable health care.",
+        "sources": [
+          "https://shookforcongress2026.com/",
+          "https://dentonrc.com/news/election_2020/rep-brandon-gill-easily-secures-gop-nom-for-district-26-will-face-steven-shook-in/article_a9a1823e-4ec9-4f9d-ac0a-7d9ecde6d9e0.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Phil Gray",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Texas%27_26th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-27",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Michael Cloud",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 65,
+          "security": null,
+          "immigration": 90,
+          "foreign": 25,
+          "energy": 10,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Freedom Caucus member; voted against 2024 Ukraine aid, for H.R. 2 border bill and tax cuts; anti-abortion, pro-gun, pro-drilling.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Michael_Cloud",
+          "https://cloud.house.gov"
+        ],
+        "photo": {
+          "file": "File:Michael Cloud, Official Portrait, 115th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Tanya Lloyd",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 95,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Backs single-payer health care, universal daycare, living wages, breaking up agribusiness monopolies, abortion access and public education.",
+        "sources": [
+          "https://www.tanyafortexas.com/issues",
+          "https://ballotpedia.org/Tanya_Lloyd"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-28",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Henry Cuellar",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 50,
+          "welfare": 60,
+          "liberty": 50,
+          "security": null,
+          "immigration": 55,
+          "foreign": 70,
+          "energy": 40,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Blue Dog; voted for Laken Riley Act and Ukraine/Israel aid, against 2025 Medicaid cuts; mixed abortion record, gun-rights supporter, pro oil and gas.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Henry_Cuellar",
+          "https://cuellar.house.gov",
+          "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/"
+        ],
+        "photo": {
+          "file": "File:Henry Cuellar, official portrait, 115th congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Eric Connolly; U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Tano Tijerina",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 75,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Trump-endorsed Webb County judge campaigning chiefly on border security, cost of living and public safety.",
+        "sources": [
+          "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/",
+          "https://news.ballotpedia.org/2026/08/24/incumbent-henry-cuellar-d-tano-tijerina-r-and-marlon-duran-g-face-off-in-redrawn-texas-congressional-district/"
+        ],
+        "photo": {
+          "file": "File:Tano Tijerina.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "E. R. Softwood"
+        }
+      },
+      {
+        "name": "Marlon Duran",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Texas%27_28th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-29",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Sylvia Garcia",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": 25,
+          "security": null,
+          "immigration": 15,
+          "foreign": 70,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Progressive Caucus member; supports expanded health coverage, abortion rights, gun control, immigrant protections, Ukraine aid and climate action.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sylvia_Garcia",
+          "https://sylviagarcia.house.gov"
+        ],
+        "photo": {
+          "file": "File:Sylvia Garcia, official portrait, 116th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Martha Fierro",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No detailed policy platform found in reliable sources.",
+        "sources": [
+          "https://ballotpedia.org/Martha_Fierro"
+        ],
+        "photo": {
+          "file": "File:2026AcresHomeJuneteenthParade-63 Martha Fierro (cropped).jpg",
+          "license": "CC BY 4.0",
+          "author": "2C2K Photography"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-30",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Frederick Haynes III",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 95,
+          "liberty": null,
+          "security": null,
+          "immigration": 5,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls for Medicare for All, abolishing ICE and a living wage above the current minimum wage.",
+        "sources": [
+          "https://www.wfaa.com/article/news/politics/elections/dallas-pastor-frederick-haynes-house-campaign-abolish-ice/287-6fc619b6-c6ac-43e9-9dc0-a188ee138271",
+          "https://en.wikipedia.org/wiki/Frederick_Haynes_III"
+        ],
+        "photo": {
+          "file": "File:Frederick Haynes III at Calvary Baptist Church (cropped).png",
+          "license": "CC BY 3.0",
+          "author": "Calvary Baptist Church Jamaica, NY"
+        }
+      },
+      {
+        "name": "Everett Jackson",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No detailed policy platform found in reliable sources.",
+        "sources": [
+          "https://ballotpedia.org/Everett_Jackson"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-31",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "John Carter",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 25,
+          "liberty": 60,
+          "security": null,
+          "immigration": 85,
+          "foreign": null,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 and 2025 tax cuts and H.R. 2 border bill; opposes abortion, supports gun rights and domestic oil and gas.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/John_Carter_(Texas_politician)",
+          "https://carter.house.gov"
+        ],
+        "photo": {
+          "file": "File:Rep. John Carter, 118th Congress portrait.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Justin Early",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaigns on higher wages, curbing corporate power and reversing federal health care cuts.",
+        "sources": [
+          "https://politicsdoneright.com/2026/07/justin-early-challenges-trump-loyalist-john-carter-with-a-working-class-agenda/",
+          "https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Greg Stoker",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-32",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Dan Barrios",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 75,
+          "faith": null
+        },
+        "basis": "Platform stresses consumer protections, affordable health care access and investment in education and workforce development.",
+        "sources": [
+          "https://www.danbarriosforcongress.com/",
+          "https://communityimpact.com/richardson/election/qa-meet-the-candidates-running-for-us-house-district-32/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jace Yarbrough",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 15,
+          "security": null,
+          "immigration": 95,
+          "foreign": null,
+          "energy": 10,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs spending cuts and no tax increases, mass deportations and an immigration pause, concealed-carry reciprocity, NFA repeal and expanded energy production.",
+        "sources": [
+          "https://www.jaceforcongress.com/",
+          "https://dallasexpress.com/profiles/jace-yarbrough-says-texas-32-must-deliver-reinforcements-for-president-trump/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-33",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Colin Allred",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 65,
+          "liberty": 30,
+          "security": null,
+          "immigration": 45,
+          "foreign": 70,
+          "energy": 60,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Former congressman; backed ACA expansion, abortion rights, Equality Act, gun safety, Ukraine aid and IRA, while touting border security.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Colin_Allred"
+        ],
+        "photo": {
+          "file": "File:Colin Allred, official portrait, 117th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman"
+        }
+      },
+      {
+        "name": "Patrick Gillespie",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No detailed policy platform found in reliable sources.",
+        "sources": [
+          "https://ballotpedia.org/Patrick_Gillespie_(Texas)"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-34",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Vicente Gonzalez",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 50,
+          "welfare": 60,
+          "liberty": 35,
+          "security": null,
+          "immigration": 45,
+          "foreign": 70,
+          "energy": 40,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Moderate Democrat; voted for Laken Riley Act and Ukraine/Israel aid, supports abortion rights and Gulf Coast oil, gas and LNG.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Vicente_Gonzalez_(American_politician)",
+          "https://gonzalez.house.gov"
+        ],
+        "photo": {
+          "file": "File:Vicente Gonzalez, official portrait, 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Eric Flores",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 75,
+          "foreign": null,
+          "energy": 20,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Trump-endorsed former prosecutor prioritizing border security, law enforcement, Second Amendment and US energy independence.",
+        "sources": [
+          "https://myrgv.com/publications/the-brownsville-herald/2026/03/04/eric-flores-trounces-mayra-flores-in-district-34-republican-primary/",
+          "https://www.texastribune.org/2026/02/26/south-texas-34th-congressional-district-eric-mayra-flores-vicente-gonzalez/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Eddie Espinoza",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Texas%27_34th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chris Royal",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Texas%27_34th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-35",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Johnny Garcia",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Blue Dog sheriff's deputy who calls himself strongly pro-choice and opposes ICE raids dividing his community.",
+        "sources": [
+          "https://www.texasobserver.org/35th-congressional-district-runoff-johnny-garcia/",
+          "https://ballotpedia.org/Johnny_Garcia_(Texas_congressional_candidate)"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Carlos De La Cruz",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 85,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Trump-endorsed Air Force veteran campaigning on codifying Trump border policies and reducing government spending.",
+        "sources": [
+          "https://sanantonioreport.org/carlos-de-la-cruz-qa-tx-35-runoff/",
+          "https://www.tpr.org/government-politics/2026-05-27/trump-backed-carlos-de-la-cruz-wins-gop-runoff-setting-up-november-test-of-redistricting-in-tx-35"
+        ],
+        "photo": {
+          "file": "File:Carlos De La Cruz.jpg",
+          "license": "Public domain",
+          "author": "U.S. Department of Defense"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-36",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brian Babin",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 60,
+          "security": null,
+          "immigration": 90,
+          "foreign": 30,
+          "energy": 10,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted against 2024 Ukraine aid, for tax cuts; sponsored refugee-pause bills; opposes abortion, backs gun rights and oil and gas.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brian_Babin",
+          "https://babin.house.gov"
+        ],
+        "photo": {
+          "file": "File:Brian Babin 115th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography/House Creative Services"
+        }
+      },
+      {
+        "name": "Rhonda Hart",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 65,
+          "liberty": 40,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Veteran backing codified Roe and stricter gun storage laws (liberty mixed), plus expanded veterans' health and pension benefits.",
+        "sources": [
+          "https://hart4congress.com/",
+          "https://ballotpedia.org/Rhonda_Hart"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,436 @@
+[
+ {
+  "id": "MN-4/betty-mccollum",
+  "name": "Betty McCollum",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MN-4",
+  "bio": "Betty McCollum has represented Minnesota's 4th District in the U.S. House since 2001 and serves on the Appropriations Committee, where she is ranking member of the Defense Subcommittee. She previously served on the North St. Paul city council and in the Minnesota House from 1993 to 2001. Before politics she worked as a high school social studies teacher and in retail management.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/BettyMcCollum04",
+   "instagram": "https://www.instagram.com/repbettymccollum",
+   "facebook": "https://www.facebook.com/repbettymccollum",
+   "youtube": "https://www.youtube.com/user/BMcCollum04"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Treats comprehensive, affordable, quality health coverage as a right for all Americans.", "source": "https://mccollum.house.gov/issues"},
+   {"topic": "Labor", "point": "Supports fair and democratic access to union representation for working families.", "source": "https://mccollum.house.gov/issues"},
+   {"topic": "Environment", "point": "Backs protecting air, water and land and has introduced renewable energy and efficiency legislation.", "source": "https://en.wikipedia.org/wiki/Betty_McCollum"},
+   {"topic": "Education", "point": "As a former teacher, prioritizes a free, high-quality public education for every child.", "source": "https://mccollum.house.gov/issues"},
+   {"topic": "Foreign affairs", "point": "Favors U.S. initiatives that reduce poverty and promote democracy and human rights abroad.", "source": "https://mccollum.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Supports union representation rights and protecting Social Security as a core priority.", "source": "https://mccollum.house.gov/issues"},
+   "welfare": {"score": 90, "evidence": "States that comprehensive, affordable health care is a fundamental right for all Americans.", "source": "https://mccollum.house.gov/issues"},
+   "liberty": {"score": 15, "evidence": "Supports abortion rights and LGBTQ rights and has voted against concealed-carry reciprocity (abortion, LGBTQ, guns).", "source": "https://en.wikipedia.org/wiki/Betty_McCollum"},
+   "security": {"score": 25, "evidence": "Voted against PATRIOT Act extensions and opposes warrantless wiretapping and bulk data collection.", "source": "https://www.ontheissues.org/House/Betty_McCollum.htm"},
+   "immigration": {"score": 20, "evidence": "Voted against a border fence and supports pathways to citizenship, including for Dreamers.", "source": "https://www.ontheissues.org/House/Betty_McCollum.htm"},
+   "foreign": {"score": 50, "evidence": "Backs humanitarian aid and multilateral engagement while sponsoring bills to condition aid to Israel.", "source": "https://en.wikipedia.org/wiki/Betty_McCollum"},
+   "energy": {"score": 75, "evidence": "Introduced the Renewable Energy and Efficiency Act and advocates non-carbon energy sources.", "source": "https://en.wikipedia.org/wiki/Betty_McCollum"},
+   "tech": {"score": 60, "evidence": "Supports net neutrality rules.", "source": "https://www.ontheissues.org/House/Betty_McCollum.htm"},
+   "education": {"score": 85, "evidence": "Opposes voucher programs and supports increased public school and teacher funding.", "source": "https://www.ontheissues.org/House/Betty_McCollum.htm"},
+   "faith": {"score": 20, "evidence": "Opposes school prayer initiatives and supports church-state separation.", "source": "https://www.ontheissues.org/House/Betty_McCollum.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website could be confirmed; bettymccollum.com did not load."
+ },
+ {
+  "id": "MN-4/paul-wikstrom",
+  "name": "Paul Wikstrom",
+  "party": "Republican",
+  "current_role": "Minnesota State Representative (District 40B)",
+  "bio": "Paul Wikstrom is an electrical engineer and University of Minnesota graduate who spent more than 35 years in engineering and management roles at Minnesota medical technology and aerospace companies. He won a Minnesota House seat in the Roseville-area District 40B in 2024. He is the Republican nominee for Minnesota's 4th Congressional District.",
+  "website": "https://www.wikstromforcongress.com/",
+  "social": {
+   "x": "https://x.com/wikstrom2026",
+   "instagram": "https://www.instagram.com/wikstromforcongress",
+   "facebook": "https://www.facebook.com/share/1Ai7fTaLuP/",
+   "tiktok": "https://www.tiktok.com/@wikstrom.for.cong",
+   "youtube": "https://www.youtube.com/@WikstromForCongress"
+  },
+  "platform": [
+   {"topic": "Fraud prevention", "point": "Require audits of major federal spending and make fraud-prevention safeguards a condition of federal funding.", "source": "https://www.wikstromforcongress.com/"},
+   {"topic": "Taxes", "point": "Keep and expand tax cuts, including no tax on tips or overtime and ending the estate tax for farms and small businesses.", "source": "https://www.wikstromforcongress.com/"},
+   {"topic": "Families", "point": "Expand the child tax credit.", "source": "https://www.wikstromforcongress.com/"},
+   {"topic": "Health care", "point": "Increase health care price transparency, allow insurance purchases across state lines and ease access to generic and imported drugs.", "source": "https://www.wikstromforcongress.com/"},
+   {"topic": "Regulation", "point": "Require congressional approval for new rules and remove two regulations for each new one.", "source": "https://www.wikstromforcongress.com/"},
+   {"topic": "Jobs", "point": "Prioritize domestic manufacturing, energy independence and expanded vocational training.", "source": "https://www.wikstromforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for expanded tax cuts, ending the estate tax and a one-in, two-out regulatory rule.", "source": "https://www.wikstromforcongress.com/"},
+   "welfare": {"score": 35, "evidence": "Proposes an expanded child tax credit alongside market-based health measures such as cross-state insurance sales.", "source": "https://www.wikstromforcongress.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 30, "evidence": "Emphasizes energy independence and expanding domestic production through deregulation.", "source": "https://www.wikstromforcongress.com/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Energy score is new and rests on general campaign language about domestic production and deregulation."
+ },
+ {
+  "id": "MN-5/ilhan-omar",
+  "name": "Ilhan Omar",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MN-5",
+  "bio": "Ilhan Omar has represented Minnesota's 5th District in the U.S. House since 2019 and is a deputy chair of the Congressional Progressive Caucus. Born in Mogadishu, Somalia, she came to the United States as a refugee in 1995 and graduated from North Dakota State University. She served in the Minnesota House of Representatives from 2017 to 2019.",
+  "website": "https://ilhanomar.com/",
+  "social": {
+   "x": "https://x.com/Ilhan",
+   "instagram": "https://www.instagram.com/ilhanmn/",
+   "facebook": "https://www.facebook.com/IlhanMN"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports a single-payer Medicare for All system covering every American.", "source": "https://omar.house.gov/issues"},
+   {"topic": "Workers", "point": "Wants a higher minimum wage and national paid family and sick leave.", "source": "https://omar.house.gov/issues"},
+   {"topic": "Education", "point": "Backs tuition-free college and cancelling student loan debt.", "source": "https://omar.house.gov/issues"},
+   {"topic": "Climate", "point": "Seeks a transition to a fully clean energy economy with strong environmental protections.", "source": "https://omar.house.gov/issues"},
+   {"topic": "Immigration", "point": "Supports legal status for undocumented immigrants and stronger refugee resettlement programs.", "source": "https://omar.house.gov/issues"},
+   {"topic": "Foreign policy", "point": "Favors diplomacy centered on human rights and bringing U.S. troops home.", "source": "https://omar.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 90, "evidence": "Introduced a 2023 bill to raise the federal minimum wage to $17 by 2028.", "source": "https://en.wikipedia.org/wiki/Ilhan_Omar"},
+   "welfare": {"score": 95, "evidence": "Supports the Medicare for All single-payer system and national paid leave.", "source": "https://omar.house.gov/issues"},
+   "liberty": {"score": 10, "evidence": "Supports abortion rights and co-sponsored conversion therapy bans (abortion, LGBTQ).", "source": "https://en.wikipedia.org/wiki/Ilhan_Omar"},
+   "security": {"score": 10, "evidence": "Supported dismantling the Minneapolis Police Department after George Floyd's murder.", "source": "https://en.wikipedia.org/wiki/Ilhan_Omar"},
+   "immigration": {"score": 5, "evidence": "Advocates abolishing ICE and legal status for undocumented immigrants.", "source": "https://en.wikipedia.org/wiki/Ilhan_Omar"},
+   "foreign": {"score": 25, "evidence": "Opposes U.S. interventionism and wants reduced military spending and fewer overseas bases.", "source": "https://en.wikipedia.org/wiki/Ilhan_Omar"},
+   "energy": {"score": 90, "evidence": "Calls for a transition to a 100% clean energy economy.", "source": "https://omar.house.gov/issues"},
+   "tech": {"score": 50, "evidence": "Opposed banning TikTok, citing First Amendment concerns.", "source": "https://en.wikipedia.org/wiki/Ilhan_Omar"},
+   "education": {"score": 85, "evidence": "Supports tuition-free public college and student loan forgiveness.", "source": "https://omar.house.gov/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://ilhanomar.com/wp-content/uploads/2021/11/ilhan_home_cutout.png",
+  "notes": ""
+ },
+ {
+  "id": "MN-5/john-nagel",
+  "name": "John Nagel",
+  "party": "Republican",
+  "current_role": "Retired Minnesota State Patrol lieutenant",
+  "bio": "John Nagel is from St. Louis Park, Minnesota, and served 30 years with the Minnesota State Patrol, retiring as a lieutenant in 2011. He holds a criminal justice degree from the University of St. Thomas. After retiring he worked as a defensive driving instructor, college lecturer and security staffer, and as a DNR youth firearm instructor.",
+  "website": "https://nagelforcongress.com/",
+  "social": {
+   "x": "https://x.com/Nagel4Congress",
+   "instagram": "https://www.instagram.com/nagelforcongress/",
+   "facebook": "https://www.facebook.com/NagelForCongress/"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Cut federal spending and taxes and root out fraud and waste to fight inflation.", "source": "https://nagelforcongress.com/"},
+   {"topic": "Public safety", "point": "Fund police, keep violent offenders incarcerated and strengthen school safety.", "source": "https://nagelforcongress.com/"},
+   {"topic": "Immigration", "point": "Secure the southern border while speeding up legal immigration processing.", "source": "https://nagelforcongress.com/"},
+   {"topic": "Education", "point": "Refocus schools on reading, math and science.", "source": "https://nagelforcongress.com/"},
+   {"topic": "Energy", "point": "Pursue American energy independence.", "source": "https://nagelforcongress.com/"},
+   {"topic": "Antisemitism", "point": "Oppose antisemitism and political extremism.", "source": "https://nagelforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for cutting government spending and taxes.", "source": "https://nagelforcongress.com/"},
+   "welfare": null,
+   "liberty": {"score": 25, "evidence": "Pledges to defend Second Amendment and free speech rights (guns, speech).", "source": "https://nagelforcongress.com/"},
+   "security": {"score": 70, "evidence": "Supports police funding, empowering law enforcement and keeping violent criminals in prison.", "source": "https://nagelforcongress.com/"},
+   "immigration": {"score": 70, "evidence": "Prioritizes securing the southern border, while also backing faster legal immigration processing.", "source": "https://nagelforcongress.com/"},
+   "foreign": {"score": 75, "evidence": "Campaign materials call for strong U.S. leadership alongside allies.", "source": "https://nagelforcongress.com/"},
+   "energy": {"score": 15, "evidence": "Emphasizes American energy independence and less reliance on foreign energy.", "source": "https://nagelforcongress.com/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MN-6/tom-emmer",
+  "name": "Tom Emmer",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MN-6 and House Majority Whip",
+  "bio": "Tom Emmer has represented Minnesota's 6th District since 2015 and has served as House Majority Whip since 2023, after chairing the National Republican Congressional Committee from 2019 to 2023. An attorney, he served in the Minnesota House from 2005 to 2011. He was the Republican nominee for governor of Minnesota in 2010.",
+  "website": "https://emmerforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepTomEmmer",
+   "instagram": "https://www.instagram.com/reptomemmer",
+   "facebook": "https://www.facebook.com/reptomemmer",
+   "youtube": "https://www.youtube.com/user/RepTomEmmer"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Address rising costs and restore American energy independence.", "source": "https://emmerforcongress.com/"},
+   {"topic": "Border security", "point": "Helped lead House passage of the H.R. 2 border security bill.", "source": "https://emmerforcongress.com/"},
+   {"topic": "Elections", "point": "Require proof of citizenship to vote.", "source": "https://emmerforcongress.com/"},
+   {"topic": "Education", "point": "Expand school choice and parents' control over education decisions.", "source": "https://emmerforcongress.com/"},
+   {"topic": "Crypto", "point": "Promote open, permissionless and private digital-asset innovation through the Congressional Crypto Caucus.", "source": "https://emmer.house.gov/issues"},
+   {"topic": "Law enforcement", "point": "Support police officers, including funding for department mental health programs.", "source": "https://emmerforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Sought to eliminate Minnesota's minimum wage law as a state legislator and prioritizes cutting regulatory costs.", "source": "https://en.wikipedia.org/wiki/Tom_Emmer"},
+   "welfare": {"score": 10, "evidence": "Voted for the 2017 ACA repeal bill and the 2025 One Big Beautiful Bill Act with its Medicaid changes.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "liberty": {"score": 75, "evidence": "A+ rating from SBA Pro-Life America, opposed LGBTQ anti-bullying law but voted for the Respect for Marriage Act, strong gun-rights advocate (abortion, LGBTQ, guns).", "source": "https://en.wikipedia.org/wiki/Tom_Emmer"},
+   "security": {"score": 65, "evidence": "Campaigns on backing police and expanding support for law enforcement agencies.", "source": "https://emmer.house.gov/issues"},
+   "immigration": {"score": 85, "evidence": "Supported the 2017 travel ban and helped pass the H.R. 2 border bill.", "source": "https://emmerforcongress.com/"},
+   "foreign": {"score": 65, "evidence": "Voted for a resolution supporting Israel after the October 2023 Hamas attack.", "source": "https://en.wikipedia.org/wiki/Tom_Emmer"},
+   "energy": {"score": 10, "evidence": "Co-sponsored a resolution supporting domestic oil and gas drilling; 5% lifetime LCV score.", "source": "https://en.wikipedia.org/wiki/Tom_Emmer"},
+   "tech": {"score": 10, "evidence": "Leading congressional advocate for cryptocurrency and opponent of SEC crypto enforcement under Gary Gensler.", "source": "https://en.wikipedia.org/wiki/Tom_Emmer"},
+   "education": {"score": 20, "evidence": "Campaigns on school choice and parental control of education.", "source": "https://emmerforcongress.com/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Liberty lowered from 80 to 75 to reflect his 2022 vote for the Respect for Marriage Act. Security score is new and based on his stated law-enforcement support."
+ },
+ {
+  "id": "MN-6/doug-chapin",
+  "name": "Doug Chapin",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Doug Chapin is the Democratic nominee for Minnesota's 6th Congressional District. His campaign focuses on health care, taxes on high earners and reproductive rights.",
+  "website": "https://chapinforcongress.com/",
+  "social": {
+   "x": "https://x.com/ChapinForMN6",
+   "instagram": "https://www.instagram.com/dougchapinforcongress",
+   "facebook": "https://www.facebook.com/ChapinforCongress"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Repeal tax cuts for billionaires so working families keep more of their earnings.", "source": "https://chapinforcongress.com/issues"},
+   {"topic": "Health care", "point": "Move away from for-profit insurance toward Medicare for All or a public option.", "source": "https://chapinforcongress.com/issues"},
+   {"topic": "Social Security", "point": "Lift the income cap on Social Security payroll taxes.", "source": "https://chapinforcongress.com/issues"},
+   {"topic": "Reproductive rights", "point": "Protect full reproductive rights as decisions for patients and doctors.", "source": "https://chapinforcongress.com/issues"},
+   {"topic": "Immigration", "point": "Create clear citizenship pathways and reduce bureaucratic barriers.", "source": "https://chapinforcongress.com/issues"},
+   {"topic": "Climate", "point": "Rejoin the Paris Accords and speed the move away from fossil fuels.", "source": "https://chapinforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Wants to repeal tax cuts for the wealthy and lift the Social Security tax cap.", "source": "https://chapinforcongress.com/issues"},
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All or a public option and opposes Medicare and Medicaid cuts.", "source": "https://chapinforcongress.com/issues"},
+   "liberty": {"score": 15, "evidence": "Supports full reproductive rights and LGBTQ marriage rights, and opposes assault-style weapons (abortion, LGBTQ, guns).", "source": "https://chapinforcongress.com/issues"},
+   "security": null,
+   "immigration": {"score": 10, "evidence": "Backs streamlined citizenship pathways and favors withholding ICE funding with the aim of dismantling the agency.", "source": "https://chapinforcongress.com/issues"},
+   "foreign": {"score": 35, "evidence": "Supports withholding U.S. aid to Israel over its military actions in Gaza.", "source": "https://chapinforcongress.com/issues"},
+   "energy": {"score": 80, "evidence": "Supports rejoining the Paris Accords and a transition from fossil fuels.", "source": "https://chapinforcongress.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No biographical details on career or hometown were found."
+ },
+ {
+  "id": "MN-7/michelle-fischbach",
+  "name": "Michelle Fischbach",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MN-7",
+  "bio": "Michelle Fischbach has represented Minnesota's 7th District in the U.S. House since 2021. She served in the Minnesota Senate from 1996 to 2018, including as its first woman president, and was lieutenant governor from 2018 to 2019. She earlier served on the Paynesville City Council and holds a law degree from William Mitchell College of Law.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepFischbach",
+   "instagram": "https://www.instagram.com/repfischbach",
+   "facebook": "https://www.facebook.com/repfischbach",
+   "youtube": "https://www.youtube.com/channel/UCAxs5zhFdAkGbkRnuC3osDw"
+  },
+  "platform": [
+   {"topic": "Abortion", "point": "Co-chairs the Congressional Pro-Life Caucus and has repeatedly introduced bills limiting abortion access.", "source": "https://en.wikipedia.org/wiki/Michelle_Fischbach"},
+   {"topic": "Taxes", "point": "Make the 2017 tax cuts permanent and reduce taxes and red tape for businesses.", "source": "https://en.wikipedia.org/wiki/Michelle_Fischbach"},
+   {"topic": "Agriculture", "point": "Protect farmers' access to crop-protection tools under EPA rules.", "source": "https://fischbach.house.gov/"},
+   {"topic": "Seniors", "point": "Introduced the Hardworking Seniors Act.", "source": "https://fischbach.house.gov/"},
+   {"topic": "Border", "point": "Supports border wall construction and ICE enforcement.", "source": "https://www.ontheissues.org/House/Michelle_Fischbach.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Pledged to make the 2017 tax cuts permanent and opposes higher taxes on the wealthy.", "source": "https://www.ontheissues.org/House/Michelle_Fischbach.htm"},
+   "welfare": {"score": 20, "evidence": "Opposes expanding the ACA and voted for the 2025 One Big Beautiful Bill Act with its Medicaid changes.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "liberty": {"score": 60, "evidence": "Has repeatedly introduced anti-abortion bills and strongly supports gun rights (abortion, guns).", "source": "https://en.wikipedia.org/wiki/Michelle_Fischbach"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Supports a border wall and ICE and opposes citizenship pathways and sanctuary cities.", "source": "https://www.ontheissues.org/House/Michelle_Fischbach.htm"},
+   "foreign": {"score": 65, "evidence": "Voted to support Israel after the October 2023 Hamas attack.", "source": "https://en.wikipedia.org/wiki/Michelle_Fischbach"},
+   "energy": {"score": 35, "evidence": "Opposes cap-and-trade and coal plant restrictions while backing some renewable expansion.", "source": "https://www.ontheissues.org/House/Michelle_Fischbach.htm"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Favors local control of education over federal oversight and opposes free college.", "source": "https://www.ontheissues.org/House/Michelle_Fischbach.htm"},
+   "faith": {"score": 80, "evidence": "Emphasizes protecting religious liberty and Judeo-Christian values in public life.", "source": "https://www.ontheissues.org/House/Michelle_Fischbach.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website could be confirmed. Several new scores rely on OnTheIssues summaries, many drawn from her state legislative record."
+ },
+ {
+  "id": "MN-7/erik-osberg",
+  "name": "Erik Osberg",
+  "party": "Democratic",
+  "current_role": "Small-business owner",
+  "bio": "Erik Osberg is a small-business owner running as the Democratic nominee in Minnesota's 7th District. His career has included work in finance, the public sector, media and the trades. He presents himself as a rural candidate focused on western Minnesota.",
+  "website": "https://www.erikosberg4congress.com/",
+  "social": {
+   "x": "https://www.x.com/ErikOsbergMN",
+   "instagram": "https://www.instagram.com/ErikOsbergMN",
+   "facebook": "https://www.facebook.com/ErikOsbergForCongress/",
+   "tiktok": "https://www.tiktok.com/@erikosbergmn",
+   "youtube": "https://www.youtube.com/@ErikOsbergForCongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Restore ACA subsidies, lower drug prices and move Medicare eligibility toward age 55.", "source": "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/"},
+   {"topic": "Money in politics", "point": "Overturn Citizens United by amendment, ban congressional stock trading and end dark money.", "source": "https://www.erikosberg4congress.com/"},
+   {"topic": "Gun safety", "point": "Support background checks, waiting periods and red-flag laws with due process while protecting lawful owners.", "source": "https://www.erikosberg4congress.com/priorities/firearms-gun-safety/"},
+   {"topic": "Education", "point": "Protect and expand federal support for public schools, students and teachers.", "source": "https://www.erikosberg4congress.com/priorities/strengthening-public-education/"},
+   {"topic": "Rural mental health", "point": "Expand rural mental health providers, telehealth and addiction treatment.", "source": "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/"},
+   {"topic": "Environment", "point": "Invest in wind and solar and enforce environmental protections.", "source": "https://www.erikosberg4congress.com/priorities/environmental-stewardship/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 75, "evidence": "Aims for universal coverage, open to single-payer or a public option, and would lower the Medicare age toward 55.", "source": "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/"},
+   "liberty": {"score": 30, "evidence": "Supports reproductive rights and backs background checks and red-flag laws while defending gun ownership (abortion, guns).", "source": "https://www.erikosberg4congress.com/priorities/firearms-gun-safety/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Supports wind and solar investment and EPA enforcement.", "source": "https://www.erikosberg4congress.com/priorities/environmental-stewardship/"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Calls for more federal funding for public schools.", "source": "https://www.erikosberg4congress.com/priorities/strengthening-public-education/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MN-8/pete-stauber",
+  "name": "Pete Stauber",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MN-8",
+  "bio": "Pete Stauber has represented Minnesota's 8th District in the U.S. House since 2019. A Duluth native, he served 23 years with the Duluth Police Department, retiring as a lieutenant, and was a St. Louis County commissioner from 2013 to 2019. He earlier played minor-league professional hockey.",
+  "website": "https://petestauberforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepPeteStauber",
+   "instagram": "https://www.instagram.com/petestaubermn",
+   "facebook": "https://www.facebook.com/RepPeteStauber",
+   "youtube": "https://www.youtube.com/channel/UC6ODVByRYt9Ect2Rk8_6lEw"
+  },
+  "platform": [
+   {"topic": "Mining", "point": "Overturn the mineral withdrawal in the Superior National Forest and speed mining reviews.", "source": "https://stauber.house.gov/issues/energy"},
+   {"topic": "Energy", "point": "Expand domestic oil and gas production and reduce environmental regulations.", "source": "https://stauber.house.gov/issues/energy"},
+   {"topic": "Elections", "point": "Supports the SAVE Act requiring proof of citizenship to register to vote.", "source": "https://petestauberforcongress.com/"},
+   {"topic": "Wildlife", "point": "Remove the gray wolf from the endangered species list.", "source": "https://petestauberforcongress.com/"},
+   {"topic": "Northern border", "point": "Press DHS to address illegal crossings at the U.S.-Canada border.", "source": "https://stauber.house.gov/issues/homeland-security"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Supports making federal income tax cuts permanent and a balanced budget amendment.", "source": "https://www.ontheissues.org/House/Pete_Stauber.htm"},
+   "welfare": {"score": 20, "evidence": "Opposes expanding the ACA and voted for the 2025 One Big Beautiful Bill Act with its Medicaid changes.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "liberty": {"score": 80, "evidence": "Holds that life begins at conception, backs defunding Planned Parenthood, and strongly defends gun rights (abortion, guns).", "source": "https://www.ontheissues.org/House/Pete_Stauber.htm"},
+   "security": null,
+   "immigration": {"score": 60, "evidence": "Supports border walls in some areas and northern border enforcement, while favoring higher visa caps.", "source": "https://www.ontheissues.org/House/Pete_Stauber.htm"},
+   "foreign": null,
+   "energy": {"score": 10, "evidence": "Authored the House-passed bill ending the Boundary Waters-area mineral withdrawal and opposes offshore drilling bans.", "source": "https://stauber.house.gov/issues/energy"},
+   "tech": {"score": 30, "evidence": "Voted against net neutrality rules.", "source": "https://www.ontheissues.org/House/Pete_Stauber.htm"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MN-8/trina-swanson",
+  "name": "Trina Swanson",
+  "party": "Democratic",
+  "current_role": "U.S. Citizenship and Immigration Services employee",
+  "bio": "Trina Swanson has worked for about two decades at U.S. Citizenship and Immigration Services within the Department of Homeland Security, including on anti-trafficking efforts. She is the Democratic nominee for Minnesota's 8th District, with her campaign based in Duluth.",
+  "website": "https://www.trinaforcongress.com/",
+  "social": {
+   "x": "https://x.com/TrinaCongress",
+   "instagram": "https://www.instagram.com/trinaforcongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Pursue universal, affordable health care, keep local services open and lower prescription costs.", "source": "https://www.trinaforcongress.com/priorities/"},
+   {"topic": "Affordability", "point": "Enforce antitrust laws against corporate price-setting and support livable wages and unions.", "source": "https://www.trinaforcongress.com/priorities/"},
+   {"topic": "Mining", "point": "Allow copper-nickel mining only when independent scientists find it environmentally safe.", "source": "https://www.trinaforcongress.com/priorities/"},
+   {"topic": "Boundary Waters", "point": "Oppose mining proposals that threaten the Boundary Waters and its tourism economy.", "source": "https://www.trinaforcongress.com/priorities/"},
+   {"topic": "Immigration", "point": "Pair border security with permanent status for Dreamers and more agricultural and skilled-worker visas.", "source": "https://www.trinaforcongress.com/priorities/"},
+   {"topic": "Tribal nations", "point": "Provide stable federal funding for Indian Country and address missing and murdered Indigenous women.", "source": "https://www.trinaforcongress.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Calls for antitrust enforcement on corporate pricing and industrial investment in clean energy manufacturing.", "source": "https://www.trinaforcongress.com/priorities/"},
+   "welfare": {"score": 85, "evidence": "Supports universal health care independent of employment.", "source": "https://www.trinaforcongress.com/priorities/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Backs secure borders with permanent status for Dreamers and expanded visa programs.", "source": "https://www.trinaforcongress.com/priorities/"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Supports clean energy investment and protecting the Boundary Waters from mining risk.", "source": "https://www.trinaforcongress.com/priorities/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MS-1/trent-kelly",
+  "name": "Trent Kelly",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MS-1",
+  "bio": "Trent Kelly has represented Mississippi's 1st District in the U.S. House since 2015 and sits on the Armed Services, Intelligence and Agriculture committees. A lawyer from Union, Mississippi, he was a Tupelo city prosecutor and district attorney for the 1st Judicial District from 2012 to 2015. He served in the Mississippi Army National Guard from 1985 to 2025, retiring as a major general.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepTrentKelly",
+   "instagram": "https://www.instagram.com/reptrentkelly",
+   "facebook": "https://www.facebook.com/reptrentkelly"
+  },
+  "platform": [
+   {"topic": "National defense", "point": "Treats keeping the country safe as the federal government's primary job.", "source": "https://trentkelly.house.gov/issues"},
+   {"topic": "Second Amendment", "point": "Opposes new restrictions on lawful gun owners.", "source": "https://trentkelly.house.gov/issues"},
+   {"topic": "Economy", "point": "Reduce federal regulatory burdens on employers to spur job growth.", "source": "https://trentkelly.house.gov/issues"},
+   {"topic": "Energy", "point": "Pursue an all-of-the-above energy strategy without federal preference for particular sources.", "source": "https://trentkelly.house.gov/issues"},
+   {"topic": "Agriculture", "point": "Advance farm and rural development policy through the Agriculture Committee.", "source": "https://trentkelly.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Seeks to reduce federal regulation and costs on businesses.", "source": "https://trentkelly.house.gov/issues"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 One Big Beautiful Bill Act with its Medicaid changes and favors less federal role in health care.", "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"},
+   "liberty": {"score": 60, "evidence": "Lists protecting life as a priority and says Second Amendment rights are not up for debate (abortion, guns).", "source": "https://trentkelly.house.gov/issues"},
+   "security": null,
+   "immigration": {"score": 65, "evidence": "Record rated as favoring stricter border enforcement.", "source": "https://www.ontheissues.org/House/Trent_Kelly.htm"},
+   "foreign": {"score": 50, "evidence": "Senior Armed Services member with a defense focus, but voted against the 2024 Ukraine military aid package.", "source": "https://en.wikipedia.org/wiki/Trent_Kelly"},
+   "energy": {"score": 20, "evidence": "Supports an all-of-the-above strategy without federal preference for clean sources.", "source": "https://trentkelly.house.gov/issues"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Record rated as supporting school vouchers.", "source": "https://www.ontheissues.org/House/Trent_Kelly.htm"},
+   "faith": {"score": 75, "evidence": "Record rated as supporting a role for faith in public life.", "source": "https://www.ontheissues.org/House/Trent_Kelly.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was found; trentkelly.com is a parked domain. Immigration, education and faith scores rest on earlier OnTheIssues research not re-checked this pass."
+ },
+ {
+  "id": "MS-1/cliff-johnson",
+  "name": "Cliff Johnson",
+  "party": "Democratic",
+  "current_role": "Director of the MacArthur Justice Center at the University of Mississippi School of Law",
+  "bio": "Cliff Johnson is a civil rights attorney who directs the MacArthur Justice Center at the University of Mississippi School of Law. He was an assistant U.S. attorney prosecuting health care fraud and later practiced at Mississippi law firms. A fifth-generation Mississippian from Lafayette County, he graduated from Mississippi College and Columbia Law School.",
+  "website": "https://www.cliffjohnsonforcongress.com/",
+  "social": {
+   "x": "https://x.com/cliffjohnsonms",
+   "instagram": "https://www.instagram.com/cliffjohnsonforcongress/",
+   "facebook": "https://www.facebook.com/cliffjohnsonforcongress/"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Fight inflation and rising costs for Mississippi families.", "source": "https://www.cliffjohnsonforcongress.com/"},
+   {"topic": "Health care", "point": "Protect and expand affordable health care and oppose cuts that hit low-income residents.", "source": "https://www.cliffjohnsonforcongress.com/"},
+   {"topic": "Infrastructure and schools", "point": "Bring federal funding to North Mississippi infrastructure and schools.", "source": "https://www.cliffjohnsonforcongress.com/"},
+   {"topic": "Corruption and voting", "point": "Fight political corruption and protect voting rights.", "source": "https://www.cliffjohnsonforcongress.com/"},
+   {"topic": "Criminal justice", "point": "Increase funding for substance abuse treatment and reentry programs.", "source": "https://www.mississippifreepress.org/democrat-cliff-johnson-vows-to-fight-for-vulnerable-mississippians-in-run-for-congress-against-trent-kelly/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Opposes health care cuts used to pay for tax cuts for the wealthy.", "source": "https://www.mississippifreepress.org/democrat-cliff-johnson-vows-to-fight-for-vulnerable-mississippians-in-run-for-congress-against-trent-kelly/"},
+   "welfare": {"score": 75, "evidence": "Pledges to protect and expand affordable health care and opposes Medicaid cuts.", "source": "https://www.cliffjohnsonforcongress.com/"},
+   "liberty": null,
+   "security": {"score": 30, "evidence": "Has worked to end debtors' prisons and jailing without counsel, and backs reentry programs.", "source": "https://www.mississippifreepress.org/democrat-cliff-johnson-vows-to-fight-for-vulnerable-mississippians-in-run-for-congress-against-trent-kelly/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68c31bac7239086eb77e4ef5/88a45c67-6ed3-4ceb-902f-28d12398db23/Updated+Cliff+Web+Photo.jpeg",
+  "notes": ""
+ }
+]

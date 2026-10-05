@@ -1,0 +1,448 @@
+[
+  {
+    "state": "Massachusetts",
+    "district": "MA-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Richard Neal",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 55,
+          "liberty": 35,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes tax cuts for the wealthy and tariffs; backed ACA but opposed Medicare for All; mixed abortion record, opposed Federal Marriage Amendment.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Richard_Neal",
+          "https://www.nealforcongress.com/"
+        ],
+        "photo": {
+          "file": "File:Richard Neal portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives, Office of the Clerk"
+        }
+      },
+      {
+        "name": "Nadia Milleron",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 10,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs Healthcare for All without insurers, rent caps, closing corporate loopholes, federal manufacturing zone; opposes funding foreign wars.",
+        "sources": [
+          "https://nadiaforcongress.com/fight/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "district": "MA-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jim McGovern",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 95,
+          "liberty": 15,
+          "security": null,
+          "immigration": 20,
+          "foreign": 35,
+          "energy": null,
+          "tech": 35,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports Medicare for All and higher taxes on top earners; pro-choice, pro-LGBTQ votes; opposed Secure Fence Act, Iraq War, TikTok ban.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"
+        ],
+        "photo": {
+          "file": "File:Jim McGovern, official portrait, 116th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography/House Creative Services"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "district": "MA-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Lori Trahan",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 70,
+          "liberty": 20,
+          "security": null,
+          "immigration": 20,
+          "foreign": null,
+          "energy": 90,
+          "tech": 85,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Healthcare as a right and ACA expansion; pathway to citizenship, no wall; Green New Deal cosponsor; FRONTIER AI safety act; reproductive and trans rights (liberty).",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Lori_Trahan",
+          "https://loritrahan.com/immigration/",
+          "https://loritrahan.com/healthcare/"
+        ],
+        "photo": {
+          "file": "File:Lori Trahan, official portrait, 116th Congress (cropped 2).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Gary Grossi",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 35,
+          "welfare": null,
+          "liberty": 25,
+          "security": 60,
+          "immigration": null,
+          "foreign": null,
+          "energy": 35,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Cut waste and housing regulations; Second Amendment and free speech drive liberty score; supports law enforcement; prioritizes immediate energy affordability.",
+        "sources": [
+          "https://www.votegarygrossi.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "district": "MA-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jake Auchincloss",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 35,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": 25,
+          "foreign": 75,
+          "energy": null,
+          "tech": 85,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Balanced budgets, free trade, opposed drug price controls; LGBTQ caucus; sanctuary ordinances, criticizes ICE; Ukraine caucus, pro-Israel; social media age 16, TikTok divestiture.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jake_Auchincloss",
+          "https://www.jakeforma.com/"
+        ],
+        "photo": {
+          "file": "File:Jake Auchincloss portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives, Office of the Clerk"
+        }
+      },
+      {
+        "name": "Tom Stalcup",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 45,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 45,
+          "energy": 60,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Cut spending, tax relief under $250k, broad drug price negotiation; war only as last resort with strong defense; calls climate change real.",
+        "sources": [
+          "https://tomstalcup.com/tax-reform/",
+          "https://tomstalcup.com/foreign-policy/",
+          "https://tomstalcup.com/environment/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "district": "MA-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Katherine Clark",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 80,
+          "liberty": 30,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 70,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Childcare as infrastructure, living wage, paid leave; abortion access plus assault weapons ban (liberty); cracking down on ICE; public school and Head Start funding.",
+        "sources": [
+          "https://katherineclark.org/priorities/",
+          "https://katherineclark.org/",
+          "https://en.wikipedia.org/wiki/Katherine_Clark"
+        ],
+        "photo": {
+          "file": "File:Katherine Clark, official portrait, 118th Congress (tight crop).jpg",
+          "license": "Public domain",
+          "author": "US House Creative Services"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "district": "MA-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Dan Koh",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 90,
+          "liberty": 25,
+          "security": null,
+          "immigration": 10,
+          "foreign": null,
+          "energy": 75,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Medicare for All with default enrollment; abortion and LGBTQ rights plus gun safety (liberty); abolish ICE; climate as existential threat; strong public schools; pro-union.",
+        "sources": [
+          "https://www.kohforcongress.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Micah Jones",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 45,
+          "welfare": null,
+          "liberty": null,
+          "security": 60,
+          "immigration": 55,
+          "foreign": 40,
+          "energy": 45,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Permitting reform, SALT and childcare deductions; more border enforcement with faster legal immigration; LNG and nuclear expansion; AI safety standards; war powers oversight.",
+        "sources": [
+          "https://micahqjones.com/security-plan/",
+          "https://micahqjones.com/opportunity-plan/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "district": "MA-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ayanna Pressley",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 10,
+          "security": 10,
+          "immigration": 5,
+          "foreign": 35,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Medicare for All, jobs guarantee; cannabis legalization, abortion and trans rights; ending qualified immunity; New Way Forward Act; opposed Iron Dome funding.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ayanna_Pressley",
+          "https://ayannapressley.com/"
+        ],
+        "photo": {
+          "file": "File:Rep. Ayanna Pressley, 117th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "district": "MA-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Stephen Lynch",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 45,
+          "liberty": 45,
+          "security": null,
+          "immigration": null,
+          "foreign": 80,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pro-labor, opposed fast-track; voted against ACA but defends Medicaid; universal background checks, red flag laws, now backs abortion rights; voted for Iraq War.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Stephen_F._Lynch",
+          "https://www.stephenflynch.com/common-sense-gun-laws"
+        ],
+        "photo": {
+          "file": "File:Stephen Lynch 2019 (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Robert Burke",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 10,
+          "liberty": null,
+          "security": 70,
+          "immigration": 95,
+          "foreign": 15,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Tax cuts, individually bought catastrophic insurance, law and order, complete immigration pause, opposes global giveaways.",
+        "sources": [
+          "https://burke4congress.us/priorities",
+          "https://burke4congress.us/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "district": "MA-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Bill Keating",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": 80,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 60
+        },
+        "basis": "Pro-choice and pro-LGBTQ votes, stricter gun rules (liberty); Ukraine Caucus and Europe subcommittee leader; cosponsored ACA religious exemption bill.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+        ],
+        "photo": {
+          "file": "File:Bill Keating portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives, Office of the Clerk"
+        }
+      },
+      {
+        "name": "Tyler MacAllister",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": 60,
+          "immigration": null,
+          "foreign": null,
+          "energy": 35,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports local law enforcement; raises environmental concerns about offshore wind such as Vineyard Wind; focuses on fishing industry and costs.",
+        "sources": [
+          "https://www.macallister4congress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

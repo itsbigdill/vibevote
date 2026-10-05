@@ -1,0 +1,421 @@
+[
+ {
+  "id": "TX-12/craig-goldman",
+  "name": "Craig Goldman",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-12",
+  "bio": "Craig Goldman has represented Texas's 12th congressional district since January 2025, succeeding Kay Granger, and sits on the Energy and Commerce Committee. He served in the Texas House of Representatives for District 97 from 2013 to 2025, including a term as House Majority Leader. A Fort Worth native and University of Texas at Austin graduate, he worked in real estate before holding office.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepCraigGoldman",
+   "instagram": "https://www.instagram.com/repcraiggoldman",
+   "facebook": "https://www.facebook.com/61571449239416"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Promotes the 2025 tax law he backed, including ending federal taxes on tips and overtime and keeping lower income tax rates.", "source": "https://craiggoldman.house.gov/issues/onebigbeautifulbill"},
+   {"topic": "Border security", "point": "Supports roughly $150 billion for border security, deportations and thousands of additional enforcement officers.", "source": "https://craiggoldman.house.gov/issues/onebigbeautifulbill"},
+   {"topic": "Energy", "point": "Backs restoring onshore oil and gas lease sales to raise domestic energy production.", "source": "https://craiggoldman.house.gov/issues/onebigbeautifulbill"},
+   {"topic": "Government spending", "point": "Highlights efforts to identify and cut wasteful federal spending.", "source": "https://craiggoldman.house.gov/"},
+   {"topic": "Trade and regulation", "point": "Co-authored the Stop EU Overreach Act to counter European corporate sustainability rules affecting U.S. businesses.", "source": "https://craiggoldman.house.gov/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Supports the 2025 tax-cut law, including no tax on tips or overtime and preventing scheduled tax increases.", "source": "https://craiggoldman.house.gov/issues/onebigbeautifulbill"},
+   "welfare": {"score": 25, "evidence": "Supports Medicaid work requirements for able-bodied adults while saying funding for seniors, children and the disabled is protected.", "source": "https://craiggoldman.house.gov/issues/onebigbeautifulbill"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Backs about $150 billion for border security and deportations and funding for 18,000 enforcement officers.", "source": "https://craiggoldman.house.gov/issues/onebigbeautifulbill"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Supports restoring onshore oil and gas leasing and co-authored a bill countering EU corporate sustainability regulations.", "source": "https://craiggoldman.house.gov/issues/onebigbeautifulbill"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was confirmed. Welfare and energy scores are new, based on his official statements about the 2025 tax and spending law."
+ },
+ {
+  "id": "TX-12/angela-rodriguez-prilliman",
+  "name": "Angela Rodriguez Prilliman",
+  "party": "Democratic",
+  "current_role": "Technology entrepreneur and educator",
+  "bio": "Angela \"Heli\" Rodriguez Prilliman is the Democratic nominee for Texas's 12th congressional district and lives in Fort Worth. She grew up in Stephenville and graduated from Texas A&M University. She has more than ten years of experience in the technology sector as an entrepreneur and educator.",
+  "website": "https://www.helifortexas.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/helifortexas"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Calls for universal health care coverage.", "source": "https://www.helifortexas.com/"},
+   {"topic": "Child care", "point": "Supports universal access to child care.", "source": "https://www.helifortexas.com/"},
+   {"topic": "Education", "point": "Pledges to fully fund public schools.", "source": "https://www.helifortexas.com/"},
+   {"topic": "Voting rights", "point": "Says she will work to protect voting rights.", "source": "https://www.helifortexas.com/"},
+   {"topic": "Campaign finance", "point": "Wants to reduce the influence of billionaire money in politics.", "source": "https://www.helifortexas.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 100, "evidence": "Campaigns for universal health care and universal child care.", "source": "https://www.helifortexas.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 90, "evidence": "Pledges to fully fund public schools.", "source": "https://www.helifortexas.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/618da2bf3c685a0c65a42914/b96bb98d-9b66-46e2-ab00-de1ff426ec09/12.20.2023_Heli-Website-Hero-Portrait.png",
+  "notes": "Campaigns under the nickname Heli."
+ },
+ {
+  "id": "TX-13/ronny-jackson",
+  "name": "Ronny Jackson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-13",
+  "bio": "Ronny Jackson has represented Texas's 13th congressional district, covering the Panhandle and parts of North Texas, since 2021. A physician and retired Navy rear admiral, he served as Physician to the President under Presidents Obama and Trump and later as Chief Medical Advisor to the President. He was born in Levelland, Texas, and sits on the Armed Services, Agriculture, Foreign Affairs and Intelligence committees.",
+  "website": "https://www.teamronny.com/",
+  "social": {
+   "x": "https://x.com/RonnyJacksonTX",
+   "instagram": "https://www.instagram.com/ronny.jacksontx",
+   "facebook": "https://www.facebook.com/RonnyJacksonTX"
+  },
+  "platform": [
+   {"topic": "National security", "point": "Campaigns on defending Texas and maintaining U.S. military strength.", "source": "https://www.teamronny.com/"},
+   {"topic": "Agriculture", "point": "Emphasizes support for Panhandle farmers and ranchers through his Agriculture Committee work.", "source": "https://www.teamronny.com/"},
+   {"topic": "Border", "point": "Supports building a border wall and stronger border enforcement.", "source": "https://www.ontheissues.org/TX/Ronny_Jackson.htm"},
+   {"topic": "COVID policy", "point": "Opposed COVID-era mask mandates, calling mask-wearing a personal choice.", "source": "https://en.wikipedia.org/wiki/Ronny_Jackson"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposed the American Rescue Plan and voted against the 2023 Fiscal Responsibility Act.", "source": "https://www.ontheissues.org/TX/Ronny_Jackson.htm"},
+   "welfare": {"score": 15, "evidence": "Opposes what he calls socialist health care and opposed the 2022 PACT Act benefits expansion.", "source": "https://www.ontheissues.org/TX/Ronny_Jackson.htm"},
+   "liberty": {"score": 70, "evidence": "LGBTQ: said in 2025 that transgender people should be institutionalized; separately calls mask-wearing a personal choice.", "source": "https://en.wikipedia.org/wiki/Ronny_Jackson"},
+   "security": {"score": 65, "evidence": "Strongly supports mandatory minimum sentences and voted to keep existing police accountability rules.", "source": "https://www.ontheissues.org/TX/Ronny_Jackson.htm"},
+   "immigration": {"score": 90, "evidence": "Supports building a border wall and strict border enforcement.", "source": "https://www.ontheissues.org/TX/Ronny_Jackson.htm"},
+   "foreign": {"score": 60, "evidence": "Strongly supports a strong military and applying the 2002 Iraq war authorization to ISIS.", "source": "https://www.ontheissues.org/TX/Ronny_Jackson.htm"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 35, "evidence": "Favors local and state control of K-12 education and strongly opposes free college.", "source": "https://www.ontheissues.org/TX/Ronny_Jackson.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Education, foreign and security evidence comes from survey and vote summaries compiled by OnTheIssues."
+ },
+ {
+  "id": "TX-13/mark-nair",
+  "name": "Mark Nair",
+  "party": "Democratic",
+  "current_role": "Educator and entrepreneur",
+  "bio": "Mark Nair is the Democratic nominee for Texas's 13th congressional district, running from Amarillo. He has taught at the high school and college levels and has started businesses. He does not take corporate PAC money for his campaign.",
+  "website": "https://www.marknair.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/marknairtx",
+   "facebook": "https://www.facebook.com/MarkNairforCD13",
+   "youtube": "https://www.youtube.com/@MarkNairForCongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All, transparent medical pricing and more funding for rural hospitals.", "source": "https://www.marknair.com/platform"},
+   {"topic": "Artificial intelligence", "point": "Wants antitrust enforcement against tech firms, disclosure of AI in major decisions, and a ban on government facial recognition.", "source": "https://www.marknair.com/platform"},
+   {"topic": "Immigration", "point": "Backs a path to citizenship, permanent DREAMer protections and ending for-profit detention centers.", "source": "https://www.marknair.com/platform"},
+   {"topic": "Housing", "point": "Proposes federal affordable-housing incentives, limits on corporate purchases of single-family homes and renter protections.", "source": "https://www.marknair.com/platform"},
+   {"topic": "Water", "point": "Proposes federal grants for desalination and a research program to replenish aquifers.", "source": "https://www.marknair.com/platform"},
+   {"topic": "Ethics", "point": "Supports a congressional stock-trading ban, campaign finance reform and term limits.", "source": "https://www.marknair.com/platform"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Proposes limiting corporate purchases of single-family homes, returning tariff power to Congress and breaking up corporate supply-chain monopolies.", "source": "https://www.marknair.com/platform"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All.", "source": "https://www.marknair.com/platform"},
+   "liberty": null,
+   "security": {"score": 20, "evidence": "Calls for banning government facial recognition and social media surveillance and regulating data brokers.", "source": "https://www.marknair.com/platform"},
+   "immigration": {"score": 20, "evidence": "Backs a path to citizenship, permanent DREAMer protections and ending for-profit detention.", "source": "https://www.marknair.com/platform"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 85, "evidence": "Wants antitrust action against tech corporations, AI decision disclosure rules and a federal consumer privacy law.", "source": "https://www.marknair.com/platform"},
+   "education": {"score": 80, "evidence": "Supports free community college, student debt relief and restored federal research funding.", "source": "https://www.marknair.com/platform"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6976be3c171eae1f3b2ebcaa/e72f63d4-5db7-4969-9835-70bdd503e7ba/DSC00332.JPG",
+  "notes": "Economy score is new, based on his housing, tariff and antitrust proposals."
+ },
+ {
+  "id": "TX-14/randy-weber",
+  "name": "Randy Weber",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-14",
+  "bio": "Randy Weber has represented Texas's 14th congressional district on the upper Gulf Coast since 2013. He previously served in the Texas House of Representatives from 2009 to 2013 and on the Pearland City Council. A Pearland native with a degree from the University of Houston-Clear Lake, he founded an air-conditioning business in 1981.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/TXRandy14",
+   "instagram": "https://www.instagram.com/TXRandy14",
+   "facebook": "https://www.facebook.com/TXRandy14",
+   "youtube": "https://www.youtube.com/TXRandy14"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Wants faster permits for liquefied natural gas export facilities to raise production and exports.", "source": "https://weber.house.gov/issues/issue/?IssueID=10177"},
+   {"topic": "Environment", "point": "Favors state-level environmental enforcement and EPA rules grounded in verifiable science.", "source": "https://weber.house.gov/issues/issue/?IssueID=10177"},
+   {"topic": "Immigration", "point": "Cosponsored 2025 legislation to end birthright citizenship for children of undocumented immigrants.", "source": "https://en.wikipedia.org/wiki/Randy_Weber"},
+   {"topic": "Marriage", "point": "Cosponsored proposed constitutional amendments defining marriage as between a man and a woman.", "source": "https://en.wikipedia.org/wiki/Randy_Weber"},
+   {"topic": "Taxes and health care", "point": "Supports a flat tax and repealing the Affordable Care Act.", "source": "https://www.ontheissues.org/TX/Randy_Weber.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Supports a flat tax.", "source": "https://www.ontheissues.org/TX/Randy_Weber.htm"},
+   "welfare": {"score": 10, "evidence": "Supports repealing the Affordable Care Act and work requirements for welfare.", "source": "https://www.ontheissues.org/TX/Randy_Weber.htm"},
+   "liberty": {"score": 75, "evidence": "Supports abortion restrictions (abortion) and cosponsored amendments to ban same-sex marriage (LGBTQ).", "source": "https://en.wikipedia.org/wiki/Randy_Weber"},
+   "security": {"score": 40, "evidence": "Sponsored a bill to end bulk data collection under the PATRIOT Act while backing stricter criminal punishment.", "source": "https://www.ontheissues.org/TX/Randy_Weber.htm"},
+   "immigration": {"score": 90, "evidence": "Cosponsored 2025 legislation to end birthright citizenship for children of undocumented immigrants.", "source": "https://en.wikipedia.org/wiki/Randy_Weber"},
+   "foreign": {"score": 65, "evidence": "Emphasizes energy exports to help allies and supports a strong national defense.", "source": "https://weber.house.gov/issues/issue/?IssueID=10177"},
+   "energy": {"score": 10, "evidence": "Supports expanding LNG exports and faster permits, and questions the value of U.S. emissions cuts.", "source": "https://weber.house.gov/issues/issue/?IssueID=10177"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supports school vouchers.", "source": "https://www.ontheissues.org/TX/Randy_Weber.htm"},
+   "faith": {"score": 80, "evidence": "Sponsored a bill protecting faith-based opposition to same-sex marriage.", "source": "https://www.ontheissues.org/TX/Randy_Weber.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was confirmed. Security score lowered from 50 to 40 and faith from 85 to 80 after checking his OnTheIssues record."
+ },
+ {
+  "id": "TX-14/thurman-bartie",
+  "name": "Thurman Bartie",
+  "party": "Democratic",
+  "current_role": "Former Mayor of Port Arthur",
+  "bio": "Thurman \"Bill\" Bartie is the Democratic nominee for Texas's 14th congressional district and a lifelong resident of Port Arthur. He is a former mayor of Port Arthur and was the first African American Justice of the Peace for Precinct 8. His career also includes education, ministry and community work.",
+  "website": "https://votebartie.org/",
+  "social": {
+   "instagram": "https://www.instagram.com/consider.bartie/",
+   "facebook": "https://www.facebook.com/profile.php?id=61587355267447"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Wants to strengthen and restore the Affordable Care Act so care is affordable and close to home.", "source": "https://votebartie.org/"},
+   {"topic": "Affordability", "point": "Proposes rolling back tariffs and increasing competition in health care and food processing.", "source": "https://votebartie.org/"},
+   {"topic": "Infrastructure", "point": "Prioritizes hurricane and flood protection for the Gulf Coast.", "source": "https://votebartie.org/"},
+   {"topic": "Education", "point": "Calls for investing in teachers and modernizing schools.", "source": "https://votebartie.org/"},
+   {"topic": "Immigration", "point": "Supports humane updates to an immigration system he says has not been reformed since 1990.", "source": "https://votebartie.org/"},
+   {"topic": "Public safety", "point": "Pairs support for law enforcement with mental health services and economic opportunity.", "source": "https://votebartie.org/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Proposes tariff rollbacks alongside more competition in health care and food processing, and fair pay for workers.", "source": "https://votebartie.org/"},
+   "welfare": {"score": 80, "evidence": "Supports strengthening and restoring the Affordable Care Act for broad access to affordable care.", "source": "https://votebartie.org/"},
+   "liberty": null,
+   "security": {"score": 50, "evidence": "Combines support for law enforcement with mental health and prevention approaches.", "source": "https://votebartie.org/"},
+   "immigration": {"score": 25, "evidence": "Calls for humane immigration reform.", "source": "https://votebartie.org/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 70, "evidence": "Prioritizes investment in teachers and modernized public schools.", "source": "https://votebartie.org/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Goes by Bill. The earlier note that he backs universal healthcare was not confirmed on the current site, which emphasizes restoring the ACA."
+ },
+ {
+  "id": "TX-15/monica-de-la-cruz",
+  "name": "Monica De La Cruz",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-15",
+  "bio": "Monica De La Cruz has represented Texas's 15th congressional district in the Rio Grande Valley since 2023, the first Republican elected to a full term in the seat. She sits on the Agriculture and Financial Services committees and chairs the Congressional Women's Caucus. Born in Brownsville and a University of Texas at San Antonio graduate, she worked in entertainment and as an insurance agent before Congress.",
+  "website": "https://monicaforcongress.us/",
+  "social": {
+   "x": "https://x.com/monica4congress",
+   "instagram": "https://www.instagram.com/monicaforcongress",
+   "facebook": "https://www.facebook.com/monicaforcongress",
+   "youtube": "https://www.youtube.com/@RepMonicaDLC"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Lists border security as a top priority and is endorsed by the National Border Patrol Council.", "source": "https://monicaforcongress.us/"},
+   {"topic": "Drugs", "point": "Authored a fentanyl trafficking bill that passed Congress.", "source": "https://monicaforcongress.us/"},
+   {"topic": "Water and agriculture", "point": "Created a South Texas water working group and prioritizes support for Valley agriculture.", "source": "https://monicaforcongress.us/"},
+   {"topic": "Housing", "point": "Had five housing bills included in the 21st Century ROAD to Housing Act.", "source": "https://monicaforcongress.us/"},
+   {"topic": "Spending", "point": "Lists reducing federal spending and national debt among her priorities.", "source": "https://monicaforcongress.us/"},
+   {"topic": "Immigration", "point": "Supports the DIGNIDAD Act, which would create a legal status pathway for some undocumented immigrants.", "source": "https://en.wikipedia.org/wiki/Monica_De_La_Cruz"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Supports lower taxes and cuts to federal spending and debt.", "source": "https://www.ontheissues.org/TX/Monica_De_La_Cruz.htm"},
+   "welfare": null,
+   "liberty": {"score": 65, "evidence": "Supports an abortion ban with a life-of-the-mother exception (abortion) and gun rights (guns).", "source": "https://www.ontheissues.org/TX/Monica_De_La_Cruz.htm"},
+   "security": {"score": 65, "evidence": "Supports qualified immunity for police and is endorsed by law enforcement groups.", "source": "https://www.ontheissues.org/TX/Monica_De_La_Cruz.htm"},
+   "immigration": {"score": 55, "evidence": "Prioritizes border security but cosponsors the DIGNIDAD Act offering a legal status pathway.", "source": "https://en.wikipedia.org/wiki/Monica_De_La_Cruz"},
+   "foreign": {"score": 65, "evidence": "Backed resolutions supporting Israel after the October 2023 Hamas attack.", "source": "https://en.wikipedia.org/wiki/Monica_De_La_Cruz"},
+   "energy": {"score": 15, "evidence": "Supports fracking and domestic oil and gas production.", "source": "https://www.ontheissues.org/TX/Monica_De_La_Cruz.htm"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 65, "evidence": "Says the state should not interfere with churches and cites traditional values of faith and family.", "source": "https://www.ontheissues.org/TX/Monica_De_La_Cruz.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Wikipedia reports she moved from backing mass deportation toward supporting the DIGNIDAD Act by 2026. The faith score rests on brief survey statements."
+ },
+ {
+  "id": "TX-15/bobby-pulido",
+  "name": "Bobby Pulido",
+  "party": "Democratic",
+  "current_role": "Tejano singer and actor",
+  "bio": "Bobby Pulido is the Democratic nominee for Texas's 15th congressional district and a first-time candidate. Born in Edinburg, he is a Tejano music singer and actor who became known in the 1990s and has won Latin Grammy awards for Best Tejano Album. He announced his campaign in September 2025.",
+  "website": "https://www.bobbypulidofortexas.com/",
+  "social": {
+   "x": "https://x.com/PulidoforTexas",
+   "instagram": "https://www.instagram.com/bobbypulidofortexas/",
+   "facebook": "https://www.facebook.com/profile.php?id=61578676024907",
+   "tiktok": "https://www.tiktok.com/@BobbyPulidoforTexas"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Pledges to challenge corporate price gouging, cut red tape for small businesses and support apprenticeships.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   {"topic": "Agriculture", "point": "Opposes tariffs and trade wars that burden farmers and ranchers.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   {"topic": "Border and immigration", "point": "Backs border security, vetting centers in Central America, fentanyl interdiction and a fairer path to legalization.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   {"topic": "Health care", "point": "Wants to protect Medicare, Medicaid and Social Security and negotiate lower drug prices.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   {"topic": "Education", "point": "Opposes school vouchers and supports higher teacher pay and smaller classes.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   {"topic": "Water", "point": "Supports desalination, modern irrigation and enforcing Mexico's water treaty obligations.", "source": "https://www.bobbypulidofortexas.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Combines action against corporate price gouging with reducing regulations on small businesses.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   "welfare": {"score": 65, "evidence": "Wants to preserve and strengthen Medicare, Medicaid and Social Security.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Pairs border security and fentanyl interdiction with a path to legalization.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 85, "evidence": "Opposes voucher programs that take money from public schools.", "source": "https://www.bobbypulidofortexas.com/issues/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Bobby23 (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Mezquitic"},
+  "campaign_photo": "",
+  "notes": "The Commons photo is a 2016 concert image rather than a formal portrait."
+ },
+ {
+  "id": "TX-16/veronica-escobar",
+  "name": "Veronica Escobar",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for TX-16",
+  "bio": "Veronica Escobar has represented Texas's 16th congressional district, based in El Paso, since 2019. She previously served as El Paso County Judge from 2011 to 2017 and as a county commissioner from 2007 to 2011. An El Paso native, she holds degrees from the University of Texas at El Paso and New York University.",
+  "website": "https://veronicaescobar.com/",
+  "social": {
+   "x": "https://x.com/RepEscobar",
+   "instagram": "https://www.instagram.com/repescobar",
+   "facebook": "https://www.facebook.com/RepEscobar",
+   "youtube": "https://www.youtube.com/channel/UC46TX2P8K0CA_4gZv8_R2Og"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Aims to expand access to health care and lower its cost.", "source": "https://veronicaescobar.com/"},
+   {"topic": "Climate", "point": "Supports legislation to address climate change.", "source": "https://veronicaescobar.com/"},
+   {"topic": "Immigration", "point": "Calls for lasting, humane reform of the immigration system.", "source": "https://veronicaescobar.com/"},
+   {"topic": "Economy", "point": "Emphasizes job creation and fair wages for workers.", "source": "https://veronicaescobar.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports raising the minimum wage and fair wages for workers.", "source": "https://www.ontheissues.org/TX/Veronica_Escobar.htm"},
+   "welfare": {"score": 90, "evidence": "Has supported single-payer health care.", "source": "https://www.ontheissues.org/TX/Veronica_Escobar.htm"},
+   "liberty": {"score": 25, "evidence": "Supports abortion rights (abortion) and marijuana legalization (drugs).", "source": "https://www.ontheissues.org/TX/Veronica_Escobar.htm"},
+   "security": {"score": 30, "evidence": "Supports police accountability measures.", "source": "https://www.ontheissues.org/TX/Veronica_Escobar.htm"},
+   "immigration": {"score": 15, "evidence": "Supports a path to citizenship and opposed family separation policies in 2018.", "source": "https://en.wikipedia.org/wiki/Veronica_Escobar"},
+   "foreign": {"score": 45, "evidence": "Voted to support Israel after the October 2023 Hamas attack.", "source": "https://en.wikipedia.org/wiki/Veronica_Escobar"},
+   "energy": {"score": 90, "evidence": "Supports the Green New Deal and climate legislation.", "source": "https://www.ontheissues.org/TX/Veronica_Escobar.htm"},
+   "tech": {"score": 65, "evidence": "Supports net neutrality rules.", "source": "https://www.ontheissues.org/TX/Veronica_Escobar.htm"},
+   "education": {"score": 85, "evidence": "Strongly opposes school vouchers and supports federal education standards.", "source": "https://www.ontheissues.org/TX/Veronica_Escobar.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://veronicaescobar.com/wp-content/uploads/2026/06/477452550_1027748999163724_2040044194073173842_n.jpg",
+  "notes": ""
+ },
+ {
+  "id": "TX-16/adam-bauman",
+  "name": "Adam Bauman",
+  "party": "Republican",
+  "current_role": "Canine drug-detection business owner and former Border Patrol agent",
+  "bio": "Adam Bauman is the Republican nominee for Texas's 16th congressional district, having won the May 2026 primary runoff. He is a U.S. Navy veteran who served as a Special Warfare Combatant Crewman and a former U.S. Border Patrol agent with the Border Patrol Tactical Team. He came to El Paso with Border Patrol in 2001 and now runs a canine drug-detection business.",
+  "website": "https://www.adambaumanforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/adambaumanforcongress2026/"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Calls for a secure border to curb crime and drug trafficking in El Paso.", "source": "https://www.adambaumanforcongress.com/"},
+   {"topic": "Property taxes", "point": "Wants to work with local leaders to lower El Paso property taxes.", "source": "https://www.adambaumanforcongress.com/"},
+   {"topic": "Veterans", "point": "Pledges to speed up veterans' benefits and expand job training.", "source": "https://www.adambaumanforcongress.com/"},
+   {"topic": "Social Security", "point": "Opposes raising the retirement age and wants changes to keep the program solvent past 2034.", "source": "https://www.adambaumanforcongress.com/"},
+   {"topic": "Health care", "point": "Seeks lower insurance premiums without additional federal subsidies.", "source": "https://www.adambaumanforcongress.com/"},
+   {"topic": "Women's sports", "point": "Supports women-only sports competitions and facilities.", "source": "https://www.adambaumanforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 70, "evidence": "Supports women-only sports and facilities (LGBTQ); no stated positions found on abortion, drugs, guns or speech.", "source": "https://www.adambaumanforcongress.com/"},
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Backs Customs and Border Protection operations to secure the border against crime and drug trafficking.", "source": "https://www.ballotready.org/people/adam-bauman"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Liberty and immigration scores are new and rest on a few campaign statements. His welfare views are mixed: he opposes raising the Social Security age and also opposes more federal insurance subsidies."
+ },
+ {
+  "id": "TX-17/pete-sessions",
+  "name": "Pete Sessions",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-17",
+  "bio": "Pete Sessions has represented Texas's 17th congressional district, based in Waco, since 2021. He previously served in the U.S. House from 1997 to 2019 for the 5th and 32nd districts, chairing the House Rules Committee and the National Republican Congressional Committee. Raised in Waco and a Southwestern University graduate, he worked for 16 years at Southwestern Bell.",
+  "website": "https://www.petesessions.com/",
+  "social": {
+   "x": "https://twitter.com/SessionsTX17",
+   "instagram": "https://www.instagram.com/congressmanpetesessions",
+   "facebook": "https://www.facebook.com/sessionsforcongress",
+   "youtube": "https://www.youtube.com/@congressmanpetesessions"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Promotes free-market policies and job creation to leave more money in Americans' pockets.", "source": "https://www.petesessions.com/"},
+   {"topic": "Infrastructure", "point": "Wants infrastructure that keeps pace with Texas population growth.", "source": "https://www.petesessions.com/"},
+   {"topic": "Faith and values", "point": "Emphasizes Christian principles and moral leadership in government.", "source": "https://www.petesessions.com/"},
+   {"topic": "Families and youth", "point": "Highlights strengthening families and youth programs, citing his Eagle Scout background.", "source": "https://www.petesessions.com/"},
+   {"topic": "Health care", "point": "Supports repealing the Affordable Care Act and defunding Planned Parenthood.", "source": "https://en.wikipedia.org/wiki/Pete_Sessions"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Campaigns on capitalism and job creation; record compiled by OnTheIssues favors tax cuts.", "source": "https://www.ontheissues.org/TX/Pete_Sessions.htm"},
+   "welfare": {"score": 15, "evidence": "Supports repealing the ACA and voted for the 2017 American Health Care Act.", "source": "https://en.wikipedia.org/wiki/Pete_Sessions"},
+   "liberty": {"score": 80, "evidence": "Opposes abortion (abortion), backed a marriage amendment (LGBTQ) and called THC addictive while blocking cannabis amendments (drugs).", "source": "https://en.wikipedia.org/wiki/Pete_Sessions"},
+   "security": {"score": 80, "evidence": "Voted to make PATRIOT Act provisions permanent.", "source": "https://www.ontheissues.org/TX/Pete_Sessions.htm"},
+   "immigration": {"score": 80, "evidence": "Opposed the 2010 DREAM Act and supported the 2017 travel ban.", "source": "https://en.wikipedia.org/wiki/Pete_Sessions"},
+   "foreign": null,
+   "energy": {"score": 5, "evidence": "Voted to expand offshore drilling.", "source": "https://www.ontheissues.org/TX/Pete_Sessions.htm"},
+   "tech": {"score": 25, "evidence": "Supports ending net neutrality rules and allowing tiered internet service.", "source": "https://www.ontheissues.org/TX/Pete_Sessions.htm"},
+   "education": {"score": 10, "evidence": "Supports school vouchers.", "source": "https://www.ontheissues.org/TX/Pete_Sessions.htm"},
+   "faith": {"score": 90, "evidence": "Supports school prayer and campaigns on Christian principles in governance.", "source": "https://www.ontheissues.org/TX/Pete_Sessions.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://www.petesessions.com/wp-content/uploads/2025/11/IMG_7688-1-1024x768.jpg",
+  "notes": "The campaign image may be a candid photo rather than a formal headshot. The tech score rests on his net neutrality position."
+ },
+ {
+  "id": "TX-17/casey-shepard",
+  "name": "Casey Shepard",
+  "party": "Democratic",
+  "current_role": "Criminal defense attorney in Waco",
+  "bio": "Casey Shepard is the Democratic nominee for Texas's 17th congressional district. A Central Texas native who grew up near Waco, he holds a bachelor's degree from Loyola Marymount University and a law degree from the UC Davis School of Law. He practices indigent criminal defense in Waco.",
+  "website": "https://caseyshepardforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Democracy", "point": "Wants stronger congressional oversight of the executive branch and protection of judicial independence.", "source": "https://caseyshepardforcongress.com/caseys-vision"},
+   {"topic": "Food access", "point": "Proposes fully funding SNAP and school meals and restoring international food aid.", "source": "https://caseyshepardforcongress.com/caseys-vision"},
+   {"topic": "Health care", "point": "Restore support for Medicaid and Medicare and widen the medical workforce, including trained immigrant professionals.", "source": "https://caseyshepardforcongress.com/caseys-vision"},
+   {"topic": "Housing", "point": "Supports tax incentives for affordable housing, full rental assistance funding and ending tariffs on building materials.", "source": "https://caseyshepardforcongress.com/caseys-vision"},
+   {"topic": "Immigration", "point": "Supports abolishing ICE and updating immigration rules for trained medical and construction workers.", "source": "https://baylorlariat.com/2026/02/11/democrats-clash-in-bid-to-flip-texas-17th-congressional-district-seat/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 75, "evidence": "Calls for fully funded SNAP and school meals, full rental assistance and restored Medicaid and Medicare support.", "source": "https://caseyshepardforcongress.com/caseys-vision"},
+   "liberty": {"score": 25, "evidence": "Supports protecting abortion rights (abortion); no stated positions found on other liberty issues.", "source": "https://baylorlariat.com/2026/02/11/democrats-clash-in-bid-to-flip-texas-17th-congressional-district-seat/"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Supports abolishing ICE and immigration reform to admit more medical and construction workers.", "source": "https://baylorlariat.com/2026/02/11/democrats-clash-in-bid-to-flip-texas-17th-congressional-district-seat/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "All scores are new, based on his campaign site and debate coverage. During the primary he said he had previously voted in Republican primaries because his county lacked Democratic contests."
+ }
+]

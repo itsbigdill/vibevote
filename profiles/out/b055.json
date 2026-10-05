@@ -1,0 +1,758 @@
+[
+ {
+  "id": "MI-1/laveta-davenport",
+  "name": "LaVeta Davenport",
+  "party": "Green",
+  "current_role": "Nonprofit organizer",
+  "bio": "LaVeta Davenport is the Green Party nominee for Michigan's 1st Congressional District in 2026. She is listed as a nonprofit organizer.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, issue statements or survey answers were found."
+ },
+ {
+  "id": "MI-1/doc-kovaly",
+  "name": "Doc Kovaly",
+  "party": "U.S. Taxpayers",
+  "current_role": "Retired postal worker",
+  "bio": "Doc Kovaly is the U.S. Taxpayers Party nominee for Michigan's 1st Congressional District in 2026. He is listed as a retired postal worker.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, issue statements or survey answers were found; 'Doc' appears to be the ballot name."
+ },
+ {
+  "id": "MI-1/liz-hakola",
+  "name": "Liz Hakola",
+  "party": "Working Class",
+  "current_role": "",
+  "bio": "Liz Hakola is the Working Class Party nominee for Michigan's 1st Congressional District in 2026. She was also the party's nominee for this district in 2022 and 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No candidate-specific campaign site or issue statements were found for 2026."
+ },
+ {
+  "id": "MI-1/zebulon-featherly",
+  "name": "Zebulon Featherly",
+  "party": "Independent",
+  "current_role": "Factory worker",
+  "bio": "Zebulon Featherly is an independent candidate for Michigan's 1st Congressional District in 2026. He is described as a factory worker and took part in a March 2026 candidate forum in Marquette.",
+  "website": "https://www.zebulonforcongress.com/",
+  "social": {
+   "x": "https://x.com/ZebForCongress",
+   "instagram": "https://www.instagram.com/zebulonforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61581340856899",
+   "tiktok": "https://www.tiktok.com/@zebulonforcongress",
+   "youtube": "https://www.youtube.com/@ZebulonFeatherly"
+  },
+  "platform": [
+   {
+    "topic": "Independence",
+    "point": "Runs without a party label, pledging to represent constituents rather than party interests.",
+    "source": "https://www.zebulonforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign site describes an independent, people-over-parties approach but lists no specific policy positions."
+ },
+ {
+  "id": "MI-2/john-moolenaar",
+  "name": "John Moolenaar",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MI-2",
+  "bio": "John Moolenaar has represented Michigan in the U.S. House since 2015, first the 4th District and the 2nd District since 2023, and chairs the House Select Committee on the Chinese Communist Party. He previously served in the Michigan Senate and Michigan House. A chemist by training, he is from Midland.",
+  "website": "https://www.johnmoolenaarforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepMoolenaar",
+   "instagram": "https://www.instagram.com/RepMoolenaar",
+   "facebook": "https://www.facebook.com/RepMoolenaar",
+   "youtube": "https://www.youtube.com/channel/UC9CpBZbuMo9EhnEx-ygIN2A"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Secure the southern border and support enforcement of immigration law.",
+    "source": "https://www.johnmoolenaarforcongress.com/"
+   },
+   {
+    "topic": "Government spending",
+    "point": "Use his Appropriations Committee seat to cut wasteful federal spending.",
+    "source": "https://www.johnmoolenaarforcongress.com/"
+   },
+   {
+    "topic": "China",
+    "point": "Block threats from China, including adversary purchases of U.S. farmland and Chinese-linked projects.",
+    "source": "https://www.johnmoolenaarforcongress.com/"
+   },
+   {
+    "topic": "Defense",
+    "point": "Rebuild the U.S. military and defend Second Amendment rights.",
+    "source": "https://www.johnmoolenaarforcongress.com/"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Preserve Social Security and Medicare and cut taxes on seniors' benefits.",
+    "source": "https://www.johnmoolenaarforcongress.com/"
+   },
+   {
+    "topic": "Life",
+    "point": "Protect unborn life and the dignity of every human life.",
+    "source": "https://www.johnmoolenaarforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Opposes higher taxes on the wealthy and calls for lowering the tax burden on families and businesses.",
+    "source": "https://www.ontheissues.org/MI/John_Moolenaar.htm"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "Opposes abortion rights, including bans after 20 weeks, and opposes gun restrictions such as expanded background checks.",
+    "source": "https://www.ontheissues.org/MI/John_Moolenaar.htm"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Opposes a pathway to citizenship for undocumented immigrants and supports deportation policies.",
+    "source": "https://www.ontheissues.org/MI/John_Moolenaar.htm"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Backs strong sanctions on Iran and North Korea and chairs the House select committee on China.",
+    "source": "https://www.ontheissues.org/MI/John_Moolenaar.htm"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Supports an all-of-the-above strategy including offshore drilling and opposes CO2 regulation.",
+    "source": "https://www.ontheissues.org/MI/John_Moolenaar.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Supports school choice through vouchers.",
+    "source": "https://www.ontheissues.org/MI/John_Moolenaar.htm"
+   },
+   "faith": {
+    "score": 70,
+    "evidence": "Has expressed respect for faith-based objections in debates over same-sex marriage and LGBT services.",
+    "source": "https://www.ontheissues.org/MI/John_Moolenaar.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "The faith score rests on limited evidence."
+ },
+ {
+  "id": "MI-2/benjamin-ambrose",
+  "name": "Benjamin Ambrose",
+  "party": "Democratic",
+  "current_role": "Marine Corps veteran",
+  "bio": "Ben Ambrose won the Democratic nomination for Michigan's 2nd Congressional District in August 2026. He grew up on a farm in Hesperia, Michigan, and served nearly 20 years as a Marine Corps infantryman.",
+  "website": "https://ambrose4congress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/ben_ambrose2026/",
+   "facebook": "https://www.facebook.com/profile.php?id=61585151168182",
+   "tiktok": "https://www.tiktok.com/@ambrose4congress",
+   "youtube": "https://www.youtube.com/@Ambrose4Congress"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Champion Medicare for All.",
+    "source": "https://ambrose4congress.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Make everyday life more affordable for working families.",
+    "source": "https://ambrose4congress.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Strengthen local schools.",
+    "source": "https://ambrose4congress.com/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Support military veterans and those who served.",
+    "source": "https://ambrose4congress.com/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Protect Michigan's natural environment.",
+    "source": "https://ambrose4congress.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Improve safety in local communities.",
+    "source": "https://ambrose4congress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 90,
+    "evidence": "Lists championing Medicare for All among his campaign priorities.",
+    "source": "https://ambrose4congress.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Most campaign priorities are stated as headings without detail."
+ },
+ {
+  "id": "MI-3/hillary-scholten",
+  "name": "Hillary Scholten",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MI-3",
+  "bio": "Hillary Scholten has represented Michigan's 3rd District, centered on Grand Rapids, in the U.S. House since 2023. Before Congress she was an attorney at the U.S. Department of Justice and in private practice. She was born in Grand Rapids.",
+  "website": "https://hillaryscholten.com/",
+  "social": {
+   "x": "https://x.com/RepScholten",
+   "instagram": "https://www.instagram.com/RepScholten",
+   "facebook": "https://www.facebook.com/100089476625799"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Lower prescription drug costs, protect coverage of pre-existing conditions and expand the Affordable Care Act.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Protect abortion access and reproductive freedom.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Create well-paying jobs, including in renewable energy and semiconductor manufacturing, and support small businesses.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   {
+    "topic": "Retirement",
+    "point": "Oppose raising the retirement age or privatizing Social Security, and let Medicare negotiate drug prices.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Protect drinking water from PFAS, defend the Great Lakes and address climate change.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   {
+    "topic": "Gun safety",
+    "point": "Support universal background checks, safe storage and red flag laws.",
+    "source": "https://hillaryscholten.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Backs fair wages, Medicare drug price negotiation and public investment in semiconductor and clean-energy jobs.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Wants to expand the Affordable Care Act and opposes raising the retirement age or privatizing Social Security.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Supports abortion access, and also backs universal background checks and red flag laws on guns.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 45,
+    "evidence": "Voted for the Laken Riley Act, which requires detention of undocumented immigrants charged with certain crimes.",
+    "source": "https://en.wikipedia.org/wiki/Hillary_Scholten"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 80,
+    "evidence": "Supports investing in renewable energy and acting on climate change.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Prioritizes strengthening public schools, teacher pay and expanded pre-K.",
+    "source": "https://hillaryscholten.com/priorities/"
+   },
+   "faith": {
+    "score": 65,
+    "evidence": "Has described her Christian faith as a motivation for her public service.",
+    "source": "https://en.wikipedia.org/wiki/Hillary_Scholten"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MI-3/terri-deboer",
+  "name": "Terri DeBoer",
+  "party": "Republican",
+  "current_role": "Meteorologist",
+  "bio": "Terri DeBoer is a West Michigan television meteorologist with more than 30 years on air, and an author. She grew up in a military family and announced her first run for office in March 2026, winning the Republican nomination in Michigan's 3rd District.",
+  "website": "https://terrideboer.com/",
+  "social": {
+   "x": "https://twitter.com/terrideboer",
+   "instagram": "https://www.instagram.com/terrideboer",
+   "facebook": "https://www.facebook.com/terrideboermichigan"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Increase competition and price transparency and support Direct Primary Care and Health Savings Accounts.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   {
+    "topic": "Economy",
+    "point": "Cut taxes and federal spending to fight inflation and reduce regulation on small businesses.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue an all-of-the-above energy strategy, expand nuclear power and oppose costly energy mandates.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   {
+    "topic": "Border security",
+    "point": "Secure the border, remove criminals who entered illegally and reform asylum processes.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   {
+    "topic": "Education",
+    "point": "Promote educational freedom and learning focused on critical thinking.",
+    "source": "https://terrideboer.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Calls for tax cuts, lower federal spending and fewer regulations on small businesses.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Favors market competition, Health Savings Accounts and Direct Primary Care in health policy.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Calls for border enforcement, removal of criminals who entered illegally and asylum reform.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 30,
+    "evidence": "Backs an all-of-the-above approach with expanded nuclear power and opposes costly energy mandates.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Lists educational freedom among her economic priorities.",
+    "source": "https://terrideboer.com/priorities"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Wikipedia lists terrideboerforcongress.com as her campaign site; terrideboer.com hosts the current campaign content."
+ },
+ {
+  "id": "MI-4/bill-huizenga",
+  "name": "Bill Huizenga",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MI-4",
+  "bio": "Bill Huizenga has served in the U.S. House since 2011, representing Michigan's 2nd District and, since 2023, the 4th District. He previously served in the Michigan House of Representatives. He is a small-business owner from Ottawa County.",
+  "website": "https://huizengaformichigan.com/",
+  "social": {
+   "x": "https://x.com/RepHuizenga",
+   "instagram": "https://www.instagram.com/RepHuizenga",
+   "facebook": "https://www.facebook.com/RepHuizenga",
+   "youtube": "https://www.youtube.com/RepHuizenga"
+  },
+  "platform": [
+   {
+    "topic": "Inflation",
+    "point": "Fight inflation and protect family budgets.",
+    "source": "https://huizengaformichigan.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Strengthen American energy production to lower costs.",
+    "source": "https://huizengaformichigan.com/"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Back local employers and economic growth in Southwest Michigan.",
+    "source": "https://huizengaformichigan.com/"
+   },
+   {
+    "topic": "Values",
+    "point": "Stand up for the values of Southwest Michigan communities.",
+    "source": "https://huizengaformichigan.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Has signed the no-new-taxes pledge, supports a flat tax and opposes tax increases on the wealthy.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Supports work requirements for welfare recipients.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Opposes abortion, backing a 20-week ban, and opposes new gun background check rules while supporting interstate carry.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Supported extending PATRIOT Act surveillance provisions.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Wants border security first and opposes a pathway to citizenship for undocumented immigrants.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Supports Iran sanctions and opposes reducing the U.S. military presence abroad.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Opposes climate regulation and cap-and-trade and supports offshore drilling.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "tech": {
+    "score": 20,
+    "evidence": "Opposes net neutrality regulation.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "education": {
+    "score": 15,
+    "evidence": "Favors vouchers and parental rights in education.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   },
+   "faith": {
+    "score": 85,
+    "evidence": "Supports religious expression in public life, including a Ten Commandments Weekend designation.",
+    "source": "https://www.ontheissues.org/MI/Bill_Huizenga.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://huizengaformichigan.com/wp-content/uploads/sites/69/2026/05/photo-meet_bill-1.jpg",
+  "notes": ""
+ },
+ {
+  "id": "MI-4/sean-mccann",
+  "name": "Sean McCann",
+  "party": "Democratic",
+  "current_role": "Michigan State Senator, 19th District",
+  "bio": "Sean McCann has served in the Michigan Senate since 2019, representing the 20th District and, since 2023, the 19th District. He previously served in the Michigan House of Representatives from 2011 to 2014. Born in Detroit, he is a Western Michigan University graduate based in the Kalamazoo area.",
+  "website": "https://seanmccannforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Make lowering utility, prescription drug and housing costs his top priority while protecting good-paying jobs.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Extend Affordable Care Act tax credits and lower prescription drug prices.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Develop solar, wind and nuclear power and move away from aging coal plants.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Hire more teachers and school support staff, expand pre-K and provide free K-12 meals.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border while offering legal pathways, and overhaul ICE with stronger accountability.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Reauthorize the Farm Bill and pass right-to-repair legislation for farmers.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Pledges to fight monopolies and corporate greed and bring manufacturing jobs back to Michigan.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Supports extending ACA tax credits and expanding pre-K and free school meals.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Supports abortion access decided by women and their doctors, and backs gun violence prevention measures.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Pairs border security with legal pathways and calls for overhauling ICE.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 75,
+    "evidence": "Supports solar, wind and nuclear development and opposes reliance on aging coal plants.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Calls for more public school staff, expanded pre-K and free meals for all K-12 students.",
+    "source": "https://seanmccannforcongress.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site links social accounts through redirects, so exact account URLs were not confirmed."
+ },
+ {
+  "id": "MI-5/tim-walberg",
+  "name": "Tim Walberg",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MI-5",
+  "bio": "Tim Walberg has served in the U.S. House from 2007 to 2009 and again since 2011, representing Michigan's 7th District and, since 2023, the 5th District. He previously served in the Michigan House of Representatives and worked as a pastor. He is from Tipton, Michigan.",
+  "website": "https://www.walbergforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepWalberg",
+   "instagram": "https://www.instagram.com/repwalberg",
+   "facebook": "https://www.facebook.com/RepWalberg",
+   "youtube": "https://www.youtube.com/RepWalberg"
+  },
+  "platform": [
+   {
+    "topic": "National security",
+    "point": "Protect U.S. national security.",
+    "source": "https://www.walbergforcongress.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Build a healthy economy and practice fiscal responsibility in federal spending.",
+    "source": "https://www.walbergforcongress.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Make health care more affordable.",
+    "source": "https://www.walbergforcongress.com/"
+   },
+   {
+    "topic": "Values",
+    "point": "Defend traditional values in public policy.",
+    "source": "https://www.walbergforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Has signed the no-new-taxes pledge and supports a flat tax or FairTax.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Supports work requirements for welfare recipients.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Opposes abortion and same-sex marriage and strongly defends gun ownership rights.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Supports wiretapping authority with limited warrant requirements.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Supports border security and opposes amnesty for undocumented immigrants.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Supports sanctions on Iran and Syria but has opposed further aid to Ukraine.",
+    "source": "https://en.wikipedia.org/wiki/Tim_Walberg"
+   },
+   "energy": {
+    "score": 5,
+    "evidence": "Favors expanded oil drilling, including in Alaska, and opposes climate-focused regulation.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   },
+   "tech": {
+    "score": 20,
+    "evidence": "Opposes net neutrality rules.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   },
+   "education": {
+    "score": 15,
+    "evidence": "Favors school choice through vouchers.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   },
+   "faith": {
+    "score": 90,
+    "evidence": "Wants Christianity's role in Western civilization recognized in public life.",
+    "source": "https://www.ontheissues.org/MI/Tim_Walberg.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MI-5/christian-vukasovich",
+  "name": "Christian Vukasovich",
+  "party": "Democratic",
+  "current_role": "College professor",
+  "bio": "Christian Vukasovich is the Democratic nominee for Michigan's 5th Congressional District in 2026. He is described as a college professor.",
+  "website": "https://christian4michigan.com/",
+  "social": {
+   "x": "https://x.com/c4michigan",
+   "facebook": "https://www.facebook.com/profile.php?id=61581443142382"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Fight for living wages, union jobs and an economy that rewards work.",
+    "source": "https://christian4michigan.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Treat access to quality, affordable health care as a basic right.",
+    "source": "https://christian4michigan.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Help working families afford stable homes and build equity.",
+    "source": "https://christian4michigan.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Invest in education and workforce training.",
+    "source": "https://christian4michigan.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Platform items come from default text in the campaign site's code; the site's detailed policy content did not load, so no scores were assigned."
+ }
+]

@@ -1,0 +1,623 @@
+[
+ {
+  "id": "AK-AL/eric-hafner",
+  "name": "Eric Hafner",
+  "party": "Democratic",
+  "race": "AK-AL",
+  "race_label": "Alaska · US House AK-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AK-AL/eric-hafner",
+   "name": "Eric Hafner",
+   "party": "Democratic",
+   "current_role": "",
+   "bio": "Eric Hafner is a registered Democrat who advanced from Alaska's 2026 top-four primary for the U.S. House after other candidates withdrew; he also appeared on the 2024 general election ballot for the seat. He is serving a federal prison sentence in New York after pleading guilty in 2022 to making threats, and has no documented ties to Alaska.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No public platform found. Coverage says his eligibility is likely to face a legal challenge over the constitutional residency requirement."
+  }
+ },
+ {
+  "id": "AL-2/shomari-figures",
+  "name": "Shomari Figures",
+  "party": "Democratic",
+  "race": "AL-2",
+  "race_label": "Alabama · US House AL-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000481",
+   "official_name": "Shomari Figures",
+   "chamber": "House",
+   "official_site": "https://figures.house.gov",
+   "official_social": {
+    "twitter": "repscfigures",
+    "facebook": "congressman.shomari.figures",
+    "instagram": "repscfigures"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AL-2/shomari-figures",
+   "name": "Shomari Figures",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for AL-2",
+   "bio": "Shomari Figures is a Mobile native and attorney who has represented Alabama's 2nd District since January 2025. He previously worked in the Obama White House, as legislative counsel to Senator Sherrod Brown, and as deputy chief of staff to Attorney General Merrick Garland. He serves on the House Agriculture Committee.",
+   "website": "",
+   "social": {
+    "x": "https://x.com/repscfigures",
+    "facebook": "https://www.facebook.com/congressman.shomari.figures",
+    "instagram": "https://www.instagram.com/repscfigures"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Opposes Medicaid cuts and supports expanding Medicaid in Alabama.",
+     "source": "https://figures.house.gov/issues/health"
+    },
+    {
+     "topic": "Rural hospitals",
+     "point": "Co-introduced the bipartisan Rural Hospital Stabilization Act and secured funding for rural hospitals in the district.",
+     "source": "https://figures.house.gov/issues/health"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Sponsored the Made in America Jobs Act to support projects that bring foreign jobs back to the U.S.",
+     "source": "https://figures.house.gov/issues/economy"
+    },
+    {
+     "topic": "Families",
+     "point": "Proposed tax relief for new parents and for children's enrichment activities.",
+     "source": "https://figures.house.gov/issues/economy"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Secured federal water and wastewater funding for communities in the district.",
+     "source": "https://figures.house.gov/issues/economy"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 80,
+     "evidence": "Opposes Medicaid cuts, supports Medicaid expansion and federal aid to rural hospitals.",
+     "source": "https://figures.house.gov/issues/health"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 50,
+     "evidence": "Voted for the Laken Riley Act requiring detention of certain arrested noncitizens.",
+     "source": "https://yellowhammernews.com/alabama-lawmakers-including-figures-and-sewell-vote-to-pass-britts-criminal-immigrant-crackdown-bill/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "",
+   "notes": "Campaign website not confirmed."
+  }
+ },
+ {
+  "id": "AL-3/lee-mcinnis",
+  "name": "Lee McInnis",
+  "party": "Democratic",
+  "race": "AL-3",
+  "race_label": "Alabama · US House AL-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AL-3/lee-mcinnis",
+   "name": "Lee McInnis",
+   "party": "Democratic",
+   "current_role": "Retired defense intelligence officer and educator",
+   "bio": "Lee McInnis is an Alabama native who served six years in Army intelligence and 28 years in the defense intelligence community, including with special operations in Afghanistan. After retiring he taught communications and American government. He holds a master's degree in history from Auburn University.",
+   "website": "https://leemcinnis4alabama.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61581116092600",
+    "instagram": "https://www.instagram.com/leemcinnis26/",
+    "youtube": "https://www.youtube.com/channel/UCmtefnUpw0HFM-2HSnLhiYA"
+   },
+   "platform": [
+    {
+     "topic": "Economy",
+     "point": "Says the economy should work for working families and the wealthiest should pay their fair share.",
+     "source": "https://leemcinnis4alabama.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Wants health care access for all and more hospitals, pediatricians and mental health services in the district.",
+     "source": "https://leemcinnis4alabama.com/"
+    },
+    {
+     "topic": "Representation",
+     "point": "Pledges to refuse corporate and foreign PAC money and hold regular town halls.",
+     "source": "https://leemcinnis4alabama.com/"
+    },
+    {
+     "topic": "Safety net",
+     "point": "Criticizes SNAP and health program cuts in the 2025 budget law.",
+     "source": "https://www.alreporter.com/2025/12/01/democratic-congressional-aspirant-lee-mcinnis-explains-his-candidacy/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 75,
+     "evidence": "Says the ultra-wealthy must pay their fair share of taxes.",
+     "source": "https://www.alreporter.com/2025/12/01/democratic-congressional-aspirant-lee-mcinnis-explains-his-candidacy/"
+    },
+    "welfare": {
+     "score": 85,
+     "evidence": "Calls for health care for all and opposes SNAP and health cuts.",
+     "source": "https://leemcinnis4alabama.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "AL-6/maurice-mercer",
+  "name": "Maurice Mercer",
+  "party": "Democratic",
+  "race": "AL-6",
+  "race_label": "Alabama · US House AL-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AL-6/maurice-mercer",
+   "name": "Maurice Mercer",
+   "party": "Democratic",
+   "current_role": "",
+   "bio": "Maurice Mercer is a Democrat from Pelham who won his party's nomination for Alabama's 6th District in a special primary.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Campaigns on lowering everyday costs for families.",
+     "source": "https://www.shelbycountyreporter.com/news/pelhams-maurice-mercer-enters-race-for-alabamas-6th-congressional-district-da3c6c14/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Prioritizes making health care more affordable.",
+     "source": "https://www.shelbycountyreporter.com/news/pelhams-maurice-mercer-enters-race-for-alabamas-6th-congressional-district-da3c6c14/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Supports continued federal infrastructure investment, including rail projects.",
+     "source": "https://www.clantonadvertiser.com/news/mercer-palmer-win-6th-congressional-nominations-in-special-primary-election-eec73fdb"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 60,
+     "evidence": "Supports continued federal infrastructure investment, including rail.",
+     "source": "https://www.clantonadvertiser.com/news/mercer-palmer-win-6th-congressional-nominations-in-special-primary-election-eec73fdb"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Both news sources blocked access on this pass, so profile relies on earlier research; career background and campaign website were not found."
+  }
+ },
+ {
+  "id": "AL-7/ammie-akin",
+  "name": "Ammie Akin",
+  "party": "Republican",
+  "race": "AL-7",
+  "race_label": "Alabama · US House AL-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AL-7/ammie-akin",
+   "name": "Ammie Akin",
+   "party": "Republican",
+   "current_role": "Educator and nonprofit co-founder",
+   "bio": "Ammie Akin is a Birmingham educator who has worked as a classroom teacher, school administrator and college professor who trains school leaders. She holds a Doctor of Education from Samford University, co-founded the Hub in the Hills nonprofit workspace and chairs the board of Unless U, which serves adults with disabilities. She won the Republican nomination in the August 2026 special primary for Alabama's 7th District.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Federal spending",
+     "point": "Wants to cut wasteful federal spending and restore fiscal responsibility.",
+     "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+    },
+    {
+     "topic": "Regulation",
+     "point": "Aims to reduce regulatory burdens so Alabama businesses can grow.",
+     "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+    },
+    {
+     "topic": "Rural health care",
+     "point": "Seeks better rural health care access and keeping rural hospitals open.",
+     "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+    },
+    {
+     "topic": "Rural economy",
+     "point": "Supports agriculture, timber and broadband expansion to grow rural communities.",
+     "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+    },
+    {
+     "topic": "Education",
+     "point": "Promotes education improvement through partnerships among educators, parents and communities.",
+     "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Wants law enforcement and the military to have the resources they need.",
+     "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Campaigns on cutting red tape and wasteful federal spending.",
+     "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": {
+     "score": 60,
+     "evidence": "Says law enforcement should get the resources it needs.",
+     "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+    },
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Her campaign website could not be confirmed (ammieakin.com showed only a placeholder page)."
+  }
+ },
+ {
+  "id": "AL-SEN/everett-wess",
+  "name": "Everett Wess",
+  "party": "Democratic",
+  "race": "AL-SEN",
+  "race_label": "Alabama · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "faith"
+  ],
+  "profile": {
+   "id": "AL-SEN/everett-wess",
+   "name": "Everett Wess",
+   "party": "Democratic",
+   "current_role": "Attorney, Birmingham",
+   "bio": "Everett W. Wess is a Birmingham attorney who has led The Wess Law Firm since 2001 and served eight years as a Midfield municipal court judge. He has also worked as a prosecutor, public defender and technology professional supporting NASA operations in Huntsville. He is state president of the Alabama New South Coalition and holds degrees from Alabama A&M University and Birmingham School of Law.",
+   "website": "https://wessforsenate.com",
+   "social": {
+    "facebook": "https://www.facebook.com/616973018338413"
+   },
+   "platform": [
+    {
+     "topic": "Healthcare",
+     "point": "Supports affordable healthcare with more funding for rural medical providers and underserved hospitals.",
+     "source": "https://wessforsenate.com/"
+    },
+    {
+     "topic": "Jobs and economy",
+     "point": "Links economic growth to quality public education and workforce development.",
+     "source": "https://wessforsenate.com/"
+    },
+    {
+     "topic": "Justice",
+     "point": "Calls for fair courts, clean government and equal access to the justice system.",
+     "source": "https://wessforsenate.com/"
+    },
+    {
+     "topic": "Voting rights",
+     "point": "Prioritizes protecting voting rights and community protections.",
+     "source": "https://wessforsenate.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 60,
+     "evidence": "Campaign backs affordable healthcare with added funding for rural and underserved providers.",
+     "source": "https://wessforsenate.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {
+     "score": 70,
+     "evidence": "Campaign emphasizes quality public education as the basis for jobs and workforce development.",
+     "source": "https://wessforsenate.com/"
+    },
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://img1.wsimg.com/isteam/ip/21f79d0e-c317-4c6a-9685-0267b714fb22/_MG_3346.jpg",
+   "notes": "Limited public footprint; campaign site lists broad priorities only."
+  }
+ },
+ {
+  "id": "AR-1/terri-yarbrough-green",
+  "name": "Terri Yarbrough Green",
+  "party": "Democratic",
+  "race": "AR-1",
+  "race_label": "Arkansas · US House AR-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AR-1/terri-yarbrough-green",
+   "name": "Terri Yarbrough Green",
+   "party": "Democratic",
+   "current_role": "Retired pathologist",
+   "bio": "Terri Yarbrough Green is a board-certified pathologist and former laboratory medical director whose career included work at rural hospitals. Born in El Paso, she lives in Paragould, Arkansas, and earned degrees from Baylor University and the University of Texas Health Science Center at San Antonio.",
+   "website": "https://www.terrigreenforarkansas.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/terrigreenforarkansas",
+    "facebook": "https://www.facebook.com/profile.php?id=61585254656309"
+   },
+   "platform": [
+    {
+     "topic": "Accountable government",
+     "point": "Uphold the rule of law, equal justice and checks and balances.",
+     "source": "https://www.terrigreenforarkansas.com/"
+    },
+    {
+     "topic": "Elections",
+     "point": "Remove dark money from politics and ensure free, fair and transparent elections.",
+     "source": "https://www.terrigreenforarkansas.com/"
+    },
+    {
+     "topic": "Agriculture",
+     "point": "Support family farms.",
+     "source": "https://www.terrigreenforarkansas.com/"
+    },
+    {
+     "topic": "Wages",
+     "point": "Raise the minimum wage.",
+     "source": "https://www.terrigreenforarkansas.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Expand access to affordable health care.",
+     "source": "https://www.terrigreenforarkansas.com/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Improve infrastructure and broadband.",
+     "source": "https://www.terrigreenforarkansas.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 65,
+     "evidence": "Supports raising the minimum wage and backing family farms against agricultural consolidation.",
+     "source": "https://www.terrigreenforarkansas.com/"
+    },
+    "welfare": {
+     "score": 65,
+     "evidence": "Calls for expanding access to affordable health care.",
+     "source": "https://www.terrigreenforarkansas.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/fbff52_92d0a00fb0eb41b49623e5c0de59dab4~mv2.jpg",
+   "notes": "Campaign materials use the name Terri Green."
+  }
+ },
+ {
+  "id": "AZ-2/jonathan-nez",
+  "name": "Jonathan Nez",
+  "party": "Democratic",
+  "race": "AZ-2",
+  "race_label": "Arizona · US House AZ-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AZ-2/jonathan-nez",
+   "name": "Jonathan Nez",
+   "party": "Democratic",
+   "current_role": "Former President of the Navajo Nation",
+   "bio": "Jonathan Nez served as President of the Navajo Nation from 2019 to 2023, as Vice President from 2015 to 2019 and as a Navajo Nation Council delegate from 2007 to 2015. Born in Tuba City, he studied political science and public administration at Northern Arizona University. He was the 2024 Democratic nominee for Arizona's 2nd District and is running again in 2026.",
+   "website": "https://jonathannezforaz.com/",
+   "social": {
+    "x": "https://x.com/NezForAZ",
+    "instagram": "https://instagram.com/NezForAZ/",
+    "facebook": "https://facebook.com/NezForAZ/",
+    "tiktok": "https://tiktok.com/@nezforaz"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Aims to lower health care, housing and utility costs for families.",
+     "source": "https://jonathannezforaz.com/issues"
+    },
+    {
+     "topic": "Water and food",
+     "point": "Pledges to protect Arizona water security and invest in affordable, healthy food.",
+     "source": "https://jonathannezforaz.com/issues"
+    },
+    {
+     "topic": "Rural infrastructure",
+     "point": "Wants long-term rural infrastructure, support for farmers and ranchers, and disaster protection.",
+     "source": "https://jonathannezforaz.com/issues"
+    },
+    {
+     "topic": "Accountability",
+     "point": "Promises to take on government corruption and money in politics.",
+     "source": "https://jonathannezforaz.com/issues"
+    },
+    {
+     "topic": "Tribal sovereignty",
+     "point": "Commits to protecting tribal sovereignty and voting rights.",
+     "source": "https://jonathannezforaz.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 25,
+     "evidence": "LGBTQ rights: endorsed legalizing same-sex marriage on the Navajo Nation in 2022.",
+     "source": "https://en.wikipedia.org/wiki/Jonathan_Nez"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Jonathan Nez (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Wikiuser159597"
+   },
+   "campaign_photo": "https://run.imgix.net/3fd41a6f-1ad0-4231-b9fc-cc4c4b786524/3bbd7be2-9041-4352-a043-7b66044237da/3bbd7be2-9041-4352-a043-7b66044237da.jpg",
+   "notes": "His campaign agenda names priorities without specific policy detail, so most domains stay unscored."
+  }
+ }
+]

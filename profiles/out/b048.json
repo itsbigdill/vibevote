@@ -1,0 +1,744 @@
+[
+ {
+  "id": "KY-2/thomas-loecken",
+  "name": "Thomas A. Loecken",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Thomas A. Loecken is an independent candidate on the general election ballot for Kentucky's 2nd congressional district. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, coverage or stated positions were found; ballot name taken from the Kentucky Secretary of State candidate list as cited on Wikipedia."
+ },
+ {
+  "id": "KY-3/morgan-mcgarvey",
+  "name": "Morgan McGarvey",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for KY-3",
+  "bio": "Morgan McGarvey has represented Kentucky's 3rd congressional district, centered on Louisville, since 2023. An attorney, he served in the Kentucky State Senate from 2013 to 2023 and was Senate Minority Leader. He is a Louisville native and graduate of the University of Missouri and the University of Kentucky College of Law.",
+  "website": "https://www.morganmcgarvey.com/",
+  "social": {
+   "x": "https://x.com/RepMcGarvey",
+   "facebook": "https://www.facebook.com/RepMcGarvey",
+   "instagram": "https://www.instagram.com/repmcgarvey/",
+   "tiktok": "https://www.tiktok.com/@morgan_mcgarvey"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Treats health care as a basic right and aims to keep a diagnosis from causing bankruptcy.",
+    "source": "https://www.morganmcgarvey.com/issues/health-care"
+   },
+   {
+    "topic": "Medicaid",
+    "point": "Opposed the 2025 budget reconciliation bill over cuts to Medicaid and food assistance.",
+    "source": "https://en.wikipedia.org/wiki/Morgan_McGarvey"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants every child to have access to a high-quality public school.",
+    "source": "https://www.morganmcgarvey.com/issues/education"
+   },
+   {
+    "topic": "Climate",
+    "point": "Calls climate change an urgent threat and backs federal clean-energy and emissions-reduction investment.",
+    "source": "https://www.morganmcgarvey.com/issues/climate-change"
+   },
+   {
+    "topic": "Gun violence",
+    "point": "Cosponsors bills on universal background checks, an assault weapons ban and extreme risk protection orders.",
+    "source": "https://mcgarvey.house.gov/issues/gun-violence-prevention"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "Supports a nationwide ban on no-knock warrants.",
+    "source": "https://www.morganmcgarvey.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 75,
+    "evidence": "Opposed the 2025 budget bill over Medicaid and food-aid cuts and calls health care a basic human right.",
+    "source": "https://en.wikipedia.org/wiki/Morgan_McGarvey"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Supports abortion access and belongs to the Congressional Equality Caucus, while cosponsoring gun restrictions such as an assault weapons ban.",
+    "source": "https://mcgarvey.house.gov/issues/gun-violence-prevention"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Campaign platform backs criminal justice reform including a nationwide ban on no-knock warrants.",
+    "source": "https://www.morganmcgarvey.com/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 70,
+    "evidence": "Describes climate change as an urgent threat and promotes Inflation Reduction Act and DOE emissions-reduction funding.",
+    "source": "https://mcgarvey.house.gov/issues/energy"
+   },
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "Campaign says every child should have access to an excellent public school.",
+    "source": "https://www.morganmcgarvey.com/issues/education"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Security and education scores rest on brief campaign statements rather than votes."
+ },
+ {
+  "id": "KY-3/maria-rodriguez",
+  "name": "Maria Rodriguez",
+  "party": "Republican",
+  "current_role": "Cleaning contractor",
+  "bio": "Maria Rodriguez is the Republican nominee for Kentucky's 3rd congressional district and works as a cleaning contractor. Her campaign describes a path from political persecution abroad to public service in the United States.",
+  "website": "https://mariaforuscongress.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=61586552040656"
+  },
+  "platform": [
+   {
+    "topic": "Public safety",
+    "point": "Lists safer streets in Louisville as a top priority.",
+    "source": "https://mariaforuscongress.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Promotes lower taxes and defending capitalism and free enterprise.",
+    "source": "https://mariaforuscongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Emphasizes legal immigration as a campaign priority.",
+    "source": "https://mariaforuscongress.com/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Lists protecting the unborn among her priorities.",
+    "source": "https://mariaforuscongress.com/"
+   },
+   {
+    "topic": "Women's sports",
+    "point": "Pledges to protect women's sports.",
+    "source": "https://mariaforuscongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Campaign lists lower taxes and defending capitalism as priorities.",
+    "source": "https://mariaforuscongress.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 80,
+    "evidence": "Campaign priorities include protecting the unborn (abortion) and protecting women's sports (LGBTQ issues).",
+    "source": "https://mariaforuscongress.com/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Maria Rodriguez.png",
+   "license": "CC0",
+   "author": "William R. Wilks II"
+  },
+  "campaign_photo": "https://mariaforuscongress.com/wp-content/uploads/2026/02/92329daa-1525-42cd-ac61-8af5e5ea9744.jpg",
+  "notes": "Campaign site lists priorities only as headings without detail; country of origin was not stated."
+ },
+ {
+  "id": "KY-4/ed-gallrein",
+  "name": "Ed Gallrein",
+  "party": "Republican",
+  "current_role": "Farmer and retired Navy SEAL captain",
+  "bio": "Ed Gallrein is a retired U.S. Navy SEAL captain who served from 1984 to 2014, and a fifth-generation Kentucky farmer in Shelbyville. He won the May 2026 Republican primary for Kentucky's 4th district, defeating incumbent Thomas Massie with President Trump's endorsement.",
+  "website": "https://www.edgallrein.com/",
+  "social": {
+   "x": "https://x.com/EdGallrein",
+   "facebook": "https://www.facebook.com/EdGallreinforCongress/"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Pledges to cut taxes and regulations and bring down inflation.",
+    "source": "https://www.edgallrein.com/"
+   },
+   {
+    "topic": "Border security",
+    "point": "Wants the southern border wall finished and Border Patrol and ICE fully funded.",
+    "source": "https://www.edgallrein.com/"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Promises to defend gun rights and back law enforcement.",
+    "source": "https://www.edgallrein.com/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Describes himself as pro-life.",
+    "source": "https://www.edgallrein.com/"
+   },
+   {
+    "topic": "DEI",
+    "point": "Would eliminate DEI programs in schools, the military and government in favor of merit.",
+    "source": "https://www.edgallrein.com/"
+   },
+   {
+    "topic": "Defense",
+    "point": "Backs rebuilding military capacity and supported 2026 U.S. actions in Venezuela and Iran.",
+    "source": "https://en.wikipedia.org/wiki/Ed_Gallrein"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Campaign calls for tax cuts, deregulation and reduced spending.",
+    "source": "https://www.edgallrein.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 50,
+    "evidence": "Pledges to protect the right to keep and bear arms (guns) and describes himself as pro-life (abortion).",
+    "source": "https://www.edgallrein.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports completing the border wall and fully funding ICE and Border Patrol.",
+    "source": "https://www.edgallrein.com/"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Supported 2026 U.S. interventions in Venezuela and Iran and calls for rebuilding the military.",
+    "source": "https://en.wikipedia.org/wiki/Ed_Gallrein"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Ed Gallrein (55505179851) (cropped).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Gage Skidmore"
+  },
+  "campaign_photo": "https://cdn.prod.website-files.com/687e8388e36137e01e4ad24f/68f50cbce6918e7826130a57_57b59d3f95182ca1df0b986d3d719771_gallrein-unifrom-headshot-sq-v3.jpg",
+  "notes": "Liberty raised from 30 to 50 because his campaign site states a pro-life position alongside gun rights."
+ },
+ {
+  "id": "KY-4/melissa-strange",
+  "name": "Melissa Strange",
+  "party": "Democratic",
+  "current_role": "Supply chain director",
+  "bio": "Melissa Strange is a businesswoman who has spent about 27 years in supply chain management for a global food and agribusiness company. She was raised in Villa Hills, lives in Erlanger, and holds degrees from Northern Kentucky University and Thomas More University. She is the Democratic nominee for Kentucky's 4th district.",
+  "website": "https://strangeforky.com/",
+  "social": {
+   "x": "https://x.com/StrangeForKY",
+   "instagram": "https://www.instagram.com/strangeforky/",
+   "facebook": "https://www.facebook.com/people/Melissa-Strange-for-Congress/61584974888471/"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Would protect and expand Medicare, Medicaid and Social Security and lower drug prices.",
+    "source": "https://strangeforky.com/issues/"
+   },
+   {
+    "topic": "Families",
+    "point": "Supports an expanded Child Tax Credit, universal pre-K and a caregiver tax credit.",
+    "source": "https://strangeforky.com/issues/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Focuses on lowering costs, supporting small businesses, manufacturing and unions, and ending tariffs she calls inflationary.",
+    "source": "https://strangeforky.com/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Backs term limits, a ban on congressional stock trading and overturning Citizens United; refuses corporate PAC money.",
+    "source": "https://strangeforky.com/issues/"
+   },
+   {
+    "topic": "Privacy",
+    "point": "Opposes mass surveillance and data centers built without community approval; supports right to repair.",
+    "source": "https://strangeforky.com/issues/"
+   },
+   {
+    "topic": "Conservation",
+    "point": "Proposes making the Red River Gorge a national park.",
+    "source": "https://strangeforky.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 75,
+    "evidence": "Supports expanding Medicare and Medicaid, universal pre-K and an expanded Child Tax Credit.",
+    "source": "https://strangeforky.com/issues/"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Wants government removed from reproductive health care decisions (abortion).",
+    "source": "https://strangeforky.com/issues/"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Platform opposes mass surveillance.",
+    "source": "https://strangeforky.com/issues/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "Supports right-to-repair protections and community approval for data centers.",
+    "source": "https://strangeforky.com/issues/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://strangeforky.com/wp-content/uploads/2026/09/Melissa-Strange11651-1279x1599.jpg",
+  "notes": ""
+ },
+ {
+  "id": "KY-4/jeremy-todd",
+  "name": "Jeremy Todd",
+  "party": "Libertarian",
+  "current_role": "Salesperson",
+  "bio": "Jeremy Todd is the Libertarian Party nominee for Kentucky's 4th congressional district and works as a salesperson. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or stated positions were found."
+ },
+ {
+  "id": "KY-5/hal-rogers",
+  "name": "Hal Rogers",
+  "party": "Republican",
+  "current_role": "U.S. Representative for KY-5",
+  "bio": "Hal Rogers has represented Kentucky's 5th congressional district in eastern Kentucky since 1981, making him the longest-serving Republican in Kentucky's congressional history. He chaired the House Appropriations Committee from 2011 to 2017. Before Congress he was commonwealth's attorney for Pulaski and Rockcastle counties; he is from Barrier, Kentucky.",
+  "website": "https://congressmanhalrogers.com/",
+  "social": {
+   "x": "https://x.com/RepHalRogers",
+   "facebook": "https://www.facebook.com/CongressmanHalRogers",
+   "instagram": "https://www.instagram.com/rephalrogers/",
+   "youtube": "https://www.youtube.com/user/RepHalRogers"
+  },
+  "platform": [
+   {
+    "topic": "Spending",
+    "point": "Points to discretionary spending cuts and oversight from his time as Appropriations chairman.",
+    "source": "https://halrogers.house.gov/issues"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Supports a simpler tax code with lower burdens on small businesses and families.",
+    "source": "https://halrogers.house.gov/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Advocates domestic energy production and coal mining jobs in eastern Kentucky.",
+    "source": "https://halrogers.house.gov/issues"
+   },
+   {
+    "topic": "Drug abuse",
+    "point": "Leads efforts against prescription drug abuse through Operation UNITE's enforcement, treatment and education approach.",
+    "source": "https://halrogers.house.gov/issues"
+   },
+   {
+    "topic": "Regional investment",
+    "point": "Seeks federal funding for infrastructure, broadband, health access and tourism in eastern Kentucky.",
+    "source": "https://congressmanhalrogers.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Supports a balanced budget amendment, voted for Reagan-era tax cuts and backs a simpler, lower-burden tax code.",
+    "source": "https://en.wikipedia.org/wiki/Hal_Rogers"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 80,
+    "evidence": "Holds a 100 percent National Right to Life rating on abortion and opposes same-sex marriage.",
+    "source": "https://en.wikipedia.org/wiki/Hal_Rogers"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "Created Operation UNITE, which relies on drug investigations as one of its main strategies.",
+    "source": "https://halrogers.house.gov/issues"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Supports a border fence with Mexico and making English the official language.",
+    "source": "https://en.wikipedia.org/wiki/Hal_Rogers"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Introduced a 2014 bill providing $1 billion in loan guarantees for Ukraine.",
+    "source": "https://en.wikipedia.org/wiki/Hal_Rogers"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Coal Caucus member who champions coal mining and domestic energy production for affordable prices.",
+    "source": "https://halrogers.house.gov/issues"
+   },
+   "tech": {
+    "score": 25,
+    "evidence": "Opposes net neutrality rules.",
+    "source": "https://en.wikipedia.org/wiki/Hal_Rogers"
+   },
+   "education": null,
+   "faith": {
+    "score": 70,
+    "evidence": "Holds a 92 percent rating from the Christian Coalition.",
+    "source": "https://en.wikipedia.org/wiki/Hal_Rogers"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://congressmanhalrogers.com/assets/images/rogers-profile.jpg",
+  "notes": ""
+ },
+ {
+  "id": "KY-5/ned-pillersdorf",
+  "name": "Ned Pillersdorf",
+  "party": "Democratic",
+  "current_role": "Attorney",
+  "bio": "Ned Pillersdorf is an eastern Kentucky attorney who has practiced law for over four decades, much of it representing low-income clients and people with disability claims. He was a candidate for this district in 1992 and is the Democratic nominee in 2026.",
+  "website": "https://nedforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Safety net",
+    "point": "Opposes cuts to Medicaid, Medicare, food stamps, utility assistance and job training.",
+    "source": "https://nedforcongress.com/"
+   },
+   {
+    "topic": "Rural health",
+    "point": "Wants to expand health care access and protect rural hospitals affected by Medicaid cuts.",
+    "source": "https://nedforcongress.com/press-releases/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Opposes further tax breaks for the wealthiest Americans.",
+    "source": "https://nedforcongress.com/"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Prioritizes rural broadband and safe drinking water in eastern Kentucky.",
+    "source": "https://nedforcongress.com/press-releases/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Pledges to defend Social Security, including service staffing.",
+    "source": "https://nedforcongress.com/press-releases/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Criticizes tax breaks for billionaires and opposes the 2025 budget law.",
+    "source": "https://nedforcongress.com/"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Opposes cuts to Medicaid, Medicare, food stamps and utility assistance and wants expanded health access.",
+    "source": "https://nedforcongress.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No dedicated issues page was found; the campaign image on the site appears to be a logo rather than a headshot."
+ },
+ {
+  "id": "KY-5/gerardo-serrano",
+  "name": "Gerardo Serrano",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Gerardo Serrano is an independent candidate on the general election ballot for Kentucky's 5th congressional district. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, coverage or stated positions were found."
+ },
+ {
+  "id": "KY-5/mikel-wein",
+  "name": "Mikel Wein",
+  "party": "Independent",
+  "current_role": "Archaeologist",
+  "bio": "Mikel Wein is an archaeologist from Letcher County in eastern Kentucky. He has lived and studied in several states and abroad, including Italy and Scotland, and is running as an independent in Kentucky's 5th district.",
+  "website": "https://www.weinforky5.com/",
+  "social": {
+   "x": "https://x.com/weinforky5",
+   "instagram": "https://www.instagram.com/weinforky5/",
+   "facebook": "https://www.facebook.com/61585167021531",
+   "tiktok": "https://tiktok.com/@weinforky5",
+   "youtube": "https://www.youtube.com/@weinforky5"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Supports the Medicare for All Act of 2025 and preserving rural hospitals.",
+    "source": "https://www.weinforky5.com/"
+   },
+   {
+    "topic": "Economic security",
+    "point": "Backs FDR's Economic Bill of Rights, including jobs that pay enough for housing, food and education.",
+    "source": "https://www.weinforky5.com/"
+   },
+   {
+    "topic": "Inequality",
+    "point": "Wants legislation to shift wealth from the top 1 percent back to workers and supports unions.",
+    "source": "https://www.weinforky5.com/"
+   },
+   {
+    "topic": "Communities",
+    "point": "Proposes a Resilient Community Corps and community development agreements for federal environmental projects.",
+    "source": "https://www.weinforky5.com/"
+   },
+   {
+    "topic": "Integrity",
+    "point": "Rejects PAC and campaign donations and wants restored congressional oversight of emergency and military powers.",
+    "source": "https://www.weinforky5.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Supports a guaranteed-jobs Economic Bill of Rights and legislation to reduce wealth concentration.",
+    "source": "https://www.weinforky5.com/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports the Medicare for All Act of 2025.",
+    "source": "https://www.weinforky5.com/"
+   },
+   "liberty": null,
+   "security": {
+    "score": 30,
+    "evidence": "Wants Congress to restore its oversight of presidential emergency and military powers.",
+    "source": "https://www.weinforky5.com/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/a7a823_c034a8c9469f42a6b39d77d4ee5f37a5~mv2.jpg",
+  "notes": "Occupation as archaeologist comes from his FEC filing as cited on Wikipedia, not the campaign site."
+ },
+ {
+  "id": "KY-6/ralph-alvarado",
+  "name": "Ralph Alvarado",
+  "party": "Republican",
+  "current_role": "Physician",
+  "bio": "Ralph Alvarado is a physician who served in the Kentucky State Senate from 2015 to 2023, the first Hispanic member of the Kentucky General Assembly, and was Tennessee's health commissioner from 2023 to 2025. He was Matt Bevin's running mate for lieutenant governor in 2019. Born in California, he trained at Loma Linda University and the University of Kentucky and practices in Central Kentucky.",
+  "website": "https://alvaradoforcongress.com/",
+  "social": {
+   "x": "https://x.com/AlvaradoForKY",
+   "facebook": "https://www.facebook.com/RalphAlvaradoMD"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Wants more affordable care, clearer insurance choices and more patient control.",
+    "source": "https://alvaradoforcongress.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Focuses on lowering prices for groceries, gas and health care.",
+    "source": "https://alvaradoforcongress.com/"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Aims to grow jobs in Kentucky.",
+    "source": "https://alvaradoforcongress.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Pledges to eliminate wasteful government spending.",
+    "source": "https://alvaradoforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Sponsored medical malpractice tort reform as a state senator and campaigns on cutting wasteful spending.",
+    "source": "https://en.wikipedia.org/wiki/Ralph_Alvarado"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Ralph Alvarado by Gage Skidmore.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Gage Skidmore"
+  },
+  "campaign_photo": "https://alvaradoforcongress.com/wp-content/uploads/2025/07/250713_Ralph-Alvarado_170-Edit.jpg",
+  "notes": ""
+ },
+ {
+  "id": "KY-6/zach-dembo",
+  "name": "Zach Dembo",
+  "party": "Democratic",
+  "current_role": "Former federal prosecutor",
+  "bio": "Zach Dembo is a former Assistant U.S. Attorney in Lexington and Justice Department Civil Rights Division prosecutor who says he resigned over politicization of the department. He previously served as a Navy JAG officer, taught eighth grade through Teach For America, and was a policy adviser to Governor Andy Beshear. He lives in Lexington and studied at Stanford and the University of Michigan Law School.",
+  "website": "https://zachdembo.com/",
+  "social": {
+   "x": "https://x.com/ZachDemboKY",
+   "instagram": "https://www.instagram.com/zachdembo/",
+   "facebook": "https://www.facebook.com/zachdembo/",
+   "youtube": "https://www.youtube.com/@ZachDemboforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Trade and costs",
+    "point": "Would end the tariff trade war to bring down prices for families and small businesses.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Opposes Medicaid cuts and backs affordable coverage and rural hospitals.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   {
+    "topic": "Wages",
+    "point": "Supports a minimum wage of at least $15 an hour.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Wants to stop endless wars in the Middle East while repairing alliances.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   {
+    "topic": "Corruption",
+    "point": "Has an anti-corruption plan to restore integrity in government.",
+    "source": "https://zachdembo.com/anti-corruption-plan/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Calls for oversight of data centers that strain the power grid and raise bills.",
+    "source": "https://zachdembo.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 50,
+    "evidence": "Supports a minimum wage of at least $15 an hour while opposing tariffs.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Opposes Medicaid cuts and supports affordable health care.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Says government should not decide when to start a family or what women do with their bodies (abortion).",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Calls for commonsense immigration reform and describes ICE as overfunded and under-supervised.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Opposes endless wars in the Middle East but calls for defending U.S. allies and strengthening NATO.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "A former teacher, he calls for more investment in schools and teachers.",
+    "source": "https://zachdembo.com/priorities/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://zachdembo.com/wp-content/uploads/2025/07/IMG_2566-1-1024x684.webp",
+  "notes": "Economy raised from 40 to 50 given his $15 minimum wage position."
+ }
+]

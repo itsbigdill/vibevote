@@ -1,0 +1,417 @@
+[
+ {
+  "id": "MI-5/james-bronke",
+  "name": "James Bronke",
+  "party": "Green",
+  "race": "MI-5",
+  "race_label": "Michigan · US House MI-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-6/debbie-dingell",
+  "name": "Debbie Dingell",
+  "party": "Democratic",
+  "race": "MI-6",
+  "race_label": "Michigan · US House MI-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000624",
+   "official_name": "Debbie Dingell",
+   "chamber": "House",
+   "official_site": "https://debbiedingell.house.gov",
+   "official_social": {
+    "twitter": "RepDebDingell",
+    "facebook": "RepDebbieDingell",
+    "instagram": "repdingell"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 25,
+    "security": null,
+    "immigration": 20,
+    "foreign": 45,
+    "energy": 85,
+    "tech": null,
+    "education": 90,
+    "faith": 20
+   },
+   "basis": "Expanded EITC and unemployment insurance; abortion access and universal background checks (liberty); citizenship path; limits on Iran war; green energy; opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/MI/Debbie_Dingell.htm",
+    "https://en.wikipedia.org/wiki/Debbie_Dingell"
+   ],
+   "photo": {
+    "file": "File:Debbie Dingell Official Headshot.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MI-6/heather-smiley",
+  "name": "Heather Smiley",
+  "party": "Republican",
+  "race": "MI-6",
+  "race_label": "Michigan · US House MI-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 65,
+    "security": null,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Free market, balanced budget; pro-life and gun rights (liberty); close border and limit chain migration; build military; energy independence; religious freedom.",
+   "sources": [
+    "https://smileyforcongress.com/?page_id=269"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-6/clyde-shabazz",
+  "name": "Clyde Shabazz",
+  "party": "Green",
+  "race": "MI-6",
+  "race_label": "Michigan · US House MI-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-7/tom-barrett",
+  "name": "Tom Barrett",
+  "party": "Republican",
+  "race": "MI-7",
+  "race_label": "Michigan · US House MI-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001321",
+   "official_name": "Tom Barrett",
+   "chamber": "House",
+   "official_site": "https://barrett.house.gov",
+   "official_social": {
+    "twitter": "reptombarrett",
+    "facebook": "RepTomBarrett"
+   },
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for the One Big Beautiful Bill Act's tax cuts and Medicaid changes; limited other documented stances.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"
+   ],
+   "photo": {
+    "file": "File:Tom Barrett, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe"
+   }
+  }
+ },
+ {
+  "id": "MI-7/william-lawrence",
+  "name": "William Lawrence",
+  "party": "Democratic",
+  "race": "MI-7",
+  "race_label": "Michigan · US House MI-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 95,
+    "welfare": 95,
+    "liberty": null,
+    "security": 10,
+    "immigration": 10,
+    "foreign": 15,
+    "energy": 95,
+    "tech": 80,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax the wealthy, Medicare for All, public housing, past police-abolition posts, anti-ICE, ending Iran war and Israel arms sales, Green New Deal, data-center pause.",
+   "sources": [
+    "https://wewill2026.com/",
+    "https://en.wikipedia.org/wiki/William_Lawrence_(activist)"
+   ],
+   "photo": {
+    "file": "File:William Lawrence 2026.jpg",
+    "license": "CC0",
+    "author": "Sabio117"
+   }
+  }
+ },
+ {
+  "id": "MI-8/kristen-mcdonald-rivet",
+  "name": "Kristen McDonald Rivet",
+  "party": "Democratic",
+  "race": "MI-8",
+  "race_label": "Michigan · US House MI-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001237",
+   "official_name": "Kristen McDonald Rivet",
+   "chamber": "House",
+   "official_site": "https://mcdonaldrivet.house.gov",
+   "official_social": {
+    "twitter": "repkmr",
+    "facebook": "repmcdonaldrivet",
+    "instagram": "repmcdonaldrivet"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": 55,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Expanded Working Families Tax Credit, Child Care for All package, safe-storage gun law, Laken Riley Act vote, joined anti-socialist Promise to America.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kristen_McDonald_Rivet",
+    "https://kristenmcdonaldrivet.com/priorities/"
+   ],
+   "photo": {
+    "file": "File:Kristen McDonald Rivet, official portrait - 2025.jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe"
+   }
+  }
+ },
+ {
+  "id": "MI-8/tom-smith",
+  "name": "Tom Smith",
+  "party": "Republican",
+  "race": "MI-8",
+  "race_label": "Michigan · US House MI-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Retired engineer who suspended his campaign before winning the primary; no published issue positions found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-9/lisa-mcclain",
+  "name": "Lisa McClain",
+  "party": "Republican",
+  "race": "MI-9",
+  "race_label": "Michigan · US House MI-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001136",
+   "official_name": "Lisa C. McClain",
+   "chamber": "House",
+   "official_site": "https://mcclain.house.gov",
+   "official_social": {
+    "twitter": "RepLisaMcClain",
+    "facebook": "RepLisaMcClain",
+    "instagram": "replisamcclain"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposed ARPA and Inflation Reduction Act, favors Social Security privatization, opposes Medicare expansion, opposes citizenship path, backs immigration bans.",
+   "sources": [
+    "https://www.ontheissues.org/MI/Lisa_McClain.htm",
+    "https://en.wikipedia.org/wiki/Lisa_McClain"
+   ],
+   "photo": {
+    "file": "File:Rep. Lisa McClain.jpg",
+    "license": "Public domain",
+    "author": "Office of Rep. Lisa McClain"
+   }
+  }
+ },
+ {
+  "id": "MI-9/ray-pooley",
+  "name": "Ray Pooley",
+  "party": "Democratic",
+  "race": "MI-9",
+  "race_label": "Michigan · US House MI-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": 25,
+    "foreign": 35,
+    "energy": 80,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax the ultra-wealthy, CEO pay caps, Medicare for All, citizenship pathways and opposes ICE raids, diplomacy over war, renewables, strict data-center regulation.",
+   "sources": [
+    "https://www.pooley4congress.com/copy-of-the-issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-10/mike-bouchard-jr",
+  "name": "Mike Bouchard Jr.",
+  "party": "Republican",
+  "race": "MI-10",
+  "race_label": "Michigan · US House MI-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 30,
+    "liberty": null,
+    "security": null,
+    "immigration": 90,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Deregulation with Trump trade policy; opposes socialist healthcare; finish wall, Remain in Mexico, deport criminal immigrants; Parents' Bill of Rights.",
+   "sources": [
+    "https://www.bouchardforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-10/christina-hines",
+  "name": "Christina Hines",
+  "party": "Democratic",
+  "race": "MI-10",
+  "race_label": "Michigan · US House MI-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 70,
+    "tech": 65,
+    "education": null,
+    "faith": 55
+   },
+   "basis": "Higher minimum wage, paid leave, anti price-gouging; universal healthcare plan; opposes DHS family targeting; Great Lakes protection; AI guardrails and kids' addictive tech limits.",
+   "sources": [
+    "https://www.christinahinesforcongress.com/"
+   ],
+   "photo": null
+  }
+ }
+]

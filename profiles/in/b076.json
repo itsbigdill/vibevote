@@ -1,0 +1,436 @@
+[
+ {
+  "id": "ND-AL/charles-tuttle",
+  "name": "Charles Tuttle",
+  "party": "Independent",
+  "race": "ND-AL",
+  "race_label": "North Dakota · US House ND-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-1/greg-landsman",
+  "name": "Greg Landsman",
+  "party": "Democratic",
+  "race": "OH-1",
+  "race_label": "Ohio · US House OH-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000601",
+   "official_name": "Greg Landsman",
+   "chamber": "House",
+   "official_site": "https://landsman.house.gov",
+   "official_social": {
+    "twitter": "repgreglandsman",
+    "facebook": "RepGregLandsman",
+    "instagram": "repgreglandsman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 70,
+    "liberty": 20,
+    "security": 55,
+    "immigration": 25,
+    "foreign": 80,
+    "energy": 65,
+    "tech": 80,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Pro-Choice Caucus; billionaire-funded worker relief; COPS grants; opposes ending Haitian TPS; initially backed Iran strikes; AI data-center regulation; Head Start funding.",
+   "sources": [
+    "https://landsman.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Greg_Landsman",
+    "https://landsman.house.gov/issues/energy"
+   ],
+   "photo": {
+    "file": "File:Greg Landsman Official Portrait 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   }
+  }
+ },
+ {
+  "id": "OH-1/eric-conroy",
+  "name": "Eric Conroy",
+  "party": "Republican",
+  "race": "OH-1",
+  "race_label": "Ohio · US House OH-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 55,
+    "liberty": 70,
+    "security": 70,
+    "immigration": 75,
+    "foreign": 75,
+    "energy": 30,
+    "tech": 25,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Cut red tape, protect Social Security and Medicare, women's sports bill, back police, border enforcement, strong military and Israel, pro-crypto, parental control.",
+   "sources": [
+    "https://ericconroy.com/issues/",
+    "https://ballotpedia.org/Eric_Conroy"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-1/nathan-weise",
+  "name": "Nathan Weise",
+  "party": "Libertarian",
+  "race": "OH-1",
+  "race_label": "Ohio · US House OH-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Ohio%27s_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-2/david-taylor",
+  "name": "David Taylor",
+  "party": "Republican",
+  "race": "OH-2",
+  "race_label": "Ohio · US House OH-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000490",
+   "official_name": "David J. Taylor",
+   "chamber": "House",
+   "official_site": "https://taylor.house.gov",
+   "official_social": {
+    "twitter": "RepDaveTaylor",
+    "facebook": "61571224837800",
+    "instagram": "repdavetaylor"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 85,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Voted for 2025 reconciliation tax and Medicaid bill; pro-life; Second Amendment; border enforcement with Trump; parent-guided education against 'indoctrination'.",
+   "sources": [
+    "https://taylor.house.gov/issues",
+    "https://davetaylorforcongress.com/"
+   ],
+   "photo": {
+    "file": "File:Rep. Dave Taylor Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "OH-2/jen-mazzuckelli",
+  "name": "Jen Mazzuckelli",
+  "party": "Democratic",
+  "race": "OH-2",
+  "race_label": "Ohio · US House OH-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Survey stresses economic and legal supports for domestic-violence survivors and congressional spending oversight; little stated on other domains.",
+   "sources": [
+    "https://ballotpedia.org/Jen_Mazzuckelli"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-3/joyce-beatty",
+  "name": "Joyce Beatty",
+  "party": "Democratic",
+  "race": "OH-3",
+  "race_label": "Ohio · US House OH-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001281",
+   "official_name": "Joyce Beatty",
+   "chamber": "House",
+   "official_site": "https://beatty.house.gov",
+   "official_social": {
+    "twitter": "RepBeatty",
+    "facebook": "RepJoyceBeatty",
+    "instagram": "repbeatty"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 20,
+    "security": null,
+    "immigration": 40,
+    "foreign": 70,
+    "energy": 80,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-choice; backed MORE Act on cannabis; opposes corporate tax cuts; defends ACA; supports parts of Green New Deal; voted for Israel support.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Joyce_Beatty",
+    "https://beatty.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Joyce Beatty - 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "OH-3/cleophus-dulaney",
+  "name": "Cleophus Dulaney",
+  "party": "Republican",
+  "race": "OH-3",
+  "race_label": "Ohio · US House OH-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 75,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Survey answers cite opposition to abortion and support for Second Amendment; campaign lists housing, policing relations and addiction rehab without detailed positions.",
+   "sources": [
+    "https://ballotpedia.org/Cleophus_Dulaney",
+    "https://votedulaney.org/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-4/jim-jordan",
+  "name": "Jim Jordan",
+  "party": "Republican",
+  "race": "OH-4",
+  "race_label": "Ohio · US House OH-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000289",
+   "official_name": "Jim Jordan",
+   "chamber": "House",
+   "official_site": "https://jordan.house.gov",
+   "official_social": {
+    "twitter": "Jim_Jordan",
+    "facebook": "repjimjordan",
+    "youtube": "RepJimJordan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 15,
+    "liberty": 85,
+    "security": null,
+    "immigration": 85,
+    "foreign": 25,
+    "energy": 5,
+    "tech": 30,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Low taxes, ACA repeal, anti-abortion, opposed same-sex marriage and marijuana liberalization, anti-amnesty, opposed Ukraine aid, pro-drilling, opposes Big Tech breakups, parental choice.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jim_Jordan",
+    "https://jordan.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Jim Jordan.jpg",
+    "license": "Public domain",
+    "author": "US Congress"
+   }
+  }
+ },
+ {
+  "id": "OH-4/joshua-kolasinski",
+  "name": "Joshua Kolasinski",
+  "party": "Democratic",
+  "race": "OH-4",
+  "race_label": "Ohio · US House OH-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 30,
+    "security": 15,
+    "immigration": 35,
+    "foreign": 20,
+    "energy": null,
+    "tech": 60,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Workers over shareholders, Medicare drug negotiation, addiction as health issue, opposes mass surveillance and wars of choice, data-center costs, opposes vouchers.",
+   "sources": [
+    "https://www.joshuaforohio.com/",
+    "https://ballotpedia.org/Joshua_Kolasinski"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-4/tracey-tackett",
+  "name": "Tracey Tackett",
+  "party": "Independent",
+  "race": "OH-4",
+  "race_label": "Ohio · US House OH-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Ohio%27s_4th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-5/bob-latta",
+  "name": "Bob Latta",
+  "party": "Republican",
+  "race": "OH-5",
+  "race_label": "Ohio · US House OH-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000566",
+   "official_name": "Robert E. Latta",
+   "chamber": "House",
+   "official_site": "https://latta.house.gov",
+   "official_social": {
+    "twitter": "BobLatta",
+    "facebook": "boblatta",
+    "youtube": "CongressmanBobLatta",
+    "instagram": "boblatta"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 25,
+    "liberty": 80,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Estate tax repeal and 2025 reconciliation vote; A+ Susan B. Anthony pro-life rating; HALT Fentanyl Act; domestic energy production bills.",
+   "sources": [
+    "https://latta.house.gov/issues/issue/?IssueID=4926",
+    "https://latta.house.gov/issues/issue/?IssueID=4924",
+    "https://en.wikipedia.org/wiki/Bob_Latta"
+   ],
+   "photo": {
+    "file": "File:Bob Latta portrait 118th Congress.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ }
+]

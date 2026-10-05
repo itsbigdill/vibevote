@@ -1,0 +1,847 @@
+[
+  {
+    "state": "Florida",
+    "district": "FL-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jimmy Patronis",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for the 2025 One Big Beautiful Bill Act with its tax cuts and Medicaid work requirements.",
+        "sources": [
+          "https://clerk.house.gov/evs/2025/roll190.xml"
+        ],
+        "photo": {
+          "file": "File:Jimmy Patronis, official portrait (119th Congress) (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Gay Valimont",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 85,
+          "liberty": 70,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Backs universal affordable healthcare, fighting price gouging, background checks and red-flag laws (liberty from guns), Dreamer citizenship, teacher pay.",
+        "sources": [
+          "https://www.gayforcongress.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Tyler Davis",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Austin Rogers",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 75,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign pledges to secure the border under an America First agenda; few other stated positions.",
+        "sources": [
+          "https://rogersforflorida.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Amanda Green",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign site lists only a congressional stock-trading ban, term limits and no billionaire donors.",
+        "sources": [
+          "https://www.amgforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Kat Cammack",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 60,
+          "security": null,
+          "immigration": 85,
+          "foreign": 50,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": 70
+        },
+        "basis": "Voted for 2025 tax bill and Laken Riley Act; backs border wall, more oil; opposes abortion and gun checks (liberty); mixed Ukraine/Syria votes.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kat_Cammack",
+          "https://clerk.house.gov/evs/2025/roll190.xml",
+          "https://clerk.house.gov/evs/2025/roll023.xml"
+        ],
+        "photo": {
+          "file": "File:Rep. Kat Cammack official photo, 117th Congress (3x4 cropped).jpg",
+          "license": "Public domain",
+          "author": "Office of Congresswoman Kat Cammack"
+        }
+      },
+      {
+        "name": "Seth Harp",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 85,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Proposes 26% corporate tax, CEO pay cap, higher payroll tax cap, guaranteed affordable healthcare, universal school lunch and child care subsidies.",
+        "sources": [
+          "https://www.sethharpforcongress.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mike Klein",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Aaron Bean",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": null,
+          "security": null,
+          "immigration": 75,
+          "foreign": 75,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2025 tax bill with Medicaid changes and Laken Riley Act; backed Israel aid and the 2026 Iran war.",
+        "sources": [
+          "https://bean.house.gov/issues",
+          "https://en.wikipedia.org/wiki/Aaron_Bean",
+          "https://clerk.house.gov/evs/2025/roll023.xml"
+        ],
+        "photo": {
+          "file": "File:Rep. Aaron Bean official photo, 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "LaShonda Holloway",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 80,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Calls healthcare a basic right regardless of income; supports investing in education and lowering college costs.",
+        "sources": [
+          "https://www.hollowayforcongress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mike Sell",
+        "party": "Forward",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Todd Schaefer",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "John Rutherford",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": 75,
+          "security": 75,
+          "immigration": 75,
+          "foreign": null,
+          "energy": 40,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 and 2025 tax cuts, ACA repeal, Laken Riley Act; opposes abortion and marijuana (liberty); ex-sheriff; opposes offshore drilling and Green New Deal.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)",
+          "https://clerk.house.gov/evs/2025/roll190.xml",
+          "https://clerk.house.gov/evs/2025/roll023.xml"
+        ],
+        "photo": {
+          "file": "File:Rutherford John 119th Congress (cropped) (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Rachel Grage",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published policy positions found on campaign site.",
+        "sources": [
+          "https://www.rachelgrage.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Randy Fine",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 70,
+          "security": 80,
+          "immigration": 90,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": 10,
+          "faith": null
+        },
+        "basis": "Voted for 2025 tax bill; backs vouchers, drag-show limits (liberty), harsher penalties, immigration enforcement, hawkish Israel/Iran stance, skeptical of Ukraine.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Randy_Fine",
+          "https://clerk.house.gov/evs/2025/roll190.xml"
+        ],
+        "photo": {
+          "file": "File:Rep. Randy Fine, official portrait, 2026 (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Eric Yonce",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published policy positions found on campaign site.",
+        "sources": [
+          "https://yonceforcongress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Andrew Parrott",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ryan Elijah",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": 30,
+          "liberty": 55,
+          "security": 70,
+          "immigration": 70,
+          "foreign": null,
+          "energy": 25,
+          "tech": null,
+          "education": 15,
+          "faith": 65
+        },
+        "basis": "Backs low taxes, HSAs, pro-life stance and NRA-rated gun rights (liberty), tougher penalties, SAVE Act, energy independence, school choice, family values.",
+        "sources": [
+          "https://elijahforcongress.com/issues.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Bale Dalton",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 70,
+          "liberty": 25,
+          "security": 55,
+          "immigration": 55,
+          "foreign": 30,
+          "energy": 45,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs higher minimum wage, PRO Act, ACA expansion, codifying Roe and gun rights (liberty), police funding, border security, opposes Middle East wars.",
+        "sources": [
+          "https://baledalton.com/priorities/"
+        ],
+        "photo": {
+          "file": "File:Bale Dalton.webp",
+          "license": "Public domain",
+          "author": "NASA"
+        }
+      },
+      {
+        "name": "Christopher Dennison",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Haridopolos",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 20,
+          "security": 55,
+          "immigration": 80,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2025 tax bill and Laken Riley Act; supports Second Amendment (liberty), backing police while opposing justice-system weaponization, border security.",
+        "sources": [
+          "https://www.mike4congress.com/issues",
+          "https://clerk.house.gov/evs/2025/roll190.xml",
+          "https://clerk.house.gov/evs/2025/roll023.xml"
+        ],
+        "photo": {
+          "file": "File:Haridolopos Mike 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Jennifer Jenkins",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 80,
+          "liberty": null,
+          "security": 40,
+          "immigration": 30,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Backs Medicaid expansion, ACA subsidies, evidence-based public safety, immigrants' constitutional rights, Department of Education and Title I funding.",
+        "sources": [
+          "https://jenkinsforfl.com/priorities/"
+        ],
+        "photo": {
+          "file": "File:Jennifer Jenkins.jpg",
+          "license": "Public domain",
+          "author": "Brevard County School"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Darren Soto",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 70,
+          "liberty": 75,
+          "security": null,
+          "immigration": 25,
+          "foreign": null,
+          "energy": 85,
+          "tech": 35,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposed 2025 tax bill; backs manufacturing incentives, DREAM Act, assault-weapons ban (liberty from guns), LCV-rated environmental votes; eased crypto oversight.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Darren_Soto",
+          "https://clerk.house.gov/evs/2025/roll190.xml",
+          "https://clerk.house.gov/evs/2025/roll023.xml"
+        ],
+        "photo": {
+          "file": "File:Darren Soto, official portrait, 115th Congress (congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Dan Green",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Former defense official pledging to keep the military funded; site stresses affordability without detailed stances.",
+        "sources": [
+          "https://dangreenfl.com/"
+        ],
+        "photo": {
+          "file": "File:Daniel R. Green (cropped).jpg",
+          "license": "Public domain",
+          "author": "JoAnne Sorrentino, U.S. Department of Defense"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-10",
+    "office": "US House",
+    "status": "Frost unopposed; general election canceled",
+    "candidates": [
+      {
+        "name": "Maxwell Frost",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 95,
+          "liberty": 30,
+          "security": 10,
+          "immigration": 10,
+          "foreign": 30,
+          "energy": 95,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs single-payer, Green New Deal, cannabis and sex-work decriminalization (liberty, with gun control), prison abolition goal; opposes border wall, further Israel aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Maxwell_Frost",
+          "https://clerk.house.gov/evs/2025/roll190.xml",
+          "https://clerk.house.gov/evs/2025/roll023.xml"
+        ],
+        "photo": {
+          "file": "File:Rep. Maxwell Frost - 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-11",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Joe Strada",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 40,
+          "liberty": 55,
+          "security": 70,
+          "immigration": 90,
+          "foreign": 70,
+          "energy": 20,
+          "tech": null,
+          "education": 15,
+          "faith": 75
+        },
+        "basis": "Backs balanced budget, protecting Social Security, gun rights and barring trans athletes (liberty), finishing the wall, peace through strength, school choice, religious liberty.",
+        "sources": [
+          "https://votestrada.com/priorities"
+        ],
+        "photo": null
+      },
+      {
+        "name": "James Pericola",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 55,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Proposes no income tax under $100,000, protecting Social Security and Medicare, ACA expansion and Medicare drug negotiation.",
+        "sources": [
+          "https://jamespericola.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Ralph Groves",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-12",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Gus Bilirakis",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": 35,
+          "security": 60,
+          "immigration": 75,
+          "foreign": null,
+          "energy": 25,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 and 2025 tax cuts, ACA repeal, Laken Riley Act; NRA A-rated (liberty); anti-climate-tax pledge; backs Take It Down Act for kids online.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gus_Bilirakis",
+          "https://bilirakisforcongress.com/",
+          "https://clerk.house.gov/evs/2025/roll190.xml"
+        ],
+        "photo": {
+          "file": "File:Gus Bilirakis, official portrait, 118th Congress (head crop).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Kimberly Overman",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 75,
+          "liberty": 35,
+          "security": 45,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Backs expanded care access, reproductive and LGBTQ rights with gun-safety endorsements (liberty), balanced policing with prevention, fully funded public schools.",
+        "sources": [
+          "https://kimberlyoverman.com/issues/"
+        ],
+        "photo": {
+          "file": "File:Overman Full HCFLGovnet.jpg",
+          "license": "Public domain",
+          "author": "Hillsborough County, Florida"
+        }
+      },
+      {
+        "name": "Branden Scrivener",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

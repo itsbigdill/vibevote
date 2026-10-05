@@ -1,0 +1,312 @@
+[
+ {
+  "id": "MI-1/zebulon-featherly",
+  "name": "Zebulon Featherly",
+  "party": "Independent",
+  "current_role": "Factory worker",
+  "bio": "Zebulon Featherly is an independent candidate for Michigan's 1st Congressional District in 2026. He grew up near Houghton on a small family farm, trained in wind energy at a trade school in Vancouver, Washington, and worked for about five years as a wind turbine technician; he is now based in Traverse City. He took part in a March 2026 candidate forum in Marquette.",
+  "website": "https://www.zebulonforcongress.com/",
+  "social": {
+   "x": "https://x.com/ZebForCongress",
+   "instagram": "https://www.instagram.com/zebulonforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61581340856899",
+   "tiktok": "https://www.tiktok.com/@zebulonforcongress",
+   "youtube": "https://www.youtube.com/@ZebulonFeatherly"
+  },
+  "platform": [
+   {
+    "topic": "Independence",
+    "point": "Runs without a party label, pledging to represent constituents rather than party interests.",
+    "source": "https://www.zebulonforcongress.com/"
+   },
+   {
+    "topic": "Wages and taxes",
+    "point": "Would push to raise the minimum wage, oppose new taxes on working families and have the very wealthy pay more.",
+    "source": "https://www.zebulonforcongress.com/where-i-stand"
+   },
+   {
+    "topic": "Health care and college",
+    "point": "Supports making universal health care and tuition-free higher education a reality.",
+    "source": "https://www.zebulonforcongress.com/where-i-stand"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Backs a clear, fair path to citizenship for people building their lives in the United States.",
+    "source": "https://www.zebulonforcongress.com/where-i-stand"
+   },
+   {
+    "topic": "Guns",
+    "point": "Calls gun ownership a fundamental right and says he would not take guns away but would seek responsible safeguards.",
+    "source": "https://www.zebulonforcongress.com/where-i-stand"
+   },
+   {
+    "topic": "National debt",
+    "point": "Proposes pay-as-you-go budgeting, lifting the Social Security payroll tax cap, drug-price negotiation and closer scrutiny of defense spending.",
+    "source": "https://www.zebulonforcongress.com/statements/us-national-debt"
+   },
+   {
+    "topic": "Forests",
+    "point": "Opposes moving the U.S. Forest Service headquarters out of Washington and closing most of its research facilities.",
+    "source": "https://www.zebulonforcongress.com/statements/forest-service"
+   },
+   {
+    "topic": "Labor",
+    "point": "Announced he would join the May 1, 2026 general strike, citing wealth inequality and corporate conduct toward workers.",
+    "source": "https://www.zebulonforcongress.com/statements/general-strike"
+   }
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Pledges to raise the minimum wage, have extreme wealth pay more, lift the Social Security payroll tax cap and negotiate drug prices, and says billionaires should not exist.", "source": "https://www.zebulonforcongress.com/statements/us-national-debt"},
+   "welfare": {"score": 85, "evidence": "Says he is committed to making universal health care and tuition-free higher education a reality.", "source": "https://www.zebulonforcongress.com/where-i-stand"},
+   "liberty": {"score": 50, "evidence": "Only guns are addressed: he calls gun ownership fundamental and says he would not take guns away but would push for responsible safeguards; abortion, drugs, LGBTQ rights and speech are not addressed.", "source": "https://www.zebulonforcongress.com/where-i-stand"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Supports a clear, fair path to citizenship for everyone building a life in America and welcoming immigrants who contribute.", "source": "https://www.zebulonforcongress.com/where-i-stand"},
+   "foreign": null,
+   "energy": {"score": 65, "evidence": "General statement: pledges to push clean energy advancements and environmental protection, while also citing domestic energy independence.", "source": "https://www.zebulonforcongress.com/where-i-stand"},
+   "tech": {"score": 60, "evidence": "General statement: pledges to stand against companies that profit from deception and criticizes tech billionaires profiting from users' attention.", "source": "https://www.zebulonforcongress.com/where-i-stand"},
+   "education": {"score": 65, "evidence": "Supports tuition-free public higher education; he has not addressed K-12 school choice or vouchers.", "source": "https://www.zebulonforcongress.com/where-i-stand"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched his campaign site pages (Where I Stand, My Story, Statements, Transparency) and forum coverage; his site says he worked as a wind turbine technician, while the factory-worker role comes from Wikipedia's candidate list and was not independently confirmed. No positions were found on abortion, drugs, policing and surveillance, foreign policy or religion."
+ },
+ {
+  "id": "MO-1/tom-schmitz",
+  "name": "Tom Schmitz",
+  "party": "Libertarian",
+  "current_role": "Ward 4 vice chair, Libertarian Party of Missouri",
+  "bio": "Tom Schmitz is the Ward 4 vice chair of the Libertarian Party of Missouri. He ran unopposed in the 2026 Libertarian primary for Missouri's 1st District, receiving 428 votes.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the Missouri Libertarian Party candidate page (no links listed), Wikipedia's race page and likely campaign domains; no campaign site or issue statements were found. All ten topics remain unknown."
+ },
+ {
+  "id": "MO-3/jim-higgins",
+  "name": "Jim Higgins",
+  "party": "Libertarian",
+  "current_role": "Computer systems analyst",
+  "bio": "Jim Higgins is a computer systems analyst and the Libertarian nominee for Missouri's 3rd Congressional District in 2026. He was unopposed in the Libertarian primary and has run for office several times before.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the Missouri Libertarian Party candidate page, Wikipedia's race page (no campaign site listed) and likely campaign domains; no issue statements were found. All ten topics remain unknown."
+ },
+ {
+  "id": "MO-4/thomas-holbrook",
+  "name": "Thomas Holbrook",
+  "party": "Libertarian",
+  "current_role": "Document imaging specialist",
+  "bio": "Thomas Holbrook is a document imaging specialist and the Libertarian nominee for Missouri's 4th Congressional District in 2026. He was unopposed in the Libertarian primary.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Missouri Libertarian Party lists him as Thomas Holbrook II; its candidate page, KCUR's candidate guide and Wikipedia give no website or positions, and holbrookforcongress.com is a parked domain. All ten topics remain unknown."
+ },
+ {
+  "id": "MO-5/randy-langkraehr",
+  "name": "Randy Langkraehr",
+  "party": "Libertarian",
+  "current_role": "Business owner",
+  "bio": "Randall \"Randy\" Langkraehr is a business owner and the Libertarian nominee for Missouri's 5th Congressional District in 2026. He was unopposed in the Libertarian primary.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the Missouri Libertarian Party candidate page, KCUR's candidate guide, Wikipedia and likely campaign domains; none list a website or positions. His ballot name may appear as Randall \"Randy\" Langkraehr."
+ },
+ {
+  "id": "MO-6/andy-maidment",
+  "name": "Andy Maidment",
+  "party": "Libertarian",
+  "current_role": "Retired Army officer and IT security professional",
+  "bio": "Andy Maidment is a retired officer who served 21 years in the U.S. Army and Missouri National Guard and now works in information technology security. He holds a history degree from Missouri State University and has lived in Missouri since age twelve. He is the Libertarian nominee for Missouri's 6th Congressional District in 2026.",
+  "website": "https://www.maidmentformissouri.com/",
+  "social": {
+   "x": "https://twitter.com/Anders_Maidment",
+   "instagram": "https://www.instagram.com/anders.maidment/",
+   "facebook": "https://www.facebook.com/AndersMaidment"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Calls taxation theft and argues the country prospered before the income tax, seeking to make the IRS unimportant.",
+    "source": "https://www.maidmentformissouri.com/issues"
+   },
+   {
+    "topic": "Federal agencies",
+    "point": "Would eliminate the Departments of Education, Commerce and Homeland Security, which he says lack a constitutional basis.",
+    "source": "https://www.maidmentformissouri.com/issues"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Would require Congress to approve federal regulations before they take effect.",
+    "source": "https://www.maidmentformissouri.com/issues"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Wants to end surveillance powers created under the Patriot Act.",
+    "source": "https://www.maidmentformissouri.com/issues"
+   },
+   {
+    "topic": "Guns and speech",
+    "point": "Supports expanding the right to keep and bear arms and protecting free speech.",
+    "source": "https://www.maidmentformissouri.com/issues"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Would bring U.S. troops home from the Middle East, keep a strong national defense and trade peacefully with other nations.",
+    "source": "https://www.maidmentformissouri.com/issues"
+   },
+   {
+    "topic": "Spending",
+    "point": "Criticizes COVID relief fraud and costly military technology programs, and aims to reduce the national debt.",
+    "source": "https://www.maidmentformissouri.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Calls taxation theft and wants Congress to approve regulations before they take effect.", "source": "https://www.maidmentformissouri.com/issues"},
+   "welfare": {"score": 30, "evidence": "General statement: argues taxes take money from those who produce and give it to those who do not; no specific program proposals.", "source": "https://www.maidmentformissouri.com/issues"},
+   "liberty": {"score": 15, "evidence": "Supports expanding gun rights and protecting free speech; abortion, drugs and LGBTQ rights are not addressed.", "source": "https://www.maidmentformissouri.com/issues"},
+   "security": {"score": 10, "evidence": "Wants to end Patriot Act surveillance and eliminate the Department of Homeland Security.", "source": "https://www.maidmentformissouri.com/issues"},
+   "immigration": null,
+   "foreign": {"score": 15, "evidence": "Calls for bringing troops home from the Middle East and ending what he calls the Forever War, favoring peaceful trade.", "source": "https://www.maidmentformissouri.com/issues"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 30, "evidence": "Would eliminate the federal Department of Education; he does not address vouchers or school choice directly.", "source": "https://www.maidmentformissouri.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/62412c9989d1a62f9744aae0/2ef9587f-9bc4-4db5-a12d-14537274312d/Straight_on_window_cropped.jpg",
+  "notes": "Found his campaign site through Wikipedia and read its Issues, About, Media and What is a Libertarian pages. No positions were found on immigration, energy, technology or religion."
+ },
+ {
+  "id": "MO-8/rebecca-sharpe-lombard",
+  "name": "Rebecca Sharpe Lombard",
+  "party": "Libertarian",
+  "current_role": "Ward 6 treasurer, Libertarian Party of Missouri",
+  "bio": "Rebecca Sharpe Lombard is the Ward 6 treasurer for the Libertarian Party of Missouri. She was unopposed in the 2026 Libertarian primary and is the party's nominee for Missouri's 8th Congressional District.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the Missouri Libertarian Party candidate page (listed as Rebecca Lombard, no links), Wikipedia's race page and likely campaign domains; no campaign site or issue statements were found. All ten topics remain unknown."
+ },
+ {
+  "id": "MS-3/erik-kiehle",
+  "name": "Erik Kiehle",
+  "party": "Libertarian",
+  "current_role": "Property manager",
+  "bio": "Erik Kiehle is a property management businessman from the Meridian area of Lauderdale County, Mississippi, and the Libertarian nominee for Mississippi's 3rd Congressional District. He is a volunteer firefighter with two Lauderdale County departments and a private pilot.",
+  "website": "https://kiehle4congress.us",
+  "social": {
+   "instagram": "https://www.instagram.com/kiehle4congress"
+  },
+  "platform": [
+   {
+    "topic": "National strength",
+    "point": "Describes himself as 'America First' and emphasizes national strength and security.",
+    "source": "https://kiehle4congress.us/"
+   },
+   {
+    "topic": "Values",
+    "point": "Says the nation should reflect equal opportunity, accountability and justice.",
+    "source": "https://kiehle4congress.us/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Pledges transparency and accountability to all constituents.",
+    "source": "https://kiehle4congress.us/"
+   },
+   {
+    "topic": "Constituent service",
+    "point": "Promises to listen to local concerns and advocate for Mississippians.",
+    "source": "https://kiehle4congress.us/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://kiehle4congress.us/images/1024%2C3024x3481%2B503%2B-504%2C90/21563737/Kiehle-IePzkmWV7iiGWEiSTPWKEA.jpg",
+  "notes": "Re-read his one-page campaign site (its About, Values and Info sections are anchors on the home page) and Wikipedia's race page; only general themes are stated, so no positions were scored. His Facebook page could not be read without logging in."
+ }
+]

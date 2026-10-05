@@ -1,0 +1,357 @@
+[
+ {
+  "id": "NJ-7/seamus-patrick-o-toole",
+  "name": "Seamus Patrick O'Toole",
+  "party": "Stop Israel's Genocide",
+  "current_role": "",
+  "bio": "Seamus Patrick O'Toole is an independent candidate for New Jersey's 7th congressional district, appearing on the ballot under the slogan \"Stop Israel's Genocide.\" He qualified by petition, and his signatures withstood a challenge in June 2026.",
+  "website": "",
+  "social": {},
+  "platform": [
+    {"topic": "Foreign policy", "point": "Runs on a ballot slogan centred on opposing Israel's military conduct in Gaza.", "source": "https://newjerseyglobe.com/congress/stop-israels-genocide-nj-7-candidate-survives-dem-petition-challenge/"}
+  ],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or detailed positions were found beyond the ballot slogan."
+ },
+ {
+  "id": "NJ-8/rob-menendez",
+  "name": "Rob Menendez",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NJ-8",
+  "bio": "Rob Menendez has represented New Jersey's 8th congressional district since 2023 and sits on the House Energy and Commerce Committee. He previously practised law at Lowenstein Sandler and served as a commissioner of the Port Authority of New York and New Jersey from 2021 to 2023. He was born in Englewood and raised in Union City.",
+  "website": "https://www.robmenendez.com/",
+  "social": {
+    "x": "https://twitter.com/RobMenendez4NJ",
+    "instagram": "https://www.instagram.com/robmenendez4nj/",
+    "facebook": "https://www.facebook.com/RobMenendez4NJ"
+  },
+  "platform": [
+    {"topic": "Immigration", "point": "Calls for abolishing ICE, closing private detention centers, ending mass deportations and creating pathways to citizenship.", "source": "https://www.robmenendez.com/issues/immigration/"},
+    {"topic": "Healthcare", "point": "Wants to protect and expand the ACA, lower drug costs and codify Roe through the Women's Health Protection Act.", "source": "https://www.robmenendez.com/issues/healthcare/"},
+    {"topic": "Climate", "point": "Backs large clean-energy investment aimed at halving greenhouse gas emissions by 2030 and electrifying public transit.", "source": "https://www.robmenendez.com/issues/climate-change/"},
+    {"topic": "Gun safety", "point": "Supports universal background checks, a renewed assault weapons ban, ghost gun rules and safe-storage requirements.", "source": "https://www.robmenendez.com/issues/gun-control/"},
+    {"topic": "Affordability", "point": "Cosponsored a $17 federal minimum wage, backs affordable housing funding and restoring the full SALT deduction.", "source": "https://www.robmenendez.com/issues/affordability/"}
+  ],
+  "positions": {
+    "economy": {"score": 65, "evidence": "Cosponsored raising the federal minimum wage to $17 and backs federal funding for affordable and public housing.", "source": "https://www.robmenendez.com/issues/affordability/"},
+    "welfare": {"score": 80, "evidence": "Says healthcare should be accessible regardless of ability to pay and wants to expand the ACA.", "source": "https://www.robmenendez.com/issues/healthcare/"},
+    "liberty": {"score": 30, "evidence": "On abortion, backs codifying Roe and repealing the Hyde Amendment; on guns, supports an assault weapons ban and expanded background checks.", "source": "https://www.robmenendez.com/issues/healthcare/"},
+    "security": null,
+    "immigration": {"score": 5, "evidence": "Calls for abolishing ICE, decriminalizing immigration and ending mass deportations.", "source": "https://www.robmenendez.com/issues/immigration/"},
+    "foreign": null,
+    "energy": {"score": 90, "evidence": "Supports major clean-energy investment to cut emissions in half by 2030 and cosponsored the COAST Anti-Drilling Act.", "source": "https://www.robmenendez.com/issues/climate-change/"},
+    "tech": null,
+    "education": null,
+    "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The economy score was newly added from his affordability page."
+ },
+ {
+  "id": "NJ-8/aristotle-eliopoulos",
+  "name": "Aristotle Eliopoulos",
+  "party": "Independent",
+  "current_role": "Teacher and union representative",
+  "bio": "Aristotle \"Ari\" Eliopoulos is a teacher and union representative running as an independent in New Jersey's 8th congressional district, with the backing of three Republican county chairs. He was raised in Jersey City by Greek immigrant parents who ran a small business.",
+  "website": "https://arieliopoulosforcongress.com/",
+  "social": {
+    "instagram": "https://www.instagram.com/ariforcongress",
+    "facebook": "https://www.facebook.com/AriForCongress"
+  },
+  "platform": [
+    {"topic": "Education", "point": "Wants to address underfunded classrooms in public schools.", "source": "https://arieliopoulosforcongress.com/"},
+    {"topic": "Cost of living", "point": "Pledges to tackle rising costs facing working families.", "source": "https://arieliopoulosforcongress.com/"},
+    {"topic": "Special needs", "point": "Aims to remove barriers for children with disabilities.", "source": "https://arieliopoulosforcongress.com/"}
+  ],
+  "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {"score": 70, "evidence": "Campaign highlights underfunded public school classrooms as a core issue.", "source": "https://arieliopoulosforcongress.com/"},
+    "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign site publishes only brief issue themes; the headshot on the site is embedded inline rather than as a linkable image URL."
+ },
+ {
+  "id": "NJ-8/craig-honts",
+  "name": "Craig Honts",
+  "party": "Socialist Workers",
+  "current_role": "",
+  "bio": "Craig Honts is the Socialist Workers Party candidate for New Jersey's 8th congressional district. He was the party's nominee for lieutenant governor of New Jersey in 2025, running with gubernatorial candidate Joanne Kuniansky.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or candidate-specific statements were found; positions were not inferred from the party label."
+ },
+ {
+  "id": "NJ-8/da-shone-hughey",
+  "name": "Da'Shone Hughey",
+  "party": "We The People",
+  "current_role": "",
+  "bio": "Da'Shone Hughey is running in New Jersey's 8th congressional district under the \"We The People\" ballot slogan.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or public positions were found."
+ },
+ {
+  "id": "NJ-9/nellie-pou",
+  "name": "Nellie Pou",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NJ-9",
+  "bio": "Nellie Pou has represented New Jersey's 9th congressional district since January 2025 and serves on the House Homeland Security and Transportation and Infrastructure committees. She previously served in the New Jersey General Assembly from 1997 to 2012 and the State Senate from 2012 to 2025. She was born in Paterson.",
+  "website": "https://www.nelliepoufornewjersey.com/",
+  "social": {
+    "x": "https://x.com/NelliePou",
+    "instagram": "https://www.instagram.com/nelliepounj",
+    "facebook": "https://www.facebook.com/senatornelliepou"
+  },
+  "platform": [
+    {"topic": "Cost of living", "point": "Focuses on lowering housing, grocery, childcare and healthcare costs for New Jersey families.", "source": "https://nelliepoufornewjersey.com/nellies-priorities/"},
+    {"topic": "Healthcare", "point": "Wants to protect the ACA, extend its tax credits, lower drug prices and safeguard Medicaid coverage.", "source": "https://nelliepoufornewjersey.com/nellies-priorities/"},
+    {"topic": "Public safety", "point": "Supports law enforcement funding and is working on security planning for World Cup matches at MetLife Stadium.", "source": "https://nelliepoufornewjersey.com/nellies-priorities/"},
+    {"topic": "Veterans", "point": "Pledges full care and benefits for veterans returning home.", "source": "https://nelliepoufornewjersey.com/nellies-priorities/"}
+  ],
+  "positions": {
+    "economy": null,
+    "welfare": {"score": 70, "evidence": "Backs protecting the ACA and Medicaid and extending ACA premium tax credits.", "source": "https://nelliepoufornewjersey.com/nellies-priorities/"},
+    "liberty": null,
+    "security": {"score": 60, "evidence": "Supports funding for law enforcement and community safety as a Homeland Security Committee member.", "source": "https://nelliepoufornewjersey.com/nellies-priorities/"},
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The official social accounts listed in the input appear to belong to House administrative offices, so only campaign accounts are recorded."
+ },
+ {
+  "id": "NJ-9/rosie-pino",
+  "name": "Rosie Pino",
+  "party": "Republican",
+  "current_role": "Clifton City Council member",
+  "bio": "Rosie Pino has served on the Clifton City Council since 2018, after earlier serving on the Clifton Board of Education. She previously worked as a bank examiner at the U.S. Department of the Treasury and holds a finance degree from Rutgers. Born in the Bronx to Ecuadorian immigrant parents, she has lived in Clifton for over 30 years.",
+  "website": "https://rosiepinofornj.com/",
+  "social": {
+    "x": "https://x.com/RosiePinoNJ",
+    "instagram": "https://www.instagram.com/rosiepinonj",
+    "facebook": "https://www.facebook.com/RosiePinoNJ",
+    "youtube": "https://www.youtube.com/@RosiePinoNJ"
+  },
+  "platform": [
+    {"topic": "Economy", "point": "Supports tax cuts for working families, fewer regulations on employers and opposes large spending bills.", "source": "https://rosiepinofornj.com/issues/"},
+    {"topic": "Healthcare", "point": "Favors market-based healthcare with price transparency, stronger HSAs and interstate insurance sales, keeping pre-existing condition protections.", "source": "https://rosiepinofornj.com/issues/"},
+    {"topic": "Public safety", "point": "Wants full funding for police and opposes efforts to defund them.", "source": "https://rosiepinofornj.com/issues/"},
+    {"topic": "Immigration", "point": "Backs secure borders, Trump administration border policies and deportation of violent criminals.", "source": "https://rosiepinofornj.com/issues/"},
+    {"topic": "Education", "point": "Supports school choice, including charter schools and education savings accounts, and more career and technical training.", "source": "https://rosiepinofornj.com/issues/"}
+  ],
+  "positions": {
+    "economy": {"score": 25, "evidence": "Supports tax cuts and reducing regulations on job creators while opposing large spending bills.", "source": "https://rosiepinofornj.com/issues/"},
+    "welfare": {"score": 30, "evidence": "Prefers market-driven healthcare with HSAs and interstate insurance competition.", "source": "https://rosiepinofornj.com/issues/"},
+    "liberty": {"score": 75, "evidence": "On abortion, identifies as pro-life with exceptions for rape, incest and when the mother's life is at risk.", "source": "https://rosiepinofornj.com/issues/"},
+    "security": {"score": 75, "evidence": "Calls for fully funding law enforcement and opposes defunding police.", "source": "https://rosiepinofornj.com/issues/"},
+    "immigration": {"score": 70, "evidence": "Backs Trump border security policies and enhanced deportation of violent criminals.", "source": "https://rosiepinofornj.com/issues/"},
+    "foreign": null,
+    "energy": {"score": 25, "evidence": "Lists American energy independence as part of her economic plan.", "source": "https://rosiepinofornj.com/issues/"},
+    "tech": null,
+    "education": {"score": 15, "evidence": "Supports school choice, charter schools and education savings accounts with a limited federal role.", "source": "https://rosiepinofornj.com/issues/"},
+    "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NJ-9/terrisa-bukovinac",
+  "name": "Terrisa Bukovinac",
+  "party": "Save Our Babies",
+  "current_role": "Anti-abortion activist",
+  "bio": "Terrisa Bukovinac is an anti-abortion activist who founded Pro-Life San Francisco in 2017 and the Progressive Anti-Abortion Uprising in 2021, and served as president of Democrats for Life of America starting in 2020. She ran in the 2024 Democratic presidential primary, receiving about 2.7% of the vote in New Jersey. She is running as an independent in New Jersey's 9th district.",
+  "website": "https://terrisa2026.com/",
+  "social": {},
+  "platform": [
+    {"topic": "Abortion", "point": "Makes ending abortion the center of her campaign, describing it as genocide.", "source": "https://terrisa2026.com/"},
+    {"topic": "Democracy", "point": "Presents resisting fascism as her second main campaign theme.", "source": "https://terrisa2026.com/"},
+    {"topic": "Abortion policy", "point": "Advocates a federal abortion ban, defunding Planned Parenthood and repealing the FACE Act.", "source": "https://en.wikipedia.org/wiki/Terrisa_Bukovinac"},
+    {"topic": "Families", "point": "Supports lowering the cost of childbirth and expanding parental leave.", "source": "https://en.wikipedia.org/wiki/Terrisa_Bukovinac"}
+  ],
+  "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {"score": 90, "evidence": "On abortion, supports a federal ban, fetal personhood and repealing the FACE Act; no stated positions found on drugs, LGBTQ rights, guns or speech.", "source": "https://en.wikipedia.org/wiki/Terrisa_Bukovinac"},
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The liberty score rests on abortion alone, since no other social positions were found. The Commons portrait is described as a campaign picture, so it was not used."
+ },
+ {
+  "id": "NJ-10/lamonica-mciver",
+  "name": "LaMonica McIver",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NJ-10",
+  "bio": "LaMonica McIver has represented New Jersey's 10th congressional district since winning a September 2024 special election, and is a member of the Congressional Progressive Caucus. She served on the Newark Municipal Council for the Central Ward from 2018 to 2024, including as council president. She previously worked in education administration and utility communications, and was born in Newark.",
+  "website": "https://www.lamonicaforcongress.com/",
+  "social": {
+    "x": "https://x.com/lamonicamciver",
+    "instagram": "https://www.instagram.com/lamonicaforcd10",
+    "facebook": "https://www.facebook.com/CouncilWomanMcIver"
+  },
+  "platform": [
+    {"topic": "Healthcare", "point": "Supports universal healthcare and more investment in care for underserved areas, including mental health.", "source": "https://www.lamonicaforcongress.com/providing-equitable-access-to-high-quali"},
+    {"topic": "Families", "point": "Backs paid family and medical leave for all workers and more affordable childcare.", "source": "https://www.lamonicaforcongress.com/investing-in-families"},
+    {"topic": "Reproductive rights", "point": "Wants a federal law protecting abortion rights nationwide and opposes a national abortion ban.", "source": "https://www.lamonicaforcongress.com/preserving-reproductive-rights"},
+    {"topic": "Gun safety", "point": "Supports universal background checks, waiting periods and bans on assault weapons and high-capacity magazines.", "source": "https://www.lamonicaforcongress.com/safeguarding-our-communities"},
+    {"topic": "Education", "point": "Backs universal pre-K, smaller classes, higher teacher pay and lower college costs.", "source": "https://www.lamonicaforcongress.com/promoting-educational-opportunity"},
+    {"topic": "Environment", "point": "Prioritizes environmental justice, clean air and water, and renewable energy investment.", "source": "https://www.lamonicaforcongress.com/protecting-our-environment"}
+  ],
+  "positions": {
+    "economy": null,
+    "welfare": {"score": 90, "evidence": "Supports universal healthcare and paid family and medical leave for all workers.", "source": "https://www.lamonicaforcongress.com/providing-equitable-access-to-high-quali"},
+    "liberty": {"score": 35, "evidence": "On abortion, wants federal protection of reproductive rights; on guns, backs an assault weapons ban and universal background checks.", "source": "https://www.lamonicaforcongress.com/safeguarding-our-communities"},
+    "security": null,
+    "immigration": {"score": 5, "evidence": "Has publicly supported abolishing ICE.", "source": "https://en.wikipedia.org/wiki/LaMonica_McIver"},
+    "foreign": null,
+    "energy": {"score": 80, "evidence": "Calls for investing in renewable energy and climate-resilient green infrastructure.", "source": "https://www.lamonicaforcongress.com/protecting-our-environment"},
+    "tech": null,
+    "education": {"score": 75, "evidence": "Supports universal free pre-K, smaller class sizes and competitive teacher salaries.", "source": "https://www.lamonicaforcongress.com/promoting-educational-opportunity"},
+    "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://static.wixstatic.com/media/4d7054_cc5ce8d5acb440bea848248941da9952~mv2.jpg",
+  "notes": "She was indicted in June 2025 on federal charges tied to a May 2025 oversight visit at a Newark ICE facility and has disputed the charges; the current status of the case was not verified. The education score was newly added from her campaign page."
+ },
+ {
+  "id": "NJ-10/carmen-bucco",
+  "name": "Carmen Bucco",
+  "party": "Republican",
+  "current_role": "Small-business owner",
+  "bio": "Carmen Bucco is a small-business owner and founder of the charitable foundation Bucco's Rising Stars. She was the Republican nominee for New Jersey's 10th district in both the 2024 special and regular elections. Her campaign biography describes a childhood that included foster care and homelessness.",
+  "website": "https://carmenbucco.com/",
+  "social": {
+    "instagram": "https://www.instagram.com/buccofornewjersey",
+    "facebook": "https://www.facebook.com/Buccofornewjersey"
+  },
+  "platform": [
+    {"topic": "Public safety", "point": "Supports police and first responders and opposes restrictions that limit law enforcement.", "source": "https://carmenbucco.com/issues/"},
+    {"topic": "Taxes", "point": "Wants to control government spending, cut waste and ease the cost of living.", "source": "https://carmenbucco.com/issues/"},
+    {"topic": "Small business", "point": "Proposes reducing regulatory burdens and loan barriers for small businesses.", "source": "https://carmenbucco.com/issues/"},
+    {"topic": "Corruption", "point": "Pledges to hold public officials accountable and root out political corruption.", "source": "https://carmenbucco.com/issues/"},
+    {"topic": "Education", "point": "Calls for a return to academic fundamentals, safer schools and more trade education.", "source": "https://carmenbucco.com/issues/"}
+  ],
+  "positions": {
+    "economy": {"score": 30, "evidence": "Calls for controlling spending, eliminating waste and reducing regulations on small businesses.", "source": "https://carmenbucco.com/issues/"},
+    "welfare": null,
+    "liberty": {"score": 15, "evidence": "On guns, backs Second Amendment rights for self-protection; no positions found on abortion, drugs, LGBTQ rights or speech.", "source": "https://carmenbucco.com/issues/"},
+    "security": {"score": 75, "evidence": "Opposes restrictions on police and supports a tough-on-crime approach.", "source": "https://carmenbucco.com/issues/"},
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NJ-11/analilia-mejia",
+  "name": "Analilia Mejia",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NJ-11",
+  "bio": "Analilia Mejia has represented New Jersey's 11th congressional district since winning an April 2026 special election, and serves on the Homeland Security and Small Business committees. She previously led the New Jersey Working Families Alliance, was national political director for Bernie Sanders's 2020 campaign, and served as deputy director of the Labor Department's Women's Bureau. She has also been co-executive director of the Center for Popular Democracy.",
+  "website": "https://www.analiliafornj.com/",
+  "social": {
+    "x": "https://x.com/analiliafornj",
+    "instagram": "https://www.instagram.com/analiliafornj",
+    "facebook": "https://facebook.com/analiliafornj",
+    "tiktok": "https://tiktok.com/@analiliafornj",
+    "youtube": "https://www.youtube.com/@AnaliliaForNJ"
+  },
+  "platform": [
+    {"topic": "Wages", "point": "Supports a $25 national minimum wage, federal paid sick days and the PRO Act.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    {"topic": "Healthcare", "point": "Backs Medicare for All with universal coverage and no out-of-pocket costs.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    {"topic": "Childcare", "point": "Would cap childcare at $10 a day, free for lower-income families.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    {"topic": "Taxes", "point": "Proposes a tax on fortunes over $50 million and a 25% minimum tax on billionaires.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    {"topic": "Housing", "point": "Calls for 8.5 million public housing units and barring hedge funds from buying homes.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    {"topic": "Tech", "point": "Seeks a moratorium on new AI data centers and breaking up corporate monopolies.", "source": "https://www.analiliafornj.com/economy-for-everyone"}
+  ],
+  "positions": {
+    "economy": {"score": 95, "evidence": "Backs a $25 minimum wage, a billionaire minimum tax and an ultra-millionaires' wealth tax.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    "welfare": {"score": 100, "evidence": "Supports Medicare for All and $10-a-day childcare.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    "liberty": {"score": 20, "evidence": "On abortion, supports protecting reproductive rights; on LGBTQ rights, backs full equality protections and healthcare access.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    "security": null,
+    "immigration": {"score": 5, "evidence": "Has called for abolishing ICE.", "source": "https://en.wikipedia.org/wiki/Analilia_Mejia"},
+    "foreign": null,
+    "energy": null,
+    "tech": {"score": 90, "evidence": "Calls for a moratorium on new AI data centers and breaking up corporate monopolies.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    "education": {"score": 85, "evidence": "Supports tuition-free public college and trade school and cancelling student debt.", "source": "https://www.analiliafornj.com/economy-for-everyone"},
+    "faith": null
+  },
+  "photo": {"file": "File:Analilia Mejia, official portrait (119th Congress) (cropped).jpg", "license": "Public domain", "author": "U.S. House of Representatives"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/691b52e1abc45c143c47e6a2/1ffd50e3-47e3-411d-b5d0-94c514a55328/Headshot-+Web+Background+3.jpg",
+  "notes": "The earlier energy score of 75 was removed because no clean-energy or climate statement was found to support it; a liberty score was added from her platform."
+ },
+ {
+  "id": "NJ-11/joe-hathaway",
+  "name": "Joe Hathaway",
+  "party": "Republican",
+  "current_role": "Randolph Township Council member",
+  "bio": "Joe Hathaway has served on the Randolph Township Council since 2022 and was mayor of Randolph in 2025. He spent more than a decade in corporate affairs and communications in healthcare and financial services, after starting as an advance aide to Governor Chris Christie. A Clifton native and Yale graduate, he was the Republican nominee in the April 2026 NJ-11 special election.",
+  "website": "https://www.joehathawayforcongress.com/",
+  "social": {
+    "x": "https://x.com/HathawayForNJ11",
+    "instagram": "https://instagram.com/hathawayforcongress",
+    "facebook": "https://www.facebook.com/hathawayforcongress"
+  },
+  "platform": [
+    {"topic": "Housing", "point": "Proposes a federal tax freeze and refundable closing-cost credits for first-time homebuyers.", "source": "https://www.joehathawayforcongress.com/platform"},
+    {"topic": "Healthcare", "point": "Favors upfront price transparency, expanded HSAs and association health plans; opposes government-run healthcare.", "source": "https://www.joehathawayforcongress.com/platform"},
+    {"topic": "Families", "point": "Wants a larger Child Tax Credit, childcare tax breaks and social media safeguards for children.", "source": "https://www.joehathawayforcongress.com/platform"},
+    {"topic": "Energy", "point": "Backs an all-of-the-above energy strategy including nuclear and gas, while opposing offshore wind.", "source": "https://www.joehathawayforcongress.com/platform"},
+    {"topic": "Foreign policy", "point": "Pledges to stand with Israel and Ukraine and hold China and Russia accountable.", "source": "https://www.joehathawayforcongress.com/platform"},
+    {"topic": "Transportation", "point": "Supports completing the Gateway Tunnel and adding one-seat rail rides to New York City.", "source": "https://www.joehathawayforcongress.com/platform"}
+  ],
+  "positions": {
+    "economy": {"score": 40, "evidence": "Calls for cutting red tape and pay-as-you-go budgeting, alongside targeted tax incentives for local hiring.", "source": "https://www.joehathawayforcongress.com/platform"},
+    "welfare": {"score": 35, "evidence": "Opposes government-run healthcare and favors HSAs, while supporting a larger Child Tax Credit.", "source": "https://www.joehathawayforcongress.com/platform"},
+    "liberty": null,
+    "security": {"score": 70, "evidence": "Backs funding for police training and equipment and stronger anti-fentanyl enforcement.", "source": "https://www.joehathawayforcongress.com/platform"},
+    "immigration": {"score": 65, "evidence": "Emphasizes border security as part of his public safety plan.", "source": "https://www.joehathawayforcongress.com/platform"},
+    "foreign": {"score": 85, "evidence": "Says the U.S. should stand firmly with allies including Israel and with Ukraine.", "source": "https://www.joehathawayforcongress.com/platform"},
+    "energy": {"score": 35, "evidence": "Supports expanding domestic production across sources and opposes offshore wind turbines.", "source": "https://www.joehathawayforcongress.com/platform"},
+    "tech": {"score": 70, "evidence": "Proposes guardrails on social media to protect children's mental health and safety.", "source": "https://www.joehathawayforcongress.com/platform"},
+    "education": null,
+    "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "A Commons image titled 'Joe Hathaway Running For Congress.png' is marked CC0 as an anonymous user's own work, but it appears to be campaign material, so it was not used."
+ }
+]

@@ -1,0 +1,438 @@
+[
+ {
+  "id": "OR-5/janelle-bynum",
+  "name": "Janelle Bynum",
+  "party": "Democratic",
+  "race": "OR-5",
+  "race_label": "Oregon · US House OR-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001326",
+   "official_name": "Janelle S. Bynum",
+   "chamber": "House",
+   "official_site": "https://bynum.house.gov",
+   "official_social": {
+    "twitter": "RepBynum",
+    "facebook": "repbynum",
+    "instagram": "repbynum"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 60,
+    "liberty": 25,
+    "security": null,
+    "immigration": 45,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Sponsored Oregon CHIPS Act, backs expanded affordable healthcare and abortion rights, voted for Laken Riley Act while opposing Trump deportation tactics.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Janelle_Bynum",
+    "https://www.koin.com/news/politics/congresswoman-janelle-bynum-questioned-at-town-hall-after-thank-ice-vote/"
+   ],
+   "photo": {
+    "file": "File:Janelle Bynum, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "OR-5/patti-adair",
+  "name": "Patti Adair",
+  "party": "Republican",
+  "race": "OR-5",
+  "race_label": "Oregon · US House OR-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": 80,
+    "security": 60,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Says taxes are too high, wants tip and overtime tax cuts extended, backs police; liberty driven by support for protecting life from conception.",
+   "sources": [
+    "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/",
+    "https://www.pattiforcongress.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OR-5/andrea-townsend",
+  "name": "Andrea Townsend",
+  "party": "Pacific Green",
+  "race": "OR-5",
+  "race_label": "Oregon · US House OR-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+    "https://ballotpedia.org/Oregon's_5th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OR-6/andrea-salinas",
+  "name": "Andrea Salinas",
+  "party": "Democratic",
+  "race": "OR-6",
+  "race_label": "Oregon · US House OR-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001226",
+   "official_name": "Andrea Salinas",
+   "chamber": "House",
+   "official_site": "https://salinas.house.gov",
+   "official_social": {
+    "twitter": "repsalinas",
+    "facebook": "RepSalinas",
+    "instagram": "repsalinas"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": 20,
+    "security": 25,
+    "immigration": 25,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": 20
+   },
+   "basis": "Backs codifying abortion rights, interstate marijuana trade, chokehold ban, ICE liability bill, certainty for immigrants, mental-health funding, climate action; Freethought Caucus.",
+   "sources": [
+    "https://www.andreasalinasfororegon.com/issues/",
+    "https://salinas.house.gov/issues/reproductive-freedom",
+    "https://www.ontheissues.org/House/Andrea_Salinas.htm"
+   ],
+   "photo": {
+    "file": "File:Andrea Salinas, Official Portrait, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "US House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "OR-6/david-russ",
+  "name": "David Russ",
+  "party": "Republican",
+  "race": "OR-6",
+  "race_label": "Oregon · US House OR-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 65,
+    "security": null,
+    "immigration": 95,
+    "foreign": 25,
+    "energy": 20,
+    "tech": null,
+    "education": 10,
+    "faith": 70
+   },
+   "basis": "Wants border wall and near-zero immigration, smaller government, school choice and no Education Department; rejects climate threat; backs religious exemptions. Liberty driven by abortion funding.",
+   "sources": [
+    "https://www.russisforus.com/",
+    "https://ivoterguide.com/candidate/59448/race/13079/election/1105?culture=en-us"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-1/brian-fitzpatrick",
+  "name": "Brian Fitzpatrick",
+  "party": "Republican",
+  "race": "PA-1",
+  "race_label": "Pennsylvania · US House PA-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000466",
+   "official_name": "Brian K. Fitzpatrick",
+   "chamber": "House",
+   "official_site": "https://fitzpatrick.house.gov",
+   "official_social": {
+    "facebook": "repbrianfitzpatrick",
+    "twitter": "RepBrianFitz",
+    "instagram": "repbrianfitz"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": 55,
+    "liberty": 35,
+    "security": null,
+    "immigration": 40,
+    "foreign": 80,
+    "energy": 70,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against final One Big Beautiful Bill over SNAP/Medicaid cuts, backs ACA subsidy extension, assault-weapons ban, same-sex marriage, Ukraine aid, climate action, antitrust package.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"
+   ],
+   "photo": {
+    "file": "File:Brian Fitzpatrick official congressional photo.jpg",
+    "license": "Public domain",
+    "author": "Kristie Boyd; U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "PA-1/bob-harvie",
+  "name": "Bob Harvie",
+  "party": "Democratic",
+  "race": "PA-1",
+  "race_label": "Pennsylvania · US House PA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants ultra-wealthy taxed more, $15 minimum wage, Medicare at 55, expanded ACA credits, clean energy investment, ban on AI price manipulation, data center moratorium.",
+   "sources": [
+    "https://bobharvieforcongress.com/priorities/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-2/brendan-boyle",
+  "name": "Brendan Boyle",
+  "party": "Democratic",
+  "race": "PA-2",
+  "race_label": "Pennsylvania · US House PA-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001296",
+   "official_name": "Brendan F. Boyle",
+   "chamber": "House",
+   "official_site": "https://boyle.house.gov",
+   "official_social": {
+    "twitter": "CongBoyle",
+    "facebook": "CongressmanBoyle"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": 25,
+    "security": null,
+    "immigration": 50,
+    "foreign": 85,
+    "energy": 80,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Backs ACA credits, abortion rights, assault-weapons limits, Ukraine/Israel/Taiwan aid, 100% clean energy by 2035, tuition-free college; voted for Laken Riley Act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brendan_Boyle",
+    "https://ballotpedia.org/Brendan_Boyle"
+   ],
+   "photo": {
+    "file": "File:Congressman-brendan-f-boyle-official-photo.jpg",
+    "license": "Public domain",
+    "author": "Eric Connolly, U.S. House Office of Photography/House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "PA-2/jessica-arriaga",
+  "name": "Jessica Arriaga",
+  "party": "Republican",
+  "race": "PA-2",
+  "race_label": "Pennsylvania · US House PA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions were found beyond general themes on costs and safety.",
+   "sources": [
+    "https://jessforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-3/chris-rabb",
+  "name": "Chris Rabb",
+  "party": "Democratic",
+  "race": "PA-3",
+  "race_label": "Pennsylvania · US House PA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 100,
+    "liberty": 15,
+    "security": null,
+    "immigration": 5,
+    "foreign": 20,
+    "energy": 95,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Platform calls for Medicare for All and universal guarantees, Green New Deal, legal cannabis, abolishing ICE, ending Israel funding, curbing corporate media consolidation.",
+   "sources": [
+    "https://www.chrisrabb.com/platform",
+    "https://www.jta.org/2026/05/19/politics/with-aoc-backing-and-anti-israel-message-chris-rabb-vies-for-open-house-seat-in-philadelphia"
+   ],
+   "photo": {
+    "file": "File:Rep. Chris Rabb speaks at a fundraiser.jpg",
+    "license": "CC0",
+    "author": "Yolanda Cheers"
+   }
+  }
+ },
+ {
+  "id": "PA-3/dennis-mahoney",
+  "name": "Dennis Mahoney",
+  "party": "Independent",
+  "race": "PA-3",
+  "race_label": "Pennsylvania · US House PA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign backs expanding the Child Tax Credit, gradual benefit phase-outs, protecting food assistance, and cheaper childcare.",
+   "sources": [
+    "https://mahoneyforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-4/madeleine-dean",
+  "name": "Madeleine Dean",
+  "party": "Democratic",
+  "race": "PA-4",
+  "race_label": "Pennsylvania · US House PA-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000631",
+   "official_name": "Madeleine Dean",
+   "chamber": "House",
+   "official_site": "https://dean.house.gov",
+   "official_social": {
+    "twitter": "RepDean",
+    "facebook": "RepMadeleineDean",
+    "instagram": "repmadeleinedean",
+    "youtube": "UCHj4veUyhPzzOW-Jvn7MqUg"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": 20,
+    "security": null,
+    "immigration": 25,
+    "foreign": 40,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs permanent ACA subsidies, Medicare expansion, gun violence prevention (liberty driver), clean energy; opposed added ICE funding; voted to end Israel military aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Madeleine_Dean",
+    "https://dean.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Madeleine Dean Official Portrait 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography/House Creative Services"
+   }
+  }
+ }
+]

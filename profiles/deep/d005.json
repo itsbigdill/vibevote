@@ -1,0 +1,701 @@
+[
+ {
+  "id": "FL-1/jimmy-patronis",
+  "name": "Jimmy Patronis",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-1",
+  "bio": "Jimmy Patronis has represented Florida's 1st District since winning an April 2025 special election to succeed Matt Gaetz. He was previously Florida's Chief Financial Officer (2017-2025), a member of the Florida Public Service Commission and a state representative (2006-2014). A Panama City native, he is a partner in a family-run seafood restaurant.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/PatronisFL"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Voted for the 2025 reconciliation law extending tax cuts and adding Medicaid work requirements.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Cosponsors the SAFE for America Act (H.R. 1241), which would end the diversity visa lottery.",
+    "source": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1241.xml"
+   },
+   {
+    "topic": "Iran",
+    "point": "Backed the U.S. strikes on Iranian nuclear sites and voted against a resolution directing removal of U.S. forces from hostilities with Iran.",
+    "source": "https://patronis.house.gov/about/votes-and-legislation"
+   },
+   {
+    "topic": "Big Tech",
+    "point": "Introduced the Protect Act to remove Section 230 liability protections for online platforms, citing child safety.",
+    "source": "https://weartv.com/newsletter-daily/northwest-florida-lawmakers-business-leaders-weigh-in-on-ai-power-and-safety"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Signed a letter urging the Justice Department not to appeal a ruling ending federal registration of suppressors and short-barreled firearms.",
+    "source": "https://patronis.house.gov/media/press-releases/congressman-patronis-fights-to-defend-the-second-amendment"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Lists veterans' issues as a main focus of his congressional office.",
+    "source": "https://patronis.house.gov/issues"
+   },
+   {
+    "topic": "Small business",
+    "point": "Highlights small-business and economic initiatives among his priority issue areas.",
+    "source": "https://patronis.house.gov/issues"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Lists transportation and infrastructure as a priority issue for the district.",
+    "source": "https://patronis.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 One Big Beautiful Bill Act, which extended and expanded tax cuts.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation law that added Medicaid work requirements and program cuts.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Guns only: signed a letter asking the Justice Department to let stand a ruling ending federal registration of suppressors and short-barreled firearms.",
+    "source": "https://patronis.house.gov/media/press-releases/congressman-patronis-fights-to-defend-the-second-amendment"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Cosponsors the SAFE for America Act, which would eliminate the diversity visa lottery and limit related family sponsorship.",
+    "source": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hr/BILLSTATUS-119hr1241.xml"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Called the strikes on Iran's nuclear facilities necessary and voted against H.Con.Res. 93 on removing U.S. forces from Iranian hostilities.",
+    "source": "https://midbaynews.com/post/we-asked-congressman-jimmy-patronis-about-his-biden-bill-iran-affordable-housing-and-more"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Voted in September 2026 for resolutions overturning EPA pollution standards for ocean-going vessels and commercial harbor craft.",
+    "source": "https://patronis.house.gov/about/votes-and-legislation"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Introduced the Protect Act to repeal Section 230 platform liability protections, while saying Washington should not be relied on to solve AI.",
+    "source": "https://weartv.com/newsletter-daily/northwest-florida-lawmakers-business-leaders-weigh-in-on-ai-power-and-safety"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Searched his House site, recent votes, press releases, local interviews and iVoterGuide (he answered no questions there); no campaign site with issue pages was found. No sourced statements found on police powers, schools or religion in public life."
+ },
+ {
+  "id": "FL-11/james-pericola",
+  "name": "James Pericola",
+  "party": "Democratic",
+  "current_role": "Attorney and government affairs executive",
+  "bio": "James Pericola is a Central Florida native and attorney with over 30 years in public service and government affairs. He was a Clinton administration appointee at the National Transportation Safety Board and worked on the staff of Senator Bob Graham. He won the August 2026 Democratic primary for Florida's 11th District.",
+  "website": "https://jamespericola.com/",
+  "social": {
+   "x": "https://x.com/JamesPericola",
+   "instagram": "https://www.instagram.com/votejamespericola/",
+   "facebook": "https://www.facebook.com/votejamespericola"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "End federal income tax for people earning under $100,000 and cut middle-class taxes.",
+    "source": "https://jamespericola.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Protect the Affordable Care Act, restore Medicaid funding, expand premium tax credits and let Medicare negotiate drug prices.",
+    "source": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Opposes benefit cuts and would raise the cap on taxable earnings so the highest earners pay more.",
+    "source": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Secure federal housing funds and lower property insurance costs.",
+    "source": "https://jamespericola.com/"
+   },
+   {
+    "topic": "Corporate pricing",
+    "point": "Target corporate price gouging and oppose tax breaks for large corporations.",
+    "source": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/"
+   },
+   {
+    "topic": "Utilities",
+    "point": "Require utilities to justify rate increases, reject excessive profits and expand energy assistance.",
+    "source": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Prioritize water quality, Everglades restoration, flood mitigation and climate resilience, and hold polluters accountable.",
+    "source": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/"
+   },
+   {
+    "topic": "Democracy",
+    "point": "End gerrymandering and pass the John Lewis Voting Rights Act.",
+    "source": "https://jamespericola.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Backs raising the Social Security earnings cap on top earners, opposes corporate tax breaks and targets corporate price gouging.",
+    "source": "https://www.orangeobserver.com/news/2026/aug/05/meet-11th-congressional-district-democratic-candidate-james-pericola/"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Calls for restoring Medicaid funding, expanding ACA premium tax credits and protecting Social Security and Medicare from cuts.",
+    "source": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 65,
+    "evidence": "General statement: names climate resilience and holding polluters accountable as priorities and wants stricter utility rate oversight.",
+    "source": "https://www.clickorlando.com/voters-guide/2026/07/31/2026-voters-guide-us-house-district-11-democratic-primary/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched his campaign site, the WKMG and West Orange Times questionnaires and Florida Politics (paywalled). No stated positions found on abortion, guns, immigration, foreign policy, AI, schools or religion."
+ },
+ {
+  "id": "FL-14/mike-beltran",
+  "name": "Mike Beltran",
+  "party": "Republican",
+  "current_role": "Attorney; former Florida State Representative",
+  "bio": "Mike Beltran is a Tampa Bay-area attorney who represented District 70 in the Florida House of Representatives from 2018 to 2024. Born in New York City, he holds degrees from the University of Pennsylvania and Harvard Law School. He is the Republican nominee for Florida's 14th Congressional District.",
+  "website": "https://beltranforcongress.com/",
+  "social": {
+   "x": "https://x.com/MBeltranFL",
+   "facebook": "https://www.facebook.com/electmikebeltran"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Finish the border wall and deport criminals and fraudsters; has also proposed a constitutional amendment on birth tourism.",
+    "source": "https://beltranforcongress.com/platform"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Opposes red flag laws and magazine bans.",
+    "source": "https://beltranforcongress.com/platform"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports school choice and parents' control over their children's schooling.",
+    "source": "https://beltranforcongress.com/platform"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Supports the Dobbs decision leaving abortion to the states, with exceptions for rape, incest and the mother's health.",
+    "source": "https://beltranforcongress.com/platform"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand telehealth access and remove regulatory barriers to opening new clinics so families can see doctors closer to home.",
+    "source": "https://beltranforcongress.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Cut taxes, pointing to sales-tax holidays and a large Florida tax cut he backed in the legislature.",
+    "source": "https://beltranforcongress.com/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Oppose new data center development that lacks local approval and environmental safeguards.",
+    "source": "https://beltranforcongress.com/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Supports the SAVE America Act requiring proof of citizenship and photo ID to vote.",
+    "source": "https://beltranforcongress.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Campaigns on tax cuts, tax holidays, spending reductions and reducing business regulation.",
+    "source": "https://beltranforcongress.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 40,
+    "evidence": "Mixed: supports the Dobbs ruling and state-set abortion limits with exceptions (abortion), and opposes red flag laws and magazine bans (guns).",
+    "source": "https://beltranforcongress.com/platform"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "General statement: backs police and opposes efforts to defund or undermine law enforcement.",
+    "source": "https://beltranforcongress.com/platform"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Platform pledges to finish the border wall and deport criminals and people who commit fraud.",
+    "source": "https://beltranforcongress.com/platform"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Platform backs school choice and parental control over education decisions.",
+    "source": "https://beltranforcongress.com/platform"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Mike Beltran.jpg",
+   "license": "Public domain",
+   "author": "Florida House of Representatives"
+  },
+  "campaign_photo": "https://beltranforcongress.com/wp-content/themes/beltran/headshot-color.jpg",
+  "notes": "Searched his campaign home, platform and news pages, Wikipedia, and local coverage (WTSP blocked); the education score now rests on his platform page rather than endorsements. No stated positions found on welfare programs, foreign policy, energy, tech regulation or religion."
+ },
+ {
+  "id": "FL-16/sydney-gruters",
+  "name": "Sydney Gruters",
+  "party": "Republican",
+  "current_role": "Former executive director of the New College Foundation",
+  "bio": "Sydney Gruters was vice president of advancement and executive director of the New College Foundation in Sarasota. She previously served as district director for U.S. Rep. Greg Steube, worked for U.S. Rep. Vern Buchanan, and was Florida state director for USDA Rural Development. She is the Republican nominee for Florida's 16th Congressional District.",
+  "website": "https://grutersforcongress.com/",
+  "social": {
+   "x": "https://x.com/SydneyGrutersFL",
+   "instagram": "https://www.instagram.com/sydneygrutersforcongress",
+   "facebook": "https://www.facebook.com/profile.php?id=61576458107829"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Cut taxes and regulations to make everyday essentials more affordable for families.",
+    "source": "https://grutersforcongress.com/"
+   },
+   {
+    "topic": "Inflation",
+    "point": "Balance the federal budget through spending cuts to bring down inflation.",
+    "source": "https://wslr.org/district-16-congressional-race-sydney-gruters/"
+   },
+   {
+    "topic": "Border security",
+    "point": "Work with President Trump and ICE on enforcement against illegal immigration.",
+    "source": "https://grutersforcongress.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Address overdevelopment to keep homeownership within reach.",
+    "source": "https://grutersforcongress.com/"
+   },
+   {
+    "topic": "Starter homes",
+    "point": "Stop large investment firms from buying up starter homes so first-time buyers can compete.",
+    "source": "https://wslr.org/congressional-candidates-clash-at-republican-debate/"
+   },
+   {
+    "topic": "Seniors and veterans",
+    "point": "Protect Social Security and Medicare and improve veterans' benefits.",
+    "source": "https://grutersforcongress.com/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Strengthen election integrity measures.",
+    "source": "https://grutersforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Pledges tax and regulation cuts and spending cuts to balance the budget, while backing limits on investor purchases of starter homes.",
+    "source": "https://grutersforcongress.com/"
+   },
+   "welfare": {
+    "score": 55,
+    "evidence": "General statement: pledges to protect Social Security and Medicare.",
+    "source": "https://grutersforcongress.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Pledges to work with President Trump and ICE to enforce immigration law.",
+    "source": "https://grutersforcongress.com/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched her campaign site, WSLR debate and interview coverage, The Floridian and iVoterGuide (she left its questions unanswered); Florida Politics was paywalled and she skipped the League of Women Voters and Bay News 9 forums. No stated positions found on abortion, guns, police powers, foreign policy, energy, tech, schools or religion."
+ },
+ {
+  "id": "FL-18/curtis-gibson",
+  "name": "Curtis Gibson",
+  "party": "Democratic",
+  "current_role": "Former Lake Wales City Commissioner; mall manager and restaurant owner",
+  "bio": "Curtis Gibson served two terms on the Lake Wales City Commission (2017-2021) and ran for mayor in 2022. He manages Eagle Ridge Mall, owns a restaurant, has worked as an insurance adjuster and is a former professional wrestler. He is the Democratic nominee for Florida's 18th Congressional District.",
+  "website": "https://votecurtisgibson.com/",
+  "social": {
+   "x": "https://x.com/curtisgibsonlw",
+   "facebook": "https://www.facebook.com/CurtisGibsonLW/"
+  },
+  "platform": [
+   {
+    "topic": "Property insurance",
+    "point": "Create a federal reinsurance backstop to stabilize the market and lower homeowner premiums.",
+    "source": "https://votecurtisgibson.com/issues"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Cut VA delays and ensure local care or clear routes to covered local providers.",
+    "source": "https://votecurtisgibson.com/issues"
+   },
+   {
+    "topic": "Property taxes",
+    "point": "Seek property tax relief for homeowners, seniors and working families.",
+    "source": "https://votecurtisgibson.com/issues"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Help citrus growers with replanting and protect farms from development pressure and disease.",
+    "source": "https://votecurtisgibson.com/issues"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Bring federal road and safety funding to the Heartland and hold projects accountable for delays.",
+    "source": "https://votecurtisgibson.com/issues"
+   },
+   {
+    "topic": "Transparency",
+    "point": "Hold local town halls and publish monthly public updates.",
+    "source": "https://votecurtisgibson.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Proposes a federal reinsurance backstop to stabilize Florida's property insurance market, alongside property tax relief.",
+    "source": "https://votecurtisgibson.com/issues"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 60,
+    "evidence": "General statement from his 2022 mayoral race: backed competitive teacher pay and partnerships with the school board.",
+    "source": "https://dailyridge.com/2022/03/18/qa-with-lake-wales-mayoral-candidate-curtis-gibson/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://assets.cdn.filesafe.space/XIPn71vdjtWn6ViNiI2G/media/69a7872b957d6286f8086ac0.jpeg",
+  "notes": "Searched his campaign home, about and issues pages, a 2022 Daily Ridge mayoral Q&A, Lake Wales News coverage and news searches; no congressional questionnaires or forum coverage turned up. No stated positions found on health programs, abortion, guns, police, immigration, foreign policy, energy, tech or religion."
+ },
+ {
+  "id": "FL-19/victor-arias",
+  "name": "Victor Arias",
+  "party": "Democratic",
+  "current_role": "Attorney in Cape Coral",
+  "bio": "Victor Arias is a Cape Coral attorney who owns Arias Law Firm, handling personal injury, workers' compensation and school law cases, and earlier served as counsel for the School District of Lee County. Raised in Manhattan's Douglas Houses, he graduated from Hamilton College and SUNY Buffalo Law School and serves as an elder at Covenant Presbyterian Church. He won the 2026 Democratic primary in FL-19.",
+  "website": "https://ariasforcongress.us/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Lower grocery prices by addressing supply chain bottlenecks and corporate price gouging, and push for fair wages.",
+    "source": "https://ariasforcongress.us/"
+   },
+   {
+    "topic": "Medicare and Medicaid",
+    "point": "Oppose benefit cuts or a higher eligibility age, expand Medicare drug price negotiation and cap out-of-pocket drug costs.",
+    "source": "https://ariasforcongress.us/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Support affordable housing so hospitality and service workers can live where they work.",
+    "source": "https://ariasforcongress.us/"
+   },
+   {
+    "topic": "Water quality",
+    "point": "Secure federal Everglades restoration funding and fund research to fight red tide at its source.",
+    "source": "https://ariasforcongress.us/"
+   },
+   {
+    "topic": "Education",
+    "point": "Ensure every family in the district can access quality public schools and after-school programs.",
+    "source": "https://ariasforcongress.us/"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "Pursue criminal justice reform that keeps communities safe while ensuring fairness.",
+    "source": "https://ariasforcongress.us/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Speed VA disability claims, shorten wait times and expand local VA health care and mental health services.",
+    "source": "https://ariasforcongress.us/"
+   },
+   {
+    "topic": "Small business",
+    "point": "Help small businesses with access to capital, lighter regulation and workforce training.",
+    "source": "https://ariasforcongress.us/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Targets corporate price gouging and backs fair wages and affordable housing, while also supporting lighter regulation for small businesses.",
+    "source": "https://ariasforcongress.us/"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Opposes any cuts to Medicare and Medicaid or a higher eligibility age and wants caps on out-of-pocket drug costs.",
+    "source": "https://ariasforcongress.us/"
+   },
+   "liberty": null,
+   "security": {
+    "score": 40,
+    "evidence": "General statement: supports criminal justice reform that balances community safety with fairness.",
+    "source": "https://ariasforcongress.us/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 60,
+    "evidence": "General statement: prioritizes Everglades restoration, red tide research and clean water protection, without a stated climate or energy policy.",
+    "source": "https://ariasforcongress.us/"
+   },
+   "tech": null,
+   "education": {
+    "score": 60,
+    "evidence": "General statement: wants every family to have access to quality public education and after-school programs.",
+    "source": "https://ariasforcongress.us/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His older site votearias.us was down; positions come from his current campaign site ariasforcongress.us (read from its page bundle) and local primary coverage. No stated positions found on abortion, guns, immigration policy, foreign policy, tech or religion in public life."
+ },
+ {
+  "id": "FL-2/austin-rogers",
+  "name": "Austin Rogers",
+  "party": "Republican",
+  "current_role": "Attorney",
+  "bio": "Austin Rogers is a Panama City native and attorney who previously served as general counsel to U.S. Senator Rick Scott. He graduated from Mosley High School and Duke Law School and describes himself as a published constitutional law scholar. He is the Republican nominee for Florida's 2nd District.",
+  "website": "https://rogersforflorida.com/",
+  "social": {
+   "x": "https://x.com/rogersforfl",
+   "instagram": "https://www.instagram.com/rogersforfl",
+   "facebook": "https://www.facebook.com/austin.rogers.792/",
+   "youtube": "https://www.youtube.com/@rogersforfl"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Write the administration's border security policies into law so future presidents cannot reverse them; opposes mass amnesty.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Describes himself as fully pro-life from conception and will support policies protecting the unborn.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Oppose gun control proposals and expand recreational hunting and fishing opportunities.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Reform government gag orders that keep Americans from learning their data was accessed, with court challenges and transparency.",
+    "source": "https://rogersforflorida.com/news/washington-reporter-op-ed-austin-rogers-we-need-to-end-the-deep-states-secret-surveillance-machine/"
+   },
+   {
+    "topic": "Kids online",
+    "point": "Pass legislation protecting children from online predators and hold social media companies responsible for harm to minors.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   {
+    "topic": "Trade and jobs",
+    "point": "Supports the President's trade tools to bring back manufacturing jobs and backs the TrumpRx drug-pricing effort.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   {
+    "topic": "Faith and family",
+    "point": "Defend religious freedom and free speech, back parental rights, and oppose transgender women competing in women's sports.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   {
+    "topic": "Military",
+    "point": "Ensure troops get needed funding and equipment and veterans get quality VA care.",
+    "source": "https://rogersforflorida.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 45,
+    "evidence": "Backs tariffs as trade tools for American manufacturing and the TrumpRx drug-price initiative, with no stated tax or regulation plan.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 50,
+    "evidence": "Mixed: opposes abortion from conception and transgender women in women's sports (abortion, LGBTQ), but opposes gun control and pledges to defend free speech (guns, speech).",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Op-ed calls for reforming secret non-disclosure orders on data requests and strict constitutional limits on surveillance tools.",
+    "source": "https://rogersforflorida.com/news/washington-reporter-op-ed-austin-rogers-we-need-to-end-the-deep-states-secret-surveillance-machine/"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Wants border policies written into law and opposes mass amnesty, but says deporting everyone is not feasible and criminals should come first.",
+    "source": "https://rogersforflorida.com/news/austin-rogers-says-trump-acted-to-close-off-the-valve-on-illegal-immigration/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Pledges child online safety legislation and says Big Tech must be held responsible when platforms harm children.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   "education": {
+    "score": 35,
+    "evidence": "General statement: backs parental rights and opposes certain ideological content aimed at children.",
+    "source": "https://rogersforflorida.com/issues/"
+   },
+   "faith": {
+    "score": 70,
+    "evidence": "General statement: says faith comes first for him and pledges to defend free exercise of religion, a subject he has written on.",
+    "source": "https://rogersforflorida.com/issues/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched his campaign home, issues and news pages, including his op-eds and a Floridian interview. No stated positions found on safety-net programs, foreign alliances or energy."
+ },
+ {
+  "id": "FL-2/amanda-green",
+  "name": "Amanda Green",
+  "party": "Democratic",
+  "current_role": "Operations director in government contracting",
+  "bio": "Amanda Green, who campaigns as Amanda Marie Green, is the Democratic nominee for Florida's 2nd Congressional District. Raised in St. Petersburg, she studied economics, international affairs and public administration at Florida State University. She has worked as an operations director and pricing specialist for a major USAID implementing partner.",
+  "website": "https://www.amgforcongress.com/",
+  "social": {
+   "x": "https://x.com/AMGforCongress",
+   "instagram": "https://www.instagram.com/amgforcongress",
+   "facebook": "https://www.facebook.com/profile.php?id=61581474694195",
+   "tiktok": "https://www.tiktok.com/@amgforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Congressional ethics",
+    "point": "Ban individual stock trading by members of Congress and support term limits.",
+    "source": "https://www.amgforcongress.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Take on corporate price gouging, fight tariffs, expand affordable housing and invest in cheaper energy.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand affordable care providing a basic standard for all Americans and protect Medicare and Medicaid.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Remove the cap on Social Security payroll contributions and expand Medicare.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   {
+    "topic": "Education",
+    "point": "Increase federal investment in public schools, teachers and Head Start, and target student loan forgiveness.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Oppose unchecked use of Flock cameras and warrantless mass surveillance technology.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   {
+    "topic": "Environment",
+    "point": "Oppose offshore drilling off Florida, protect waters and forests, and oppose unchecked data center expansion.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Refuses billionaire donations and wants to reduce money's role in politics.",
+    "source": "https://www.amgforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Largely general statements: billionaires should pay their fair share, action on corporate price gouging, union organizing rights and opposition to tariffs.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Wants affordable health care with a basic standard for all Americans, Medicare expansion and full funding of nutrition programs.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   "liberty": null,
+   "security": {
+    "score": 20,
+    "evidence": "Opposes unchecked Flock camera use and warrantless mass surveillance, seeking oversight and privacy protections.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 70,
+    "evidence": "Opposes offshore drilling off Florida's coasts and backs conservation and investment in cheaper energy options.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Opposes unchecked expansion of large data centers and wants oversight of surveillance technology.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   "education": {
+    "score": 80,
+    "evidence": "Pledges strong federal investment in public schools, teachers and Head Start.",
+    "source": "https://www.amgforcongress.com/top-priorities"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched her campaign home, about and top-priorities pages; her media page had no readable statements. No stated positions found on abortion, guns, immigration, foreign policy or religion in public life."
+ }
+]

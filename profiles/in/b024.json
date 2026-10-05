@@ -1,0 +1,456 @@
+[
+ {
+  "id": "CA-35/norma-torres",
+  "name": "Norma Torres",
+  "party": "Democratic",
+  "race": "CA-35",
+  "race_label": "California · US House CA-35",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000474",
+   "official_name": "Norma J. Torres",
+   "chamber": "House",
+   "official_site": "https://torres.house.gov",
+   "official_social": {
+    "twitter": "NormaJTorres",
+    "facebook": "RepNormaTorres",
+    "instagram": "repnormatorres"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 70,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "100% NARAL rating and opposed Dobbs; voted for Inflation Reduction Act and Israel support. Liberty driven by abortion.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Norma_Torres",
+    "https://torres.house.gov"
+   ],
+   "photo": {
+    "file": "File:Norma Torres 118th congress.jpeg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-35/mike-cargile",
+  "name": "Mike Cargile",
+  "party": "Republican",
+  "race": "CA-35",
+  "race_label": "California · US House CA-35",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 55,
+    "security": 80,
+    "immigration": 90,
+    "foreign": 15,
+    "energy": 20,
+    "tech": null,
+    "education": 10,
+    "faith": 85
+   },
+   "basis": "America First: close the border, shrink federal government, no gun regulation, pro-life with exceptions, legal cannabis, conditional Israel aid, parental rights, 'pro-God'.",
+   "sources": [
+    "https://www.cargileforcongress.com/issues-1",
+    "https://www.cargileforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-36/ted-lieu",
+  "name": "Ted Lieu",
+  "party": "Democratic",
+  "race": "CA-36",
+  "race_label": "California · US House CA-36",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000582",
+   "official_name": "Ted Lieu",
+   "chamber": "House",
+   "official_site": "https://lieu.house.gov",
+   "official_social": {
+    "twitter": "RepTedLieu",
+    "facebook": "RepTedLieu",
+    "instagram": "RepTedLieu"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": null,
+    "liberty": 15,
+    "security": 35,
+    "immigration": 15,
+    "foreign": 60,
+    "energy": 80,
+    "tech": 85,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-choice, authored conversion-therapy ban, called for AI regulation, opposed family separation, criticized Saudi Yemen war and FBI profiling of Chinese scholars.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ted_Lieu",
+    "https://lieu.house.gov"
+   ],
+   "photo": {
+    "file": "File:Congressman Ted W. Lieu Official Photo.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-36/houston-brignano",
+  "name": "Houston Brignano",
+  "party": "Republican",
+  "race": "CA-36",
+  "race_label": "California · US House CA-36",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign backs cutting regulation and waste, tax incentives, market-based healthcare choice, border security and no amnesty.",
+   "sources": [
+    "https://www.ballotready.org/people/houston-brignano",
+    "https://www.voteforhouston.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-37/sydney-kamlager-dove",
+  "name": "Sydney Kamlager-Dove",
+  "party": "Democratic",
+  "race": "CA-37",
+  "race_label": "California · US House CA-37",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000400",
+   "official_name": "Sydney Kamlager-Dove",
+   "chamber": "House",
+   "official_site": "https://kamlager-dove.house.gov",
+   "official_social": {
+    "twitter": "RepKamlagerDove",
+    "facebook": "RepKamlagerDove",
+    "instagram": "rep_kamlagerdove"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 55,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Called for supporting Israel yet opposed 'river to the sea' resolution; co-authored CROWN Act; backs Equal Rights Amendment. Liberty driven by civil rights.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove",
+    "https://kamlager-dove.house.gov"
+   ],
+   "photo": {
+    "file": "File:Sydney Kamlager-Dove 118th-2.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-37/samantha-mota",
+  "name": "Samantha Mota",
+  "party": "Democratic",
+  "race": "CA-37",
+  "race_label": "California · US House CA-37",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": 15,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign backs national health insurance, more public housing funding (Homes for All Act), congressional stock-trade ban and citizenship pathways.",
+   "sources": [
+    "https://www.motaforcongress.com/about"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-38/hilda-solis",
+  "name": "Hilda Solis",
+  "party": "Democratic",
+  "race": "CA-38",
+  "race_label": "California · US House CA-38",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": 10,
+    "foreign": null,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Former House progressive: pro-union, opposed CAFTA, green-jobs and environmental-justice work, pro-choice; opposed HR 4437, created LA legal fund for immigrants.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hilda_Solis"
+   ],
+   "photo": {
+    "file": "File:Hilda Solis, 2025.jpg",
+    "license": "Public domain",
+    "author": "Los Angeles County Board of Supervisors"
+   }
+  }
+ },
+ {
+  "id": "CA-38/pedro-antonio-casas",
+  "name": "Pedro Antonio Casas",
+  "party": "Republican",
+  "race": "CA-38",
+  "race_label": "California · US House CA-38",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found in reliable sources.",
+   "sources": [
+    "https://ballotpedia.org/California%27s_38th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-39/mark-takano",
+  "name": "Mark Takano",
+  "party": "Democratic",
+  "race": "CA-39",
+  "race_label": "California · US House CA-39",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000472",
+   "official_name": "Mark Takano",
+   "chamber": "House",
+   "official_site": "https://takano.house.gov",
+   "official_social": {
+    "twitter": "RepMarkTakano",
+    "facebook": "RepMarkTakano",
+    "youtube": "RepMarkTakano",
+    "instagram": "repmarktakano"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": 50,
+    "energy": 80,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Medicare for All supporter (endorsed Sanders); pro-choice; backs gun control and transgender rights; criticized Israel's Gaza conduct. Liberty driven by abortion, guns, LGBTQ.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mark_Takano",
+    "https://takano.house.gov"
+   ],
+   "photo": {
+    "file": "File:Mark Takano 118th Congress.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-39/steve-manos",
+  "name": "Steve Manos",
+  "party": "Republican",
+  "race": "CA-39",
+  "race_label": "California · US House CA-39",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 75,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Campaign stresses limiting government overreach, removing housing regulations, empowering police against theft and drug use, and parental rights.",
+   "sources": [
+    "https://www.manosforcongress.com/",
+    "https://electstevemanos.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-40/ken-calvert",
+  "name": "Ken Calvert",
+  "party": "Republican",
+  "race": "CA-40",
+  "race_label": "California · US House CA-40",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C000059",
+   "official_name": "Ken Calvert",
+   "chamber": "House",
+   "official_site": "https://calvert.house.gov",
+   "official_social": {
+    "twitter": "KenCalvert",
+    "facebook": "70063393423",
+    "youtube": "RepKenCalvert",
+    "instagram": "repkencalvert"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 65,
+    "security": null,
+    "immigration": 85,
+    "foreign": 75,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Authored E-Verify; supported Dobbs; voted for 2025 tax-cut law; defense appropriations chair backing Israel aid; opposed IRA. Liberty driven by abortion; backed marriage act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ken_Calvert",
+    "https://calvert.house.gov"
+   ],
+   "photo": {
+    "file": "File:Ken Calvert.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-40/young-kim",
+  "name": "Young Kim",
+  "party": "Republican",
+  "race": "CA-40",
+  "race_label": "California · US House CA-40",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000397",
+   "official_name": "Young Kim",
+   "chamber": "House",
+   "official_site": "https://youngkim.house.gov",
+   "official_social": {
+    "twitter": "RepYoungKim",
+    "facebook": "RepYoungKim",
+    "instagram": "repyoungkim",
+    "youtube": "@RepYoungKim"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 60,
+    "security": 60,
+    "immigration": 45,
+    "foreign": 85,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Fiscal conservative favoring deregulation; voted for 2025 tax law; cosponsored DIGNIDAD legalization bill; foreign-affairs hawk; opposed Respect for Marriage Act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Young_Kim",
+    "https://youngkim.house.gov"
+   ],
+   "photo": {
+    "file": "File:Young Kim 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "Office of Congresswoman Young Kim"
+   }
+  }
+ }
+]

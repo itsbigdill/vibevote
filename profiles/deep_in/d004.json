@@ -1,0 +1,556 @@
+[
+ {
+  "id": "CA-46/lou-correa",
+  "name": "Lou Correa",
+  "party": "Democratic",
+  "race": "CA-46",
+  "race_label": "California · US House CA-46",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001110",
+   "official_name": "J. Luis Correa",
+   "chamber": "House",
+   "official_site": "https://correa.house.gov",
+   "official_social": {
+    "twitter": "RepLouCorrea",
+    "facebook": "RepLouCorrea",
+    "instagram": "reploucorrea"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "immigration",
+   "foreign",
+   "energy",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-46/lou-correa",
+   "name": "Lou Correa",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for CA-46",
+   "bio": "Lou Correa has represented California's 46th district since 2017 and serves on the House Judiciary Committee. He previously served in the California State Assembly, on the Orange County Board of Supervisors and in the California State Senate. Born in East Los Angeles and raised in Anaheim, he holds economics, law and business degrees.",
+   "website": "https://loucorrea.com",
+   "social": {
+    "x": "https://x.com/RepLouCorrea",
+    "instagram": "https://www.instagram.com/reploucorrea",
+    "facebook": "https://www.facebook.com/RepLouCorrea"
+   },
+   "platform": [
+    {
+     "topic": "Abortion",
+     "point": "Believes abortion decisions belong to a woman and her doctor, and opposed overturning Roe.",
+     "source": "https://en.wikipedia.org/wiki/Lou_Correa"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Works on immigration policy through the Judiciary immigration subcommittee and the Hispanic Caucus.",
+     "source": "https://en.wikipedia.org/wiki/Lou_Correa"
+    },
+    {
+     "topic": "Privacy",
+     "point": "Voted to block funding for vehicle kill-switch technology.",
+     "source": "https://en.wikipedia.org/wiki/Lou_Correa"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 20,
+     "evidence": "Abortion: 100% NARAL rating and opposed overturning Roe v. Wade.",
+     "source": "https://en.wikipedia.org/wiki/Lou_Correa"
+    },
+    "security": {
+     "score": 40,
+     "evidence": "One of four Democrats who voted to block funding for vehicle kill-switch technology.",
+     "source": "https://en.wikipedia.org/wiki/Lou_Correa"
+    },
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": {
+     "score": 35,
+     "evidence": "Voted against the 2022 antitrust merger filing fee bill.",
+     "source": "https://en.wikipedia.org/wiki/Lou_Correa"
+    },
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "CA-50/steve-cohen",
+  "name": "Steve Cohen",
+  "party": "Republican",
+  "race": "CA-50",
+  "race_label": "California · US House CA-50",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-50/steve-cohen",
+   "name": "Steve Cohen",
+   "party": "Republican",
+   "current_role": "Broadcast journalist",
+   "bio": "Steve Cohen is a San Diego broadcast journalist with about 50 years in media. He was news director at KUSI-TV for 20 years, covering California politics. He has not held elected office.",
+   "website": "https://cohenforcongressca50.com",
+   "social": {
+    "x": "https://x.com/scohenCA50",
+    "instagram": "https://www.instagram.com/cohen_for_congress"
+   },
+   "platform": [
+    {
+     "topic": "Affordability",
+     "point": "Wants to expand housing supply and crack down on corporate price manipulation.",
+     "source": "https://cohenforcongressca50.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Pledges lower drug costs, protection for pre-existing conditions and accountability for insurers.",
+     "source": "https://cohenforcongressca50.com/"
+    },
+    {
+     "topic": "Seniors",
+     "point": "Commits to defending Social Security and Medicare from cuts.",
+     "source": "https://cohenforcongressca50.com/"
+    },
+    {
+     "topic": "Government spending",
+     "point": "Opposes earmarks and calls for transparency in federal spending.",
+     "source": "https://cohenforcongressca50.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 50,
+     "evidence": "Pairs a crackdown on corporate price manipulation with opposition to earmarks and wasteful spending.",
+     "source": "https://cohenforcongressca50.com/"
+    },
+    "welfare": {
+     "score": 55,
+     "evidence": "Pledges to defend Social Security and Medicare and protect pre-existing condition coverage.",
+     "source": "https://cohenforcongressca50.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://cohenforcongressca50.com/wp-content/uploads/2026/03/Steve-Cohen-Mobile.webp",
+   "notes": "Campaign photo URL is inferred from the file name and may be a banner rather than a headshot."
+  }
+ },
+ {
+  "id": "CA-51/ricardo-cabrera",
+  "name": "Ricardo Cabrera",
+  "party": "Republican",
+  "race": "CA-51",
+  "race_label": "California · US House CA-51",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-51/ricardo-cabrera",
+   "name": "Ricardo Cabrera",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Ricardo Cabrera is a Republican candidate for California's 51st Congressional District. His campaign site gives little biographical information.",
+   "website": "https://www.cabreraforcongress2026.com",
+   "social": {
+    "x": "https://x.com/Cabrera4CA51"
+   },
+   "platform": [
+    {
+     "topic": "Term limits",
+     "point": "Would push for congressional term limits.",
+     "source": "https://www.cabreraforcongress2026.com/"
+    },
+    {
+     "topic": "Corruption",
+     "point": "Supports anti-corruption reform so government serves the public rather than insiders.",
+     "source": "https://www.cabreraforcongress2026.com/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Pledges to lower living costs.",
+     "source": "https://www.cabreraforcongress2026.com/"
+    },
+    {
+     "topic": "Young entrepreneurs",
+     "point": "Wants more opportunities for young entrepreneurs.",
+     "source": "https://www.cabreraforcongress2026.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/4f5ef7_b89818a62d714061b9034b029c0cbfa2~mv2.jpg",
+   "notes": "No career or background details were found."
+  }
+ },
+ {
+  "id": "CO-1/christy-peterson",
+  "name": "Christy Peterson",
+  "party": "Republican",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CO-1/christy-peterson",
+   "name": "Christy Peterson",
+   "party": "Republican",
+   "current_role": "Office manager",
+   "bio": "Christy Peterson is the Republican nominee for Colorado's 1st Congressional District and is listed as an office manager. No further public biography was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or issue positions found; Ballotpedia could not be reached."
+  }
+ },
+ {
+  "id": "CO-2/kelley-dennison",
+  "name": "Kelley Dennison",
+  "party": "Republican",
+  "race": "CO-2",
+  "race_label": "Colorado · US House CO-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CO-2/kelley-dennison",
+   "name": "Kelley Dennison",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Kelley Dennison is the Republican nominee for Colorado's 2nd Congressional District. No further public biography was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or issue positions found; Ballotpedia could not be reached."
+  }
+ },
+ {
+  "id": "CO-6/jason-clark",
+  "name": "Jason Clark",
+  "party": "Republican",
+  "race": "CO-6",
+  "race_label": "Colorado · US House CO-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CO-6/jason-clark",
+   "name": "Jason Clark",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Jason Clark is the Republican nominee for Colorado's 6th congressional district. He became the nominee after the original nominee, Mel Tewahade, withdrew.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website, biography or issue positions were found."
+  }
+ },
+ {
+  "id": "CT-2/george-austin",
+  "name": "George Austin",
+  "party": "Republican",
+  "race": "CT-2",
+  "race_label": "Connecticut · US House CT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CT-2/george-austin",
+   "name": "George Austin",
+   "party": "Republican",
+   "current_role": "Contractor and small-business owner",
+   "bio": "George Austin is a Republican candidate for Connecticut's 2nd Congressional District from Suffield. He grew up in the construction trade, studied construction management at Central Connecticut State University and has run a contracting business in eastern Connecticut. He is the son of an immigrant from Mexico.",
+   "website": "https://votegeorgeforcongress.com/",
+   "social": {
+    "x": "https://x.com/GeorgeforCT2",
+    "instagram": "https://www.instagram.com/GeorgeforCT2",
+    "facebook": "https://www.facebook.com/profile.php?id=61579993042212",
+    "tiktok": "https://www.tiktok.com/@georgeforcongressct2",
+    "youtube": "https://www.youtube.com/@VoteGeorgeforCongress"
+   },
+   "platform": [
+    {
+     "topic": "Government spending",
+     "point": "Cut wasteful federal spending with a household-budget approach to taxpayer money.",
+     "source": "https://votegeorgeforcongress.com/"
+    },
+    {
+     "topic": "Retirement security",
+     "point": "Shore up Social Security and Medicare so they stay solvent for current and future retirees.",
+     "source": "https://votegeorgeforcongress.com/"
+    },
+    {
+     "topic": "Jobs and small business",
+     "point": "Lower taxes and regulations and widen access to homeownership for working families.",
+     "source": "https://votegeorgeforcongress.com/"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Improve VA services and the quality of care veterans receive.",
+     "source": "https://votegeorgeforcongress.com/"
+    },
+    {
+     "topic": "Artificial intelligence",
+     "point": "Set guardrails on AI so its gains reach American workers rather than only large tech firms.",
+     "source": "https://votegeorgeforcongress.com/"
+    },
+    {
+     "topic": "Social issues",
+     "point": "Protect the unborn and defend Second Amendment rights.",
+     "source": "https://ctmirror.org/2026/05/15/ct-gop-opens-convention-fazio-mccaughey/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Campaign calls for lower taxes, fewer regulations and cuts to government waste.",
+     "source": "https://votegeorgeforcongress.com/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 50,
+     "evidence": "Averages opposition to abortion (community norms) with defense of Second Amendment gun rights (individual choice).",
+     "source": "https://ctmirror.org/2026/05/15/ct-gop-opens-convention-fazio-mccaughey/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": {
+     "score": 65,
+     "evidence": "Calls for AI guardrails so innovation benefits workers and not just tech monopolies.",
+     "source": "https://votegeorgeforcongress.com/"
+    },
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Little detail is published on his specific legislative proposals; liberty score rests on convention coverage of his abortion and gun stances."
+  }
+ },
+ {
+  "id": "DE-AL/joseph-arminio",
+  "name": "Joseph Arminio",
+  "party": "Republican",
+  "race": "DE-AL",
+  "race_label": "Delaware · US House DE-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "DE-AL/joseph-arminio",
+   "name": "Joseph Arminio",
+   "party": "Republican",
+   "current_role": "Author and defense policy scholar",
+   "bio": "Joseph Arminio is a Wilmington native with a Ph.D. in political science from MIT and a bachelor's degree from Johns Hopkins. He chaired the National Coalition for Defense, taught at American University and Lincoln University, published a Maryland newspaper and has written several books on American policy and history. He ran in Maryland's 2008 Republican congressional primary.",
+   "website": "https://drjoeforcongress.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Economy",
+     "point": "Adopt his American Prosperity Plan to address stagflation and high public and private debt.",
+     "source": "https://drjoeforcongress.com/"
+    },
+    {
+     "topic": "Foreign policy",
+     "point": "End open-ended wars, avoid entanglement in Ukraine and Iran, and push Israel toward a two-state solution.",
+     "source": "https://drjoeforcongress.com/"
+    },
+    {
+     "topic": "Education",
+     "point": "Require formal debate in high school and teach economic history from primary sources.",
+     "source": "https://drjoeforcongress.com/"
+    },
+    {
+     "topic": "Constitution",
+     "point": "Uphold the Second Amendment and the full Constitution.",
+     "source": "https://drjoeforcongress.com/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Enforce existing immigration law and end sanctuary cities.",
+     "source": "https://drjoeforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 20,
+     "evidence": "Campaign pledges to uphold Second Amendment gun rights; other liberty issues not addressed.",
+     "source": "https://drjoeforcongress.com/"
+    },
+    "security": null,
+    "immigration": {
+     "score": 75,
+     "evidence": "Calls for enforcing immigration law and ending sanctuary cities.",
+     "source": "https://drjoeforcongress.com/"
+    },
+    "foreign": {
+     "score": 30,
+     "evidence": "Opposes endless wars and entanglements in Ukraine and Iran.",
+     "source": "https://drjoeforcongress.com/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Wikipedia's race page lists him as a medical doctor, but his campaign biography describes a political science Ph.D.; the campaign description is used here."
+  }
+ }
+]

@@ -1,0 +1,438 @@
+[
+ {
+  "id": "MA-4/tom-stalcup",
+  "name": "Tom Stalcup",
+  "party": "Republican",
+  "race": "MA-4",
+  "race_label": "Massachusetts · US House MA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 45,
+    "energy": 60,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cut spending, tax relief under $250k, broad drug price negotiation; war only as last resort with strong defense; calls climate change real.",
+   "sources": [
+    "https://tomstalcup.com/tax-reform/",
+    "https://tomstalcup.com/foreign-policy/",
+    "https://tomstalcup.com/environment/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MA-5/katherine-clark",
+  "name": "Katherine Clark",
+  "party": "Democratic",
+  "race": "MA-5",
+  "race_label": "Massachusetts · US House MA-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001101",
+   "official_name": "Katherine M. Clark",
+   "chamber": "House",
+   "official_site": "https://katherineclark.house.gov",
+   "official_social": {
+    "twitter": "RepKClark",
+    "facebook": "CongresswomanClark",
+    "instagram": "repkclark"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 80,
+    "liberty": 30,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Childcare as infrastructure, living wage, paid leave; abortion access plus assault weapons ban (liberty); cracking down on ICE; public school and Head Start funding.",
+   "sources": [
+    "https://katherineclark.org/priorities/",
+    "https://katherineclark.org/",
+    "https://en.wikipedia.org/wiki/Katherine_Clark"
+   ],
+   "photo": {
+    "file": "File:Katherine Clark, official portrait, 118th Congress (tight crop).jpg",
+    "license": "Public domain",
+    "author": "US House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MA-6/dan-koh",
+  "name": "Dan Koh",
+  "party": "Democratic",
+  "race": "MA-6",
+  "race_label": "Massachusetts · US House MA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 90,
+    "liberty": 25,
+    "security": null,
+    "immigration": 10,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Medicare for All with default enrollment; abortion and LGBTQ rights plus gun safety (liberty); abolish ICE; climate as existential threat; strong public schools; pro-union.",
+   "sources": [
+    "https://www.kohforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MA-6/micah-jones",
+  "name": "Micah Jones",
+  "party": "Republican",
+  "race": "MA-6",
+  "race_label": "Massachusetts · US House MA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": null,
+    "liberty": null,
+    "security": 60,
+    "immigration": 55,
+    "foreign": 40,
+    "energy": 45,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Permitting reform, SALT and childcare deductions; more border enforcement with faster legal immigration; LNG and nuclear expansion; AI safety standards; war powers oversight.",
+   "sources": [
+    "https://micahqjones.com/security-plan/",
+    "https://micahqjones.com/opportunity-plan/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MA-7/ayanna-pressley",
+  "name": "Ayanna Pressley",
+  "party": "Democratic",
+  "race": "MA-7",
+  "race_label": "Massachusetts · US House MA-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000617",
+   "official_name": "Ayanna Pressley",
+   "chamber": "House",
+   "official_site": "https://pressley.house.gov",
+   "official_social": {
+    "twitter": "RepPressley",
+    "facebook": "RepAyannaPressley",
+    "instagram": "RepAyannaPressley",
+    "youtube": "UCkhjut8oXdxN7HGg5eRT9Fw"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 10,
+    "security": 10,
+    "immigration": 5,
+    "foreign": 35,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Medicare for All, jobs guarantee; cannabis legalization, abortion and trans rights; ending qualified immunity; New Way Forward Act; opposed Iron Dome funding.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ayanna_Pressley",
+    "https://ayannapressley.com/"
+   ],
+   "photo": {
+    "file": "File:Rep. Ayanna Pressley, 117th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MA-8/stephen-lynch",
+  "name": "Stephen Lynch",
+  "party": "Democratic",
+  "race": "MA-8",
+  "race_label": "Massachusetts · US House MA-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000562",
+   "official_name": "Stephen F. Lynch",
+   "chamber": "House",
+   "official_site": "https://lynch.house.gov",
+   "official_social": {
+    "twitter": "RepStephenLynch",
+    "facebook": "repstephenlynch",
+    "youtube": "RepLynch",
+    "instagram": "repstephenlynch"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 45,
+    "liberty": 45,
+    "security": null,
+    "immigration": null,
+    "foreign": 80,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-labor, opposed fast-track; voted against ACA but defends Medicaid; universal background checks, red flag laws, now backs abortion rights; voted for Iraq War.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stephen_F._Lynch",
+    "https://www.stephenflynch.com/common-sense-gun-laws"
+   ],
+   "photo": {
+    "file": "File:Stephen Lynch 2019 (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MA-8/robert-burke",
+  "name": "Robert Burke",
+  "party": "Republican",
+  "race": "MA-8",
+  "race_label": "Massachusetts · US House MA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 10,
+    "liberty": null,
+    "security": 70,
+    "immigration": 95,
+    "foreign": 15,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax cuts, individually bought catastrophic insurance, law and order, complete immigration pause, opposes global giveaways.",
+   "sources": [
+    "https://burke4congress.us/priorities",
+    "https://burke4congress.us/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MA-9/bill-keating",
+  "name": "Bill Keating",
+  "party": "Democratic",
+  "race": "MA-9",
+  "race_label": "Massachusetts · US House MA-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000375",
+   "official_name": "William R. Keating",
+   "chamber": "House",
+   "official_site": "https://keating.house.gov",
+   "official_social": {
+    "twitter": "USRepKeating",
+    "facebook": "Congressman.Keating",
+    "youtube": "RepBillKeating"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": 80,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 60
+   },
+   "basis": "Pro-choice and pro-LGBTQ votes, stricter gun rules (liberty); Ukraine Caucus and Europe subcommittee leader; cosponsored ACA religious exemption bill.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bill_Keating_(politician)"
+   ],
+   "photo": {
+    "file": "File:Bill Keating portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives, Office of the Clerk"
+   }
+  }
+ },
+ {
+  "id": "MA-9/tyler-macallister",
+  "name": "Tyler MacAllister",
+  "party": "Republican",
+  "race": "MA-9",
+  "race_label": "Massachusetts · US House MA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": 60,
+    "immigration": null,
+    "foreign": null,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports local law enforcement; raises environmental concerns about offshore wind such as Vineyard Wind; focuses on fishing industry and costs.",
+   "sources": [
+    "https://www.macallister4congress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-1/jack-bergman",
+  "name": "Jack Bergman",
+  "party": "Republican",
+  "race": "MI-1",
+  "race_label": "Michigan · US House MI-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001301",
+   "official_name": "Jack Bergman",
+   "chamber": "House",
+   "official_site": "https://bergman.house.gov",
+   "official_social": {
+    "facebook": "RepJackBergman",
+    "twitter": "RepJackBergman",
+    "instagram": "RepJackBergman",
+    "youtube": "RepJackBergman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 65,
+    "security": null,
+    "immigration": 85,
+    "foreign": 75,
+    "energy": 15,
+    "tech": 20,
+    "education": 15,
+    "faith": 85
+   },
+   "basis": "Balanced budget, ACA repeal, anti-abortion and pro-gun (liberty), strict immigration, hawkish defense, pro-drilling, net neutrality opposition, vouchers, Bible-based values.",
+   "sources": [
+    "https://www.ontheissues.org/MI/Jack_Bergman.htm",
+    "https://en.wikipedia.org/wiki/Jack_Bergman"
+   ],
+   "photo": {
+    "file": "File:Jack Bergman (2017).jpg",
+    "license": "Public domain",
+    "author": "Eric Connolly; U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "MI-1/callie-barr",
+  "name": "Callie Barr",
+  "party": "Democratic",
+  "race": "MI-1",
+  "race_label": "Michigan · US House MI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Platform: higher taxes on the wealthy, lift Social Security cap, PRO Act, protect Medicaid, ACA public option, universal healthcare.",
+   "sources": [
+    "https://callieforcongress.com/platform/",
+    "https://callieforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-1/arnett-satterla",
+  "name": "Arnett Satterla",
+  "party": "Libertarian",
+  "race": "MI-1",
+  "race_label": "Michigan · US House MI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ }
+]

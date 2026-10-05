@@ -1,0 +1,407 @@
+[
+ {
+  "id": "AL-7/terri-sewell",
+  "name": "Terri Sewell",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for AL-7",
+  "bio": "Terri Sewell has represented Alabama's 7th Congressional District as a Democrat since 2011. Born in Huntsville and raised in Selma, she studied at Princeton, Oxford and Harvard Law School. Before Congress she worked as a securities lawyer in New York and as a public finance lawyer in Birmingham.",
+  "website": "https://sewellforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/sewell4congress",
+   "instagram": "https://www.instagram.com/sewell4congress/",
+   "facebook": "https://www.facebook.com/sewell4congress/",
+   "youtube": "https://www.youtube.com/RepSewell"
+  },
+  "platform": [
+   {"topic": "Voting rights", "point": "Sponsors the John Lewis Voting Rights Advancement Act to restore federal protections for voters.", "source": "https://en.wikipedia.org/wiki/Terri_Sewell"},
+   {"topic": "Health care", "point": "Backs Medicaid expansion and bills to lower prescription drug costs and address health disparities.", "source": "https://en.wikipedia.org/wiki/Terri_Sewell"},
+   {"topic": "Cost of living", "point": "Lists affordability for Alabama families as a leading campaign priority.", "source": "https://sewellforcongress.com/issues/"},
+   {"topic": "Infrastructure", "point": "Promotes federal investment in infrastructure across Alabama.", "source": "https://sewellforcongress.com/issues/"},
+   {"topic": "Education", "point": "Supports public education investment and has secured federal funding for historically Black colleges.", "source": "https://en.wikipedia.org/wiki/Terri_Sewell"},
+   {"topic": "Seniors and veterans", "point": "Campaigns on protecting programs that serve seniors and veterans.", "source": "https://sewellforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports a $15 federal minimum wage and pay-equity legislation.", "source": "https://en.wikipedia.org/wiki/Terri_Sewell"},
+   "welfare": {"score": 80, "evidence": "Voted for the Affordable Care Act and supports Medicaid expansion.", "source": "https://en.wikipedia.org/wiki/Terri_Sewell"},
+   "liberty": {"score": 25, "evidence": "Abortion: supports abortion rights and opposed Alabama's near-total ban; guns: voted for the Bipartisan Background Checks Act.", "source": "https://en.wikipedia.org/wiki/Terri_Sewell"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Supports a path to citizenship, but voted for the final Senate-amended Laken Riley Act.", "source": "https://www.ontheissues.org/House/Terri_Sewell.htm"},
+   "foreign": {"score": 65, "evidence": "Record opposes isolationism, including support for training Syrian opposition forces, while requiring congressional approval for action against Iran.", "source": "https://www.ontheissues.org/House/Terri_Sewell.htm"},
+   "energy": {"score": 75, "evidence": "Backs renewable energy tax credits, opposes offshore drilling and holds high League of Conservation Voters scores.", "source": "https://www.ontheissues.org/House/Terri_Sewell.htm"},
+   "tech": null,
+   "education": {"score": 70, "evidence": "Opposes school vouchers and supports public school investment.", "source": "https://www.ontheissues.org/House/Terri_Sewell.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy raised from 50 to 75 based on her renewable-credit support, offshore drilling opposition and LCV record. Security score removed because the earlier Patriot Act evidence could not be re-verified."
+ },
+ {
+  "id": "AL-7/ammie-akin",
+  "name": "Ammie Akin",
+  "party": "Republican",
+  "current_role": "Educator and nonprofit co-founder",
+  "bio": "Ammie Akin is a Birmingham educator who has worked as a classroom teacher, school administrator and college professor who trains school leaders. She holds a Doctor of Education from Samford University, co-founded the Hub in the Hills nonprofit workspace and chairs the board of Unless U, which serves adults with disabilities. She won the Republican nomination in the August 2026 special primary for Alabama's 7th District.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Federal spending", "point": "Wants to cut wasteful federal spending and restore fiscal responsibility.", "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"},
+   {"topic": "Regulation", "point": "Aims to reduce regulatory burdens so Alabama businesses can grow.", "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"},
+   {"topic": "Rural health care", "point": "Seeks better rural health care access and keeping rural hospitals open.", "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"},
+   {"topic": "Rural economy", "point": "Supports agriculture, timber and broadband expansion to grow rural communities.", "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"},
+   {"topic": "Education", "point": "Promotes education improvement through partnerships among educators, parents and communities.", "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"},
+   {"topic": "Public safety", "point": "Wants law enforcement and the military to have the resources they need.", "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaigns on cutting red tape and wasteful federal spending.", "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 60, "evidence": "Says law enforcement should get the resources it needs.", "source": "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her campaign website could not be confirmed (ammieakin.com showed only a placeholder page)."
+ },
+ {
+  "id": "AK-AL/nick-begich-iii",
+  "name": "Nick Begich III",
+  "party": "Republican",
+  "current_role": "U.S. Representative for Alaska's at-large district",
+  "bio": "Nick Begich III has represented Alaska's at-large congressional district as a Republican since January 2025. From Anchorage, he holds business degrees from Baylor University and Indiana University and founded the software development firm FarShore Partners. He serves on the Natural Resources, Transportation and Infrastructure, and Science, Space, and Technology committees.",
+  "website": "https://www.alaskansfornickbegich.com/",
+  "social": {
+   "x": "https://twitter.com/NickforAlaska",
+   "instagram": "https://www.instagram.com/NickforAlaska",
+   "facebook": "https://www.facebook.com/NickforAlaska",
+   "youtube": "https://www.youtube.com/@NickforAlaska"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Touts ending taxes on tips and overtime, senior tax relief and help for small businesses.", "source": "https://www.alaskansfornickbegich.com/"},
+   {"topic": "Resource development", "point": "Pushes energy development in NPR-A, the ANWR coastal plain and Cook Inlet, plus North Slope gas.", "source": "https://www.alaskansfornickbegich.com/"},
+   {"topic": "Infrastructure", "point": "Seeks funding for ports, airports, roads and the Alaska Marine Highway System.", "source": "https://www.alaskansfornickbegich.com/"},
+   {"topic": "Permitting", "point": "Supports faster federal permitting through the SPEED Act to spur jobs in energy, mining and timber.", "source": "https://www.alaskansfornickbegich.com/"},
+   {"topic": "Fentanyl", "point": "Backs the HALT Fentanyl Act, which permanently classifies fentanyl-related drugs as Schedule I.", "source": "https://www.alaskansfornickbegich.com/"},
+   {"topic": "Arctic security", "point": "Advocates homeporting icebreakers in Alaska and more Arctic defense investment.", "source": "https://www.alaskansfornickbegich.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Campaigns on tax cuts and reducing federal red tape.", "source": "https://www.alaskansfornickbegich.com/"},
+   "welfare": {"score": 20, "evidence": "Voted against a three-year extension of ACA subsidies in January 2026.", "source": "https://en.wikipedia.org/wiki/Nick_Begich_III"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 70, "evidence": "Voted against war powers resolutions that would have limited military action against Iran in 2026.", "source": "https://en.wikipedia.org/wiki/Nick_Begich_III"},
+   "energy": {"score": 10, "evidence": "Secured mandated oil and gas lease sales in the ANWR coastal plain in the 2025 budget law.", "source": "https://en.wikipedia.org/wiki/Nick_Begich_III"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Nick Begich III 119th Congress.jpg", "license": "Public domain", "author": "House Creative Services"},
+  "campaign_photo": "https://static.wixstatic.com/media/3c3128_90a0d3bcc332466a8826809bfe344df2~mv2.jpg/v1/crop/x_556,y_0,w_3163,h_3240/fill/w_330,h_338,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Begich_Shoot_Stills82.jpg",
+  "notes": ""
+ },
+ {
+  "id": "AK-AL/bill-hill",
+  "name": "Bill Hill",
+  "party": "Independent",
+  "current_role": "Commercial fisherman and retired school superintendent",
+  "bio": "Bill Hill is a Dena'ina Athabascan from Kokhanok who later settled in Naknek in Bristol Bay. He taught in Juneau public schools, served as superintendent of the Bristol Bay Borough School District and retired in 2023 after being named Alaska's superintendent of the year. He now fishes commercially in Bristol Bay and is running as an independent.",
+  "website": "https://billhillforalaskans.com/",
+  "social": {
+   "x": "https://x.com/BillHillAK",
+   "instagram": "https://www.instagram.com/billhillforalaskans",
+   "tiktok": "https://www.tiktok.com/@billhillforalaskans",
+   "youtube": "https://www.youtube.com/@BillHillForAlaskans"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants lower grocery and fuel costs by opposing tariffs and fighting corporate price gouging.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   {"topic": "Taxes", "point": "Would have wealthy people and corporations pay more while cutting taxes for small businesses and the middle class.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   {"topic": "Health care", "point": "Supports expanding Medicaid, extending federal health subsidies and capping prescription drug prices.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   {"topic": "Ethics", "point": "Backs a full ban on stock trading by members of Congress and overturning Citizens United.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   {"topic": "Fisheries", "point": "Pledges to protect the Bristol Bay salmon fishery, reduce bycatch and defend subsistence rights.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   {"topic": "Energy", "point": "Favors developing oil and gas while restoring tax credits for renewable projects.", "source": "https://billhillforalaskans.com/bills-platform/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Calls for higher taxes on the wealthy and corporations and action against price gouging.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   "welfare": {"score": 75, "evidence": "Supports Medicaid expansion, extended health subsidies and drug price caps.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   "liberty": {"score": 15, "evidence": "Abortion: says government does not belong in medical decisions; guns: strongly supports Second Amendment rights.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 40, "evidence": "Backs an all-of-the-above approach, including oil and gas plus restored renewable tax credits.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   "tech": null,
+   "education": {"score": 65, "evidence": "Calls for federal investment in community schools.", "source": "https://billhillforalaskans.com/bills-platform/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AK-AL/eric-hafner",
+  "name": "Eric Hafner",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Eric Hafner is a registered Democrat who advanced from Alaska's 2026 top-four primary for the U.S. House after other candidates withdrew; he also appeared on the 2024 general election ballot for the seat. He is serving a federal prison sentence in New York after pleading guilty in 2022 to making threats, and has no documented ties to Alaska.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No public platform found. Coverage says his eligibility is likely to face a legal challenge over the constitutional residency requirement."
+ },
+ {
+  "id": "AK-AL/jim-mcdermott",
+  "name": "Jim McDermott",
+  "party": "Libertarian",
+  "current_role": "Writer and former small-business educator",
+  "bio": "Jim McDermott is a Fairbanks writer, born in Savannah, Georgia, who has lived in Alaska for more than 35 years. He retired as a Master Sergeant after 22 years in the U.S. Air Force and has worked as director of the Fairbanks Small Business Development Center and as a business instructor at the University of Alaska Fairbanks. He has also served as a commissioner on the Alaska Public Offices Commission.",
+  "website": "https://www.mcdermott4congress4alaska.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Limited government", "point": "Says small government works best and wants outside audits of federal spending.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"},
+   {"topic": "Term limits", "point": "Supports congressional term limits.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"},
+   {"topic": "Permanent Fund", "point": "Wants at least half of Permanent Fund earnings paid out to Alaskans as dividends.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"},
+   {"topic": "Defense", "point": "Supports national defense and service members but opposes nation building abroad.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"},
+   {"topic": "Schools", "point": "Backs parents' right to be involved in decisions about their children's schools.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"},
+   {"topic": "Mental health", "point": "Supports quality mental health clinics and their services.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Describes himself as a free-market, small-government candidate who opposes crony capitalism.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 35, "evidence": "Supports national defense but says he opposes nation building.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 30, "evidence": "Supports parents' right to be involved in the direction of their children's schools.", "source": "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign website appears to show content from an earlier campaign, so the platform relies on his 2026 official election statement. He names personal liberty as his focus but does not address specific issues, so liberty is unscored."
+ },
+ {
+  "id": "AZ-1/jay-feely",
+  "name": "Jay Feely",
+  "party": "Republican",
+  "current_role": "Former NFL kicker and broadcaster",
+  "bio": "Jay Feely is a former NFL placekicker who played for several teams from 2001 to 2014, including the Falcons, Giants, Dolphins and Cardinals, and later worked as a CBS football analyst until 2025. Born in Odessa, Florida, he played college football at the University of Michigan. He won the 2026 Republican primary for Arizona's 1st District.",
+  "website": "https://www.jayfeelyforcongress.com/",
+  "social": {
+   "x": "https://x.com/jayfeely",
+   "youtube": "https://www.youtube.com/channel/UC0nIMFhA6Htn8MmsrKm7i2w"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Wants to finish the border wall, deport violent offenders and fight fentanyl trafficking.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   {"topic": "Economy", "point": "Pledges to extend the Trump tax cuts, cut regulation, boost manufacturing and reduce the debt.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   {"topic": "Energy", "point": "Supports more domestic oil, natural gas and coal production with fewer regulations.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   {"topic": "Women's sports", "point": "Wants federal law barring transgender athletes from competing in women's sports.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   {"topic": "Israel", "point": "Pledges stronger U.S.-Israel ties and action against antisemitism on college campuses.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   {"topic": "Arizona priorities", "point": "Promises to protect Arizona water, farmers and ranchers, and Second Amendment rights.", "source": "https://www.jayfeelyforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for extending the 2017 tax cuts and reducing regulation.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "LGBTQ: opposes transgender athletes in women's sports and calls himself a social conservative; guns: defends Second Amendment rights.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Wants the border wall completed and mass deportation of violent offenders.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   "foreign": {"score": 70, "evidence": "Pledges to strengthen the U.S.-Israel relationship.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   "energy": {"score": 10, "evidence": "Backs expanded oil, gas and coal production and fewer energy regulations.", "source": "https://www.jayfeelyforcongress.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Jay Feely 2026 (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/67f84bbfbafe6b787bcbf6bf/316b0946-a72c-43c6-ab4f-6f70a9e0b60d/jay-feely-cbs-kicking-analyst-2024-1920x1280.png",
+  "notes": "Liberty lowered from 70 to 60 because his stated support for gun rights offsets his socially conservative positions."
+ },
+ {
+  "id": "AZ-1/amish-shah",
+  "name": "Amish Shah",
+  "party": "Democratic",
+  "current_role": "Emergency physician and former Arizona state representative",
+  "bio": "Amish Shah is an emergency physician who served in the Arizona House of Representatives from 2019 to 2024. Originally from Chicago, he earned his medical degree at Northwestern and a public health master's at UC Berkeley, and practiced in New York before moving to Arizona. He was the Democratic nominee for Arizona's 1st District in 2024 and is the nominee again in 2026.",
+  "website": "https://www.amishforarizona.com/",
+  "social": {
+   "x": "https://twitter.com/DrAmishShah",
+   "instagram": "https://www.instagram.com/dr.amishshah/",
+   "facebook": "https://www.facebook.com/AmishShahMD/"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Wants to expand coverage, protect Medicare and lower prescription drug prices.", "source": "https://arizonaballotguide.com/candidates/amish-shah"},
+   {"topic": "Abortion", "point": "Would pass federal protections for abortion access.", "source": "https://www.amishforarizona.com/"},
+   {"topic": "Retirement programs", "point": "Pledges to protect Social Security and Medicare.", "source": "https://www.amishforarizona.com/"},
+   {"topic": "Public safety", "point": "Supports fully funding police, reducing gun violence and stopping fentanyl trafficking.", "source": "https://arizonaballotguide.com/candidates/amish-shah"},
+   {"topic": "Education", "point": "Backs more public school funding, better teacher pay and more affordable college.", "source": "https://arizonaballotguide.com/candidates/amish-shah"},
+   {"topic": "Democracy", "point": "Supports anti-gerrymandering measures and campaign finance reform.", "source": "https://arizonaballotguide.com/candidates/amish-shah"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Opposes tax breaks for the wealthy and highlights middle-class tax cuts.", "source": "https://arizonaballotguide.com/candidates/amish-shah"},
+   "welfare": {"score": 85, "evidence": "His campaign describes him as a supporter of universal healthcare and expanded coverage.", "source": "https://arizonaballotguide.com/candidates/amish-shah"},
+   "liberty": {"score": 25, "evidence": "Abortion: supports codifying Roe v. Wade; guns: wants to reduce gun violence.", "source": "https://arizonaballotguide.com/candidates/amish-shah"},
+   "security": {"score": 55, "evidence": "Supports fully funding police and first responders.", "source": "https://arizonaballotguide.com/candidates/amish-shah"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 80, "evidence": "Calls for increased public school funding and higher teacher pay.", "source": "https://arizonaballotguide.com/candidates/amish-shah"},
+   "faith": null
+  },
+  "photo": {"file": "File:Amish Shah by Gage Skidmore 2 (cropped).jpg", "license": "CC BY-SA 3.0", "author": "Gage Skidmore"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/644cbe97b9c0767684efd237/d99426f9-7c0d-41d4-9000-6d4bafb746dd/Dr.+Amish+Shah+stethoscope.jpeg",
+  "notes": "Positions come mainly from a third-party ballot guide summarising his campaign materials."
+ },
+ {
+  "id": "AZ-1/monica-alponte",
+  "name": "Monica Alponte",
+  "party": "Libertarian",
+  "current_role": "Retired business owner and writer",
+  "bio": "Monica Alponte grew up in a military family and has lived in Arizona for about 25 years. She is a retired business owner and writer and a former talk show co-host who has been active in local road safety, animal rescue and HOA reform.",
+  "website": "https://monicaalponteaz.com/",
+  "social": {
+   "x": "https://x.com/MonicaAlponteAZ",
+   "instagram": "https://instagram.com/monicaalponteaz",
+   "youtube": "https://www.youtube.com/@MonicaAlponte"
+  },
+  "platform": [
+   {"topic": "War powers", "point": "Would vote against any military action that lacks a formal congressional declaration of war.", "source": "https://monicaalponteaz.com/"},
+   {"topic": "Foreign aid", "point": "Would end all U.S. military and economic aid to foreign countries.", "source": "https://monicaalponteaz.com/"},
+   {"topic": "Taxes and money", "point": "Proposes abolishing the IRS and ending the Federal Reserve's monopoly.", "source": "https://monicaalponteaz.com/"},
+   {"topic": "Civil liberties", "point": "Emphasises free speech, religious freedom and the right to self-defense.", "source": "https://monicaalponteaz.com/"},
+   {"topic": "Immigration", "point": "Supports secure borders and removing incentives for illegal immigration.", "source": "https://monicaalponteaz.com/"},
+   {"topic": "Lobbying", "point": "Refuses money from AIPAC and foreign lobbies.", "source": "https://lp.org/candidate/monica-alponte/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Proposes abolishing the IRS and cutting the administrative state.", "source": "https://monicaalponteaz.com/"},
+   "welfare": null,
+   "liberty": {"score": 15, "evidence": "Speech: champions free speech; guns: strongly pro-Second Amendment; stresses personal choice.", "source": "https://monicaalponteaz.com/"},
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Calls for secure borders and ending incentives for illegal immigration.", "source": "https://monicaalponteaz.com/"},
+   "foreign": {"score": 5, "evidence": "Would end all foreign aid and oppose undeclared military action.", "source": "https://monicaalponteaz.com/"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 25, "evidence": "Lists parental sovereignty as a core campaign issue.", "source": "https://monicaalponteaz.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://img1.wsimg.com/isteam/ip/c4b6c70d-6a72-498b-becd-73d25a08c2c0/blob-6f94adf.png",
+  "notes": "It is not confirmed that the campaign-site image is a headshot. The education score rests only on a brief 'parental sovereignty' heading."
+ },
+ {
+  "id": "AZ-2/eli-crane",
+  "name": "Eli Crane",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AZ-2",
+  "bio": "Eli Crane has represented Arizona's 2nd Congressional District as a Republican since 2023 and is a member of the House Freedom Caucus. Born in Tucson, he served as a Navy SEAL from 2001 to 2014, then co-founded Bottle Breacher, a company that appeared on Shark Tank and was sold in 2022.",
+  "website": "https://eliforarizona.com/",
+  "social": {
+   "x": "https://twitter.com/EliCraneAZ",
+   "instagram": "https://www.instagram.com/elicraneaz/",
+   "facebook": "https://www.facebook.com/EliCraneAZ/",
+   "youtube": "https://www.youtube.com/@rep.elicrane"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Backs completing the border wall, adding agents and removing people in the country unlawfully; opposes amnesty.", "source": "https://crane.house.gov/issues/securing-our-border/"},
+   {"topic": "Taxes", "point": "Favors low taxes and limited regulation and helped end taxes on tips and overtime.", "source": "https://crane.house.gov/issues/economic-prosperity/"},
+   {"topic": "Spending", "point": "Prefers single-subject spending bills over large omnibus packages to address the deficit.", "source": "https://crane.house.gov/issues/economic-prosperity/"},
+   {"topic": "Energy", "point": "Supports expanded oil and gas leasing and ending wind and solar subsidies and EV mandates.", "source": "https://crane.house.gov/issues/energy/"},
+   {"topic": "Visas", "point": "Introduced the End H-1B Visa Abuse Act to pause and overhaul the H-1B program.", "source": "https://crane.house.gov/issues/securing-our-border/"},
+   {"topic": "Values", "point": "Campaigns as anti-abortion and pro-Second Amendment, with election integrity as a priority.", "source": "https://eliforarizona.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Says taxes should be low and regulation limited, opposes industry subsidies and voted against the 2023 debt-limit deal.", "source": "https://crane.house.gov/issues/economic-prosperity/"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Abortion: says Roe v. Wade was a mistake; guns: pro-Second Amendment; vaccines: opposes all vaccine mandates.", "source": "https://www.ontheissues.org/House/Eli_Crane.htm"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Supports wall completion and removing people unlawfully present, opposes amnesty and seeks to pause H-1B visas.", "source": "https://crane.house.gov/issues/securing-our-border/"},
+   "foreign": {"score": 15, "evidence": "Voted to cut military aid to Ukraine and backed withdrawing U.S. troops from Syria.", "source": "https://en.wikipedia.org/wiki/Eli_Crane"},
+   "energy": {"score": 10, "evidence": "Backs expanded oil and gas leasing and opposes EV mandates and wind and solar subsidies.", "source": "https://crane.house.gov/issues/energy/"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Strongly opposes Critical Race Theory in schools.", "source": "https://www.ontheissues.org/House/Eli_Crane.htm"},
+   "faith": {"score": 80, "evidence": "Says religious liberty is at risk and favors keeping God in the public sphere.", "source": "https://www.ontheissues.org/House/Eli_Crane.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://eliforarizona.com/wp-content/uploads/2024/02/IMG_4466.jpg",
+  "notes": "The liberty score averages his anti-abortion stance with his opposition to gun restrictions and vaccine mandates."
+ },
+ {
+  "id": "AZ-2/jonathan-nez",
+  "name": "Jonathan Nez",
+  "party": "Democratic",
+  "current_role": "Former President of the Navajo Nation",
+  "bio": "Jonathan Nez served as President of the Navajo Nation from 2019 to 2023, as Vice President from 2015 to 2019 and as a Navajo Nation Council delegate from 2007 to 2015. Born in Tuba City, he studied political science and public administration at Northern Arizona University. He was the 2024 Democratic nominee for Arizona's 2nd District and is running again in 2026.",
+  "website": "https://jonathannezforaz.com/",
+  "social": {
+   "x": "https://x.com/NezForAZ",
+   "instagram": "https://instagram.com/NezForAZ/",
+   "facebook": "https://facebook.com/NezForAZ/",
+   "tiktok": "https://tiktok.com/@nezforaz"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Aims to lower health care, housing and utility costs for families.", "source": "https://jonathannezforaz.com/issues"},
+   {"topic": "Water and food", "point": "Pledges to protect Arizona water security and invest in affordable, healthy food.", "source": "https://jonathannezforaz.com/issues"},
+   {"topic": "Rural infrastructure", "point": "Wants long-term rural infrastructure, support for farmers and ranchers, and disaster protection.", "source": "https://jonathannezforaz.com/issues"},
+   {"topic": "Accountability", "point": "Promises to take on government corruption and money in politics.", "source": "https://jonathannezforaz.com/issues"},
+   {"topic": "Tribal sovereignty", "point": "Commits to protecting tribal sovereignty and voting rights.", "source": "https://jonathannezforaz.com/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 25, "evidence": "LGBTQ rights: endorsed legalizing same-sex marriage on the Navajo Nation in 2022.", "source": "https://en.wikipedia.org/wiki/Jonathan_Nez"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Jonathan Nez (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Wikiuser159597"},
+  "campaign_photo": "https://run.imgix.net/3fd41a6f-1ad0-4231-b9fc-cc4c4b786524/3bbd7be2-9041-4352-a043-7b66044237da/3bbd7be2-9041-4352-a043-7b66044237da.jpg",
+  "notes": "His campaign agenda names priorities without specific policy detail, so most domains stay unscored."
+ },
+ {
+  "id": "AZ-2/curtis-goodwin",
+  "name": "Curtis Goodwin",
+  "party": "Libertarian",
+  "current_role": "Maintenance technician",
+  "bio": "Curtis Goodwin is the Libertarian candidate for Arizona's 2nd Congressional District. He works as a maintenance technician and industrial painter.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public policy statements found."
+ }
+]

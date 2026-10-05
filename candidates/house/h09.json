@@ -1,0 +1,446 @@
+[
+  {
+    "state": "Connecticut",
+    "district": "CT-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Luke Bronin",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 70,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Former Hartford mayor; campaigned for more renewable energy and sensible artificial intelligence regulation.",
+        "sources": [
+          "https://ctmirror.org/2026/08/11/john-larson-luke-bronin-primary-election-results/",
+          "https://en.wikipedia.org/wiki/Luke_Bronin"
+        ],
+        "photo": {
+          "file": "File:Luke Bronin (42831415392).jpg",
+          "license": "CC BY 2.0",
+          "author": "Dannel Malloy (Flickr)"
+        }
+      },
+      {
+        "name": "Amy Chai",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Physician focused on mental illness and addiction prevention; no stances mappable to these domains found.",
+        "sources": [
+          "https://ctmirror.org/2026/08/11/john-larson-luke-bronin-primary-election-results/",
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Connecticut",
+    "district": "CT-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Joe Courtney",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": 45,
+          "security": null,
+          "immigration": 30,
+          "foreign": 80,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs Medicare drug negotiation, grocery price accountability, abortion rights, gun control; opposed travel ban; leads AUKUS, opposed Syria withdrawal.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Joe_Courtney_(politician)",
+          "https://courtney.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:Rep. Joe Courtney Portrait 2024.jpg",
+          "license": "Public domain",
+          "author": "Office of Congressman Joe Courtney"
+        }
+      },
+      {
+        "name": "George Austin",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut",
+          "https://patch.com/connecticut/enfield/george-austin-running-congress-he-s-making-stop-enfield"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Connecticut",
+    "district": "CT-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Rosa DeLauro",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 85,
+          "liberty": 45,
+          "security": null,
+          "immigration": 40,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Progressive Caucus founder; backs universal health care, child care infrastructure, abortion rights, gun regulation; opposed ICE funding increases but not abolition.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Rosa_DeLauro"
+        ],
+        "photo": {
+          "file": "File:Rosa DeLauro 118th Congress Cropped Official Portrait.jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Christopher Lancia",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Thomas Egan",
+        "party": "Independent Party",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.newhavenindependent.org/2026/09/15/delauro-challenger-targets-insurers/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Connecticut",
+    "district": "CT-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jim Himes",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 40,
+          "welfare": 60,
+          "liberty": 45,
+          "security": 70,
+          "immigration": null,
+          "foreign": 65,
+          "energy": 70,
+          "tech": 40,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Voted against 2022 antitrust package and for anti-socialism resolution; backs ACA, gun control, abortion rights, FISA 702 renewal, Iran sanctions, clean energy bill.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jim_Himes"
+        ],
+        "photo": {
+          "file": "File:Jim Himes Official Portrait, 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Michael Goldstein",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Connecticut",
+    "district": "CT-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jahana Hayes",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 30,
+          "security": 25,
+          "immigration": 20,
+          "foreign": null,
+          "energy": 90,
+          "tech": 65,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Pro-choice; backs universal background checks, trans athletes, police accountability, citizenship path, Green New Deal, net neutrality; opposes vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/House/Jahana_Hayes.htm",
+          "https://en.wikipedia.org/wiki/Jahana_Hayes"
+        ],
+        "photo": {
+          "file": "File:Jahana Hayes, official portrait, 116th Congress.jpg",
+          "license": "Public domain",
+          "author": "Leah Herman, U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Chris Shea",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+        "sources": [
+          "https://ctmirror.org/2026/01/22/chris-shea-gop-ct-5th-congressional-district/",
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Delaware",
+    "district": "DE-AL",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Sarah McBride",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 70,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": 80,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs minimum wage increase, paid leave, health access, abortion and LGBTQ rights, marijuana decriminalization, ghost-gun ban, Israel and Ukraine aid, 40% renewables.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sarah_McBride",
+          "https://www.ontheissues.org/House/Sarah_McBride.htm"
+        ],
+        "photo": {
+          "file": "File:Representative Sarah McBride Official Portrait.jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Joseph Arminio",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": 75,
+          "foreign": 30,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign site: end sanctuary cities, enforce immigration law, uphold Second Amendment, oppose endless military entanglements and attacking Iran.",
+        "sources": [
+          "https://drjoeforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "District of Columbia",
+    "district": "DC-DEL",
+    "office": "US House (delegate)",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Robert White",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 80,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "DC Council member who passed Birth to Three for All DC, expanding early childhood education; other domains lack documented stances.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Robert_White_(Washington,_D.C.,_politician)"
+        ],
+        "photo": {
+          "file": "File:Member of the Council of the District of Columbia Robert C. White Jr (cropped).jpg",
+          "license": "Public domain",
+          "author": "Council of the District of Columbia"
+        }
+      },
+      {
+        "name": "Denise Rosado",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 50,
+          "security": 75,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 30,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "Campaign site: tougher public safety, Second Amendment protection, parental rights, limits on classroom gender topics, women's sports; guns and LGBTQ drove liberty.",
+        "sources": [
+          "https://rosadoforcongress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Kymone Freeman",
+        "party": "DC Statehood Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Radio host; campaign slogan \"No Representation, No Taxes\" only; no mappable stances found.",
+        "sources": [
+          "https://freeman4congress.com/",
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_the_District_of_Columbia"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

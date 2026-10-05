@@ -1,0 +1,27 @@
+# secrets
+.dev.vars*
+.env*
+
+# dependencies, caches, local state
+node_modules/
+.wrangler/
+__pycache__/
+.backup/
+reports/
+.DS_Store
+
+# the iPhone/Android app has its own repository for now
+mobile/
+
+# early prototype
+artifact-test/
+
+# large downloads that build.py and prep_districts.py fetch again from the Census and state sites
+data-src/*.zip
+data-src/zcta520_county20.txt
+data-src/db_load.sql
+data-src/*.log
+
+# build output (python3 build.py); _headers is written by hand
+public/*
+!public/_headers

@@ -1,0 +1,405 @@
+[
+ {
+  "id": "TX-34/vicente-gonzalez",
+  "name": "Vicente Gonzalez",
+  "party": "Democratic",
+  "race": "TX-34",
+  "race_label": "Texas · US House TX-34",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000581",
+   "official_name": "Vicente Gonzalez",
+   "chamber": "House",
+   "official_site": "https://gonzalez.house.gov",
+   "official_social": {
+    "facebook": "USCongressmanVicenteGonzalez",
+    "twitter": "RepGonzalez",
+    "instagram": "repvicentegonzaleztx"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 60,
+    "liberty": 35,
+    "security": null,
+    "immigration": 45,
+    "foreign": 70,
+    "energy": 40,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Moderate Democrat; voted for Laken Riley Act and Ukraine/Israel aid, supports abortion rights and Gulf Coast oil, gas and LNG.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Vicente_Gonzalez_(American_politician)",
+    "https://gonzalez.house.gov"
+   ],
+   "photo": {
+    "file": "File:Vicente Gonzalez, official portrait, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "TX-34/eric-flores",
+  "name": "Eric Flores",
+  "party": "Republican",
+  "race": "TX-34",
+  "race_label": "Texas · US House TX-34",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Trump-endorsed former prosecutor prioritizing border security, law enforcement, Second Amendment and US energy independence.",
+   "sources": [
+    "https://myrgv.com/publications/the-brownsville-herald/2026/03/04/eric-flores-trounces-mayra-flores-in-district-34-republican-primary/",
+    "https://www.texastribune.org/2026/02/26/south-texas-34th-congressional-district-eric-mayra-flores-vicente-gonzalez/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-34/eddie-espinoza",
+  "name": "Eddie Espinoza",
+  "party": "Green",
+  "race": "TX-34",
+  "race_label": "Texas · US House TX-34",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Texas%27_34th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-34/chris-royal",
+  "name": "Chris Royal",
+  "party": "Libertarian",
+  "race": "TX-34",
+  "race_label": "Texas · US House TX-34",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Texas%27_34th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-35/johnny-garcia",
+  "name": "Johnny Garcia",
+  "party": "Democratic",
+  "race": "TX-35",
+  "race_label": "Texas · US House TX-35",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Blue Dog sheriff's deputy who calls himself strongly pro-choice and opposes ICE raids dividing his community.",
+   "sources": [
+    "https://www.texasobserver.org/35th-congressional-district-runoff-johnny-garcia/",
+    "https://ballotpedia.org/Johnny_Garcia_(Texas_congressional_candidate)"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-35/carlos-de-la-cruz",
+  "name": "Carlos De La Cruz",
+  "party": "Republican",
+  "race": "TX-35",
+  "race_label": "Texas · US House TX-35",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Trump-endorsed Air Force veteran campaigning on codifying Trump border policies and reducing government spending.",
+   "sources": [
+    "https://sanantonioreport.org/carlos-de-la-cruz-qa-tx-35-runoff/",
+    "https://www.tpr.org/government-politics/2026-05-27/trump-backed-carlos-de-la-cruz-wins-gop-runoff-setting-up-november-test-of-redistricting-in-tx-35"
+   ],
+   "photo": {
+    "file": "File:Carlos De La Cruz.jpg",
+    "license": "Public domain",
+    "author": "U.S. Department of Defense"
+   }
+  }
+ },
+ {
+  "id": "TX-36/brian-babin",
+  "name": "Brian Babin",
+  "party": "Republican",
+  "race": "TX-36",
+  "race_label": "Texas · US House TX-36",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001291",
+   "official_name": "Brian Babin",
+   "chamber": "House",
+   "official_site": "https://babin.house.gov",
+   "official_social": {
+    "twitter": "RepBrianBabin",
+    "facebook": "RepBrianBabin"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 60,
+    "security": null,
+    "immigration": 90,
+    "foreign": 30,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against 2024 Ukraine aid, for tax cuts; sponsored refugee-pause bills; opposes abortion, backs gun rights and oil and gas.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brian_Babin",
+    "https://babin.house.gov"
+   ],
+   "photo": {
+    "file": "File:Brian Babin 115th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography/House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "TX-36/rhonda-hart",
+  "name": "Rhonda Hart",
+  "party": "Democratic",
+  "race": "TX-36",
+  "race_label": "Texas · US House TX-36",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": 40,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Veteran backing codified Roe and stricter gun storage laws (liberty mixed), plus expanded veterans' health and pension benefits.",
+   "sources": [
+    "https://hart4congress.com/",
+    "https://ballotpedia.org/Rhonda_Hart"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-37/greg-casar",
+  "name": "Greg Casar",
+  "party": "Democratic",
+  "race": "TX-37",
+  "race_label": "Texas · US House TX-37",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001131",
+   "official_name": "Greg Casar",
+   "chamber": "House",
+   "official_site": "https://casar.house.gov",
+   "official_social": {
+    "twitter": "RepCasar",
+    "facebook": "RepCasar",
+    "instagram": "RepCasar"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": null,
+    "liberty": 15,
+    "security": 10,
+    "immigration": 5,
+    "foreign": 15,
+    "energy": 90,
+    "tech": 75,
+    "education": 85,
+    "faith": 15
+   },
+   "basis": "Taxing the wealthy, Green New Deal cosponsor, police budget cuts, fighting SB4, Syria withdrawal vote, surveillance-pricing ban, school funding; liberty from LGBTQ and justice reform.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Greg_Casar",
+    "https://casar.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Rep. Greg Casar - 118th Congress (3x4 cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "TX-37/lauren-pena",
+  "name": "Lauren Peña",
+  "party": "Republican",
+  "race": "TX-37",
+  "race_label": "Texas · US House TX-37",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions were found on her campaign site.",
+   "sources": [
+    "https://www.lauren4congress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-38/jon-bonck",
+  "name": "Jon Bonck",
+  "party": "Republican",
+  "race": "TX-38",
+  "race_label": "Texas · US House TX-38",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 60,
+    "security": null,
+    "immigration": 95,
+    "foreign": 15,
+    "energy": null,
+    "tech": null,
+    "education": 10,
+    "faith": 90
+   },
+   "basis": "Finish the wall, no blank checks for foreign wars, parents first; liberty mixes no-compromise abortion stance with gun rights and anti-mandate views.",
+   "sources": [
+    "https://www.jonbonck.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-38/melissa-mcdonough",
+  "name": "Melissa McDonough",
+  "party": "Democratic",
+  "race": "TX-38",
+  "race_label": "Texas · US House TX-38",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 90,
+    "liberty": 25,
+    "security": null,
+    "immigration": 30,
+    "foreign": 70,
+    "energy": 65,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Medicare for All, Medicaid expansion, Ukraine aid, renewables alongside fossil fuels, opposes vouchers; liberty from abortion rights and gun safety measures.",
+   "sources": [
+    "https://melissaforcongress.com/platform/"
+   ],
+   "photo": null
+  }
+ }
+]

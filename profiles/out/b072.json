@@ -1,0 +1,406 @@
+[
+ {
+  "id": "NY-23/aaron-gies",
+  "name": "Aaron Gies",
+  "party": "Democratic",
+  "current_role": "Educator",
+  "bio": "Aaron Gies is the Democratic nominee for New York's 23rd District, covering Western New York and the Southern Tier. His campaign describes work as a teacher, nonprofit leader, restaurant server, bookkeeper and farm worker, and local coverage identifies him as a college professor. He has not previously held elected office.",
+  "website": "https://aaronforny23.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/aaron4ny23",
+   "facebook": "https://www.facebook.com/Aaron4ny23",
+   "tiktok": "https://www.tiktok.com/@aaron4ny23"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Pursue universal health care, tackle medical debt and oppose cuts to Medicare, Medicaid and VA benefits.", "source": "https://aaronforny23.com/"},
+   {"topic": "Workers", "point": "Raise wages and strengthen workers' bargaining power.", "source": "https://aaronforny23.com/"},
+   {"topic": "Education", "point": "Increase funding and resources for public schools.", "source": "https://aaronforny23.com/"},
+   {"topic": "Reproductive rights", "point": "Write the protections of Roe v. Wade into federal law.", "source": "https://aaronforny23.com/"},
+   {"topic": "Gun safety", "point": "Enact universal background checks and red flag laws.", "source": "https://aaronforny23.com/"},
+   {"topic": "Environment", "point": "Support renewable energy and oppose fracking, alongside backing family farms.", "source": "https://aaronforny23.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Campaign calls for higher wages and stronger collective bargaining for workers.", "source": "https://aaronforny23.com/"},
+   "welfare": {"score": 90, "evidence": "Campaign backs universal health care and opposes cuts to Medicare, Medicaid and VA benefits.", "source": "https://aaronforny23.com/"},
+   "liberty": {"score": 30, "evidence": "Abortion: supports codifying Roe; guns: supports universal background checks and red flag laws.", "source": "https://aaronforny23.com/"},
+   "security": {"score": 25, "evidence": "Wants privacy laws updated to protect against AI surveillance such as Ring or Flock cameras.", "source": "https://aaronforny23.com/"},
+   "immigration": {"score": 40, "evidence": "Backs secure borders and consistent enforcement alongside due process for undocumented people and a guest worker program.", "source": "https://aaronforny23.com/"},
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Campaign supports renewable energy and opposes fracking.", "source": "https://aaronforny23.com/"},
+   "tech": {"score": 70, "evidence": "Supports privacy protections against AI surveillance and regulating AI to serve the common good.", "source": "https://aaronforny23.com/"},
+   "education": {"score": 85, "evidence": "Campaign calls for more funding and resources for public schools.", "source": "https://aaronforny23.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Energy score added from the campaign's renewable energy and anti-fracking stance; immigration, security and tech evidence was re-checked on the campaign homepage."
+ },
+ {
+  "id": "NY-24/claudia-tenney",
+  "name": "Claudia Tenney",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NY-24",
+  "bio": "Claudia Tenney has represented New York's 24th District since 2023, after earlier House terms in the 22nd District (2017-2019 and 2021-2023). She served in the New York State Assembly from 2011 to 2016. A native of New Hartford, she is an attorney and a former co-owner of a printing business.",
+  "website": "https://claudiaforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/claudiatenney",
+   "instagram": "https://www.instagram.com/claudiatenney/",
+   "facebook": "https://www.facebook.com/ClaudiaForCongress/"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Make border security a priority and oppose illegal immigration as a national security threat.", "source": "https://claudiaforcongress.com/issues/"},
+   {"topic": "China", "point": "Confront Chinese intellectual property theft and reduce China's influence over U.S. financial systems.", "source": "https://claudiaforcongress.com/issues/"},
+   {"topic": "Economy", "point": "Protect and grow Upstate New York jobs and oppose legislation that would eliminate them.", "source": "https://claudiaforcongress.com/issues/"},
+   {"topic": "Second Amendment", "point": "Defend gun rights as a core part of Upstate New York culture.", "source": "https://claudiaforcongress.com/issues/"},
+   {"topic": "Seniors", "point": "Protect Social Security and Medicare.", "source": "https://claudiaforcongress.com/issues/"},
+   {"topic": "Veterans", "point": "Advocate for veterans and the benefits they have earned.", "source": "https://claudiaforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2017 Tax Cuts and Jobs Act and the 2025 reconciliation tax bill.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2017 American Health Care Act and the 2025 reconciliation bill that changed Medicaid.", "source": "https://en.wikipedia.org/wiki/Claudia_Tenney"},
+   "liberty": {"score": 70, "evidence": "Marriage: opposed the Respect for Marriage Act; LGBTQ: co-sponsored a bill criminalizing youth gender care; guns: backed loosening silencer rules.", "source": "https://en.wikipedia.org/wiki/Claudia_Tenney"},
+   "security": {"score": 75, "evidence": "Voted for the Laken Riley Act expanding detention after arrests and emphasizes border security.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "immigration": {"score": 70, "evidence": "Voted for the Laken Riley Act and SAVE Act and prioritizes border security, though she backed the 2021 Farm Workforce Modernization Act.", "source": "https://en.wikipedia.org/wiki/Claudia_Tenney"},
+   "foreign": {"score": 50, "evidence": "Opposed 2024 Ukraine aid while taking a hard line on China.", "source": "https://en.wikipedia.org/wiki/Claudia_Tenney"},
+   "energy": {"score": 20, "evidence": "Supported withdrawal from the Paris Agreement and has voiced doubts about climate science.", "source": "https://en.wikipedia.org/wiki/Claudia_Tenney"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NY-24/alissa-ellman",
+  "name": "Alissa Ellman",
+  "party": "Democratic",
+  "current_role": "Former U.S. Department of Veterans Affairs program support assistant",
+  "bio": "Alissa Ellman is the Democratic nominee for New York's 24th District. She previously worked as a program support assistant at the U.S. Department of Veterans Affairs before being laid off in 2025. She has not held elected office and has also been endorsed by the Forward Party.",
+  "website": "https://www.ellmanforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/alissaellman4congress/",
+   "facebook": "https://www.facebook.com/EllmanforCongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Protect and expand Medicaid to keep coverage affordable.", "source": "https://www.ellmanforcongress.com/issues"},
+   {"topic": "Cost of living", "point": "Expand child care, fund home repair programs and low-income housing tax credits, and support small businesses.", "source": "https://www.ellmanforcongress.com/issues"},
+   {"topic": "Infrastructure", "point": "Extend bus service to rural areas and secure federal funding for water systems and repairs.", "source": "https://www.ellmanforcongress.com/issues"},
+   {"topic": "Labor", "point": "Pass the PRO Act, end right-to-work laws and address misclassification of contractors.", "source": "https://www.ellmanforcongress.com/issues"},
+   {"topic": "Rights", "point": "Defend LGBTQ rights, marriage equality and reproductive choice.", "source": "https://www.ellmanforcongress.com/issues"},
+   {"topic": "Campaign finance", "point": "Reject corporate donations and run a grassroots-funded campaign.", "source": "https://www.ellmanforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports the PRO Act and ending right-to-work laws.", "source": "https://www.ellmanforcongress.com/issues"},
+   "welfare": {"score": 75, "evidence": "Wants to protect and expand Medicaid and expand child care access.", "source": "https://www.ellmanforcongress.com/issues"},
+   "liberty": {"score": 15, "evidence": "LGBTQ: supports LGBTQ rights and marriage equality; abortion: defends reproductive choice.", "source": "https://www.ellmanforcongress.com/issues"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "An immigration score was removed because her issues page states no immigration position."
+ },
+ {
+  "id": "NY-25/joseph-morelle",
+  "name": "Joseph Morelle",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-25",
+  "bio": "Joseph Morelle has represented New York's 25th District, centered on Rochester, since 2018. He served in the New York State Assembly from 1991 to 2018, including as Majority Leader from 2013, and earlier sat in the Monroe County Legislature. He was born in Utica, New York.",
+  "website": "https://votemorelle.com/",
+  "social": {
+   "x": "https://twitter.com/votemorelle",
+   "instagram": "https://www.instagram.com/josephmorelle/",
+   "facebook": "https://www.facebook.com/votemorelle/"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Expand access to health care and bring down costs.", "source": "https://votemorelle.com/"},
+   {"topic": "Democracy", "point": "Pursue anti-corruption and democracy reforms.", "source": "https://votemorelle.com/"},
+   {"topic": "Guns", "point": "Pass gun safety reforms.", "source": "https://votemorelle.com/"},
+   {"topic": "Climate", "point": "Act to reduce the effects of climate change.", "source": "https://votemorelle.com/"},
+   {"topic": "Rights", "point": "Protect women's rights and LGBTQ+ rights.", "source": "https://votemorelle.com/"},
+   {"topic": "Seniors and families", "point": "Support aging Americans, veterans and family support programs, and tackle opioid addiction.", "source": "https://votemorelle.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Voted against the 2025 reconciliation tax bill.", "source": "https://morelle.house.gov/issues"},
+   "welfare": {"score": 70, "evidence": "Campaign prioritizes expanding health care access and family support programs.", "source": "https://votemorelle.com/"},
+   "liberty": {"score": 30, "evidence": "Abortion and LGBTQ: backs women's and LGBTQ+ rights; guns: supports gun safety reform.", "source": "https://votemorelle.com/"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Voted for the 2025 Laken Riley Act.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "foreign": {"score": 75, "evidence": "Voted for the April 2024 Ukraine aid package.", "source": "https://clerk.house.gov/evs/2024/roll151.xml"},
+   "energy": {"score": 75, "evidence": "Campaign lists combating climate change as a priority.", "source": "https://votemorelle.com/"},
+   "tech": null,
+   "education": {"score": 75, "evidence": "Lists K-12 education and access to higher education among his priorities.", "source": "https://votemorelle.com/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://static.wixstatic.com/media/b1dff8_3715b17880714bb39fc649d706e0e177~mv2.jpg",
+  "notes": ""
+ },
+ {
+  "id": "NY-25/virginia-mcintyre",
+  "name": "Virginia McIntyre",
+  "party": "Republican",
+  "current_role": "Monroe County Legislator",
+  "bio": "Virginia McIntyre has served in the Monroe County Legislature since 2024 and is the Republican nominee for New York's 25th District. Born and raised in Gates, she has worked as an entrepreneur, language professor and interpreter, including in Italy. She is a graduate of SUNY Purchase College.",
+  "website": "https://virginiamcintyreforcongress.com/",
+  "social": {
+   "x": "https://x.com/VirginiaforNY25",
+   "instagram": "https://www.instagram.com/virginiamcintyreforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61588353574507"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "End taxes on Social Security, tips and overtime, simplify filing and expand child tax credits.", "source": "https://virginiamcintyreforcongress.com/"},
+   {"topic": "Public safety", "point": "Back community policing and prevention programs and target trafficking and fentanyl.", "source": "https://virginiamcintyreforcongress.com/"},
+   {"topic": "Education", "point": "Expand vocational and technical education and hold schools accountable.", "source": "https://virginiamcintyreforcongress.com/"},
+   {"topic": "Health care", "point": "Require price transparency and protect families from unfair medical billing.", "source": "https://virginiamcintyreforcongress.com/"},
+   {"topic": "Government reform", "point": "Support congressional term limits, a No Budget, No Pay rule and cutting wasteful spending.", "source": "https://virginiamcintyreforcongress.com/"},
+   {"topic": "Infrastructure", "point": "Repair roads and bridges and expand broadband with oversight.", "source": "https://virginiamcintyreforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Backs the 2025 tax law's cuts for seniors and working families, no tax on tips or overtime, and small-business relief.", "source": "https://virginiamcintyreforcongress.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://media.virginiamcintyreforcongress.com/BioPHOTO-2026-06-18-22-17-26.png",
+  "notes": "Economy score is new, based on her campaign site's tax positions; most other issue positions are too general to score."
+ },
+ {
+  "id": "NY-26/tim-kennedy",
+  "name": "Tim Kennedy",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-26",
+  "bio": "Tim Kennedy has represented New York's 26th District, based in Buffalo, since winning a 2024 special election. He served in the New York State Senate from 2011 to 2024, where he chaired the Transportation Committee, and earlier in the Erie County Legislature. A Buffalo native, he previously worked as a licensed occupational therapist.",
+  "website": "https://kennedyforuscongress.com/",
+  "social": {
+   "x": "https://twitter.com/kennedyforny26",
+   "instagram": "https://www.instagram.com/kennedyforny26/",
+   "facebook": "https://www.facebook.com/KennedyforCongress"
+  },
+  "platform": [
+   {"topic": "Workers", "point": "Protect union rights, oppose tariffs he calls harmful and resist politicizing the civil service.", "source": "https://kennedyforuscongress.com/issues/"},
+   {"topic": "Health care and Social Security", "point": "Oppose cuts to Medicare, Medicaid and Social Security and strengthen those programs.", "source": "https://kennedyforuscongress.com/issues/"},
+   {"topic": "Gun violence", "point": "Sponsor an assault weapons ban and restrict civilian access to military-grade body armor.", "source": "https://kennedyforuscongress.com/issues/"},
+   {"topic": "Rights", "point": "Support reproductive freedom and oppose discrimination.", "source": "https://kennedyforuscongress.com/issues/"},
+   {"topic": "Democracy", "point": "Defend constitutional checks and balances.", "source": "https://kennedyforuscongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Voted against the 2025 reconciliation tax bill, supports union protections and opposes tariffs.", "source": "https://kennedyforuscongress.com/issues/"},
+   "welfare": {"score": 70, "evidence": "Opposes cuts to Medicare, Medicaid and Social Security and wants to strengthen them.", "source": "https://kennedyforuscongress.com/issues/"},
+   "liberty": {"score": 30, "evidence": "Abortion: supports reproductive autonomy; guns: sponsors an assault weapons ban; LGBTQ: backed same-sex marriage.", "source": "https://kennedyforuscongress.com/issues/"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Voted against the 2025 Laken Riley Act.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "foreign": {"score": 70, "evidence": "Member of the Congressional Ukraine Caucus.", "source": "https://en.wikipedia.org/wiki/Tim_Kennedy_(politician)"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://kennedyforuscongress.com/wp-content/uploads/2024/02/GH23_87933_crop_tall-1024x835.jpg",
+  "notes": ""
+ },
+ {
+  "id": "NY-26/dennis-hannon",
+  "name": "Dennis Hannon",
+  "party": "Republican",
+  "current_role": "Former construction worker",
+  "bio": "Dennis Hannon is the Republican nominee for New York's 26th District. He grew up working in his father's construction business and has described himself as a blue-collar worker and parent. He has not previously held elected office.",
+  "website": "https://www.hannonforcongress.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=61588297151214"
+  },
+  "platform": [
+   {"topic": "Public safety", "point": "Fund cooperation between local and federal agencies and disrupt fentanyl trafficking.", "source": "https://www.hannonforcongress.com/"},
+   {"topic": "Immigration", "point": "Enforce immigration law with priority on people who threaten public safety.", "source": "https://www.hannonforcongress.com/"},
+   {"topic": "Cost of living", "point": "Give tax rebates to working families and lower prescription drug prices, especially for seniors.", "source": "https://www.hannonforcongress.com/"},
+   {"topic": "Energy", "point": "Reduce federal regulation of energy extraction and land leases.", "source": "https://www.hannonforcongress.com/"},
+   {"topic": "Children", "point": "Strengthen children's online privacy, bar gender-affirming care for minors and favor abstinence-focused sex education.", "source": "https://www.hannonforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 35, "evidence": "Proposes tax rebates and less federal regulation, alongside lower prescription drug costs.", "source": "https://www.hannonforcongress.com/"},
+   "welfare": null,
+   "liberty": {"score": 80, "evidence": "LGBTQ: opposes gender-affirming care for minors; also backs abstinence-focused sex education and the death penalty for child rape.", "source": "https://www.hannonforcongress.com/"},
+   "security": {"score": 70, "evidence": "Supports federal grants for local-federal law enforcement cooperation and a fentanyl crackdown.", "source": "https://www.hannonforcongress.com/"},
+   "immigration": {"score": 65, "evidence": "Calls for immigration enforcement prioritizing public safety threats.", "source": "https://www.hannonforcongress.com/"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Wants fewer federal rules on energy extraction and land leases.", "source": "https://www.hannonforcongress.com/"},
+   "tech": {"score": 75, "evidence": "Supports stronger online privacy protections for children.", "source": "https://www.hannonforcongress.com/"},
+   "education": {"score": 35, "evidence": "Emphasizes parental rights and abstinence-focused sex education.", "source": "https://www.hannonforcongress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.hannonforcongress.com/dennishannon.png",
+  "notes": "The campaign photo URL was built from a relative path on the homepage and loads directly."
+ },
+ {
+  "id": "NC-1/don-davis",
+  "name": "Don Davis",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NC-1",
+  "bio": "Don Davis has represented North Carolina's 1st District since 2023. He previously served in the North Carolina Senate (2009-2011 and 2013-2023) and as mayor of Snow Hill from 2001 to 2008. A Snow Hill native and U.S. Air Force Academy graduate, he served as an Air Force officer from 1994 to 2001.",
+  "website": "https://votedondavis.com/",
+  "social": {
+   "x": "https://x.com/DonDavisNC",
+   "facebook": "https://facebook.com/DonDavisNC",
+   "youtube": "https://www.youtube.com/@dondavisfornorthcarolina2443"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Bring down gas, grocery and health care costs for families.", "source": "https://votedondavis.com/"},
+   {"topic": "Opportunity", "point": "Expand economic opportunity across eastern North Carolina.", "source": "https://votedondavis.com/"},
+   {"topic": "Rural communities", "point": "Make sure coastal and rural eastern North Carolina gets attention and resources in Washington.", "source": "https://votedondavis.com/"},
+   {"topic": "Broadband", "point": "Expand rural broadband access.", "source": "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)"},
+   {"topic": "Military", "point": "Support military readiness, including at Seymour Johnson Air Force Base.", "source": "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Voted against the 2025 reconciliation tax bill but co-sponsored limits on Medicare drug-price negotiation.", "source": "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)"},
+   "welfare": {"score": 60, "evidence": "Voted against the 2025 reconciliation bill and campaigns on lowering health care costs.", "source": "https://votedondavis.com/"},
+   "liberty": {"score": 60, "evidence": "LGBTQ: voted with Republicans on restrictions on gender-affirming care and related transgender bills.", "source": "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)"},
+   "security": null,
+   "immigration": {"score": 60, "evidence": "Voted for the 2025 Laken Riley Act.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "foreign": {"score": 80, "evidence": "Supported aid to Israel after October 7 and voted for the 2024 Ukraine aid package.", "source": "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)"},
+   "energy": {"score": 35, "evidence": "Voted to revoke California's vehicle-emissions waiver in 2025.", "source": "https://clerk.house.gov/evs/2025/roll114.xml"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://run.imgix.net/a1faa67a-9019-43f7-98f6-9971acc63198/94c16327-9af7-459a-98f7-340d3a247361/94c16327-9af7-459a-98f7-340d3a247361.jpg",
+  "notes": "Roll-call sources were checked against House Clerk records; an education score without specific evidence was removed."
+ },
+ {
+  "id": "NC-1/laurie-buckhout",
+  "name": "Laurie Buckhout",
+  "party": "Republican",
+  "current_role": "Former acting Assistant Secretary of Defense for Cyber Policy",
+  "bio": "Laurie Buckhout is a retired U.S. Army colonel who served 26 years, including command in Iraq, and later founded an electronic warfare and cyber consulting firm. She was acting Assistant Secretary of Defense for Cyber Policy from March to September 2025. She lives in Edenton, North Carolina, and was the Republican nominee for this seat in 2024.",
+  "website": "https://www.lauriebuckhoutforcongress.com/",
+  "social": {
+   "x": "https://x.com/lauriebuckhout",
+   "instagram": "https://www.instagram.com/lauriebuckhout",
+   "facebook": "https://www.facebook.com/lauriebuckhout"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Cut taxes and lower the cost of living for eastern North Carolina families.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   {"topic": "Border security", "point": "Give Border Patrol the resources to stop drug trafficking.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   {"topic": "Agriculture", "point": "Reduce regulations on farmers and fishermen and provide needed resources.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   {"topic": "Military", "point": "Invest in military strength to counter China, Iran and Russia and stand with Israel.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   {"topic": "Technology", "point": "Reduce regulation on AI innovation to keep the U.S. ahead of China and set pro-growth digital asset rules.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   {"topic": "Second Amendment", "point": "Oppose new gun restrictions on law-abiding owners and hunters.", "source": "https://www.lauriebuckhoutforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Supports tax cuts and fewer regulations on farmers and fishermen.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   "welfare": null,
+   "liberty": {"score": 20, "evidence": "Guns: opposes additional gun restrictions.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Calls for more resources for Border Patrol agents.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   "foreign": {"score": 80, "evidence": "Wants to invest in military strength against China, Iran and Russia and supports Israel.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   "energy": {"score": 25, "evidence": "Calls for cutting regulations and unleashing American energy to power the tech sector.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   "tech": {"score": 15, "evidence": "Seeks to reduce regulation on AI innovation and supports pro-growth digital asset rules.", "source": "https://www.lauriebuckhoutforcongress.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Laurie Buckhout.jpg", "license": "Public domain", "author": "U.S. Department of Defense"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-1/tom-bailey",
+  "name": "Tom Bailey",
+  "party": "Libertarian",
+  "current_role": "Contractor",
+  "bio": "Tom Bailey is the Libertarian nominee for North Carolina's 1st District. He works as a contractor and formerly chaired the Guilford County Libertarian Party. He has run for office several times before.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or published issue positions were found; biographical details come from the Wikipedia page on the 2026 North Carolina House elections."
+ },
+ {
+  "id": "NC-2/deborah-ross",
+  "name": "Deborah Ross",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NC-2",
+  "bio": "Deborah Ross has represented North Carolina's 2nd District, centered on Wake County, since 2021. She served in the North Carolina House from 2003 to 2013 and was the Democratic nominee for U.S. Senate in 2016. Born in Philadelphia and raised in Connecticut, she is a lawyer who led the ACLU of North Carolina.",
+  "website": "https://deborahross.com/",
+  "social": {
+   "x": "https://twitter.com/DeborahRossNC",
+   "instagram": "https://www.instagram.com/deborahrossnc/",
+   "facebook": "https://www.facebook.com/RossForNorthCarolina/"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Make affordable health care more accessible to North Carolinians.", "source": "https://deborahross.com/priorities/"},
+   {"topic": "Education", "point": "Support public schools, smaller classes, higher teacher pay, early childhood programs and student debt relief.", "source": "https://deborahross.com/priorities/"},
+   {"topic": "Housing", "point": "Pursue policies that make housing affordable for working people.", "source": "https://deborahross.com/priorities/"},
+   {"topic": "Climate", "point": "Back clean energy and oppose fracking.", "source": "https://deborahross.com/priorities/"},
+   {"topic": "Immigration", "point": "Pass comprehensive reform with family reunification, border security and a path to citizenship.", "source": "https://deborahross.com/priorities/"},
+   {"topic": "Women and families", "point": "Protect reproductive autonomy and equal pay.", "source": "https://deborahross.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Voted against the 2025 reconciliation tax bill and runs with union backing on an economy for everyone.", "source": "https://deborahross.com/priorities/"},
+   "welfare": {"score": 75, "evidence": "Supports expanded Medicaid and ACA premium subsidies and backed the expanded child tax credit.", "source": "https://en.wikipedia.org/wiki/Deborah_Ross_(politician)"},
+   "liberty": {"score": 15, "evidence": "Abortion: protects reproductive autonomy; LGBTQ: champions equality as Judiciary vice ranking member.", "source": "https://deborahross.com/priorities/"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Backs a path to citizenship and voted against the 2025 Laken Riley Act.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "foreign": {"score": 75, "evidence": "Voted for the April 2024 Ukraine aid package.", "source": "https://clerk.house.gov/evs/2024/roll151.xml"},
+   "energy": {"score": 90, "evidence": "Supports clean energy and opposes fracking.", "source": "https://deborahross.com/priorities/"},
+   "tech": null,
+   "education": {"score": 90, "evidence": "Supports public education, smaller class sizes and higher teacher pay.", "source": "https://deborahross.com/priorities/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-2/gene-douglass",
+  "name": "Gene Douglass",
+  "party": "Republican",
+  "current_role": "Professor",
+  "bio": "Gene Douglass is the Republican nominee for North Carolina's 2nd District. He is described as a professor and retired teacher, and he ran unsuccessfully in the 2024 Republican primary for this seat. He has not held elected office.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Election results tables list him as Eugene Douglass, so the ballot may use that form of his name. No campaign website or published issue positions were found."
+ }
+]

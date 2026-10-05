@@ -1,0 +1,616 @@
+[
+ {
+  "id": "NV-4/cody-whipple",
+  "name": "Cody Whipple",
+  "party": "Republican",
+  "race": "NV-4",
+  "race_label": "Nevada · US House NV-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NV-4/cody-whipple",
+   "name": "Cody Whipple",
+   "party": "Republican",
+   "current_role": "Rancher and small-business owner",
+   "bio": "Cody Whipple is a fourth-generation Nevadan from Hiko who runs his family's cattle operation. He built a digital two-way communications network business serving first responders over about 25 years, and played football at Virginia Tech, where he studied animal science. He has not previously held elected office.",
+   "website": "https://codyk4congress.com/",
+   "social": {
+    "x": "https://x.com/codyk4congress",
+    "instagram": "https://www.instagram.com/codykforcongress/",
+    "facebook": "https://www.facebook.com/profile.php?id=61575943587060"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Lower everyday costs for housing, healthcare, groceries and energy.",
+     "source": "https://codyk4congress.com/issues/"
+    },
+    {
+     "topic": "Taxes",
+     "point": "End federal taxes on tips and defend overtime pay for working families.",
+     "source": "https://codyk4congress.com/issues/"
+    },
+    {
+     "topic": "Safety net",
+     "point": "Protect Medicaid and Social Security by rooting out waste and fraud.",
+     "source": "https://codyk4congress.com/issues/"
+    },
+    {
+     "topic": "Education",
+     "point": "Expand quality education and career pathways for every Nevada student.",
+     "source": "https://codyk4congress.com/issues/"
+    },
+    {
+     "topic": "Independence",
+     "point": "Vote on Nevadans' needs rather than party leadership instructions.",
+     "source": "https://codyk4congress.com/issues/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Proposes eliminating taxes on tips as his main tax measure.",
+     "source": "https://codyk4congress.com/issues/"
+    },
+    "welfare": {
+     "score": 45,
+     "evidence": "Pledges to protect Medicaid and Social Security while cutting waste and fraud.",
+     "source": "https://codyk4congress.com/issues/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://codyk4congress.com/wp-content/uploads/2025/11/cody-k-whipple-republican-for-congress.webp",
+   "notes": "Ballot name may appear as Cody K. Whipple; biography comes from his campaign site only. His issues page does not address guns, abortion or school choice, so those domains were left unscored."
+  }
+ },
+ {
+  "id": "NY-1/nick-lalota",
+  "name": "Nick LaLota",
+  "party": "Republican",
+  "race": "NY-1",
+  "race_label": "New York · US House NY-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000598",
+   "official_name": "Nick LaLota",
+   "chamber": "House",
+   "official_site": "https://lalota.house.gov",
+   "official_social": {
+    "twitter": "RepLaLota",
+    "facebook": "replalota",
+    "instagram": "replalota"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "welfare",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-1/nick-lalota",
+   "name": "Nick LaLota",
+   "party": "Republican",
+   "current_role": "U.S. Representative for NY-1",
+   "bio": "Nick LaLota has represented New York's 1st district in the U.S. House since 2023 and sits on the Appropriations and Small Business committees. A Long Island native and Naval Academy graduate, he served as a Navy officer with three overseas deployments. He later earned an MBA and law degree from Hofstra, served as an Amityville village trustee and worked in Suffolk County government.",
+   "website": "https://nicklalota.com",
+   "social": {
+    "x": "https://x.com/nicklalota/",
+    "facebook": "https://www.facebook.com/LaLotaForCongress",
+    "instagram": "https://www.instagram.com/lalotaforcongress/",
+    "youtube": "https://www.youtube.com/@teamlalota"
+   },
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "Cut taxes and restore state and local tax (SALT) deduction relief.",
+     "source": "https://nicklalota.com"
+    },
+    {
+     "topic": "Border",
+     "point": "Strengthen border and immigration enforcement.",
+     "source": "https://nicklalota.com"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Support law enforcement.",
+     "source": "https://nicklalota.com"
+    },
+    {
+     "topic": "Defense",
+     "point": "Pursue peace through strength.",
+     "source": "https://nicklalota.com"
+    },
+    {
+     "topic": "Environment",
+     "point": "Protect Long Island water quality and secure federal funds for local projects.",
+     "source": "https://nicklalota.com"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 35,
+     "evidence": "Campaign prioritizes tax cuts and SALT relief and contrasts freedom with socialism.",
+     "source": "https://nicklalota.com"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 40,
+     "evidence": "LGBTQ: opposes bans on same-sex marriage.",
+     "source": "https://en.wikipedia.org/wiki/Nick_LaLota"
+    },
+    "security": null,
+    "immigration": {
+     "score": 55,
+     "evidence": "Cosponsored the DIGNIDAD Act pairing legal status with tighter border enforcement.",
+     "source": "https://en.wikipedia.org/wiki/Nick_LaLota"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5e121febf3ccf3541b416f02/9b3150d5-1d46-487b-b749-e4bbc944675b/nick+lalota+port+jeff2.jpg",
+   "notes": "Campaign issues page could not be opened; platform items reflect issue headings on the homepage."
+  }
+ },
+ {
+  "id": "NY-1/chris-gallant",
+  "name": "Chris Gallant",
+  "party": "Democratic",
+  "race": "NY-1",
+  "race_label": "New York · US House NY-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-1/chris-gallant",
+   "name": "Chris Gallant",
+   "party": "Democratic",
+   "current_role": "FAA air traffic controller",
+   "bio": "Chris Gallant is a Long Island native who joined the New York Army National Guard at 17 and deployed to Kuwait several times. He has worked as a Federal Aviation Administration air traffic controller, served as a union leader and volunteers as a firefighter. He won the 2026 Democratic primary for New York's 1st District.",
+   "website": "https://gallantny.com/",
+   "social": {
+    "x": "https://x.com/_gallantny",
+    "instagram": "https://www.instagram.com/_gallantny",
+    "facebook": "https://www.facebook.com/gallantny",
+    "youtube": "https://www.youtube.com/@GallantNY"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Use federal investment to bring down Long Island costs for housing, energy and everyday goods.",
+     "source": "https://gallantny.com/"
+    },
+    {
+     "topic": "Healthcare",
+     "point": "Protect and expand Medicare, Medicaid and Social Security and cut out-of-pocket costs for seniors.",
+     "source": "https://gallantny.com/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Invest in aging local infrastructure and protect shoreline communities from rising seas.",
+     "source": "https://gallantny.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Give first responders the tools they need to protect neighborhoods.",
+     "source": "https://gallantny.com/"
+    },
+    {
+     "topic": "Accountability",
+     "point": "Run congressional work around clear goals and measurable results.",
+     "source": "https://gallantny.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 70,
+     "evidence": "Campaign pledges to protect and expand Medicare, Medicaid and Social Security.",
+     "source": "https://gallantny.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://gallantny.com/wp-content/uploads/2025/07/gallant-iso-1-819x1024.png",
+   "notes": "His campaign site describes military aviation service while Newsweek describes Army National Guard service; the bio uses the Guard description."
+  }
+ },
+ {
+  "id": "NY-10/jennifer-moore",
+  "name": "Jennifer Moore",
+  "party": "Republican",
+  "race": "NY-10",
+  "race_label": "New York · US House NY-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-10/jennifer-moore",
+   "name": "Jennifer Moore",
+   "party": "Republican",
+   "current_role": "Activist",
+   "bio": "Jennifer Moore is the Republican nominee for New York's 10th congressional district and is described in press coverage as an activist.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or policy statements found."
+  }
+ },
+ {
+  "id": "NY-11/michael-decillis",
+  "name": "Michael DeCillis",
+  "party": "Democratic",
+  "race": "NY-11",
+  "race_label": "New York · US House NY-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-11/michael-decillis",
+   "name": "Michael DeCillis",
+   "party": "Democratic",
+   "current_role": "Retired police officer and former teacher",
+   "bio": "Mike DeCillis is the Democratic nominee for New York's 11th congressional district and a fourth-generation Staten Islander. He is a retired police officer and former teacher who cites 35 years of public service, and he ran for this seat in 2018 and 2022.",
+   "website": "https://www.decillisforcongress.com/",
+   "social": {
+    "x": "https://x.com/MikeDeCillis",
+    "instagram": "https://www.instagram.com/mike.decillis",
+    "facebook": "https://www.facebook.com/mikedecillisforcongress",
+    "tiktok": "https://www.tiktok.com/@mike.decillis"
+   },
+   "platform": [
+    {
+     "topic": "Democracy",
+     "point": "Restore Congress as a co-equal branch and limit governing by executive action.",
+     "source": "https://www.decillisforcongress.com/"
+    },
+    {
+     "topic": "Affordability",
+     "point": "Cut taxes for working families while making billionaires pay their fair share.",
+     "source": "https://www.decillisforcongress.com/"
+    },
+    {
+     "topic": "Education",
+     "point": "Prevent dismantling of the Education Department and increase public school funding.",
+     "source": "https://www.decillisforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 70,
+     "evidence": "Campaign calls for billionaires to pay a fair share and lower taxes on working families.",
+     "source": "https://www.decillisforcongress.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {
+     "score": 85,
+     "evidence": "Opposes dismantling the Education Department and wants more public school investment.",
+     "source": "https://www.decillisforcongress.com/"
+    },
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Ballot name is Michael DeCillis; he campaigns as Mike DeCillis."
+  }
+ },
+ {
+  "id": "NY-13/manual-jomo-williams",
+  "name": "Manual \"Jomo\" Williams",
+  "party": "Republican",
+  "race": "NY-13",
+  "race_label": "New York · US House NY-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-13/manual-jomo-williams",
+   "name": "Manual \"Jomo\" Williams",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Manual \"Jomo\" Williams is the Republican nominee in New York's 13th congressional district. He has previously run for New York City Council and filed with the FEC as a presidential candidate.",
+   "website": "https://jmw4congress.com",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Economy",
+     "point": "Promotes a 'Universal Capitalism' approach as an alternative to socialism.",
+     "source": "https://jmw4congress.com/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Opposes sanctuary city policies and calls for securing borders in a humane and fair way.",
+     "source": "https://jmw4congress.com/"
+    },
+    {
+     "topic": "Elections",
+     "point": "Supports the SAVE Act and election integrity litigation.",
+     "source": "https://jmw4congress.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Proposes contactless police traffic stops to reduce shootings of unarmed people.",
+     "source": "https://www.cityandstateny.com/prediction-markets/candidates/manual-jomo-williams"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Expand youth employment programs and community investment.",
+     "source": "https://www.cityandstateny.com/prediction-markets/candidates/manual-jomo-williams"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 60,
+     "evidence": "Opposes sanctuary city policies and backs border security while describing his approach as humane.",
+     "source": "https://jmw4congress.com/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Some listings show him as an independent and name manualwilliams.com as his site; the ballot name spelling 'Manual' is kept from the input."
+  }
+ },
+ {
+  "id": "NY-14/diamant-hysenaj",
+  "name": "Diamant Hysenaj",
+  "party": "Republican",
+  "race": "NY-14",
+  "race_label": "New York · US House NY-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-14/diamant-hysenaj",
+   "name": "Diamant Hysenaj",
+   "party": "Republican",
+   "current_role": "Construction company owner",
+   "bio": "Diamant Hysenaj is a construction entrepreneur who founded DCG New York Inc. in 2014 after an earlier firm closed in the 2008 financial crisis. Born in Kosovo, he immigrated to the Bronx at age nine in 1991. He is endorsed by the Republican and Conservative parties in the Bronx and Queens.",
+   "website": "https://votefordiamant.com",
+   "social": {
+    "x": "https://x.com/DiamantHysenaj",
+    "instagram": "https://www.instagram.com/diamanthysenaj_",
+    "facebook": "https://www.facebook.com/profile.php?id=61573642144007"
+   },
+   "platform": [
+    {
+     "topic": "Housing",
+     "point": "Draws on his construction background to build more quality housing and create local jobs.",
+     "source": "https://votefordiamant.com/diamants-plan-for-ny-14"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Pairs secure borders with faster citizenship for law-abiding immigrants.",
+     "source": "https://votefordiamant.com/diamants-plan-for-ny-14"
+    },
+    {
+     "topic": "Small business",
+     "point": "Support small businesses and create jobs in the district.",
+     "source": "https://votefordiamant.com/diamants-plan-for-ny-14"
+    },
+    {
+     "topic": "Health care",
+     "point": "Lower costs by cutting inefficiency and fraud in the health system.",
+     "source": "https://votefordiamant.com/diamants-plan-for-ny-14"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Make streets safe enough for children to play outside.",
+     "source": "https://votefordiamant.com/diamants-plan-for-ny-14"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Supports cutting taxes, shrinking government and reducing regulation for businesses.",
+     "source": "https://www.cityandstateny.com/prediction-markets/candidates/diamant-hysenaj"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 50,
+     "evidence": "Calls for secure borders combined with faster citizenship for law-abiding immigrants.",
+     "source": "https://votefordiamant.com/diamants-plan-for-ny-14"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://votefordiamant.com/storage/img/diamant.jpg",
+   "notes": ""
+  }
+ },
+ {
+  "id": "NY-15/stylo-sapaskis",
+  "name": "Stylo Sapaskis",
+  "party": "Republican",
+  "race": "NY-15",
+  "race_label": "New York · US House NY-15",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-15/stylo-sapaskis",
+   "name": "Stylo Sapaskis",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Stylo A. Sapaskis is a Bronx Republican who was his party's nominee in NY-15 in 2022. He has also run for the New York State Senate in 2010 and New York City Council District 11 in 2025.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Criticized inflation and high gas and food prices.",
+     "source": "https://www.cityandstateny.com/prediction-markets/candidates/stylo-sapaskis"
+    },
+    {
+     "topic": "Wages",
+     "point": "Has backed a $20 minimum wage and more aid for higher education.",
+     "source": "https://www.cityandstateny.com/prediction-markets/candidates/stylo-sapaskis"
+    },
+    {
+     "topic": "Abortion",
+     "point": "Supports ending government funding for abortion providers such as Planned Parenthood.",
+     "source": "https://www.cityandstateny.com/prediction-markets/candidates/stylo-sapaskis"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Supports a larger police presence.",
+     "source": "https://www.cityandstateny.com/prediction-markets/candidates/stylo-sapaskis"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Platform points come from voter-guide answers summarized by City & State and may date from his 2022 campaign; too thin to score."
+  }
+ }
+]

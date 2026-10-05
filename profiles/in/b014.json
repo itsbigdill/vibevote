@@ -1,0 +1,442 @@
+[
+ {
+  "id": "AL-1/jerry-carl",
+  "name": "Jerry Carl",
+  "party": "Republican",
+  "race": "AL-1",
+  "race_label": "Alabama · US House AL-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 85,
+    "security": null,
+    "immigration": 90,
+    "foreign": 70,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "As House member opposed American Rescue Plan, infrastructure and CHIPS bills; anti-abortion, NRA-backed; 'build the wall'; calls Israel key ally; opposed drilling moratorium.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jerry_Carl"
+   ],
+   "photo": {
+    "file": "File:Rep. Jerry Carl official photo.jpg",
+    "license": "Public domain",
+    "author": "Franmarie Metzler, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AL-1/clyde-jones",
+  "name": "Clyde Jones",
+  "party": "Democratic",
+  "race": "AL-1",
+  "race_label": "Alabama · US House AL-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs higher minimum wage and insurance regulation, restoring ACA subsidies and Medicaid expansion; opposes quota-driven family separation in immigration enforcement.",
+   "sources": [
+    "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AL-2/shomari-figures",
+  "name": "Shomari Figures",
+  "party": "Democratic",
+  "race": "AL-2",
+  "race_label": "Alabama · US House AL-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000481",
+   "official_name": "Shomari Figures",
+   "chamber": "House",
+   "official_site": "https://figures.house.gov",
+   "official_social": {
+    "twitter": "repscfigures",
+    "facebook": "congressman.shomari.figures",
+    "instagram": "repscfigures"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": 50,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports Medicaid expansion and co-sponsored Bridge to Medicaid Act and rural hospital grants; voted for the Laken Riley Act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Shomari_Figures",
+    "https://yellowhammernews.com/alabama-lawmakers-including-figures-and-sewell-vote-to-pass-britts-criminal-immigrant-crackdown-bill/"
+   ],
+   "photo": {
+    "file": "File:Figures Shomari 119th Congress 2 (4x5 cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AL-2/rhett-marques",
+  "name": "Rhett Marques",
+  "party": "Republican",
+  "race": "AL-2",
+  "race_label": "Alabama · US House AL-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 85,
+    "security": null,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": null,
+    "tech": 25,
+    "education": 30,
+    "faith": 85
+   },
+   "basis": "Campaigns on tax and regulation cuts, strict pro-life and Second Amendment stances, 'detain and deport', support for Israel, pro-crypto, anti-CRT/DEI, Christian values.",
+   "sources": [
+    "https://www.rhettforalabama.com/",
+    "https://www.alreporter.com/2026/08/10/alabama-agc-pac-endorses-rhett-marques-congressional-campaign/"
+   ],
+   "photo": {
+    "file": "File:Rhett Marques.png",
+    "license": "Public domain",
+    "author": "Alabama Legislature"
+   }
+  }
+ },
+ {
+  "id": "AL-3/mike-rogers",
+  "name": "Mike Rogers",
+  "party": "Republican",
+  "race": "AL-3",
+  "race_label": "Alabama · US House AL-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000575",
+   "official_name": "Mike Rogers",
+   "chamber": "House",
+   "official_site": "https://mikerogers.house.gov",
+   "official_social": {
+    "twitter": "RepMikeRogersAL",
+    "facebook": "CongressmanMikeDRogers",
+    "youtube": "MikeRogersAL03",
+    "instagram": "repmikerogersal"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 85,
+    "security": 75,
+    "immigration": null,
+    "foreign": 55,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 85
+   },
+   "basis": "Voted for 2017 tax cuts and Patriot Act; anti-abortion and opposed LGBTQ protections; backed Ukraine arms but sought UN withdrawal; supports public-property prayer amendment.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"
+   ],
+   "photo": {
+    "file": "File:Mike Rogers 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "AL-3/lee-mcinnis",
+  "name": "Lee McInnis",
+  "party": "Democratic",
+  "race": "AL-3",
+  "race_label": "Alabama · US House AL-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 85,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Says the ultra-rich must pay fair share of taxes, calls for healthcare for all, and criticizes SNAP and health cuts in the 2025 budget law.",
+   "sources": [
+    "https://leemcinnis4alabama.com/",
+    "https://www.alreporter.com/2025/12/01/democratic-congressional-aspirant-lee-mcinnis-explains-his-candidacy/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AL-4/robert-aderholt",
+  "name": "Robert Aderholt",
+  "party": "Republican",
+  "race": "AL-4",
+  "race_label": "Alabama · US House AL-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "A000055",
+   "official_name": "Robert B. Aderholt",
+   "chamber": "House",
+   "official_site": "https://aderholt.house.gov",
+   "official_social": {
+    "twitter": "Robert_Aderholt",
+    "facebook": "RobertAderholt",
+    "youtube": "RobertAderholt"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 85,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts, signed tax pledge; anti-abortion, opposes same-sex marriage, NRA-backed; opposed carbon taxes and greenhouse gas regulation.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Robert_Aderholt"
+   ],
+   "photo": {
+    "file": "File:Robert Aderholt official photo.jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "AL-4/amanda-pusczek",
+  "name": "Amanda Pusczek",
+  "party": "Democratic",
+  "race": "AL-4",
+  "race_label": "Alabama · US House AL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 90,
+    "liberty": 15,
+    "security": 15,
+    "immigration": null,
+    "foreign": 35,
+    "energy": null,
+    "tech": 70,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Platform: PRO Act, offshoring exit tax, universal child care, abortion rights, Equality Act, end qualified immunity, anti-voucher, repeal war authorizations, ban AI coverage denials.",
+   "sources": [
+    "https://www.amandaforalabama.com/policy"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AL-5/dale-strong",
+  "name": "Dale Strong",
+  "party": "Republican",
+  "race": "AL-5",
+  "race_label": "Alabama · US House AL-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001220",
+   "official_name": "Dale W. Strong",
+   "chamber": "House",
+   "official_site": "https://strong.house.gov",
+   "official_social": {
+    "twitter": "RepDaleStrong",
+    "facebook": "repdalestrong",
+    "instagram": "repdalestrong"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 80,
+    "security": null,
+    "immigration": 80,
+    "foreign": 35,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 75
+   },
+   "basis": "Cosponsored conception personhood bill; prioritizes border security and deporting noncitizen voters; voted against 2024 Ukraine aid; pledges to defend right to worship.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dale_Strong",
+    "https://strong.house.gov/issues/securing-our-homeland",
+    "https://strong.house.gov/issues/conservative-family-values"
+   ],
+   "photo": {
+    "file": "File:Dale Strong official House portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "AL-5/andrew-sneed",
+  "name": "Andrew Sneed",
+  "party": "Democratic",
+  "race": "AL-5",
+  "race_label": "Alabama · US House AL-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": null,
+    "security": 20,
+    "immigration": 15,
+    "foreign": null,
+    "energy": 70,
+    "tech": 85,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Backs Medicaid expansion, drug price negotiation, rental aid, path to citizenship, ICE accountability, clean-energy funding, data center moratorium, limits on Flock cameras; opposes vouchers.",
+   "sources": [
+    "https://www.sneedforcongress.com/immigration",
+    "https://www.sneedforcongress.com/data-centers",
+    "https://www.sneedforcongress.com/ed-op"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AL-6/gary-palmer",
+  "name": "Gary Palmer",
+  "party": "Republican",
+  "race": "AL-6",
+  "race_label": "Alabama · US House AL-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000609",
+   "official_name": "Gary J. Palmer",
+   "chamber": "House",
+   "official_site": "https://palmer.house.gov",
+   "official_social": {
+    "twitter": "USRepGaryPalmer",
+    "instagram": "repgarypalmer",
+    "facebook": "CongressmanGaryPalmer"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 15,
+    "liberty": 85,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts, against American Rescue Plan; seeks ACA repeal; opposes abortion, same-sex marriage, marijuana legalization; backs gun rights and deportation.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gary_Palmer"
+   ],
+   "photo": {
+    "file": "File:Gary Palmer - 2018.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AL-6/maurice-mercer",
+  "name": "Maurice Mercer",
+  "party": "Democratic",
+  "race": "AL-6",
+  "race_label": "Alabama · US House AL-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaigns on lowering family costs, healthcare affordability, and continued federal infrastructure investment including rail projects.",
+   "sources": [
+    "https://www.shelbycountyreporter.com/news/pelhams-maurice-mercer-enters-race-for-alabamas-6th-congressional-district-da3c6c14/",
+    "https://www.clantonadvertiser.com/news/mercer-palmer-win-6th-congressional-nominations-in-special-primary-election-eec73fdb"
+   ],
+   "photo": null
+  }
+ }
+]

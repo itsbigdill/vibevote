@@ -1,0 +1,448 @@
+[
+ {
+  "id": "CA-29/luz-rivas",
+  "name": "Luz Rivas",
+  "party": "Democratic",
+  "race": "CA-29",
+  "race_label": "California · US House CA-29",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000620",
+   "official_name": "Luz M. Rivas",
+   "chamber": "House",
+   "official_site": "https://rivas.house.gov",
+   "official_social": {
+    "twitter": "RepLuzRivas",
+    "facebook": "congresswomanluzrivas",
+    "instagram": "RepLuzRivas"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 40,
+    "security": 35,
+    "immigration": 15,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposed ICE raid tactics and megabill ICE funding, backed cutting criminal justice fees; abortion rights and gun regulation drove liberty.",
+   "sources": [
+    "https://www.ontheissues.org/CA/Luz_Rivas.htm",
+    "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-demands-meeting-ice-and-cbp-leadership-regarding-la"
+   ],
+   "photo": {
+    "file": "File:Rep. Luz Rivas (D-CA), Official Portrait, 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-29/angelica-maria-duenas",
+  "name": "Angélica María Dueñas",
+  "party": "Democratic",
+  "race": "CA-29",
+  "race_label": "California · US House CA-29",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 100,
+    "liberty": 10,
+    "security": 15,
+    "immigration": 5,
+    "foreign": 10,
+    "energy": 90,
+    "tech": null,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Supports Medicare for All, taxing billionaire loans, abolishing ICE, no military aid to Israel, clean energy, tuition-free college, abortion access.",
+   "sources": [
+    "https://angelica4congress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-30/laura-friedman",
+  "name": "Laura Friedman",
+  "party": "Democratic",
+  "race": "CA-30",
+  "race_label": "California · US House CA-30",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000483",
+   "official_name": "Laura Friedman",
+   "chamber": "House",
+   "official_site": "https://friedman.house.gov",
+   "official_social": {
+    "twitter": "RepFriedmanCA",
+    "facebook": "RepLauraFriedman",
+    "instagram": "RepLauraFriedman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 90,
+    "liberty": 40,
+    "security": 35,
+    "immigration": 15,
+    "foreign": 55,
+    "energy": 90,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Backs universal healthcare and childcare, No Masks for ICE Act, foreign aid, climate action, public schools; abortion rights and gun limits drove liberty.",
+   "sources": [
+    "https://www.lauraforcongress.org/",
+    "https://www.ontheissues.org/CA/Laura_Friedman.htm",
+    "https://www.govtrack.us/congress/members/laura_friedman/456979"
+   ],
+   "photo": {
+    "file": "File:Laura Friedman, House portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-30/scott-alan-meyers",
+  "name": "Scott Alan Meyers",
+  "party": "Republican",
+  "race": "CA-30",
+  "race_label": "California · US House CA-30",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": null,
+    "security": 75,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Campaign: lower taxes and spending, cut red tape, secure the border, restore law and order, schools without political indoctrination.",
+   "sources": [
+    "https://www.meyersforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-31/gil-cisneros",
+  "name": "Gil Cisneros",
+  "party": "Democratic",
+  "race": "CA-31",
+  "race_label": "California · US House CA-31",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001123",
+   "official_name": "Gilbert Ray Cisneros, Jr.",
+   "chamber": "House",
+   "official_site": "https://cisneros.house.gov",
+   "official_social": {
+    "facebook": "RepGilCisneros",
+    "instagram": "repgilcisneros"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 35,
+    "security": null,
+    "immigration": 15,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Opposed 2017 tax law and Medicaid cuts, backs ACA, DACA path, renewable energy, opposes border wall and vouchers; pro-choice and assault weapons ban.",
+   "sources": [
+    "https://www.ontheissues.org/CA/Gil_Cisneros.htm",
+    "https://cisneros.house.gov/issues/immigration"
+   ],
+   "photo": {
+    "file": "File:Gil Cisneros 119th Congress 2.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-31/eric-ching",
+  "name": "Eric Ching",
+  "party": "Republican",
+  "race": "CA-31",
+  "race_label": "California · US House CA-31",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Former Walnut councilman; no verifiable detailed policy stances found in accessible sources.",
+   "sources": [
+    "https://www.ericchingforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-32/brad-sherman",
+  "name": "Brad Sherman",
+  "party": "Democratic",
+  "race": "CA-32",
+  "race_label": "California · US House CA-32",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S000344",
+   "official_name": "Brad Sherman",
+   "chamber": "House",
+   "official_site": "https://sherman.house.gov",
+   "official_social": {
+    "twitter": "BradSherman",
+    "facebook": "63158229861",
+    "youtube": "shermanca27",
+    "instagram": "congressmansherman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 30,
+    "security": 25,
+    "immigration": 15,
+    "foreign": 80,
+    "energy": 90,
+    "tech": 60,
+    "education": 85,
+    "faith": 15
+   },
+   "basis": "Proposed oil windfall profits tax, backs ACA, Israel aid and Iran sanctions, opposes warrantless surveillance, vouchers and school prayer; pro-choice, gun control.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brad_Sherman",
+    "https://www.ontheissues.org/CA/Brad_Sherman.htm"
+   ],
+   "photo": {
+    "file": "File:Brad Sherman portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-32/larry-thompson",
+  "name": "Larry Thompson",
+  "party": "Republican",
+  "race": "CA-32",
+  "race_label": "California · US House CA-32",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 35,
+    "security": 50,
+    "immigration": 90,
+    "foreign": 65,
+    "energy": 25,
+    "tech": 15,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Wants lower taxes, deport those here illegally, strong Israel support, oil competing freely, no crypto crackdown; gun rights, abortion left to states.",
+   "sources": [
+    "https://www.larrythompsonforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-33/pete-aguilar",
+  "name": "Pete Aguilar",
+  "party": "Democratic",
+  "race": "CA-33",
+  "race_label": "California · US House CA-33",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "A000371",
+   "official_name": "Pete Aguilar",
+   "chamber": "House",
+   "official_site": "https://aguilar.house.gov",
+   "official_social": {
+    "twitter": "RepPeteAguilar",
+    "facebook": "reppeteaguilar"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 70,
+    "energy": 75,
+    "tech": 40,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for Inflation Reduction Act and Israel aid; opposed Dobbs and trans sports ban; voted against 2022 antitrust merger-fee package. Liberty driven by abortion, LGBTQ.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pete_Aguilar",
+    "https://aguilar.house.gov"
+   ],
+   "photo": {
+    "file": "File:Pete Aguilar 117th congress.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services, Franmarie Metzler"
+   }
+  }
+ },
+ {
+  "id": "CA-33/stephanie-vargas",
+  "name": "Stephanie Vargas",
+  "party": "Republican",
+  "race": "CA-33",
+  "race_label": "California · US House CA-33",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": null,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Campaign backs lower taxes, fighting energy costs, support for law enforcement, parental rights and school choice.",
+   "sources": [
+    "https://www.stephanievargas4congress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-34/jimmy-gomez",
+  "name": "Jimmy Gomez",
+  "party": "Democratic",
+  "race": "CA-34",
+  "race_label": "California · US House CA-34",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000585",
+   "official_name": "Jimmy Gomez",
+   "chamber": "House",
+   "official_site": "https://gomez.house.gov",
+   "official_social": {
+    "twitter": "RepJimmyGomez",
+    "facebook": "RepJimmyGomez",
+    "instagram": "repjimmygomez",
+    "youtube": "UCOmm091WM6D01xTdzsWNvbQ"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 75,
+    "energy": 80,
+    "tech": 35,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Perfect NARAL and HRC ratings, LCV 97% lifetime, voted for IRA, backs Israel military aid, AI-industry PAC support. Liberty: abortion, LGBTQ.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jimmy_Gomez",
+    "https://gomez.house.gov"
+   ],
+   "photo": {
+    "file": "File:Jimmy Gomez official portrait (light crop).jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "CA-34/angela-gonzales-torres",
+  "name": "Angela Gonzales-Torres",
+  "party": "Democratic",
+  "race": "CA-34",
+  "race_label": "California · US House CA-34",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 95,
+    "liberty": null,
+    "security": null,
+    "immigration": 5,
+    "foreign": 20,
+    "energy": 95,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Democratic socialist backing Medicare for All, Green New Deal, basic-income pilot, citizenship path for all undocumented; opposes military aid to Israel.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Angela_Gonzales-Torres",
+    "https://angela4congress.com"
+   ],
+   "photo": null
+  }
+ }
+]

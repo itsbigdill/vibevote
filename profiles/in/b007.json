@@ -1,0 +1,445 @@
+[
+ {
+  "id": "MI-SEN/mike-rogers",
+  "name": "Mike Rogers",
+  "party": "Republican",
+  "race": "MI-SEN",
+  "race_label": "Michigan · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": 30,
+    "liberty": 70,
+    "security": 80,
+    "immigration": 85,
+    "foreign": 80,
+    "energy": 20,
+    "tech": null,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Backs tariffs, border wall, more oil production; opposed extending ACA subsidies; anti-abortion but won't overturn Michigan amendment; authored CISPA; strongly pro-Israel.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)",
+    "https://rogersforsenate.com/healthplan",
+    "https://rogersforsenate.com/"
+   ],
+   "photo": {
+    "file": "File:Mike-Rogers-Head-Shot-2 (3x4 cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "MI-GOV/jocelyn-benson",
+  "name": "Jocelyn Benson",
+  "party": "Democratic",
+  "race": "MI-GOV",
+  "race_label": "Michigan · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 75,
+    "tech": 65,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Proposes data center moratorium, prescription drug affordability board, Medicaid protection, clean energy investment, top-10 public schools; opposes tariffs; defends reproductive health care.",
+   "sources": [
+    "https://www.jocelynbenson.com/",
+    "https://www.jocelynbenson.com/issues/Healthcare",
+    "https://www.jocelynbenson.com/issues/Environment"
+   ],
+   "photo": {
+    "file": "File:SOS Jocelyn Benson web.jpg",
+    "license": "CC BY 4.0",
+    "author": "JFM Photo 73"
+   }
+  }
+ },
+ {
+  "id": "MI-GOV/john-james",
+  "name": "John James",
+  "party": "Republican",
+  "race": "MI-GOV",
+  "race_label": "Michigan · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "J000307",
+   "official_name": "John James",
+   "chamber": "House",
+   "official_site": "https://james.house.gov",
+   "official_social": {
+    "twitter": "RepJames",
+    "facebook": "RepJohnJames",
+    "instagram": "RepJohnJames",
+    "youtube": "@RepJohnJames"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 20,
+    "liberty": 55,
+    "security": 70,
+    "immigration": 70,
+    "foreign": null,
+    "energy": null,
+    "tech": 70,
+    "education": 10,
+    "faith": 70
+   },
+   "basis": "Plans to phase out income tax, expand school choice tax credits, parents' bill of rights, App Store parental approval; anti-abortion; pledged CAIR terrorist designation.",
+   "sources": [
+    "https://johnjamesmi.com/freedom-agenda/",
+    "https://en.wikipedia.org/wiki/John_James_(Michigan_politician)",
+    "https://arabamericannews.com/2026/07/10/john-james-doubles-down-on-ashura-remarks-vows-to-label-cair-a-terrorist-organization-if-elected-governor/"
+   ],
+   "photo": {
+    "file": "File:Rep. John James official photo, 118th Congress.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "MN-SEN/peggy-flanagan",
+  "name": "Peggy Flanagan",
+  "party": "Democratic",
+  "race": "MN-SEN",
+  "race_label": "Minnesota · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 30,
+    "security": 30,
+    "immigration": 10,
+    "foreign": 55,
+    "energy": 85,
+    "tech": 70,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Medicare for All, universal childcare, $17 wage, dismantle ICE, 2040 carbon-free power, no vouchers; liberty driven by abortion and LGBTQ rights, offset by assault-weapons ban.",
+   "sources": [
+    "https://peggyflanagan.com/priorities/",
+    "https://www.fox9.com/news/lt-gov-peggy-flanagan-talks-fraud-ice-immigration-reform-ahead-primary",
+    "https://en.wikipedia.org/wiki/Peggy_Flanagan"
+   ],
+   "photo": {
+    "file": "File:2026PeggyFlanagan (newcropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Travellers & Tinkers"
+   }
+  }
+ },
+ {
+  "id": "MN-SEN/michele-tafoya",
+  "name": "Michele Tafoya",
+  "party": "Republican",
+  "race": "MN-SEN",
+  "race_label": "Minnesota · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 50,
+    "security": 70,
+    "immigration": 70,
+    "foreign": 65,
+    "energy": 35,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Cut taxes and spending, all-of-the-above energy, deport criminal immigrants, oppose abolishing ICE, parental say in schools; liberty mixes pro-choice abortion stance with barring trans athletes.",
+   "sources": [
+    "https://www.ontheissues.org/Senate/Michele_Tafoya.htm",
+    "https://www.mprnews.org/story/2026/08/12/gop-senate-nominee-michele-tafoya-claims-she-wont-fall-in-line-with-national-party-leadership",
+    "https://washingtonsun.com/2026-election/republican-top-senate-recruit-minnesota-michele-tafoya-interview?redirected=notus_org"
+   ],
+   "photo": {
+    "file": "File:MicheleTafoya2023.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "MN-GOV/amy-klobuchar",
+  "name": "Amy Klobuchar",
+  "party": "Democratic",
+  "race": "MN-GOV",
+  "race_label": "Minnesota · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "K000367",
+   "official_name": "Amy Klobuchar",
+   "chamber": "Senate",
+   "official_site": "https://www.klobuchar.senate.gov",
+   "official_social": {
+    "youtube": "senatorklobuchar",
+    "twitter": "SenAmyKlobuchar"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 30,
+    "security": 40,
+    "immigration": 30,
+    "foreign": 75,
+    "energy": 75,
+    "tech": 90,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Big Tech antitrust, public option, Medicare drug negotiation, carbon pricing, citizenship path, strong alliances; liberty: abortion and LGBT rights offset by gun control.",
+   "sources": [
+    "https://amyklobuchar.com/priorities/healthcare",
+    "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm",
+    "https://en.wikipedia.org/wiki/Political_positions_of_Amy_Klobuchar"
+   ],
+   "photo": {
+    "file": "File:Amy Klobuchar, official portrait, 113th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Senate"
+   }
+  }
+ },
+ {
+  "id": "MN-GOV/lisa-demuth",
+  "name": "Lisa Demuth",
+  "party": "Republican",
+  "race": "MN-GOV",
+  "race_label": "Minnesota · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 80,
+    "security": 70,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 40,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Cut income and corporate taxes, oppose paid-leave tax, cooperate with ICE, ESAs and scholarship tax credits, end nuclear ban; liberty driven by abortion opposition.",
+   "sources": [
+    "https://kstp.com/kstp-news/top-news/5-questions-on-5-issues-lisa-demuth-republican-candidate-for-governor/",
+    "https://www.kaaltv.com/news/top-news/gubernatorial-candidate-lisa-demuth-lays-out-policy-ideas-in-one-on-one/",
+    "https://en.wikipedia.org/wiki/Lisa_Demuth"
+   ],
+   "photo": {
+    "file": "File:Bipartisan Bars 1 - Lisa Demuth (cropped).jpg",
+    "license": "Public domain",
+    "author": "Office of Governor Tim Walz & Lt. Governor Peggy Flanagan"
+   }
+  }
+ },
+ {
+  "id": "MS-SEN/cindy-hyde-smith",
+  "name": "Cindy Hyde-Smith",
+  "party": "Republican",
+  "race": "MS-SEN",
+  "race_label": "Mississippi · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001079",
+   "official_name": "Cindy Hyde-Smith",
+   "chamber": "Senate",
+   "official_site": "https://www.hydesmith.senate.gov",
+   "official_social": {
+    "twitter": "SenHydeSmith",
+    "instagram": "sencindyhydesmith",
+    "facebook": "SenatorCindyHydeSmith"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 70,
+    "security": 60,
+    "immigration": 90,
+    "foreign": 75,
+    "energy": 15,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Extend Trump tax cuts, repeal ACA, no DACA, pro-Israel, repeal Clean Power Plan; liberty: anti-abortion, traditional marriage, anti-marijuana, offset by gun rights.",
+   "sources": [
+    "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm",
+    "https://en.wikipedia.org/wiki/Cindy_Hyde-Smith"
+   ],
+   "photo": {
+    "file": "File:Official headshot of US Senator Cindy Hyde-Smith.jpg",
+    "license": "Public domain",
+    "author": "United States Senate"
+   }
+  }
+ },
+ {
+  "id": "MS-SEN/scott-colom",
+  "name": "Scott Colom",
+  "party": "Democratic",
+  "race": "MS-SEN",
+  "race_label": "Mississippi · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 40,
+    "security": 55,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Raise minimum wage, no tax breaks for wealthy, protect Medicaid, public schools over vouchers, violent-crime prosecution; liberty: transgender protections, drug treatment, gun concerns.",
+   "sources": [
+    "https://www.wlox.com/2026/02/08/democrat-scott-colom-lays-out-senate-primary-platform-targeting-rising-costs-healthcare-access/",
+    "https://www.ontheissues.org/Senate/Scott_Colom.htm",
+    "https://scottcolom.com/scott-colom-promises-mississippi-first-approach-in-u-s-senate-campaign-calling-to-save-hospitals-cut-taxes-raise-wages/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MS-SEN/ty-pinkins",
+  "name": "Ty Pinkins",
+  "party": "Independent",
+  "race": "MS-SEN",
+  "race_label": "Mississippi · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 90,
+    "liberty": 35,
+    "security": 30,
+    "immigration": 30,
+    "foreign": 70,
+    "energy": 65,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Universal health care and child care, citizenship path, Ukraine support, public schools, prison rehabilitation; liberty driven by abortion and LGBTQ rights, offset by assault-rifle ban.",
+   "sources": [
+    "https://www.ontheissues.org/Senate/Ty_Pinkins.htm",
+    "https://ivn.us/ty-pinkins-makes-the-case-for-sending-an-independent-caucus-to-the-senate/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MT-SEN/kurt-alme",
+  "name": "Kurt Alme",
+  "party": "Republican",
+  "race": "MT-SEN",
+  "race_label": "Montana · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 40,
+    "liberty": 75,
+    "security": 80,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax cuts, balanced budgets, rural telehealth, tough-on-crime prosecutions, secure border without citizenship pathways, backed Iran war; liberty driven by anti-abortion stance and marijuana concerns.",
+   "sources": [
+    "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/",
+    "https://montanafreepress.org/2026/08/24/republican-montana-senate-kurt-alme-low-profile/",
+    "https://www.ontheissues.org/Senate/Kurt_Alme.htm"
+   ],
+   "photo": {
+    "file": "File:Kurt G. Alme official photo.jpg",
+    "license": "Public domain",
+    "author": "United States Department of Justice"
+   }
+  }
+ },
+ {
+  "id": "MT-SEN/seth-bodnar",
+  "name": "Seth Bodnar",
+  "party": "Independent",
+  "race": "MT-SEN",
+  "race_label": "Montana · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 60,
+    "liberty": 20,
+    "security": 50,
+    "immigration": 45,
+    "foreign": 40,
+    "energy": null,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Defend Medicaid expansion, criticize tariffs, strong borders with faster legal pathways, Congress must authorize war, public education; liberty: government out of abortion and guns.",
+   "sources": [
+    "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/",
+    "https://www.newsweek.com/montana-senate-seth-bodnar-democrat-republican-independent-12185515",
+    "https://www.mtpr.org/montana-news/2026-05-01/seth-bodnar-interview"
+   ],
+   "photo": {
+    "file": "File:Seth Bodnar - President at University of Montana (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Todd Goodrich (University of Montana)"
+   }
+  }
+ }
+]

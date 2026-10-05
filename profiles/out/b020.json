@@ -1,0 +1,420 @@
+[
+ {
+  "id": "CA-11/scott-wiener",
+  "name": "Scott Wiener",
+  "party": "Democratic",
+  "current_role": "California State Senator for District 11",
+  "bio": "Scott Wiener has served in the California State Senate since 2016 and previously sat on the San Francisco Board of Supervisors from 2011 to 2016. Born in Philadelphia, he holds degrees from Duke University and Harvard Law School and worked as a litigation attorney and San Francisco deputy city attorney. He is running to succeed Nancy Pelosi in CA-11.",
+  "website": "https://www.scottwiener.com",
+  "social": {
+   "x": "https://twitter.com/Scott_Wiener",
+   "instagram": "https://www.instagram.com/scott_wiener/",
+   "facebook": "https://www.facebook.com/ScottWiener2",
+   "tiktok": "https://www.tiktok.com/@scott_wiener"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Abolish ICE, require agents to be unmasked and accountable, and create a pathway to citizenship.", "source": "https://www.scottwiener.com/platform"},
+   {"topic": "Housing", "point": "Build 8 million homes over a decade through regulatory reform and major investment in affordable housing.", "source": "https://www.scottwiener.com/platform"},
+   {"topic": "LGBTQ rights", "point": "Protect LGBTQ people's healthcare access and civil rights against federal rollbacks.", "source": "https://www.scottwiener.com/platform"},
+   {"topic": "Healthcare", "point": "Expand healthcare access, strengthen Medicaid and the ACA, and protect federal science research funding.", "source": "https://www.scottwiener.com/platform"},
+   {"topic": "Transportation", "point": "Stabilize and expand public transit while cutting project costs and delays.", "source": "https://www.scottwiener.com/platform"},
+   {"topic": "Israel and Palestine", "point": "Pursue a two-state solution, oppose the Netanyahu government, combat antisemitism and reject offensive military aid.", "source": "https://www.scottwiener.com/platform"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Backs large public investment in affordable housing alongside zoning reform to build more homes.", "source": "https://www.scottwiener.com/platform"},
+   "welfare": {"score": 80, "evidence": "Platform calls for expanding healthcare access and strengthening Medicaid and the ACA.", "source": "https://www.scottwiener.com/platform"},
+   "liberty": {"score": 10, "evidence": "LGBTQ rights protections and authored bills to decriminalize psychedelics (SB 519, SB 58).", "source": "https://en.wikipedia.org/wiki/Scott_Wiener"},
+   "security": {"score": 15, "evidence": "Calls to unmask immigration agents and hold them accountable.", "source": "https://www.scottwiener.com/platform"},
+   "immigration": {"score": 5, "evidence": "Platform calls to abolish ICE and create a pathway to citizenship.", "source": "https://www.scottwiener.com/platform"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Authored a state solar mandate bill (SB 71) and backs public transit expansion.", "source": "https://en.wikipedia.org/wiki/Scott_Wiener"},
+   "tech": {"score": 80, "evidence": "Authored SB 1047 on frontier AI safety and California's net neutrality law (SB 822).", "source": "https://en.wikipedia.org/wiki/Scott_Wiener"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Scott Wiener Official Biography Portrait.jpg", "license": "Public domain (PD-California, California Public Records Act)", "author": "California State Senate"},
+  "campaign_photo": "",
+  "notes": "Photo relies on the PD-California template citing the California Public Records Act rather than a Creative Commons licence."
+ },
+ {
+  "id": "CA-11/connie-chan",
+  "name": "Connie Chan",
+  "party": "Democratic",
+  "current_role": "San Francisco Supervisor, District 1",
+  "bio": "Connie Chan has represented District 1 on the San Francisco Board of Supervisors since 2021 and chairs its Budget Committee. Born in Hong Kong, she moved to San Francisco's Chinatown at 13, studied at UC Davis, and worked as a public-agency spokesperson and aide to Kamala Harris and several supervisors. She is running for CA-11 with Nancy Pelosi's endorsement.",
+  "website": "https://www.conniechansf.com",
+  "social": {
+   "instagram": "https://www.instagram.com/connie_chan_sf",
+   "facebook": "https://www.facebook.com/conniechansanfrancisco",
+   "tiktok": "https://www.tiktok.com/@connie_chan",
+   "youtube": "https://www.youtube.com/@ConnieChanSF"
+  },
+  "platform": [
+   {"topic": "Workers", "point": "Advance a working people's agenda focused on economic justice and labor rights.", "source": "https://www.conniechansf.com/"},
+   {"topic": "Taxes", "point": "Reform the tax and budget system and fight corporate monopolies and billionaire influence.", "source": "https://www.conniechansf.com/"},
+   {"topic": "Foreign policy", "point": "Rebuild alliances, restore life-saving foreign aid and favour peaceful solutions over military force.", "source": "https://www.conniechansf.com/foreign-policy"},
+   {"topic": "Trade", "point": "Oppose trade wars that strain relationships and raise consumer prices.", "source": "https://www.conniechansf.com/foreign-policy"},
+   {"topic": "Small business", "point": "Support local San Francisco small businesses.", "source": "https://www.conniechansf.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Campaigns on tax reform aimed at billionaires and on worker power, and supported a city-run public bank as supervisor.", "source": "https://www.conniechansf.com/"},
+   "welfare": {"score": 75, "evidence": "Supported extending pandemic-era CalFresh emergency benefits and free summer programs for elementary students.", "source": "https://en.wikipedia.org/wiki/Connie_Chan_(politician)"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 55, "evidence": "Wants to restore alliances and foreign aid while de-emphasizing military intervention.", "source": "https://www.conniechansf.com/foreign-policy"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Connie Chan, 2025.jpg", "license": "Public domain (PD-California, California Public Records Act)", "author": "San Francisco Board of Supervisors"},
+  "campaign_photo": "",
+  "notes": "Photo relies on the PD-California template citing the California Public Records Act. Liberty and immigration scores were removed because her campaign pages give no specific positions on those issues."
+ },
+ {
+  "id": "CA-12/lateefah-simon",
+  "name": "Lateefah Simon",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-12",
+  "bio": "Lateefah Simon has represented CA-12 in the U.S. House since January 2025 and serves on the Oversight and Small Business committees. A San Francisco native, she led the Lawyers' Committee for Civil Rights of the SF Bay Area and the Akonadi Foundation and served on the BART board from 2016 to 2022. She received a MacArthur Fellowship in 2003.",
+  "website": "https://www.lateefahsimon.com",
+  "social": {
+   "x": "https://x.com/RepLSimon",
+   "instagram": "https://www.instagram.com/RepLSimon",
+   "facebook": "https://www.facebook.com/RepLSimon"
+  },
+  "platform": [
+   {"topic": "Jobs", "point": "Supports a federal jobs guarantee and a higher minimum wage.", "source": "https://en.wikipedia.org/wiki/Lateefah_Simon"},
+   {"topic": "Healthcare", "point": "Supports universal healthcare and preserving federal health funding for Bay Area communities.", "source": "https://www.lateefahsimon.com/"},
+   {"topic": "Transit and safety", "point": "Expand the BART ambassador program to improve rider safety.", "source": "https://www.lateefahsimon.com/"},
+   {"topic": "Immigration", "point": "Expand legal immigration pathways and protect immigrant communities.", "source": "https://www.lateefahsimon.com/issues/immigration"},
+   {"topic": "Global security", "point": "Shift priorities away from defense spending and toward diplomacy.", "source": "https://www.lateefahsimon.com/issues/global-security"},
+   {"topic": "Disability rights", "point": "Improve federal disability education law.", "source": "https://www.lateefahsimon.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Supports a federal jobs guarantee and a higher minimum wage, and opposes tariffs on Chinese imports.", "source": "https://en.wikipedia.org/wiki/Lateefah_Simon"},
+   "welfare": {"score": 95, "evidence": "Supports universal healthcare.", "source": "https://en.wikipedia.org/wiki/Lateefah_Simon"},
+   "liberty": {"score": 15, "evidence": "Vice chair of the Congressional Equality Caucus (LGBTQ rights); other liberty issues are not documented in this source.", "source": "https://en.wikipedia.org/wiki/Lateefah_Simon"},
+   "security": null,
+   "immigration": {"score": 10, "evidence": "Campaign immigration page backs expanded legal pathways.", "source": "https://www.lateefahsimon.com/issues/immigration"},
+   "foreign": {"score": 20, "evidence": "Opposes prioritizing defense spending and criticizes U.S. support for Israeli operations in Gaza.", "source": "https://www.lateefahsimon.com/issues/global-security"},
+   "energy": {"score": 85, "evidence": "Opposes fossil fuels and oil industry lobbying and backs a clean-energy transition.", "source": "https://en.wikipedia.org/wiki/Lateefah_Simon"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://run.imgix.net/ec75aa9f-a339-4fe2-814b-294e71ce3ccc/e1cb9aff-f59d-40ea-9b39-bb4f1624796a/e1cb9aff-f59d-40ea-9b39-bb4f1624796a.jpeg",
+  "notes": "Tech score was removed because no source for her crypto stance could be confirmed."
+ },
+ {
+  "id": "CA-12/jamie-joyce",
+  "name": "Jamie Joyce",
+  "party": "Democratic",
+  "current_role": "Democracy-technology nonprofit founder and researcher",
+  "bio": "Jamie Joyce is a Berkeley-based researcher and activist who founded a nonprofit focused on democracy technology and co-launched Democracy's Library at the Internet Archive. She was previously chief operating officer of an international environmental and humanitarian organization and served on the board of Wikitongues. She is challenging Rep. Lateefah Simon in CA-12.",
+  "website": "https://www.jamiejoyce.com",
+  "social": {"x": "https://twitter.com/justjamiejoyce", "instagram": "https://instagram.com/jamiejoyce4congress", "tiktok": "https://www.tiktok.com/@repjamiejoyce"},
+  "platform": [
+   {"topic": "AI", "point": "Adopt an AI governance plan with immediate red-line rules and interim safeguards to keep benefits and stop harms.", "source": "https://www.jamiejoyce.com/"},
+   {"topic": "Surveillance", "point": "Dismantle the federal surveillance state.", "source": "https://www.jamiejoyce.com/"},
+   {"topic": "Accountability", "point": "Obtain more Epstein-related files and expose dark money in politics.", "source": "https://www.jamiejoyce.com/"},
+   {"topic": "Immigration", "point": "Get ICE agents off local streets.", "source": "https://www.jamiejoyce.com/"},
+   {"topic": "Democracy", "point": "Pursue structural election reform and rebalance power between government and citizens.", "source": "https://www.jamiejoyce.com/"},
+   {"topic": "Gaza", "point": "Calls for an end to the war in Gaza and refuses AIPAC money.", "source": "https://www.jamiejoyce.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 10, "evidence": "Campaign pledges to delete the surveillance state.", "source": "https://www.jamiejoyce.com/"},
+   "immigration": {"score": 15, "evidence": "Campaign calls to get ICE off the streets.", "source": "https://www.jamiejoyce.com/"},
+   "foreign": {"score": 30, "evidence": "Calls for ending the war in Gaza and refuses AIPAC contributions.", "source": "https://www.jamiejoyce.com/"},
+   "energy": null,
+   "tech": {"score": 90, "evidence": "Authored a policy act whose AI title sets red-line regulations, interim safeguards and enforcement provisions.", "source": "https://www.jamiejoyce.com/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/59d4572d6f4ca3f65e534ee5/6fb14005-458b-4a7b-b17f-245a5d368849/Jamie+Joyce.jpg",
+  "notes": "Security and immigration scores rest on brief campaign-site slogans."
+ },
+ {
+  "id": "CA-13/adam-gray",
+  "name": "Adam Gray",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-13",
+  "bio": "Adam Gray has represented CA-13 in the San Joaquin Valley since 2025 and serves as whip of the Blue Dog Coalition, sitting on the Agriculture and Natural Resources committees. A Merced native and UC Santa Barbara graduate, he served in the California State Assembly from 2012 to 2022.",
+  "website": "https://www.adamgrayforcongress.com",
+  "social": {
+   "x": "https://x.com/RepAdamGrayCA",
+   "instagram": "https://www.instagram.com/repadamgrayca",
+   "facebook": "https://www.facebook.com/repadamgrayca"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Lower costs of food, housing, healthcare and utilities through bipartisan solutions.", "source": "https://www.adamgrayforcongress.com/issues"},
+   {"topic": "Water", "point": "Secure reliable Central Valley water deliveries and expand storage infrastructure.", "source": "https://www.adamgrayforcongress.com/issues"},
+   {"topic": "Agriculture", "point": "Give farmers, ranchers and dairy producers resources and policy certainty.", "source": "https://www.adamgrayforcongress.com/issues"},
+   {"topic": "Public safety", "point": "Combat fentanyl and gang violence and support law enforcement.", "source": "https://www.adamgrayforcongress.com/issues"},
+   {"topic": "Healthcare", "point": "Reduce costs, expand coverage and address rural physician shortages.", "source": "https://www.adamgrayforcongress.com/issues"},
+   {"topic": "Immigration", "point": "Pair border enforcement with pathways for immigrant workers.", "source": "https://www.adamgrayforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "Warned against blanket tariffs on farm exports and co-launched a pro-capitalist 'Promise to America' initiative.", "source": "https://en.wikipedia.org/wiki/Adam_Gray"},
+   "welfare": {"score": 55, "evidence": "Introduced legislation to reverse Medicaid cuts and extend ACA tax credits.", "source": "https://www.adamgrayforcongress.com/issues"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Supports law enforcement and introduced the Combatting Fentanyl Poisonings Act.", "source": "https://www.adamgrayforcongress.com/issues"},
+   "immigration": {"score": 45, "evidence": "Voted for the Laken Riley Act while backing workforce pathways.", "source": "https://en.wikipedia.org/wiki/Adam_Gray"},
+   "foreign": {"score": 40, "evidence": "Voted for a June 2026 war powers resolution to limit the Iran war.", "source": "https://en.wikipedia.org/wiki/Adam_Gray"},
+   "energy": {"score": 40, "evidence": "Backs easing permits for water storage and Endangered Species Act changes that weigh regional economic impacts.", "source": "https://www.adamgrayforcongress.com/issues"},
+   "tech": null,
+   "education": {"score": 70, "evidence": "Cosponsored the IDEA Full Funding Act and backs access to K-12, higher education and job training.", "source": "https://www.adamgrayforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-13/kevin-lincoln",
+  "name": "Kevin Lincoln",
+  "party": "Republican",
+  "current_role": "Former Mayor of Stockton",
+  "bio": "Kevin Lincoln was mayor of Stockton from 2021 to 2025 and was the Republican nominee for CA-9 in 2024. Raised in Stockton, he served in the U.S. Marine Corps, including on Marine One, then worked for security firms in Silicon Valley and as executive pastor of LifeSong Church.",
+  "website": "https://www.kevinlincolnforcongress.com",
+  "social": {
+   "x": "https://twitter.com/KevinLincolnCA",
+   "instagram": "https://www.instagram.com/KevinLincolnCA",
+   "facebook": "https://www.facebook.com/KevinLincolnCA"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Secure the border and enforce immigration laws as a national security priority.", "source": "https://www.kevinlincolnforcongress.com/issues"},
+   {"topic": "Economy", "point": "Cut wasteful spending and lower taxes to relieve struggling families.", "source": "https://www.kevinlincolnforcongress.com/issues"},
+   {"topic": "Public safety", "point": "Fund police and oppose lenient criminal justice policies.", "source": "https://www.kevinlincolnforcongress.com/issues"},
+   {"topic": "AI", "point": "Keep America ahead of China in AI innovation.", "source": "https://www.kevinlincolnforcongress.com/issues"},
+   {"topic": "Crypto", "point": "Give the digital asset industry clear regulatory pathways to grow.", "source": "https://www.kevinlincolnforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaign calls for lower taxes and spending cuts.", "source": "https://www.kevinlincolnforcongress.com/issues"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 75, "evidence": "Campaign backs police funding and opposes lenient criminal justice policies.", "source": "https://www.kevinlincolnforcongress.com/issues"},
+   "immigration": {"score": 80, "evidence": "Campaign treats border security and immigration enforcement as a national security priority.", "source": "https://www.kevinlincolnforcongress.com/issues"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 15, "evidence": "Campaign stresses AI leadership against China and growth for the crypto industry.", "source": "https://www.kevinlincolnforcongress.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons photo is a City of Stockton image credited to an outside photographer (ULMERPHOTO), so its public-domain status is doubtful and it was not used."
+ },
+ {
+  "id": "CA-14/aisha-wahab",
+  "name": "Aisha Wahab",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-14",
+  "bio": "Aisha Wahab took office in the U.S. House on September 2, 2026, after winning the August special runoff to succeed Eric Swalwell in CA-14. She previously served in the California State Senate from 2022 to 2026 and on the Hayward City Council from 2018 to 2022.",
+  "website": "https://www.aishawahab.com",
+  "social": {
+   "x": "https://x.com/aishabbwahab",
+   "instagram": "https://www.instagram.com/aishabbwahab/",
+   "facebook": "https://www.facebook.com/AVoiceForOurFuture"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Lower costs of housing, healthcare, childcare, utilities, groceries, gas and prescription drugs.", "source": "https://www.aishawahab.com/simple"},
+   {"topic": "Healthcare", "point": "Pursue Medicare for All and lower prescription drug prices.", "source": "https://www.aishawahab.com/simple"},
+   {"topic": "Housing", "point": "Increase affordable housing and protect renters from displacement.", "source": "https://www.aishawahab.com/simple"},
+   {"topic": "Education", "point": "Fund public schools, cancel student debt and make community college and trade training free.", "source": "https://www.aishawahab.com/simple"},
+   {"topic": "Anti-corruption", "point": "Ban congressional stock trading and reduce special-interest influence.", "source": "https://www.aishawahab.com/simple"},
+   {"topic": "Foreign policy", "point": "End endless wars and redirect spending to domestic needs.", "source": "https://www.aishawahab.com/simple"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Backs breaking up monopolies, cracking down on price gouging and protecting renters from corporate landlords.", "source": "https://www.aishawahab.com/simple"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and protecting Social Security and SNAP from privatization.", "source": "https://www.aishawahab.com/simple"},
+   "liberty": {"score": 15, "evidence": "Platform pledges to protect reproductive freedom and civil liberties.", "source": "https://www.aishawahab.com/simple"},
+   "security": {"score": 35, "evidence": "Calls for due process and for holding immigration enforcement agents accountable.", "source": "https://www.aishawahab.com/simple"},
+   "immigration": {"score": 25, "evidence": "Supports due process and faster legal immigration pathways.", "source": "https://www.aishawahab.com/simple"},
+   "foreign": {"score": 25, "evidence": "Platform calls to end endless wars and shift spending to domestic priorities.", "source": "https://www.aishawahab.com/simple"},
+   "energy": {"score": 80, "evidence": "Platform pairs infrastructure repair with clean energy investment.", "source": "https://www.aishawahab.com/simple"},
+   "tech": null,
+   "education": {"score": 90, "evidence": "Platform calls for funding public schools and free community college.", "source": "https://www.aishawahab.com/simple"},
+   "faith": null
+  },
+  "photo": {"file": "File:Aisha Wahab, official portrait - 2026 (cropped).jpg", "license": "Public domain", "author": "U.S. House of Representatives"},
+  "campaign_photo": "",
+  "notes": "Input lists no official portrait on file, so the Commons copy of her House portrait (PD-USGov-Congress) is used; official House social accounts were not found."
+ },
+ {
+  "id": "CA-14/melissa-hernandez",
+  "name": "Melissa Hernandez",
+  "party": "Democratic",
+  "current_role": "BART Board Director",
+  "bio": "Melissa Hernandez is a member of the BART Board of Directors and a former mayor of Dublin, California. She lost the August 2026 special runoff for CA-14 to Aisha Wahab and faces her again in November.",
+  "website": "https://melissahernandez2026.com",
+  "social": {
+   "instagram": "https://www.instagram.com/melissahernandezforcongress",
+   "facebook": "https://www.facebook.com/MelissaHernandezForCongress/",
+   "youtube": "https://www.youtube.com/@MelissaHernandez4Congress2026"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower housing, healthcare and childcare costs while protecting Social Security and Medicare.", "source": "https://melissahernandez2026.com/issues"},
+   {"topic": "Public safety", "point": "Resource law enforcement and invest in mental health crisis response and addiction treatment.", "source": "https://melissahernandez2026.com/issues"},
+   {"topic": "Housing", "point": "Expand housing at all income levels, reduce red tape and help first-time buyers.", "source": "https://melissahernandez2026.com/issues"},
+   {"topic": "Childcare", "point": "Expand tax credits, train childcare workers and support paid family leave.", "source": "https://melissahernandez2026.com/issues"},
+   {"topic": "Immigration", "point": "Create citizenship pathways for DREAMers and undocumented immigrants while keeping the border secure.", "source": "https://melissahernandez2026.com/issues"},
+   {"topic": "Technology", "point": "Keep tech jobs local and set commonsense AI and cryptocurrency standards.", "source": "https://melissahernandez2026.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Focuses on lowering costs and cutting housing red tape.", "source": "https://melissahernandez2026.com/issues"},
+   "welfare": {"score": 65, "evidence": "Backs expanded child tax credits, paid family leave and Medicare expansion.", "source": "https://melissahernandez2026.com/issues"},
+   "liberty": {"score": 20, "evidence": "Pledges to protect reproductive healthcare.", "source": "https://melissahernandez2026.com/issues"},
+   "security": {"score": 55, "evidence": "Supports resourcing police alongside mental health crisis response.", "source": "https://melissahernandez2026.com/issues"},
+   "immigration": {"score": 30, "evidence": "Supports citizenship pathways paired with border security.", "source": "https://melissahernandez2026.com/issues"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Supports a renewable energy transition and restoring cut climate programs.", "source": "https://melissahernandez2026.com/issues"},
+   "tech": {"score": 45, "evidence": "Calls for commonsense AI and crypto standards while protecting local tech jobs.", "source": "https://melissahernandez2026.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://melissahernandez2026.com/wp-content/uploads/2023/06/HER26_004_FINAL_WEB_Navy.jpg",
+  "notes": "The Commons photo was not used because it was sourced from a City of Dublin social media post."
+ },
+ {
+  "id": "CA-15/kevin-mullin",
+  "name": "Kevin Mullin",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-15",
+  "bio": "Kevin Mullin has represented CA-15 in the U.S. House since 2023. Born in Daly City, he served in the California State Assembly from 2012 to 2022, including as Speaker pro tempore, and earlier on the South San Francisco City Council. He founded a media production company and was a district director for Rep. Jackie Speier.",
+  "website": "https://www.kevinmullinforcongress.com",
+  "social": {
+   "x": "https://x.com/RepKevinMullin",
+   "instagram": "https://www.instagram.com/repkevinmullin",
+   "facebook": "https://www.facebook.com/CongressmanKevinMullin",
+   "youtube": "https://www.youtube.com/channel/UCAenuXjUZagZyD4HQL7_2ZA"
+  },
+  "platform": [
+   {"topic": "Democracy", "point": "Counter authoritarianism, safeguard elections and expand civic participation.", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   {"topic": "Healthcare", "point": "Make healthcare more affordable and protect medical research.", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   {"topic": "Housing", "point": "Lower housing costs through federal initiatives.", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   {"topic": "Climate", "point": "Advance clean energy and environmental protection.", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   {"topic": "Reproductive rights", "point": "Defend access to reproductive healthcare.", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   {"topic": "Taxes", "point": "Pursue fair taxation and deficit reduction.", "source": "https://www.kevinmullinforcongress.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Wants the tax code reformed so billionaires and large corporations pay more.", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   "welfare": {"score": 70, "evidence": "Opposes Medicaid cuts and has funded local childcare facilities.", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   "liberty": {"score": 15, "evidence": "Cosponsors the Women's Health Protection Act and backs contraception access (abortion).", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 90, "evidence": "Cosponsors the Green New Deal and backs clean energy jobs and rail electrification.", "source": "https://www.kevinmullinforcongress.com/priorities"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://static.wixstatic.com/media/2e229e_e5df1c93546746a3a8472e360fa49f93~mv2.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-15/charles-hoelter",
+  "name": "Charles Hoelter",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Charles Hoelter is the Republican nominee for CA-15, based in San Mateo County. His campaign site does not describe his professional background.",
+  "website": "https://www.hoelterforuscongress.com",
+  "social": {},
+  "platform": [
+   {"topic": "Immigration", "point": "Secure the borders and set fair immigration policies.", "source": "https://www.hoelterforuscongress.com/"},
+   {"topic": "Taxes", "point": "Lower taxes to strengthen the economy.", "source": "https://www.hoelterforuscongress.com/"},
+   {"topic": "Public safety", "point": "Support law enforcement for safer communities.", "source": "https://www.hoelterforuscongress.com/"},
+   {"topic": "Energy", "point": "Expand American energy production for energy independence.", "source": "https://www.hoelterforuscongress.com/"},
+   {"topic": "Veterans", "point": "Improve healthcare and services for veterans.", "source": "https://www.hoelterforuscongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaign calls for lower taxes and smaller government.", "source": "https://www.hoelterforuscongress.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 75, "evidence": "Campaign pledges support for law enforcement.", "source": "https://www.hoelterforuscongress.com/"},
+   "immigration": {"score": 80, "evidence": "Campaign prioritizes securing the borders.", "source": "https://www.hoelterforuscongress.com/"},
+   "foreign": null,
+   "energy": {"score": 30, "evidence": "Campaign backs domestic energy production for energy independence.", "source": "https://www.hoelterforuscongress.com/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Very little public biographical information was found."
+ },
+ {
+  "id": "CA-16/sam-liccardo",
+  "name": "Sam Liccardo",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-16",
+  "bio": "Sam Liccardo has represented CA-16 in the U.S. House since 2025. He was mayor of San Jose from 2015 to 2023 and a San Jose City Council member from 2007 to 2014, after working as a Santa Clara County criminal prosecutor. Born in Saratoga, he holds degrees from Georgetown and Harvard.",
+  "website": "https://samliccardo.com",
+  "social": {
+   "x": "https://x.com/repliccardo",
+   "instagram": "https://www.instagram.com/repliccardo"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Remove regulatory barriers to build more housing.", "source": "https://samliccardo.com/accomplishments"},
+   {"topic": "Innovation", "point": "Support technology growth with safeguards, including AI and digital asset rules.", "source": "https://liccardo.house.gov/issues/innovation"},
+   {"topic": "Gun safety", "point": "Champions requiring gun owners to carry liability insurance, as he did in San Jose.", "source": "https://en.wikipedia.org/wiki/Sam_Liccardo"},
+   {"topic": "Clean energy", "point": "Expand community choice clean energy, building on San Jose's program.", "source": "https://en.wikipedia.org/wiki/Sam_Liccardo"},
+   {"topic": "Transit", "point": "Expand BART and transit service in Silicon Valley.", "source": "https://en.wikipedia.org/wiki/Sam_Liccardo"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "Backs faster housing construction and ending cost-raising tariffs, and cosponsored a stablecoin framework.", "source": "https://samliccardo.com/accomplishments"},
+   "welfare": {"score": 50, "evidence": "Introduced the bipartisan Fix It Act to extend ACA premium tax credits.", "source": "https://samliccardo.com/accomplishments"},
+   "liberty": {"score": 65, "evidence": "Scored on guns: authored a first-in-the-nation gun liability insurance and fee mandate.", "source": "https://en.wikipedia.org/wiki/Sam_Liccardo"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Authored the Keep Innovators in America Act to retain highly skilled graduates.", "source": "https://samliccardo.com/accomplishments"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Led San Jose into community choice clean energy.", "source": "https://en.wikipedia.org/wiki/Sam_Liccardo"},
+   "tech": {"score": 55, "evidence": "Official innovation page pairs tech growth with AI safeguards.", "source": "https://liccardo.house.gov/issues/innovation"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Liberty score reflects only his gun policy; his positions on abortion, drugs and other liberty issues were not verified and could lower it."
+ },
+ {
+  "id": "CA-16/peter-sundin-soule",
+  "name": "Peter Sundin Soulé",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Peter Sundin Soulé is the Republican nominee for CA-16. His campaign site does not describe his professional background.",
+  "website": "https://souleforcongress.com",
+  "social": {
+   "facebook": "https://www.facebook.com/people/Peter-Soule-for-Congress/61588725792340/"
+  },
+  "platform": [
+   {"topic": "Public safety", "point": "Challenge sanctuary city policies that block deportation of people convicted of crimes.", "source": "https://souleforcongress.com/issues"},
+   {"topic": "Economy", "point": "Reduce regulation and wasteful spending to strengthen California's economy.", "source": "https://souleforcongress.com/issues"},
+   {"topic": "Drugs", "point": "Stop drug trafficking.", "source": "https://souleforcongress.com/issues"},
+   {"topic": "Education", "point": "Support school choice, vocational training and a basic-skills curriculum.", "source": "https://souleforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaign calls for cutting regulation and wasteful spending.", "source": "https://souleforcongress.com/issues"},
+   "welfare": null,
+   "liberty": {"score": 30, "evidence": "Opposes local policies that limit Second Amendment rights (guns).", "source": "https://souleforcongress.com/issues"},
+   "security": {"score": 70, "evidence": "Campaign emphasizes public safety and stopping drug trafficking.", "source": "https://souleforcongress.com/issues"},
+   "immigration": {"score": 85, "evidence": "Campaign opposes sanctuary city policies that prevent deportations.", "source": "https://souleforcongress.com/issues"},
+   "foreign": null,
+   "energy": {"score": 10, "evidence": "Wants to remove restrictions on oil drilling and refinery construction in California.", "source": "https://souleforcongress.com/issues"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supports school choice for parents and a basic-skills curriculum.", "source": "https://souleforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/697a6eb3fa28ba2c9c897a49/520340df-0712-4c1f-b3a3-2ee63a938457/Peter+Soule+Headshot.png",
+  "notes": "Very little public biographical information was found; the liberty score reflects guns only."
+ }
+]

@@ -1,0 +1,387 @@
+[
+ {
+  "id": "AR-3/robb-ryerse",
+  "name": "Robb Ryerse",
+  "party": "Democratic",
+  "current_role": "Pastor and nonprofit leader",
+  "bio": "Robb Ryerse is a pastor and nonprofit leader who has lived in Springdale, Arkansas, for about 20 years and started a faith community there. He ran for Congress previously in 2018 and has worked on national efforts to bridge political divides. He is the Democratic nominee for Arkansas's 3rd District in 2026.",
+  "website": "https://www.robbforcongress.com",
+  "social": {
+   "x": "https://x.com/RobbRyerse",
+   "instagram": "https://www.instagram.com/robbryerse",
+   "facebook": "https://www.facebook.com/robbforarkansas",
+   "youtube": "https://www.youtube.com/@RobbforCongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All so that cost does not keep anyone from receiving care.", "source": "https://www.robbforcongress.com/our-values"},
+   {"topic": "Economy", "point": "Wants higher wages and a tax system that puts working families ahead of the wealthy.", "source": "https://www.robbforcongress.com/our-values"},
+   {"topic": "Immigration", "point": "Backs amnesty, keeping families together and abolishing ICE.", "source": "https://www.robbforcongress.com/our-values"},
+   {"topic": "Democracy", "point": "Opposes gerrymandering, supports voting rights and wants to reduce corporate money in politics; refuses corporate PAC donations.", "source": "https://www.robbforcongress.com/our-values"},
+   {"topic": "Accountability", "point": "Pledges to hold regular town halls and community forums across the district.", "source": "https://www.robbforcongress.com/"},
+   {"topic": "Education", "point": "Wants to strengthen public schools and support teachers.", "source": "https://www.robbforcongress.com/our-values"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Calls for higher wages and a tax system favouring working families over the wealthy.", "source": "https://www.robbforcongress.com/our-values"},
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All.", "source": "https://www.robbforcongress.com/our-values"},
+   "liberty": {"score": 25, "evidence": "Supports abortion rights, LGBTQ+ equal protection and gun laws aimed at reducing violence.", "source": "https://www.robbforcongress.com/our-values"},
+   "security": null,
+   "immigration": {"score": 5, "evidence": "Supports amnesty and abolishing ICE.", "source": "https://www.robbforcongress.com/our-values"},
+   "foreign": {"score": 30, "evidence": "Wants Congress to reclaim its role in decisions on war and peace and supports self-determination abroad.", "source": "https://www.robbforcongress.com/our-values"},
+   "energy": {"score": 80, "evidence": "Supports a transition to clean energy.", "source": "https://www.robbforcongress.com/our-values"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Prioritises strengthening public schools and supporting teachers.", "source": "https://www.robbforcongress.com/our-values"},
+   "faith": {"score": 30, "evidence": "Supports religious freedom while opposing government pressure to follow particular beliefs.", "source": "https://www.robbforcongress.com/our-values"}
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/782cb5_aa640488fd23471bb02696d160b0dc0b~mv2.jpg",
+  "notes": "Earlier security score of 25 was cleared because the campaign site has no statement on surveillance or police powers."
+ },
+ {
+  "id": "AR-3/bobby-wilson",
+  "name": "Bobby Wilson",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Bobby Wilson is the Libertarian Party nominee for Arkansas's 3rd Congressional District in 2026. Little public biographical information is available.",
+  "website": "https://bobbyforcongress.mydurable.com",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null,
+   "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Only contact details were found on the Libertarian Party of Arkansas candidate list (https://lpar.org/2026-libertarian-candidates/); the campaign site was not reviewed."
+ },
+ {
+  "id": "AR-4/bruce-westerman",
+  "name": "Bruce Westerman",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AR-4",
+  "bio": "Bruce Westerman has represented Arkansas's 4th District in the U.S. House since 2015 and has chaired the House Natural Resources Committee since 2023. An engineer and forester from Hot Springs, he holds degrees from the University of Arkansas and Yale. He previously served in the Arkansas House of Representatives from 2011 to 2015, including as majority leader.",
+  "website": "https://www.brucewesterman.com",
+  "social": {
+   "x": "https://x.com/RepWesterman",
+   "facebook": "https://www.facebook.com/RepWesterman"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Campaigns on lower taxes and limited government.", "source": "https://www.brucewesterman.com/"},
+   {"topic": "Forests", "point": "Co-authored the Fix Our Forests Act to reduce wildfire risk through forest management.", "source": "https://en.wikipedia.org/wiki/Bruce_Westerman"},
+   {"topic": "Health care", "point": "Seeks health care system reform and opposes a public option or individual mandate.", "source": "https://www.ontheissues.org/House/Bruce_Westerman.htm"},
+   {"topic": "Jobs", "point": "Prioritises job creation for Arkansas workers.", "source": "https://www.brucewesterman.com/"},
+   {"topic": "Abortion", "point": "Describes himself as pro-life and supported the overturning of Roe v. Wade.", "source": "https://en.wikipedia.org/wiki/Bruce_Westerman"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes higher taxes on the wealthy and favours spending cuts and growth over tax increases.", "source": "https://www.ontheissues.org/House/Bruce_Westerman.htm"},
+   "welfare": {"score": 20, "evidence": "Opposes expanding the Affordable Care Act and rejects a public option.", "source": "https://www.ontheissues.org/House/Bruce_Westerman.htm"},
+   "liberty": {"score": 85, "evidence": "Opposes abortion and same-sex marriage, holds NRA A ratings and voted against expanded background checks in 2021.", "source": "https://en.wikipedia.org/wiki/Bruce_Westerman"},
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Wants border control before guest worker programs and opposes a path to citizenship for undocumented immigrants.", "source": "https://www.ontheissues.org/House/Bruce_Westerman.htm"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Says energy expansion should be market driven and opposes prioritising green energy.", "source": "https://www.ontheissues.org/House/Bruce_Westerman.htm"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Supports charter schools and school vouchers.", "source": "https://www.ontheissues.org/House/Bruce_Westerman.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://www.brucewesterman.com/images/westerman-bio4x3-1.jpg",
+  "notes": ""
+ },
+ {
+  "id": "AR-4/james-russell",
+  "name": "James Russell",
+  "party": "Democratic",
+  "current_role": "Mental health care worker",
+  "bio": "James R. \"Rus\" Russell III has worked in mental health care across Arkansas since 2014. His family has farmed in Lafayette County since the 1860s, and he worked with youth groups in Columbia County in the 1990s. He is the Democratic nominee for Arkansas's 4th District in 2026.",
+  "website": "https://russellforar.com",
+  "social": {
+   "x": "https://x.com/JamesRussell3rd",
+   "instagram": "https://www.instagram.com/russellforar/",
+   "facebook": "https://www.facebook.com/JamesRussell3rd",
+   "tiktok": "https://www.tiktok.com/@russellforarkansas",
+   "youtube": "https://www.youtube.com/@RussellForAR"
+  },
+  "platform": [
+   {"topic": "Wages", "point": "Wants wages tied to cost-of-living increases, equal-pay protections and stronger labor standards.", "source": "https://russellforar.com/on-the-issues"},
+   {"topic": "Taxes", "point": "Proposes lowering taxes on working people while closing avoidance options for the wealthy.", "source": "https://russellforar.com/on-the-issues"},
+   {"topic": "Health care", "point": "Supports expanding Medicare toward universal coverage.", "source": "https://russellforar.com/on-the-issues"},
+   {"topic": "Housing", "point": "Would limit corporate purchases of homes and count rent history in mortgage qualification.", "source": "https://russellforar.com/on-the-issues"},
+   {"topic": "Government", "point": "Pledges town halls over fundraisers and cross-party problem solving.", "source": "https://russellforar.com/on-the-issues"},
+   {"topic": "Environment", "point": "Supports industrial pollution controls and investment in diversified clean energy.", "source": "https://russellforar.com/on-the-issues"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Calls for cost-of-living wage increases, stronger labor standards and higher taxes on the wealthy.", "source": "https://russellforar.com/on-the-issues"},
+   "welfare": {"score": 80, "evidence": "Supports expanding Medicare toward universal coverage.", "source": "https://russellforar.com/on-the-issues"},
+   "liberty": {"score": 25, "evidence": "Supports protecting bodily autonomy and anti-discrimination laws while preserving free expression.", "source": "https://russellforar.com/on-the-issues"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Backs pollution controls and clean energy investment.", "source": "https://russellforar.com/on-the-issues"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Emphasises accessible college and vocational education.", "source": "https://russellforar.com/on-the-issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign uses the name James R. \"Rus\" Russell III; the ballot-name field follows the input listing."
+ },
+ {
+  "id": "CA-1/james-gallagher",
+  "name": "James Gallagher",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CA-1",
+  "bio": "James Gallagher has represented California's 1st District since June 2026, after winning the special election that followed the death of Doug LaMalfa. He served in the California State Assembly from 2014 to 2026, including as Republican leader from 2022 to 2025, and earlier on the Sutter County Board of Supervisors. Born in Yuba City, he is an attorney and a partner in his family's rice and walnut farm.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Economy", "point": "Wants to cut taxes and regulations that burden small businesses, farmers and entrepreneurs.", "source": "https://gallagher.house.gov/issues/jobs-and-economic-growth"},
+   {"topic": "Cost of living", "point": "Focuses on lowering costs and creating well-paying jobs in the district.", "source": "https://gallagher.house.gov/issues/jobs-and-economic-growth"},
+   {"topic": "National security", "point": "Supports military readiness, border security and an America First foreign policy.", "source": "https://gallagher.house.gov/issues"},
+   {"topic": "Science and technology", "point": "Sees US leadership in science and technology as key to competing with China.", "source": "https://gallagher.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Official site calls for cutting taxes and regulations on small businesses and farmers.", "source": "https://gallagher.house.gov/issues/jobs-and-economic-growth"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Official site stresses strong border security.", "source": "https://gallagher.house.gov/issues"},
+   "foreign": {"score": 55, "evidence": "Supports standing by allies and military readiness within an America First approach.", "source": "https://gallagher.house.gov/issues"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:James Gallagher, official portrait (119th Congress).jpg", "license": "Public domain", "author": "U.S. House of Representatives"},
+  "campaign_photo": "",
+  "notes": "Earlier tech score of 30 was cleared because the official site discusses tech competitiveness, not regulation. The Commons file is a U.S. House work, so it is used even though no official portrait was on file."
+ },
+ {
+  "id": "CA-1/mike-mcguire",
+  "name": "Mike McGuire",
+  "party": "Democratic",
+  "current_role": "California State Senator, District 2",
+  "bio": "Mike McGuire has served in the California State Senate since 2014, as majority leader from 2022 to 2024 and as president pro tempore from 2024 to 2025. A Healdsburg native from a farming family, he earlier served on the Healdsburg school board and city council, including as mayor, and on the Sonoma County Board of Supervisors. He lost the 2026 special election for the 1st District and is running again under the redrawn lines.",
+  "website": "https://www.votemikemcguire.com",
+  "social": {
+   "x": "https://x.com/ilike_mike",
+   "instagram": "https://instagram.com/mcguireforca/",
+   "facebook": "https://facebook.com/SenatorMikeMcGuire"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All, including mental health care, and keeping rural hospitals open.", "source": "https://www.votemikemcguire.com/issues"},
+   {"topic": "Taxes", "point": "Wants billionaires and large corporations to pay more in taxes.", "source": "https://www.votemikemcguire.com/issues"},
+   {"topic": "Reproductive rights", "point": "Pledges to defend abortion access, contraception and IVF.", "source": "https://www.votemikemcguire.com/issues"},
+   {"topic": "Wildfire", "point": "Prioritises wildfire prevention and firefighting funding.", "source": "https://www.votemikemcguire.com/"},
+   {"topic": "Foreign policy", "point": "Opposes US military action in Iran, calling it illegal and dangerous.", "source": "https://www.votemikemcguire.com/issues"},
+   {"topic": "Housing", "point": "Supports housing affordability and renter protections.", "source": "https://www.votemikemcguire.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Calls for billionaires and big corporations to pay more and for corporate accountability.", "source": "https://www.votemikemcguire.com/issues"},
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All.", "source": "https://www.votemikemcguire.com/issues"},
+   "liberty": {"score": 20, "evidence": "Supports abortion access, contraception and IVF rights.", "source": "https://www.votemikemcguire.com/issues"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Opposes the Trump administration's immigration enforcement approach and pledges to hold ICE accountable.", "source": "https://www.votemikemcguire.com/issues"},
+   "foreign": {"score": 35, "evidence": "Opposes US military intervention in Iran.", "source": "https://www.votemikemcguire.com/issues"},
+   "energy": {"score": 80, "evidence": "Prioritises climate action and environmental protection.", "source": "https://www.votemikemcguire.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:State Senator Mike McGuire.jpg", "license": "Public domain (California Public Records Act)", "author": "State of California"},
+  "campaign_photo": "https://run.imgix.net/ed38e2a8-947c-429a-a2c2-992c9f4c5402/3dc817a5-8b0b-436b-a95d-2384f5e46330/3dc817a5-8b0b-436b-a95d-2384f5e46330.heic",
+  "notes": "The Commons photo relies on the California public-records public-domain template rather than a Creative Commons licence."
+ },
+ {
+  "id": "CA-2/jared-huffman",
+  "name": "Jared Huffman",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-2",
+  "bio": "Jared Huffman has represented California's 2nd District in the U.S. House since 2013 and has been ranking member of the Natural Resources Committee since 2025. A public-interest attorney from San Rafael, he served on the Marin Municipal Water District board from 1994 to 2006 and in the California State Assembly from 2006 to 2012. He co-chairs the Congressional Freethought Caucus.",
+  "website": "https://www.jaredhuffman.com",
+  "social": {
+   "x": "https://x.com/RepHuffman",
+   "instagram": "https://www.instagram.com/rephuffman",
+   "facebook": "https://www.facebook.com/RepHuffman",
+   "youtube": "https://www.youtube.com/rephuffman"
+  },
+  "platform": [
+   {"topic": "Democracy", "point": "Prioritises protecting democracy and the rule of law.", "source": "https://www.jaredhuffman.com/"},
+   {"topic": "Cost of living", "point": "Focuses on rising costs facing working families.", "source": "https://www.jaredhuffman.com/"},
+   {"topic": "Climate", "point": "Supports the Green New Deal and ending new fossil fuel leasing.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   {"topic": "Education", "point": "Opposes private and religious school vouchers and supports public education funding.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Supports higher taxes on the wealthy and tougher enforcement against corporate tax havens.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   "welfare": {"score": 80, "evidence": "Supports defending and expanding the Affordable Care Act.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   "liberty": {"score": 15, "evidence": "Supports abortion rights, same-sex marriage recognition, background checks and ammunition limits.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   "security": {"score": 20, "evidence": "Opposes bulk data collection under the PATRIOT Act.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   "immigration": {"score": 20, "evidence": "Supports the DREAM Act and more high-skill and family visas.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   "foreign": {"score": 35, "evidence": "Favours diplomacy over military action.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   "energy": {"score": 95, "evidence": "Backs the Green New Deal and the Keep It in the Ground Act.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Opposes voucher programs and supports public education and free community college.", "source": "https://www.ontheissues.org/CA/Jared_Huffman.htm"},
+   "faith": {"score": 5, "evidence": "Co-chairs the Congressional Freethought Caucus, which promotes secular government.", "source": "https://en.wikipedia.org/wiki/Jared_Huffman"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68925a257336230bcf3ea058/180e1ec4-1727-4914-9775-5faee85caa13/MIJ-L-HUFFMAN-0215-01.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-2/robin-littau",
+  "name": "Robin Littau",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Robin Littau is the Republican nominee for California's 2nd Congressional District in 2026. Little public biographical information is available.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null,
+   "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign site, platform or voting record was found."
+ },
+ {
+  "id": "CA-3/ami-bera",
+  "name": "Ami Bera",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-6",
+  "bio": "Ami Bera, a physician, has served in the U.S. House since 2013, representing California's 7th District until 2023 and the 6th District since. Born in Los Angeles and educated at UC Irvine, he was chief medical officer for Sacramento County and an associate dean at the UC Davis School of Medicine. He serves on the Foreign Affairs and Intelligence committees and is running in the redrawn 3rd District.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepBera",
+   "instagram": "https://www.instagram.com/repbera",
+   "facebook": "https://www.facebook.com/RepAmiBera",
+   "youtube": "https://www.youtube.com/repamibera"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Wants to lower prescription drug costs and cut red tape for seniors on Medicare.", "source": "https://bera.house.gov/issues"},
+   {"topic": "National security", "point": "Calls keeping Americans safe his top responsibility as an Intelligence Committee member.", "source": "https://bera.house.gov/issues"},
+   {"topic": "Housing", "point": "Focuses on housing affordability and homelessness in Sacramento County.", "source": "https://bera.house.gov/issues"},
+   {"topic": "Veterans", "point": "Seeks shorter wait times and fewer delays at VA facilities.", "source": "https://bera.house.gov/issues"},
+   {"topic": "Economy", "point": "Aims to grow the middle class and support small-business innovation.", "source": "https://bera.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Favours higher taxes on the wealthy and opposes repealing the estate tax.", "source": "https://www.ontheissues.org/CA/Ami_Bera.htm"},
+   "welfare": {"score": 75, "evidence": "Calls health care a right and opposes repealing the Affordable Care Act.", "source": "https://www.ontheissues.org/CA/Ami_Bera.htm"},
+   "liberty": {"score": 15, "evidence": "Supports abortion rights and background checks on all gun sales.", "source": "https://www.ontheissues.org/CA/Ami_Bera.htm"},
+   "security": {"score": 50, "evidence": "Emphasises proactive counterterrorism and intelligence work while record shows few privacy-restriction votes.", "source": "https://www.ontheissues.org/CA/Ami_Bera.htm"},
+   "immigration": {"score": 30, "evidence": "Supports a path to citizenship and higher visa caps.", "source": "https://www.ontheissues.org/CA/Ami_Bera.htm"},
+   "foreign": {"score": 75, "evidence": "Senior Foreign Affairs member who stresses steady US leadership and defending democratic values.", "source": "https://bera.house.gov/issues"},
+   "energy": {"score": 80, "evidence": "Prioritises green energy, opposes offshore drilling and supports regulating greenhouse gases.", "source": "https://www.ontheissues.org/CA/Ami_Bera.htm"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Opposes private and religious school vouchers.", "source": "https://www.ontheissues.org/CA/Ami_Bera.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Earlier tech score of 35 (based on a 2022 antitrust vote) was cleared because the vote could not be confirmed. No campaign website was found."
+ },
+ {
+  "id": "CA-3/robb-tucker",
+  "name": "Robb Tucker",
+  "party": "Republican",
+  "current_role": "Nevada County Supervisor",
+  "bio": "Robb Tucker is a business owner from Nevada County, California, whose family runs a mobile home community. He serves on the Nevada County Board of Supervisors. He is the Republican nominee for California's 3rd District in 2026.",
+  "website": "https://robbtucker.com",
+  "social": {},
+  "platform": [
+   {"topic": "Wildfire", "point": "Wants faster federal permitting for fuel reduction and backs the Fix Our Forests Act.", "source": "https://robbtucker.com/platform/"},
+   {"topic": "Local control", "point": "Seeks rural-impact reviews of federal rules and flexible block grants for counties.", "source": "https://robbtucker.com/platform/"},
+   {"topic": "Homelessness", "point": "Would tie federal housing money to treatment requirements and cut funding for nonprofits that miss results.", "source": "https://robbtucker.com/platform/"},
+   {"topic": "Border security", "point": "Supports physical barriers, more staffing and ending sanctuary policies to curb fentanyl.", "source": "https://robbtucker.com/platform/"},
+   {"topic": "Government ethics", "point": "Backs balanced budgets and a ban on congressional stock trading.", "source": "https://robbtucker.com/platform/"},
+   {"topic": "Education", "point": "Opposes federal education mandates and supports parental rights and trade-school aid.", "source": "https://robbtucker.com/platform/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for less federal paperwork on small businesses, balanced budgets and streamlined permitting.", "source": "https://robbtucker.com/platform/"},
+   "welfare": {"score": 35, "evidence": "Wants federal housing aid linked to mandatory treatment and results-based funding for providers.", "source": "https://robbtucker.com/platform/"},
+   "liberty": {"score": 70, "evidence": "Backs concealed-carry reciprocity, the women's sports bill and religious freedom protections.", "source": "https://robbtucker.com/platform/"},
+   "security": {"score": 45, "evidence": "Supports more law enforcement funding but also limits on warrantless surveillance.", "source": "https://robbtucker.com/platform/"},
+   "immigration": {"score": 80, "evidence": "Supports border barriers, more enforcement staffing and ending sanctuary policies.", "source": "https://robbtucker.com/platform/"},
+   "foreign": null,
+   "energy": {"score": 40, "evidence": "Opposes wetlands and endangered-species rules made without local input while backing biomass, small hydro and geothermal.", "source": "https://robbtucker.com/platform/"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Prioritises parental rights and transparency and opposes federal mandates.", "source": "https://robbtucker.com/platform/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Robb Tucker, 2025 (cropped).jpg", "license": "Public domain (California Public Records Act)", "author": "Nevada County Board of Supervisors"},
+  "campaign_photo": "",
+  "notes": "Start date of his county supervisor service was not confirmed. The Commons photo relies on the California Public Records Act public-domain template."
+ },
+ {
+  "id": "CA-4/mike-thompson",
+  "name": "Mike Thompson",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-4",
+  "bio": "Mike Thompson has served in the U.S. House since 1999, representing the 1st, then 5th, and since 2023 the 4th District of California. A St. Helena native and Vietnam War Army veteran, he was a vineyard owner and taught public administration before serving in the California State Senate from 1990 to 1998. He sits on the Ways and Means Committee and chairs the House Gun Violence Prevention Task Force.",
+  "website": "https://www.mikethompsonforcongress.com",
+  "social": {
+   "x": "https://x.com/RepThompson",
+   "facebook": "https://www.facebook.com/RepMikeThompson",
+   "youtube": "https://www.youtube.com/CongressmanMThompson"
+  },
+  "platform": [
+   {"topic": "Gun violence", "point": "Leads efforts for universal background checks as chair of the Gun Violence Prevention Task Force.", "source": "https://en.wikipedia.org/wiki/Mike_Thompson_(California_politician)"},
+   {"topic": "Health care", "point": "Supports expanding the Affordable Care Act and letting Medicare negotiate drug prices.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   {"topic": "Fiscal policy", "point": "Lists fiscal responsibility, jobs and the economy among campaign priorities.", "source": "https://www.mikethompsonforcongress.com/"},
+   {"topic": "Housing", "point": "Names housing as a campaign priority.", "source": "https://www.mikethompsonforcongress.com/"},
+   {"topic": "Immigration", "point": "Supports a path to citizenship for Dreamers and undocumented immigrants.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Favours progressive taxation and opposed Bush-era and capital gains tax cuts.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "welfare": {"score": 75, "evidence": "Supports expanding the ACA with a public option and opposes Medicare privatisation.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "liberty": {"score": 25, "evidence": "Rated 100% by NARAL and backs universal background checks, with a mixed NRA rating.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "security": {"score": 30, "evidence": "Opposes warrantless surveillance and supports FISA warrant requirements.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "immigration": {"score": 20, "evidence": "Supports a path to citizenship; rated 0% by FAIR.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "foreign": {"score": 50, "evidence": "Voted against the Iraq War authorisation and opposes interventions without congressional approval.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "energy": {"score": 85, "evidence": "Supports renewable energy tax credits and opposes offshore drilling.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "tech": {"score": 60, "evidence": "Supports net neutrality rules.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "education": {"score": 85, "evidence": "Opposes school vouchers and is rated 100% by the NEA.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"},
+   "faith": {"score": 20, "evidence": "Rated 7% by the Christian Coalition.", "source": "https://www.ontheissues.org/CA/Mike_Thompson.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-4/eric-jones",
+  "name": "Eric Jones",
+  "party": "Democratic",
+  "current_role": "Entrepreneur and nonprofit founder",
+  "bio": "Eric Jones is an entrepreneur who has led companies in health care and education and founded a nonprofit focused on online free speech. Raised in a military family, he was the first in his family to graduate from college and now lives in Napa. He is running for California's 4th District in 2026.",
+  "website": "https://www.ericjones.us",
+  "social": {
+   "x": "https://x.com/ericjones_us",
+   "instagram": "https://www.instagram.com/ericjones.us",
+   "facebook": "https://www.facebook.com/ericjones.us/",
+   "tiktok": "https://www.tiktok.com/@ericjones.us",
+   "youtube": "https://www.youtube.com/@ericjones_us/"
+  },
+  "platform": [
+   {"topic": "Corruption", "point": "Wants corporate money out of politics, term limits and an end to gerrymandering; takes no corporate PAC money.", "source": "https://www.ericjones.us/priorities"},
+   {"topic": "Utilities", "point": "Would break up utility monopolies such as PG&E to lower energy bills.", "source": "https://www.ericjones.us/priorities"},
+   {"topic": "Health care", "point": "Would add vision, dental, hearing and in-home care to Medicare and cut drug prices.", "source": "https://www.ericjones.us/priorities"},
+   {"topic": "Housing", "point": "Proposes making rent tax-deductible and streamlining housing construction.", "source": "https://www.ericjones.us/priorities"},
+   {"topic": "Technology", "point": "Seeks accountability for tech companies and stronger online child safety.", "source": "https://www.ericjones.us/priorities"},
+   {"topic": "Surveillance", "point": "Calls for ending Flock license-plate surveillance programs.", "source": "https://www.ericjones.us/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Calls for corporations to pay fair taxes, working-class tax cuts and breaking up utility monopolies.", "source": "https://www.ericjones.us/priorities"},
+   "welfare": {"score": 65, "evidence": "Would expand Medicare benefits and defend Social Security while backing balanced budgets.", "source": "https://www.ericjones.us/priorities"},
+   "liberty": null,
+   "security": {"score": 20, "evidence": "Wants to end Flock surveillance programs.", "source": "https://www.ericjones.us/priorities"},
+   "immigration": {"score": 40, "evidence": "Supports meeting agricultural workforce needs.", "source": "https://www.ericjones.us/priorities"},
+   "foreign": {"score": 35, "evidence": "Wants limits on military spending and no blank checks for war.", "source": "https://www.ericjones.us/priorities"},
+   "energy": null,
+   "tech": {"score": 80, "evidence": "Seeks tech company accountability and online child safety rules.", "source": "https://www.ericjones.us/priorities"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68b763db97b0ee4d447fcc40/bd6f836b-30f1-4aef-98fe-accc16c4f2ee/Eric+Jones-700.jpg",
+  "notes": "The immigration score rests only on a brief mention of agricultural workforce needs."
+ }
+]

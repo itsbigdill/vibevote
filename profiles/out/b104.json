@@ -1,0 +1,819 @@
+[
+ {
+  "id": "WV-1/belinda-fox-spencer",
+  "name": "Belinda Fox-Spencer",
+  "party": "Constitution",
+  "current_role": "Businesswoman and anti-abortion activist",
+  "bio": "Belinda Fox-Spencer is the Constitution Party nominee for West Virginia's 1st congressional district. She is described as a businesswoman and anti-abortion activist and previously ran for office in 2020 and 2022.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or published issue positions were found; her anti-abortion activism was not scored without a stated policy platform."
+ },
+ {
+  "id": "WV-2/riley-moore",
+  "name": "Riley Moore",
+  "party": "Republican",
+  "current_role": "U.S. Representative for WV-2",
+  "bio": "Riley Moore has represented West Virginia's 2nd congressional district since January 2025 and sits on the House Appropriations Committee. He was West Virginia State Treasurer from 2021 to 2025 and served in the House of Delegates from 2017 to 2019. Raised in Morgantown, he trained as a welder and later worked as a House Foreign Affairs Committee staffer and in the defense and lobbying sectors.",
+  "website": "https://www.mooreforwv.com",
+  "social": {
+   "x": "https://x.com/RepRileyMoore",
+   "instagram": "https://www.instagram.com/reprileymoore",
+   "facebook": "https://www.facebook.com/MooreforWV"
+  },
+  "platform": [
+   {
+    "topic": "Guns",
+    "point": "Defend the right to bear arms and oppose gun control, including financial-industry tracking of firearm purchases.",
+    "source": "https://www.mooreforwv.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Support West Virginia's coal and natural gas industries and the jobs they provide.",
+    "source": "https://www.mooreforwv.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Finish construction of the border wall and give law enforcement more authority against illegal immigration.",
+    "source": "https://www.mooreforwv.com/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Back legislation protecting life from conception.",
+    "source": "https://www.mooreforwv.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand school choice and skilled-trades workforce training.",
+    "source": "https://www.mooreforwv.com/issues"
+   },
+   {
+    "topic": "Crypto",
+    "point": "Create rules that advance blockchain technology and oppose a central bank digital currency.",
+    "source": "https://www.mooreforwv.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 45,
+    "evidence": "Opposes abortion and gun registries (restrictive on abortion, permissive on guns), and has expressed support for medical cannabis.",
+    "source": "https://www.ontheissues.org/House/Riley_Moore.htm"
+   },
+   "security": null,
+   "immigration": {
+    "score": 95,
+    "evidence": "Pledges to complete the border wall and expand enforcement, and backs deportation efforts.",
+    "source": "https://www.mooreforwv.com/issues"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 10,
+    "evidence": "Backs coal and natural gas and, as treasurer, opposed ESG investing policies aimed at fossil fuels.",
+    "source": "https://www.mooreforwv.com/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Supports school choice, including West Virginia's Hope Scholarship program.",
+    "source": "https://www.mooreforwv.com/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "WV-2/ace-parsi",
+  "name": "Ace Parsi",
+  "party": "Democratic",
+  "current_role": "Political organizer",
+  "bio": "Ace Parsi is the Democratic nominee for West Virginia's 2nd congressional district and is described as a political organizer. His campaign says he came to the United States as a child after his family fled an authoritarian government, and that he grew up in poverty. His campaign is based in Morgantown.",
+  "website": "https://www.aceforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/aceforcongress",
+   "facebook": "https://www.facebook.com/profile.php?id=61584377288489",
+   "tiktok": "https://www.tiktok.com/@ace4congress",
+   "youtube": "https://www.youtube.com/@AceForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Pursue a single-payer public option, expand Medicaid and fund rural hospitals.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Require community referendums before data centers are built and hold companies liable for local damage.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Ban Flock cameras and AI-driven surveillance.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   {
+    "topic": "Energy",
+    "point": "Add wind and solar to lower heating bills and end fossil fuel subsidies.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   {
+    "topic": "Economy",
+    "point": "End tariffs and invest in small businesses, farms and community wealth building.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   {
+    "topic": "Education",
+    "point": "Offer free tuition for service professions and raise Title I funding for rural schools.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Proposes community wealth building, a 2-for-1 investment plan for displaced workers and an end to fossil fuel subsidies.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Supports a single-payer public option and expanded Medicaid.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Supports anti-discrimination protections for LGBTQ people in jobs, housing, health care and schools.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   "security": {
+    "score": 15,
+    "evidence": "Calls for banning Flock cameras and AI-facilitated surveillance.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   "immigration": null,
+   "foreign": {
+    "score": 70,
+    "evidence": "Wants to relaunch foreign aid and promote stability and human rights abroad.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   "energy": {
+    "score": 70,
+    "evidence": "Wants to diversify toward wind and solar and cut fossil fuel subsidies.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   "tech": {
+    "score": 80,
+    "evidence": "Proposes community referendums before data center construction and limits on AI surveillance.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   "education": {
+    "score": 90,
+    "evidence": "Proposes more Title I money for rural public schools and free tuition for service professions.",
+    "source": "https://www.aceforcongress.com/aceplatform"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/f33598_dfa13ddb602940e69d4100b457523662~mv2.webp",
+  "notes": "Detailed career history could not be confirmed because Ballotpedia and a Wikipedia article were unavailable."
+ },
+ {
+  "id": "WI-1/bryan-steil",
+  "name": "Bryan Steil",
+  "party": "Republican",
+  "current_role": "U.S. Representative for WI-1",
+  "bio": "Bryan Steil has represented Wisconsin's 1st congressional district since 2019 and has chaired the House Administration Committee since 2023. A Janesville native, he was an aide to Rep. Paul Ryan, a manufacturing executive and an attorney, and served on the University of Wisconsin Board of Regents.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepBryanSteil"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Cut federal red tape and provide tax relief to protect manufacturing jobs.",
+    "source": "https://steil.house.gov/issues/economy"
+   },
+   {
+    "topic": "Elections",
+    "point": "Keep elections free, fair and secure through his House Administration Committee work.",
+    "source": "https://steil.house.gov/issues/election-integrity"
+   },
+   {
+    "topic": "Budget",
+    "point": "Bring fiscal discipline to federal spending and the debt.",
+    "source": "https://steil.house.gov/issues/debt-and-deficit"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Support law enforcement and oppose defunding police.",
+    "source": "https://steil.house.gov/issues/public-safety"
+   },
+   {
+    "topic": "Health care",
+    "point": "Favor patient-centered care and price transparency over more federal control.",
+    "source": "https://steil.house.gov/issues/health"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Protect Social Security, Medicare and prescription drug programs.",
+    "source": "https://steil.house.gov/issues/seniors"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Backs tax relief and deregulation and opposes higher taxes on the wealthy.",
+    "source": "https://steil.house.gov/issues/economy"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Opposes expanded federal control of health care, favoring price transparency, while pledging to protect Social Security and Medicare.",
+    "source": "https://www.ontheissues.org/House/Bryan_Steil.htm"
+   },
+   "liberty": {
+    "score": 50,
+    "evidence": "Opposes abortion and gun control but voted for the Respect for Marriage Act in 2022.",
+    "source": "https://en.wikipedia.org/wiki/Bryan_Steil"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Supports law enforcement funding and opposes defunding police.",
+    "source": "https://steil.house.gov/issues/public-safety"
+   },
+   "immigration": {
+    "score": 65,
+    "evidence": "Supports finishing the border wall and more southern border funding.",
+    "source": "https://en.wikipedia.org/wiki/Bryan_Steil"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Supports the U.S.-Israel alliance, voted for military aid to Israel and stresses readiness against Iran, Russia and China.",
+    "source": "https://en.wikipedia.org/wiki/Bryan_Steil"
+   },
+   "energy": {
+    "score": 30,
+    "evidence": "Pairs Great Lakes protection with an emphasis on jobs over new environmental rules.",
+    "source": "https://www.ontheissues.org/House/Bryan_Steil.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Emphasizes parental involvement and transparency and supports school choice.",
+    "source": "https://www.ontheissues.org/House/Bryan_Steil.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "WI-1/mitchell-berman",
+  "name": "Mitchell Berman",
+  "party": "Democratic",
+  "current_role": "Emergency room nurse",
+  "bio": "Mitchell Berman is a registered nurse with more than 23 years in health care, including over a decade at the Department of Veterans Affairs, and still works in an emergency room. Raised in rural Wisconsin, he was the first in his family to graduate from college and is a longtime union member.",
+  "website": "https://www.bermanforcongress.com",
+  "social": {
+   "x": "https://x.com/MBermanWI",
+   "instagram": "https://www.instagram.com/bermanforcongress",
+   "facebook": "https://www.facebook.com/bermanforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Raise the minimum wage, fight corporate price-fixing and limit private equity purchases of single-family homes.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   {
+    "topic": "Health care",
+    "point": "Restore ACA subsidies, negotiate drug prices, create a public option and cap out-of-pocket costs.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Refuse corporate PAC money, overturn Citizens United and ban stock trading by members of Congress.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Strengthen union organizing rights and favor local companies for federal contracts.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   {
+    "topic": "War powers",
+    "point": "Restore congressional authority over war and end costly overseas conflicts.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   {
+    "topic": "Retirement",
+    "point": "Protect Social Security and Medicare by removing the payroll tax income cap.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Supports a higher minimum wage, action on price-fixing, stronger union rights and lifting the Social Security tax cap.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Backs a public insurance option, capped out-of-pocket costs and restored ACA subsidies.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports protecting reproductive freedom and patient autonomy (abortion).",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 30,
+    "evidence": "Calls for ending costly overseas conflicts and reasserting Congress's war powers.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Calls for investment in clean energy and holding polluters accountable.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Wants to end tax breaks for data centers and hold them accountable for energy and water costs.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   "education": {
+    "score": 90,
+    "evidence": "Pledges to fully fund public schools and protect the Department of Education.",
+    "source": "https://www.bermanforcongress.com/priorities"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/a5010f_cd8a52199c864aa68fdd4b1695eb5b91~mv2.jpg",
+  "notes": ""
+ },
+ {
+  "id": "WI-2/mark-pocan",
+  "name": "Mark Pocan",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for WI-2",
+  "bio": "Mark Pocan has represented Wisconsin's 2nd congressional district since 2013. He previously served in the Wisconsin State Assembly from 1999 to 2013 and on the Dane County Board of Supervisors. Originally from Kenosha, he owns a printing business he founded after college.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepMarkPocan",
+   "instagram": "https://www.instagram.com/repmarkpocan",
+   "facebook": "https://www.facebook.com/repmarkpocan",
+   "youtube": "https://www.youtube.com/repmarkpocan"
+  },
+  "platform": [
+   {
+    "topic": "Equality",
+    "point": "Oppose discrimination and advance civil rights as co-chair of the LGBTQ+ Equality Caucus.",
+    "source": "https://pocan.house.gov/issues/equality"
+   },
+   {
+    "topic": "Budget",
+    "point": "Strengthen Social Security and Medicare and invest in infrastructure, education and research.",
+    "source": "https://pocan.house.gov/issues/budget"
+   },
+   {
+    "topic": "Energy",
+    "point": "Promote energy efficiency to reduce carbon emissions.",
+    "source": "https://pocan.house.gov/issues/energy-and-environment"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Protect family farmers.",
+    "source": "https://pocan.house.gov/issues/agriculture"
+   },
+   {
+    "topic": "Voting",
+    "point": "Protect every American's ability to vote without interference.",
+    "source": "https://pocan.house.gov/issues/protecting-the-right-to-vote"
+   },
+   {
+    "topic": "Defense",
+    "point": "Reduce military spending and pursue diplomatic solutions.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Pocan"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Supports higher taxes on the wealthy and has criticized corporate consolidation.",
+    "source": "https://www.ontheissues.org/House/Mark_Pocan.htm"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Member of the Medicare for All Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Pocan"
+   },
+   "liberty": {
+    "score": 10,
+    "evidence": "Supports abortion rights and co-chairs the LGBTQ+ Equality Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Pocan"
+   },
+   "security": {
+    "score": 15,
+    "evidence": "Has opposed bulk surveillance and is an ACLU supporter.",
+    "source": "https://www.ontheissues.org/House/Mark_Pocan.htm"
+   },
+   "immigration": {
+    "score": 10,
+    "evidence": "Introduced legislation to abolish ICE and design a new enforcement system.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Pocan"
+   },
+   "foreign": {
+    "score": 20,
+    "evidence": "Seeks to cut the defense budget and opposed some weapons sales to Israel.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Pocan"
+   },
+   "energy": {
+    "score": 90,
+    "evidence": "Supports the Green New Deal and carbon reduction.",
+    "source": "https://www.ontheissues.org/House/Mark_Pocan.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Supports public education funding and opposes vouchers.",
+    "source": "https://www.ontheissues.org/House/Mark_Pocan.htm"
+   },
+   "faith": {
+    "score": 10,
+    "evidence": "Member of the Congressional Freethought Caucus, which advocates church-state separation.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Pocan"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "WI-3/derrick-van-orden",
+  "name": "Derrick Van Orden",
+  "party": "Republican",
+  "current_role": "U.S. Representative for WI-3",
+  "bio": "Derrick Van Orden has represented Wisconsin's 3rd congressional district since 2023. Before entering politics he served 26 years in the U.S. Navy, retiring as a Navy SEAL senior chief petty officer. He was born in Minnesota and lost his first bid for the seat in 2020.",
+  "website": "https://www.vanordenforcongress.com",
+  "social": {
+   "x": "https://x.com/RepVanOrden",
+   "instagram": "https://www.instagram.com/RepVanOrden",
+   "facebook": "https://www.facebook.com/RepVanOrden",
+   "youtube": "https://www.youtube.com/channel/UCuH-KwQagDN0sxrl3NXiMQg"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Cut taxes so working families keep more of their pay.",
+    "source": "https://www.vanordenforcongress.com/issues/"
+   },
+   {
+    "topic": "Border security",
+    "point": "Enforce immigration law and remove criminal noncitizens.",
+    "source": "https://www.vanordenforcongress.com/issues/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Give law enforcement resources to fight crime and drugs.",
+    "source": "https://www.vanordenforcongress.com/issues/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Cut VA red tape and strengthen veterans' benefits and job pathways.",
+    "source": "https://www.vanordenforcongress.com/issues/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Require local consent, farmland and water protection, and ratepayer agreements for data centers.",
+    "source": "https://www.vanordenforcongress.com/issues/"
+   },
+   {
+    "topic": "Term limits",
+    "point": "Support term limits for members of Congress.",
+    "source": "https://www.vanordenforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Backs tax cuts for working families and voted for the One Big Beautiful Bill Act.",
+    "source": "https://en.wikipedia.org/wiki/Derrick_Van_Orden"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Voted for the One Big Beautiful Bill Act, which reduced health and nutrition spending, while pledging preexisting-condition protections.",
+    "source": "https://en.wikipedia.org/wiki/Derrick_Van_Orden"
+   },
+   "liberty": null,
+   "security": {
+    "score": 70,
+    "evidence": "Pledges resources for law enforcement against crime and drugs.",
+    "source": "https://www.vanordenforcongress.com/issues/"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Supports strict border enforcement and removal of criminal noncitizens.",
+    "source": "https://www.vanordenforcongress.com/issues/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "WI-3/rebecca-cooke",
+  "name": "Rebecca Cooke",
+  "party": "Democratic",
+  "current_role": "Nonprofit founder and former small-business owner",
+  "bio": "Rebecca Cooke grew up on a dairy farm near Eau Claire and ran a home goods store there until 2022. She founded a nonprofit supporting women entrepreneurs, worked as a fundraiser and consultant, and was appointed to the Wisconsin Economic Development Corporation board. She narrowly lost this seat in 2024.",
+  "website": "https://cookeforwisconsin.com",
+  "social": {
+   "x": "https://x.com/RebeccaForWI",
+   "instagram": "https://www.instagram.com/cookeforcongress",
+   "facebook": "https://www.facebook.com/Cooke-for-Congress-291391109320335"
+  },
+  "platform": [
+   {
+    "topic": "Wages",
+    "point": "Raise the federal minimum wage to $15.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand Medicare to cover dental, hearing and vision.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   {
+    "topic": "Guns",
+    "point": "Support universal background checks and stronger red flag law enforcement.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   {
+    "topic": "Antitrust",
+    "point": "Strengthen antitrust laws.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Keep abortion decisions free from government interference.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   {
+    "topic": "Farms",
+    "point": "Support family farms, rural broadband and clean water.",
+    "source": "https://cookeforwisconsin.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Supports a $15 minimum wage and stronger antitrust laws.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Wants Medicare to cover dental, hearing and vision.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Supports abortion rights and universal background checks and red flag laws.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   "security": {
+    "score": 55,
+    "evidence": "Opposes efforts to defund the police.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   "immigration": {
+    "score": 45,
+    "evidence": "Opposes abolishing ICE.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Supported the 2026 U.S. intervention in Venezuela while criticizing its stability planning.",
+    "source": "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://cookeforwisconsin.com/wp-content/uploads/2024/09/53893451634_b5fc5153e3_k.jpg",
+  "notes": "The only Commons image is a still from an UpNorthNews video, so no portrait was used."
+ },
+ {
+  "id": "WI-3/alexander-kent",
+  "name": "Alexander Kent",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Alexander Kent is an independent candidate for Wisconsin's 3rd congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or policy positions could be found."
+ },
+ {
+  "id": "WI-3/rustin-provance",
+  "name": "Rustin Provance",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Rustin Provance is an independent candidate for Wisconsin's 3rd congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or policy positions could be found."
+ },
+ {
+  "id": "WI-4/gwen-moore",
+  "name": "Gwen Moore",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for WI-4",
+  "bio": "Gwen Moore has represented Wisconsin's 4th congressional district, centered on Milwaukee, since 2005. She previously served in the Wisconsin State Assembly and State Senate from 1989 to 2005. Born in Racine, she worked as an AmeriCorps VISTA organizer and in Milwaukee housing and neighborhood development.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepGwenMoore",
+   "instagram": "https://www.instagram.com/RepGwenMoore",
+   "facebook": "https://www.facebook.com/GwenSMoore",
+   "youtube": "https://www.youtube.com/RepGwenMoore"
+  },
+  "platform": [
+   {
+    "topic": "Poverty",
+    "point": "Work to end hunger and poverty.",
+    "source": "https://gwenmoore.house.gov/issues/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Provide quality, affordable health care.",
+    "source": "https://gwenmoore.house.gov/issues/"
+   },
+   {
+    "topic": "Consumers",
+    "point": "Protect consumers and continue Wall Street reform.",
+    "source": "https://gwenmoore.house.gov/issues/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Protect the environment and restore the Great Lakes.",
+    "source": "https://gwenmoore.house.gov/issues/"
+   },
+   {
+    "topic": "Women",
+    "point": "Advance policies for women, including reproductive rights.",
+    "source": "https://en.wikipedia.org/wiki/Gwen_Moore"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Supports a millionaire tax and Wall Street reform.",
+    "source": "https://www.ontheissues.org/House/Gwen_Moore.htm"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Treats health care as a right and backed Medicaid expansion.",
+    "source": "https://www.ontheissues.org/House/Gwen_Moore.htm"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports abortion rights and LGBT equality.",
+    "source": "https://en.wikipedia.org/wiki/Gwen_Moore"
+   },
+   "security": {
+    "score": 15,
+    "evidence": "Opposed PATRIOT Act wiretap powers.",
+    "source": "https://www.ontheissues.org/House/Gwen_Moore.htm"
+   },
+   "immigration": {
+    "score": 10,
+    "evidence": "Supports legal status for DREAMers.",
+    "source": "https://www.ontheissues.org/House/Gwen_Moore.htm"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Voted to withdraw troops from Iraq and Syria.",
+    "source": "https://en.wikipedia.org/wiki/Gwen_Moore"
+   },
+   "energy": {
+    "score": 95,
+    "evidence": "Supports the Green New Deal.",
+    "source": "https://www.ontheissues.org/House/Gwen_Moore.htm"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Supports net neutrality.",
+    "source": "https://www.ontheissues.org/House/Gwen_Moore.htm"
+   },
+   "education": {
+    "score": 90,
+    "evidence": "Opposes school vouchers.",
+    "source": "https://www.ontheissues.org/House/Gwen_Moore.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "The earlier faith score of 15 was dropped because no specific supporting statement or vote could be confirmed."
+ },
+ {
+  "id": "WI-4/tim-rogers",
+  "name": "Tim Rogers",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Tim Rogers is the Republican nominee for Wisconsin's 4th congressional district and has run for the seat before.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or published policy positions were found."
+ }
+]

@@ -1,0 +1,391 @@
+[
+ {
+  "id": "KY-2/thomas-loecken",
+  "name": "Thomas Loecken",
+  "party": "Independent",
+  "race": "KY-2",
+  "race_label": "Kentucky · US House KY-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-3/morgan-mcgarvey",
+  "name": "Morgan McGarvey",
+  "party": "Democratic",
+  "race": "KY-3",
+  "race_label": "Kentucky · US House KY-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001220",
+   "official_name": "Morgan McGarvey",
+   "chamber": "House",
+   "official_site": "https://mcgarvey.house.gov",
+   "official_social": {
+    "twitter": "RepMcGarvey",
+    "facebook": "RepMcGarvey",
+    "instagram": "repmcgarvey"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 75,
+    "liberty": 35,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposed 2025 budget bill over Medicaid cuts, supports abortion access, cosponsored gun-safety bills, touts federal CO2-reduction funding; abortion rights drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Morgan_McGarvey",
+    "https://mcgarvey.house.gov/issues/health",
+    "https://mcgarvey.house.gov/issues/gun-violence-prevention"
+   ],
+   "photo": {
+    "file": "File:Rep. Morgan McGarvey - 118th Congress (1).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "KY-3/maria-rodriguez",
+  "name": "Maria Rodriguez",
+  "party": "Republican",
+  "race": "KY-3",
+  "race_label": "Kentucky · US House KY-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-4/ed-gallrein",
+  "name": "Ed Gallrein",
+  "party": "Republican",
+  "race": "KY-4",
+  "race_label": "Kentucky · US House KY-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 30,
+    "security": null,
+    "immigration": 90,
+    "foreign": 75,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs tax, regulation and spending cuts, completing the border wall and full ICE funding, gun rights, and 2026 Venezuela and Iran strikes; guns drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ed_Gallrein"
+   ],
+   "photo": {
+    "file": "File:Ed Gallrein (55505179851) (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "KY-4/melissa-strange",
+  "name": "Melissa Strange",
+  "party": "Democratic",
+  "race": "KY-4",
+  "race_label": "Kentucky · US House KY-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-4/jeremy-todd",
+  "name": "Jeremy Todd",
+  "party": "Libertarian",
+  "race": "KY-4",
+  "race_label": "Kentucky · US House KY-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-5/hal-rogers",
+  "name": "Hal Rogers",
+  "party": "Republican",
+  "race": "KY-5",
+  "race_label": "Kentucky · US House KY-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000395",
+   "official_name": "Harold Rogers",
+   "chamber": "House",
+   "official_site": "https://halrogers.house.gov",
+   "official_social": {
+    "twitter": "RepHalRogers",
+    "facebook": "CongressmanHalRogers",
+    "youtube": "RepHalRogers",
+    "instagram": "rephalrogers"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 80,
+    "security": 65,
+    "immigration": 75,
+    "foreign": 65,
+    "energy": null,
+    "tech": 25,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Tax cuts and balanced budget amendment, anti-abortion and opposes same-sex marriage, border fence, Ukraine loan guarantees, opposes net neutrality; abortion drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hal_Rogers"
+   ],
+   "photo": {
+    "file": "File:Harold Rogers 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "KY-5/ned-pillersdorf",
+  "name": "Ned Pillersdorf",
+  "party": "Democratic",
+  "race": "KY-5",
+  "race_label": "Kentucky · US House KY-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-5/gerardo-serrano",
+  "name": "Gerardo Serrano",
+  "party": "Independent",
+  "race": "KY-5",
+  "race_label": "Kentucky · US House KY-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-5/mikel-wein",
+  "name": "Mikel Wein",
+  "party": "Independent",
+  "race": "KY-5",
+  "race_label": "Kentucky · US House KY-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-6/ralph-alvarado",
+  "name": "Ralph Alvarado",
+  "party": "Republican",
+  "race": "KY-6",
+  "race_label": "Kentucky · US House KY-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Sponsored medical malpractice tort reform as a state senator; campaigns as a MAHA doctor; few other documented federal positions.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ralph_Alvarado"
+   ],
+   "photo": {
+    "file": "File:Ralph Alvarado by Gage Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "KY-6/zach-dembo",
+  "name": "Zach Dembo",
+  "party": "Democratic",
+  "race": "KY-6",
+  "race_label": "Kentucky · US House KY-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 40,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 45,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign calls for ending the tariff trade war and opposes endless Middle East wars while stressing alliances.",
+   "sources": [
+    "https://www.zachdembo.com/"
+   ],
+   "photo": null
+  }
+ }
+]

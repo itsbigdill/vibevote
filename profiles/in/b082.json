@@ -1,0 +1,451 @@
+[
+ {
+  "id": "PA-4/aurora-stuski",
+  "name": "Aurora Stuski",
+  "party": "Republican",
+  "race": "PA-4",
+  "race_label": "Pennsylvania · US House PA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": 70,
+    "foreign": null,
+    "energy": null,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign pledges to fight inflationary spending, back police and prosecute violent crime, enforce immigration law, and protect children from AI harms.",
+   "sources": [
+    "https://aurora4pa.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-5/mary-gay-scanlon",
+  "name": "Mary Gay Scanlon",
+  "party": "Democratic",
+  "race": "PA-5",
+  "race_label": "Pennsylvania · US House PA-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001205",
+   "official_name": "Mary Gay Scanlon",
+   "chamber": "House",
+   "official_site": "https://scanlon.house.gov",
+   "official_social": {
+    "twitter": "RepMGS",
+    "facebook": "repmgs",
+    "instagram": "repmgs"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 75,
+    "liberty": 15,
+    "security": 20,
+    "immigration": 20,
+    "foreign": 40,
+    "energy": null,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Backs universal pre-K, public education, abortion rights and gun control, pathway to citizenship; opposed warrantless ICE raids; voted for Syria and Somalia troop withdrawals.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon",
+    "https://ontheissues.org/PA/Mary_Gay_Scanlon.htm"
+   ],
+   "photo": {
+    "file": "File:Mary Gay Scanlon, official portrait, 2018 (3x4 cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "PA-5/nicholas-manganaro",
+  "name": "Nicholas Manganaro",
+  "party": "Republican",
+  "race": "PA-5",
+  "race_label": "Pennsylvania · US House PA-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants a balanced budget and no new entitlements, strong ICE enforcement and cooperation, all-of-the-above energy with oil, nuclear and fusion; opposes RGGI.",
+   "sources": [
+    "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-6/chrissy-houlahan",
+  "name": "Chrissy Houlahan",
+  "party": "Democratic",
+  "race": "PA-6",
+  "race_label": "Pennsylvania · US House PA-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001085",
+   "official_name": "Chrissy Houlahan",
+   "chamber": "House",
+   "official_site": "https://houlahan.house.gov",
+   "official_social": {
+    "twitter": "RepHoulahan",
+    "facebook": "RepChrissyHoulahan",
+    "instagram": "repchrissyhoulahan",
+    "youtube": "UCGydnnhsUZqFBscmcWcT-zQ"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 60,
+    "liberty": 25,
+    "security": null,
+    "immigration": 35,
+    "foreign": 80,
+    "energy": 80,
+    "tech": 40,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs drug price negotiation, a public option not single payer, Equality Act, F-16s for Ukraine, climate action; opposed Laken Riley Act and an antitrust bill.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chrissy_Houlahan",
+    "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=4393"
+   ],
+   "photo": {
+    "file": "File:Houlahan Chrissy 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "PA-6/marty-young",
+  "name": "Marty Young",
+  "party": "Republican",
+  "race": "PA-6",
+  "race_label": "Pennsylvania · US House PA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 65,
+    "immigration": null,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign stresses cutting spending without tax increases, opposing police defunding, and modernized defense budgets with a strong industrial base.",
+   "sources": [
+    "https://ballotpedia.org/Marty_Young"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-7/ryan-mackenzie",
+  "name": "Ryan Mackenzie",
+  "party": "Republican",
+  "race": "PA-7",
+  "race_label": "Pennsylvania · US House PA-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001230",
+   "official_name": "Ryan Mackenzie",
+   "chamber": "House",
+   "official_site": "https://mackenzie.house.gov",
+   "official_social": {
+    "twitter": "RepMackenzie",
+    "facebook": "repmackenzie",
+    "instagram": "RepMackenzie"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": 80,
+    "security": null,
+    "immigration": 80,
+    "foreign": 40,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax relief pledge; abortion restrictions, gun rights, opposed medical marijuana drove liberty; immigration a top priority; opposed further Ukraine aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ryan_Mackenzie",
+    "https://www.ontheissues.org/PA/Ryan_Mackenzie.htm",
+    "https://mackenzie.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Rep. Ryan Mackenzie official photo, 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "PA-7/bob-brooks",
+  "name": "Bob Brooks",
+  "party": "Democratic",
+  "race": "PA-7",
+  "race_label": "Pennsylvania · US House PA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 15,
+    "security": null,
+    "immigration": 40,
+    "foreign": 55,
+    "energy": 55,
+    "tech": 70,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Billionaire minimum tax, higher minimum wage, Medicare for All, codify Roe, background checks, earned citizenship, backs Ukraine/NATO, opposes vouchers and AI preemption.",
+   "sources": [
+    "https://brooksforcongress.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-8/rob-bresnahan",
+  "name": "Rob Bresnahan",
+  "party": "Republican",
+  "race": "PA-8",
+  "race_label": "Pennsylvania · US House PA-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001327",
+   "official_name": "Robert P. Bresnahan, Jr.",
+   "chamber": "House",
+   "official_site": "https://bresnahan.house.gov",
+   "official_social": {
+    "twitter": "RepBresnahan",
+    "facebook": "RepBresnahan",
+    "instagram": "RepBresnahan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": 30,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for the One Big Beautiful Bill Act with its tax and Medicaid changes; cosponsored a regional cost-of-living minimum wage bill.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rob_Bresnahan",
+    "https://www.wnep.com/article/news/state/congressman-rob-bresnahan-faces-scrutiny-over-medicaid-vote-and-stock-trades-one-big-beautiful-bill-donald-trump-republican/523-aa17ec3f-6cff-4c45-99f1-05b9f03e9234"
+   ],
+   "photo": {
+    "file": "File:Rep. Rob Bresnahan official photo, 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "PA-8/paige-cognetti",
+  "name": "Paige Cognetti",
+  "party": "Democratic",
+  "race": "PA-8",
+  "race_label": "Pennsylvania · US House PA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cap credit card fees, break up monopolies, no corporate tax breaks, paid family leave and childcare, strict data center transparency rules.",
+   "sources": [
+    "https://paigeforpa.com/priorities/",
+    "https://paigeforpa.com/"
+   ],
+   "photo": {
+    "file": "File:Paige Cognetti (52165104986) (3x4a).jpg",
+    "license": "CC BY 2.0",
+    "author": "US Department of Labor"
+   }
+  }
+ },
+ {
+  "id": "PA-9/dan-meuser",
+  "name": "Dan Meuser",
+  "party": "Republican",
+  "race": "PA-9",
+  "race_label": "Pennsylvania · US House PA-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001204",
+   "official_name": "Daniel Meuser",
+   "chamber": "House",
+   "official_site": "https://meuser.house.gov",
+   "official_social": {
+    "twitter": "RepMeuser",
+    "facebook": "RepMeuser"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 70,
+    "security": null,
+    "immigration": 85,
+    "foreign": 35,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Taxpayer Protection Pledge; opposes abortion, backs gun rights but voted for Respect for Marriage Act; border wall, end DACA; voted for Ukraine aid moratorium.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dan_Meuser"
+   ],
+   "photo": {
+    "file": "File:Meuser Dan 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "PA-9/rachel-wallace",
+  "name": "Rachel Wallace",
+  "party": "Democratic",
+  "race": "PA-9",
+  "race_label": "Pennsylvania · US House PA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign lists only broad priorities (lower costs, raise wages, health care, farmers); no concrete stances found to score.",
+   "sources": [
+    "https://www.wallaceforcongress.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-10/scott-perry",
+  "name": "Scott Perry",
+  "party": "Republican",
+  "race": "PA-10",
+  "race_label": "Pennsylvania · US House PA-10",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000605",
+   "official_name": "Scott Perry",
+   "chamber": "House",
+   "official_site": "https://perry.house.gov",
+   "official_social": {
+    "twitter": "RepScottPerry",
+    "facebook": "repscottperry",
+    "youtube": "RepScottPerry",
+    "instagram": "repscottperry"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 55,
+    "security": null,
+    "immigration": 90,
+    "foreign": 30,
+    "energy": 5,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against American Rescue Plan; opposes federal abortion ban, voted for Respect for Marriage Act; hardline immigration remarks; opposed 2024 foreign aid; opposes climate policies.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Scott_Perry"
+   ],
+   "photo": {
+    "file": "File:Rep. Scott Perry, official portrait, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ }
+]

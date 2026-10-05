@@ -1,0 +1,418 @@
+[
+ {
+  "id": "MI-11/jeremy-moss",
+  "name": "Jeremy Moss",
+  "party": "Democratic",
+  "race": "MI-11",
+  "race_label": "Michigan · US House MI-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Anti price-gouging, defend Medicaid and Social Security; expanded reproductive rights, civil-rights protections, gun safety laws (liberty); supports Israel with two-state solution.",
+   "sources": [
+    "https://votejeremymoss.com/",
+    "https://en.wikipedia.org/wiki/Jeremy_Moss"
+   ],
+   "photo": {
+    "file": "File:Michigan Senator Jeremy Moss 2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Anmanwell"
+   }
+  }
+ },
+ {
+  "id": "MI-11/ethan-baker",
+  "name": "Ethan Baker",
+  "party": "Republican",
+  "race": "MI-11",
+  "race_label": "Michigan · US House MI-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Troy mayor campaigning on civility and trust; no published issue positions found.",
+   "sources": [
+    "https://www.bakerforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-12/rashida-tlaib",
+  "name": "Rashida Tlaib",
+  "party": "Democratic",
+  "race": "MI-12",
+  "race_label": "Michigan · US House MI-12",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000481",
+   "official_name": "Rashida Tlaib",
+   "chamber": "House",
+   "official_site": "https://tlaib.house.gov",
+   "official_social": {
+    "twitter": "RepRashida",
+    "facebook": "RepRashida",
+    "instagram": "reprashida",
+    "youtube": "UCl5GK07sD5TZIhKcsDNSExA"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 95,
+    "welfare": 95,
+    "liberty": 20,
+    "security": 10,
+    "immigration": 5,
+    "foreign": 20,
+    "energy": 95,
+    "tech": 70,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Tax the wealthy, Green New Deal, abortion rights with universal background checks (liberty), police accountability, opposes border wall and Middle East interventions, opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/MI/Rashida_Tlaib.htm",
+    "https://en.wikipedia.org/wiki/Rashida_Tlaib"
+   ],
+   "photo": {
+    "file": "File:Tlaib Rashida 119th Congress (3x4 cropped).jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MI-12/james-hooper",
+  "name": "James Hooper",
+  "party": "Republican",
+  "race": "MI-12",
+  "race_label": "Michigan · US House MI-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 85,
+    "security": null,
+    "immigration": 80,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Tax and regulation cuts; pro-life from conception and non-negotiable Second Amendment (liberty); border security; strong military; abolish Education Department, parental rights.",
+   "sources": [
+    "https://jameshooperforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MI-13/donavan-mckinney",
+  "name": "Donavan McKinney",
+  "party": "Democratic",
+  "race": "MI-13",
+  "race_label": "Michigan · US House MI-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 95,
+    "liberty": 10,
+    "security": 15,
+    "immigration": 5,
+    "foreign": 25,
+    "energy": 95,
+    "tech": null,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Platform: tax billionaires, universal basic income, Medicare for All, codify abortion, end cash bail and qualified immunity, citizenship pathways, Green New Deal, tuition-free college.",
+   "sources": [
+    "https://www.donavanforcongress.com/priorities",
+    "https://en.wikipedia.org/wiki/Donavan_McKinney"
+   ],
+   "photo": {
+    "file": "File:State Rep Donavan McKinney Swearing In 12.12.22 (52565631658) (cropped).jpg",
+    "license": "Public domain",
+    "author": "City of Detroit"
+   }
+  }
+ },
+ {
+  "id": "MI-13/t-p-nykoriak",
+  "name": "T.P. Nykoriak",
+  "party": "Republican",
+  "race": "MI-13",
+  "race_label": "Michigan · US House MI-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found for this perennial candidate.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MN-1/brad-finstad",
+  "name": "Brad Finstad",
+  "party": "Republican",
+  "race": "MN-1",
+  "race_label": "Minnesota · US House MN-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000475",
+   "official_name": "Brad Finstad",
+   "chamber": "House",
+   "official_site": "https://finstad.house.gov",
+   "official_social": {
+    "twitter": "RepFinstad",
+    "facebook": "RepFinstad",
+    "instagram": "repfinstad",
+    "youtube": "@repfinstad"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 70,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for One Big Beautiful Bill Act, backed Israel aid and 2026 Iran strikes, opposed war powers limits, all-of-the-above energy including oil and gas.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brad_Finstad",
+    "https://finstad.house.gov/issues/energy/"
+   ],
+   "photo": {
+    "file": "File:Rep. Brad Finstad (R-MN), Official Portrait, 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Brendan O'Hara)"
+   }
+  }
+ },
+ {
+  "id": "MN-1/jake-johnson",
+  "name": "Jake Johnson",
+  "party": "Democratic",
+  "race": "MN-1",
+  "race_label": "Minnesota · US House MN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 60,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 75,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Raise corporate taxes, fight monopolies, oppose tariffs, balanced budget amendment, oppose Medicaid and SNAP cuts, data center moratorium, right to repair.",
+   "sources": [
+    "https://www.jakejohnsonforcongress.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MN-2/matt-little",
+  "name": "Matt Little",
+  "party": "Democratic",
+  "race": "MN-2",
+  "race_label": "Minnesota · US House MN-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 15,
+    "security": 45,
+    "immigration": 10,
+    "foreign": 40,
+    "energy": null,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wealth tax, Medicare for All, replace ICE, end military aid to Israel, Equality Act and abortion rights drove liberty, opposes data center expansion, backs police with accountability.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Matt_Little",
+    "https://littleforcongress.com/key-issues/"
+   ],
+   "photo": {
+    "file": "File:2026Little.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Travellers & Tinkers"
+   }
+  }
+ },
+ {
+  "id": "MN-2/eric-pratt",
+  "name": "Eric Pratt",
+  "party": "Republican",
+  "race": "MN-2",
+  "race_label": "Minnesota · US House MN-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": 65,
+    "immigration": 65,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign stresses backing law enforcement, consistent law enforcement up to the border, and fighting fraud; few other stated positions.",
+   "sources": [
+    "https://www.ericprattmn.com/"
+   ],
+   "photo": {
+    "file": "File:Minnesota State Senator Eric Pratt.jpg",
+    "license": "CC BY 2.0",
+    "author": "Minnesota Senate Republican Caucus"
+   }
+  }
+ },
+ {
+  "id": "MN-3/kelly-morrison",
+  "name": "Kelly Morrison",
+  "party": "Democratic",
+  "race": "MN-3",
+  "race_label": "Minnesota · US House MN-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001234",
+   "official_name": "Kelly Morrison",
+   "chamber": "House",
+   "official_site": "https://morrison.house.gov",
+   "official_social": {
+    "twitter": "kellymorrisonmn",
+    "facebook": "repkellymorrison",
+    "instagram": "kellymorrisonmn"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Former OB-GYN who passed pro-choice legislation in Minnesota; abortion rights drove liberty score.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kelly_Morrison"
+   ],
+   "photo": {
+    "file": "File:Representative Kelly Morrison Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Ike Hayman)"
+   }
+  }
+ },
+ {
+  "id": "MN-3/tyler-bass",
+  "name": "Tyler Bass",
+  "party": "Republican",
+  "race": "MN-3",
+  "race_label": "Minnesota · US House MN-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 15,
+    "liberty": 25,
+    "security": null,
+    "immigration": 95,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Deport every illegal immigrant, oppose sanctuary policies and H-1B abuse, oppose gun restrictions (drove liberty), lower property taxes, risk-based private health coverage.",
+   "sources": [
+    "https://bassforcongress.com/"
+   ],
+   "photo": null
+  }
+ }
+]

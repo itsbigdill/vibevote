@@ -1,0 +1,38 @@
+{
+  "name": "vibevote",
+  "version": "1.0.0",
+  "description": "AI political interview that measures where you stand and matches you with 2026 candidates",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node dev/local.mjs",
+    "build": "python3 build.py",
+    "typecheck": "wrangler types && tsc --noEmit -p tsconfig.json",
+    "test": "vitest run",
+    "check": "npm run typecheck && npm test",
+    "synthetic": "node scripts/synthetic.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "deploy:staging": "npm run check && npm run build && wrangler deploy --env staging",
+    "dryrun:production": "npm run check && npm run build && wrangler deploy --env production --dry-run",
+    "release:upload": "npm run check && npm run build && wrangler versions upload --env production",
+    "release:canary": "wrangler versions deploy --env production",
+    "release:rollback": "wrangler rollback --env production"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0-only",
+  "private": "true",
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.126.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.1",
+    "wrangler": "^4.132.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsbigdill/vibevote"
+  }
+}

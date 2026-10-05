@@ -1,0 +1,377 @@
+[
+ {
+  "id": "LA-4/mike-johnson",
+  "name": "Mike Johnson",
+  "party": "Republican",
+  "race": "LA-4",
+  "race_label": "Louisiana · US House LA-4",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000299",
+   "official_name": "Mike Johnson",
+   "chamber": "House",
+   "official_site": "https://mikejohnson.house.gov",
+   "official_social": {
+    "facebook": "RepMikeJohnson",
+    "twitter": "RepMikeJohnson",
+    "instagram": "RepMikeJohnson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 90,
+    "security": 70,
+    "immigration": 80,
+    "foreign": 75,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": 95
+   },
+   "basis": "Tax cuts, opposed $15 wage, ACA repeal, abortion bans, anti-LGBTQ bills, opposed FISA warrants, asylum limits, Ukraine and Israel aid, backs school prayer; abortion drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Johnson"
+   ],
+   "photo": {
+    "file": "File:Speaker Mike Johnson Official Portrait (cropped)(b).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "LA-4/mike-nichols",
+  "name": "Mike Nichols",
+  "party": "Republican",
+  "race": "LA-4",
+  "race_label": "Louisiana · US House LA-4",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-4/conrad-cable",
+  "name": "Conrad Cable",
+  "party": "Democratic",
+  "race": "LA-4",
+  "race_label": "Louisiana · US House LA-4",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-4/matt-gromlich",
+  "name": "Matt Gromlich",
+  "party": "Democratic",
+  "race": "LA-4",
+  "race_label": "Louisiana · US House LA-4",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-5/michael-echols",
+  "name": "Michael Echols",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Michael_Echols"
+   ],
+   "photo": {
+    "file": "File:Michael Echols.jpg",
+    "license": "CC BY 4.0",
+    "author": "Timothy Holdiness"
+   }
+  }
+ },
+ {
+  "id": "LA-5/stewart-cathey-jr",
+  "name": "Stewart Cathey Jr.",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stewart_Cathey_Jr."
+   ],
+   "photo": {
+    "file": "File:Stewart Cathey Jr.jpg",
+    "license": "CC BY 4.0",
+    "author": "Timothy Holdiness"
+   }
+  }
+ },
+ {
+  "id": "LA-5/gabe-firment",
+  "name": "Gabe Firment",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gabe_Firment"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-5/pat-moore",
+  "name": "Pat Moore",
+  "party": "Democratic",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 60,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "As a state representative, voted to advance a bill removing obscenity-law protections for teachers and librarians; speech drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pat_Moore_(Louisiana_politician)"
+   ],
+   "photo": {
+    "file": "File:Pat Moore.jpg",
+    "license": "CC BY 4.0",
+    "author": "Timothy Holdiness"
+   }
+  }
+ },
+ {
+  "id": "LA-5/misti-cordell",
+  "name": "Misti Cordell",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-5/austin-magee",
+  "name": "Austin Magee",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-5/oscar-dantzler",
+  "name": "Oscar Dantzler",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-5/dan-mckay",
+  "name": "Dan McKay",
+  "party": "Democratic",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ }
+]

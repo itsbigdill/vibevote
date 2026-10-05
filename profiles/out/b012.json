@@ -1,0 +1,440 @@
+[
+ {
+  "id": "SD-SEN/mike-rounds",
+  "name": "Mike Rounds",
+  "party": "Republican",
+  "current_role": "U.S. Senator from South Dakota",
+  "bio": "Mike Rounds has represented South Dakota in the U.S. Senate since 2015 and serves on the Armed Services Committee. He was Governor of South Dakota from 2003 to 2011 and a state senator from 1991 to 2001. Born in Huron and raised in Pierre, he was a partner in an insurance and real estate firm.",
+  "website": "https://roundsforsenate.com",
+  "social": {
+   "x": "https://x.com/RoundsforSenate",
+   "facebook": "https://www.facebook.com/mikerounds",
+   "youtube": "https://www.youtube.com/@RoundsforSenateSD",
+   "instagram": "https://www.instagram.com/senatorrounds"
+  },
+  "platform": [
+   {"topic": "Education", "point": "Supports eliminating the federal Department of Education and returning decisions to states and local communities.", "source": "https://roundsforsenate.com/issues/"},
+   {"topic": "Energy", "point": "Backs an all-of-the-above domestic energy strategy with fewer federal regulations.", "source": "https://roundsforsenate.com/issues/"},
+   {"topic": "Border security", "point": "Supports border wall construction, surveillance technology and more border personnel.", "source": "https://roundsforsenate.com/issues/"},
+   {"topic": "Social Security and Medicare", "point": "Pledges reforms to keep both programs solvent without cutting benefits.", "source": "https://roundsforsenate.com/issues/"},
+   {"topic": "National security", "point": "Works on the Armed Services Committee to preserve U.S. military superiority.", "source": "https://roundsforsenate.com/issues/"},
+   {"topic": "Abortion", "point": "Opposes abortion except when the mother's life is at risk, citing the trigger law he signed as governor.", "source": "https://roundsforsenate.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Campaigns on lower taxes and reduced federal regulation.", "source": "https://roundsforsenate.com/issues/"},
+   "welfare": {"score": 40, "evidence": "Pledges to protect Social Security and Medicare benefits while reforming them for solvency.", "source": "https://roundsforsenate.com/issues/"},
+   "liberty": {"score": 50, "evidence": "Opposes abortion with a life-of-the-mother exception and defends gun rights.", "source": "https://roundsforsenate.com/issues/"},
+   "security": {"score": 70, "evidence": "Voted for the 2024 reauthorization of FISA Section 702 surveillance authority.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm"},
+   "immigration": {"score": 80, "evidence": "Supports building a border wall and adding surveillance technology and personnel at the border.", "source": "https://roundsforsenate.com/issues/"},
+   "foreign": {"score": 80, "evidence": "Voted for the 2024 foreign aid package for Ukraine, Israel and Taiwan.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 20, "evidence": "Backs all-of-the-above energy and fewer regulations; urged withdrawal from the Paris Agreement in 2017.", "source": "https://en.wikipedia.org/wiki/Mike_Rounds"},
+   "tech": {"score": 55, "evidence": "Co-chairs the Senate AI Caucus and helped write a bipartisan AI policy roadmap; voted for the Kids Online Safety Act.", "source": "https://en.wikipedia.org/wiki/Mike_Rounds"},
+   "education": {"score": 20, "evidence": "Supports abolishing the U.S. Department of Education in favor of local control.", "source": "https://roundsforsenate.com/issues/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "SD-SEN/brian-bengs",
+  "name": "Brian Bengs",
+  "party": "Independent",
+  "current_role": "Veteran and former political science professor",
+  "bio": "Brian Bengs is a veteran of the U.S. Navy and Air Force who taught political science at Northern State University in Aberdeen. He was the Democratic nominee for U.S. Senate in South Dakota in 2022. In 2026 he is running as an independent.",
+  "website": "https://bengsforsouthdakota.com",
+  "social": {
+   "x": "https://x.com/BrianBengs",
+   "facebook": "https://www.facebook.com/BBengs1970/",
+   "instagram": "https://www.instagram.com/brianbengs",
+   "tiktok": "https://www.tiktok.com/@brianbengsforsd"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Raise taxes on the ultra-wealthy toward 1960s levels while lowering taxes for workers and small businesses.", "source": "https://bengsforsouthdakota.com/policy-positions/"},
+   {"topic": "Health care", "point": "Overhaul the health care system in stages to lower costs and widen access.", "source": "https://bengsforsouthdakota.com/policy-positions/"},
+   {"topic": "Ethics", "point": "Ban stock trading by members of Congress, adopt a Supreme Court ethics code and limit senators to two terms.", "source": "https://bengsforsouthdakota.com/policy-positions/"},
+   {"topic": "Immigration", "point": "Pair strong border security with expanded legal immigration to support economic growth.", "source": "https://bengsforsouthdakota.com/policy-positions/"},
+   {"topic": "Agriculture", "point": "Enforce antitrust law against corporate concentration in agriculture.", "source": "https://bengsforsouthdakota.com/policy-positions/"},
+   {"topic": "Right to repair", "point": "Guarantee consumers the right to repair products they own.", "source": "https://bengsforsouthdakota.com/policy-positions/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Wants the ultra-wealthy taxed at 1960s-era levels and antitrust enforcement in agriculture.", "source": "https://bengsforsouthdakota.com/policy-positions/"},
+   "welfare": null,
+   "liberty": {"score": 25, "evidence": "Supports abortion access until viability, gun rights with reasonable safety measures, and LGBTQ acceptance.", "source": "https://bengsforsouthdakota.com/policy-positions/"},
+   "security": null,
+   "immigration": {"score": 40, "evidence": "Calls for strong border security together with more legal immigration.", "source": "https://bengsforsouthdakota.com/policy-positions/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons file claims a U.S. Air Force public-domain licence but was taken from his campaign website with an unknown author, so it was not used."
+ },
+ {
+  "id": "SD-GOV/larry-rhoden",
+  "name": "Larry Rhoden",
+  "party": "Republican",
+  "current_role": "Governor of South Dakota",
+  "bio": "Larry Rhoden became Governor of South Dakota in January 2025 after Kristi Noem resigned, having served as lieutenant governor since 2019. He previously served in the South Dakota House and Senate for District 29. A rancher from Union Center, he runs a cow-calf operation and a welding business.",
+  "website": "https://governorlarryrhoden.com",
+  "social": {
+   "x": "https://x.com/larryrhodensd",
+   "facebook": "https://www.facebook.com/RhodenforGov"
+  },
+  "platform": [
+   {"topic": "Property taxes", "point": "Points to a property tax cut he calls the largest in state history as a core accomplishment.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   {"topic": "Immigration", "point": "Banned sanctuary cities and signed cooperation agreements with ICE.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   {"topic": "Public safety", "point": "Redesigned a new prison project to lower costs and launched faith-based and tribal rehabilitation programs.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   {"topic": "Education", "point": "Promotes phonics-based reading instruction and replacing Common Core standards.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   {"topic": "Rural health", "point": "Secured federal funding for health services in remote areas.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   {"topic": "Foreign land ownership", "point": "Restricted purchases of South Dakota agricultural land by China.", "source": "https://governorlarryrhoden.com/accomplishments"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Cut property taxes and has pledged never to raise taxes.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   "welfare": {"score": 25, "evidence": "Opposed the Affordable Care Act as a legislator.", "source": "https://en.wikipedia.org/wiki/Larry_Rhoden"},
+   "liberty": {"score": 50, "evidence": "Abortion: moved to block abortion pills from entering the state; guns: made South Dakota the first state to drop suppressor regulations.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   "security": {"score": 80, "evidence": "Campaigns on crime reduction and backed legislation allowing armed school volunteers.", "source": "https://en.wikipedia.org/wiki/Larry_Rhoden"},
+   "immigration": {"score": 85, "evidence": "Banned sanctuary cities and signed ICE cooperation agreements.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 30, "evidence": "Replaced Common Core and supports school choice.", "source": "https://governorlarryrhoden.com/accomplishments"},
+   "faith": {"score": 65, "evidence": "Enacted worship protection legislation and launched faith-based rehabilitation programs.", "source": "https://governorlarryrhoden.com/accomplishments"}
+  },
+  "photo": {"file": "File:Larry Rhoden 2025 (cropped).jpg", "license": "CC BY 2.0", "author": "U.S. Embassy Jerusalem"},
+  "campaign_photo": "https://governorlarryrhoden.com/wp-content/uploads/2025/04/larry-rhoden-cowboy-hat.png",
+  "notes": ""
+ },
+ {
+  "id": "SD-GOV/dan-ahlers",
+  "name": "Dan Ahlers",
+  "party": "Democratic",
+  "current_role": "Executive Director of the South Dakota Democratic Party",
+  "bio": "Dan Ahlers is a businessman from Dell Rapids who served in the South Dakota House (2007-2009, 2017-2019) and Senate (2009-2011). He founded a video rental business, owned a coffee house and led the Dell Rapids Chamber of Commerce. He was the Democratic nominee for U.S. Senate in 2020 and has led the state Democratic Party since 2023.",
+  "website": "https://danahlers.com",
+  "social": {
+   "x": "https://x.com/ahlers_dan",
+   "facebook": "https://www.facebook.com/DanAhlersforSD",
+   "instagram": "https://www.instagram.com/danahlersforsd/"
+  },
+  "platform": [
+   {"topic": "Rural development", "point": "Invest in Main Street businesses, modern infrastructure and family farms.", "source": "https://danahlers.com/about-3"},
+   {"topic": "Education", "point": "Recruit teachers, strengthen rural schools and expand early childhood programs.", "source": "https://danahlers.com/about-3"},
+   {"topic": "Housing", "point": "Increase affordable housing in rural and growing communities.", "source": "https://danahlers.com/about-3"},
+   {"topic": "Health care", "point": "Keep rural hospitals open and expand mental health services.", "source": "https://danahlers.com/about-3"},
+   {"topic": "Wages", "point": "Push for wages that let working South Dakotans get ahead.", "source": "https://danahlers.com/about-3"},
+   {"topic": "Transparency", "point": "Make state government more open and accountable.", "source": "https://danahlers.com/about-3"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Pledges to fight for higher wages and invest public funds in rural businesses and infrastructure.", "source": "https://danahlers.com/about-3"},
+   "welfare": {"score": 65, "evidence": "Proposes expanding mental health care and early childhood programs and keeping rural hospitals open.", "source": "https://danahlers.com/about-3"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 75, "evidence": "Prioritizes teacher recruitment and stronger rural public schools.", "source": "https://danahlers.com/about-3"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TN-SEN/marquita-bradshaw",
+  "name": "Marquita Bradshaw",
+  "party": "Democratic",
+  "current_role": "Environmental justice organizer",
+  "bio": "Marquita Bradshaw is an environmental justice activist from Memphis who has chaired the environmental justice committee of the Sierra Club's Tennessee chapter. She was the 2020 Democratic nominee for U.S. Senate, becoming the first Black woman nominated statewide by a major party in Tennessee, and ran again in 2024. She won the 2026 Democratic Senate primary in August.",
+  "website": "https://www.marquitabradshaw.com",
+  "social": {
+   "x": "https://x.com/BradshawforTN",
+   "facebook": "https://www.facebook.com/BradshawforTN",
+   "instagram": "https://www.instagram.com/bradshawforTN"
+  },
+  "platform": [
+   {"topic": "Education", "point": "Fund public schools well and pay teachers competitively.", "source": "https://www.marquitabradshaw.com/priorities"},
+   {"topic": "Health care", "point": "Treat health care as a right, affordable regardless of income, location or job.", "source": "https://www.marquitabradshaw.com/priorities"},
+   {"topic": "Housing", "point": "Invest in safe, stable and affordable housing for all Tennesseans.", "source": "https://www.marquitabradshaw.com/priorities"},
+   {"topic": "Voting rights", "point": "Protect voting rights and end gerrymandering through independent redistricting.", "source": "https://www.marquitabradshaw.com/priorities"},
+   {"topic": "Broadband", "point": "Provide universal affordable high-speed internet, especially in underserved areas.", "source": "https://www.marquitabradshaw.com/priorities"},
+   {"topic": "Environment", "point": "Advance clean energy and environmental protections for vulnerable communities.", "source": "https://www.marquitabradshaw.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Calls for fair wages, more good-paying jobs and an economy that does not concentrate wealth.", "source": "https://www.marquitabradshaw.com/priorities"},
+   "welfare": {"score": 80, "evidence": "Supports Medicare for All and describes health care as a right.", "source": "https://en.wikipedia.org/wiki/Marquita_Bradshaw"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 90, "evidence": "Endorses the Green New Deal and prioritizes clean energy and climate justice.", "source": "https://en.wikipedia.org/wiki/Marquita_Bradshaw"},
+   "tech": null,
+   "education": {"score": 75, "evidence": "Calls for well-funded public schools and competitive teacher pay.", "source": "https://www.marquitabradshaw.com/priorities"},
+   "faith": null
+  },
+  "photo": {"file": "File:Marquita Bradshaw at Morristown (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Walker Kinsler"},
+  "campaign_photo": "https://run.imgix.net/a2c2e1e5-4319-4e0f-b2d8-d1dac82206c1/b821c7a0-5d7b-4e22-b44c-82b622e32ecd/52f4e588-979f-4f86-8927-9b3ac01c3cac.webp",
+  "notes": "Wikipedia also lists support for universal background checks and DACA, but a liberty or immigration score was not added from that summary alone."
+ },
+ {
+  "id": "TN-SEN/bill-hagerty",
+  "name": "Bill Hagerty",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Tennessee",
+  "bio": "Bill Hagerty has represented Tennessee in the U.S. Senate since 2021 and sits on the Banking, Foreign Relations, Appropriations and Rules committees. He was U.S. Ambassador to Japan from 2017 to 2019 and Tennessee's economic development commissioner from 2011 to 2014. A Gallatin native, he previously worked in consulting and private equity.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/SenatorHagerty",
+   "facebook": "https://www.facebook.com/SenatorBillHagerty",
+   "instagram": "https://www.instagram.com/senatorhagerty",
+   "youtube": "https://www.youtube.com/channel/UCqLlLx05ScUwxVHvevyaDFg"
+  },
+  "platform": [
+   {"topic": "Digital assets", "point": "Wrote the GENIUS Act, the 2025 federal law setting rules for stablecoins.", "source": "https://en.wikipedia.org/wiki/Bill_Hagerty"},
+   {"topic": "Federal budget", "point": "Advocates a balanced budget amendment to the Constitution.", "source": "https://en.wikipedia.org/wiki/Bill_Hagerty"},
+   {"topic": "Wages", "point": "Opposes raising the federal minimum wage.", "source": "https://en.wikipedia.org/wiki/Bill_Hagerty"},
+   {"topic": "Immigration", "point": "Voted for the Laken Riley Act requiring detention of migrants charged with certain crimes.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.htm"},
+   {"topic": "Economic development", "point": "Emphasizes job creation and foreign investment in Tennessee, drawing on his work as commissioner and ambassador.", "source": "https://www.hagerty.senate.gov/about/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes a federal minimum wage increase and supports a balanced budget amendment.", "source": "https://en.wikipedia.org/wiki/Bill_Hagerty"},
+   "welfare": {"score": 15, "evidence": "Opposes the Affordable Care Act and voted for the 2025 budget reconciliation law.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"},
+   "liberty": {"score": 60, "evidence": "Voted against the Bipartisan Safer Communities Act (guns) and the Respect for Marriage Act (same-sex marriage).", "source": "https://en.wikipedia.org/wiki/Bill_Hagerty"},
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Voted for the Laken Riley Act expanding immigration detention.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00007.htm"},
+   "foreign": {"score": 40, "evidence": "Voted against the 2024 foreign aid package for Ukraine, Israel and Taiwan while voicing strong support for Israel.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 10, "evidence": "Supports fossil fuel investment, opposes renewable energy standards and voted against the Inflation Reduction Act.", "source": "https://en.wikipedia.org/wiki/Bill_Hagerty"},
+   "tech": {"score": 60, "evidence": "Voted for the Kids Online Safety Act and authored stablecoin regulation.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00199.htm"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was found; billhagerty.com belongs to an unrelated person. Security and education scores were cleared because they rested only on unverified earlier research."
+ },
+ {
+  "id": "TN-GOV/marsha-blackburn",
+  "name": "Marsha Blackburn",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Tennessee",
+  "bio": "Marsha Blackburn has been a U.S. Senator from Tennessee since 2019, after representing the 7th congressional district from 2003 to 2019 and serving in the Tennessee Senate from 1999 to 2003. Born in Laurel, Mississippi, she founded a marketing firm and led the Tennessee Film, Entertainment and Music Commission. She is the Republican nominee for governor in 2026.",
+  "website": "https://marshablackburn.com",
+  "social": {
+   "x": "https://x.com/MarshaBlackburn",
+   "facebook": "https://www.facebook.com/marshablackburn",
+   "instagram": "https://www.instagram.com/marshablackburn",
+   "youtube": "https://www.youtube.com/user/RepMarshaBlackburn"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Cut taxes and wasteful government spending to strengthen Tennessee's economy.", "source": "https://marshablackburn.com/issues/"},
+   {"topic": "Immigration", "point": "Crack down on illegal immigration and support President Trump's America First agenda.", "source": "https://marshablackburn.com/issues/"},
+   {"topic": "Education", "point": "Strengthen parental rights, oppose curriculum she calls anti-American, and expand vocational training.", "source": "https://marshablackburn.com/issues/"},
+   {"topic": "China", "point": "Confront the Chinese Communist Party.", "source": "https://marshablackburn.com/issues/"},
+   {"topic": "Crypto", "point": "Promote cryptocurrency and Bitcoin in Tennessee.", "source": "https://marshablackburn.com/issues/"},
+   {"topic": "Abortion and guns", "point": "Oppose abortion and protect Second Amendment rights.", "source": "https://marshablackburn.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Campaigns on tax cuts and reduced government spending.", "source": "https://marshablackburn.com/issues/"},
+   "welfare": {"score": 15, "evidence": "Opposed universal pre-K proposals as constitutionally unsound.", "source": "https://en.wikipedia.org/wiki/Marsha_Blackburn"},
+   "liberty": {"score": 70, "evidence": "Opposes abortion and same-sex marriage, supports gun rights, and opposes cannabis legalization.", "source": "https://en.wikipedia.org/wiki/Marsha_Blackburn"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Campaigns on stopping illegal immigration and backed the border wall and 2017 travel ban.", "source": "https://en.wikipedia.org/wiki/Marsha_Blackburn"},
+   "foreign": {"score": 45, "evidence": "Voted against the 2024 Ukraine aid package while taking a hard line on China.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 10, "evidence": "Rejects the scientific consensus on climate change and opposes climate regulation.", "source": "https://en.wikipedia.org/wiki/Marsha_Blackburn"},
+   "tech": {"score": 70, "evidence": "Co-authored the Kids Online Safety Act and voted to strip a federal moratorium on state AI laws.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.htm"},
+   "education": {"score": 10, "evidence": "Backs school choice and parental rights in education.", "source": "https://marshablackburn.com/issues/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TN-GOV/jerri-green",
+  "name": "Jerri Green",
+  "party": "Democratic",
+  "current_role": "Shelby County Chief Public Defender",
+  "bio": "Jerri Green is a lawyer from Memphis who serves District 2 on the Memphis City Council and was appointed Shelby County's Chief Public Defender. She previously was a juvenile public defender in Nashville, led the Community Legal Center in Memphis, and was a senior adviser to Shelby County Mayor Lee Harris. She holds degrees from the University of Tennessee and Georgetown Law.",
+  "website": "https://greenforgovernor.com",
+  "social": {
+   "x": "https://x.com/Jerri_M_Green",
+   "facebook": "https://www.facebook.com/JerriGreenForTN/",
+   "instagram": "https://www.instagram.com/jerrigreen4tn/",
+   "tiktok": "https://www.tiktok.com/@jerrigreen4tn"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "End the grocery tax, expand paid family leave and invest in affordable housing.", "source": "https://greenforgovernor.com/policy/"},
+   {"topic": "Education", "point": "Fully fund public K-12 schools and raise teacher pay.", "source": "https://greenforgovernor.com/policy/"},
+   {"topic": "Health care", "point": "Expand Medicaid and lower prescription drug costs.", "source": "https://greenforgovernor.com/policy/"},
+   {"topic": "Reproductive and LGBTQ rights", "point": "Repeal Tennessee's abortion ban and oppose anti-LGBTQ legislation.", "source": "https://greenforgovernor.com/policy/"},
+   {"topic": "Gun safety", "point": "Require background checks, adopt red flag laws and provide free gun locks.", "source": "https://greenforgovernor.com/policy/"},
+   {"topic": "AI", "point": "Teach AI literacy, regulate corporate job replacement and protect water and power resources.", "source": "https://greenforgovernor.com/policy/"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Proposes ending the grocery tax, paid family leave and regulating AI-driven job replacement.", "source": "https://greenforgovernor.com/policy/"},
+   "welfare": {"score": 85, "evidence": "Supports Medicaid expansion and affordable childcare.", "source": "https://greenforgovernor.com/policy/"},
+   "liberty": {"score": 20, "evidence": "Wants to repeal the abortion ban, legalize marijuana, oppose anti-LGBTQ bills, and adopt background checks and red flag laws.", "source": "https://greenforgovernor.com/policy/"},
+   "security": null,
+   "immigration": {"score": 10, "evidence": "Calls for ending state cooperation with ICE.", "source": "https://greenforgovernor.com/policy/"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Pledges to enforce clean air and water standards and invest in renewable energy.", "source": "https://greenforgovernor.com/policy/"},
+   "tech": {"score": 90, "evidence": "Proposes regulating AI job replacement and limiting data center strain on water and power.", "source": "https://greenforgovernor.com/policy/"},
+   "education": {"score": 95, "evidence": "Calls for fully funding public schools and opposes vouchers.", "source": "https://greenforgovernor.com/policy/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Jerri Green (cropped).3 (cropped).jpg", "license": "CC BY 4.0", "author": "Zach Kinslow"},
+  "campaign_photo": "https://greenforgovernor.com/wp-content/uploads/2026/03/Jerri-Greene-2-768x432.jpg",
+  "notes": "Her campaign biography mentions both a Memphis City Council seat and a January appointment as Chief Public Defender, so it is unclear which role she currently holds."
+ },
+ {
+  "id": "TX-SEN/ken-paxton",
+  "name": "Ken Paxton",
+  "party": "Republican",
+  "current_role": "Attorney General of Texas",
+  "bio": "Ken Paxton has been Attorney General of Texas since 2015, after serving in the Texas House (2003-2013) and Texas Senate (2013-2015). Before entering politics he was an attorney in private practice and in-house counsel at J.C. Penney. He won the 2026 Republican Senate nomination by defeating incumbent John Cornyn in a runoff.",
+  "website": "https://www.kenpaxton.com",
+  "social": {
+   "x": "https://x.com/kenpaxtontx",
+   "facebook": "https://www.facebook.com/kenpaxtontx/",
+   "youtube": "https://www.youtube.com/user/KenPaxtonTX"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Supports Trump's border wall and has repeatedly sued to block federal immigration programs such as DAPA and DACA.", "source": "https://en.wikipedia.org/wiki/Ken_Paxton"},
+   {"topic": "Election integrity", "point": "Has made voter fraud prosecutions a priority and opposed expanding absentee voting.", "source": "https://en.wikipedia.org/wiki/Ken_Paxton"},
+   {"topic": "Trump agenda", "point": "Runs as a Trump-endorsed conservative against Democrat James Talarico.", "source": "https://www.kenpaxton.com/"},
+   {"topic": "Abortion", "point": "Has defended and enforced Texas abortion restrictions as attorney general.", "source": "https://en.wikipedia.org/wiki/Ken_Paxton"},
+   {"topic": "Big Tech", "point": "Brought antitrust litigation against Google as attorney general.", "source": "https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2023)"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 15, "evidence": "Sued Harris County to block its guaranteed income program.", "source": "https://en.wikipedia.org/wiki/Ken_Paxton"},
+   "liberty": {"score": 75, "evidence": "Defended abortion bans and sued over cannabis decriminalization and gender-affirming care.", "source": "https://en.wikipedia.org/wiki/Ken_Paxton"},
+   "security": null,
+   "immigration": {"score": 95, "evidence": "Backed using eminent domain for the border wall and challenged DAPA, DACA and sanctuary policies.", "source": "https://en.wikipedia.org/wiki/Ken_Paxton"},
+   "foreign": null,
+   "energy": {"score": 5, "evidence": "Challenged the Clean Power Plan and other federal environmental regulations.", "source": "https://en.wikipedia.org/wiki/Ken_Paxton"},
+   "tech": {"score": 70, "evidence": "Led an antitrust lawsuit against Google over its advertising business.", "source": "https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2023)"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:K Paxton.jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"},
+  "campaign_photo": "",
+  "notes": "His campaign website's issues section contained placeholder text, so the platform draws on his record as attorney general."
+ },
+ {
+  "id": "TX-SEN/james-talarico",
+  "name": "James Talarico",
+  "party": "Democratic",
+  "current_role": "Texas State Representative for District 50",
+  "bio": "James Talarico has served in the Texas House since 2018, first for District 52 and now District 50. A Round Rock native, he taught middle school English through Teach For America, led an education nonprofit and studied at Austin Presbyterian Theological Seminary. He won the 2026 Democratic Senate nomination over U.S. Representative Jasmine Crockett.",
+  "website": "https://jamestalarico.com",
+  "social": {
+   "x": "https://x.com/jamestalarico",
+   "facebook": "https://www.facebook.com/JamesTalaricoTX",
+   "instagram": "https://www.instagram.com/jamestalarico",
+   "tiktok": "https://www.tiktok.com/@jamestalarico",
+   "youtube": "https://www.youtube.com/@JamesTalaricoTX"
+  },
+  "platform": [
+   {"topic": "Reproductive rights", "point": "Write Roe v. Wade protections into federal law and safeguard access to IVF and contraception.", "source": "https://jamestalarico.com/issue/freedom-family-faith/"},
+   {"topic": "Cannabis", "point": "Legalize regulated adult cannabis and direct revenue to early childhood education.", "source": "https://jamestalarico.com/issue/freedom-family-faith/"},
+   {"topic": "Immigration", "point": "Combine border security with legal status for long-term undocumented residents and Dreamers and more immigration judges.", "source": "https://jamestalarico.com/issue/immigration-border-security/"},
+   {"topic": "Foreign policy", "point": "Deepen cooperation with NATO and the EU and restore State Department and USAID funding.", "source": "https://jamestalarico.com/issue/foreign-policy/"},
+   {"topic": "Church and state", "point": "Oppose mandated Ten Commandments displays and Bible curriculum in public schools.", "source": "https://jamestalarico.com/issue/freedom-family-faith/"},
+   {"topic": "Tech", "point": "Limit algorithmic targeting of minors and require transparency for automated decisions affecting workers.", "source": "https://jamestalarico.com/issue/social-media-artificial-intelligence-tech/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Proposes higher income and capital gains taxes on billionaires, a higher corporate rate and tax cuts for workers.", "source": "https://jamestalarico.com/issue/taxes-cost-of-living/"},
+   "welfare": {"score": 75, "evidence": "Would let Americans of any age join Medicare and wants to protect and expand ACA coverage.", "source": "https://jamestalarico.com/issue/health-care/"},
+   "liberty": {"score": 20, "evidence": "Abortion: would codify Roe; drugs: would legalize regulated adult cannabis; LGBTQ: backs protecting same-sex marriage.", "source": "https://jamestalarico.com/issue/freedom-family-faith/"},
+   "security": {"score": 35, "evidence": "Wants ICE focused on cartels and traffickers and opposes racial profiling measures.", "source": "https://jamestalarico.com/issue/immigration-border-security/"},
+   "immigration": {"score": 30, "evidence": "Supports legalization for long-term undocumented residents and Dreamers alongside border security technology.", "source": "https://jamestalarico.com/issue/immigration-border-security/"},
+   "foreign": {"score": 65, "evidence": "Backs more cooperation with NATO and support for Ukraine, while opposing offensive arms sales to Israel's current government.", "source": "https://jamestalarico.com/issue/foreign-policy/"},
+   "energy": {"score": 60, "evidence": "Backs renewable tax credits and authored a state climate action bill, while also supporting oil and gas jobs and pipeline investment.", "source": "https://jamestalarico.com/issue/energy-environment/"},
+   "tech": {"score": 85, "evidence": "Would restrict algorithmic targeting of minors, require platform impact assessments and limit tech companies' legal immunity.", "source": "https://jamestalarico.com/issue/social-media-artificial-intelligence-tech/"},
+   "education": {"score": 90, "evidence": "Opposes private school vouchers and led legislative efforts against them.", "source": "https://jamestalarico.com/issue/public-education/"},
+   "faith": {"score": 15, "evidence": "Opposes Ten Commandments displays, school chaplain mandates and Bible curriculum in public schools.", "source": "https://jamestalarico.com/issue/freedom-family-faith/"}
+  },
+  "photo": {"file": "File:James Talarico Press Conference (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Antonioaesparza"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-GOV/greg-abbott",
+  "name": "Greg Abbott",
+  "party": "Republican",
+  "current_role": "Governor of Texas",
+  "bio": "Greg Abbott has been Governor of Texas since 2015. He was previously Texas Attorney General (2002-2015), a justice of the Texas Supreme Court (1996-2001) and a Houston district judge. Born in Wichita Falls, he practiced law in Houston before joining the bench.",
+  "website": "https://www.gregabbott.com",
+  "social": {
+   "x": "https://x.com/gregabbott_tx",
+   "facebook": "https://www.facebook.com/TexansForAbbott/",
+   "instagram": "https://www.instagram.com/governorabbott/"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Points to large property tax cuts and a ban on a state income tax.", "source": "https://www.gregabbott.com/issues/"},
+   {"topic": "Border security", "point": "Continue Operation Lone Star, the state-funded border security mission.", "source": "https://www.gregabbott.com/issues/"},
+   {"topic": "Public safety", "point": "Cites bail reform, anti-gang centers and a domestic terrorism task force.", "source": "https://www.gregabbott.com/issues/"},
+   {"topic": "Education", "point": "Increased public school funding and created a universal school choice program.", "source": "https://www.gregabbott.com/issues/"},
+   {"topic": "Infrastructure", "point": "Invest in water infrastructure, dispatchable power generation and transportation.", "source": "https://www.gregabbott.com/issues/"},
+   {"topic": "Elections", "point": "Raised voter fraud penalties and limited voting to U.S. citizens.", "source": "https://www.gregabbott.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Cut property taxes and backs a ban on a state income tax.", "source": "https://www.gregabbott.com/issues/"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Signed abortion restrictions, constitutional carry and a ban on gender-affirming care for minors.", "source": "https://en.wikipedia.org/wiki/Greg_Abbott"},
+   "security": {"score": 85, "evidence": "Signed bail restrictions and created anti-gang centers and a domestic terrorism task force.", "source": "https://www.gregabbott.com/issues/"},
+   "immigration": {"score": 95, "evidence": "Launched Operation Lone Star, built a state border wall and bused migrants to other cities.", "source": "https://www.gregabbott.com/issues/"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Blamed wind and solar for 2021 grid failures and funds dispatchable power generation.", "source": "https://en.wikipedia.org/wiki/Greg_Abbott"},
+   "tech": null,
+   "education": {"score": 10, "evidence": "Created a universal school choice program with education savings accounts.", "source": "https://www.gregabbott.com/issues/"},
+   "faith": {"score": 95, "evidence": "Defended a Ten Commandments monument before the Supreme Court and signed a Ten Commandments classroom law.", "source": "https://en.wikipedia.org/wiki/Greg_Abbott"}
+  },
+  "photo": {"file": "File:Greg Abbott 2026.jpg", "license": "Public domain", "author": "U.S. Department of Agriculture"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-GOV/gina-hinojosa",
+  "name": "Gina Hinojosa",
+  "party": "Democratic",
+  "current_role": "Texas State Representative for District 49",
+  "bio": "Gina Hinojosa has represented Austin's District 49 in the Texas House since 2017 and previously served on the Austin ISD school board from 2012 to 2016. A civil rights and labor lawyer, she was born in McAllen and grew up in Brownsville. She won the 2026 Democratic nomination for governor.",
+  "website": "https://ginafortexas.com",
+  "social": {
+   "x": "https://x.com/GinaHinojosaTX",
+   "facebook": "https://www.facebook.com/ginafortexas/",
+   "instagram": "https://www.instagram.com/ginafortexas",
+   "tiktok": "https://www.tiktok.com/@ginafortexas",
+   "youtube": "https://www.youtube.com/@GinaHinojosaTX"
+  },
+  "platform": [
+   {"topic": "Public schools", "point": "End school vouchers and increase public school funding.", "source": "https://ginafortexas.com/priority/save-texas-public-schools/"},
+   {"topic": "Tax refund", "point": "Send $1,500 refund checks to Texas households using Rainy Day Fund money.", "source": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"},
+   {"topic": "Grocery prices", "point": "Ban surveillance pricing that charges shoppers different prices based on their data.", "source": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"},
+   {"topic": "Electricity", "point": "Freeze residential electricity rates until data centers pay their own grid costs.", "source": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"},
+   {"topic": "Housing", "point": "Limit institutional investors from buying more than 10 single-family homes.", "source": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"},
+   {"topic": "Health care", "point": "Ensure health coverage for every Texas child and ban bad-faith insurance denials.", "source": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Proposes an electricity rate freeze, limits on institutional home buyers and a ban on surveillance pricing.", "source": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"},
+   "welfare": {"score": 85, "evidence": "Wants quality health care for every Texas child and backed the Healthy Texas Act.", "source": "https://ginafortexas.com/priority/an-affordable-texas-that-works-for-everyone/"},
+   "liberty": {"score": 20, "evidence": "LGBTQ: filed a bill to bar the gay and trans panic defense; the cited source does not cover her other liberty positions.", "source": "https://en.wikipedia.org/wiki/Gina_Hinojosa"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 80, "evidence": "Proposes banning algorithmic surveillance pricing and making data centers pay grid costs.", "source": "https://ginafortexas.com/priority/data-centers/"},
+   "education": {"score": 95, "evidence": "Calls for ending school vouchers and fully funding public schools.", "source": "https://ginafortexas.com/priority/save-texas-public-schools/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Gina Hinojosa at the AFL-CIO COPE convention in 2024.jpg", "license": "CC0", "author": "RRC1701"},
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

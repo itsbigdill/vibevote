@@ -1,0 +1,438 @@
+[
+ {
+  "id": "NY-23/aaron-gies",
+  "name": "Aaron Gies",
+  "party": "Democratic",
+  "race": "NY-23",
+  "race_label": "New York · US House NY-23",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": 30,
+    "security": 25,
+    "immigration": 40,
+    "foreign": null,
+    "energy": null,
+    "tech": 70,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Supports universal healthcare, higher wages and bargaining, codifying Roe, background checks and red flag laws, limits on AI surveillance, public school funding.",
+   "sources": [
+    "https://aaronforny23.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-24/claudia-tenney",
+  "name": "Claudia Tenney",
+  "party": "Republican",
+  "race": "NY-24",
+  "race_label": "New York · US House NY-24",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000478",
+   "official_name": "Claudia Tenney",
+   "chamber": "House",
+   "official_site": "https://tenney.house.gov",
+   "official_social": {
+    "twitter": "RepTenney",
+    "facebook": "RepClaudiaTenney"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 70,
+    "security": 75,
+    "immigration": 70,
+    "foreign": 50,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backed 2017 and 2025 tax bills, Laken Riley and SAVE Acts; opposed Respect for Marriage Act, 2024 Ukraine aid; doubts climate science. Liberty: marriage, abortion.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Claudia_Tenney",
+    "https://tenney.house.gov/issues",
+    "https://clerk.house.gov/evs/2025/roll190.xml"
+   ],
+   "photo": {
+    "file": "File:Rep. Claudia Tenney official congressional photo.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "NY-24/alissa-ellman",
+  "name": "Alissa Ellman",
+  "party": "Democratic",
+  "race": "NY-24",
+  "race_label": "New York · US House NY-24",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 75,
+    "liberty": 15,
+    "security": null,
+    "immigration": 20,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Platform: protect and expand Medicaid, expand childcare, PRO Act and ending right-to-work, LGBTQ rights, abortion rights, welcoming immigrants.",
+   "sources": [
+    "https://www.ellmanforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-25/joseph-morelle",
+  "name": "Joseph Morelle",
+  "party": "Democratic",
+  "race": "NY-25",
+  "race_label": "New York · US House NY-25",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001206",
+   "official_name": "Joseph D. Morelle",
+   "chamber": "House",
+   "official_site": "https://morelle.house.gov",
+   "official_social": {
+    "twitter": "RepJoeMorelle",
+    "facebook": "RepJoeMorelle"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 30,
+    "security": null,
+    "immigration": 45,
+    "foreign": 75,
+    "energy": 75,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Voted against 2025 tax bill and SAVE Act, for Laken Riley Act and Ukraine/Israel aid; LGBTQ rights, gun reform, carbon cuts. Liberty: LGBTQ, abortion, guns.",
+   "sources": [
+    "https://morelle.house.gov/issues",
+    "https://clerk.house.gov/evs/2025/roll023.xml",
+    "https://clerk.house.gov/evs/2024/roll151.xml"
+   ],
+   "photo": {
+    "file": "File:Joe Morelle 118th Congress.jpeg",
+    "license": "Public domain",
+    "author": "Nate Payne, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NY-25/virginia-mcintyre",
+  "name": "Virginia McIntyre",
+  "party": "Republican",
+  "race": "NY-25",
+  "race_label": "New York · US House NY-25",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found on her campaign site or reliable sources as of September 2026.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-26/tim-kennedy",
+  "name": "Tim Kennedy",
+  "party": "Democratic",
+  "race": "NY-26",
+  "race_label": "New York · US House NY-26",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000402",
+   "official_name": "Timothy M. Kennedy",
+   "chamber": "House",
+   "official_site": "https://kennedy.house.gov",
+   "official_social": {
+    "twitter": "reptimkennedy",
+    "facebook": "reptimkennedy",
+    "instagram": "reptimkennedy",
+    "youtube": "@reptimkennedy"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": 30,
+    "security": null,
+    "immigration": 30,
+    "foreign": 70,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against 2025 tax bill, Laken Riley and SAVE Acts; opposes tariffs; protects Medicaid; pro-choice; assault weapons ban; Ukraine Caucus. Liberty: abortion, guns.",
+   "sources": [
+    "https://kennedyforuscongress.com/issues/",
+    "https://clerk.house.gov/evs/2025/roll023.xml",
+    "https://clerk.house.gov/evs/2025/roll102.xml"
+   ],
+   "photo": {
+    "file": "File:Rep. Tim Kennedy's Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "Nate Payne, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NY-26/dennis-hannon",
+  "name": "Dennis Hannon",
+  "party": "Republican",
+  "race": "NY-26",
+  "race_label": "New York · US House NY-26",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": null,
+    "liberty": 80,
+    "security": 70,
+    "immigration": 65,
+    "foreign": null,
+    "energy": 15,
+    "tech": 75,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Platform: tax rebates, fewer energy-lease rules, border enforcement, fentanyl crackdown, criminalizing youth gender care, kids online safety and AI limits, abstinence-focused sex ed.",
+   "sources": [
+    "https://www.hannonforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-1/don-davis",
+  "name": "Don Davis",
+  "party": "Democratic",
+  "race": "NC-1",
+  "race_label": "North Carolina · US House NC-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000230",
+   "official_name": "Donald G. Davis",
+   "chamber": "House",
+   "official_site": "https://dondavis.house.gov",
+   "official_social": {
+    "twitter": "RepDonDavis",
+    "facebook": "RepDonDavis",
+    "instagram": "RepDonDavis"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 60,
+    "liberty": 60,
+    "security": null,
+    "immigration": 60,
+    "foreign": 80,
+    "energy": 35,
+    "tech": null,
+    "education": 65,
+    "faith": null
+   },
+   "basis": "Voted against 2025 tax bill, for Laken Riley Act, Ukraine/Israel aid, youth gender-care ban and ending California car-emissions waiver. Liberty: transgender votes.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Don_Davis_(North_Carolina_politician)",
+    "https://clerk.house.gov/evs/2025/roll023.xml",
+    "https://clerk.house.gov/evs/2025/roll114.xml"
+   ],
+   "photo": {
+    "file": "File:Portrait of Congressman Don Davis.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NC-1/laurie-buckhout",
+  "name": "Laurie Buckhout",
+  "party": "Republican",
+  "race": "NC-1",
+  "race_label": "North Carolina · US House NC-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": 70,
+    "foreign": 80,
+    "energy": 25,
+    "tech": 15,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Platform: tax and regulation cuts, border patrol resources, gun rights, stronger military backing Israel, slashing AI regulation, pro-growth crypto rules. Liberty: guns.",
+   "sources": [
+    "https://www.lauriebuckhoutforcongress.com/issues"
+   ],
+   "photo": {
+    "file": "File:Laurie Buckhout.jpg",
+    "license": "Public domain",
+    "author": "U.S. Department of Defense"
+   }
+  }
+ },
+ {
+  "id": "NC-1/tom-bailey",
+  "name": "Tom Bailey",
+  "party": "Libertarian",
+  "race": "NC-1",
+  "race_label": "North Carolina · US House NC-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-2/deborah-ross",
+  "name": "Deborah Ross",
+  "party": "Democratic",
+  "race": "NC-2",
+  "race_label": "North Carolina · US House NC-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000305",
+   "official_name": "Deborah K. Ross",
+   "chamber": "House",
+   "official_site": "https://ross.house.gov",
+   "official_social": {
+    "twitter": "RepDeborahRoss",
+    "facebook": "RepDeborahRoss",
+    "instagram": "repdeborahross"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 15,
+    "security": null,
+    "immigration": 20,
+    "foreign": 75,
+    "energy": 90,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Voted against 2025 tax bill, Laken Riley and SAVE Acts, for Ukraine/Israel aid; supports ACA expansion, citizenship pathway, anti-fracking, public schools. Liberty: abortion, LGBTQ.",
+   "sources": [
+    "https://deborahross.com/priorities/",
+    "https://clerk.house.gov/evs/2025/roll023.xml",
+    "https://clerk.house.gov/evs/2024/roll151.xml"
+   ],
+   "photo": {
+    "file": "File:Deborah Ross 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Franmarie Metzler)"
+   }
+  }
+ },
+ {
+  "id": "NC-2/gene-douglass",
+  "name": "Gene Douglass",
+  "party": "Republican",
+  "race": "NC-2",
+  "race_label": "North Carolina · US House NC-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found on a campaign site or reliable sources as of September 2026.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina"
+   ],
+   "photo": null
+  }
+ }
+]

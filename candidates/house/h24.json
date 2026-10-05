@@ -1,0 +1,897 @@
+[
+  {
+    "state": "Montana",
+    "district": "MT-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Aaron Flint",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 25,
+          "security": null,
+          "immigration": 80,
+          "foreign": 40,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Tax and regulation cuts, Second Amendment (drove liberty), border security and deporting criminals, energy dominance and timber, opposes forever wars.",
+        "sources": [
+          "https://flintformontana.com/issues/",
+          "https://projects.montanafreepress.org/election-guide-2026/candidates/aaron-flint/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Sam Forstag",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 85,
+          "welfare": 85,
+          "liberty": 15,
+          "security": 20,
+          "immigration": 20,
+          "foreign": null,
+          "energy": null,
+          "tech": 85,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Billionaire and corporate tax hikes, Medicare option, codify Roe while backing gun rights, ICE warrants and no warrantless surveillance, strict AI oversight, public-school funding.",
+        "sources": [
+          "https://samformontana.com/policies/"
+        ],
+        "photo": {
+          "file": "File:Sam Forstag Portrait (cropped).jpg",
+          "license": "CC0",
+          "author": "Conorhogan16"
+        }
+      },
+      {
+        "name": "Nick Sheedy",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 20,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Would end the Federal Reserve, cut healthcare regulation over federal support, and require congressional war declarations.",
+        "sources": [
+          "https://projects.montanafreepress.org/election-guide-2026/candidates/nick-sheedy/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Kimberly Persico",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Montana",
+    "district": "MT-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Troy Downing",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 10,
+          "tech": null,
+          "education": 35,
+          "faith": null
+        },
+        "basis": "Permanent TCJA and estate tax repeal, veterans' gun rights (drove liberty), coal and oil-gas advocacy, state and local education control.",
+        "sources": [
+          "https://downing.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:Troy Downing, official portrait (119th Congress) (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Brian Miller",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 85,
+          "liberty": 20,
+          "security": null,
+          "immigration": 35,
+          "foreign": 20,
+          "energy": 75,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Addresses income inequality, healthcare for all, women's and LGBTQ rights, immigration reform, no endless wars or Israel ties, climate action.",
+        "sources": [
+          "https://www.miller4congress.com/copy-of-main-page-1"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Patrick McCracken",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Michael Eisenhauer",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Nebraska",
+    "district": "NE-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Flood",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 55,
+          "security": 65,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 25,
+          "tech": 20,
+          "education": null,
+          "faith": 70
+        },
+        "basis": "Protect Trump tax cuts, abortion ban with strong gun rights (liberty), pro-police, no path to citizenship, opposes Green New Deal and tech regulation.",
+        "sources": [
+          "https://www.ontheissues.org/House/Mike_Flood.htm",
+          "https://mikefloodfornebraska.com/"
+        ],
+        "photo": {
+          "file": "File:Mike Flood, official portrait (118th Congress) (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman"
+        }
+      },
+      {
+        "name": "Chris Backemeyer",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 55,
+          "foreign": 75,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls for smart, fair immigration with a secure border and restoring American leadership against China, Russia and Iran.",
+        "sources": [
+          "https://backnebraska.com/priorities/"
+        ],
+        "photo": {
+          "file": "File:Christopher Backemyer DOS (cropped).jpg",
+          "license": "Public domain",
+          "author": "US Department of State"
+        }
+      },
+      {
+        "name": "Nik Sandman",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Daniel Hartong",
+        "party": "America First",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Nebraska",
+    "district": "NE-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brinker Harding",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 55,
+          "liberty": null,
+          "security": 35,
+          "immigration": 65,
+          "foreign": null,
+          "energy": 35,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Protect Social Security and Medicaid, IVF access, body cameras for ICE, deport violent criminal immigrants, national voter ID, year-round E15.",
+        "sources": [
+          "https://www.brinkerharding.com/vision"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Denise Powell",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": 40,
+          "security": 50,
+          "immigration": 35,
+          "foreign": 75,
+          "energy": 70,
+          "tech": 70,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Anti-monopoly, public option, restore Roe plus universal background checks (liberty), fund police, Dreamer citizenship, rebuild USAID and alliances, AI guardrails.",
+        "sources": [
+          "https://deniseforcongress.org/priorities/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Eric Foreman",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Nebraska",
+    "district": "NE-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Adrian Smith",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 50,
+          "security": 70,
+          "immigration": 85,
+          "foreign": 70,
+          "energy": 15,
+          "tech": 30,
+          "education": 20,
+          "faith": null
+        },
+        "basis": "Estate tax repeal, opposes ACA expansion, pro-life with expansive gun rights (liberty), PATRIOT Act wiretaps, ending birthright citizenship, vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/House/Adrian_Smith.htm"
+        ],
+        "photo": {
+          "file": "File:Adrian Smith portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives — Office of the Clerk"
+        }
+      },
+      {
+        "name": "Becky Stille",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 70,
+          "liberty": 20,
+          "security": 55,
+          "immigration": 50,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Improved health care for all, abortion rights with Second Amendment support (liberty), backs police resources, secure but welcoming borders, public education.",
+        "sources": [
+          "https://www.beckystille2026.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "David Else",
+        "party": "Legal Marijuana Now",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Macey Budke",
+        "party": "Nebraska Working People",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mark Cohen",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Nevada",
+    "district": "NV-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Dina Titus",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 85,
+          "liberty": 30,
+          "security": 60,
+          "immigration": 35,
+          "foreign": 60,
+          "energy": 75,
+          "tech": null,
+          "education": 90,
+          "faith": 25
+        },
+        "basis": "Medicare for All Caucus, abortion access and universal background checks (liberty), police-backed, citizenship path yet Laken Riley yes, Ukraine caucus, opposes vouchers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Dina_Titus",
+          "https://www.ontheissues.org/House/Dina_Titus.htm"
+        ],
+        "photo": {
+          "file": "File:Dina Titus official photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "Carrie Buck",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": 65,
+          "immigration": 70,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "No tax on tips, fully fund police, secure the border, charter school expansion and parental rights.",
+        "sources": [
+          "https://carriebuckforcongress.com/about/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Nevada",
+    "district": "NV-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "David Flippo",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 20,
+          "security": 75,
+          "immigration": 90,
+          "foreign": 40,
+          "energy": 15,
+          "tech": null,
+          "education": 20,
+          "faith": 65
+        },
+        "basis": "Tax and regulation cuts, Second Amendment and free speech (liberty), tough sentencing, deport undocumented immigrants, America First alliances, school choice, religious liberty.",
+        "sources": [
+          "https://flippo4nv.com/issues/"
+        ],
+        "photo": {
+          "file": "File:David Flippo.png",
+          "license": "Public domain",
+          "author": "U.S. Department of Defense"
+        }
+      },
+      {
+        "name": "Teresa Benitez-Thompson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 70,
+          "liberty": 15,
+          "security": null,
+          "immigration": 30,
+          "foreign": 40,
+          "energy": null,
+          "tech": 80,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Restore DOGE cuts, defend ACA, reproductive freedom (liberty), opposes family-separating raids, conditions Israel military aid, strong AI job-loss rules.",
+        "sources": [
+          "https://electteresa.com/policy/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Lynn Chapman",
+        "party": "Independent American",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Nevada",
+    "district": "NV-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Susie Lee",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": 65,
+          "liberty": 35,
+          "security": 35,
+          "immigration": 40,
+          "foreign": null,
+          "energy": 70,
+          "tech": 60,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Signed pro-capitalist pledge yet favors tax increases, defends ACA, pro-choice with assault weapons ban (liberty), citizenship path, renewables, opposes vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/House/Susie_Lee.htm",
+          "https://en.wikipedia.org/wiki/Susie_Lee"
+        ],
+        "photo": {
+          "file": "File:Rep. Susie Lee 118th Portrait (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Martin O'Donnell",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 40,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 80,
+          "foreign": null,
+          "energy": null,
+          "tech": 60,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Balanced budget and worker protections, strong border security, ending benefits for undocumented immigrants, safeguards for workers against AI disruption.",
+        "sources": [
+          "https://martyforcongress.vote/priorities/"
+        ],
+        "photo": {
+          "file": "File:Marty O'Donnell by Gage Skidmore.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Gage Skidmore"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Nevada",
+    "district": "NV-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Steven Horsford",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 85,
+          "liberty": 35,
+          "security": 25,
+          "immigration": 25,
+          "foreign": 40,
+          "energy": 70,
+          "tech": 60,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Higher taxes on wealthy, healthcare as a right, pro-choice with assault weapons ban (liberty), limits NSA bulk collection, citizenship path, voted to cut Israel aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Steven_Horsford",
+          "https://www.ontheissues.org/House/Steven_Horsford.htm"
+        ],
+        "photo": {
+          "file": "File:Steven Horsford 118th (cropped).jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Cody Whipple",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": 45,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "No tax on tips, protect Medicaid and Social Security by cutting fraud, Second Amendment (liberty), parent-driven school choice.",
+        "sources": [
+          "https://codyk4congress.com/issues/",
+          "https://codyk4congress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Hampshire",
+    "district": "NH-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Stefany Shaheen",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 85,
+          "liberty": 10,
+          "security": 25,
+          "immigration": 25,
+          "foreign": null,
+          "energy": 75,
+          "tech": 65,
+          "education": null,
+          "faith": 55
+        },
+        "basis": "Opposes corporate tax breaks, Medicare for All with public option, abortion rights (liberty), ICE warrants and body cameras, clean energy, faith-based housing groups.",
+        "sources": [
+          "https://stefanyshaheen.com/priorities/"
+        ],
+        "photo": {
+          "file": "File:Stefany Shaheen, 2015 (cropped).jpg",
+          "license": "Public domain",
+          "author": "Jeanne Shaheen"
+        }
+      },
+      {
+        "name": "Anthony DiLorenzo",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 45,
+          "liberty": 25,
+          "security": 60,
+          "immigration": 60,
+          "foreign": 50,
+          "energy": 30,
+          "tech": 30,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Protect 2017 tax cuts, support Social Security, no federal abortion law and gun rights (liberty), secure borders, Ukraine and Mideast peace, energy without subsidies.",
+        "sources": [
+          "https://dilorenzoforcongress.com/issues/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Hampshire",
+    "district": "NH-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Maggie Goodlander",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": 15,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": 80,
+          "tech": 65,
+          "education": 75,
+          "faith": null
+        },
+        "basis": "Anti-monopoly, healthcare as a right, abortion rights (liberty), path to citizenship with border security, clean energy superpower, AI rules, opposes book bans.",
+        "sources": [
+          "https://maggiefornh.com/priorities/"
+        ],
+        "photo": {
+          "file": "File:Maggie Goodlander official portrait, 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Lily Tang Williams",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 10,
+          "welfare": null,
+          "liberty": 10,
+          "security": 20,
+          "immigration": 65,
+          "foreign": 25,
+          "energy": 20,
+          "tech": null,
+          "education": 10,
+          "faith": null
+        },
+        "basis": "Cut subsidies and spending, constitutional carry (liberty), left GOP over Patriot Act, legal immigration but detain illegal crossers, war declarations, abolish Education Department.",
+        "sources": [
+          "https://www.lilytangwilliams.com/congress/issues/",
+          "https://en.wikipedia.org/wiki/Lily_Tang_Williams"
+        ],
+        "photo": {
+          "file": "File:Lily Tang Williams by Gage Skidmore.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Robbie Mahrou",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

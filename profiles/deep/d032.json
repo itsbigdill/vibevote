@@ -1,0 +1,419 @@
+[
+ {
+  "id": "MS-4/carl-boyanton",
+  "name": "Carl Boyanton",
+  "party": "Independent",
+  "current_role": "Produce store owner",
+  "bio": "Carl Boyanton owns a produce store and is running as an independent from the Gulfport area. He ran for this seat as a Republican in 2020, 2022 and 2024. He describes himself as a principled conservative alternative to both major parties.",
+  "website": "https://carl4congress.com",
+  "social": {
+   "x": "https://twitter.com/carl4congressms",
+   "facebook": "https://www.facebook.com/carl4congress",
+   "youtube": "https://www.youtube.com/channel/UCMx-V2JtFUodfSO7DIus_Mg/"
+  },
+  "platform": [
+   {
+    "topic": "Federal budget",
+    "point": "Supports a balanced budget amendment, zero-based budgeting and separate appropriations bills instead of continuing resolutions.",
+    "source": "https://carl4congress.com/position-on-federal-budget/"
+   },
+   {
+    "topic": "Government waste",
+    "point": "Wants DOGE made permanent in law, federal computer systems modernized and fraud prosecuted.",
+    "source": "https://carl4congress.com/position-on-fraud-waste-and-abuse/"
+   },
+   {
+    "topic": "Term limits",
+    "point": "Supports congressional term limits to reduce the influence of career politicians.",
+    "source": "https://carl4congress.com/position-on-congressional-term-limits/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Says life begins at conception; would allow exceptions for rape, incest and threats to the mother's health.",
+    "source": "https://carl4congress.com/position-on-life-and-abortion/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Backs physical barriers and border technology, removing people who entered illegally, ending sanctuary policies and English as national language.",
+    "source": "https://carl4congress.com/position-on-immigration/"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants schools focused on core subjects and opposes what he calls divisive ideologies in classrooms.",
+    "source": "https://carl4congress.com/excellence-in-education/"
+   },
+   {
+    "topic": "Student debt",
+    "point": "Opposes blanket loan forgiveness; would tie federal aid to outcomes and expand vocational and apprenticeship options.",
+    "source": "https://carl4congress.com/excellence-in-education/"
+   },
+   {
+    "topic": "Two-party system",
+    "point": "Argues both major parties protect the status quo and shut out outside challengers.",
+    "source": "https://carl4congress.com/two-party-corruption/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Backs a balanced budget amendment, zero-based budgeting and a permanent DOGE to cut federal spending.",
+    "source": "https://carl4congress.com/position-on-federal-budget/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 75,
+    "evidence": "Abortion: would protect life from conception with exceptions for rape, incest and maternal health; no stated positions on drugs, LGBTQ rights, guns or speech.",
+    "source": "https://carl4congress.com/position-on-life-and-abortion/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Calls for border barriers and technology, removal of people who entered illegally, ending sanctuary policies and English as the national language.",
+    "source": "https://carl4congress.com/position-on-immigration/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 40,
+    "evidence": "General statement about returning education to parents and local communities from federal overreach; no stance on vouchers.",
+    "source": "https://carl4congress.com/excellence-in-education/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://carl4congress.com/wp-content/smush-webp/2026/01/Carl-for-Congress.png.webp",
+  "notes": "Read every position page on carl4congress.com; web search was unavailable this round, so no news questionnaires were checked. No stated positions on welfare programs, policing, foreign policy, energy, tech regulation or religion."
+ },
+ {
+  "id": "MT-1/kimberly-persico",
+  "name": "Kimberly Persico",
+  "party": "Independent",
+  "current_role": "Environmental consultant",
+  "bio": "Kimberly Persico, of Hot Springs, Montana, previously worked as an analytical chemist and math instructor in Wisconsin. In Montana she has worked in ranching, at a stockyard and veterinary clinic, and as a school paraprofessional, and founded an environmental consulting firm serving mining operations. She is running as a self-described conservative independent.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Campaign finance",
+    "point": "Supports congressional term limits and the Transparent Election Initiative to limit election spending.",
+    "source": "https://www.scledger.net/story/2026/02/12/news/hot-springs-woman-running-for-congress/13377.html"
+   },
+   {
+    "topic": "Federal budget",
+    "point": "Wants to address the federal fiscal imbalance.",
+    "source": "https://www.scledger.net/story/2026/02/12/news/hot-springs-woman-running-for-congress/13377.html"
+   },
+   {
+    "topic": "Economy",
+    "point": "Put ordinary people ahead of large corporations and billionaires.",
+    "source": "https://www.scledger.net/story/2026/02/12/news/hot-springs-woman-running-for-congress/13377.html"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Protect public lands and support agriculture.",
+    "source": "https://www.scledger.net/story/2026/02/12/news/hot-springs-woman-running-for-congress/13377.html"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her listed site keepingamericaspromise.com redirects to a WordPress error page and the .org domain is parked; she does not appear in the Montana Free Press 2026 guide. Only general themes (term limits, balanced budget, public lands) were found, too broad to score."
+ },
+ {
+  "id": "MT-2/patrick-mccracken",
+  "name": "Patrick McCracken",
+  "party": "Libertarian",
+  "current_role": "Financial advisor",
+  "bio": "Patrick McCracken is the Libertarian nominee for Montana's 2nd congressional district. A lifelong Montanan from Columbia Falls, he has worked for about ten years as a financial advisor.",
+  "website": "https://www.mccrackenformontana.com",
+  "social": {
+   "x": "https://twitter.com/mccracken4MT"
+  },
+  "platform": [
+   {
+    "topic": "War powers",
+    "point": "Proposes the Send Baron Act to draft children of the president, cabinet and Congress first in any war.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"
+   },
+   {
+    "topic": "Rural health care",
+    "point": "Keep Medicaid expansion to sustain rural hospitals and pass the PRICE Transparency Act.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Treats housing costs as a monetary problem and backs breaking up private equity ownership of single-family homes.",
+    "source": "https://www.mtpr.org/montana-news/2026-04-17/patrick-mccracken-interview"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Co-sponsor the American Beef Labeling Act for country-of-origin labeling.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"
+   },
+   {
+    "topic": "Utilities",
+    "point": "Codify a ratepayer protection pledge for data center energy agreements and pursue cannabis banking reform.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"
+   },
+   {
+    "topic": "Federal spending",
+    "point": "Wants forensic audits of federal spending to continue and opposes adding new IRS agents.",
+    "source": "https://www.mtpr.org/montana-news/2026-04-17/patrick-mccracken-interview"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Opposes institutional investors buying single-family homes and backs mandatory beef origin labeling and ratepayer protections.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Calls Medicaid expansion essential to keeping rural Montana health care open.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Cannabis: backs cannabis banking reform (SAFE Banking Act); no stated positions on abortion, LGBTQ rights, guns or speech.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 35,
+    "evidence": "Proposes the Send Baron Act, drafting children of federal officials first, to make going to war harder for leaders.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign site lists issue headings (Jones Act, federal lands, glyphosate and others) without detail; positions come from Montana Free Press and MTPR. Still unknown: policing, immigration, energy, tech, education and religion."
+ },
+ {
+  "id": "MT-2/michael-eisenhauer",
+  "name": "Michael Eisenhauer",
+  "party": "Independent",
+  "current_role": "Interventional cardiologist",
+  "bio": "Michael Eisenhauer is an independent candidate for Montana's 2nd congressional district from Great Falls. He is a practicing interventional cardiologist who serves rural Montana patients and a retired Army colonel who received the Bronze Star. He qualified for the ballot by petition.",
+  "website": "https://eisenhauerforcongress.com/",
+  "social": {
+   "x": "https://x.com/EisenhauerMT2",
+   "facebook": "https://www.facebook.com/eisenhauerforcongress",
+   "instagram": "https://www.instagram.com/eisenhauer.for.congress/",
+   "tiktok": "https://www.tiktok.com/@eisenhauerforcongress"
+  },
+  "platform": [
+   {
+    "topic": "War powers",
+    "point": "Enforce and strengthen the War Powers Resolution so no branch acts alone on war.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Stabilise rural and critical-access hospitals, protect pre-existing condition coverage and patient choice without single-payer.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Transferable mortgages, development tax incentives, down-payment help, property tax relief and lower tariffs on building materials.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Enforce antitrust law, limit foreign corporate land purchases and return tariff authority to Congress.",
+    "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Describes himself as pro-choice and supports Montana's 2024 abortion-rights constitutional amendment.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Supports universal background checks, a 72-hour waiting period and simpler rules for suppressors and short-barreled rifles.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   {
+    "topic": "AI",
+    "point": "Wants comprehensive AI regulation, including labels on AI-generated content, citing deepfakes and job losses.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Opposes abolishing the Education Department and wants full federal special-education funding; opposes blanket student loan forgiveness.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Opposes tax cuts for top earners in the 2025 budget law and backs antitrust enforcement and farm price floors.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   "welfare": {
+    "score": 50,
+    "evidence": "Opposes single-payer and Social Security benefit cuts, and criticizes Medicaid and SNAP cuts.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Abortion: pro-choice; guns: backs universal background checks and a 72-hour wait while easing suppressor rules.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "General statement pledging to protect and increase federal funding for local law enforcement.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   "immigration": {
+    "score": 40,
+    "evidence": "Supports legal immigration and border security but opposes deporting Dreamers and criticizes aggressive ICE tactics.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 40,
+    "evidence": "Backs an all-of-the-above approach including coal, oil and gas along with nuclear, solar and wind.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   "tech": {
+    "score": 85,
+    "evidence": "Calls for comprehensive AI regulation modeled on EU rules, including labeling AI-generated content.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   "education": {
+    "score": 80,
+    "evidence": "Opposes eliminating the Education Department and wants Title I and full special-education funding.",
+    "source": "https://eisenhauerforcongress.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://eisenhauerforcongress.com/wp-content/uploads/2025/12/Headshot2.jpg",
+  "notes": "Read the campaign issues page, the Montana Free Press guide and the MTPR interview. Foreign policy statements (War Powers, ending Middle East wars) were too general to score, and no religion positions were found."
+ },
+ {
+  "id": "NC-1/tom-bailey",
+  "name": "Tom Bailey",
+  "party": "Libertarian",
+  "current_role": "Contractor",
+  "bio": "Tom Bailey is the Libertarian nominee for North Carolina's 1st District. He works as a contractor and formerly chaired the Guilford County Libertarian Party. He has run for office several times before.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/tombaileyforushouse/"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Libertarian Party of North Carolina 2026 candidate list links only a Facebook page, which needs a login to read, and no campaign website or questionnaire answers were found. No issue positions could be sourced."
+ },
+ {
+  "id": "NC-11/travis-groo",
+  "name": "Travis Groo",
+  "party": "Libertarian",
+  "current_role": "Safety specialist",
+  "bio": "Travis Groo is a safety specialist and a former executive committee member of the Wake County Libertarian Party. He has run for office several times before and is the Libertarian nominee for North Carolina's 11th congressional district.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/groofornc/"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Libertarian Party of North Carolina 2026 candidate list links only a Facebook page, which needs a login to read, and no campaign website or questionnaire answers were found. No issue positions could be sourced."
+ },
+ {
+  "id": "NC-13/steven-swinton",
+  "name": "Steven Swinton",
+  "party": "Libertarian",
+  "current_role": "Businessman",
+  "bio": "Steven Swinton is a businessman and the Libertarian nominee for North Carolina's 13th congressional district. He was the Libertarian nominee for North Carolina's 19th Senate district in 2024.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/people/Swinton-for-NC/61567643602055/"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Libertarian Party of North Carolina 2026 candidate list links only a Facebook page, which needs a login to read, and no campaign website or questionnaire answers were found. No issue positions could be sourced."
+ },
+ {
+  "id": "NC-3/daniel-cavender",
+  "name": "Daniel Cavender",
+  "party": "Libertarian",
+  "current_role": "Technician",
+  "bio": "Daniel Cavender is the Libertarian nominee for North Carolina's 3rd congressional district. He works as a technician and was the Libertarian nominee for NC Senate District 30 in 2024.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/people/Daniel-Cavender-for-Congress/61562814100367/"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Libertarian Party of North Carolina 2026 candidate list links only a Facebook page, which needs a login to read, and no campaign website or questionnaire answers were found. No issue positions could be sourced."
+ }
+]

@@ -1,0 +1,441 @@
+[
+ {
+  "id": "CT-GOV/ryan-fazio",
+  "name": "Ryan Fazio",
+  "party": "Republican",
+  "current_role": "Connecticut State Senator, 36th District",
+  "bio": "Ryan Fazio has represented Connecticut's 36th State Senate district since 2021 and previously served on the Greenwich representative town meeting. He worked in commodities trading focused on renewable fuels and agriculture and now works as a financial advisor. Born in Norwalk and raised in Greenwich, he holds an economics degree from Northwestern University.",
+  "website": "https://www.ryanfazio.com",
+  "social": {
+   "x": "https://x.com/ryanfazio",
+   "instagram": "https://www.instagram.com/ryanfazioct/",
+   "facebook": "https://www.facebook.com/ryanfazio",
+   "tiktok": "https://www.tiktok.com/@ryanfazioct",
+   "youtube": "https://www.youtube.com/@ryanfazioct"
+  },
+  "platform": [
+   {"topic": "Energy costs", "point": "Cut electricity bills by 15-20% through changes to state energy policy.", "source": "https://ctmirror.org/2026/07/09/fazio-housing-transportation-energy-election/"},
+   {"topic": "Taxes", "point": "Lower income and property taxes and cap future mill rate increases for homeowners and seniors.", "source": "https://ctmirror.org/2026/07/09/fazio-housing-transportation-energy-election/"},
+   {"topic": "Housing", "point": "Reduce construction costs, add supply in mixed-use areas, reform stairwell codes and amend the 8-30g law while respecting local control.", "source": "https://ctmirror.org/2026/07/09/fazio-housing-transportation-energy-election/"},
+   {"topic": "Transportation", "point": "Make rail schedules more consistent, change railcar purchasing, and consider EV registration fees to offset falling gas tax revenue.", "source": "https://ctmirror.org/2026/07/09/fazio-housing-transportation-energy-election/"},
+   {"topic": "Utility oversight", "point": "Strengthen regulatory supervision of utilities and protect taxpayers and municipal control.", "source": "https://www.ryanfazio.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Backs capping future mill rate increases and paying down state debt before new spending.", "source": "https://ctmirror.org/2026/07/09/fazio-housing-transportation-energy-election/"},
+   "welfare": {"score": 20, "evidence": "Has written against treating free health care as a right and criticizes state spending growth.", "source": "https://ctmirror.org/2026/09/01/ryan-fazio-offers-prayers-talks-property-taxes-to-unseat-a-governor/"},
+   "liberty": {"score": 20, "evidence": "Abortion: supports keeping it legal in Connecticut; contraception: backs expanded access; guns: endorsed by gun-rights groups.", "source": "https://en.wikipedia.org/wiki/Ryan_Fazio"},
+   "security": null,
+   "immigration": {"score": 65, "evidence": "An early campaign ad stressed deporting criminals, and he opposed state efforts to regulate ICE.", "source": "https://ctmirror.org/2026/09/01/ryan-fazio-offers-prayers-talks-property-taxes-to-unseat-a-governor/"},
+   "foreign": null,
+   "energy": {"score": 25, "evidence": "Prioritises lower power bills, more natural gas pipeline capacity and nuclear power, and cuts to the public benefits charge.", "source": "https://en.wikipedia.org/wiki/Ryan_Fazio"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Favors school choice and charter schools while also proposing larger state education grants.", "source": "https://ctmirror.org/2026/09/01/ryan-fazio-offers-prayers-talks-property-taxes-to-unseat-a-governor/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons portrait lists the campaign website as its source with no recorded permission, so it was not used."
+ },
+ {
+  "id": "DE-SEN/chris-coons",
+  "name": "Chris Coons",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from Delaware",
+  "bio": "Chris Coons has served as a U.S. Senator from Delaware since 2010 and sits on the Appropriations, Foreign Relations, Judiciary, Small Business and Ethics committees. He was previously New Castle County Council President and County Executive, and earlier worked at W.L. Gore & Associates. Raised in Hockessin, he holds degrees from Amherst College, Yale Law School and Yale Divinity School.",
+  "website": "https://chriscoons.com",
+  "social": {
+   "x": "https://x.com/ChrisCoonsforDE",
+   "instagram": "https://www.instagram.com/chriscoonsforde",
+   "facebook": "https://www.facebook.com/chriscoons",
+   "youtube": "https://www.youtube.com/channel/UC6s_03P_7OoOZQkqxyPKpfg"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Defend the Affordable Care Act.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "Economy", "point": "Raise wages and oppose the Trump administration's tariffs.", "source": "https://whyy.org/articles/election-2026-delaware-primary-senate-voter-guide/"},
+   {"topic": "Energy", "point": "Support the transition to clean energy.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "Immigration", "point": "Pass immigration reform.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "Technology", "point": "Advance legislation on deepfakes and national security.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "Accountability", "point": "Root out corruption and push back on Trump administration initiatives.", "source": "https://whyy.org/articles/election-2026-delaware-primary-senate-voter-guide/"}
+  ],
+  "positions": {
+   "economy": {"score": 45, "evidence": "Opposes Trump tariffs and right-to-work laws while supporting free-trade agreements.", "source": "https://en.wikipedia.org/wiki/Chris_Coons"},
+   "welfare": {"score": 55, "evidence": "Defends the ACA and voted against its repeal, but cautions against Medicare for All.", "source": "https://whyy.org/articles/election-2026-delaware-primary-senate-voter-guide/"},
+   "liberty": {"score": 30, "evidence": "Abortion: 100% Planned Parenthood rating; guns: supports gun control measures; LGBTQ: backs transgender rights.", "source": "https://en.wikipedia.org/wiki/Chris_Coons"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Calls for immigration reform and opposed cuts to Central America aid meant to reduce migration.", "source": "https://en.wikipedia.org/wiki/Chris_Coons"},
+   "foreign": {"score": 85, "evidence": "Foreign Relations member and ranking Democrat on defense appropriations who strongly supports Israel's security.", "source": "https://en.wikipedia.org/wiki/Chris_Coons"},
+   "energy": {"score": 75, "evidence": "Backs a clean-energy transition and sponsored the PROVE IT Act on emissions-intensity data.", "source": "https://en.wikipedia.org/wiki/Chris_Coons"},
+   "tech": {"score": 70, "evidence": "Introduced legislation on AI deepfakes, including the NO FAKES Act.", "source": "https://en.wikipedia.org/wiki/NO_FAKES_Act"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Won the September 15, 2026 Democratic primary with about 78% of the vote."
+ },
+ {
+  "id": "DE-SEN/jeff-appelhans",
+  "name": "Jeff Appelhans",
+  "party": "Democratic",
+  "current_role": "Historian and former teacher",
+  "bio": "Jeff Appelhans is a historian from Newark, Delaware, with a doctorate from the University of Delaware and degrees from the University of Colorado. He taught in Colorado schools from 2001 to 2010 and at the University of Delaware from 2010 to 2019, and is a fellow of the American Philosophical Society. He also describes himself as a builder of AI systems.",
+  "website": "https://www.union26.com",
+  "social": {
+   "x": "https://x.com/AppelhansForDE",
+   "instagram": "https://www.instagram.com/AppelhansForDE",
+   "tiktok": "https://www.tiktok.com/@appelhansforde",
+   "youtube": "https://www.youtube.com/@AppelhansForDE"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Enact Medicare for All and break up corporate consolidation in health care.", "source": "https://www.union26.com/"},
+   {"topic": "Social Security", "point": "Lift the payroll-tax cap to extend Social Security solvency without cutting benefits.", "source": "https://www.union26.com/"},
+   {"topic": "AI", "point": "Regulate AI with worker voice and human appeal rights, and share AI-generated gains publicly.", "source": "https://www.union26.com/"},
+   {"topic": "Privacy", "point": "Require warrants before government buys location, camera, health or other intimate data.", "source": "https://whyy.org/articles/election-2026-delaware-primary-senate-voter-guide/"},
+   {"topic": "Ethics", "point": "Ban congressional stock trading, refuse PAC money and lengthen lobbying bans for former members.", "source": "https://www.union26.com/"},
+   {"topic": "Foreign policy", "point": "End U.S. support for Israel's Gaza operations and oppose war with Iran.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and removing the Social Security payroll-tax cap.", "source": "https://www.union26.com/"},
+   "liberty": null,
+   "security": {"score": 10, "evidence": "Opposes warrantless government purchases of location, camera and health data.", "source": "https://whyy.org/articles/election-2026-delaware-primary-senate-voter-guide/"},
+   "immigration": null,
+   "foreign": {"score": 25, "evidence": "Wants to end U.S. support for the Gaza war, opposed war with Iran and rejects open-ended military commitments.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   "energy": null,
+   "tech": {"score": 90, "evidence": "Makes AI regulation a central priority, treating it as a constitutional issue.", "source": "https://whyy.org/articles/election-2026-delaware-primary-senate-voter-guide/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.union26.com/assets/identity/jeff-appelhans-headshot-1200x1500.jpg",
+  "notes": "Lost the September 15, 2026 Democratic primary to Chris Coons, receiving about 11% of the vote."
+ },
+ {
+  "id": "DE-SEN/michael-katz",
+  "name": "Michael Katz",
+  "party": "Republican",
+  "current_role": "Anesthesiologist and real estate business owner",
+  "bio": "Michael Katz is a physician trained in pediatric anesthesiology who also owns a commercial real estate company in Delaware. He served one term in the Delaware State Senate from 2009 to 2013 as a Democrat, briefly sought the 2020 Democratic presidential nomination, and was the Independent Party of Delaware's 2024 Senate nominee before joining the Republican Party. He holds degrees from Bates College and Georgetown University.",
+  "website": "https://drmikekatz.com",
+  "social": {
+   "x": "https://x.com/drmikekatz",
+   "instagram": "https://www.instagram.com/drmikekatz/",
+   "facebook": "https://www.facebook.com/profile.php?id=100092662750874"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Cut wasteful spending and red tape to lower energy and housing costs.", "source": "https://drmikekatz.com/"},
+   {"topic": "Health care", "point": "Lower drug costs, close rural care gaps and shift health care toward prevention.", "source": "https://drmikekatz.com/"},
+   {"topic": "Border security", "point": "Finish the southern border wall, stop fentanyl and withhold federal funds from sanctuary cities.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "Jobs", "point": "Reduce federal regulation, keep pro-growth tax policy and bring manufacturing back to the U.S.", "source": "https://drmikekatz.com/"},
+   {"topic": "Elections", "point": "Pass the SAVE Act and audit voter rolls to verify citizenship.", "source": "https://drmikekatz.com/"},
+   {"topic": "Second Amendment", "point": "Oppose red-flag confiscation and firearm registries.", "source": "https://drmikekatz.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for cutting federal regulations and keeping pro-growth tax policies.", "source": "https://drmikekatz.com/"},
+   "welfare": null,
+   "liberty": {"score": 45, "evidence": "Guns: opposes red-flag laws and registries; speech: opposes federal censorship; LGBTQ: would limit women's sports to biological females.", "source": "https://drmikekatz.com/"},
+   "security": {"score": 65, "evidence": "Pledges to back law enforcement while defending constitutional rights.", "source": "https://drmikekatz.com/"},
+   "immigration": {"score": 80, "evidence": "Wants to complete the border wall and withhold federal funds from sanctuary cities.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   "foreign": {"score": 60, "evidence": "Calls for strengthening the military and supporting allies.", "source": "https://drmikekatz.com/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://drmikekatz.com/imgs/profile-suit.png",
+  "notes": "Won the September 15, 2026 Republican primary with about 77% of the vote. Liberty was lowered from 75 to 45 because his platform pairs gun-rights and anti-censorship stances with women's sports limits."
+ },
+ {
+  "id": "DE-SEN/john-shulli",
+  "name": "John Shulli",
+  "party": "Republican",
+  "current_role": "U.S. Army colonel and Army War College instructor",
+  "bio": "John Shulli is a Delaware native and U.S. Army colonel with 28 years of military and federal service, including work on Pentagon artificial intelligence policy. He teaches at the U.S. Army War College. He holds degrees from Embry-Riddle Aeronautical University, the University of Oklahoma and the Army War College.",
+  "website": "https://shulli.org",
+  "social": {
+   "x": "https://x.com/shulli",
+   "instagram": "https://www.instagram.com/johnshulli",
+   "facebook": "https://www.facebook.com/john.shulli",
+   "youtube": "https://www.youtube.com/@shulliDE"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Repeal the Affordable Care Act and pass the Make America Healthy Again Act.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "Energy", "point": "Pursue energy independence through expanded domestic drilling.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "AI and education", "point": "Bring AI into libraries, schools and defense, and train students in skills AI cannot replicate.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "Government reform", "point": "Set congressional term limits and replace presidential terms with a single six-year term.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   {"topic": "Economy", "point": "Make Delaware a jobs hub and rebuild a high-wage economy for working families.", "source": "https://shulli.org/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 15, "evidence": "Supports repealing the Affordable Care Act.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   "liberty": null,
+   "security": {"score": 65, "evidence": "Pledges strong support for law enforcement.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   "immigration": {"score": 75, "evidence": "Supports the federal immigration crackdown.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   "foreign": null,
+   "energy": {"score": 10, "evidence": "Backs the 'Drill, Baby, Drill' approach to energy.", "source": "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Prioritises protecting parental rights in education.", "source": "https://whyy.org/articles/election-2026-delaware-us-senate-republican-primary-voter-guide/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Lost the September 15, 2026 Republican primary to Michael Katz, receiving about 23% of the vote."
+ },
+ {
+  "id": "FL-SEN-S/angie-nixon",
+  "name": "Angie Nixon",
+  "party": "Democratic",
+  "current_role": "Florida State Representative, District 13",
+  "bio": "Angie Nixon has served in the Florida House of Representatives since 2020, first for District 14 and since 2022 for District 13. Born and raised in Jacksonville, she graduated from the University of Florida and has worked as a union organizer with the Florida Public Service Union. She co-founded the Melanin Market for Black small business owners and opened a community space in Jacksonville.",
+  "website": "https://angienixon.com",
+  "social": {
+   "x": "https://twitter.com/AngieNixon",
+   "instagram": "https://www.instagram.com/angieforfl/",
+   "facebook": "https://www.facebook.com/angieforfl/",
+   "tiktok": "https://www.tiktok.com/@angieforfl",
+   "youtube": "https://www.youtube.com/@AngieForFL"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Enact Medicare for All with no premiums or copays and cancel medical debt.", "source": "https://angienixon.com/priorities/"},
+   {"topic": "Taxes", "point": "Levy a 5% annual wealth tax on billionaires and tax capital gains like wages.", "source": "https://angienixon.com/priorities/"},
+   {"topic": "Housing", "point": "Fund permanently affordable housing, set national rent stabilization standards and address Florida's property insurance crisis.", "source": "https://angienixon.com/priorities/"},
+   {"topic": "Childcare and education", "point": "Provide universal childcare and pre-K, tuition-free public college and fully funded K-12 schools.", "source": "https://angienixon.com/priorities/"},
+   {"topic": "Immigration", "point": "Abolish ICE and create a fast path to citizenship for Dreamers and undocumented residents.", "source": "https://angienixon.com/priorities/"},
+   {"topic": "Tech and AI", "point": "Break up tech monopolies and require safety testing for AI chatbots before release.", "source": "https://angienixon.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 95, "evidence": "Proposes a billionaire wealth tax, rent stabilization, a PRO Act and action on corporate price gouging.", "source": "https://angienixon.com/priorities/"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and universal childcare, pre-K and school meals.", "source": "https://angienixon.com/priorities/"},
+   "liberty": {"score": 5, "evidence": "Drugs: federal marijuana decriminalization; abortion: covers reproductive care; speech: protect protest rights.", "source": "https://angienixon.com/priorities/"},
+   "security": {"score": 10, "evidence": "Wants warrants for surveillance data, demilitarized policing and limits on mass surveillance.", "source": "https://angienixon.com/priorities/"},
+   "immigration": {"score": 5, "evidence": "Calls for abolishing ICE and a swift path to citizenship.", "source": "https://angienixon.com/priorities/"},
+   "foreign": {"score": 35, "evidence": "Wants to end wars and shift military spending home while restoring UN participation and humanitarian aid.", "source": "https://angienixon.com/priorities/"},
+   "energy": {"score": 90, "evidence": "Backs a union-built renewable transition and ending fossil fuel subsidies.", "source": "https://angienixon.com/priorities/"},
+   "tech": {"score": 90, "evidence": "Supports breaking up tech monopolies, AI chatbot safety testing and data center guardrails.", "source": "https://angienixon.com/priorities/"},
+   "education": {"score": 90, "evidence": "Calls for fully funding K-12 public schools and raising teacher pay.", "source": "https://angienixon.com/priorities/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Angie Nixon official portrait.jpg", "license": "Public domain (Florida public record, Fla. Const. art. I §24; Fla. Stat. ch. 119)", "author": "Florida House of Representatives"},
+  "campaign_photo": "https://angienixon.com/wp-content/uploads/2026/01/IMG_0311_cropped.jpg",
+  "notes": ""
+ },
+ {
+  "id": "FL-SEN-S/ashley-moody",
+  "name": "Ashley Moody",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Florida",
+  "bio": "Ashley Moody has served as a U.S. Senator from Florida since January 2025, when Governor Ron DeSantis appointed her to the seat. She was Florida Attorney General from 2019 to 2025 and a Hillsborough County circuit judge from 2007 to 2017, after working as a federal prosecutor and a civil litigator. A native of Plant City, she holds accounting and law degrees from the University of Florida and an LLM from Stetson University.",
+  "website": "https://ashleymoody.com",
+  "social": {
+   "x": "https://x.com/AshleyMoodyFL",
+   "instagram": "https://www.instagram.com/AshleyMoodyFL",
+   "facebook": "https://www.facebook.com/AshleyMoodyFL",
+   "youtube": "https://www.youtube.com/@AshleyMoodyFL"
+  },
+  "platform": [
+   {"topic": "Trump agenda", "point": "Support President Trump's America First agenda in the Senate.", "source": "https://www.moody.senate.gov/about/"},
+   {"topic": "Border security", "point": "Secure the border and enforce immigration law.", "source": "https://www.moody.senate.gov/about/"},
+   {"topic": "Law and order", "point": "Back law enforcement and uphold the rule of law.", "source": "https://ashleymoody.com/"},
+   {"topic": "Child safety online", "point": "Continue her attorney general work challenging Big Tech practices that affect children.", "source": "https://www.moody.senate.gov/about/"},
+   {"topic": "Economy", "point": "Promote economic prosperity for Florida families.", "source": "https://ashleymoody.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2025 budget reconciliation tax-cut law.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"},
+   "welfare": {"score": 15, "evidence": "Voted against extending ACA subsidies in December 2025 and backed lawsuits against the ACA as attorney general.", "source": "https://en.wikipedia.org/wiki/Ashley_Moody"},
+   "liberty": {"score": 75, "evidence": "Abortion: sought to keep the 2024 abortion-rights measure off the ballot; drugs: opposed recreational marijuana legalization.", "source": "https://en.wikipedia.org/wiki/Ashley_Moody"},
+   "security": {"score": 70, "evidence": "Former prosecutor who campaigns on law and order and supporting police.", "source": "https://www.moody.senate.gov/about/"},
+   "immigration": {"score": 80, "evidence": "Lists securing the border as a core priority and challenged federal border policies as attorney general.", "source": "https://www.moody.senate.gov/about/"},
+   "foreign": {"score": 70, "evidence": "Voted against the March 2026 Iran war powers resolution.", "source": "https://en.wikipedia.org/wiki/Ashley_Moody"},
+   "energy": null,
+   "tech": {"score": 65, "evidence": "As attorney general she challenged Big Tech policies affecting children.", "source": "https://www.moody.senate.gov/about/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The earlier energy score (45) was removed because no supporting evidence was found."
+ },
+ {
+  "id": "FL-GOV/david-jolly",
+  "name": "David Jolly",
+  "party": "Democratic",
+  "current_role": "Former U.S. Representative for FL-13",
+  "bio": "David Jolly represented Florida's 13th congressional district as a Republican from 2014 to 2017, after working as a lobbyist and attorney. He left the Republican Party in 2018, later joined the Forward Party, and registered as a Democrat in 2025. Born in Dunedin, he holds degrees from Emory University and George Mason University School of Law.",
+  "website": "https://davidjolly.com",
+  "social": {
+   "x": "https://x.com/davidjollyfl",
+   "instagram": "https://www.instagram.com/davidjollyfl",
+   "facebook": "https://www.facebook.com/davidjollyflorida",
+   "tiktok": "https://www.tiktok.com/@david_jolly"
+  },
+  "platform": [
+   {"topic": "Insurance", "point": "Create a state catastrophic fund to lower property insurance rates and offer no-interest loans to condo associations.", "source": "https://davidjolly.com/issues/"},
+   {"topic": "Education", "point": "Sharply increase public school funding and teacher pay, and means-test vouchers with equal standards for private schools.", "source": "https://davidjolly.com/issues/"},
+   {"topic": "Health care", "point": "Expand Medicaid and work toward universal access to health care.", "source": "https://davidjolly.com/issues/"},
+   {"topic": "Abortion", "point": "Codify the Roe v. Wade and Casey framework in state law.", "source": "https://davidjolly.com/issues/"},
+   {"topic": "Guns", "point": "Ban assault weapon sales, require universal background checks and expand red flag laws.", "source": "https://davidjolly.com/issues/"},
+   {"topic": "Ethics", "point": "Tighten ethics rules and limit corporate donations tied to official acts.", "source": "https://davidjolly.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Proposes a state catastrophic insurance fund and state-backed condo loans, and opposes repealing property taxes.", "source": "https://davidjolly.com/issues/"},
+   "welfare": {"score": 70, "evidence": "Supports Medicaid expansion and universal health care access.", "source": "https://davidjolly.com/issues/"},
+   "liberty": {"score": 35, "evidence": "Abortion: codify Roe; guns: assault weapons ban and background checks; LGBTQ: opposes culture-war policies.", "source": "https://davidjolly.com/issues/"},
+   "security": {"score": 40, "evidence": "Pairs holding lawbreakers accountable with addressing racial disparities and local police control.", "source": "https://davidjolly.com/issues/"},
+   "immigration": {"score": 20, "evidence": "Pledges to welcome immigrant communities and has criticised state immigration crackdowns.", "source": "https://www.wusf.org/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration"},
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Accepts climate science and backs more renewable energy on the grid and coastal resiliency.", "source": "https://davidjolly.com/issues/"},
+   "tech": null,
+   "education": {"score": 75, "evidence": "Wants much higher public school funding and means-tested vouchers held to public-school standards.", "source": "https://davidjolly.com/issues/"},
+   "faith": null
+  },
+  "photo": {"file": "File:David Jolly (3x4).jpg", "license": "Public domain", "author": "United States Congress"},
+  "campaign_photo": "https://avmwarroom.com/candidates/david-jolly-headshot.jpg",
+  "notes": "Running mate is former U.S. Representative Gwen Graham."
+ },
+ {
+  "id": "FL-GOV/byron-donalds",
+  "name": "Byron Donalds",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-19",
+  "bio": "Byron Donalds has represented Florida's 19th congressional district since 2021 and served in the Florida House of Representatives from 2016 to 2020. Before office he worked in finance, insurance and banking. Born and raised in Brooklyn, New York, he earned a degree in finance and marketing from Florida State University.",
+  "website": "https://byrondonalds.com",
+  "social": {
+   "x": "https://www.x.com/byrondonalds/",
+   "instagram": "https://www.instagram.com/byrondonalds/",
+   "facebook": "https://www.facebook.com/byrondonalds/",
+   "youtube": "https://www.youtube.com/@ByronDonaldsForFlorida"
+  },
+  "platform": [
+   {"topic": "Property taxes", "point": "Expand homestead exemptions and study eliminating homestead property taxes entirely.", "source": "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues"},
+   {"topic": "Immigration", "point": "Cut state funding to local governments and groups that do not cooperate with immigration enforcement.", "source": "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues"},
+   {"topic": "Affordability", "point": "Address the property insurance crisis and lower housing costs for families and seniors.", "source": "https://byrondonalds.com/issues/"},
+   {"topic": "Education", "point": "Offer personalized academic and career plans from middle school and link students to apprenticeships.", "source": "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues"},
+   {"topic": "Environment", "point": "Complete Everglades restoration and improve water quality and supply.", "source": "https://byrondonalds.com/issues/"},
+   {"topic": "Guns", "point": "Repeal the post-Parkland rule barring most 18-to-20-year-olds from buying firearms.", "source": "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Calls for lower taxes, less regulation and eventually ending homestead property taxes.", "source": "https://byrondonalds.com/issues/"},
+   "welfare": null,
+   "liberty": {"score": 65, "evidence": "Abortion: keep Florida's current law; drugs: oppose recreational marijuana; guns: self-described Second Amendment absolutist.", "source": "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues"},
+   "security": {"score": 75, "evidence": "Has said due process is reserved for U.S. citizens and introduced a bill requiring biometric scans of travelers.", "source": "https://en.wikipedia.org/wiki/Byron_Donalds"},
+   "immigration": {"score": 90, "evidence": "His 'Zero Tolerance, Zero Dollars' plan ties state funds to cooperation with immigration enforcement.", "source": "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues"},
+   "foreign": {"score": 50, "evidence": "Opposed Ukraine aid but supports full U.S. backing of Israel.", "source": "https://en.wikipedia.org/wiki/Byron_Donalds"},
+   "energy": {"score": 15, "evidence": "Has said climate science is not settled.", "source": "https://en.wikipedia.org/wiki/Byron_Donalds"},
+   "tech": {"score": 55, "evidence": "Supports AI rules protecting children and likeness rights but opposes blocking hyperscale data centers.", "source": "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues"},
+   "education": {"score": 10, "evidence": "Supports school vouchers and charter schools.", "source": "https://en.wikipedia.org/wiki/Byron_Donalds"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "GA-SEN/jon-ossoff",
+  "name": "Jon Ossoff",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from Georgia",
+  "bio": "Jon Ossoff has served as a U.S. Senator from Georgia since 2021 and sits on the Appropriations, Rules and Intelligence committees. He previously worked as a national security aide to Rep. Hank Johnson and ran Insight TWI, an investigative documentary company. Born in Atlanta, he studied at Georgetown University and the London School of Economics.",
+  "website": "https://electjon.com",
+  "social": {
+   "x": "https://x.com/SenOssoff",
+   "instagram": "https://www.instagram.com/jonossoff",
+   "facebook": "https://www.facebook.com/SenOssoff"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Cap insulin costs for seniors at $35 a month and improve care for pregnant women and children.", "source": "https://electjon.com/"},
+   {"topic": "Housing", "point": "Lower housing costs for Georgia families.", "source": "https://electjon.com/"},
+   {"topic": "Child safety", "point": "Crack down on online child exploitation.", "source": "https://electjon.com/"},
+   {"topic": "Corruption", "point": "Expose corruption and abuses of power, including banning congressional stock trading.", "source": "https://en.wikipedia.org/wiki/Jon_Ossoff"},
+   {"topic": "Iran", "point": "Limit presidential war powers over the Iran conflict.", "source": "https://en.wikipedia.org/wiki/Jon_Ossoff"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Opposes special-interest subsidies while backing infrastructure investment and COVID relief.", "source": "https://en.wikipedia.org/wiki/Jon_Ossoff"},
+   "welfare": {"score": 60, "evidence": "Supports the ACA and a public option but opposes Medicare for All.", "source": "https://en.wikipedia.org/wiki/Jon_Ossoff"},
+   "liberty": {"score": 20, "evidence": "Abortion: supports abortion rights; LGBTQ: backs the Equality Act; drugs: supports nationwide cannabis legalization; guns: voted for the 2022 gun safety law.", "source": "https://en.wikipedia.org/wiki/Jon_Ossoff"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Backs reform pairing enforcement with citizenship pathways and voted for the Laken Riley Act.", "source": "https://en.wikipedia.org/wiki/Jon_Ossoff"},
+   "foreign": {"score": 55, "evidence": "Voted for the 2024 Ukraine-Israel aid package but supported war powers limits on Iran.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 65, "evidence": "Supports the Paris Agreement but opposes the Green New Deal.", "source": "https://en.wikipedia.org/wiki/Jon_Ossoff"},
+   "tech": {"score": 65, "evidence": "Campaigns on cracking down on online child exploitation.", "source": "https://electjon.com/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The earlier security score (45) was removed for lack of supporting evidence. Social links are his official Senate accounts; campaign account URLs could not be confirmed."
+ },
+ {
+  "id": "GA-SEN/mike-collins",
+  "name": "Mike Collins",
+  "party": "Republican",
+  "current_role": "U.S. Representative for GA-10",
+  "bio": "Mike Collins has represented Georgia's 10th congressional district since 2023. He founded a trucking company in the early 1990s and has chaired a Georgia credit union board and led a local chamber of commerce. Born in Jackson, Georgia, he holds a business administration degree from Georgia State University.",
+  "website": "https://mikecollinsga.com",
+  "social": {
+   "x": "https://x.com/mikecollinsga/",
+   "instagram": "https://www.instagram.com/mikecollinsga/",
+   "facebook": "https://www.facebook.com/MikeCollinsGA",
+   "youtube": "https://www.youtube.com/channel/UCjh6vFfsb53dVOGIQxBcdBA"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Speed building approvals, cut builder regulations and limit large corporate home purchases.", "source": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/"},
+   {"topic": "Health care", "point": "Repeal the Affordable Care Act, require price transparency and hold insurers accountable.", "source": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/"},
+   {"topic": "Immigration", "point": "Support President Trump's deportation policies and broad detention authority under the Laken Riley Act.", "source": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/"},
+   {"topic": "Economy", "point": "Use free markets and deregulation to grow the economy and reshore jobs.", "source": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/"},
+   {"topic": "Iran", "point": "Back military action against Iran under a peace-through-strength approach.", "source": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Supported the 2025 tax-cut law and favors deregulation.", "source": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/"},
+   "welfare": {"score": 15, "evidence": "Wants to repeal the Affordable Care Act.", "source": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/"},
+   "liberty": {"score": 95, "evidence": "Abortion: describes himself as pro-life with no exceptions and co-sponsored a personhood-at-conception bill.", "source": "https://en.wikipedia.org/wiki/Mike_Collins_(politician)"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Authored the Laken Riley Act and backs mass deportation policies.", "source": "https://en.wikipedia.org/wiki/Mike_Collins_(politician)"},
+   "foreign": {"score": 50, "evidence": "Opposed Ukraine aid but supports Israel and military action against Iran.", "source": "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/"},
+   "energy": {"score": 10, "evidence": "Has called climate change a hoax and opposes environmental rules on construction.", "source": "https://en.wikipedia.org/wiki/Mike_Collins_(politician)"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The liberty score rests mainly on his abortion stance; his positions on the other liberty issues are less documented."
+ },
+ {
+  "id": "GA-GOV/keisha-lance-bottoms",
+  "name": "Keisha Lance Bottoms",
+  "party": "Democratic",
+  "current_role": "Former Mayor of Atlanta",
+  "bio": "Keisha Lance Bottoms was Mayor of Atlanta from 2018 to 2022 and then directed the White House Office of Public Engagement from 2022 to 2023. She earlier served on the Atlanta City Council, as a magistrate judge and as a prosecutor. An Atlanta native, she holds degrees from Florida A&M University and Georgia State University College of Law.",
+  "website": "https://keishaforgovernor.com",
+  "social": {
+   "x": "https://x.com/keishabottoms",
+   "instagram": "https://www.instagram.com/keishabottoms",
+   "facebook": "https://www.facebook.com/KeishaForGA",
+   "tiktok": "https://www.tiktok.com/@keishaforga"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Expand Medicaid, end Georgia Pathways and create a prescription drug savings board.", "source": "https://keishaforgovernor.com/issues"},
+   {"topic": "Education", "point": "Fully fund schools, provide universal childcare and end state income tax for teachers.", "source": "https://keishaforgovernor.com/issues"},
+   {"topic": "Housing", "point": "Speed permitting and create an affordable housing trust fund with buyer and renter assistance.", "source": "https://keishaforgovernor.com/issues"},
+   {"topic": "Public safety", "point": "Support local police and violence reduction alongside universal background checks and red flag laws.", "source": "https://keishaforgovernor.com/issues"},
+   {"topic": "Voting rights", "point": "Expand early and absentee voting and make Election Day a state holiday.", "source": "https://keishaforgovernor.com/issues"},
+   {"topic": "Affordability", "point": "Let localities suspend sales taxes on groceries and essentials.", "source": "https://keishaforgovernor.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Proposes a state drug price savings board and relief during price spikes on necessities.", "source": "https://keishaforgovernor.com/issues"},
+   "welfare": {"score": 85, "evidence": "Supports Medicaid expansion and universal childcare.", "source": "https://keishaforgovernor.com/issues"},
+   "liberty": {"score": 40, "evidence": "Abortion: restore abortion rights; guns: universal background checks and red flag laws; LGBTQ: created Atlanta's LGBTQ advisory board.", "source": "https://keishaforgovernor.com/issues"},
+   "security": {"score": 50, "evidence": "Pairs more law enforcement and GBI capacity with diversion and treatment for nonviolent cases.", "source": "https://keishaforgovernor.com/issues"},
+   "immigration": {"score": 35, "evidence": "As mayor she declared Atlanta a welcoming city and stopped the city jail holding ICE detainees.", "source": "https://en.wikipedia.org/wiki/Keisha_Lance_Bottoms"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 65, "evidence": "Calls for reassessing rapid data center expansion.", "source": "https://keishaforgovernor.com/issues"},
+   "education": {"score": 80, "evidence": "Pledges to fully fund public schools through a modernized funding formula.", "source": "https://keishaforgovernor.com/issues"},
+   "faith": null
+  },
+  "photo": {"file": "File:Keisha Lance Bottoms.jpg", "license": "Public domain", "author": "Executive Office of the President of the United States"},
+  "campaign_photo": "https://run.imgix.net/a61d218c-95d4-40f3-94ca-5057567b1621/f3e761bc-984c-42d2-9330-d507b90ec29c/f3e761bc-984c-42d2-9330-d507b90ec29c.png",
+  "notes": "The tech score relies on her data center stance, which is framed mainly as an environmental issue."
+ }
+]

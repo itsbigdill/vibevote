@@ -1,0 +1,411 @@
+[
+ {
+  "id": "VT-GOV/amanda-janoo",
+  "name": "Amanda Janoo",
+  "party": "Democratic",
+  "current_role": "Economist",
+  "bio": "Amanda Janoo is an economist who grew up in Strafford, Vermont, and lives in Burlington. She has worked for think tanks and international development organizations in the US and abroad. She has not held elected office and won the August 2026 Democratic primary for governor.",
+  "website": "https://www.janooforvt.com",
+  "social": {
+   "instagram": "https://www.instagram.com/janooforvt/",
+   "facebook": "https://www.facebook.com/JanooForVT/",
+   "tiktok": "https://www.tiktok.com/@janooforvt",
+   "youtube": "https://www.youtube.com/@janooforvt"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Guarantee free primary and preventive care for all Vermonters, funded partly by a surcharge on income above $500,000.", "source": "https://vtdigger.org/2026/08/11/amanda-janoo-wins-vermonts-democratic-governor-primary/"},
+   {"topic": "Housing", "point": "Expand permanently affordable housing, tax luxury properties and rebuild the state's construction workforce.", "source": "https://www.janooforvt.com/platform-page/"},
+   {"topic": "Technology", "point": "Place a moratorium on AI data centers, strengthen digital privacy rights and tax large tech companies' ad revenue.", "source": "https://www.janooforvt.com/platform-page/"},
+   {"topic": "Education", "point": "Protect community schools and turn them into hubs offering health care, childcare and food access.", "source": "https://www.janooforvt.com/platform-page/"},
+   {"topic": "Economy", "point": "Invest in small businesses, farmers and cooperatives rather than outside corporations.", "source": "https://www.janooforvt.com/platform-page/"},
+   {"topic": "Democracy", "point": "Expand citizen assemblies and participatory budgeting to give communities more decision-making power.", "source": "https://www.janooforvt.com/platform-page/"}
+  ],
+  "positions": {
+   "economy": {"score": 90, "evidence": "Proposes a surcharge on income above $500,000, taxes on luxury property and on big tech advertising revenue.", "source": "https://vtdigger.org/2026/08/11/amanda-janoo-wins-vermonts-democratic-governor-primary/"},
+   "welfare": {"score": 90, "evidence": "Calls for free, universal primary and preventive care for every Vermonter.", "source": "https://www.janooforvt.com/platform-page/"},
+   "liberty": {"score": 10, "evidence": "Platform supports reproductive freedom (abortion); no stated positions on guns or drugs.", "source": "https://www.janooforvt.com/platform-page/"},
+   "security": {"score": 10, "evidence": "Platform calls for banning Flock license-plate surveillance cameras.", "source": "https://www.janooforvt.com/platform-page/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 95, "evidence": "Proposes a moratorium on AI data centers, limits on manipulative algorithms and a tax on digital advertising.", "source": "https://www.janooforvt.com/platform-page/"},
+   "education": {"score": 80, "evidence": "Pledges to protect and invest in community public schools, including small rural schools.", "source": "https://www.janooforvt.com/platform-page/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Amanda Janoo at candidate forum in May 2026 (cropped).png", "license": "CC BY 4.0", "author": "Town Meeting TV"},
+  "campaign_photo": "",
+  "notes": "Earlier immigration (25) and energy (80) scores were cleared because no supporting statement was found on her platform page."
+ },
+ {
+  "id": "VT-GOV/phil-scott",
+  "name": "Phil Scott",
+  "party": "Republican",
+  "current_role": "Governor of Vermont",
+  "bio": "Phil Scott has been Governor of Vermont since 2017, after serving as lieutenant governor from 2011 to 2017 and in the Vermont Senate from 2001 to 2011. From Barre, he co-owned DuBois Construction and is a longtime stock car racer.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Opposes new taxes and property tax increases while cutting income tax rates for working families.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   {"topic": "Education", "point": "Seeks to contain school costs by revising the Act 46 school district consolidation framework.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   {"topic": "Climate", "point": "Keeps Vermont in the U.S. Climate Alliance with a goal of 90% renewable energy by 2050.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   {"topic": "Public safety", "point": "Signed background-check expansion, a bump stock ban and extreme risk protection orders.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Opposes new taxes including a carbon tax and has cut state income tax rates.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   "welfare": {"score": 50, "evidence": "Record mixes tax credits for low-income earners with opposition to new revenue for expanded programs.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   "liberty": {"score": 30, "evidence": "Signed abortion-rights protections, allowed marijuana legalization to pass, but also signed gun restrictions (abortion, drugs, guns).", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Signed a law limiting police involvement in federal immigration enforcement and opposed Trump immigration policies.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   "foreign": null,
+   "energy": {"score": 35, "evidence": "Joined the Climate Alliance but vetoed the Global Warming Solutions Act and opposes a carbon tax.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   "tech": null,
+   "education": {"score": 40, "evidence": "Pushed Act 46 changes focused on cost containment and school choice within the consolidation law.", "source": "https://en.wikipedia.org/wiki/Phil_Scott"},
+   "faith": null
+  },
+  "photo": {"file": "File:Phil Scott 2019 (cropped).jpg", "license": "Public domain", "author": "Master Sgt. Sarah Mattison, U.S. Air National Guard"},
+  "campaign_photo": "",
+  "notes": "Immigration score added from his state record on police cooperation with federal enforcement. No campaign website was confirmed."
+ },
+ {
+  "id": "VA-SEN/bert-mizusawa",
+  "name": "Bert Mizusawa",
+  "party": "Republican",
+  "current_role": "Retired U.S. Army major general",
+  "bio": "Bert Mizusawa is a retired U.S. Army major general who served from 1979 to 2015, including command of the Joint Security Force in Korea. A West Point and Harvard Law graduate, he worked as an attorney, Senate Armed Services Committee staffer and at the CIA. Born in Honolulu and based in Hampton, Virginia, he previously ran for Congress in 2010.",
+  "website": "https://bertforsenate.com",
+  "social": {
+   "x": "https://x.com/GenBert2026",
+   "instagram": "https://www.instagram.com/bertforsenate2026/",
+   "facebook": "https://www.facebook.com/BertForSenate2026/"
+  },
+  "platform": [
+   {"topic": "Budget", "point": "Balance the federal budget and reverse the growth of national debt.", "source": "https://bertforsenate.com/issues"},
+   {"topic": "Affordability", "point": "Cut taxes, including taxes on home sales, to lower costs for Virginia families.", "source": "https://bertforsenate.com/issues"},
+   {"topic": "Ethics", "point": "Ban stock trading by members of Congress.", "source": "https://bertforsenate.com/issues"},
+   {"topic": "Health care", "point": "Hold insurance companies accountable and fund rural hospitals.", "source": "https://bertforsenate.com/issues"},
+   {"topic": "Veterans", "point": "Protect veteran benefits and expand health care access for service members.", "source": "https://bertforsenate.com/issues"},
+   {"topic": "Energy", "point": "Expand nuclear power as a clean and reliable energy source.", "source": "https://bertforsenate.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaign calls for a balanced budget and lower taxes, including on home sales.", "source": "https://bertforsenate.com/issues"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 45, "evidence": "Promotes new nuclear power as a clean, reliable source.", "source": "https://bertforsenate.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Mizusawa.jpg", "license": "Public domain", "author": "William Pratt, U.S. Army"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "VA-SEN/mark-warner",
+  "name": "Mark Warner",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from Virginia",
+  "bio": "Mark Warner has represented Virginia in the U.S. Senate since 2009 and is vice chair of the Senate Intelligence Committee, which he chaired from 2021 to 2025. He was Governor of Virginia from 2002 to 2006. Born in Indianapolis, he was a telecommunications venture capitalist before entering politics.",
+  "website": "https://www.markwarnerva.com",
+  "social": {
+   "x": "https://twitter.com/markwarnerva",
+   "instagram": "https://www.instagram.com/MarkWarnerVa",
+   "facebook": "https://www.facebook.com/MarkWarnerVa",
+   "youtube": "https://www.youtube.com/user/MarkWarnerVA"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Expand housing supply, lower child care costs and protect health care access.", "source": "https://www.markwarnerva.com/plan/"},
+   {"topic": "Infrastructure", "point": "Invest in roads, bridges, broadband and advanced manufacturing jobs.", "source": "https://www.markwarnerva.com/plan/"},
+   {"topic": "National security", "point": "Keep the US ahead in AI and advanced technologies to strengthen security.", "source": "https://www.markwarnerva.com/plan/"},
+   {"topic": "Rights", "point": "Protect elections and constitutional rights and support gun safety measures.", "source": "https://www.markwarnerva.com/plan/"},
+   {"topic": "Bipartisanship", "point": "Work across party lines to deliver results for Virginia.", "source": "https://www.markwarnerva.com/plan/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Voted for the Inflation Reduction Act and against the 2025 budget reconciliation law.", "source": "https://en.wikipedia.org/wiki/Mark_Warner"},
+   "welfare": {"score": 75, "evidence": "Voted for the Affordable Care Act and campaigns on universal health care access and lower child care costs.", "source": "https://www.markwarnerva.com/plan/"},
+   "liberty": {"score": 30, "evidence": "Supports abortion rights and backs expanded background checks and an assault weapons ban (abortion, guns).", "source": "https://en.wikipedia.org/wiki/Mark_Warner"},
+   "security": {"score": 75, "evidence": "Voted to reauthorize FISA Section 702 surveillance in 2024.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm"},
+   "immigration": {"score": 50, "evidence": "Voted for the Laken Riley Act in 2025 while generally supporting Democratic immigration positions.", "source": "https://en.wikipedia.org/wiki/Mark_Warner"},
+   "foreign": {"score": 85, "evidence": "Voted for the 2024 foreign aid package including Ukraine and Israel aid.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 80, "evidence": "Voted for the Inflation Reduction Act's clean-energy investments.", "source": "https://en.wikipedia.org/wiki/Mark_Warner"},
+   "tech": {"score": 60, "evidence": "Co-sponsored the RESTRICT Act and the Kids Off Social Media Act while promoting US AI leadership.", "source": "https://en.wikipedia.org/wiki/Mark_Warner"},
+   "education": {"score": 70, "evidence": "Led high school reform efforts as governor and backs public investment in child care and schools.", "source": "https://en.wikipedia.org/wiki/Mark_Warner"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "WV-SEN/rachel-fetty-anderson",
+  "name": "Rachel Fetty Anderson",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Rachel Fetty Anderson is the Democratic nominee for U.S. Senate in West Virginia, running a campaign based in Morgantown. She has not held elected office, and little further biographical information was found in public sources.",
+  "website": "https://www.fettyandersonforsenate.com",
+  "social": {
+   "instagram": "https://www.instagram.com/rachelfettyanderson/",
+   "facebook": "https://www.facebook.com/profile.php?id=61586103667379",
+   "tiktok": "https://www.tiktok.com/@rachel.fetty.ande",
+   "youtube": "https://www.youtube.com/@RachelFettyAnderson"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Propose Medicare, Medicaid and Tricare for all and remove profit incentives to deny care.", "source": "https://www.fettyandersonforsenate.com/platform"},
+   {"topic": "Taxes", "point": "Close tax loopholes and raise rates on high earners.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   {"topic": "Data centers", "point": "End special treatment for data centers and support community control over them.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   {"topic": "Accountability", "point": "Audit the Defense Department and require disclosure of gifts over $50 to elected officials.", "source": "https://www.fettyandersonforsenate.com/platform"},
+   {"topic": "Water", "point": "Fix southern West Virginia's water problems and hold polluters accountable.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   {"topic": "Marijuana", "point": "Decriminalize marijuana use and regulate commercial products.", "source": "https://www.fettyandersonforsenate.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Calls for higher taxes on high earners, closing loopholes and strong public infrastructure investment.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   "welfare": {"score": 90, "evidence": "Proposes Medicare and Medicaid for all Americans.", "source": "https://www.fettyandersonforsenate.com/platform"},
+   "liberty": {"score": 10, "evidence": "Supports marijuana decriminalization, comprehensive reproductive health care and free speech protections (drugs, abortion, speech).", "source": "https://www.fettyandersonforsenate.com/issues"},
+   "security": {"score": 15, "evidence": "Emphasizes constitutional due process for all people and protecting rights against government infringement.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   "immigration": null,
+   "foreign": {"score": 40, "evidence": "Backs alliances with democracies but would reserve the military for self-defense and limit weapons sales.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   "energy": {"score": 60, "evidence": "Supports investing in sustainable energy while managing coal cleanly.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   "tech": {"score": 85, "evidence": "Would end special treatment for data centers and protect human workers from technology displacement.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   "education": {"score": 65, "evidence": "Lists investment in children's education as a priority for families.", "source": "https://www.fettyandersonforsenate.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Earlier faith score (15) was cleared because no statement on religion in public life was found. Her campaign site does not address immigration or gun policy."
+ },
+ {
+  "id": "WV-SEN/shelley-moore-capito",
+  "name": "Shelley Moore Capito",
+  "party": "Republican",
+  "current_role": "U.S. Senator from West Virginia",
+  "bio": "Shelley Moore Capito has represented West Virginia in the U.S. Senate since 2015 and chairs the Environment and Public Works Committee and the Senate Republican Policy Committee. She served in the U.S. House from 2001 to 2015 and the West Virginia House of Delegates from 1996 to 2000. From Glen Dale, she previously worked as a college career counselor.",
+  "website": "https://www.shelleymoorecapito.com",
+  "social": {
+   "x": "https://x.com/capitoforwv",
+   "instagram": "https://www.instagram.com/capitoforwv",
+   "facebook": "https://www.facebook.com/capitoforwv"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Support tax cuts and fiscal conservatism to spur economic growth.", "source": "https://www.shelleymoorecapito.com/"},
+   {"topic": "Border security", "point": "Secure the southern border.", "source": "https://www.shelleymoorecapito.com/"},
+   {"topic": "Guns", "point": "Protect Second Amendment rights.", "source": "https://www.shelleymoorecapito.com/"},
+   {"topic": "Opioids", "point": "Help West Virginia recover from the opioid and substance abuse crisis.", "source": "https://www.shelleymoorecapito.com/"},
+   {"topic": "Broadband", "point": "Expand broadband access across the state.", "source": "https://www.shelleymoorecapito.com/"},
+   {"topic": "Infrastructure", "point": "Build infrastructure and reduce regulatory burdens.", "source": "https://www.shelleymoorecapito.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaigns on tax cuts and regulatory reduction; voted for the 2025 budget reconciliation law.", "source": "https://www.shelleymoorecapito.com/"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 budget law, which added Medicaid work requirements.", "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"},
+   "liberty": {"score": 45, "evidence": "Voted for the Respect for Marriage Act and the 2022 gun law, but supports letting states ban abortion (LGBTQ, guns, abortion).", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00362.htm"},
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Opposes a pathway to citizenship, voted against the DREAM Act and backs border security funding.", "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"},
+   "foreign": {"score": 80, "evidence": "Voted for the 2024 foreign aid package including Ukraine aid.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 10, "evidence": "Supports fracking and coal, opposes greenhouse gas caps, and voted against the Inflation Reduction Act.", "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"},
+   "tech": {"score": 60, "evidence": "Voted for the Kids Online Safety Act as part of the 2024 Senate package.", "source": "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://shelleymoorecapito.com/wp-content/uploads/2025/09/IMG_8023-AIr-scaled.jpg",
+  "notes": "An earlier education score was cleared because it could not be tied to a specific statement or vote."
+ },
+ {
+  "id": "WI-GOV/david-crowley",
+  "name": "David Crowley",
+  "party": "Democratic",
+  "current_role": "Milwaukee County Executive",
+  "bio": "David Crowley has been Milwaukee County Executive since 2020, the first African American to hold the post. He represented the 17th District in the Wisconsin State Assembly from 2017 to 2020 after working as a campaign organizer and legislative aide. He was born and raised in Milwaukee.",
+  "website": "https://www.crowleyforwi.com",
+  "social": {},
+  "platform": [
+   {"topic": "Child care", "point": "Cap family out-of-pocket child care costs at 7% of income and stabilize providers.", "source": "https://www.crowleyforwi.com/Plan"},
+   {"topic": "Education", "point": "Provide universal early childhood education and new investment in public schools.", "source": "https://www.crowleyforwi.com/Plan"},
+   {"topic": "Jobs", "point": "Grow a locally owned, union-labor economy and modernize apprenticeship programs.", "source": "https://www.crowleyforwi.com/Plan"},
+   {"topic": "Housing", "point": "Build and preserve affordable housing in rural, urban and suburban areas.", "source": "https://www.crowleyforwi.com/Plan"},
+   {"topic": "Climate", "point": "Invest in solar power and clean infrastructure that creates union jobs.", "source": "https://www.crowleyforwi.com/Plan"},
+   {"topic": "Democracy", "point": "Protect voting rights and adopt nonpartisan redistricting.", "source": "https://www.crowleyforwi.com/Plan"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Plan calls for public investment, union jobs and local revenue reform.", "source": "https://www.crowleyforwi.com/Plan"},
+   "welfare": {"score": 70, "evidence": "Proposes child care cost caps and universal early childhood education.", "source": "https://www.crowleyforwi.com/Plan"},
+   "liberty": {"score": 10, "evidence": "Treats abortion as health care and backs harm-reduction drug policy (abortion, drugs).", "source": "https://www.crowleyforwi.com/Record"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Led Milwaukee County's net-zero-by-2050 climate plan and proposes solar and clean infrastructure investment.", "source": "https://www.crowleyforwi.com/Record"},
+   "tech": null,
+   "education": {"score": 75, "evidence": "Plan backs universal early childhood education and new public school investment.", "source": "https://www.crowleyforwi.com/Plan"},
+   "faith": null
+  },
+  "photo": {"file": "File:Milwaukee County Executive David Crowley during Democratic Primary debate on July 28, 2026.jpg", "license": "CC BY-SA 4.0", "author": "LaShawnda Jones"},
+  "campaign_photo": "https://run.imgix.net/045a6f9f-9790-4841-85c6-f4ea63efb90b/342be81a-888e-4992-93f5-cebde94bc69a/342be81a-888e-4992-93f5-cebde94bc69a.jpeg",
+  "notes": "The campaign site links to Facebook, Instagram and X, but the exact account URLs were not confirmed."
+ },
+ {
+  "id": "WI-GOV/tom-tiffany",
+  "name": "Tom Tiffany",
+  "party": "Republican",
+  "current_role": "U.S. Representative for WI-7",
+  "bio": "Tom Tiffany has represented Wisconsin's 7th congressional district since 2020. He served in the Wisconsin State Senate from 2013 to 2020 and the State Assembly from 2011 to 2013. Raised near Elmwood, Wisconsin, he worked in petroleum distribution and ran a river cruise business.",
+  "website": "https://tomtiffany.com",
+  "social": {
+   "x": "https://twitter.com/TomTiffanyWI",
+   "instagram": "https://www.instagram.com/tomtiffanyWI/",
+   "facebook": "https://www.facebook.com/TomTiffanyWI"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Lower property taxes, cut income taxes 10% for working families and end taxes on tips and overtime.", "source": "https://tomtiffany.com/solutions/"},
+   {"topic": "School choice", "point": "Let families choose public, charter, private or home schooling.", "source": "https://tomtiffany.com/solutions/"},
+   {"topic": "Public safety", "point": "Support law enforcement and ban sanctuary cities in Wisconsin.", "source": "https://tomtiffany.com/solutions/"},
+   {"topic": "Government reform", "point": "Audit state agencies, streamline permitting and enforce welfare work requirements.", "source": "https://tomtiffany.com/solutions/"},
+   {"topic": "Energy", "point": "Embrace next-generation nuclear and stop closing baseload power plants.", "source": "https://tomtiffany.com/solutions/"},
+   {"topic": "Housing", "point": "Reduce regulations and construction costs to make homes more affordable.", "source": "https://tomtiffany.com/solutions/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Proposes income and property tax cuts and regulatory streamlining.", "source": "https://tomtiffany.com/solutions/"},
+   "welfare": {"score": 15, "evidence": "Platform calls for enforcing work requirements for public assistance.", "source": "https://tomtiffany.com/solutions/"},
+   "liberty": {"score": 50, "evidence": "Supports Wisconsin's 20-week abortion limit and medical marijuana; voted against the 2022 gun safety law (abortion, drugs, guns).", "source": "https://en.wikipedia.org/wiki/Tom_Tiffany"},
+   "security": {"score": 45, "evidence": "Pledges support for law enforcement and tougher consequences for criminals.", "source": "https://tomtiffany.com/solutions/"},
+   "immigration": {"score": 90, "evidence": "Would ban sanctuary cities and require cooperation with federal immigration enforcement.", "source": "https://tomtiffany.com/solutions/"},
+   "foreign": {"score": 35, "evidence": "Opposed Ukraine aid citing an open-ended conflict while voting for Israel aid.", "source": "https://clerk.house.gov/Votes/2024151"},
+   "energy": {"score": 15, "evidence": "Opposes closing baseload fossil power plants and favors nuclear.", "source": "https://tomtiffany.com/solutions/"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Backs school choice across public, charter, private and home schools and parental rights.", "source": "https://tomtiffany.com/solutions/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Tom Tiffany.jpg", "license": "Public domain", "author": "US House of Representatives"},
+  "campaign_photo": "",
+  "notes": "Tiffany is a sitting U.S. Representative although the input listed no member_of_congress record; the Commons portrait is a federal work. Earlier tech score (60) was cleared for lack of a cited statement."
+ },
+ {
+  "id": "WY-SEN/james-w-byrd",
+  "name": "James W. Byrd",
+  "party": "Democratic",
+  "current_role": "Former Wyoming state legislator",
+  "bio": "James W. Byrd is a Wyoming native whose family homesteaded in the state in the 1800s. He previously served in the Wyoming Legislature and is the Democratic nominee for U.S. Senate in 2026.",
+  "website": "https://www.byrdforsenate.com",
+  "social": {
+   "x": "https://x.com/ByrdforSenate",
+   "instagram": "https://www.instagram.com/jamesbyrdforsenate/",
+   "facebook": "https://www.facebook.com/ByrdForSenate"
+  },
+  "platform": [
+   {"topic": "Energy costs", "point": "Support responsible domestic energy production and cut regulatory red tape to lower fuel costs.", "source": "https://www.byrdforsenate.com/"},
+   {"topic": "Public lands", "point": "Keep public lands public for hunting, fishing, grazing and recreation.", "source": "https://www.byrdforsenate.com/"},
+   {"topic": "Health care", "point": "Lower drug costs, protect rural hospitals and make insurance more affordable.", "source": "https://www.byrdforsenate.com/"},
+   {"topic": "Foreign policy", "point": "End costly foreign military interventions.", "source": "https://www.byrdforsenate.com/"},
+   {"topic": "Agriculture", "point": "Support country-of-origin labeling for meat.", "source": "https://byrdforsenate.com/blank"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Supports country-of-origin labeling and requiring data centers to pay their fair share.", "source": "https://byrdforsenate.com/blank"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 25, "evidence": "Calls for ending wasteful foreign wars and costly military interventions.", "source": "https://www.byrdforsenate.com/"},
+   "energy": {"score": 30, "evidence": "Backs domestic energy production and reduced regulatory burdens.", "source": "https://www.byrdforsenate.com/"},
+   "tech": {"score": 60, "evidence": "Says data centers should pay their fair share for power and resources.", "source": "https://byrdforsenate.com/blank"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/ef6d57_3177f7a35fa14bdfa988cc2117c88ac1~mv2.jpg",
+  "notes": "Legislative service details (chamber and years) were not confirmed from sources fetched."
+ },
+ {
+  "id": "WY-SEN/harriet-hageman",
+  "name": "Harriet Hageman",
+  "party": "Republican",
+  "current_role": "U.S. Representative for Wyoming's at-large district",
+  "bio": "Harriet Hageman has represented Wyoming's at-large congressional district since 2023. A Douglas native and University of Wyoming law graduate, she was a trial attorney focused on water rights and natural resources litigation. She is seeking the Senate seat held by retiring Senator Cynthia Lummis.",
+  "website": "https://hagemanforwyoming.com",
+  "social": {
+   "x": "https://twitter.com/HagemanforWY",
+   "instagram": "https://www.instagram.com/hagemanforwy/",
+   "facebook": "https://www.facebook.com/harriethageman"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Prioritize protecting the southern border and enforcing immigration laws.", "source": "https://en.wikipedia.org/wiki/Harriet_Hageman"},
+   {"topic": "Energy", "point": "Defend coal and fossil fuel production as affordable energy sources.", "source": "https://en.wikipedia.org/wiki/Harriet_Hageman"},
+   {"topic": "Public lands", "point": "Supported selling a small share of federal land in western states for local development.", "source": "https://en.wikipedia.org/wiki/Harriet_Hageman"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "House record supports tax cuts and reduced federal regulation.", "source": "https://en.wikipedia.org/wiki/Harriet_Hageman"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 budget law with Medicaid work requirements.", "source": "https://en.wikipedia.org/wiki/Harriet_Hageman"},
+   "liberty": {"score": 60, "evidence": "Voted for the Born-Alive Act and women's sports bill and to repeal the pistol-brace rule (abortion, LGBTQ, guns).", "source": "https://clerk.house.gov/Votes/202329"},
+   "security": {"score": 25, "evidence": "Voted against the 2024 FISA reauthorization.", "source": "https://clerk.house.gov/Votes/2024119"},
+   "immigration": {"score": 85, "evidence": "Voted for the Secure the Border Act and prioritizes border enforcement.", "source": "https://en.wikipedia.org/wiki/Harriet_Hageman"},
+   "foreign": {"score": 25, "evidence": "Voted against 2024 Ukraine aid.", "source": "https://en.wikipedia.org/wiki/Harriet_Hageman"},
+   "energy": {"score": 5, "evidence": "Calls coal an affordable, clean resource and opposes climate regulation.", "source": "https://en.wikipedia.org/wiki/Harriet_Hageman"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://static.wixstatic.com/media/47188a_29d940df5a07451a8f4f892b95aeea5f~mv2.png",
+  "notes": "Her campaign homepage lists no detailed issue positions, so platform items come from coverage of her record."
+ },
+ {
+  "id": "WY-GOV/eric-barlow",
+  "name": "Eric Barlow",
+  "party": "Republican",
+  "current_role": "Wyoming State Senator",
+  "bio": "Eric Barlow has served in the Wyoming Senate since 2023 after ten years in the Wyoming House, where he was majority leader and then speaker from 2021 to 2023. A veterinarian from Gillette, he holds a DVM from Colorado State University.",
+  "website": "https://www.barlowforwyo.com",
+  "social": {
+   "x": "https://x.com/Barlowforwyo",
+   "instagram": "https://www.instagram.com/barlow_wyo/",
+   "facebook": "https://www.facebook.com/EricBarlowRidingForWyoming",
+   "tiktok": "https://www.tiktok.com/@barlowforwyo"
+  },
+  "platform": [
+   {"topic": "Budget", "point": "Keep the state living within its means through cash-based budgeting and transparency.", "source": "https://www.barlowforwyo.com/positions"},
+   {"topic": "Energy", "point": "Protect coal, oil, gas and uranium production and streamline permitting.", "source": "https://www.barlowforwyo.com/positions"},
+   {"topic": "Education", "point": "Keep school decisions local and give parents a strong role.", "source": "https://www.barlowforwyo.com/positions"},
+   {"topic": "Abortion", "point": "Support protections for the unborn along with maternal health resources.", "source": "https://www.barlowforwyo.com/positions"},
+   {"topic": "Guns", "point": "Defend the Second Amendment and restore firearm rights to eligible citizens.", "source": "https://www.barlowforwyo.com/positions"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Backs cash-based budgeting and keeping fuel taxes low.", "source": "https://www.barlowforwyo.com/positions"},
+   "welfare": null,
+   "liberty": {"score": 50, "evidence": "Firmly anti-abortion but sponsored restoring gun rights and strengthening concealed carry (abortion, guns).", "source": "https://www.barlowforwyo.com/positions"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Supported legislation protecting coal, oil, gas and uranium production.", "source": "https://www.barlowforwyo.com/positions"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "WY-GOV/kenneth-casner",
+  "name": "Kenneth Casner",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Kenneth Casner is the Democratic nominee for Governor of Wyoming in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, platform or issue statements were found."
+ }
+]

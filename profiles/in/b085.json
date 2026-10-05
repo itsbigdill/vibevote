@@ -1,0 +1,432 @@
+[
+ {
+  "id": "SC-1/clayton-cuteri",
+  "name": "Clayton Cuteri",
+  "party": "Independent",
+  "race": "SC-1",
+  "race_label": "South Carolina · US House SC-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/South_Carolina's_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-2/joe-wilson",
+  "name": "Joe Wilson",
+  "party": "Republican",
+  "race": "SC-2",
+  "race_label": "South Carolina · US House SC-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000795",
+   "official_name": "Joe Wilson",
+   "chamber": "House",
+   "official_site": "https://joewilson.house.gov",
+   "official_social": {
+    "facebook": "JoeWilson",
+    "youtube": "RepJoeWilson",
+    "twitter": "RepJoeWilson",
+    "instagram": "repjoewilson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 70,
+    "security": null,
+    "immigration": 70,
+    "foreign": 90,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 GOP tax-and-Medicaid bill; backed H-1B limits and a same-sex marriage ban amendment; strong Ukraine supporter and Georgia sanctions author.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   ],
+   "photo": {
+    "file": "File:Joe Wilson, official portrait, 115th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "SC-2/zyon-khalifa",
+  "name": "Zyon Khalifa",
+  "party": "Democratic",
+  "race": "SC-2",
+  "race_label": "South Carolina · US House SC-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 25,
+    "security": null,
+    "immigration": 25,
+    "foreign": null,
+    "energy": 85,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Backs expanded health access, paid leave, reproductive healthcare, due process and faster immigration courts, net-zero legislation, more public school funding.",
+   "sources": [
+    "https://www.khalifaforcongress.com/platform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-3/sheri-biggs",
+  "name": "Sheri Biggs",
+  "party": "Republican",
+  "race": "SC-3",
+  "race_label": "South Carolina · US House SC-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001325",
+   "official_name": "Sheri Biggs",
+   "chamber": "House",
+   "official_site": "https://sheribiggs.house.gov",
+   "official_social": {
+    "twitter": "repsheribiggs",
+    "facebook": "RepSheriBiggs",
+    "instagram": "RepSheriBiggs"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Freedom Caucus member who voted for the 2025 GOP tax bill with Medicaid work requirements and border enforcement funding.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sheri_Biggs",
+    "https://ballotpedia.org/Sheri_Biggs"
+   ],
+   "photo": {
+    "file": "File:Rep. Sheri Biggs official photo, 119th Congress (3x4 full crop).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Ike Hayman)"
+   }
+  }
+ },
+ {
+  "id": "SC-3/eunice-lehmacher",
+  "name": "Eunice Lehmacher",
+  "party": "Democratic",
+  "race": "SC-3",
+  "race_label": "South Carolina · US House SC-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports abortion access and public funding of reproductive health services for low-income women.",
+   "sources": [
+    "https://ballotpedia.org/Eunice_Lehmacher"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-4/william-timmons",
+  "name": "William Timmons",
+  "party": "Republican",
+  "race": "SC-4",
+  "race_label": "South Carolina · US House SC-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000480",
+   "official_name": "William R. Timmons IV",
+   "chamber": "House",
+   "official_site": "https://timmons.house.gov",
+   "official_social": {
+    "twitter": "RepTimmons",
+    "facebook": "reptimmons",
+    "instagram": "reptimmons"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 70,
+    "security": null,
+    "immigration": 70,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Voted for 2025 GOP tax-and-Medicaid bill; cosponsored balanced budget, Planned Parenthood defunding and school choice bills; prioritizes border security.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/William_Timmons",
+    "https://timmons.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:William Timmons, official portrait, 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "SC-4/courtney-mcclain",
+  "name": "Courtney McClain",
+  "party": "Democratic",
+  "race": "SC-4",
+  "race_label": "South Carolina · US House SC-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Says affordable healthcare is a right; campaigns on affordable housing and lowering cost of living.",
+   "sources": [
+    "https://www.mcclainforsc.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-5/wes-climer",
+  "name": "Wes Climer",
+  "party": "Republican",
+  "race": "SC-5",
+  "race_label": "South Carolina · US House SC-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 75,
+    "security": null,
+    "immigration": 90,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 5,
+    "faith": 75
+   },
+   "basis": "Backs tax and spending cuts, border wall, Remain in Mexico, defunding sanctuary cities, pro-life stance, abolishing Education Department, defending faith.",
+   "sources": [
+    "https://wesclimer.com/pillars/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-5/mallory-dittmer",
+  "name": "Mallory Dittmer",
+  "party": "Democratic",
+  "race": "SC-5",
+  "race_label": "South Carolina · US House SC-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants to reverse ACA, Medicare and Medicaid cuts, end medical debt, and create a citizenship pathway alongside border security.",
+   "sources": [
+    "https://www.dittmerforcongress.com/priorities/health-care",
+    "https://www.dittmerforcongress.com/priorities/immigration"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-6/jim-clyburn",
+  "name": "Jim Clyburn",
+  "party": "Democratic",
+  "race": "SC-6",
+  "race_label": "South Carolina · US House SC-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C000537",
+   "official_name": "James E. Clyburn",
+   "chamber": "House",
+   "official_site": "https://clyburn.house.gov",
+   "official_social": {
+    "facebook": "jameseclyburn",
+    "youtube": "repjamesclyburn",
+    "twitter": "RepJamesClyburn",
+    "instagram": "repjamesclyburn"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 80,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": 65,
+    "energy": 60,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Voted against 2025 GOP tax-and-Medicaid bill; pro-choice ratings, supports same-sex marriage, opposes offshore drilling, backs Israel, seeks more education funding.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   ],
+   "photo": {
+    "file": "File:Jim Clyburn official portrait 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "Donald Baker"
+   }
+  }
+ },
+ {
+  "id": "SC-6/john-peterson",
+  "name": "John Peterson",
+  "party": "Republican",
+  "race": "SC-6",
+  "race_label": "South Carolina · US House SC-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found.",
+   "sources": [
+    "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-7/russell-fry",
+  "name": "Russell Fry",
+  "party": "Republican",
+  "race": "SC-7",
+  "race_label": "South Carolina · US House SC-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000478",
+   "official_name": "Russell Fry",
+   "chamber": "House",
+   "official_site": "https://fry.house.gov",
+   "official_social": {
+    "twitter": "RepRussellFry",
+    "facebook": "reprussellfry",
+    "instagram": "reprussellfry",
+    "youtube": "@reprussellfry"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": 35,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 GOP tax-and-Medicaid bill and to withdraw troops from Syria and Somalia; backs Israel aid, border security, energy independence.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Russell_Fry",
+    "https://fry.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Russell Fry 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ }
+]

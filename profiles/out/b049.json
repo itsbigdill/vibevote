@@ -1,0 +1,809 @@
+[
+ {
+  "id": "KY-6/pete-lynch",
+  "name": "Pete Lynch",
+  "party": "Kentucky Party",
+  "current_role": "Political science lecturer, University of Kentucky",
+  "bio": "Pete Lynch holds a PhD in American politics and has taught at the University of Kentucky, Centre College and Eastern Kentucky University. Since August 2025 he has lectured in UK's political science department and its Law and Justice program. He describes himself as an economic populist and is running with the backing of the Kentucky Party.",
+  "website": "https://petelynchforkentucky.com/",
+  "social": {
+   "x": "https://x.com/PeteLynch4KY",
+   "instagram": "https://www.instagram.com/PeteLynchForKentucky/",
+   "facebook": "https://www.facebook.com/profile.php?id=61583563949985",
+   "tiktok": "https://www.tiktok.com/@petelynch4ky",
+   "youtube": "https://www.youtube.com/@PeteLynchForKentucky"
+  },
+  "platform": [
+   {
+    "topic": "Campaign finance",
+    "point": "Tax election spending above $2,500 per donor and lobbying above $1 million at 100%, and ban congressional stock trading.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Pause new data center construction until projects win local votes, pay grid costs and supply their own renewable power.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Enact Medicare for All with no out-of-pocket costs for essential care and prescriptions.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Ban hedge fund and foreign ownership of single-family homes and cap rent increases on corporate-owned rentals.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Exempt the first $25,000 of income, tax capital gains as income and levy a 10% tax on billionaire wealth.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "End cash bail and three-strikes laws, rely more on fines than prison, and restore voting rights after sentences.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 95,
+    "evidence": "Proposes a 50% corporate tax rate, a wealth tax on billionaires, CEO pay caps at 10x workers and rent caps.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Backs Medicare for All, free breakfast for every student and four years of free public college or vocational training.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Drugs: supports legalizing recreational marijuana and shielding users from criminal convictions; no stated positions found on other issues.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "security": {
+    "score": 10,
+    "evidence": "Would require warrants for corporate data handed to police, bar federal funds for license-plate readers and ban data brokers selling location data.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Calls for abolishing ICE and replacing it with an enforcement body that respects human life and the rule of law.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "foreign": {
+    "score": 20,
+    "evidence": "Would end military aid for offensive purposes, stop funding Israel's military and direct foreign aid to food and medicine.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Supports expanding public power and renewables and requiring data centers to build renewable generation matching their load.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "tech": {
+    "score": 90,
+    "evidence": "Seeks a data center moratorium, breaking up corporate monopolies and paid opt-in rules for companies monetizing user data.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Proposes free public college, free school breakfasts and higher teacher pay.",
+    "source": "https://petelynchforkentucky.com/Policies/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://petelynchforkentucky.com/gallery_gen/a19ec3f88a730c077f80438054d5d3f2_fit.jpg",
+  "notes": "Campaign site says he runs as an independent supported by the Kentucky Party; the campaign photo URL is the only image on the home page and is assumed to be his headshot."
+ },
+ {
+  "id": "KY-6/jay-bowman",
+  "name": "Jay Bowman",
+  "party": "Independent",
+  "current_role": "Small-business owner",
+  "bio": "Jay J. Bowman is a Lexington-based business owner who was born in Michigan, grew up in Salt Lake City and moved to Kentucky in the early 1990s. He has worked in construction and in technology ventures including hybrid power systems, AI power electronics and satellite thruster design. He ran for president in 2024 and is running for Congress as an independent.",
+  "website": "https://www.bowman2026.com/",
+  "social": {
+   "x": "https://x.com/Bowman2026_KY6",
+   "instagram": "https://www.instagram.com/jbowman2026/",
+   "facebook": "https://www.facebook.com/profile.php?id=61584741065528"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Promotes his Zero-One-Hundred tax reform plan as the centrepiece of the campaign.",
+    "source": "https://www.bowman2026.com/zero-one-hundredtaxplan"
+   },
+   {
+    "topic": "Wages",
+    "point": "Tax large employers for public benefits their full-time workers receive and raise and index the minimum wage.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Design and phase in a single-payer universal healthcare system run by a federal agency.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Have Congress push back on tariffs, pass the 2026 Farm Bill and expand rural broadband and farmer co-ops.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Protect local veto power over data centers and pause new projects to study water and utility rate impacts.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   {
+    "topic": "Congress",
+    "point": "Supports congressional term limits.",
+    "source": "https://www.bowman2026.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Supports taxing large employers for workers' public benefits, raising the minimum wage and stronger bargaining rights, while calling for less farm regulation.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Calls for a single-payer universal healthcare system covering all citizens.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Drugs: wants addiction treated as a public health issue and decriminalized; no stated positions found on other issues.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Backs a path to citizenship and more legal visas alongside stronger border security with due process for asylum seekers.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Wants close cooperation with allies on intelligence and defense strategy while cutting defense waste.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Proposes a Senate-confirmed cabinet AI post with congressional oversight and a temporary pause on data center development.",
+    "source": "https://www.bowman2026.com/issues"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Listed as Jay J. Bowman in Wikipedia's general election table."
+ },
+ {
+  "id": "LA-1/steve-scalise",
+  "name": "Steve Scalise",
+  "party": "Republican",
+  "current_role": "U.S. Representative for LA-1 and House Majority Leader",
+  "bio": "Steve Scalise has represented Louisiana's 1st district since 2008 and has been House majority leader since 2023, after serving as majority whip and minority whip. He previously served three terms in the Louisiana House and briefly in the Louisiana Senate. He is a Louisiana State University graduate from the New Orleans suburbs.",
+  "website": "https://stevescalise.com/",
+  "social": {
+   "x": "https://x.com/SteveScalise",
+   "instagram": "https://www.instagram.com/stevescalise",
+   "facebook": "https://www.facebook.com/RepSteveScalise",
+   "youtube": "https://www.youtube.com/RepSteveScalise"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Promote fiscal discipline, good-paying jobs and economic growth.",
+    "source": "https://stevescalise.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Voted for the 2017 tax cuts and the 2025 One Big Beautiful Bill Act extending them.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   {
+    "topic": "Border",
+    "point": "Lists building the border wall among the priorities his campaign asks voters about.",
+    "source": "https://stevescalise.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Cut federal spending; sponsored the Rescissions Act of 2025.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   {
+    "topic": "Gun rights",
+    "point": "Opposes new gun control laws and holds an A+ NRA rating.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Voted for the 2017 Tax Cuts and Jobs Act and the 2025 One Big Beautiful Bill Act extending those cuts.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Opposes the Affordable Care Act and voted for the 2017 American Health Care Act.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Abortion: voted against the Women's Health Protection Act; LGBTQ: opposes same-sex marriage and voted against the Equality Act; guns: strong gun-rights supporter.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Supported the 2017 travel ban and lists building the wall among campaign priorities.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Has voiced strong support for Israel as House majority leader.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Has disputed the scientific consensus on climate change.",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   "tech": {
+    "score": 55,
+    "evidence": "Voted for the Protecting Americans from Foreign Adversary Controlled Applications Act (TikTok bill).",
+    "source": "https://en.wikipedia.org/wiki/Steve_Scalise"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://stevescalise.com/wp-content/uploads/2018/07/smiling.jpg",
+  "notes": "Campaign website appears not to have been updated since 2018."
+ },
+ {
+  "id": "LA-1/lauren-jewett",
+  "name": "Lauren Jewett",
+  "party": "Democratic",
+  "current_role": "Special education teacher",
+  "bio": "Lauren Jewett is a National Board Certified special education teacher with 17 years in Louisiana schools, most recently at The Leah Chase School in New Orleans. She served on the executive council of United Teachers of New Orleans and sits on the Louisiana and Jefferson Parish Democratic executive committees. She ran for Jefferson Parish School Board in 2022 and the state education board (BESE) in 2023, and lives in Metairie.",
+  "website": "https://www.laurenjewett.com/",
+  "social": {
+   "x": "https://x.com/ElectLJewett",
+   "instagram": "https://www.instagram.com/electlaurenjewett",
+   "facebook": "https://www.facebook.com/electlaurenjewett",
+   "tiktok": "https://www.tiktok.com/@electlaurenjewett",
+   "youtube": "https://www.youtube.com/@ElectLaurenJewett"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Cosponsor Medicare for All, close the Medicaid coverage gap and add dental, vision and hearing coverage to Medicare.",
+    "source": "https://www.laurenjewett.com/issues/quality-healthcare"
+   },
+   {
+    "topic": "Education",
+    "point": "Fully fund IDEA special education, raise teacher pay, oppose vouchers and create universal pre-K.",
+    "source": "https://www.laurenjewett.com/issues/stronger-schools"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Raise and index the federal minimum wage and support the PRO Act to strengthen collective bargaining.",
+    "source": "https://www.laurenjewett.com/issues/modern-economy"
+   },
+   {
+    "topic": "Coast",
+    "point": "Fully fund Morganza to the Gulf and create a dedicated federal coastal restoration trust fund.",
+    "source": "https://www.laurenjewett.com/issues/clean-energy-coast-environment"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Back pathways to citizenship and a permanent Dreamers fix, and vote to dismantle ICE.",
+    "source": "https://www.laurenjewett.com/issues/immigration"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Support universal background checks, red flag laws and funding for community mental health crisis response.",
+    "source": "https://www.laurenjewett.com/issues/public-safety"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Supports raising and indexing the minimum wage, the PRO Act and expanded overtime protections.",
+    "source": "https://www.laurenjewett.com/issues/modern-economy"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Would cosponsor Medicare for All with no premiums or deductibles and supports universal pre-K.",
+    "source": "https://www.laurenjewett.com/issues/quality-healthcare"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Abortion: would cosponsor the Women's Health Protection Act; guns: backs universal background checks and red flag laws; LGBTQ: supports anti-discrimination protections.",
+    "source": "https://www.laurenjewett.com/issues/public-safety"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Wants transparency and independent oversight before police use facial recognition or license-plate readers, while supporting police pay and body cameras.",
+    "source": "https://www.laurenjewett.com/issues/public-safety"
+   },
+   "immigration": {
+    "score": 10,
+    "evidence": "Supports pathways to citizenship and legislation dismantling ICE and ending its detention operations.",
+    "source": "https://www.laurenjewett.com/issues/immigration"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Opposes sending military aid to foreign conflicts such as Gaza but wants the US back in the UN, WHO and Paris Agreement.",
+    "source": "https://www.laurenjewett.com/issues/foreign-policy"
+   },
+   "energy": {
+    "score": 75,
+    "evidence": "Backs offshore wind and diversified Gulf energy and rejoining the Paris Climate Agreement.",
+    "source": "https://www.laurenjewett.com/issues/clean-energy-coast-environment"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Opposes vouchers and education savings accounts and wants full IDEA and Title I funding.",
+    "source": "https://www.laurenjewett.com/issues/stronger-schools"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "LA-1/randall-arrington",
+  "name": "Randall Arrington",
+  "party": "Republican",
+  "current_role": "Navy veteran",
+  "bio": "Randall Arrington is a Navy veteran running as a Republican in Louisiana's 1st district. Little other public information about his background was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue positions found; background from Wikipedia citing the American Press."
+ },
+ {
+  "id": "LA-2/troy-carter",
+  "name": "Troy Carter",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for LA-2",
+  "bio": "Troy Carter has represented Louisiana's 2nd district since 2021. He previously served in the Louisiana State Senate, the Louisiana House of Representatives and on the New Orleans City Council. He sits on the House Energy and Commerce Committee.",
+  "website": "https://www.congressmantroycarter.com/",
+  "social": {
+   "x": "https://x.com/RepTroyCarter",
+   "facebook": "https://www.facebook.com/RepTroyCarter",
+   "instagram": "https://www.instagram.com/troyc4congress/"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Pursue equal and fair housing legislation to help Louisianans achieve homeownership.",
+    "source": "https://www.congressmantroycarter.com/"
+   },
+   {
+    "topic": "Wages",
+    "point": "Fight for equal pay and a living wage for all Louisianans.",
+    "source": "https://www.congressmantroycarter.com/"
+   },
+   {
+    "topic": "Student debt",
+    "point": "Advocate reducing or eliminating student loan debt.",
+    "source": "https://www.congressmantroycarter.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Expand access to affordable healthcare and leave reproductive decisions to women.",
+    "source": "https://www.congressmantroycarter.com/"
+   },
+   {
+    "topic": "Justice",
+    "point": "Pursue criminal justice reform and environmental justice.",
+    "source": "https://www.congressmantroycarter.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Made raising the minimum wage a priority as a state senator and campaigns for a living wage.",
+    "source": "https://en.wikipedia.org/wiki/Troy_Carter_(politician)"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 30,
+    "evidence": "Abortion: opposes restrictions; guns: opposes expanding gun rights; LGBTQ: pushed stronger anti-discrimination laws.",
+    "source": "https://en.wikipedia.org/wiki/Troy_Carter_(politician)"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 65,
+    "evidence": "Voted to support Israel after the October 2023 Hamas attack.",
+    "source": "https://en.wikipedia.org/wiki/Troy_Carter_(politician)"
+   },
+   "energy": {
+    "score": 70,
+    "evidence": "Voted for the Inflation Reduction Act of 2022.",
+    "source": "https://en.wikipedia.org/wiki/Troy_Carter_(politician)"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Campaign website content appears dated to an earlier cycle."
+ },
+ {
+  "id": "LA-2/renada-collins",
+  "name": "Renada Collins",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Renada Collins ran as an independent candidate for mayor of New Orleans in 2025 and is running as a Democrat in Louisiana's 2nd district. Little other public information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site listed on Wikipedia (renadacollinsforyou.com) returned a 404 error."
+ },
+ {
+  "id": "LA-2/lisa-ballay",
+  "name": "Lisa Ballay",
+  "party": "Libertarian",
+  "current_role": "Digital creator",
+  "bio": "Lisa Ballay is a digital creator running as the Libertarian candidate in Louisiana's 2nd district. Little other public information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue positions found."
+ },
+ {
+  "id": "LA-3/clay-higgins",
+  "name": "Clay Higgins",
+  "party": "Republican",
+  "current_role": "U.S. Representative for LA-3",
+  "bio": "Clay Higgins has represented Louisiana's 3rd district since 2017 and chairs the Oversight Subcommittee on Federal Law Enforcement. Before Congress he worked as a car dealership manager and a law enforcement officer, including with the Opelousas police and the St. Landry Parish Sheriff's Office. He is a member of the House Freedom Caucus.",
+  "website": "https://captainhiggins.com/",
+  "social": {
+   "x": "https://x.com/RepClayHiggins",
+   "facebook": "https://www.facebook.com/CongressmanClayHiggins",
+   "instagram": "https://www.instagram.com/RepClayHiggins"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Keep taxes low and oppose tax increases on families and businesses, building on the 2017 tax law.",
+    "source": "https://clayhiggins.house.gov/issues/taxes/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Defend Louisiana's oil and gas industry against federal rules he views as costing jobs.",
+    "source": "https://clayhiggins.house.gov/issues/energy-the-environment/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Require legal entry and secure the border; passed a House bill ending DC's sanctuary city status.",
+    "source": "https://clayhiggins.house.gov/issues/immigration/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Back bills barring federal abortion funding, defunding Planned Parenthood and restricting late-term abortions.",
+    "source": "https://clayhiggins.house.gov/issues/pro-life/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Led a Freedom Caucus push for lower topline spending and fiscal reforms.",
+    "source": "https://clayhiggins.house.gov/issues/taxes/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Voted for the 2017 Tax Cuts and Jobs Act and pledges to oppose any tax increases.",
+    "source": "https://clayhiggins.house.gov/issues/taxes/"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted for the 2017 American Health Care Act to repeal and replace major parts of the ACA.",
+    "source": "https://en.wikipedia.org/wiki/Clay_Higgins"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Abortion: opposes abortion from conception; LGBTQ: opposes same-sex marriage and voted against the Respect for Marriage Act; guns: opposes firearm regulation.",
+    "source": "https://en.wikipedia.org/wiki/Clay_Higgins"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Supported the 2017 travel ban, sponsored a resolution backing ICE and a bill ending DC's sanctuary status.",
+    "source": "https://clayhiggins.house.gov/issues/immigration/"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Introduced legislation to bar sending ATACMS missiles to Ukraine.",
+    "source": "https://en.wikipedia.org/wiki/Clay_Higgins"
+   },
+   "energy": {
+    "score": 5,
+    "evidence": "Sponsored HR 10549 to abolish the Environmental Protection Agency and defends fossil fuel production.",
+    "source": "https://en.wikipedia.org/wiki/Clay_Higgins"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "LA-3/john-day",
+  "name": "John Day",
+  "party": "Democratic",
+  "current_role": "Writer and former insurance and finance professional",
+  "bio": "John Day was born in Shreveport, grew up in Lake Charles and served in the U.S. Navy from 1994 to 1998. He worked in business consulting, insurance, finance, healthcare and real estate, and in hurricane recovery. He now works as a professional writer and film project coordinator.",
+  "website": "https://johndayforcongress.com/",
+  "social": {
+   "x": "https://x.com/JohnDayCongress",
+   "instagram": "https://www.instagram.com/johndayforcongress/",
+   "facebook": "https://www.facebook.com/people/John-Day-for-Congress/61587179425827/",
+   "tiktok": "https://www.tiktok.com/@johndayforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Insurance",
+    "point": "Lower insurance premiums, stop unfair rate hikes and hold insurers accountable for storm claims.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue an all-of-the-above strategy supporting oil and gas jobs while investing in renewables.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border and stop fentanyl trafficking while creating clear legal pathways.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Protect personal medical decisions, keep rural hospitals open and lower prescription drug costs.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Oppose cuts to earned Social Security and Medicare benefits.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   {
+    "topic": "Coast",
+    "point": "Strengthen flood protection, speed storm recovery and restore Louisiana's coast.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 60,
+    "evidence": "Pledges no cuts to Social Security and Medicare and wants expanded rural healthcare access.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Abortion: says government should not control personal medical decisions and backs bodily autonomy; no specific positions found on other issues.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 50,
+    "evidence": "Pairs border security and law enforcement support with clear legal pathways.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 50,
+    "evidence": "Backs an all-of-the-above approach supporting oil and gas jobs alongside renewable investment.",
+    "source": "https://johndayforcongress.com/john-day-for-congress-platform/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://johndayforcongress.com/wp-content/uploads/2026/03/John-Day-for-Congress-ProfileImage-Hereo.png",
+  "notes": "Campaign photo URL is inferred from its filename to be a headshot."
+ },
+ {
+  "id": "LA-3/tia-lebrun",
+  "name": "Tia LeBrun",
+  "party": "Democratic",
+  "current_role": "Teacher",
+  "bio": "Tia LeBrun is an educator from Terrebonne Parish and a member of the United Houma Nation, with degrees from LSU and a master's from UNO. She has served on the Council for the Development of French in Louisiana board and the Louisiana Consortium of Immersion Schools board. She ran for this seat in 2022.",
+  "website": "https://lebrun4la.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/lebrun4la/",
+   "facebook": "https://www.facebook.com/Lebrun4la",
+   "tiktok": "https://www.tiktok.com/@lebrun4la",
+   "youtube": "https://www.youtube.com/@lebrun4la"
+  },
+  "platform": [
+   {
+    "topic": "Coast",
+    "point": "Invest in coastal restoration, hurricane protection and infrastructure with local, industry and federal partners.",
+    "source": "https://lebrun4la.com/keyissues"
+   },
+   {
+    "topic": "Land use",
+    "point": "Oppose carbon capture pipelines and data centers and limit eminent domain for industrial projects.",
+    "source": "https://lebrun4la.com/keyissues"
+   },
+   {
+    "topic": "Education",
+    "point": "Modernize public education and keep public money out of private schools.",
+    "source": "https://lebrun4la.com/keyissues"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Oppose any cuts to Social Security and Medicare.",
+    "source": "https://lebrun4la.com/keyissues"
+   },
+   {
+    "topic": "Congress",
+    "point": "Uncap the size of the House of Representatives to give voters more equal weight.",
+    "source": "https://lebrun4la.com/keyissues"
+   },
+   {
+    "topic": "AI",
+    "point": "Give people property rights over their likeness, voice and creative work against AI use.",
+    "source": "https://lebrun4la.com/keyissues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 70,
+    "evidence": "Opposes cuts to Social Security and Medicare and supports SNAP food assistance.",
+    "source": "https://lebrun4la.com/keyissues"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Wants legal rights over likeness, voice and creative work to guard against AI and opposes new data centers.",
+    "source": "https://lebrun4la.com/keyissues"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Says public money should not go to private schools and wants modernized public education.",
+    "source": "https://lebrun4la.com/keyissues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "LA-3/caleb-walker",
+  "name": "Caleb Walker",
+  "party": "Democratic",
+  "current_role": "Student body president, South Louisiana Community College",
+  "bio": "Caleb Walker served 10 years in the U.S. Army, reaching Sergeant First Class and deploying to Afghanistan. Originally from Wisner in Franklin Parish, he moved to Lafayette in 2020 and worked as a Sam's Club department manager and community coordinator. He studies political science at South Louisiana Community College, where he is student body president, and serves on the Louisiana Task Force for Career Alignment.",
+  "website": "https://www.calebforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Lower grocery, housing and insurance costs and push for wages that keep pace with the economy.",
+    "source": "https://www.calebforcongress.com/issues"
+   },
+   {
+    "topic": "Teachers",
+    "point": "Raise teacher pay and exempt the first $50,000 of educator salaries from federal income tax.",
+    "source": "https://www.calebforcongress.com/issues"
+   },
+   {
+    "topic": "Healthcare workers",
+    "point": "Provide student-loan forgiveness for healthcare workers serving Louisiana.",
+    "source": "https://www.calebforcongress.com/issues"
+   },
+   {
+    "topic": "Essential workers",
+    "point": "Secure hazardous-duty pay for essential workers during declared natural disasters.",
+    "source": "https://www.calebforcongress.com/issues"
+   },
+   {
+    "topic": "Coast",
+    "point": "Fund coastal restoration, stronger flood protection and storm-resilient infrastructure.",
+    "source": "https://www.calebforcongress.com/issues"
+   },
+   {
+    "topic": "Climate",
+    "point": "Address global warming with science-based solutions, including responsible carbon-capture projects.",
+    "source": "https://www.calebforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 60,
+    "evidence": "Pledges science-based action on global warming, including carbon capture, while supporting Louisiana's energy industry.",
+    "source": "https://www.calebforcongress.com/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/f44005_ef517e1d801a41a4947cb7d81fe4055a~mv2.png/v1/fill/w_384,h_583,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6646_edited.png",
+  "notes": "Campaign photo URL is assumed to be his portrait on the home page."
+ }
+]

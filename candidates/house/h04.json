@@ -1,0 +1,700 @@
+[
+  {
+    "state": "California",
+    "district": "CA-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Josh Harder",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": 55,
+          "liberty": 25,
+          "security": 60,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 60,
+          "tech": null,
+          "education": 65,
+          "faith": null
+        },
+        "basis": "Gas-tax repeal and insulin cap; backs abortion rights (liberty); funds police; DREAM Act plus border security; climate FARM Act; public school funding.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Josh_Harder",
+          "https://harderforcongress.com/issues"
+        ],
+        "photo": {
+          "file": "File:Josh Harder, official portrait, 116th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "US House of Representatives"
+        }
+      },
+      {
+        "name": "John McBride",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": 30,
+          "liberty": null,
+          "security": 70,
+          "immigration": 75,
+          "foreign": null,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Cut taxes and drastically shrink spending; backs law enforcement and prosecution; stronger southern border; energy independence.",
+        "sources": [
+          "https://www.johnmcbrideforcongress.com/priorities"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-10",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mark DeSaulnier",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 70,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 45,
+          "energy": 85,
+          "tech": 75,
+          "education": null,
+          "faith": null
+        },
+        "basis": "CEO pay tax and worker protections; opposed 2023 debt deal; abortion rights; mixed foreign-aid votes; EV charging, emission standards; platform accountability.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mark_DeSaulnier",
+          "https://desaulnierforcongress.com/issues"
+        ],
+        "photo": {
+          "file": "File:Mark DeSaulnier portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives, Office of the Clerk"
+        }
+      },
+      {
+        "name": "Jeff Frese",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": 45,
+          "liberty": null,
+          "security": 75,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 35,
+          "faith": null
+        },
+        "basis": "Cut deficit spending and red tape; no Social Security cuts; back police, end cashless bail; parents in charge of schools.",
+        "sources": [
+          "https://freseforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-11",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Scott Wiener",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 90,
+          "liberty": 10,
+          "security": 15,
+          "immigration": 5,
+          "foreign": null,
+          "energy": 80,
+          "tech": 80,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wealth-funded social housing and zoning deregulation; Medicare for All; LGBTQ protections, psychedelic decriminalization; ICE mask ban; abolish ICE; SB 1047 AI safety.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Scott_Wiener",
+          "https://www.scottwiener.com/platform"
+        ],
+        "photo": {
+          "file": "File:Scott Wiener Official Biography Portrait.jpg",
+          "license": "Public domain",
+          "author": "California State Senate"
+        }
+      },
+      {
+        "name": "Connie Chan",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 75,
+          "liberty": 20,
+          "security": null,
+          "immigration": 20,
+          "foreign": 55,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Billionaire tax, public bank, tenant protections; extended CalFresh benefits; reproductive rights plank; immigrant advocate; restore alliances and foreign aid, less military force.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Connie_Chan_(politician)",
+          "https://www.conniechansf.com/foreign-policy"
+        ],
+        "photo": {
+          "file": "File:Connie Chan, 2025.jpg",
+          "license": "Public domain",
+          "author": "San Francisco Board of Supervisors"
+        }
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-12",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Lateefah Simon",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 10,
+          "security": null,
+          "immigration": 10,
+          "foreign": 20,
+          "energy": 85,
+          "tech": 35,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Jobs guarantee and higher minimum wage; universal health care; LGBTQ and abortion rights; expanded legal pathways; cut defense spending; fossil-fuel transition; pro-crypto innovation.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Lateefah_Simon",
+          "https://www.lateefahsimon.com/issues/global-security",
+          "https://www.lateefahsimon.com/issues/immigration"
+        ],
+        "photo": {
+          "file": "File:Simon Lateefah 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Jamie Joyce",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 30,
+          "energy": null,
+          "tech": 90,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Authored AI regulation plan with red-line rules and safeguards; calls for ending war in Gaza and refuses AIPAC money.",
+        "sources": [
+          "https://www.jamiejoyce.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-13",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Adam Gray",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 40,
+          "welfare": 55,
+          "liberty": null,
+          "security": 70,
+          "immigration": 45,
+          "foreign": 40,
+          "energy": 40,
+          "tech": null,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Opposes tariffs, pro-capitalist initiative; reverse Medicaid cuts; opposed Props 47/57; DIGNITY Act and Laken Riley Act; Iran war powers vote; ESA limits; IDEA funding.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Adam_Gray",
+          "https://www.adamgrayforcongress.com/issues"
+        ],
+        "photo": {
+          "file": "File:Adam Gray, official portrait (119th Congress) (cropped).jpg",
+          "license": "Public domain",
+          "author": "Leah Herman"
+        }
+      },
+      {
+        "name": "Kevin Lincoln",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 75,
+          "immigration": 80,
+          "foreign": null,
+          "energy": null,
+          "tech": 15,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Lower taxes and cut spending; backs police and opposes early release; secure border and enforce immigration law; supports deregulatory AI Action Plan.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kevin_Lincoln_(politician)",
+          "https://www.kevinlincolnforcongress.com/issues"
+        ],
+        "photo": {
+          "file": "File:KevinLincoln (cropped).jpg",
+          "license": "Public domain",
+          "author": "City of Stockton"
+        }
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-14",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Aisha Wahab",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 15,
+          "security": 35,
+          "immigration": 25,
+          "foreign": 25,
+          "energy": 80,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Rent control, minimum wage, anti-monopoly; Medicare for All, universal childcare; reproductive freedom; agent accountability; faster legal pathways; end endless wars; free community college.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Aisha_Wahab",
+          "https://www.aishawahab.com/simple"
+        ],
+        "photo": {
+          "file": "File:Aisha Wahab, official portrait - 2026 (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Melissa Hernandez",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 50,
+          "welfare": 65,
+          "liberty": 20,
+          "security": 55,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 80,
+          "tech": 45,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No-tax-hike fiscal record; expanded Child Tax Credit, paid leave; Women's Health Protection Act; police funding with crisis response; citizenship pathway; restore IRA; federal AI standards.",
+        "sources": [
+          "https://melissahernandez2026.com/issues"
+        ],
+        "photo": {
+          "file": "File:Melissa Hernandez, 2020.jpg",
+          "license": "Public domain",
+          "author": "City of Dublin"
+        }
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-15",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Kevin Mullin",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 70,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 90,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Tax billionaires and corporations; childcare funding and Medicaid defense; Women's Health Protection Act and Hyde repeal; Green New Deal cosponsor.",
+        "sources": [
+          "https://www.kevinmullinforcongress.com/priorities",
+          "https://en.wikipedia.org/wiki/Kevin_Mullin"
+        ],
+        "photo": {
+          "file": "File:Rep. Kevin Mullin official portrait, 118th Congress (crop).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Charles Hoelter",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 75,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Smaller government and lower taxes; supports law enforcement; secure borders; domestic energy production.",
+        "sources": [
+          "https://www.hoelterforuscongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-16",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Sam Liccardo",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 40,
+          "welfare": 50,
+          "liberty": 65,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 70,
+          "tech": 55,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Housing deregulation, stablecoin framework, anti-tariff; ACA credit extension; gun liability insurance mandate (liberty); keep skilled immigrants; municipal clean energy; AI safeguards push.",
+        "sources": [
+          "https://samliccardo.com/accomplishments",
+          "https://liccardo.house.gov/issues/innovation",
+          "https://en.wikipedia.org/wiki/Sam_Liccardo"
+        ],
+        "photo": {
+          "file": "File:Liccardo Sam 119th Congress (cropped) (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Peter Sundin Soulé",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 30,
+          "security": 70,
+          "immigration": 85,
+          "foreign": null,
+          "energy": 10,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Cut regulation and capital gains; opposes local gun limits (liberty); defund sanctuary cities; lift drilling limits; school choice and parental rights.",
+        "sources": [
+          "https://souleforcongress.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-17",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ro Khanna",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": 20,
+          "energy": 75,
+          "tech": 80,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Billionaire taxes, $17 minimum wage; Medicare for All, universal childcare; LGBT rights; non-interventionist; Green New Deal; Internet Bill of Rights, antitrust; free college.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ro_Khanna",
+          "https://www.rokhanna.com/"
+        ],
+        "photo": {
+          "file": "File:Ro Khanna, official portrait, 115th Congress (crop).jpg",
+          "license": "Public domain",
+          "author": "U.S. Congress/Eric Connolly"
+        }
+      },
+      {
+        "name": "Ritesh Tandon",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 45,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 40,
+          "tech": 25,
+          "education": 55,
+          "faith": null
+        },
+        "basis": "Opposes wealth and mileage taxes, cut regulation; affordable childcare access; all-of-the-above energy; startup-friendly policy; higher teacher pay.",
+        "sources": [
+          "https://www.tandonforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-18",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Zoe Lofgren",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 80,
+          "liberty": 10,
+          "security": 25,
+          "immigration": null,
+          "foreign": null,
+          "energy": 85,
+          "tech": 30,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Medicare for All caucus, public option; 100% NARAL rating; opposed data retention and SOPA; Green New Deal; opposed Big Tech antitrust package.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+        ],
+        "photo": {
+          "file": "File:Zoe Lofgren Official Portrait 2024 (cropped).jpeg",
+          "license": "Public domain",
+          "author": "Brian Thorpe, House Creative Services"
+        }
+      },
+      {
+        "name": "Shane Lewis",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 55,
+          "foreign": null,
+          "energy": 50,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "7% flat wage tax and deficit cuts; expand H-2A while counting only citizens; all-of-the-above energy; student-linked funding and parental rights.",
+        "sources": [
+          "https://www.shanelewisforcongress.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-19",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jimmy Panetta",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": 75,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": 80,
+          "energy": 80,
+          "tech": 30,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Public investment; supports universal health care and childcare; 100% NARAL; F-16s for Ukraine, Taiwan support; blocks offshore drilling; voted against antitrust fees bill; Pre-K.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jimmy_Panetta",
+          "https://www.jimmypanetta.com/issues"
+        ],
+        "photo": {
+          "file": "File:Jimmy Panetta official portrait (cropped).jpg",
+          "license": "Public domain",
+          "author": "Eric Connolly, U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Peter Verbica",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Cut taxes and business regulation, oppose PAGA and contractor rules; end gas taxes and reformulated fuel blends.",
+        "sources": [
+          "https://peterverbica.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-20",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Vince Fong",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 25,
+          "security": null,
+          "immigration": 75,
+          "foreign": 70,
+          "energy": 20,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Protects gun rights (liberty); border security and enforcement; strong defense and deterrence; expand domestic energy production.",
+        "sources": [
+          "https://vincefong.com/issues"
+        ],
+        "photo": {
+          "file": "File:Vince Fong official congressional photograph 118th congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Nate Payne, United States House of Representatives"
+        }
+      },
+      {
+        "name": "Sandra Van Scotter",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 100,
+          "liberty": null,
+          "security": null,
+          "immigration": 20,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Medicare for All as a constitutional right; pathway to legal status for undocumented workers.",
+        "sources": [
+          "https://www.sandravanscotterforcongress.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

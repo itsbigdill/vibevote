@@ -1,0 +1,841 @@
+[
+  {
+    "state": "Michigan",
+    "district": "MI-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jack Bergman",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 65,
+          "security": null,
+          "immigration": 85,
+          "foreign": 75,
+          "energy": 15,
+          "tech": 20,
+          "education": 15,
+          "faith": 85
+        },
+        "basis": "Balanced budget, ACA repeal, anti-abortion and pro-gun (liberty), strict immigration, hawkish defense, pro-drilling, net neutrality opposition, vouchers, Bible-based values.",
+        "sources": [
+          "https://www.ontheissues.org/MI/Jack_Bergman.htm",
+          "https://en.wikipedia.org/wiki/Jack_Bergman"
+        ],
+        "photo": {
+          "file": "File:Jack Bergman (2017).jpg",
+          "license": "Public domain",
+          "author": "Eric Connolly; U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Callie Barr",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Platform: higher taxes on the wealthy, lift Social Security cap, PRO Act, protect Medicaid, ACA public option, universal healthcare.",
+        "sources": [
+          "https://callieforcongress.com/platform/",
+          "https://callieforcongress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Arnett Satterla",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      },
+      {
+        "name": "LaVeta Davenport",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Doc Kovaly",
+        "party": "U.S. Taxpayers",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Liz Hakola",
+        "party": "Working Class",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Zebulon Featherly",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "John Moolenaar",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 65,
+          "security": null,
+          "immigration": 80,
+          "foreign": 75,
+          "energy": 20,
+          "tech": null,
+          "education": 15,
+          "faith": 70
+        },
+        "basis": "Lower taxes, estate-tax repeal; life-begins-at-conception and anti-gun-restriction (liberty); opposes citizenship path; Iran sanctions; all-of-the-above energy; vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/MI/John_Moolenaar.htm",
+          "https://moolenaar.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:John Moolenaar portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Benjamin Ambrose",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 90,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign priorities include championing Medicare for All; other issues stated only as general headings.",
+        "sources": [
+          "https://ambrose4congress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Hillary Scholten",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 70,
+          "liberty": 35,
+          "security": null,
+          "immigration": 45,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 80,
+          "faith": 65
+        },
+        "basis": "Defends ACA, collective bargaining; pro-choice with background checks and red flag laws (liberty); voted for Laken Riley Act; renewables; public schools; faith-driven.",
+        "sources": [
+          "https://hillaryscholten.com/priorities/",
+          "https://en.wikipedia.org/wiki/Hillary_Scholten"
+        ],
+        "photo": {
+          "file": "File:Rep. Hillary Scholten - 118th Congress (1).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Terri DeBoer",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": null,
+          "security": null,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 30,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "Tax and spending cuts, deregulation, HSAs and market health choice, border enforcement and removals, all-of-the-above energy against mandates, educational freedom.",
+        "sources": [
+          "https://terrideboer.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Bill Huizenga",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 65,
+          "security": 60,
+          "immigration": 80,
+          "foreign": 75,
+          "energy": 10,
+          "tech": 20,
+          "education": 15,
+          "faith": 85
+        },
+        "basis": "Corporate tax cuts, welfare work requirements; pro-life and pro-carry (liberty); no citizenship path; Iran sanctions; anti-cap-and-trade; vouchers; God in public sphere.",
+        "sources": [
+          "https://www.ontheissues.org/MI/Bill_Huizenga.htm",
+          "https://en.wikipedia.org/wiki/Bill_Huizenga"
+        ],
+        "photo": {
+          "file": "File:Rep. Bill Huizenga - 118th Congress (portrait crop).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Sean McCann",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 75,
+          "liberty": 35,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": 75,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Opposes corporate handouts and tariffs; Medicaid expansion, ACA credits; pro-choice with gun-violence prevention (liberty); legal pathways; renewables; strong public-school funding.",
+        "sources": [
+          "https://seanmccannforcongress.com/issues/",
+          "https://en.wikipedia.org/wiki/Sean_McCann_(politician)"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Tim Walberg",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 75,
+          "security": 60,
+          "immigration": 80,
+          "foreign": 55,
+          "energy": 5,
+          "tech": 20,
+          "education": 15,
+          "faith": 90
+        },
+        "basis": "Corporate tax cuts, work requirements; anti-abortion and anti-same-sex-marriage, pro-gun (liberty); no amnesty; opposed Ukraine aid; rejects climate consensus; vouchers; God in public life.",
+        "sources": [
+          "https://www.ontheissues.org/MI/Tim_Walberg.htm",
+          "https://en.wikipedia.org/wiki/Tim_Walberg"
+        ],
+        "photo": {
+          "file": "File:TimWalbergHeadshot.jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Christian Vukasovich",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found on the campaign website.",
+        "sources": [
+          "https://christian4michigan.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "James Bronke",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Debbie Dingell",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": 25,
+          "security": null,
+          "immigration": 20,
+          "foreign": 45,
+          "energy": 85,
+          "tech": null,
+          "education": 90,
+          "faith": 20
+        },
+        "basis": "Expanded EITC and unemployment insurance; abortion access and universal background checks (liberty); citizenship path; limits on Iran war; green energy; opposes vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/MI/Debbie_Dingell.htm",
+          "https://en.wikipedia.org/wiki/Debbie_Dingell"
+        ],
+        "photo": {
+          "file": "File:Debbie Dingell Official Headshot.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Heather Smiley",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 65,
+          "security": null,
+          "immigration": 85,
+          "foreign": 65,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Free market, balanced budget; pro-life and gun rights (liberty); close border and limit chain migration; build military; energy independence; religious freedom.",
+        "sources": [
+          "https://smileyforcongress.com/?page_id=269"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Clyde Shabazz",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Tom Barrett",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for the One Big Beautiful Bill Act's tax cuts and Medicaid changes; limited other documented stances.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"
+        ],
+        "photo": {
+          "file": "File:Tom Barrett, official portrait (119th Congress).jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe"
+        }
+      },
+      {
+        "name": "William Lawrence",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 95,
+          "welfare": 95,
+          "liberty": null,
+          "security": 10,
+          "immigration": 10,
+          "foreign": 15,
+          "energy": 95,
+          "tech": 80,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Tax the wealthy, Medicare for All, public housing, past police-abolition posts, anti-ICE, ending Iran war and Israel arms sales, Green New Deal, data-center pause.",
+        "sources": [
+          "https://wewill2026.com/",
+          "https://en.wikipedia.org/wiki/William_Lawrence_(activist)"
+        ],
+        "photo": {
+          "file": "File:William Lawrence 2026.jpg",
+          "license": "CC0",
+          "author": "Sabio117"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Kristen McDonald Rivet",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": 55,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Expanded Working Families Tax Credit, Child Care for All package, safe-storage gun law, Laken Riley Act vote, joined anti-socialist Promise to America.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kristen_McDonald_Rivet",
+          "https://kristenmcdonaldrivet.com/priorities/"
+        ],
+        "photo": {
+          "file": "File:Kristen McDonald Rivet, official portrait - 2025.jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe"
+        }
+      },
+      {
+        "name": "Tom Smith",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Retired engineer who suspended his campaign before winning the primary; no published issue positions found.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Lisa McClain",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": null,
+          "security": null,
+          "immigration": 85,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposed ARPA and Inflation Reduction Act, favors Social Security privatization, opposes Medicare expansion, opposes citizenship path, backs immigration bans.",
+        "sources": [
+          "https://www.ontheissues.org/MI/Lisa_McClain.htm",
+          "https://en.wikipedia.org/wiki/Lisa_McClain"
+        ],
+        "photo": {
+          "file": "File:Rep. Lisa McClain.jpg",
+          "license": "Public domain",
+          "author": "Office of Rep. Lisa McClain"
+        }
+      },
+      {
+        "name": "Ray Pooley",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": null,
+          "security": null,
+          "immigration": 25,
+          "foreign": 35,
+          "energy": 80,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Tax the ultra-wealthy, CEO pay caps, Medicare for All, citizenship pathways and opposes ICE raids, diplomacy over war, renewables, strict data-center regulation.",
+        "sources": [
+          "https://www.pooley4congress.com/copy-of-the-issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-10",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Bouchard Jr.",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": 30,
+          "liberty": null,
+          "security": null,
+          "immigration": 90,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Deregulation with Trump trade policy; opposes socialist healthcare; finish wall, Remain in Mexico, deport criminal immigrants; Parents' Bill of Rights.",
+        "sources": [
+          "https://www.bouchardforcongress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Christina Hines",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": null,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 70,
+          "tech": 65,
+          "education": null,
+          "faith": 55
+        },
+        "basis": "Higher minimum wage, paid leave, anti price-gouging; universal healthcare plan; opposes DHS family targeting; Great Lakes protection; AI guardrails and kids' addictive tech limits.",
+        "sources": [
+          "https://www.christinahinesforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-11",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jeremy Moss",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 60,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Anti price-gouging, defend Medicaid and Social Security; expanded reproductive rights, civil-rights protections, gun safety laws (liberty); supports Israel with two-state solution.",
+        "sources": [
+          "https://votejeremymoss.com/",
+          "https://en.wikipedia.org/wiki/Jeremy_Moss"
+        ],
+        "photo": {
+          "file": "File:Michigan Senator Jeremy Moss 2019.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Anmanwell"
+        }
+      },
+      {
+        "name": "Ethan Baker",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Troy mayor campaigning on civility and trust; no published issue positions found.",
+        "sources": [
+          "https://www.bakerforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "district": "MI-12",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Rashida Tlaib",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 95,
+          "welfare": 95,
+          "liberty": 20,
+          "security": 10,
+          "immigration": 5,
+          "foreign": 20,
+          "energy": 95,
+          "tech": 70,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Tax the wealthy, Green New Deal, abortion rights with universal background checks (liberty), police accountability, opposes border wall and Middle East interventions, opposes vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/MI/Rashida_Tlaib.htm",
+          "https://en.wikipedia.org/wiki/Rashida_Tlaib"
+        ],
+        "photo": {
+          "file": "File:Tlaib Rashida 119th Congress (3x4 cropped).jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe, House Creative Services"
+        }
+      },
+      {
+        "name": "James Hooper",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 85,
+          "security": null,
+          "immigration": 80,
+          "foreign": 60,
+          "energy": null,
+          "tech": null,
+          "education": 10,
+          "faith": null
+        },
+        "basis": "Tax and regulation cuts; pro-life from conception and non-negotiable Second Amendment (liberty); border security; strong military; abolish Education Department, parental rights.",
+        "sources": [
+          "https://jameshooperforcongress.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

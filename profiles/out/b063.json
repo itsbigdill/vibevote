@@ -1,0 +1,877 @@
+[
+ {
+  "id": "NE-3/becky-stille",
+  "name": "Becky Stille",
+  "party": "Democratic",
+  "current_role": "Agricultural industry quality manager",
+  "bio": "Becky Stille is a lifelong Nebraskan and the Democratic nominee for Nebraska's 3rd congressional district. She holds an accounting degree and spent about 20 years in the agricultural industry as an accounting clerk, lab technician, quality manager and production supervisor, including work on soy-based products.",
+  "website": "https://www.beckystille2026.com/",
+  "social": {
+   "x": "https://x.com/beckylstille"
+  },
+  "platform": [
+   {
+    "topic": "Agriculture",
+    "point": "Makes saving family farms her top priority in Congress.",
+    "source": "https://www.beckystille2026.com/about"
+   },
+   {
+    "topic": "Health care",
+    "point": "Would fund rural hospitals, lower prescription drug prices, support the ACA and prioritise mental health care.",
+    "source": "https://www.beckystille2026.com/about"
+   },
+   {
+    "topic": "Jobs and labor",
+    "point": "Backs Davis-Bacon prevailing wages, project labor agreements and job training for young workers and veterans.",
+    "source": "https://www.beckystille2026.com/about"
+   },
+   {
+    "topic": "Safety net",
+    "point": "Pledges to protect Social Security, Medicare and SNAP for those who rely on them.",
+    "source": "https://www.beckystille2026.com/about"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Supports a woman's right to make private health care decisions with her doctor.",
+    "source": "https://www.beckystille2026.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants investment in schools from preschool to college and opposes book bans.",
+    "source": "https://www.beckystille2026.com/about"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Supports labor unions, prevailing-wage rules and project labor agreements.",
+    "source": "https://www.beckystille2026.com/about"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Calls for expanded health care access, support for the ACA and protection of Social Security, Medicare and SNAP.",
+    "source": "https://www.beckystille2026.com/about"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports abortion rights and also backs Second Amendment rights alongside violence prevention.",
+    "source": "https://www.beckystille2026.com/issues"
+   },
+   "security": {
+    "score": 55,
+    "evidence": "Calls for giving police the support, training and resources they need.",
+    "source": "https://www.beckystille2026.com/issues"
+   },
+   "immigration": {
+    "score": 50,
+    "evidence": "Supports a secure border while describing the country as a beacon of hope for immigrants.",
+    "source": "https://www.beckystille2026.com/issues"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Backs investment in public education for every child and opposes book bans.",
+    "source": "https://www.beckystille2026.com/about"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Economy score is new, based on her labor and prevailing-wage stance."
+ },
+ {
+  "id": "NE-3/david-else",
+  "name": "David Else",
+  "party": "Legal Marijuana Now",
+  "current_role": "Farmer",
+  "bio": "David Else is a Nebraska farmer and the Legal Marijuana Now Party nominee for Nebraska's 3rd congressional district. He was the Democratic nominee for the seat in 2022 and ran for it again as a Democrat in 2024.",
+  "website": "https://dave-else-for-congress.square.site/",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign site did not return readable content, and no issue statements could be found."
+ },
+ {
+  "id": "NE-3/macey-budke",
+  "name": "Macey Budke",
+  "party": "Nebraska Working People",
+  "current_role": "Behavioral health practice manager",
+  "bio": "Macey Budke is a lifelong Nebraskan from North Platte who was raised in a ranching family. She works as a behavioral health practice manager and has a background in healthcare administration. She first announced as an independent and is now the Nebraska Working People Party nominee for Nebraska's 3rd district.",
+  "website": "https://budkeforcongress.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/BudkeforCongress",
+   "instagram": "https://www.instagram.com/BudkeForNE3",
+   "tiktok": "https://www.tiktok.com/@budkeforcongress",
+   "youtube": "https://www.youtube.com/@BudkeforCongress"
+  },
+  "platform": [
+   {
+    "topic": "Rural health care",
+    "point": "Would strengthen the rural health workforce, protect rural hospitals and expand behavioral and maternal care and telehealth.",
+    "source": "https://budkeforcongress.com/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports teacher recruitment and retention, special education funding and more career and technical education in rural schools.",
+    "source": "https://budkeforcongress.com/issues/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Wants policies that protect family farms and ranches, promote competitive markets and expand trade.",
+    "source": "https://budkeforcongress.com/issues/"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Seeks a fair share of federal money for rural roads, bridges, broadband, water and irrigation systems.",
+    "source": "https://budkeforcongress.com/issues/"
+   },
+   {
+    "topic": "Federal spending",
+    "point": "Supports disciplined budgeting, stronger program audits and more transparency in federal spending.",
+    "source": "https://budkeforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 40,
+    "evidence": "Backs a diversified mix of oil, ethanol and new technology and opposes rigid one-size-fits-all mandates.",
+    "source": "https://budkeforcongress.com/issues/"
+   },
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "Calls for more investment in rural public schools, teachers and special education.",
+    "source": "https://budkeforcongress.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://budkeforcongress.com/wp-content/uploads/2026/02/macey-scaled.jpg",
+  "notes": "Her site notes a Moms Demand Action Gun Sense Candidate distinction, but gives no detail on gun policy."
+ },
+ {
+  "id": "NE-3/mark-cohen",
+  "name": "Mark Cohen",
+  "party": "Independent",
+  "current_role": "Karate instructor and former Air Force attorney",
+  "bio": "Mark Cohen is an independent candidate for Nebraska's 3rd district who lives in the Sandhills. He served as an Air Force judge advocate and has worked as a prosecutor and municipal judge, and he now teaches karate.",
+  "website": "https://www.markfornebraska.org/",
+  "social": {
+   "x": "https://x.com/MarkForNebraska",
+   "instagram": "https://www.instagram.com/mark_for_nebraska",
+   "youtube": "https://www.youtube.com/@MarkForNebraskaCampaign",
+   "tiktok": "https://www.tiktok.com/@markfornebraska"
+  },
+  "platform": [
+   {
+    "topic": "Trade and agriculture",
+    "point": "Opposes the current tariffs as harmful to farmers and wants stronger antitrust enforcement against large agricultural firms.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   {
+    "topic": "Taxes and debt",
+    "point": "Would raise taxes on the wealthy, toward an Eisenhower-era structure, to balance the budget.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   {
+    "topic": "Rural health care",
+    "point": "Opposes cuts to rural health care funding and wants it strengthened instead.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   {
+    "topic": "Democracy",
+    "point": "Wants to reduce big money in politics, opposes the SAVE Act and supports paper ballots or paper audit trails.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   {
+    "topic": "Congressional reform",
+    "point": "Supports single-subject bills, a ban on member stock trading, term limits and is open to enlarging the House.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   {
+    "topic": "Climate and water",
+    "point": "Treats fossil fuels as a bridge to cleaner energy and wants water-efficient cooling required for data centers.",
+    "source": "https://www.markfornebraska.org/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Calls for higher taxes on billionaires and corporations and stronger antitrust enforcement.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports gun rights, opposes government limits on birth control and abortion, backs equal legal relationships for gay couples and legal adult marijuana.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   "security": {
+    "score": 25,
+    "evidence": "Warns against a surveillance state and the militarization of law enforcement.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 65,
+    "evidence": "Says the climate is changing and calls for investing in a transition, with fossil fuels as a bridge.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   "tech": {
+    "score": 70,
+    "evidence": "Calls for antitrust action against media conglomerates and criticises platform algorithms and data collection.",
+    "source": "https://www.markfornebraska.org/issues"
+   },
+   "education": null,
+   "faith": {
+    "score": 25,
+    "evidence": "Opposes imposing religious views through law and criticises Christian nationalism, while citing his own faith.",
+    "source": "https://www.markfornebraska.org/issues"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/69ac91f1886d0f3c72f09dd1/e94b136c-9e3c-44bc-b1e3-cbc21ba58b91/Profile-Photo-3x2.png",
+  "notes": "His Facebook account is named on his site but no URL was found."
+ },
+ {
+  "id": "NV-1/dina-titus",
+  "name": "Dina Titus",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NV-1",
+  "bio": "Dina Titus has represented Nevada's 1st district since 2013, after an earlier House term for the 3rd district from 2009 to 2011. She served in the Nevada Senate from 1988 to 2008, was the 2006 Democratic nominee for governor and taught political science at UNLV. She was born in Thomasville, Georgia.",
+  "website": "https://www.dinatitus.com/",
+  "social": {
+   "x": "https://x.com/dinatitus",
+   "facebook": "https://www.facebook.com/titusforcongress/",
+   "instagram": "https://www.instagram.com/dinatitus/",
+   "youtube": "https://www.youtube.com/channel/UCyM2fQxEmPKKd1Tj2VJRciA"
+  },
+  "platform": [
+   {
+    "topic": "Jobs and infrastructure",
+    "point": "Focuses on creating jobs, raising wages and investing in infrastructure.",
+    "source": "https://titus.house.gov/issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Works on comprehensive immigration reform, including a path to citizenship.",
+    "source": "https://titus.house.gov/issues/"
+   },
+   {
+    "topic": "Gun violence",
+    "point": "Supports measures to prevent gun violence.",
+    "source": "https://titus.house.gov/issues/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Opposes nuclear waste storage at Yucca Mountain and supports environmental protection.",
+    "source": "https://titus.house.gov/issues/"
+   },
+   {
+    "topic": "Animal welfare",
+    "point": "Advocates humane treatment of animals, including wild horses and livestock in transport.",
+    "source": "https://titus.house.gov/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Emphasises raising wages and public investment in infrastructure.",
+    "source": "https://titus.house.gov/issues/"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Member of the Medicare for All Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Dina_Titus"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Supports abortion access and gun violence prevention measures.",
+    "source": "https://en.wikipedia.org/wiki/Dina_Titus"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Holds a 92% rating from a national police organizations group and voted for sharing cybersecurity data with the government.",
+    "source": "https://www.ontheissues.org/House/Dina_Titus.htm"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Cosponsored the U.S. Citizenship Act of 2021 but voted for the Laken Riley Act in 2025.",
+    "source": "https://en.wikipedia.org/wiki/Dina_Titus"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Member of the Congressional Ukraine Caucus and signed letters backing Ukraine.",
+    "source": "https://en.wikipedia.org/wiki/Dina_Titus"
+   },
+   "energy": {
+    "score": 75,
+    "evidence": "Lists environmental protection among her priorities.",
+    "source": "https://titus.house.gov/issues/"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Opposes school vouchers according to her issue record.",
+    "source": "https://www.ontheissues.org/House/Dina_Titus.htm"
+   },
+   "faith": {
+    "score": 25,
+    "evidence": "Opposes a religious registry and favors comprehensive sex education over abstinence-only programs.",
+    "source": "https://www.ontheissues.org/House/Dina_Titus.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://static.wixstatic.com/media/a2be29_0cb64e852522466abe4c63cf0394dae3~mv2.jpg",
+  "notes": "Security and faith scores rest on OnTheIssues record summaries."
+ },
+ {
+  "id": "NV-1/carrie-buck",
+  "name": "Carrie Buck",
+  "party": "Republican",
+  "current_role": "Nevada State Senator, District 5",
+  "bio": "Carrie Buck has represented the 5th district in the Nevada Senate since 2020. A former fifth-grade teacher and principal, she received a Milken Educator Award and led the growth of the Pinecrest Academy charter school network. She grew up on a small farm.",
+  "website": "https://carriebuckforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Wants to make sure tips are never taxed.",
+    "source": "https://carriebuckforcongress.com/about/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Pledges to fully fund police.",
+    "source": "https://carriebuckforcongress.com/about/"
+   },
+   {
+    "topic": "Border",
+    "point": "Pledges to secure the border.",
+    "source": "https://carriebuckforcongress.com/about/"
+   },
+   {
+    "topic": "Parental rights",
+    "point": "Promises to protect parents' rights in education.",
+    "source": "https://carriebuckforcongress.com/about/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Would work with the President to hold Washington accountable for how tax dollars are spent.",
+    "source": "https://carriebuckforcongress.com/about/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Backs ending taxes on tips and more accountability for federal spending.",
+    "source": "https://carriebuckforcongress.com/about/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 65,
+    "evidence": "Pledges to fully fund the police.",
+    "source": "https://carriebuckforcongress.com/about/"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "Makes securing the border a core pledge.",
+    "source": "https://carriebuckforcongress.com/about/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Led a charter school network's expansion and promises to protect parents' rights.",
+    "source": "https://carriebuckforcongress.com/about/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NV-2/david-flippo",
+  "name": "David Flippo",
+  "party": "Republican",
+  "current_role": "Financial advisor and retired Air Force lieutenant colonel",
+  "bio": "David Flippo is a financial advisor and former Air Force lieutenant colonel who served as a combat commander. He ran for Nevada's 4th district in 2024 and began the 2026 cycle there before switching to the 2nd district, where he won the Republican primary.",
+  "website": "https://flippo4nv.com/",
+  "social": {
+   "x": "https://x.com/davidflipponv",
+   "facebook": "https://www.facebook.com/votedavidflippo",
+   "instagram": "https://www.instagram.com/electdavidflippo"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Would cut federal spending, remove costly regulations and cut taxes to raise household income.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Wants to expand American energy production to lower gas and electricity costs.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   {
+    "topic": "Crime",
+    "point": "Would fully fund police and toughen penalties for violent and repeat offenders.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports deporting people in the country illegally and ending catch-and-release.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Backs the SAVE Act's voter ID and citizenship verification requirements.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Favours parental authority, local control and skills-based learning over federal involvement.",
+    "source": "https://flippo4nv.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Calls for tax cuts, spending cuts and eliminating regulations.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 30,
+    "evidence": "Pledges to protect gun rights and free speech (guns, speech) but would bar transgender women from women's sports (LGBTQ).",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   "security": {
+    "score": 75,
+    "evidence": "Backs full police funding and tougher sentencing for violent and repeat offenders.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports deporting undocumented immigrants and ending catch-and-release.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Supports military modernization and putting America First in global alliances.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Wants expanded domestic energy production and opposes environmental litigation against farmers and miners.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Emphasises parental authority and local control and opposes federal education bureaucracy.",
+    "source": "https://flippo4nv.com/issues/"
+   },
+   "faith": {
+    "score": 65,
+    "evidence": "Pledges to defend religious liberty against government overreach.",
+    "source": "https://flippo4nv.com/issues/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons file 'David Flippo.png' is tagged as a Defense Department public-domain work but was sourced from Facebook, so it was not used."
+ },
+ {
+  "id": "NV-2/teresa-benitez-thompson",
+  "name": "Teresa Benitez-Thompson",
+  "party": "Democratic",
+  "current_role": "Chief of staff to the Nevada Attorney General",
+  "bio": "Teresa Benitez-Thompson is chief of staff to Nevada Attorney General Aaron Ford. She represented District 27 in Washoe County in the Nevada Assembly from 2011 to 2022 and served as Assembly Majority Leader. She is a social worker and was Miss Nevada 2002.",
+  "website": "https://electteresa.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/ElectTeresa",
+   "instagram": "https://www.instagram.com/ElectTeresa",
+   "tiktok": "https://www.tiktok.com/@tbt_nv"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Would judge policies by whether they make daily life more affordable, including building workforce housing.",
+    "source": "https://electteresa.com/policy/"
+   },
+   {
+    "topic": "AI and jobs",
+    "point": "Wants AI rules to prevent mass layoffs.",
+    "source": "https://electteresa.com/policy/"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Opposes large public land sales without local and tribal input and wants wildfire funding restored.",
+    "source": "https://electteresa.com/policy/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Defends the ACA and supports a public option, contraception access and drug pricing transparency.",
+    "source": "https://electteresa.com/policy/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Opposes the SAVE Act and supports expanded mail and early voting.",
+    "source": "https://electteresa.com/policy/"
+   },
+   {
+    "topic": "Middle East",
+    "point": "Supports conditioning arms sales to Israel on humanitarian law and a two-state solution.",
+    "source": "https://electteresa.com/policy/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Wants to restore federal funding cut by DOGE and build affordable workforce housing.",
+    "source": "https://electteresa.com/policy/"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Defends the ACA and supports a public option and Medicaid coverage for behavioral health.",
+    "source": "https://electteresa.com/policy/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports federal protection of reproductive freedom and contraception access.",
+    "source": "https://electteresa.com/policy/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 40,
+    "evidence": "Opposes unconditional military aid to Israel and supports restoring UNRWA humanitarian aid.",
+    "source": "https://electteresa.com/policy/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 80,
+    "evidence": "Calls for AI regulations to prevent mass layoffs.",
+    "source": "https://electteresa.com/policy/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her policy page does not address immigration, so that domain was left unscored."
+ },
+ {
+  "id": "NV-2/lynn-chapman",
+  "name": "Lynn Chapman",
+  "party": "Independent American",
+  "current_role": "",
+  "bio": "Lynn Chapman is the Independent American Party candidate for Nevada's 2nd congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue statements were found; only the state candidate filing list confirms the candidacy."
+ },
+ {
+  "id": "NV-3/susie-lee",
+  "name": "Susie Lee",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NV-3",
+  "bio": "Susie Lee has represented Nevada's 3rd district since 2019 and serves on the Appropriations and Natural Resources committees. Before Congress she founded the Las Vegas chapter of Inner-City Games and chaired Communities in Schools of Nevada. She was born in Canton, Ohio, and studied at Carnegie Mellon University.",
+  "website": "https://susieleeforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/susieleenv",
+   "facebook": "https://www.facebook.com/susieleenv",
+   "instagram": "https://www.instagram.com/susieleenv/"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Works to expand affordable housing and lower housing costs.",
+    "source": "https://susielee.house.gov/issues"
+   },
+   {
+    "topic": "Economy",
+    "point": "Focuses on lowering costs and creating good-paying jobs in southern Nevada.",
+    "source": "https://susielee.house.gov/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Seeks to expand quality, affordable health care options.",
+    "source": "https://susielee.house.gov/issues"
+   },
+   {
+    "topic": "Energy and water",
+    "point": "Supports a diverse clean-energy economy and protecting Nevada's water supply.",
+    "source": "https://susielee.house.gov/issues"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Aims to secure funding and resources for law enforcement.",
+    "source": "https://susielee.house.gov/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports students, educators and public school funding.",
+    "source": "https://susieleeforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Cosponsored the Raise the Wage Act but joined a 2026 pro-capitalist 'Promise to America' pledge.",
+    "source": "https://en.wikipedia.org/wiki/Susie_Lee"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Seeks to expand affordable health care options and defends the ACA.",
+    "source": "https://susielee.house.gov/issues"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Supports abortion rights and an assault weapons ban, and backed cannabis banking access.",
+    "source": "https://www.ontheissues.org/House/Susie_Lee.htm"
+   },
+   "security": {
+    "score": 35,
+    "evidence": "Supports stricter accountability rules for law enforcement (2021).",
+    "source": "https://www.ontheissues.org/House/Susie_Lee.htm"
+   },
+   "immigration": {
+    "score": 40,
+    "evidence": "Supports a path to citizenship but voted for the Laken Riley Act in 2025.",
+    "source": "https://en.wikipedia.org/wiki/Susie_Lee"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 70,
+    "evidence": "Says she wants a diverse, clean and efficient energy economy.",
+    "source": "https://susielee.house.gov/issues"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Voted for net neutrality rules in 2019.",
+    "source": "https://www.ontheissues.org/House/Susie_Lee.htm"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Campaigns on funding public schools and opposes vouchers.",
+    "source": "https://susieleeforcongress.com/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://susieleeforcongress.com/images/SL-Hero-Square.jpg",
+  "notes": "Security and tech scores rest on limited OnTheIssues record entries."
+ },
+ {
+  "id": "NV-3/martin-o-donnell",
+  "name": "Martin O'Donnell",
+  "party": "Republican",
+  "current_role": "Composer and audio director",
+  "bio": "Martin \"Marty\" O'Donnell is a composer and audio director known for scoring Bungie video games, including the Halo series and Destiny. He began his career writing jingles and film and radio scores. He ran for Nevada's 3rd district in 2024 and won the 2026 Republican primary.",
+  "website": "https://martyforcongress.vote/",
+  "social": {
+   "x": "https://twitter.com/MartyTheElder",
+   "facebook": "https://www.facebook.com/MartytheElder",
+   "instagram": "https://www.instagram.com/martytheelder/",
+   "youtube": "https://www.youtube.com/@TheMartyODonnell"
+  },
+  "platform": [
+   {
+    "topic": "Workers and AI",
+    "point": "Wants added investment and protections for workers as automation and AI change jobs.",
+    "source": "https://martyforcongress.vote/priorities/"
+   },
+   {
+    "topic": "Border security",
+    "point": "Supports strict border security, fighting fentanyl trafficking and removing incentives for illegal immigration.",
+    "source": "https://martyforcongress.vote/priorities/"
+   },
+   {
+    "topic": "Spending and debt",
+    "point": "Calls for spending cuts and a balanced budget, linking deficits to mortgage rates and inflation.",
+    "source": "https://martyforcongress.vote/priorities/"
+   },
+   {
+    "topic": "Opportunity",
+    "point": "Pledges to champion working families and keep government from making their lives harder.",
+    "source": "https://martyforcongress.vote/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 40,
+    "evidence": "Backs spending cuts and a balanced budget alongside added protections for workers.",
+    "source": "https://martyforcongress.vote/priorities/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Calls for strict border security and ending incentives that draw illegal immigration.",
+    "source": "https://martyforcongress.vote/priorities/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "Calls for safeguards for workers affected by AI and automation.",
+    "source": "https://martyforcongress.vote/priorities/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Marty O'Donnell by Gage Skidmore.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Gage Skidmore"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NV-4/steven-horsford",
+  "name": "Steven Horsford",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NV-4",
+  "bio": "Steven Horsford has represented Nevada's 4th district from 2013 to 2015 and again since 2019, and chaired the Congressional Black Caucus from 2023 to 2025. He served in the Nevada Senate from 2005 to 2013, including as its first African American majority leader. He was CEO of the Culinary Training Academy and is a University of Nevada, Reno graduate from Las Vegas.",
+  "website": "https://www.stevenhorsford.com/",
+  "social": {
+   "x": "https://x.com/stevenhorsford",
+   "facebook": "https://www.facebook.com/stevenhorsford",
+   "instagram": "https://www.instagram.com/stevenahorsford",
+   "youtube": "https://www.youtube.com/@nevadansforstevenhorsford6170"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Takes on corporate landlords he says are driving up rents.",
+    "source": "https://www.stevenhorsford.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Opposes tariffs he says raise grocery and retail prices.",
+    "source": "https://www.stevenhorsford.com/"
+   },
+   {
+    "topic": "Social Security and Medicaid",
+    "point": "Pledges to protect Social Security and opposes House Republican Medicaid cuts.",
+    "source": "https://horsford.house.gov/issues"
+   },
+   {
+    "topic": "Tipped workers",
+    "point": "Introduced the TIPS Act to protect workers who earn tipped income.",
+    "source": "https://horsford.house.gov/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports comprehensive immigration reform that pairs national security with keeping families together.",
+    "source": "https://horsford.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Supports raising the federal minimum wage; issue record also shows support for higher taxes on the wealthy.",
+    "source": "https://www.ontheissues.org/House/Steven_Horsford.htm"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Says health care is a right and all Americans deserve coverage like veterans and seniors receive.",
+    "source": "https://en.wikipedia.org/wiki/Steven_Horsford"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Pro-Choice Caucus member who supports background checks and an assault weapons ban.",
+    "source": "https://en.wikipedia.org/wiki/Steven_Horsford"
+   },
+   "security": {
+    "score": 25,
+    "evidence": "Supports limits on NSA bulk data collection.",
+    "source": "https://www.ontheissues.org/House/Steven_Horsford.htm"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Cosponsored a path to citizenship and opposes a southern border wall.",
+    "source": "https://en.wikipedia.org/wiki/Steven_Horsford"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Voted in 2026 for an amendment ending U.S. military aid to Israel, though he is a Ukraine Caucus member.",
+    "source": "https://en.wikipedia.org/wiki/Steven_Horsford"
+   },
+   "energy": {
+    "score": 70,
+    "evidence": "Authored a green jobs initiative in the Nevada Legislature and voted to assist rural renewable electric energy.",
+    "source": "https://www.ontheissues.org/House/Steven_Horsford.htm"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Voted for net neutrality rules.",
+    "source": "https://www.ontheissues.org/House/Steven_Horsford.htm"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Issue record shows support for public school funding and opposition to vouchers.",
+    "source": "https://www.ontheissues.org/House/Steven_Horsford.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Energy, tech and education scores rest on OnTheIssues record summaries."
+ }
+]

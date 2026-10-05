@@ -1,0 +1,396 @@
+[
+ {
+  "id": "PA-GOV/josh-shapiro",
+  "name": "Josh Shapiro",
+  "party": "Democratic",
+  "race": "PA-GOV",
+  "race_label": "Pennsylvania · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": null,
+    "liberty": 25,
+    "security": 65,
+    "immigration": 35,
+    "foreign": 55,
+    "energy": 55,
+    "tech": 55,
+    "education": 50,
+    "faith": null
+   },
+   "basis": "Backs $15 minimum wage, corporate tax cuts, abortion access, legal marijuana, LGBTQ protections, gun limits, more police, all-of-the-above energy, school funding and scholarships; criticizes ICE.",
+   "sources": [
+    "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/",
+    "https://en.wikipedia.org/wiki/Josh_Shapiro"
+   ],
+   "photo": {
+    "file": "File:Gov. Shapiro.jpg",
+    "license": "CC BY 2.0",
+    "author": "Maryland GovPics"
+   }
+  }
+ },
+ {
+  "id": "PA-GOV/stacy-garrity",
+  "name": "Stacy Garrity",
+  "party": "Republican",
+  "race": "PA-GOV",
+  "race_label": "Pennsylvania · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 25,
+    "liberty": 75,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 5,
+    "tech": null,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Proposes tax and utility-tax cuts, more gas drilling, Lifeline scholarships; supported 2025 federal SNAP/Medicaid cuts; pro-life, opposes marijuana legalization and transgender girls in girls' sports.",
+   "sources": [
+    "https://garrityforpa.com/turnaroundpa/",
+    "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/",
+    "https://en.wikipedia.org/wiki/Stacy_Garrity"
+   ],
+   "photo": {
+    "file": "File:Stacy Garrity 2023 (cropped).jpg",
+    "license": "Public domain",
+    "author": "Dan Meuser"
+   }
+  }
+ },
+ {
+  "id": "RI-SEN/jack-reed",
+  "name": "Jack Reed",
+  "party": "Democratic",
+  "race": "RI-SEN",
+  "race_label": "Rhode Island · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000122",
+   "official_name": "Jack Reed",
+   "chamber": "Senate",
+   "official_site": "https://www.reed.senate.gov",
+   "official_social": {
+    "twitter": "SenJackReed",
+    "facebook": "SenJackReed",
+    "youtube": "SenatorReed"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 35,
+    "security": 65,
+    "immigration": 20,
+    "foreign": 80,
+    "energy": 80,
+    "tech": 80,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs higher minimum wage, Choose Medicare, abortion and transgender rights, assault-weapons ban; voted for FISA reauthorization and foreign-aid package, against Laken Riley; proposed AGI-risk framework.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"
+   ],
+   "photo": {
+    "file": "File:Sen. Jack Reed (D-RI), Official Portrait, 119th Congress (1).jpg",
+    "license": "Public domain",
+    "author": "United States Senate"
+   }
+  }
+ },
+ {
+  "id": "RI-SEN/raymond-mckay",
+  "name": "Raymond McKay",
+  "party": "Republican",
+  "race": "RI-SEN",
+  "race_label": "Rhode Island · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 30,
+    "liberty": null,
+    "security": null,
+    "immigration": 70,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Calls for a balanced budget, cutting waste and fraud in Social Security and Medicare, stronger nuclear and fossil-fuel industries, and Americans First immigration enforcement.",
+   "sources": [
+    "https://www.mckayforussenate.com/right-direction/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "RI-GOV/helena-foulkes",
+  "name": "Helena Foulkes",
+  "party": "Democratic",
+  "race": "RI-GOV",
+  "race_label": "Rhode Island · Governor",
+  "race_status": "Republican primary recount pending; Guckian narrowly leads Pelino",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 75,
+    "liberty": null,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 85,
+    "tech": 60,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Proposes millionaire tax for housing, ocean-economy investment fund, stronger Medicaid, universal school meals and pre-K, more renewables and wind, defending TPS, data-center cost rules.",
+   "sources": [
+    "https://helenafoulkes.com/nofalsechoices",
+    "https://helenafoulkes.com/wp-content/uploads/2026/07/Reimagining-Rhode-Island-Healthcare.pdf",
+    "https://helenafoulkes.com/wp-content/uploads/2026/05/Childcare-Transportation.pdf"
+   ],
+   "photo": {
+    "file": "File:HelenaFoulkes CROP.jpg",
+    "license": "CC BY 2.0",
+    "author": "Digitas Photos"
+   }
+  }
+ },
+ {
+  "id": "RI-GOV/aaron-guckian",
+  "name": "Aaron Guckian",
+  "party": "Republican",
+  "race": "RI-GOV",
+  "race_label": "Rhode Island · Governor",
+  "race_status": "Republican primary recount pending; Guckian narrowly leads Pelino",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable policy positions found; campaign site lists no platform, and news coverage describes him as a moderate, self-described compassionate conservative.",
+   "sources": [
+    "https://www.yahoo.com/news/politics/articles/guckian-pelino-neck-neck-close-002751148.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "RI-GOV/elaine-pelino",
+  "name": "Elaine Pelino",
+  "party": "Republican",
+  "race": "RI-GOV",
+  "race_label": "Rhode Island · Governor",
+  "race_status": "Republican primary recount pending; Guckian narrowly leads Pelino",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 25,
+    "security": 70,
+    "immigration": 60,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Pledges lower costs and less regulation, law-enforcement resources, federal cooperation removing people here illegally who commit serious crimes, school choice expansion, and preserving gun rights.",
+   "sources": [
+    "https://www.elainepelino4governor.com/my-plan-rhode-island"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "RI-GOV/ken-block",
+  "name": "Ken Block",
+  "party": "Independent",
+  "race": "RI-GOV",
+  "race_label": "Rhode Island · Governor",
+  "race_status": "Republican primary recount pending; Guckian narrowly leads Pelino",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Would veto a millionaires tax, cut fees, taxes and wasteful spending, suspend truck tolls; says he won't impose his views on social issues.",
+   "sources": [
+    "https://blockforgovernor.com/issues.php"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-SEN/darline-graham",
+  "name": "Darline Graham",
+  "party": "Republican",
+  "race": "SC-SEN",
+  "race_label": "South Carolina · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 85,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Appointed senator who calls Israel America's greatest ally and introduced Russia-Iran sanctions legislation; no other verifiable policy positions found.",
+   "sources": [
+    "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-doubles-down-on-support-for-israel",
+    "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-applauds-senate-passage-of-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026"
+   ],
+   "photo": {
+    "file": "File:Official portrait of Darline Graham, member of the United States Senate from South Carolina (2026).jpg",
+    "license": "Public domain",
+    "author": "Rosa Pineda, United States Senate"
+   }
+  }
+ },
+ {
+  "id": "SC-SEN/annie-andrews",
+  "name": "Annie Andrews",
+  "party": "Democratic",
+  "race": "SC-SEN",
+  "race_label": "South Carolina · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 75,
+    "liberty": 30,
+    "security": null,
+    "immigration": 35,
+    "foreign": 30,
+    "energy": null,
+    "tech": 90,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Supports ending tax breaks for ultra-wealthy, public option, Medicaid expansion, reproductive freedom, background checks, border security with citizenship path, war-powers limits, AI/social-media regulation, public-school funding.",
+   "sources": [
+    "https://drannieandrews.com/platform",
+    "https://drannieandrews.com/issue/healthcare-is-a-right-not-a-privilege/",
+    "https://www.live5news.com/2025/09/26/we-palmetto-meet-candidate-dr-annie-andrews-us-senate/"
+   ],
+   "photo": {
+    "file": "File:Annie Andrews Greenville (cropped).jpg",
+    "license": "CC0",
+    "author": "Stimpus1"
+   }
+  }
+ },
+ {
+  "id": "SC-GOV/alan-wilson",
+  "name": "Alan Wilson",
+  "party": "Republican",
+  "race": "SC-GOV",
+  "race_label": "South Carolina · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 70,
+    "security": 80,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": 40,
+    "faith": null
+   },
+   "basis": "Would eliminate income tax; backed ACA and climate-rule lawsuits; pro-life, pro-gun, anti-cannabis; opposed 2014 same-sex marriage licenses, Biden transgender policies; tougher penalties; 287(g); school choice.",
+   "sources": [
+    "https://wilsonforsc.com/priorities/",
+    "https://en.wikipedia.org/wiki/Alan_Wilson_(politician)"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-GOV/jermaine-johnson",
+  "name": "Jermaine Johnson",
+  "party": "Democratic",
+  "race": "SC-GOV",
+  "race_label": "South Carolina · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 15,
+    "security": 50,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Proposes exempting 70% of families from income tax, state minimum wage, rural hospital funding, abortion rights, legal medical marijuana, more police plus crisis-response teams.",
+   "sources": [
+    "https://johnsonforsc.com/policies"
+   ],
+   "photo": null
+  }
+ }
+]

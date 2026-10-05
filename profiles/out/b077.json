@@ -1,0 +1,418 @@
+[
+ {
+  "id": "OH-5/brian-shaver",
+  "name": "Brian Shaver",
+  "party": "Democratic",
+  "current_role": "President of Fostoria City Council",
+  "bio": "Brian Shaver is president of the Fostoria City Council and a social studies teacher at Fostoria Junior/Senior High School. Born and raised in Fostoria, he is a lifelong resident of Northwest Ohio. He won the 2026 Democratic primary for Ohio's 5th District.",
+  "website": "https://www.brianshaverforcongress.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/BrianShaverForCongress/",
+   "instagram": "https://www.instagram.com/BrianShaverForCongress"
+  },
+  "platform": [
+   {"topic": "Government reform", "point": "Supports term limits for elected officials and limits on campaign finance.", "source": "https://www.brianshaverforcongress.com/"},
+   {"topic": "Ethics", "point": "Wants guardrails that stop elected officials from profiting from their positions and more legislative transparency.", "source": "https://www.brianshaverforcongress.com/"},
+   {"topic": "Checks and balances", "point": "Calls for strengthening checks and balances between branches of government.", "source": "https://www.brianshaverforcongress.com/"},
+   {"topic": "Healthcare", "point": "Lists healthcare and prescription drug costs among his key campaign issues.", "source": "https://www.brianshaverforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/0156d9_6e6a6a86a8f54765bcea4e32fcb5a4a6~mv2.png/v1/fill/w_980,h_1372,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Brian%205x7.png",
+  "notes": "Scores taken from earlier Ballotpedia research were removed because Ballotpedia could not be reached to confirm them; his campaign issues page presents positions only as videos."
+ },
+ {
+  "id": "OH-5/michael-veloff",
+  "name": "Michael J. Veloff",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Michael J. Veloff won the 2026 Libertarian primary for Ohio's 5th District as a write-in candidate. The United States Pirate Party endorsed him in July 2026.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Criminal justice", "point": "Calls for reform of bail review.", "source": "https://uspirates.org/endorsed-michael-veloff-for-ohios-5th-congressional-district/"},
+   {"topic": "Guns", "point": "Proposes providing firearms and training to vulnerable people.", "source": "https://uspirates.org/endorsed-michael-veloff-for-ohios-5th-congressional-district/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Very little public information; platform items come only from a Pirate Party endorsement post, and no campaign website was found."
+ },
+ {
+  "id": "OH-6/michael-rulli",
+  "name": "Michael Rulli",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-6",
+  "bio": "Michael Rulli has represented Ohio's 6th District in the U.S. House since 2024. He previously served in the Ohio Senate from 2019 to 2024 and on the Leetonia school board. He is from the Mahoning Valley and helped run his family's grocery business, Rulli Bros. Markets.",
+  "website": "https://michaelrulli.com/",
+  "social": {
+   "x": "https://x.com/repmichaelrulli",
+   "facebook": "https://www.facebook.com/RepMikeRulli/",
+   "instagram": "https://www.instagram.com/repmikerulli/"
+  },
+  "platform": [
+   {"topic": "America First", "point": "Presents an America First agenda that includes ending illegal immigration.", "source": "https://rulli.house.gov/issues/america-first/"},
+   {"topic": "Energy", "point": "Backs expanding American energy production, including oil, gas and coal.", "source": "https://rulli.house.gov/issues/energy/"},
+   {"topic": "Economy", "point": "Focuses on economic growth and workforce opportunities in the district.", "source": "https://rulli.house.gov/issues/"},
+   {"topic": "Health", "point": "Supports the Make America Healthy Again agenda.", "source": "https://rulli.house.gov/issues/"},
+   {"topic": "Veterans", "point": "Lists helping veterans as a priority issue.", "source": "https://rulli.house.gov/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Member of the DOGE Caucus who voted for the 2025 reconciliation bill.", "source": "https://en.wikipedia.org/wiki/Michael_Rulli"},
+   "welfare": {"score": 25, "evidence": "Voted for the 2025 reconciliation bill, which reduced spending on safety-net programs.", "source": "https://en.wikipedia.org/wiki/Michael_Rulli"},
+   "liberty": {"score": 70, "evidence": "Co-sponsored Ohio's heartbeat abortion ban and voted to override the veto of HB 68 on transgender care (abortion, LGBTQ), though he co-sponsored the Ohio Fairness Act.", "source": "https://en.wikipedia.org/wiki/Michael_Rulli"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "His official priorities call for ending illegal immigration.", "source": "https://rulli.house.gov/issues/america-first/"},
+   "foreign": {"score": 25, "evidence": "His America First page opposes endless foreign wars.", "source": "https://rulli.house.gov/issues/america-first/"},
+   "energy": {"score": 10, "evidence": "Backs expanded oil, gas and coal production.", "source": "https://rulli.house.gov/issues/energy/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "OH-6/elizabeth-kirtley",
+  "name": "Elizabeth Kirtley",
+  "party": "Democratic",
+  "current_role": "Freelance writer",
+  "bio": "Elizabeth Kirtley is a freelance writer who won the 2026 Democratic primary for Ohio's 6th District. She has not held elected office.",
+  "website": "https://www.elizabethforus.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Immigration", "point": "Calls for abolishing ICE, citing protection of constitutional rights and due process.", "source": "https://www.elizabethforus.com/issues"},
+   {"topic": "Abortion", "point": "Supports codifying Roe v. Wade into federal law.", "source": "https://www.elizabethforus.com/issues"},
+   {"topic": "Healthcare", "point": "Supports universal healthcare.", "source": "https://www.elizabethforus.com/issues"},
+   {"topic": "Voting", "point": "Wants fair and safe elections with one vote per person.", "source": "https://www.elizabethforus.com/issues"},
+   {"topic": "Media", "point": "Wants news organizations held to standards of truthful reporting.", "source": "https://www.elizabethforus.com/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 90, "evidence": "Campaign supports universal healthcare.", "source": "https://www.elizabethforus.com/issues"},
+   "liberty": {"score": 15, "evidence": "Supports codifying Roe (abortion) and protecting speech and assembly rights (speech).", "source": "https://www.elizabethforus.com/issues"},
+   "security": {"score": 25, "evidence": "Emphasizes due process and the right to peaceful protest.", "source": "https://www.elizabethforus.com/issues"},
+   "immigration": {"score": 5, "evidence": "Calls for abolishing ICE.", "source": "https://www.elizabethforus.com/issues"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Biographical detail is limited; occupation comes from her FEC filing as cited on Wikipedia."
+ },
+ {
+  "id": "OH-7/max-miller",
+  "name": "Max Miller",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-7",
+  "bio": "Max Miller has represented Ohio's 7th District in the U.S. House since 2023. He served in the Marine Corps Reserve from 2013 to 2019 and held posts in the first Trump administration, including in the White House. He is from the Cleveland area.",
+  "website": "https://www.votemaxmiller.com/",
+  "social": {
+   "x": "https://x.com/repmaxmiller",
+   "facebook": "https://www.facebook.com/CongressmanMaxMiller",
+   "instagram": "https://www.instagram.com/repmaxmiller",
+   "youtube": "https://www.youtube.com/@RepMaxMiller"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Supports permanent tax cuts and no federal tax on tips or overtime.", "source": "https://www.votemaxmiller.com/priorities"},
+   {"topic": "Workforce", "point": "Wants to expand career and technical education as an alternative to four-year degrees.", "source": "https://www.votemaxmiller.com/priorities"},
+   {"topic": "Law enforcement", "point": "Pledges more funding and support for police.", "source": "https://www.votemaxmiller.com/priorities"},
+   {"topic": "Border", "point": "Wants to secure the southern border against drug and human trafficking.", "source": "https://www.votemaxmiller.com/priorities"},
+   {"topic": "Energy", "point": "Backs Trump administration policies aimed at American energy independence.", "source": "https://www.votemaxmiller.com/priorities"},
+   {"topic": "Infrastructure", "point": "Supports investment in roads, bridges, rail and broadband.", "source": "https://www.votemaxmiller.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted to make tax cuts permanent and backs removing regulatory barriers to job creation.", "source": "https://www.votemaxmiller.com/priorities"},
+   "welfare": {"score": 25, "evidence": "Supported the tax and spending package he highlights on his priorities page.", "source": "https://www.votemaxmiller.com/priorities"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Pledges increased funding for law enforcement.", "source": "https://www.votemaxmiller.com/priorities"},
+   "immigration": {"score": 80, "evidence": "Prioritizes securing the southern border.", "source": "https://www.votemaxmiller.com/priorities"},
+   "foreign": {"score": 65, "evidence": "Strong supporter of Israel; co-sponsored protections for Americans serving in the Israel Defense Forces.", "source": "https://en.wikipedia.org/wiki/Max_Miller_(politician)"},
+   "energy": {"score": 20, "evidence": "Backs Trump administration energy independence policies.", "source": "https://www.votemaxmiller.com/priorities"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "OH-7/brian-poindexter",
+  "name": "Brian Poindexter",
+  "party": "Democratic",
+  "current_role": "Brook Park City Council member and union ironworker",
+  "bio": "Brian Poindexter is an at-large member of the Brook Park City Council, first elected in 2017. He has been a member of Ironworkers Local 17 since 2007 and works as an apprenticeship instructor. He earlier worked in machine shops, factories, kitchens and moving.",
+  "website": "https://poindexterforcongress.com/",
+  "social": {
+   "x": "https://x.com/bpforcongress",
+   "facebook": "https://www.facebook.com/PoindexterForCongress",
+   "instagram": "https://www.instagram.com/PoindexterForCongress",
+   "tiktok": "https://www.tiktok.com/@poindexterforcongress",
+   "youtube": "https://www.youtube.com/@poindexterforcongress"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants an economy that puts working families ahead of corporations and the wealthy.", "source": "https://poindexterforcongress.com/the-economy-and-cost-of-living/"},
+   {"topic": "Labor", "point": "Supports the freedom to organize unions without intimidation.", "source": "https://poindexterforcongress.com/workers-rights-and-unions/"},
+   {"topic": "Healthcare", "point": "Wants health coverage that is not tied to a person's job.", "source": "https://poindexterforcongress.com/healthcare-that-makes-sense/"},
+   {"topic": "Manufacturing", "point": "Opposes outsourcing and wants companies that benefit from federal policy to invest in American workers.", "source": "https://poindexterforcongress.com/made-in-america/"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Backs union organizing rights and penalizing companies that send jobs overseas.", "source": "https://poindexterforcongress.com/made-in-america/"},
+   "welfare": {"score": 70, "evidence": "Supports healthcare that is independent of employment.", "source": "https://poindexterforcongress.com/healthcare-that-makes-sense/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 80, "evidence": "On city council he opposed school choice vouchers and supported public schools.", "source": "https://poindexterforcongress.com/brian-poindexters-working-class-story/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://poindexterforcongress.com/wp-content/uploads/2025/12/bp.png",
+  "notes": "The earlier liberty score of 60 (based on a gun-safety group designation) was removed because no source for it could be found in this pass."
+ },
+ {
+  "id": "OH-8/warren-davidson",
+  "name": "Warren Davidson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-8",
+  "bio": "Warren Davidson has represented Ohio's 8th District in the U.S. House since winning a 2016 special election. He is a West Point graduate and former Army Ranger who later ran a family manufacturing business. He is from Sidney, Ohio, and is a member of the House Freedom Caucus.",
+  "website": "https://www.davidsonforcongress.com/",
+  "social": {
+   "x": "https://x.com/WarrenDavidson",
+   "facebook": "https://www.facebook.com/CongressmanWarrenDavidson",
+   "instagram": "https://www.instagram.com/instawarrendavidson",
+   "youtube": "https://www.youtube.com/@congressmanwarrendavidson2640"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Wants to replace the income tax with a consumption tax that exempts food, clothing, shelter and healthcare.", "source": "https://www.davidsonforcongress.com/issues/"},
+   {"topic": "Privacy", "point": "Opposes a central bank digital currency, digital ID and warrantless surveillance.", "source": "https://www.davidsonforcongress.com/issues/"},
+   {"topic": "Border", "point": "Supports walls and full border control, and opposes federal funds for sanctuary jurisdictions.", "source": "https://www.davidsonforcongress.com/issues/"},
+   {"topic": "Healthcare", "point": "Proposes expanding HSAs, price transparency and block-granting Medicaid to states.", "source": "https://www.davidsonforcongress.com/issues/"},
+   {"topic": "Foreign policy", "point": "Backs peace through strength, NATO burden-sharing and requiring congressional authorization for wars.", "source": "https://www.davidsonforcongress.com/issues/"},
+   {"topic": "Sound money", "point": "Supports auditing the Federal Reserve and founded the Sound Money Caucus.", "source": "https://www.davidsonforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes the income tax and most federal regulation.", "source": "https://www.davidsonforcongress.com/issues/"},
+   "welfare": {"score": 15, "evidence": "Proposes block-granting Medicaid and supports ACA repeal.", "source": "https://www.davidsonforcongress.com/issues/"},
+   "liberty": {"score": 55, "evidence": "Opposes abortion and holds traditional marriage views (abortion, LGBTQ), but opposes gun restrictions and defends broad free speech (guns, speech).", "source": "https://www.davidsonforcongress.com/issues/"},
+   "security": {"score": 10, "evidence": "Co-sponsored FISA reforms requiring warrants and opposes the Patriot Act and digital ID.", "source": "https://en.wikipedia.org/wiki/Warren_Davidson"},
+   "immigration": {"score": 85, "evidence": "Supports border walls, enforced deportation and limiting birthright citizenship.", "source": "https://www.davidsonforcongress.com/issues/"},
+   "foreign": {"score": 25, "evidence": "Opposed large Ukraine aid packages and opposes war with Iran.", "source": "https://en.wikipedia.org/wiki/Warren_Davidson"},
+   "energy": {"score": 25, "evidence": "Calls for broadly reducing federal regulation; his issues page has no specific energy section.", "source": "https://www.davidsonforcongress.com/issues/"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 70, "evidence": "Frames family policy in Christian terms and defends religious exercise.", "source": "https://www.davidsonforcongress.com/issues/"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Liberty lowered from 80 to 55 because his opposition to gun restrictions and strong free-speech stance point toward individual choice on those issues. Energy score rests on general deregulatory views, as his site has no energy section."
+ },
+ {
+  "id": "OH-8/vanessa-enoch",
+  "name": "Vanessa Enoch",
+  "party": "Democratic",
+  "current_role": "Owner of a technology and management company",
+  "bio": "Vanessa Enoch holds a doctorate and owns and manages a technology and management company; her campaign is based in West Chester. She has run for Ohio's 8th District before and won the 2026 Democratic primary with about 75 percent of the vote.",
+  "website": "https://enochforcongress.com/",
+  "social": {
+   "x": "https://x.com/DrVEnoch",
+   "facebook": "https://www.facebook.com/1DocEnoch",
+   "instagram": "https://www.instagram.com/doc.enoch"
+  },
+  "platform": [
+   {"topic": "Healthcare", "point": "Wants to lower healthcare costs and improve access to care.", "source": "https://enochforcongress.com/issue/"},
+   {"topic": "Data centers", "point": "Says corporations, not residents, should pay for infrastructure and utility costs of data center growth.", "source": "https://enochforcongress.com/"},
+   {"topic": "Housing", "point": "Supports investment in housing and neighborhoods.", "source": "https://enochforcongress.com/issue/"},
+   {"topic": "Guns", "point": "Supports responsible gun ownership balanced with public safety, including safe-storage rules.", "source": "https://enochforcongress.com/issue/responsible-gun-ownership/"},
+   {"topic": "Democracy", "point": "Wants to restore trust in government and protect voting access.", "source": "https://enochforcongress.com/issue/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports raising the minimum wage and negotiating prescription drug prices.", "source": "https://enochforcongress.com/issue/a-secure-and-prosperous-future/"},
+   "welfare": {"score": 70, "evidence": "Wants Medicare and Medicaid to negotiate drug prices, caps on out-of-pocket costs, and paid sick and family leave.", "source": "https://enochforcongress.com/issue/reducing-rising-healthcare-costs/"},
+   "liberty": {"score": 35, "evidence": "Backs safe-storage rules and background checks while affirming lawful gun ownership (guns); her site also backs reproductive rights (abortion).", "source": "https://enochforcongress.com/issue/responsible-gun-ownership/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 65, "evidence": "Calls for careful, ethical AI development with privacy, cybersecurity and data-center resource safeguards.", "source": "https://enochforcongress.com/issue/advancing-technology-responsibly/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Earlier Ballotpedia-based security, energy and education scores were removed because Ballotpedia could not be reached to confirm them."
+ },
+ {
+  "id": "OH-9/marcy-kaptur",
+  "name": "Marcy Kaptur",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for OH-9",
+  "bio": "Marcy Kaptur has represented the Toledo-based 9th District in the U.S. House since 1983 and is the longest-serving woman in congressional history. Before Congress she was an urban planner and a domestic policy adviser in the Carter administration. She is from Toledo.",
+  "website": "https://marcykaptur.com/",
+  "social": {
+   "x": "https://x.com/RepMarcyKaptur",
+   "facebook": "https://www.facebook.com/RepresentativeMarcyKaptur",
+   "instagram": "https://www.instagram.com/repmarcykaptur",
+   "youtube": "https://www.youtube.com/USRepMarcyKaptur"
+  },
+  "platform": [
+   {"topic": "Trade", "point": "Supports tariffs that protect Ohio factories and ending tax breaks for offshoring jobs.", "source": "https://marcykaptur.com/priorities/"},
+   {"topic": "Retirement", "point": "Pledges to protect Social Security and Medicare from cuts and privatization.", "source": "https://marcykaptur.com/priorities/"},
+   {"topic": "Abortion", "point": "Says health decisions belong to women and their doctors and opposes national abortion bans.", "source": "https://marcykaptur.com/priorities/"},
+   {"topic": "Immigration", "point": "Backs border security, legal pathways and the 2024 Senate bipartisan border plan.", "source": "https://marcykaptur.com/priorities/"},
+   {"topic": "Energy", "point": "Supports an all-of-the-above energy policy including solar, wind, geothermal and biofuels.", "source": "https://marcykaptur.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports protective tariffs and has pushed to restore Glass-Steagall bank rules.", "source": "https://marcykaptur.com/priorities/"},
+   "welfare": {"score": 70, "evidence": "Pledges to protect Social Security and Medicare from cuts and privatization.", "source": "https://marcykaptur.com/priorities/"},
+   "liberty": {"score": 45, "evidence": "Opposes national abortion bans but has backed some restrictions (abortion), and in 2026 voted for a bill on parental notification of transgender students (LGBTQ).", "source": "https://en.wikipedia.org/wiki/Marcy_Kaptur"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Backs border security plus legal pathways under the 2024 Senate plan.", "source": "https://marcykaptur.com/priorities/"},
+   "foreign": {"score": 85, "evidence": "Co-chairs the Congressional Ukraine Caucus and pressed for F-16s for Ukraine.", "source": "https://en.wikipedia.org/wiki/Marcy_Kaptur"},
+   "energy": {"score": 60, "evidence": "Supports all-of-the-above energy with emphasis on renewables.", "source": "https://marcykaptur.com/priorities/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "OH-9/derek-merrin",
+  "name": "Derek Merrin",
+  "party": "Republican",
+  "current_role": "Former Ohio state representative",
+  "bio": "Derek Merrin served in the Ohio House from 2016 to 2025 and was elected leader of the House Republican Caucus. He was earlier a Waterville city council member and mayor, and he holds degrees from the University of Toledo and Bowling Green State University. He narrowly lost to Marcy Kaptur in 2024 and is the 2026 Republican nominee.",
+  "website": "https://www.derekmerrin.com/",
+  "social": {
+   "x": "https://twitter.com/DerekMerrin",
+   "facebook": "https://www.facebook.com/derekmerrinforohio"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Supports income tax cuts and a simpler, more transparent tax code.", "source": "https://www.derekmerrin.com/"},
+   {"topic": "Healthcare", "point": "Wants lower costs through price transparency and fewer regulations.", "source": "https://www.derekmerrin.com/"},
+   {"topic": "Elections", "point": "Supports photo ID requirements for voting.", "source": "https://www.derekmerrin.com/"},
+   {"topic": "Guns", "point": "Highlights his work passing constitutional carry in Ohio.", "source": "https://www.derekmerrin.com/"},
+   {"topic": "Education", "point": "Points to his record expanding school choice.", "source": "https://www.derekmerrin.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Led state income tax cuts and favors fewer regulations.", "source": "https://www.derekmerrin.com/"},
+   "welfare": null,
+   "liberty": {"score": 50, "evidence": "Championed constitutional carry (guns) and Down syndrome non-discrimination legislation related to abortion (abortion).", "source": "https://www.derekmerrin.com/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 15, "evidence": "Expanded school choice as a legislator.", "source": "https://www.derekmerrin.com/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Derek Merrin jpeg (cropped).jpg", "license": "CC BY 4.0", "author": "SchOg"},
+  "campaign_photo": "",
+  "notes": "Liberty lowered from 80 to 50 because constitutional carry points toward individual choice on guns while his abortion-related record points the other way."
+ },
+ {
+  "id": "OH-10/mike-turner",
+  "name": "Mike Turner",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-10",
+  "bio": "Mike Turner has served in the U.S. House since 2003, representing Ohio's 10th District since 2013. He chaired the House Intelligence Committee from 2023 to 2025 and was president of the NATO Parliamentary Assembly. He is an attorney from Dayton and was mayor of Dayton from 1994 to 2002.",
+  "website": "https://miketurner.com/",
+  "social": {
+   "x": "https://x.com/RepMikeTurner",
+   "facebook": "https://www.facebook.com/RepMikeTurner",
+   "instagram": "https://www.instagram.com/repmiketurner",
+   "youtube": "https://www.youtube.com/CongressmanTurner"
+  },
+  "platform": [
+   {"topic": "Budget", "point": "Calls for reining in federal spending to support economic growth.", "source": "https://turner.house.gov/issues"},
+   {"topic": "Energy", "point": "Supports an all-of-the-above approach to domestic energy production.", "source": "https://turner.house.gov/issues"},
+   {"topic": "Defense", "point": "Prioritizes national defense and support for Wright-Patterson Air Force Base.", "source": "https://turner.house.gov/issues"},
+   {"topic": "Retirement", "point": "Pledges to protect Social Security, Medicare and earned pensions, including Delphi salaried retirees.", "source": "https://turner.house.gov/issues"},
+   {"topic": "Ukraine", "point": "Lists the war in Ukraine as a priority issue.", "source": "https://turner.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Emphasizes deficit reduction and cutting federal spending.", "source": "https://turner.house.gov/issues"},
+   "welfare": {"score": 30, "evidence": "Voted against the ACA and repeatedly for its repeal.", "source": "https://en.wikipedia.org/wiki/Mike_Turner"},
+   "liberty": {"score": 55, "evidence": "After the 2019 Dayton shooting he backed limits on military-style weapons and magazines (guns).", "source": "https://en.wikipedia.org/wiki/Mike_Turner"},
+   "security": {"score": 80, "evidence": "Former House Intelligence chair who has backed broad intelligence authorities.", "source": "https://en.wikipedia.org/wiki/Mike_Turner"},
+   "immigration": null,
+   "foreign": {"score": 95, "evidence": "Former NATO Parliamentary Assembly president and supporter of aid to Ukraine.", "source": "https://en.wikipedia.org/wiki/Mike_Turner"},
+   "energy": {"score": 35, "evidence": "Supports all-of-the-above domestic energy production.", "source": "https://turner.house.gov/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website taken from Wikipedia and not opened directly."
+ },
+ {
+  "id": "OH-10/kristina-knickerbocker",
+  "name": "Kristina Knickerbocker",
+  "party": "Democratic",
+  "current_role": "Nurse practitioner and Air Force veteran",
+  "bio": "Kristina Knickerbocker is a neuro-oncology nurse practitioner at The Ohio State University Medical Center. She served as a nurse and Major in the U.S. Air Force at Wright-Patterson Air Force Base. She lives in the Yellow Springs area and has not held elected office.",
+  "website": "https://kristinaknickerbocker.com/",
+  "social": {
+   "x": "https://x.com/KnickerbockerOH",
+   "instagram": "https://www.instagram.com/kristinaknickerbocker/",
+   "facebook": "https://www.facebook.com/profile.php?id=61586354796736",
+   "tiktok": "https://www.tiktok.com/@kristinaknickerbocker",
+   "youtube": "https://www.youtube.com/channel/UC5z_DcpjG8gkRtm2RMTAoLA"
+  },
+  "platform": [
+   {"topic": "Ethics", "point": "Wants to ban congressional stock trading, end corporate PAC money and set term limits.", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   {"topic": "Affordability", "point": "Proposes tax cuts for working families, repealing tariffs, capping childcare costs and building affordable housing.", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   {"topic": "Energy costs", "point": "Wants corporations to pay for data center infrastructure so household energy bills stay lower.", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   {"topic": "Healthcare", "point": "Supports moving toward universal coverage, a public option and protecting Medicaid and Medicare.", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   {"topic": "Public safety", "point": "Supports investing in police, fire departments and first-responder training.", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   {"topic": "Veterans", "point": "Wants full VA funding and to defend Wright-Patterson Air Force Base.", "source": "https://kristinaknickerbocker.com/my-priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Calls for billionaires to pay a fair share, repealing tariffs and capping childcare costs.", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   "welfare": {"score": 80, "evidence": "Supports working toward universal coverage and a public option.", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   "liberty": {"score": 25, "evidence": "Pledges to defend reproductive healthcare (abortion).", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   "security": {"score": 55, "evidence": "Supports investing in law enforcement alongside community prevention.", "source": "https://kristinaknickerbocker.com/my-priorities/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://kristinaknickerbocker.com/wp-content/uploads/2026/01/meet.jpeg",
+  "notes": "An earlier tech score was removed because its Ballotpedia source could not be reached; her priorities page addresses data centers only as an energy-cost issue."
+ }
+]

@@ -1,0 +1,442 @@
+[
+ {
+  "id": "WA-6/emily-randall",
+  "name": "Emily Randall",
+  "party": "Democratic",
+  "race": "WA-6",
+  "race_label": "Washington · US House WA-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000621",
+   "official_name": "Emily Randall",
+   "chamber": "House",
+   "official_site": "https://randall.house.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": 25,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Opposes Medicaid cuts, abortion access, Equality Act, cannabis protections, gun safety endorsements, voted against Laken Riley Act, climate action, opposes vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Emily_Randall",
+    "https://www.ontheissues.org/House/Emily_Randall.htm",
+    "https://electemilyrandall.com/issues/"
+   ],
+   "photo": {
+    "file": "File:Randall Emily 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "WA-6/teresa-fox",
+  "name": "Teresa Fox",
+  "party": "Republican",
+  "race": "WA-6",
+  "race_label": "Washington · US House WA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found on campaign site.",
+   "sources": [
+    "https://www.foxforwa.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-7/pramila-jayapal",
+  "name": "Pramila Jayapal",
+  "party": "Democratic",
+  "race": "WA-7",
+  "race_label": "Washington · US House WA-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000298",
+   "official_name": "Pramila Jayapal",
+   "chamber": "House",
+   "official_site": "https://jayapal.house.gov",
+   "official_social": {
+    "facebook": "RepJayapal",
+    "twitter": "RepJayapal",
+    "instagram": "repjayapal"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 95,
+    "liberty": 20,
+    "security": 15,
+    "immigration": 5,
+    "foreign": 30,
+    "energy": 95,
+    "tech": 75,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Single-payer, opposes deficit tax cuts, abortion and LGBTQ rights, drug decriminalization, police accountability, immigrant integration, Green New Deal, net neutrality.",
+   "sources": [
+    "https://www.ontheissues.org/House/Pramila_Jayapal.htm",
+    "https://en.wikipedia.org/wiki/Pramila_Jayapal"
+   ],
+   "photo": {
+    "file": "File:Pramila Jayapal, official portrait, 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "Nate Gowdy Photography"
+   }
+  }
+ },
+ {
+  "id": "WA-7/nirav-sheth",
+  "name": "Nirav Sheth",
+  "party": "Republican",
+  "race": "WA-7",
+  "race_label": "Washington · US House WA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": 50,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Opposes capital gains, estate and income taxes, more police funding, emphasizes legal immigration, local control and parent involvement in education.",
+   "sources": [
+    "https://shethforcongress.com/",
+    "https://shethforcongress.com/issues/affordability-economy-employment/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-8/kim-schrier",
+  "name": "Kim Schrier",
+  "party": "Democratic",
+  "race": "WA-8",
+  "race_label": "Washington · US House WA-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001216",
+   "official_name": "Kim Schrier",
+   "chamber": "House",
+   "official_site": "https://schrier.house.gov",
+   "official_social": {
+    "twitter": "RepKimSchrier",
+    "facebook": "repkimschrier"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 35,
+    "immigration": 35,
+    "foreign": 45,
+    "energy": 85,
+    "tech": 65,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Higher taxes on wealthy, Medicare buy-in, pro-choice, Equality Act, assault weapon limits, police accountability, citizenship pathway, war powers votes, 100% clean energy.",
+   "sources": [
+    "https://www.ontheissues.org/House/Kim_Schrier.htm",
+    "https://en.wikipedia.org/wiki/Kim_Schrier"
+   ],
+   "photo": {
+    "file": "File:Kim Schrier Official Portrait 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography/House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "WA-8/spencer-meline",
+  "name": "Spencer Meline",
+  "party": "Republican",
+  "race": "WA-8",
+  "race_label": "Washington · US House WA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 60,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Lists smart and secure immigration as a priority and supports parental rights in education.",
+   "sources": [
+    "https://www.melineforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-9/adam-smith",
+  "name": "Adam Smith",
+  "party": "Democratic",
+  "race": "WA-9",
+  "race_label": "Washington · US House WA-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S000510",
+   "official_name": "Adam Smith",
+   "chamber": "House",
+   "official_site": "https://adamsmith.house.gov",
+   "official_social": {
+    "twitter": "RepAdamSmith",
+    "facebook": "RepAdamSmith",
+    "youtube": "CongressmanAdamSmith",
+    "instagram": "repadamsmith"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": null,
+    "security": 65,
+    "immigration": 30,
+    "foreign": 80,
+    "energy": 90,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Hedge-fund housing divestment bill, ACA support, Patriot Act and FISA votes, comprehensive immigration reform, defense-diplomacy leadership, urgent decarbonization.",
+   "sources": [
+    "https://adamsmith.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Adam_Smith_(Washington_politician)"
+   ],
+   "photo": {
+    "file": "File:Adam Smith official photo.jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "WA-9/doug-basler",
+  "name": "Doug Basler",
+  "party": "Republican",
+  "race": "WA-9",
+  "race_label": "Washington · US House WA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign criticizes rising taxes and regulations and focuses on affordability and public safety.",
+   "sources": [
+    "https://www.dougbasler.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-10/marilyn-strickland",
+  "name": "Marilyn Strickland",
+  "party": "Democratic",
+  "race": "WA-10",
+  "race_label": "Washington · US House WA-10",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001159",
+   "official_name": "Marilyn Strickland",
+   "chamber": "House",
+   "official_site": "https://strickland.house.gov",
+   "official_social": {
+    "twitter": "RepStricklandWA",
+    "facebook": "RepStricklandWA",
+    "instagram": "repstricklandwa"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 75,
+    "liberty": 30,
+    "security": 30,
+    "immigration": 20,
+    "foreign": 50,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-ACA, pro-choice, background check bill, police accountability, citizenship pathways, 2002 AUMF repeal, renewable energy and greenhouse gas limits.",
+   "sources": [
+    "https://www.ontheissues.org/House/Marilyn_Strickland.htm"
+   ],
+   "photo": {
+    "file": "File:Marilyn Strickland 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Committee"
+   }
+  }
+ },
+ {
+  "id": "WA-10/chris-d-chung",
+  "name": "Chris D. Chung",
+  "party": "Republican",
+  "race": "WA-10",
+  "race_label": "Washington · US House WA-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WV-1/carol-miller",
+  "name": "Carol Miller",
+  "party": "Republican",
+  "race": "WV-1",
+  "race_label": "West Virginia · US House WV-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001205",
+   "official_name": "Carol D. Miller",
+   "chamber": "House",
+   "official_site": "https://miller.house.gov",
+   "official_social": {
+    "twitter": "RepCarolMiller",
+    "facebook": "RepCarolMiller"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 65,
+    "security": 60,
+    "immigration": 90,
+    "foreign": 75,
+    "energy": 10,
+    "tech": null,
+    "education": 25,
+    "faith": 90
+   },
+   "basis": "Permanent tax cuts, Obamacare repeal, anti-abortion, pro-gun, opposed same-sex marriage, border wall, pro-Israel, coal and gas, school prayer.",
+   "sources": [
+    "https://www.ontheissues.org/House/Carol_Miller.htm",
+    "https://www.electcarolmiller.com/"
+   ],
+   "photo": {
+    "file": "File:Carol Miller, official portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "WV-1/vince-george",
+  "name": "Vince George",
+  "party": "Democratic",
+  "race": "WV-1",
+  "race_label": "West Virginia · US House WV-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 85,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": 25,
+    "energy": 55,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Double minimum wage, Medicare-for-All option, due process in immigration enforcement, end forever wars, renewables and coal accountability, data center consent.",
+   "sources": [
+    "https://www.vincegeorgeforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ }
+]

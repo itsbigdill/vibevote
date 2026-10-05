@@ -1,0 +1,414 @@
+[
+ {
+  "id": "VA-4/jennifer-mcclellan",
+  "name": "Jennifer McClellan",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for VA-4",
+  "bio": "Jennifer McClellan has represented Virginia's 4th District in the U.S. House since 2023, the first Black woman elected to Congress from Virginia. She previously served in the Virginia House of Delegates (2006-2017) and the Virginia Senate (2017-2023) and ran for governor in 2021. A Petersburg native and University of Virginia law graduate, she worked as an attorney and as regulatory counsel for Verizon.",
+  "website": "https://jennifermcclellan.com/",
+  "social": {
+   "x": "https://x.com/RepMcClellan",
+   "instagram": "https://www.instagram.com/repmcclellan/",
+   "facebook": "https://www.facebook.com/JennMcClellanVA",
+   "youtube": "https://www.youtube.com/@jennifermcclellanforcongress"
+  },
+  "platform": [
+   {"topic": "Voting rights", "point": "Builds on state voting rights laws she passed and aims to protect ballot access.", "source": "https://jennifermcclellan.com/"},
+   {"topic": "Abortion", "point": "Wants to protect access to abortion and reproductive health care.", "source": "https://jennifermcclellan.com/"},
+   {"topic": "Climate", "point": "Prioritizes climate action, drawing on her authorship of the Virginia Clean Economy Act.", "source": "https://jennifermcclellan.com/"},
+   {"topic": "Health care", "point": "Seeks to expand access to affordable health coverage, as she did with Medicaid expansion in Virginia.", "source": "https://jennifermcclellan.com/"},
+   {"topic": "Education", "point": "Supports investment to rebuild aging school buildings and fully fund public schools.", "source": "https://jennifermcclellan.com/"},
+   {"topic": "Workers", "point": "Backs stronger worker protections and criminal justice reform.", "source": "https://jennifermcclellan.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Opposed eliminating Virginia's state income tax and backs stronger worker protections.", "source": "https://www.ontheissues.org/VA/Jennifer_McClellan.htm"},
+   "welfare": {"score": 75, "evidence": "Helped expand Medicaid to over 400,000 Virginians and campaigns on expanding the ACA.", "source": "https://www.ontheissues.org/VA/Jennifer_McClellan.htm"},
+   "liberty": {"score": 35, "evidence": "Led the Reproductive Health Protection Act on abortion while supporting universal background checks and red flag gun laws.", "source": "https://www.ontheissues.org/VA/Jennifer_McClellan.htm"},
+   "security": {"score": 30, "evidence": "Criticized punishment-focused policing and sponsored criminal justice reform including school-to-prison pipeline legislation.", "source": "https://www.ontheissues.org/VA/Jennifer_McClellan.htm"},
+   "immigration": {"score": 20, "evidence": "Opposed requiring local police to enforce federal immigration law and barred questioning crime victims about status.", "source": "https://www.ontheissues.org/VA/Jennifer_McClellan.htm"},
+   "foreign": null,
+   "energy": {"score": 90, "evidence": "Sponsored the Virginia Clean Economy Act setting a path to carbon-free electricity.", "source": "https://en.wikipedia.org/wiki/Jennifer_McClellan"},
+   "tech": null,
+   "education": {"score": 90, "evidence": "Led efforts to fully fund Virginia public schools and campaigns on rebuilding school buildings.", "source": "https://www.ontheissues.org/VA/Jennifer_McClellan.htm"},
+   "faith": {"score": 15, "evidence": "Voted against religious exemptions that would limit same-sex marriage protections.", "source": "https://www.ontheissues.org/VA/Jennifer_McClellan.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://jennifermcclellan.com/wp-content/uploads/2024JLMHeadshot-e1705547630841.jpeg",
+  "notes": "Most position evidence comes from her state legislative record."
+ },
+ {
+  "id": "VA-4/robert-murray",
+  "name": "Robert Murray",
+  "party": "Republican",
+  "current_role": "Technology executive",
+  "bio": "Robert Murray is the Republican nominee for Virginia's 4th District, chosen at a July 2026 party caucus. A Chesterfield native and William & Mary graduate with an Emory MBA, he founded an IT company in south Richmond and later worked at IBM advising public- and private-sector clients. He has pursued a U.S. Supreme Court petition on family and domestic relations law.",
+  "website": "https://www.murrayforcongress.com/",
+  "social": {
+   "x": "https://x.com/Vote4RMurray"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Proposes eliminating the federal individual income tax and filing requirement by 2032.", "source": "https://www.murrayforcongress.com/"},
+   {"topic": "Taxes", "point": "Supports no tax on tips, Social Security, investments and cryptocurrency.", "source": "https://www.murrayforcongress.com/"},
+   {"topic": "Defense", "point": "Would bring 20% of overseas troops home by 2032 while modernizing defense and hardening infrastructure.", "source": "https://www.murrayforcongress.com/"},
+   {"topic": "Family law", "point": "Seeks to reform marriage, divorce and domestic relations law and reduce state-court involvement in families.", "source": "https://www.murrayforcongress.com/about"},
+   {"topic": "Technology", "point": "Opposes government surveillance and censorship, supports AI progress and limiting unwanted data centers.", "source": "https://www.murrayforcongress.com/"},
+   {"topic": "Congressional pay", "point": "Pledges to donate his post-tax congressional salary to Virginia charities until income taxes end.", "source": "https://www.murrayforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 5, "evidence": "Proposes eliminating the federal individual income tax by 2032.", "source": "https://www.murrayforcongress.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 15, "evidence": "Says he opposes government surveillance of Americans and censorship.", "source": "https://www.murrayforcongress.com/"},
+   "immigration": null,
+   "foreign": {"score": 25, "evidence": "Proposes bringing 20% of overseas military personnel home by 2032.", "source": "https://www.murrayforcongress.com/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.murrayforcongress.com/images/robert-hero-1920x1080.jpg",
+  "notes": "Listed on the ballot as Robert P. \"Family Man\" Murray, Jr.; the campaign photo URL is a site hero image resolved from a relative path."
+ },
+ {
+  "id": "VA-4/joan-andrews-bell",
+  "name": "Joan Andrews Bell",
+  "party": "Independent",
+  "current_role": "Anti-abortion activist",
+  "bio": "Joan Andrews Bell is an independent candidate for Virginia's 4th District and a longtime anti-abortion activist who has been arrested many times at clinic protests. She was convicted under the federal FACE Act in 2023 and pardoned by President Trump in January 2025. Her candidacy is part of the Defending the Unborn slate of independent congressional candidates.",
+  "website": "https://joan.vote/",
+  "social": {},
+  "platform": [
+   {"topic": "Abortion", "point": "Campaigns against later-term abortion in Virginia.", "source": "https://joan.vote/"},
+   {"topic": "Amendment 1", "point": "Urges voters to reject Virginia's Amendment 1 abortion-rights ballot measure.", "source": "https://joan.vote/"},
+   {"topic": "Advertising", "point": "Uses her candidacy to air television ads showing images she says depict abortion's victims.", "source": "https://www.fxbgadvance.com/p/14-names-you-wont-recognize-are-on"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 85, "evidence": "Campaigns against abortion and Virginia's Amendment 1; no stated positions on drugs, LGBTQ rights, guns or speech.", "source": "https://joan.vote/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://alj1eaymo673byx6.public.blob.vercel-storage.com/organizations/4/landing-pages/1786555820864-joanmug-H6VynT0bR8fXUd4RTCwvnSdajwkeHm.jpg",
+  "notes": "Listed on the ballot as Joan E. \"Andrews\" Bell; the liberty score rests on abortion alone. One VPM article listed different VA-4 independents, but the state and Henrico candidate lists include her."
+ },
+ {
+  "id": "VA-5/john-mcguire",
+  "name": "John McGuire",
+  "party": "Republican",
+  "current_role": "U.S. Representative for VA-5",
+  "bio": "John McGuire has represented Virginia's 5th District since January 2025 after defeating Rep. Bob Good in the 2024 primary. He served in the Virginia House of Delegates (2018-2024) and briefly in the Virginia Senate (2024-2025). A Richmond native and former Navy SEAL, he founded a fitness training business; he sits on the Armed Services and Oversight committees.",
+  "website": "https://www.mcguireva.com/",
+  "social": {
+   "x": "https://x.com/JohnMcGuire4VA",
+   "instagram": "https://www.instagram.com/johnmcguire4va/",
+   "facebook": "https://www.facebook.com/JohnMcGuire4VA/"
+  },
+  "platform": [
+   {"topic": "Values", "point": "Campaigns as pro-life, pro-God, pro-gun and pro-Trump under an America First message.", "source": "https://www.mcguireva.com/"},
+   {"topic": "Energy", "point": "Backs American energy independence, uranium production and opposes fracking moratoriums.", "source": "https://mcguire.house.gov/issues/energy"},
+   {"topic": "Utility rates", "point": "Sponsors the FAIR Act to keep electric rates focused on safe, affordable service.", "source": "https://mcguire.house.gov/issues/energy"},
+   {"topic": "Taxes", "point": "Supported the One Big Beautiful Bill Act, citing tax relief and spending cuts.", "source": "https://mcguire.house.gov/issues/economy"},
+   {"topic": "Remittances", "point": "Introduced the REMIT Act to raise the tax on remittance transfers from 1% to 15%.", "source": "https://mcguire.house.gov/issues/economy"},
+   {"topic": "Housing", "point": "Would drop 401(k) withdrawal penalties when funds go toward a home down payment.", "source": "https://mcguire.house.gov/issues/economy"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the One Big Beautiful Bill Act, citing tax relief and cuts to spending.", "source": "https://mcguire.house.gov/issues/economy"},
+   "welfare": {"score": 25, "evidence": "Voted for the One Big Beautiful Bill Act, which cut spending and added Medicaid work requirements.", "source": "https://mcguire.house.gov/issues/economy"},
+   "liberty": {"score": 60, "evidence": "Campaigns as pro-life and pro-gun; abortion drives the score.", "source": "https://www.mcguireva.com/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Opposes fracking moratoriums and backs expanded domestic energy and uranium production.", "source": "https://mcguire.house.gov/issues/energy"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 80, "evidence": "Campaigns explicitly on being pro-God as a core pillar.", "source": "https://www.mcguireva.com/"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Official name is John J. McGuire III. The REMIT Act points toward tighter immigration policy but was not enough to score that domain."
+ },
+ {
+  "id": "VA-5/tom-perriello",
+  "name": "Tom Perriello",
+  "party": "Democratic",
+  "current_role": "Former U.S. Special Envoy for Sudan",
+  "bio": "Tom Perriello is a Charlottesville-area attorney and diplomat who represented Virginia's 5th District in Congress from 2009 to 2011. He later served as U.S. Special Envoy for the African Great Lakes region and for Sudan, and led Open Society Foundations' U.S. programs from 2018 to 2023. A Yale graduate, he also ran for governor in 2017.",
+  "website": "https://www.tomperriello.com/",
+  "social": {
+   "x": "https://x.com/TomPerriello",
+   "instagram": "https://www.instagram.com/TomPerrielloForCongress",
+   "facebook": "https://www.facebook.com/TomPerriello"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants to lower costs by ending tariffs and the Iran war that he says raised prices.", "source": "https://www.tomperriello.com/issues"},
+   {"topic": "Health care", "point": "Aims to make health care affordable for every family and protect rural clinics.", "source": "https://www.tomperriello.com/issues"},
+   {"topic": "Corruption", "point": "Would ban dark money and congressional insider trading; refuses corporate PAC and lobbyist donations.", "source": "https://www.tomperriello.com/issues"},
+   {"topic": "Wages", "point": "Supports raising the minimum wage substantially.", "source": "https://www.tomperriello.com/issues"},
+   {"topic": "Childcare", "point": "Commits to making childcare affordable for families.", "source": "https://www.tomperriello.com/issues"},
+   {"topic": "Valley Link", "point": "Opposes the Valley Link project affecting rural communities.", "source": "https://www.tomperriello.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Backs raising the minimum wage and cracking down on corporate corruption, while opposing tariffs.", "source": "https://www.tomperriello.com/issues"},
+   "welfare": {"score": 70, "evidence": "Voted for the Affordable Care Act and pledges affordable health care and childcare for every family.", "source": "https://www.tomperriello.com/issues"},
+   "liberty": {"score": 25, "evidence": "Calls abortion a fundamental right, while his House record opposed assault weapon bans; abortion drives the score.", "source": "https://en.wikipedia.org/wiki/Tom_Perriello"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Advocated comprehensive immigration reform and supported the DREAM Act.", "source": "https://en.wikipedia.org/wiki/Tom_Perriello"},
+   "foreign": {"score": 65, "evidence": "Served as a U.S. special envoy in Africa and supported the Afghanistan mission with exit-strategy requirements.", "source": "https://en.wikipedia.org/wiki/Tom_Perriello"},
+   "energy": {"score": 80, "evidence": "Voted for the 2009 cap-and-trade climate bill and supports sustainable energy.", "source": "https://en.wikipedia.org/wiki/Tom_Perriello"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Official portrait of Thomas Perriello, U.S. Special Envoy for Sudan.jpg", "license": "Public domain", "author": "Unknown photographer (U.S. Department of State)"},
+  "campaign_photo": "",
+  "notes": "His issues page lists AI, housing and child safety without detail."
+ },
+ {
+  "id": "VA-5/cooke-harvey",
+  "name": "Cooke Harvey",
+  "party": "Independent",
+  "current_role": "Carpenter",
+  "bio": "Cooke Costa Harvey is an independent candidate for Virginia's 5th District and works as a carpenter. He registered a campaign committee, Cooke for Congress, with the Federal Election Commission. Little other public information about his background is available.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/p/Cooke-Costa-Harvey-Independent-for-US-Congress-Virginias-5th-61585784802359/",
+   "youtube": "https://www.youtube.com/@cooke.c.harvey.for.congress"
+  },
+  "platform": [
+   {"topic": "Campaign finance", "point": "Lists campaign finance reform as a priority.", "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"},
+   {"topic": "Term limits", "point": "Supports congressional term limits.", "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"},
+   {"topic": "AI", "point": "Calls for regulating artificial intelligence.", "source": "https://virginiamercury.com/voter-guides/contests/2026-general-election-5th-congressional-district/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His priorities come from a search summary of the Virginia Mercury voter guide, which could not be opened directly. AI regulation is listed without detail, so tech is left unscored."
+ },
+ {
+  "id": "VA-6/ben-cline",
+  "name": "Ben Cline",
+  "party": "Republican",
+  "current_role": "U.S. Representative for VA-6",
+  "bio": "Ben Cline has represented Virginia's 6th District in the U.S. House since 2019. He served in the Virginia House of Delegates from 2002 to 2018 and earlier was chief of staff to Rep. Bob Goodlatte. Raised in Rockbridge County, he practiced law and was an assistant Commonwealth's Attorney in Rockingham County and Harrisonburg.",
+  "website": "https://www.bencline.com/",
+  "social": {
+   "x": "https://x.com/RepBenCline",
+   "instagram": "https://www.instagram.com/repbencline/",
+   "facebook": "https://www.facebook.com/BenCline4Congress",
+   "youtube": "https://www.youtube.com/@congressmanbencline8000"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Opposes raising taxes to balance the budget.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   {"topic": "Border", "point": "Supports building a border wall and banning sanctuary cities.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   {"topic": "Abortion", "point": "Holds that life begins at conception and sponsored protections for infants surviving abortion.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   {"topic": "Guns", "point": "Opposes new gun control measures, including universal background checks.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   {"topic": "Energy", "point": "Opposes limiting development to reduce fossil fuel use.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes tax increases to balance the budget and voted against net neutrality regulation.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "welfare": {"score": 15, "evidence": "Opposes federal Medicaid expansion in favor of state-run programs and opposed the ACA.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "liberty": {"score": 70, "evidence": "Opposes abortion from conception while opposing gun control; abortion drives the score.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "security": {"score": 65, "evidence": "Supported expanding the death penalty and opposed restrictions on police accountability measures.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "immigration": {"score": 85, "evidence": "Supports a border wall and banning sanctuary cities.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "foreign": {"score": 65, "evidence": "Supported military action against Iran and backed Israel after October 7.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "energy": {"score": 15, "evidence": "Opposes curbing development to reduce fossil fuels and opposed rural renewable energy aid.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "tech": {"score": 20, "evidence": "Voted against reinstating net neutrality regulations in 2019.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "education": {"score": 30, "evidence": "Prefers state over federal education standards and supports religious student groups.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"},
+   "faith": {"score": 85, "evidence": "Supports school prayer and says religious freedom takes precedence over same-sex marriage rights.", "source": "https://www.ontheissues.org/VA/Ben_Cline.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://bencline.com/wp-content/uploads/elementor/thumbs/005_Ben-Cline_2015-scaled-pimecl6kscnt05nf40kag3uvet2jpx8873ltd1xc2e.jpeg",
+  "notes": "OnTheIssues also records support for raising visa caps (2019), which tempers the immigration score. Several positions date from his state legislative career."
+ },
+ {
+  "id": "VA-6/beth-macy",
+  "name": "Beth Macy",
+  "party": "Democratic",
+  "current_role": "Author and journalist",
+  "bio": "Beth Macy is a nonfiction author and former Roanoke Times reporter (1989-2014), known for books including Factory Man, Truevine, Dopesick and Paper Girl. She was a Nieman Fellow at Harvard and a 2023 Guggenheim Fellow. Born in Urbana, Ohio, and based in Roanoke, she announced her Democratic run for Virginia's 6th District in November 2025.",
+  "website": "https://bethmacyforcongress.com/",
+  "social": {
+   "x": "https://x.com/papergirlmacy",
+   "instagram": "https://www.instagram.com/bethmacy/",
+   "facebook": "https://www.facebook.com/authorBethMacy/"
+  },
+  "platform": [
+   {"topic": "Data centers and AI", "point": "Calls for a national pause on new data centers until Congress sets rules, plus AI and Big Tech guardrails.", "source": "https://bethmacyforcongress.com/priorities/"},
+   {"topic": "Health care", "point": "Supports Medicare for All, restoring Medicaid coverage and protecting rural hospitals.", "source": "https://bethmacyforcongress.com/priorities/"},
+   {"topic": "Taxes", "point": "Would raise taxes on billionaires and capital gains and lift the Social Security tax cap on high earners.", "source": "https://bethmacyforcongress.com/priorities/"},
+   {"topic": "Cost of living", "point": "Wants to end tariffs, address food price fixing and support farmers' right to repair.", "source": "https://bethmacyforcongress.com/priorities/"},
+   {"topic": "Education", "point": "Proposes doubling Pell Grants and expanding community college workforce training.", "source": "https://bethmacyforcongress.com/priorities/"},
+   {"topic": "Immigration", "point": "Supports restoring legal pathways to citizenship and ending family separations.", "source": "https://bethmacyforcongress.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Proposes higher taxes on billionaires and capital gains and action against corporate price fixing.", "source": "https://bethmacyforcongress.com/priorities/"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All universal coverage.", "source": "https://bethmacyforcongress.com/priorities/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Supports pathways to citizenship and opposes ICE family separations.", "source": "https://bethmacyforcongress.com/priorities/"},
+   "foreign": null,
+   "energy": {"score": 85, "evidence": "Wants data centers required to use renewable energy as part of a broader clean-energy push.", "source": "https://bethmacyforcongress.com/priorities/"},
+   "tech": {"score": 90, "evidence": "Calls for a national data center moratorium pending legislation and guardrails on Big Tech and AI.", "source": "https://bethmacyforcongress.com/priorities/"},
+   "education": {"score": 70, "evidence": "Proposes doubling Pell Grants and protecting higher education research funding.", "source": "https://bethmacyforcongress.com/priorities/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Beth Macy.jpg", "license": "CC BY 4.0", "author": "Meredith Roller"},
+  "campaign_photo": "https://bethmacyforcongress.com/wp-content/uploads/2025/11/BMV25_001_FINAL_WEB-copy.png",
+  "notes": "Her education evidence concerns higher education rather than K-12 school choice."
+ },
+ {
+  "id": "VA-7/eugene-vindman",
+  "name": "Eugene Vindman",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for VA-7",
+  "bio": "Eugene Vindman has represented Virginia's 7th District in the U.S. House since January 2025 and serves on the Armed Services and Agriculture committees. He spent 25 years in the Army as a paratrooper and JAG attorney, served in Iraq, and was deputy legal adviser to the National Security Council from 2018 to 2020. Born in Kyiv, he immigrated to the United States as a child and grew up in Brooklyn.",
+  "website": "https://vindmanforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepVindman",
+   "instagram": "https://www.instagram.com/repvindman/",
+   "facebook": "https://www.facebook.com/CongressmanEugeneVindman"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants to cut taxes and costs for working families and warns tariffs raise prices.", "source": "https://vindmanforcongress.com/issues/"},
+   {"topic": "Health care", "point": "Would strengthen the ACA, lower drug prices and oppose cuts to Medicare, Medicaid and Social Security.", "source": "https://vindmanforcongress.com/issues/"},
+   {"topic": "Abortion", "point": "Sponsors legislation to restore nationwide abortion access and opposes bans on IVF and contraception.", "source": "https://vindmanforcongress.com/issues/"},
+   {"topic": "Public safety", "point": "Secured federal funds for local police and leads bipartisan work on fentanyl.", "source": "https://vindmanforcongress.com/issues/"},
+   {"topic": "AI and data centers", "point": "Supports commonsense AI guardrails and wants data centers to pay their share and avoid homes and schools.", "source": "https://vindmanforcongress.com/issues/"},
+   {"topic": "Education", "point": "Backs more school funding and a bipartisan effort to remove phones from K-12 classrooms.", "source": "https://vindmanforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Opposes tariffs and backs unions, while pledging tax cuts for working families.", "source": "https://vindmanforcongress.com/issues/"},
+   "welfare": {"score": 65, "evidence": "Wants to strengthen the ACA and opposes any cuts to Medicare, Medicaid or Social Security.", "source": "https://vindmanforcongress.com/issues/"},
+   "liberty": {"score": 35, "evidence": "Sponsors abortion-access legislation but voted for the SIPKA parental notification bill on transgender students; abortion drives the score.", "source": "https://en.wikipedia.org/wiki/Eugene_Vindman"},
+   "security": {"score": 60, "evidence": "Describes himself as a strong law enforcement supporter and delivered federal police funding.", "source": "https://vindmanforcongress.com/issues/"},
+   "immigration": {"score": 35, "evidence": "Wants a secure border alongside legal pathways and opposes ICE mega-detention facilities.", "source": "https://vindmanforcongress.com/issues/"},
+   "foreign": {"score": 85, "evidence": "Calls for strengthening global alliances and has investigated war crimes in Ukraine.", "source": "https://vindmanforcongress.com/issues/"},
+   "energy": {"score": 75, "evidence": "Supports clean energy investment and moving away from fossil fuels.", "source": "https://vindmanforcongress.com/issues/"},
+   "tech": {"score": 70, "evidence": "Supports AI legislation with guardrails protecting consumers, workers and national security.", "source": "https://vindmanforcongress.com/issues/"},
+   "education": {"score": 80, "evidence": "Calls for increased public school funding and resources.", "source": "https://vindmanforcongress.com/issues/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "He voted for H.Con.Res. 38 to assert congressional authority over U.S. involvement in the 2026 Iran war, which is a limit on intervention despite his pro-alliance stance."
+ },
+ {
+  "id": "VA-7/doug-ollivant",
+  "name": "Doug Ollivant",
+  "party": "Republican",
+  "current_role": "Retired U.S. Army lieutenant colonel",
+  "bio": "Doug Ollivant is a retired Army lieutenant colonel from Culpeper County who served two tours in Iraq. He was Director for Iraq on the National Security Council under Presidents George W. Bush and Barack Obama. He is the Republican nominee for Virginia's 7th District.",
+  "website": "https://www.dougforvirginia.com/",
+  "social": {
+   "x": "https://x.com/DouglasOllivant",
+   "instagram": "https://www.instagram.com/dougollivant/",
+   "facebook": "https://www.facebook.com/profile.php?id=61578110845985",
+   "tiktok": "https://www.tiktok.com/@dougollivantva7th",
+   "youtube": "https://www.youtube.com/@DougforVirginia"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Favors an all-of-the-above energy mix centered on small modular nuclear reactors and natural gas.", "source": "https://www.dougforvirginia.com/issues/"},
+   {"topic": "Taxes and spending", "point": "Wants to lower the tax burden by cutting inefficient and outdated federal programs.", "source": "https://www.dougforvirginia.com/issues/"},
+   {"topic": "Immigration", "point": "Supports strong enforcement against unlawful entry and treating fentanyl as a national security emergency.", "source": "https://www.dougforvirginia.com/issues/"},
+   {"topic": "Guns", "point": "Opposes permit-to-purchase rules and backs national concealed carry reciprocity.", "source": "https://www.dougforvirginia.com/issues/"},
+   {"topic": "Housing", "point": "Would increase housing supply by easing development regulations rather than expanding subsidies.", "source": "https://www.dougforvirginia.com/issues/"},
+   {"topic": "Veterans", "point": "Seeks to modernize VA systems with a focus on mental health and suicide prevention.", "source": "https://www.dougforvirginia.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Proposes reducing the tax burden, cutting federal spending and easing regulations on housing and manufacturing.", "source": "https://www.dougforvirginia.com/issues/"},
+   "welfare": null,
+   "liberty": {"score": 45, "evidence": "Opposes gun purchase permits but supports policies limiting transgender participation in girls' sports; no stated abortion position.", "source": "https://www.dougforvirginia.com/issues/"},
+   "security": {"score": 65, "evidence": "Calls for more investment in police resources and training.", "source": "https://www.dougforvirginia.com/issues/"},
+   "immigration": {"score": 75, "evidence": "Supports strong enforcement of immigration laws to stop unlawful entry.", "source": "https://www.dougforvirginia.com/issues/"},
+   "foreign": {"score": 70, "evidence": "Endorses a peace-through-strength approach to global stability.", "source": "https://www.dougforvirginia.com/issues/"},
+   "energy": {"score": 35, "evidence": "Centers energy policy on nuclear and natural gas while also including wind, solar and carbon capture.", "source": "https://www.dougforvirginia.com/issues/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Liberty was newly scored from gun and girls' sports positions only, since his site does not address abortion. Listed on the ballot as Douglas Ollivant."
+ },
+ {
+  "id": "VA-7/taner-demirci-lopez",
+  "name": "Taner Demirci Lopez",
+  "party": "Libertarian",
+  "current_role": "Former cultural advisor to U.S. government agencies",
+  "bio": "Taner Demirci Lopez is the Libertarian candidate for Virginia's 7th District. He holds a doctorate in theology from the University of Murcia in Spain, taught at the university level, and later worked as a cultural advisor to U.S. government agencies, including the Department of Defense. He has drafted several bills he says he would introduce if elected.",
+  "website": "https://lopezforva.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Re-independence", "point": "Wants to limit foreign and corporate influence over the federal government.", "source": "https://lopezforva.com/about"},
+   {"topic": "Immigration", "point": "Proposes an act restoring border control with a vetted 10-12 year path for current residents.", "source": "https://lopezforva.com/about"},
+   {"topic": "Data centers", "point": "Would require community consent before large data centers and industrial projects are built.", "source": "https://lopezforva.com/"},
+   {"topic": "Veterans", "point": "Would guarantee community care when the VA cannot treat a veteran within 28 days.", "source": "https://lopezforva.com/"},
+   {"topic": "Farms", "point": "Seeks to help family farms pass between generations and lower costs of lawful farm labor.", "source": "https://lopezforva.com/"},
+   {"topic": "Taxes", "point": "Opposes federal tax increases and supports reducing government spending.", "source": "https://lopezforva.com/about"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Opposes federal tax increases and calls for lower government spending and limited government.", "source": "https://lopezforva.com/about"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Pairs restored border control with a vetted 10-12 year pathway for current residents.", "source": "https://lopezforva.com/about"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign lists social media accounts, but the exact URLs could not be confirmed."
+ },
+ {
+  "id": "VA-7/alaha-ahrar",
+  "name": "Alaha Ahrar",
+  "party": "Independent",
+  "current_role": "CEO of International Kindness Sharing",
+  "bio": "Alaha Ahrar is an independent candidate for Virginia's 7th District. Born in Kabul, she lived in Pakistan before moving to the United States in 2008 for college, and holds degrees from the University of Mary Washington and George Mason University. She is a poet and human rights advocate who leads the nonprofit International Kindness Sharing and works as a business consultant.",
+  "website": "https://www.alahaahrarforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Justice", "point": "Makes justice and human rights a central theme of her campaign.", "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"},
+   {"topic": "Economy", "point": "Wants to expand economic opportunity in the district.", "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"},
+   {"topic": "Education", "point": "Lists education reform as a campaign priority.", "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"},
+   {"topic": "Community", "point": "Aims to strengthen social cohesion across communities.", "source": "https://kabulnow.com/2026/07/afghanistan-born-women-launch-bids-for-u-s-congress-and-swedish-parliament/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her campaign website content could not be read, and her platform is described only in general terms."
+ }
+]

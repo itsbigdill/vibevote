@@ -1,0 +1,726 @@
+[
+  {
+    "state": "New Mexico",
+    "district": "NM-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Melanie Stansbury",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 90,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pledged support for Medicare for All, student debt cancellation, marijuana legalization and an assault weapons ban; liberty driven by drugs and guns.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Melanie_Stansbury"
+        ],
+        "photo": {
+          "file": "File:Melanie Stansbury 117th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Didi Okpareke",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 65,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls for cutting federal spending and taxes and prioritizes border security against trafficking and smuggling.",
+        "sources": [
+          "https://nmpoliticalreport.com/2025/07/25/rio-rancho-pharmacist-running-for-house/",
+          "https://ballotpedia.org/Ndidiamaka_Okpareke"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Mexico",
+    "district": "NM-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Gabe Vasquez",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 30,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports codifying Roe v. Wade, backed COVID vaccine requirement for health workers, voted for TikTok divest-or-ban law; liberty driven by abortion.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gabe_Vasquez"
+        ],
+        "photo": {
+          "file": "File:Rep Gabriel Vasquez Official Portrait.jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "Greg Cunningham",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources.",
+        "sources": [
+          "https://news.ballotpedia.org/2026/08/03/vasquez-d-cunningham-r-running-in-new-mexicos-2nd-district-one-of-23-trump-won-seats-democrats-are-defending/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Mexico",
+    "district": "NM-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Teresa Leger Fernández",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": 35,
+          "security": null,
+          "immigration": 20,
+          "foreign": null,
+          "energy": 90,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs a Green New Deal, Medicare for All, moving from fracking to clean energy, the DREAM Act and a military-style rifle ban; liberty: guns.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Teresa_Leger_Fern%C3%A1ndez"
+        ],
+        "photo": {
+          "file": "File:Teresa Leger Fernandez 117th Congress portrait 2.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services, Franmarie Metzler"
+        }
+      },
+      {
+        "name": "Martin Zamora",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Martin_R._Zamora"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Nick LaLota",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 40,
+          "security": null,
+          "immigration": 55,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Cosponsored the DIGNIDAD Act pairing legal status with stricter enforcement; opposes undoing same-sex marriage rights; liberty driven by LGBTQ stance.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Nick_LaLota"
+        ],
+        "photo": {
+          "file": "File:Nick lalota portrait.jpg",
+          "license": "Public domain",
+          "author": "lalota.house.gov"
+        }
+      },
+      {
+        "name": "Chris Gallant",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources.",
+        "sources": [
+          "https://www.newsweek.com/chris-gallant-chances-fire-island-district-bdsm-photos-12439638"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Andrew Garbarino",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 35,
+          "security": null,
+          "immigration": 50,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for the Bipartisan Background Checks Act, Respect for Marriage Act and Farm Workforce Modernization Act; liberty driven by guns and LGBTQ votes.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Andrew_Garbarino"
+        ],
+        "photo": {
+          "file": "File:Andrew Garbarino 117th U.S Congress.jpg",
+          "license": "Public domain",
+          "author": "Franmarie Metzler, House Creative Services"
+        }
+      },
+      {
+        "name": "Patrick Halpin",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pledges to protect Medicaid and lower medical costs; wants secure borders but more accountability and training standards for ICE.",
+        "sources": [
+          "https://www.halpinforcongress.com/",
+          "https://www.halpinforcongress.com/article-newsday-when-will-garbarino-hold-hearing-ice"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Tom Suozzi",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 50,
+          "foreign": 85,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for Ukraine, Israel and Taiwan military aid, strong Israel supporter; voted for 2026 DHS funding including ICE, later expressed regret.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Tom_Suozzi"
+        ],
+        "photo": {
+          "file": "File:TomSuozzi118thCongress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Mike LiPetri",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 75,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants SALT cap removed, no tax on tips, overtime or Social Security, fewer regulations; stresses border security, police protections and support for Israel.",
+        "sources": [
+          "https://www.longislandpress.com/2026/02/03/mike-lipetri-congressional-bid/",
+          "https://en.wikipedia.org/wiki/Mike_LiPetri"
+        ],
+        "photo": {
+          "file": "File:Mike LiPetri (2024 Italian Heritage Street Festival) (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "ComplexRational"
+        }
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Laura Gillen",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 40,
+          "welfare": null,
+          "liberty": 55,
+          "security": null,
+          "immigration": 55,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 45,
+          "faith": null
+        },
+        "basis": "Opposed Mamdani's higher-tax agenda, voted for 2026 DHS/ICE funding and the Stopping Indoctrination and Protecting Kids Act; liberty driven by LGBTQ vote.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Laura_Gillen"
+        ],
+        "photo": {
+          "file": "File:Gillen Laura 119th Congress (cropped2).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Jeanine Driscoll",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 65,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls for full SALT restoration, lower small-business taxes, less regulation, no tax on tips and overtime, and securing the border.",
+        "sources": [
+          "https://patch.com/new-york/longisland/new-york-primary-previews-meet-jeanine-driscoll-candidate-new-york-s-4th",
+          "https://driscoll4congress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Blay Tarnoff",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/New_York%27s_4th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Gregory Meeks",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 80,
+          "energy": 75,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Foreign-affairs focused lawmaker engaged with allies including Israel; publicly urged combating climate change at the 2022 G20 parliamentary summit.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gregory_Meeks"
+        ],
+        "photo": {
+          "file": "File:Gregory Meeks, official portrait, 115th congress (3x4 cropped).jpg",
+          "license": "Public domain",
+          "author": "Kristie Boyd, U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "George Marsh",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources.",
+        "sources": [
+          "https://www.cityandstateny.com/prediction-markets/candidates/george-marsh"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Grace Meng",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": 30,
+          "foreign": 80,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted against Fiscal Responsibility Act cuts, for Ukraine/Israel/Taiwan aid; seeks ICE accountability without abolition; joined 2019 climate strike.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Grace_Meng"
+        ],
+        "photo": {
+          "file": "File:Grace Meng Official Congressional Photo.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Joseph Chou",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports reducing taxes and wasteful spending with a growth-oriented tax policy for families and small businesses.",
+        "sources": [
+          "https://ballotpedia.org/Joseph_Chou"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Claire Valdez",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 95,
+          "welfare": 95,
+          "liberty": 15,
+          "security": null,
+          "immigration": 5,
+          "foreign": 15,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs Medicare for All, rent control, job guarantee, public renewables, abolishing ICE, trans rights; opposes Iran war and arms to Israel; liberty driven by LGBTQ.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Claire_Valdez"
+        ],
+        "photo": {
+          "file": "File:Queens Bus Network Redesign Claire Valdez (cropped).jpg",
+          "license": "CC BY 4.0",
+          "author": "Metropolitan Transportation Authority"
+        }
+      },
+      {
+        "name": "Melvin Rivera",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources.",
+        "sources": [
+          "https://melvinforcongress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Priscilla Ghaznavi",
+        "party": "Our Future",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/New_York%27s_7th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Hakeem Jeffries",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 80,
+          "liberty": 25,
+          "security": 60,
+          "immigration": null,
+          "foreign": 85,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposed One Big Beautiful Bill Medicaid cuts, pushed ACA credit extension, backs abortion rights, Equality Act, cannabis reform, assault weapons ban, FISA 702, Ukraine aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+        ],
+        "photo": {
+          "file": "File:Rep-Hakeem-Jeffries-Official-Portrait (cropped).jpg",
+          "license": "Public domain",
+          "author": "Office of Representative Hakeem Jeffries"
+        }
+      },
+      {
+        "name": "Lewis Mizrahi",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources.",
+        "sources": [
+          "https://www.cityandstateny.com/prediction-markets/candidates/lewis-mizrahi"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New York",
+    "district": "NY-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Yvette Clarke",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 85,
+          "welfare": 80,
+          "liberty": 20,
+          "security": 25,
+          "immigration": 15,
+          "foreign": null,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes tax and spending cuts, pro-choice, opposed Patriot Act extensions, backs path to citizenship and DACA, supports climate and energy regulation.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Yvette_Clarke"
+        ],
+        "photo": {
+          "file": "File:2026 Official Portrait of Rep. Clarke (D-NY).jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe"
+        }
+      },
+      {
+        "name": "Joel Anabilah-Azumah",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in reliable sources.",
+        "sources": [
+          "https://ballotpedia.org/Joel_Anabilah-Azumah"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

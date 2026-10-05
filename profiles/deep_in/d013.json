@@ -1,0 +1,575 @@
+[
+ {
+  "id": "MI-5/christian-vukasovich",
+  "name": "Christian Vukasovich",
+  "party": "Democratic",
+  "race": "MI-5",
+  "race_label": "Michigan · US House MI-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MI-5/christian-vukasovich",
+   "name": "Christian Vukasovich",
+   "party": "Democratic",
+   "current_role": "College professor",
+   "bio": "Christian Vukasovich is the Democratic nominee for Michigan's 5th Congressional District in 2026. He is described as a college professor.",
+   "website": "https://christian4michigan.com/",
+   "social": {
+    "x": "https://x.com/c4michigan",
+    "facebook": "https://www.facebook.com/profile.php?id=61581443142382"
+   },
+   "platform": [
+    {
+     "topic": "Economy",
+     "point": "Fight for living wages, union jobs and an economy that rewards work.",
+     "source": "https://christian4michigan.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Treat access to quality, affordable health care as a basic right.",
+     "source": "https://christian4michigan.com/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Help working families afford stable homes and build equity.",
+     "source": "https://christian4michigan.com/"
+    },
+    {
+     "topic": "Education",
+     "point": "Invest in education and workforce training.",
+     "source": "https://christian4michigan.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Platform items come from default text in the campaign site's code; the site's detailed policy content did not load, so no scores were assigned."
+  }
+ },
+ {
+  "id": "MI-7/tom-barrett",
+  "name": "Tom Barrett",
+  "party": "Republican",
+  "race": "MI-7",
+  "race_label": "Michigan · US House MI-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001321",
+   "official_name": "Tom Barrett",
+   "chamber": "House",
+   "official_site": "https://barrett.house.gov",
+   "official_social": {
+    "twitter": "reptombarrett",
+    "facebook": "RepTomBarrett"
+   },
+   "official_portrait": false
+  },
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MI-7/tom-barrett",
+   "name": "Tom Barrett",
+   "party": "Republican",
+   "current_role": "U.S. Representative for MI-7",
+   "bio": "Tom Barrett has represented Michigan's 7th district in the U.S. House since January 2025. He previously served in the Michigan House (2015-2019) and Michigan Senate (2019-2023) and spent over two decades in the Army and Michigan Army National Guard as a helicopter pilot, with deployments including Iraq. He was born in Southfield and lives in Charlotte, Michigan.",
+   "website": "https://tombarrettforcongress.com/",
+   "social": {
+    "x": "https://x.com/tombarrettmi7",
+    "facebook": "https://www.facebook.com/tombarrettmi7",
+    "instagram": "https://www.instagram.com/tombarrettMI7",
+    "youtube": "https://www.youtube.com/@tombarrettmi7"
+   },
+   "platform": [
+    {
+     "topic": "Veterans",
+     "point": "Improve resources and job opportunities for veterans, including through his Veterans' Affairs subcommittee role.",
+     "source": "https://barrett.house.gov/about"
+    },
+    {
+     "topic": "Taxes",
+     "point": "Support tax relief for working families.",
+     "source": "https://barrett.house.gov/about"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Promote investment in roads and infrastructure from his Transportation and Infrastructure Committee seat.",
+     "source": "https://barrett.house.gov/about"
+    },
+    {
+     "topic": "VA technology",
+     "point": "Modernize Veterans Affairs technology systems as chair of the relevant subcommittee.",
+     "source": "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 20,
+     "evidence": "Voted for the One Big Beautiful Bill Act's tax cuts in 2025.",
+     "source": "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"
+    },
+    "welfare": {
+     "score": 20,
+     "evidence": "Voted for the One Big Beautiful Bill Act, which included Medicaid changes.",
+     "source": "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Tom Barrett, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe"
+   },
+   "campaign_photo": "https://images.squarespace-cdn.com/content/v1/618846223a022e7ecb41d30c/9477560c-7360-4d24-8505-bab65e96abea/SM%2Bprofile%2B-%2Bcockpit.jpg",
+   "notes": "Foreign score left empty because he backed 2026 strikes on Iran but later voted for a resolution to withdraw U.S. forces from Iran. The Commons portrait is his House official portrait (federal work)."
+  }
+ },
+ {
+  "id": "MI-8/tom-smith",
+  "name": "Tom Smith",
+  "party": "Republican",
+  "race": "MI-8",
+  "race_label": "Michigan · US House MI-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MI-8/tom-smith",
+   "name": "Tom Smith",
+   "party": "Republican",
+   "current_role": "Retired engineer and small-business owner",
+   "bio": "Thomas (Tom) Smith is a retired General Motors engineer who runs a small salsa business. He won the August 2026 Republican primary for Michigan's 8th district despite having suspended his campaign and endorsed another candidate in July.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Affordability",
+     "point": "Says he will work with House Republican leaders on President Trump's agenda to lower costs for working families.",
+     "source": "https://www.foxnews.com/politics/gop-dropout-candidate-puts-communist-opponent-notice-after-stunning-comeback-win"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "He said after the primary that he is running, but it is unclear whether he formally resumed his campaign; no campaign website or issue positions were found."
+  }
+ },
+ {
+  "id": "MN-2/eric-pratt",
+  "name": "Eric Pratt",
+  "party": "Republican",
+  "race": "MN-2",
+  "race_label": "Minnesota · US House MN-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MN-2/eric-pratt",
+   "name": "Eric Pratt",
+   "party": "Republican",
+   "current_role": "Minnesota State Senator",
+   "bio": "Eric Pratt has served in the Minnesota Senate since 2013, including terms as assistant majority leader and majority whip. He previously served on and chaired the Prior Lake-Savage school board and worked in banking and financial risk management. He grew up in Prior Lake and holds degrees from the University of Colorado Boulder and the University of St. Thomas.",
+   "website": "https://www.ericprattmn.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Economy",
+     "point": "Lower costs, support small businesses and stabilise the economy for working families.",
+     "source": "https://www.ericprattmn.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Back law enforcement and first responders with consistent enforcement up to the border.",
+     "source": "https://www.ericprattmn.com/"
+    },
+    {
+     "topic": "Accountability",
+     "point": "Crack down on fraud and abuse in government programs.",
+     "source": "https://www.ericprattmn.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": {
+     "score": 65,
+     "evidence": "Campaign emphasises backing law enforcement and first responders.",
+     "source": "https://www.ericprattmn.com/"
+    },
+    "immigration": {
+     "score": 65,
+     "evidence": "Calls for consistent law enforcement extending to the border.",
+     "source": "https://www.ericprattmn.com/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Minnesota State Senator Eric Pratt.jpg",
+    "license": "CC BY 2.0",
+    "author": "Minnesota Senate Republican Caucus"
+   },
+   "campaign_photo": "",
+   "notes": "The campaign site links social accounts without readable URLs, so none are listed."
+  }
+ },
+ {
+  "id": "MN-3/kelly-morrison",
+  "name": "Kelly Morrison",
+  "party": "Democratic",
+  "race": "MN-3",
+  "race_label": "Minnesota · US House MN-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001234",
+   "official_name": "Kelly Morrison",
+   "chamber": "House",
+   "official_site": "https://morrison.house.gov",
+   "official_social": {
+    "twitter": "kellymorrisonmn",
+    "facebook": "repkellymorrison",
+    "instagram": "kellymorrisonmn"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MN-3/kelly-morrison",
+   "name": "Kelly Morrison",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for MN-3",
+   "bio": "Kelly Morrison is an OB-GYN from Minneapolis who has represented Minnesota's 3rd congressional district since 2025. She served in the Minnesota House from 2019 to 2023 and the Minnesota Senate from 2023 to 2024, holding assistant majority leader roles in both chambers. She sits on the House Small Business and Veterans' Affairs committees.",
+   "website": "https://www.kellyforcongress.org/",
+   "social": {
+    "x": "https://x.com/kellymorrisonmn",
+    "instagram": "https://www.instagram.com/kellymorrisonmn",
+    "facebook": "https://www.facebook.com/repkellymorrison"
+   },
+   "platform": [
+    {
+     "topic": "Reproductive rights",
+     "point": "Protect abortion access, building on the pro-choice laws she helped pass in Minnesota.",
+     "source": "https://en.wikipedia.org/wiki/Kelly_Morrison"
+    },
+    {
+     "topic": "Health care",
+     "point": "Bring her experience as a physician to health care policy, including through the Democratic Doctors Caucus.",
+     "source": "https://en.wikipedia.org/wiki/Kelly_Morrison"
+    },
+    {
+     "topic": "Priorities",
+     "point": "Lists the economy, environment, health care, small business and veterans as focus areas.",
+     "source": "https://morrison.house.gov/about/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 15,
+     "evidence": "On abortion, she helped pass pro-choice legislation in Minnesota and campaigned on reproductive freedom.",
+     "source": "https://en.wikipedia.org/wiki/Kelly_Morrison"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "https://images.squarespace-cdn.com/content/v1/654012ca83c17f263dd36e01/19f3a2d5-e23f-4234-a832-a50f26d23808/Kelly-Morrison-header3.jpg",
+   "notes": "Her official issue subpages could not be loaded, so most positions remain empty. The campaign photo URL is a header image and may not be a tight headshot."
+  }
+ },
+ {
+  "id": "MO-1/paul-berry",
+  "name": "Paul Berry III",
+  "party": "Republican",
+  "race": "MO-1",
+  "race_label": "Missouri · US House MO-1",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MO-1/paul-berry",
+   "name": "Paul Berry III",
+   "party": "Republican",
+   "current_role": "Bail bondsman",
+   "bio": "Paul Berry III is a St. Louis bail bondsman who has run for office several times. He won the 2026 Republican primary for Missouri's 1st District.",
+   "website": "https://www.momadmaga.com",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Socialism",
+     "point": "Makes opposing socialist influence in St. Louis politics the center of his campaign.",
+     "source": "https://www.momadmaga.com/"
+    },
+    {
+     "topic": "Amendment 3",
+     "point": "Urges Republicans to unite behind Amendment 3 on the Missouri ballot.",
+     "source": "https://www.momadmaga.com/"
+    },
+    {
+     "topic": "Grassroots organizing",
+     "point": "Asks for statewide volunteers to phone bank and write letters in the 1st District.",
+     "source": "https://www.momadmaga.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Campaigns against socialism and in favor of private enterprise.",
+     "source": "https://www.momadmaga.com/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 80,
+     "evidence": "Abortion: endorsed by Missouri Right to Life and urges support for Amendment 3; no other liberty issues are addressed.",
+     "source": "https://www.momadmaga.com/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "His campaign site uses the suffix III, while Wikipedia lists him as Paul Berry."
+  }
+ },
+ {
+  "id": "MO-8/christopher-reichard",
+  "name": "Christopher Reichard",
+  "party": "Democratic",
+  "race": "MO-8",
+  "race_label": "Missouri · US House MO-8",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "MO-8/christopher-reichard",
+   "name": "Christopher Reichard",
+   "party": "Democratic",
+   "current_role": "Army veteran and union electrician",
+   "bio": "Christopher Reichard is an Army veteran of Operation Iraqi Freedom from Arnold, Missouri, and a second-generation member of IBEW Local 1. He won the 2026 Democratic primary for Missouri's 8th Congressional District.",
+   "website": "https://www.reichardforrep.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Labor",
+     "point": "Pass the PRO Act to protect organizing rights and strengthen unions.",
+     "source": "https://www.reichardforrep.com/"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Pass the Major Richard Star Act so combat-injured veterans get full benefits.",
+     "source": "https://www.reichardforrep.com/"
+    },
+    {
+     "topic": "Foreign policy",
+     "point": "Keep the U.S. out of another prolonged war and support the Full Cost of War Act.",
+     "source": "https://www.reichardforrep.com/"
+    },
+    {
+     "topic": "Campaign finance",
+     "point": "End Citizens United and remove dark money from elections; refuses corporate PAC money.",
+     "source": "https://www.reichardforrep.com/"
+    },
+    {
+     "topic": "Civil rights",
+     "point": "Support the Equality Act and the REPAIR Act.",
+     "source": "https://www.reichardforrep.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 75,
+     "evidence": "Supports the PRO Act and stronger unions.",
+     "source": "https://www.reichardforrep.com/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 25,
+     "evidence": "Supports the Equality Act (LGBTQ rights).",
+     "source": "https://www.reichardforrep.com/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 25,
+     "evidence": "Wants to avoid another forever war and backs the Full Cost of War Act.",
+     "source": "https://www.reichardforrep.com/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Wikipedia describes him as a construction worker; the liberty score rests on a single issue."
+  }
+ },
+ {
+  "id": "NC-2/gene-douglass",
+  "name": "Gene Douglass",
+  "party": "Republican",
+  "race": "NC-2",
+  "race_label": "North Carolina · US House NC-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NC-2/gene-douglass",
+   "name": "Gene Douglass",
+   "party": "Republican",
+   "current_role": "Professor",
+   "bio": "Gene Douglass is the Republican nominee for North Carolina's 2nd District. He is described as a professor and retired teacher, and he ran unsuccessfully in the 2024 Republican primary for this seat. He has not held elected office.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Election results tables list him as Eugene Douglass, so the ballot may use that form of his name. No campaign website or published issue positions were found."
+  }
+ }
+]

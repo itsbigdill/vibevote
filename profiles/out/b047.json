@@ -1,0 +1,861 @@
+[
+ {
+  "id": "KS-2/don-coover",
+  "name": "Don Coover",
+  "party": "Democratic",
+  "current_role": "Veterinarian and rancher",
+  "bio": "Don Coover grew up on a family farm in rural southeast Kansas and served more than ten years as a U.S. Army officer, including as an infantry officer and Army aviator. A Kansas State University veterinary graduate, he has run a livestock veterinary practice and a working cattle ranch and co-founded agricultural businesses. He has not held elected office.",
+  "website": "https://doncooverforcongress.com/",
+  "social": {
+   "x": "https://x.com/DonCooverKS",
+   "facebook": "https://www.facebook.com/people/Don-Coover-for-Congress/61579377459983/"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Focus on bringing down grocery and housing costs for working families.",
+    "source": "https://doncooverforcongress.com/"
+   },
+   {
+    "topic": "Rural health care",
+    "point": "Work to keep local hospitals in rural Kansas from closing.",
+    "source": "https://doncooverforcongress.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Treat farm policy as central to food prices and grocery bills.",
+    "source": "https://doncooverforcongress.com/meet-don/"
+   },
+   {
+    "topic": "Government",
+    "point": "Reduce partisan gridlock and have Washington spend within its means.",
+    "source": "https://doncooverforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://doncooverforcongress.com/wp-content/uploads/2025/08/coover.jpg",
+  "notes": "Faces incumbent Republican Derek Schmidt; campaign site lists themes but no concrete policy positions, so no domain is scored."
+ },
+ {
+  "id": "KS-2/john-hauer",
+  "name": "John Hauer",
+  "party": "Libertarian",
+  "current_role": "Libertarian Party of Kansas District 2 coordinator",
+  "bio": "John Hauer is the Libertarian Party of Kansas nominee for the 2nd Congressional District, chosen at the party's 2026 convention. He also serves as the state party's District 2 coordinator.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue statements were found."
+ },
+ {
+  "id": "KS-3/sharice-davids",
+  "name": "Sharice Davids",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for KS-3",
+  "bio": "Sharice Davids has represented Kansas's 3rd District since 2019 and sits on the Transportation and Infrastructure and Agriculture committees. Before Congress she was an attorney, worked on economic development on the Pine Ridge Reservation, was a White House Fellow at the Department of Transportation, and competed in mixed martial arts. She lives in Roeland Park, Kansas.",
+  "website": "https://shariceforcongress.com",
+  "social": {
+   "x": "https://x.com/RepDavids"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Expand Medicaid and let Medicare negotiate prescription drug prices.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   {
+    "topic": "Manufacturing",
+    "point": "Secured a $500 million pilot program for small manufacturers making medical supplies and PPE.",
+    "source": "https://en.wikipedia.org/wiki/Sharice_Davids"
+   },
+   {
+    "topic": "Energy",
+    "point": "Support tax incentives for wind and other clean energy.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   {
+    "topic": "Education",
+    "point": "Invest in public schools and oppose school vouchers.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Invest in roads, airports and rail through her Transportation committee work.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Favors reversing federal income tax cuts and raising taxes to reduce the deficit.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Supports Medicaid expansion and has called single-payer health care a long-term goal.",
+    "source": "https://en.wikipedia.org/wiki/Sharice_Davids"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Pro-choice (Pro-Choice Caucus member), supports LGBTQ protections and universal background checks for gun sales.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Sponsored stricter police accountability rules.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Supports a pathway to citizenship and opposes religion-based entry bans.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Voted for defense aid to Israel while opposing unilateral military action.",
+    "source": "https://en.wikipedia.org/wiki/Sharice_Davids"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Backs green energy tax incentives and regulating greenhouse gas emissions.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Supports net neutrality rules.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Opposes school vouchers and supports public education funding.",
+    "source": "https://www.ontheissues.org/House/Sharice_Davids.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "KS-3/eric-jenkins",
+  "name": "Eric Jenkins",
+  "party": "Republican",
+  "current_role": "Former Shawnee City Council president; retired Army colonel",
+  "bio": "Eric Jenkins was born at Fort Leavenworth and retired as a U.S. Army colonel after 34 years of active and reserve service, including deployments to Iraq and Afghanistan. He had a career at FEMA, served on the Shawnee Planning Commission for over 20 years, and sat on the Shawnee City Council from 2015 to 2023, including as council president.",
+  "website": "https://ericjenkinsforkansas.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/ericjenkinsshawnee"
+  },
+  "platform": [
+   {
+    "topic": "Spending",
+    "point": "Push for a balanced budget framework and eliminate duplicative federal programs.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Make the 2017 tax cuts permanent and oppose broad new tax increases.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   {
+    "topic": "Defense",
+    "point": "Fully fund and modernize the military and strengthen Fort Leavenworth.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Complete a secure southern border, end catch-and-release and defund sanctuary cities.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Support oil, gas, nuclear and renewables while opposing the Green New Deal.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   {
+    "topic": "Constitutional rights",
+    "point": "Defend Second Amendment rights, free speech and religious liberty.",
+    "source": "https://ericjenkinsforkansas.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Wants to cut regulation, make the 2017 tax cuts permanent and oppose new broad tax increases.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Calls for eliminating wasteful federal programs and cutting deficit spending.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Pledges to oppose gun restrictions and protect free speech online and offline.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Supports completing the border, ending catch-and-release and defunding sanctuary cities, while backing legal pathways.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   "foreign": {
+    "score": 45,
+    "evidence": "Backs a fully funded military but wants allies to pay their share and opposes foreign entanglements.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   "energy": {
+    "score": 30,
+    "evidence": "Supports all-of-the-above energy including oil and gas and opposes the Green New Deal.",
+    "source": "https://ericjenkinsforkansas.com/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 65,
+    "evidence": "Pledges to resist government overreach into religious liberty, calling rights God-given.",
+    "source": "https://ericjenkinsforkansas.com/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign headshot is embedded inline on the site, so no image URL was recorded."
+ },
+ {
+  "id": "KS-3/steve-hohe",
+  "name": "Steve Hohe",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Steve Hohe is the Libertarian Party of Kansas nominee for the 3rd Congressional District, chosen at the party's 2026 convention.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue statements were found."
+ },
+ {
+  "id": "KS-4/ron-estes",
+  "name": "Ron Estes",
+  "party": "Republican",
+  "current_role": "U.S. Representative for KS-4",
+  "bio": "Ron Estes has represented Kansas's 4th District since winning a 2017 special election and serves on the Ways and Means Committee. He was Sedgwick County treasurer from 2004 to 2010 and Kansas state treasurer from 2011 to 2017, after a business career at firms including Koch Industries and Bombardier Learjet. A Topeka native, he is a civil engineer with an MBA.",
+  "website": "https://estesforcongress.com",
+  "social": {
+   "x": "https://x.com/RepRonEstes",
+   "facebook": "https://www.facebook.com/RepRonEstes",
+   "instagram": "https://www.instagram.com/RepRonEstes"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Promote the Working Families Tax Cuts and a simpler, flatter tax code.",
+    "source": "https://estes.house.gov/issues"
+   },
+   {
+    "topic": "Aerospace",
+    "point": "Support the aviation manufacturing industry centered in the Wichita area.",
+    "source": "https://estes.house.gov/issues"
+   },
+   {
+    "topic": "Budget",
+    "point": "Back a balanced-budget amendment.",
+    "source": "https://en.wikipedia.org/wiki/Ron_Estes"
+   },
+   {
+    "topic": "Health care",
+    "point": "Repeal the Affordable Care Act.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Protect infants who survive abortion and defund Planned Parenthood.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Voted to cut the corporate rate to 21% and opposes raising taxes on the wealthy.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Calls for full repeal of the Affordable Care Act.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Pro-life and backs defunding Planned Parenthood, while supporting gun rights and concealed-carry reciprocity.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "Supports keeping Guantanamo detainees and law enforcement safety measures.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "Supports a border wall and opposes a pathway to citizenship.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Backs confronting ISIS, voted to support Israel after October 7 and opposes reducing military interventions.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Opposes greenhouse gas regulation and EPA overreach.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "tech": {
+    "score": 25,
+    "evidence": "Voted against net neutrality regulation.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "education": {
+    "score": 15,
+    "evidence": "Supports school choice vouchers.",
+    "source": "https://www.ontheissues.org/House/Ron_Estes.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "KS-4/katy-tyndell",
+  "name": "Katy Tyndell",
+  "party": "Democratic",
+  "current_role": "Attorney and business owner",
+  "bio": "Katy Jackman Tyndell is a Wichita attorney who has worked as staff attorney for the National Congress of American Indians and helps run her family's independent oil and gas company. She co-founded the civic group Leading Kansas in 2025 and chaired the Sedgwick County Fire District One steering council. She has not held elected office.",
+  "website": "https://katyforkansas.com",
+  "social": {
+   "facebook": "https://www.facebook.com/katyforkansas/",
+   "instagram": "https://www.instagram.com/katyforkansas/",
+   "youtube": "https://www.youtube.com/@KatyforKansas",
+   "tiktok": "https://www.tiktok.com/@katyforkansas"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Make quality health care affordable for everyone, with a focus on mental health and premiums.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Cut taxes for working Kansans and oppose tax breaks for corporations and the wealthy.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Reverse tariffs hurting farmers and end the Iran conflict to lower fertilizer and diesel costs.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   {
+    "topic": "Technology",
+    "point": "Protect workers from AI job losses and pass online privacy laws, especially for young people.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Support strong public schools and expand career and technical education.",
+    "source": "https://katyforkansas.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Wants lower taxes on workers but no tax breaks for corporations and the wealthy.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Calls for quality, affordable health care for all.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 35,
+    "evidence": "Calls for resolving the conflict with Iran.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Pledges online privacy legislation for youth and limits on data mining by tech firms.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Supports strong, well-resourced public schools.",
+    "source": "https://katyforkansas.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://katyforkansas.com/wp-content/uploads/2026/07/ARD_3825-1-scaled.jpg",
+  "notes": ""
+ },
+ {
+  "id": "KS-4/drew-cranmer",
+  "name": "Drew Cranmer",
+  "party": "Libertarian",
+  "current_role": "Data engineer and software entrepreneur",
+  "bio": "Drew Cranmer is a Wichita data engineer who co-founded Unum Church Management Software and designs data systems for a distribution company. He has not held elected office.",
+  "website": "https://drew4kansas.com/",
+  "social": {
+   "x": "https://x.com/drew4kansas",
+   "facebook": "https://www.facebook.com/drew4kansas",
+   "instagram": "https://www.instagram.com/drew4kansas/"
+  },
+  "platform": [
+   {
+    "topic": "War powers",
+    "point": "Require congressional declarations before military action and end unconditional foreign aid.",
+    "source": "https://drew4kansas.com/"
+   },
+   {
+    "topic": "Privacy",
+    "point": "End warrantless surveillance and federal funding for license plate reader systems.",
+    "source": "https://drew4kansas.com/"
+   },
+   {
+    "topic": "Federal Reserve",
+    "point": "Audit the Federal Reserve with full transparency.",
+    "source": "https://drew4kansas.com/"
+   },
+   {
+    "topic": "Budget",
+    "point": "Balance the federal budget through modest annual spending cuts.",
+    "source": "https://drew4kansas.com/"
+   },
+   {
+    "topic": "Decentralization",
+    "point": "Return education, health care, land use and policing decisions to states and localities.",
+    "source": "https://drew4kansas.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Seeks a balanced budget through annual spending cuts and an audit of the Federal Reserve.",
+    "source": "https://drew4kansas.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "On abortion, is pro-life, backs Dobbs and the Hyde Amendment; no stated views on other liberty issues.",
+    "source": "https://drew4kansas.com/"
+   },
+   "security": {
+    "score": 10,
+    "evidence": "Opposes warrantless surveillance and license plate reader programs.",
+    "source": "https://drew4kansas.com/"
+   },
+   "immigration": null,
+   "foreign": {
+    "score": 10,
+    "evidence": "Wants troops brought home, no undeclared wars and no unconditional foreign aid.",
+    "source": "https://drew4kansas.com/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The liberty score rests on abortion alone."
+ },
+ {
+  "id": "KY-1/james-comer",
+  "name": "James Comer",
+  "party": "Republican",
+  "current_role": "U.S. Representative for KY-1",
+  "bio": "James Comer has represented Kentucky's 1st District since 2016 and has chaired the House Oversight Committee since 2023. He served in the Kentucky House from 2001 to 2012 and as Kentucky agriculture commissioner from 2012 to 2016. Raised in Monroe County, he runs a family farm.",
+  "website": "https://jamescomer.com",
+  "social": {
+   "x": "https://x.com/RepJamesComer",
+   "facebook": "https://www.facebook.com/congressmancomer",
+   "instagram": "https://www.instagram.com/congressmancomer"
+  },
+  "platform": [
+   {
+    "topic": "Government oversight",
+    "point": "Cut wasteful spending, fraud and regulatory burdens through Oversight Committee work.",
+    "source": "https://comer.house.gov/issues"
+   },
+   {
+    "topic": "Economy",
+    "point": "Promote business growth through lower taxes and deregulation.",
+    "source": "https://comer.house.gov/issues"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Support and modernize federal farm programs.",
+    "source": "https://comer.house.gov/issues"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Protect gun rights from federal infringement.",
+    "source": "https://comer.house.gov/issues"
+   },
+   {
+    "topic": "Military",
+    "point": "Support service members, veterans and Fort Campbell.",
+    "source": "https://comer.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2017 tax cuts and opposes tax increases even to balance the budget.",
+    "source": "https://www.ontheissues.org/House/James_Comer.htm"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Supports repealing the Affordable Care Act.",
+    "source": "https://www.ontheissues.org/House/James_Comer.htm"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Opposes abortion except to save the mother's life, opposes same-sex marriage and gun control, but backed hemp legalization.",
+    "source": "https://en.wikipedia.org/wiki/James_Comer"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Supports a border wall and opposes amnesty and sanctuary cities.",
+    "source": "https://www.ontheissues.org/House/James_Comer.htm"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Has backed military action against Iran.",
+    "source": "https://www.ontheissues.org/House/James_Comer.htm"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Supports coal and oil deregulation and has disputed global warming.",
+    "source": "https://www.ontheissues.org/House/James_Comer.htm"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 80,
+    "evidence": "Has said public servants should put God above all and supports religious liberty protections.",
+    "source": "https://www.ontheissues.org/House/James_Comer.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Has said he plans to run for Kentucky governor in 2027. Foreign and faith scores rest on older OnTheIssues statements."
+ },
+ {
+  "id": "KY-1/drew-williams",
+  "name": "John \"Drew\" Williams",
+  "party": "Democratic",
+  "current_role": "Dock and marina builder",
+  "bio": "Drew Williams is a lifelong western Kentucky resident from Marshall County who has built boat docks and marinas for his family business since age 14. He graduated from Murray State University in 2016 with a history degree. He has not held elected office.",
+  "website": "https://www.williamsforky.com/",
+  "social": {
+   "x": "https://x.com/Williamsforky1",
+   "facebook": "https://www.facebook.com/WilliamsForKY",
+   "instagram": "https://www.instagram.com/williamsforky1",
+   "tiktok": "https://www.tiktok.com/@williamsforky1"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Exempt roughly the first $100,000 of income and use a smooth rate scale rising to 35% at $1 million.",
+    "source": "https://www.williamsforky.com/taxpolicy"
+   },
+   {
+    "topic": "AI safety",
+    "point": "Require independent approval and safety testing before frontier AI models are released.",
+    "source": "https://www.williamsforky.com/ai-safety"
+   },
+   {
+    "topic": "Health insurance",
+    "point": "Ban retroactive denials of preauthorized care and fully automated claim denials.",
+    "source": "https://www.williamsforky.com/healthcare"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Give every voter a publicly funded democracy account and ban privately funded mass mailers.",
+    "source": "https://www.williamsforky.com/campaign-reform"
+   },
+   {
+    "topic": "Education",
+    "point": "Fund public schools, paid student teaching and universal pre-K.",
+    "source": "https://www.williamsforky.com/education"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Proposes a continuous income tax scale with higher rates on top earners and a large exemption for lower incomes.",
+    "source": "https://www.williamsforky.com/taxpolicy"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Proposes universal pre-K and federal rules limiting insurer claim denials.",
+    "source": "https://www.williamsforky.com/education"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 90,
+    "evidence": "Calls for independent pre-release approval, testing and regulation of frontier AI models.",
+    "source": "https://www.williamsforky.com/ai-safety"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Plans federal investment in public schools, teacher pay and universal pre-K.",
+    "source": "https://www.williamsforky.com/education"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons headshot is labelled the uploader's own work under CC0, but its metadata names a different photographer and it appears to be a campaign headshot, so it was not used."
+ },
+ {
+  "id": "KY-2/brett-guthrie",
+  "name": "Brett Guthrie",
+  "party": "Republican",
+  "current_role": "U.S. Representative for KY-2",
+  "bio": "Brett Guthrie has represented Kentucky's 2nd District since 2009 and has chaired the House Energy and Commerce Committee since 2025. He served in the Kentucky State Senate from 1999 to 2008 and earlier was a field artillery officer in the 101st Airborne Division and an executive at an automotive parts supplier in Bowling Green.",
+  "website": "https://brettguthrie.com",
+  "social": {
+   "x": "https://x.com/RepGuthrie",
+   "facebook": "https://www.facebook.com/CongressmanGuthrie",
+   "instagram": "https://www.instagram.com/repguthrie",
+   "youtube": "https://www.youtube.com/user/BrettGuthrie"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Replace the Affordable Care Act with more insurance market competition.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Oppose new taxes, having signed the Taxpayer Protection Pledge.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   {
+    "topic": "Energy",
+    "point": "Expand drilling in ANWR and offshore and limit EPA regulation.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   {
+    "topic": "Military",
+    "point": "Support Fort Knox, national security and veterans.",
+    "source": "https://guthrie.house.gov/issues/"
+   },
+   {
+    "topic": "Fiscal responsibility",
+    "point": "Hold federal spending accountable.",
+    "source": "https://guthrie.house.gov/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Voted for the 2017 tax cuts and signed the no-new-taxes pledge.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Supports repealing and replacing the ACA and co-sponsored limits on Medicare drug negotiation.",
+    "source": "https://en.wikipedia.org/wiki/Brett_Guthrie"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Backs a 20-week abortion ban, national concealed-carry reciprocity, and opposes same-sex marriage.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "Voted against defunding NSA surveillance and for NDAA indefinite detention provisions.",
+    "source": "https://en.wikipedia.org/wiki/Brett_Guthrie"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Opposes a pathway to citizenship and voted to bar DREAMers from military service.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Supports a strong U.S.-Israel alliance and backed aid to the Syrian opposition.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Supports drilling in ANWR and offshore and opposes expanding EPA regulation.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   "tech": {
+    "score": 25,
+    "evidence": "Supported ending net neutrality rules.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   "education": {
+    "score": 20,
+    "evidence": "Supports school vouchers.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   },
+   "faith": {
+    "score": 65,
+    "evidence": "Supports respecting faith-based objections to same-sex marriage.",
+    "source": "https://www.ontheissues.org/House/Brett_Guthrie.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Several new scores rest on older OnTheIssues entries."
+ },
+ {
+  "id": "KY-2/megan-wingfield",
+  "name": "Megan Wingfield",
+  "party": "Democratic",
+  "current_role": "Mechanic, caregiver and community activist",
+  "bio": "Megan Wingfield was born and raised in Bowling Green, Kentucky, and holds an automotive technology degree from Southcentral Kentucky Community and Technical College. She has worked as a mechanic and is a caregiver and activist. She ran for this seat in 2024 and won the 2026 Democratic nomination.",
+  "website": "https://www.wingfieldforcongress.com",
+  "social": {
+   "facebook": "https://www.facebook.com/megan.wingfield.for.congress",
+   "instagram": "https://www.instagram.com/wingfieldforcongress",
+   "tiktok": "https://www.tiktok.com/@wingfieldforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Provide universal, affordable health care and end medical debt.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   {
+    "topic": "Wages",
+    "point": "Raise the minimum wage so one job can support a family.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Make corporations and the very wealthy pay more.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Protect abortion rights and expand contraception and maternal care.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   {
+    "topic": "Child care",
+    "point": "Fund universal pre-K and affordable child care.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   {
+    "topic": "Right to repair",
+    "point": "Require automakers to give independent mechanics and owners diagnostic access.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Supports a higher minimum wage and higher taxes on corporations and the ultra-wealthy.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Supports universal health care, universal pre-K and affordable child care.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports abortion rights, codifying same-sex marriage, transgender protections and a conversion therapy ban.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Supports right-to-repair rules limiting automakers' proprietary software restrictions.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Calls for universal pre-K and more early-childhood funding.",
+    "source": "https://www.wingfieldforcongress.com/platform-values"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6a20982ab4e1dc04a1c4fd36/1cee0833-374a-408a-8466-bb66aa6e8c8d/IMG_3098.png",
+  "notes": ""
+ }
+]

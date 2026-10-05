@@ -1,0 +1,395 @@
+[
+ {
+  "id": "KY-6/pete-lynch",
+  "name": "Pete Lynch",
+  "party": "Kentucky Party",
+  "race": "KY-6",
+  "race_label": "Kentucky · US House KY-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-6/jay-bowman",
+  "name": "Jay Bowman",
+  "party": "Independent",
+  "race": "KY-6",
+  "race_label": "Kentucky · US House KY-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-1/steve-scalise",
+  "name": "Steve Scalise",
+  "party": "Republican",
+  "race": "LA-1",
+  "race_label": "Louisiana · US House LA-1",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001176",
+   "official_name": "Steve Scalise",
+   "chamber": "House",
+   "official_site": "https://scalise.house.gov",
+   "official_social": {
+    "facebook": "RepSteveScalise",
+    "youtube": "RepSteveScalise",
+    "twitter": "SteveScalise",
+    "instagram": "stevescalise"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 65,
+    "security": null,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": 10,
+    "tech": 55,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 and 2025 tax cuts, against PRO Act and Equality Act, opposes ACA, backed travel ban and Israel, rejects climate consensus, voted TikTok bill.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Steve_Scalise"
+   ],
+   "photo": {
+    "file": "File:Steve Scalise 116th Congress official photo.jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "LA-1/lauren-jewett",
+  "name": "Lauren Jewett",
+  "party": "Democratic",
+  "race": "LA-1",
+  "race_label": "Louisiana · US House LA-1",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-1/randall-arrington",
+  "name": "Randall Arrington",
+  "party": "Republican",
+  "race": "LA-1",
+  "race_label": "Louisiana · US House LA-1",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-2/troy-carter",
+  "name": "Troy Carter",
+  "party": "Democratic",
+  "race": "LA-2",
+  "race_label": "Louisiana · US House LA-2",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001125",
+   "official_name": "Troy A. Carter",
+   "chamber": "House",
+   "official_site": "https://troycarter.house.gov",
+   "official_social": {
+    "twitter": "RepTroyCarter",
+    "facebook": "RepTroyCarter"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": null,
+    "liberty": 30,
+    "security": null,
+    "immigration": null,
+    "foreign": 65,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pushed minimum wage increase, voted for Inflation Reduction Act and Israel aid, opposes abortion restrictions and gun-rights expansion; abortion drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Troy_Carter_(politician)"
+   ],
+   "photo": {
+    "file": "File:Rep. Troy Carter - 117th Congress Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "LA-2/renada-collins",
+  "name": "Renada Collins",
+  "party": "Democratic",
+  "race": "LA-2",
+  "race_label": "Louisiana · US House LA-2",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-2/lisa-ballay",
+  "name": "Lisa Ballay",
+  "party": "Libertarian",
+  "race": "LA-2",
+  "race_label": "Louisiana · US House LA-2",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-3/clay-higgins",
+  "name": "Clay Higgins",
+  "party": "Republican",
+  "race": "LA-3",
+  "race_label": "Louisiana · US House LA-3",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001077",
+   "official_name": "Clay Higgins",
+   "chamber": "House",
+   "official_site": "https://clayhiggins.house.gov",
+   "official_social": {
+    "twitter": "RepClayHiggins",
+    "facebook": "CongressmanClayHiggins",
+    "instagram": "RepClayHiggins"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 20,
+    "liberty": 55,
+    "security": null,
+    "immigration": 80,
+    "foreign": 25,
+    "energy": 5,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts and ACA repeal, anti-abortion, opposes same-sex marriage but strongly pro-gun, backs ICE, opposed ATACMS for Ukraine, bill to abolish EPA.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Clay_Higgins"
+   ],
+   "photo": {
+    "file": "File:Clay Higgins 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "LA-3/john-day",
+  "name": "John Day",
+  "party": "Democratic",
+  "race": "LA-3",
+  "race_label": "Louisiana · US House LA-3",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-3/tia-lebrun",
+  "name": "Tia LeBrun",
+  "party": "Democratic",
+  "race": "LA-3",
+  "race_label": "Louisiana · US House LA-3",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-3/caleb-walker",
+  "name": "Caleb Walker",
+  "party": "Democratic",
+  "race": "LA-3",
+  "race_label": "Louisiana · US House LA-3",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+   ],
+   "photo": null
+  }
+ }
+]

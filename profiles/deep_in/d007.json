@@ -1,0 +1,584 @@
+[
+ {
+  "id": "GA-6/kevin-martin",
+  "name": "Kevin Martin",
+  "party": "Republican",
+  "race": "GA-6",
+  "race_label": "Georgia · US House GA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "GA-6/kevin-martin",
+   "name": "Kevin Martin",
+   "party": "Republican",
+   "current_role": "Controller (accounting and finance)",
+   "bio": "Kevin Martin is the Republican nominee for Georgia's 6th Congressional District after defeating Justin Pinker in the May 2026 primary. He is an accounting and finance professional who works as a controller in Smyrna. He holds bachelor's degrees from the Georgia Institute of Technology and Georgia State University.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or published issue positions were found."
+  }
+ },
+ {
+  "id": "GA-9/caitlyn-gegen",
+  "name": "Caitlyn Gegen",
+  "party": "Democratic",
+  "race": "GA-9",
+  "race_label": "Georgia · US House GA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "GA-9/caitlyn-gegen",
+   "name": "Caitlyn Gegen",
+   "party": "Democratic",
+   "current_role": "Community organizer",
+   "bio": "Caitlyn Gegen is the Democratic nominee for Georgia's 9th Congressional District. She holds bachelor's and master's degrees from the University of Georgia and a master's from the London School of Economics. She describes herself as a community organizer who has worked on women's rights and criminal justice reform.",
+   "website": "https://www.caitlynforgeorgia.com/",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Her campaign site showed no issue content when checked; local coverage of her statements on ICE activity in Athens could not be accessed."
+  }
+ },
+ {
+  "id": "HI-1/adriel-lam",
+  "name": "Adriel Lam",
+  "party": "Republican",
+  "race": "HI-1",
+  "race_label": "Hawaii · US House HI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "HI-1/adriel-lam",
+   "name": "Adriel Lam",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Adriel Lam is the Republican nominee for Hawaii's 1st Congressional District. His campaign emphasizes Hawaii's strategic role in the Pacific, and his website gives few other biographical details.",
+   "website": "https://lam4aloha.com/",
+   "social": {
+    "x": "https://x.com/lam4aloha",
+    "instagram": "https://www.instagram.com/lam4aloha",
+    "facebook": "https://www.facebook.com/lam4aloha"
+   },
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "End federal taxes on tips, overtime pay and Social Security benefits.",
+     "source": "https://lam4aloha.com/"
+    },
+    {
+     "topic": "Shipping",
+     "point": "Reform the Jones Act to lower shipping costs for Hawaii.",
+     "source": "https://lam4aloha.com/"
+    },
+    {
+     "topic": "Women's sports",
+     "point": "Protect women's sports through policies on athlete eligibility.",
+     "source": "https://lam4aloha.com/"
+    },
+    {
+     "topic": "Foreign policy",
+     "point": "Take a hard line on Iran and emphasize Hawaii's strategic Pacific role.",
+     "source": "https://lam4aloha.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Supports eliminating taxes on tips, overtime and Social Security and reforming the Jones Act.",
+     "source": "https://lam4aloha.com/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 75,
+     "evidence": "Based only on his support for protecting women's sports on LGBTQ-related athlete eligibility.",
+     "source": "https://lam4aloha.com/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 70,
+     "evidence": "Calls for a forceful approach to Iran and stresses Hawaii's strategic Pacific role.",
+     "source": "https://lam4aloha.com/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://i0.wp.com/lam4aloha.com/wp-content/uploads/2024/02/lam-e1776074029360.png",
+   "notes": "The liberty score rests on a single issue, and positions come mostly from social posts shown on his site."
+  }
+ },
+ {
+  "id": "HI-2/jill-tokuda",
+  "name": "Jill Tokuda",
+  "party": "Democratic",
+  "race": "HI-2",
+  "race_label": "Hawaii · US House HI-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000487",
+   "official_name": "Jill N. Tokuda",
+   "chamber": "House",
+   "official_site": "https://tokuda.house.gov",
+   "official_social": {
+    "twitter": "RepJillTokuda",
+    "facebook": "RepJillTokuda",
+    "instagram": "repjilltokuda",
+    "youtube": "UCBXwZrEZWQiSXebInVuYuvw"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "HI-2/jill-tokuda",
+   "name": "Jill Tokuda",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for HI-2",
+   "bio": "Jill Tokuda has represented Hawaii's 2nd congressional district in the U.S. House since 2023. She previously served in the Hawaii State Senate from 2006 to 2018. She grew up in Kaneohe on Oahu and studied international relations at George Washington University.",
+   "website": "https://tokudaforhawaii.com",
+   "social": {
+    "x": "https://x.com/RepJillTokuda",
+    "instagram": "https://www.instagram.com/repjilltokuda",
+    "facebook": "https://www.facebook.com/RepJillTokuda",
+    "youtube": "https://www.youtube.com/channel/UCBXwZrEZWQiSXebInVuYuvw"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Lists addressing Hawaii's affordability crisis as a top campaign priority.",
+     "source": "https://tokudaforhawaii.com/"
+    },
+    {
+     "topic": "Healthcare",
+     "point": "Aims to expand access to healthcare and mental health services across the district.",
+     "source": "https://tokudaforhawaii.com/"
+    },
+    {
+     "topic": "Agriculture",
+     "point": "Introduced the Grow Your Own Food Act to boost local food production and food security in Hawaii.",
+     "source": "https://en.wikipedia.org/wiki/Jill_Tokuda"
+    },
+    {
+     "topic": "Military oversight",
+     "point": "Presses the military on the Red Hill fuel facility cleanup and use of the Pohakuloa Training Area.",
+     "source": "https://tokuda.house.gov/"
+    },
+    {
+     "topic": "Rural health",
+     "point": "Co-chairs the Bipartisan Rural Health Caucus.",
+     "source": "https://tokuda.house.gov/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 15,
+     "evidence": "Supports abortion rights and testified for protections for doctors providing abortions to out-of-state patients.",
+     "source": "https://en.wikipedia.org/wiki/Jill_Tokuda"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 35,
+     "evidence": "Voted in 2023 for H.Con.Res. 21 directing withdrawal of U.S. troops from Syria.",
+     "source": "https://en.wikipedia.org/wiki/Jill_Tokuda"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "https://www.tokudaforhawaii.com/wp-content/uploads/jill-tokuda-hero.png",
+   "notes": "Official House issues page returned an error, so platform relies on the campaign homepage, House homepage and Wikipedia."
+  }
+ },
+ {
+  "id": "HI-2/brenton-awa",
+  "name": "Brenton Awa",
+  "party": "Republican",
+  "race": "HI-2",
+  "race_label": "Hawaii · US House HI-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "HI-2/brenton-awa",
+   "name": "Brenton Awa",
+   "party": "Republican",
+   "current_role": "Hawaii State Senator and Senate Minority Leader",
+   "bio": "Brenton Awa has represented District 23 in the Hawaii State Senate since 2022 and became Senate Minority Leader in 2024. Before office he was a KITV television news anchor and later a substitute teacher. He was born in Kaaawa and raised in Kahaluu on Oahu.",
+   "website": "https://www.votebrentonawa.com",
+   "social": {
+    "x": "https://x.com/brentonawa",
+    "instagram": "https://www.instagram.com/brentonawa",
+    "facebook": "https://www.facebook.com/brentonawa",
+    "tiktok": "https://www.tiktok.com/@brentonawa",
+    "youtube": "https://www.youtube.com/user/awabrenton"
+   },
+   "platform": [
+    {
+     "topic": "Housing",
+     "point": "Restrict corporate buying of single-family homes and give local owner-occupants a priority window to buy.",
+     "source": "https://www.votebrentonawa.com/"
+    },
+    {
+     "topic": "Federal land",
+     "point": "Open federally controlled land in Hawaii for workforce housing.",
+     "source": "https://www.votebrentonawa.com/"
+    },
+    {
+     "topic": "Homeownership",
+     "point": "Offer down payment assistance to first-time buyers and adjust the tax code to cut costs for owner-occupants.",
+     "source": "https://www.votebrentonawa.com/"
+    },
+    {
+     "topic": "Hawaiian Home Lands",
+     "point": "Lower blood quantum requirements for Hawaiian Homes programs.",
+     "source": "https://www.votebrentonawa.com/"
+    },
+    {
+     "topic": "Land ownership",
+     "point": "Restrict land purchases by non-citizens to ease the housing crisis.",
+     "source": "https://en.wikipedia.org/wiki/Brenton_Awa"
+    },
+    {
+     "topic": "Campaign finance",
+     "point": "Pledges to refuse corporate donations and gifts.",
+     "source": "https://www.votebrentonawa.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 55,
+     "evidence": "Proposes limits on corporate home purchases, down payment assistance and tax changes favoring owner-occupants.",
+     "source": "https://www.votebrentonawa.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Senator Awa Visits Marine Corps Base Hawaii (8) (cropped).jpg",
+    "license": "Public domain",
+    "author": "Sgt. Julian Elliott-Drouin, U.S. Marine Corps"
+   },
+   "campaign_photo": "https://static.wixstatic.com/media/f27991_2e83689b337342598df6b9a57939cb39~mv2.png",
+   "notes": ""
+  }
+ },
+ {
+  "id": "IA-2/lindsay-james",
+  "name": "Lindsay James",
+  "party": "Democratic",
+  "race": "IA-2",
+  "race_label": "Iowa · US House IA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "faith"
+  ],
+  "profile": {
+   "id": "IA-2/lindsay-james",
+   "name": "Lindsay James",
+   "party": "Democratic",
+   "current_role": "Iowa State Representative, 71st District",
+   "bio": "Lindsay James has represented Dubuque in the Iowa House of Representatives since 2019 and was elected House Minority Whip in 2022. She is a Presbyterian minister who has worked as a pastor and college chaplain and teaches as an adjunct professor at the University of Dubuque.",
+   "website": "https://www.lindsayforiowa.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Aims to lower everyday costs such as utilities, food and rent for working Iowans.",
+     "source": "https://lindsayforiowa.com/issues"
+    },
+    {
+     "topic": "Health care",
+     "point": "Seeks to end medical bankruptcies and medication rationing and address Iowa's rising cancer rates and rural care strain.",
+     "source": "https://lindsayforiowa.com/issues"
+    },
+    {
+     "topic": "Education",
+     "point": "Opposes private school vouchers and supports well-funded public schools.",
+     "source": "https://lindsayforiowa.com/issues"
+    },
+    {
+     "topic": "Technology",
+     "point": "Wants to limit social media and AI risks to children and restore parental control from tech companies.",
+     "source": "https://lindsayforiowa.com/issues"
+    },
+    {
+     "topic": "Government reform",
+     "point": "Wants to reduce the influence of money and corporations in politics.",
+     "source": "https://lindsayforiowa.com/issues"
+    },
+    {
+     "topic": "Agriculture",
+     "point": "Supports farmers and calls for timely passage of a farm bill.",
+     "source": "https://lindsayforiowa.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 60,
+     "evidence": "Calls for gun safety reform as part of keeping communities safe (guns); no other liberty issue is addressed.",
+     "source": "https://lindsayforiowa.com/issues"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": {
+     "score": 80,
+     "evidence": "'Kids Over Clicks' plank seeks limits on social media and AI harms to children.",
+     "source": "https://lindsayforiowa.com/issues"
+    },
+    "education": {
+     "score": 85,
+     "evidence": "Opposes private school vouchers and supports robust public school funding.",
+     "source": "https://lindsayforiowa.com/issues"
+    },
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Commons portrait is an Iowa General Assembly 'copyrighted free use' image, not an accepted licence. No campaign social accounts were confirmed."
+  }
+ },
+ {
+  "id": "IA-4/dave-dawson",
+  "name": "Dave Dawson",
+  "party": "Democratic",
+  "race": "IA-4",
+  "race_label": "Iowa · US House IA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "IA-4/dave-dawson",
+   "name": "Dave Dawson",
+   "party": "Democratic",
+   "current_role": "Attorney and former Iowa state representative",
+   "bio": "Dave Dawson represented the 14th District in the Iowa House of Representatives from 2013 to 2017. He has practiced law for 27 years, including 19 as a prosecutor, and is a longtime AFSCME member. He grew up in small-town northwest Iowa.",
+   "website": "https://davedawsonforiowa.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/davedawsonforiowa",
+    "instagram": "https://www.instagram.com/dawsonforiowa/"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Supports Medicare drug negotiation, insulin caps, protecting the ACA and Medicaid, and a public option.",
+     "source": "https://davedawsonforiowa.com/issues"
+    },
+    {
+     "topic": "Wages",
+     "point": "Backs a higher federal minimum wage, the PRO Act and an expanded Child Tax Credit.",
+     "source": "https://davedawsonforiowa.com/issues"
+    },
+    {
+     "topic": "Rural communities",
+     "point": "Calls for broadband expansion, a farm bill and antitrust action against agricultural consolidation.",
+     "source": "https://davedawsonforiowa.com/issues"
+    },
+    {
+     "topic": "Social Security",
+     "point": "Opposes cuts or privatization and supports lifting the payroll tax cap on high earners.",
+     "source": "https://davedawsonforiowa.com/issues"
+    },
+    {
+     "topic": "Ethics",
+     "point": "Proposes banning congressional stock trading, term limits and a Supreme Court ethics code.",
+     "source": "https://davedawsonforiowa.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 80,
+     "evidence": "Supports a higher minimum wage, the PRO Act, closing corporate tax loopholes and antitrust enforcement.",
+     "source": "https://davedawsonforiowa.com/issues"
+    },
+    "welfare": {
+     "score": 70,
+     "evidence": "Backs a public option, expanded Child Tax Credit and childcare investment, and protecting the ACA and Medicaid.",
+     "source": "https://davedawsonforiowa.com/issues"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Commons portrait is from the Iowa legislature and was not verified under an accepted licence."
+  }
+ },
+ {
+  "id": "ID-2/elinor-gilbreath",
+  "name": "Elinor Gilbreath",
+  "party": "Democratic",
+  "race": "ID-2",
+  "race_label": "Idaho · US House ID-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "ID-2/elinor-gilbreath",
+   "name": "Elinor Gilbreath",
+   "party": "Democratic",
+   "current_role": "Lawyer",
+   "bio": "Elinor Gilbreath is a lawyer and the Democratic nominee for Idaho's 2nd congressional district.",
+   "website": "https://ellieforidaho.com",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Campaign site and Ballotpedia blocked automated access, so no policy positions could be reviewed."
+  }
+ }
+]

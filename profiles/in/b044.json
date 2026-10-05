@@ -1,0 +1,450 @@
+[
+ {
+  "id": "IN-1/frank-mrvan",
+  "name": "Frank Mrvan",
+  "party": "Democratic",
+  "race": "IN-1",
+  "race_label": "Indiana · US House IN-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001214",
+   "official_name": "Frank J. Mrvan",
+   "chamber": "House",
+   "official_site": "https://mrvan.house.gov",
+   "official_social": {
+    "twitter": "RepMrvan",
+    "facebook": "RepMrvan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cosponsored PRO Act and Women's Health Protection Act, voted for American Rescue Plan, opposed forced Syria troop withdrawal, opposed 2025 reconciliation bill.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Frank_J._Mrvan",
+    "https://mrvan.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Frank Mrvan 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Committee"
+   }
+  }
+ },
+ {
+  "id": "IN-1/barb-regnitz",
+  "name": "Barb Regnitz",
+  "party": "Republican",
+  "race": "IN-1",
+  "race_label": "Indiana · US House IN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found; Porter County commissioner and Republican nominee.",
+   "sources": [
+    "https://barbregnitzforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-2/jamee-decio",
+  "name": "Jamee Decio",
+  "party": "Democratic",
+  "race": "IN-2",
+  "race_label": "Indiana · US House IN-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": 25,
+    "foreign": 30,
+    "energy": null,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs universal healthcare, opposes corporate handouts and tariffs, opposes deporting working immigrants, criticizes endless foreign conflicts, wants data center oversight.",
+   "sources": [
+    "https://decioforcongress.com/policy/",
+    "https://decioforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-2/rudy-yakym",
+  "name": "Rudy Yakym",
+  "party": "Republican",
+  "race": "IN-2",
+  "race_label": "Indiana · US House IN-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "Y000067",
+   "official_name": "Rudy Yakym III",
+   "chamber": "House",
+   "official_site": "https://yakym.house.gov",
+   "official_social": {
+    "twitter": "RepRudyYakym",
+    "facebook": "RepRudyYakym"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 reconciliation law with tax cuts, Medicaid work requirements, clean-energy credit repeal and enforcement funding; names border security a top issue.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rudy_Yakym",
+    "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   ],
+   "photo": {
+    "file": "File:Rep. Rudy Yakym official photo, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "IN-2/william-henry",
+  "name": "William Henry",
+  "party": "Libertarian",
+  "race": "IN-2",
+  "race_label": "Indiana · US House IN-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Indiana%27s_2nd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-3/marlin-stutzman",
+  "name": "Marlin Stutzman",
+  "party": "Republican",
+  "race": "IN-3",
+  "race_label": "Indiana · US House IN-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001188",
+   "official_name": "Marlin A. Stutzman",
+   "chamber": "House",
+   "official_site": "https://stutzman.house.gov",
+   "official_social": {
+    "twitter": "RepStutzman",
+    "facebook": "repstutzman",
+    "instagram": "repstutzman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": null,
+    "security": null,
+    "immigration": 55,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Freedom Caucus member who opposed the ACA, voted for 2025 reconciliation law, signed anti-climate-tax pledge, yet cosponsors the Dignity Act legalization bill.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Marlin_Stutzman",
+    "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   ],
+   "photo": {
+    "file": "File:Marlin Stutzman, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara"
+   }
+  }
+ },
+ {
+  "id": "IN-3/kelly-thompson",
+  "name": "Kelly Thompson",
+  "party": "Democratic",
+  "race": "IN-3",
+  "race_label": "Indiana · US House IN-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 65,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Calls for fair wages, a better tax structure and anti-monopoly action; backs grid modernization, solar, nuclear and wind with reduced oil use.",
+   "sources": [
+    "https://www.kellythompsonforcongress.com/",
+    "https://www.kellythompsonforcongress.com/policies/energy/jobs-and-energy"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-4/jim-baird",
+  "name": "Jim Baird",
+  "party": "Republican",
+  "race": "IN-4",
+  "race_label": "Indiana · US House IN-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001307",
+   "official_name": "James R. Baird",
+   "chamber": "House",
+   "official_site": "https://baird.house.gov",
+   "official_social": {
+    "twitter": "RepJimBaird",
+    "facebook": "RepJimBaird",
+    "youtube": "UCAe6fGhotC9J9tR_QONYzFA"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": 55,
+    "foreign": 65,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 reconciliation law and Israel support; backed Farm Workforce Modernization Act and cosponsors Dignity Act; Conservative Climate Caucus member.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jim_Baird_(politician)",
+    "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   ],
+   "photo": {
+    "file": "File:Jim Baird 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe"
+   }
+  }
+ },
+ {
+  "id": "IN-4/drew-cox",
+  "name": "Drew Cox",
+  "party": "Democratic",
+  "race": "IN-4",
+  "race_label": "Indiana · US House IN-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 90,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 20,
+    "energy": 75,
+    "tech": 85,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports Medicare for All, higher taxes on the ultra-wealthy, bodily autonomy, cutting military aid to abusers, and a federal AI data center moratorium.",
+   "sources": [
+    "https://www.drewcox.org/the-issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IN-5/victoria-spartz",
+  "name": "Victoria Spartz",
+  "party": "Republican",
+  "race": "IN-5",
+  "race_label": "Indiana · US House IN-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S000929",
+   "official_name": "Victoria Spartz",
+   "chamber": "House",
+   "official_site": "https://spartz.house.gov",
+   "official_social": {
+    "twitter": "RepSpartz",
+    "facebook": "RepSpartz"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 80,
+    "security": null,
+    "immigration": 70,
+    "foreign": 45,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Limited-government fiscal hawk; pro-life and NRA-endorsed; voted for 2025 reconciliation law; voted against 2024 Ukraine aid after earlier backing lend-lease.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Victoria_Spartz",
+    "https://www.spartzforcongress.com/",
+    "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   ],
+   "photo": {
+    "file": "File:Victoria Spartz 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Committee"
+   }
+  }
+ },
+ {
+  "id": "IN-5/j-d-ford",
+  "name": "J. D. Ford",
+  "party": "Democratic",
+  "race": "IN-5",
+  "race_label": "Indiana · US House IN-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": 25,
+    "security": 35,
+    "immigration": 30,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Supports abortion rights, Equality Act, marijuana reform and universal background checks; restoring Medicaid; ICE accountability; opposes private school vouchers. Liberty driven by abortion, LGBTQ.",
+   "sources": [
+    "https://www.electjdford.com/platform"
+   ],
+   "photo": {
+    "file": "File:JD Ford, Indy Pride Parade 2023 (2) (cropped).jpg",
+    "license": "CC0",
+    "author": "Dominic (Wikimedia Commons user)"
+   }
+  }
+ },
+ {
+  "id": "IN-6/jefferson-shreve",
+  "name": "Jefferson Shreve",
+  "party": "Republican",
+  "race": "IN-6",
+  "race_label": "Indiana · US House IN-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001229",
+   "official_name": "Jefferson Shreve",
+   "chamber": "House",
+   "official_site": "https://shreve.house.gov",
+   "official_social": {
+    "twitter": "repshreve",
+    "facebook": "RepJeffersonShreve",
+    "instagram": "repshreve"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Sponsors Build the Wall Act of 2025 and voted for 2025 reconciliation law with tax cuts, Medicaid work requirements and clean-energy credit repeal.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jefferson_Shreve",
+    "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   ],
+   "photo": {
+    "file": "File:Rep. Jefferson Shreve official photo, 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ }
+]

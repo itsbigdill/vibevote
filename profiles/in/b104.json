@@ -1,0 +1,426 @@
+[
+ {
+  "id": "WV-1/belinda-fox-spencer",
+  "name": "Belinda Fox-Spencer",
+  "party": "Constitution",
+  "race": "WV-1",
+  "race_label": "West Virginia · US House WV-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WV-2/riley-moore",
+  "name": "Riley Moore",
+  "party": "Republican",
+  "race": "WV-2",
+  "race_label": "West Virginia · US House WV-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001235",
+   "official_name": "Riley M. Moore",
+   "chamber": "House",
+   "official_site": "https://rileymoore.house.gov",
+   "official_social": {
+    "twitter": "RepRileyMoore",
+    "instagram": "reprileymoore"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 45,
+    "security": null,
+    "immigration": 95,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Anti-abortion, opposes gun registries, medical cannabis support, border wall and deportations, pro-coal anti-ESG, Hope Scholarship vouchers.",
+   "sources": [
+    "https://www.mooreforwv.com/issues",
+    "https://www.ontheissues.org/House/Riley_Moore.htm",
+    "https://en.wikipedia.org/wiki/Riley_Moore"
+   ],
+   "photo": {
+    "file": "File:Moore Riley 119th Congress (cropped2).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "WV-2/ace-parsi",
+  "name": "Ace Parsi",
+  "party": "Democratic",
+  "race": "WV-2",
+  "race_label": "West Virginia · US House WV-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 85,
+    "liberty": 25,
+    "security": 15,
+    "immigration": null,
+    "foreign": 70,
+    "energy": 70,
+    "tech": 80,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Single-payer public option, LGBTQ protections, opposes AI surveillance, relaunch foreign aid, wind and solar, data center referendums, vouchers money to public schools.",
+   "sources": [
+    "https://www.aceforcongress.com/aceplatform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-1/bryan-steil",
+  "name": "Bryan Steil",
+  "party": "Republican",
+  "race": "WI-1",
+  "race_label": "Wisconsin · US House WI-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001213",
+   "official_name": "Bryan Steil",
+   "chamber": "House",
+   "official_site": "https://steil.house.gov",
+   "official_social": {
+    "twitter": "RepBryanSteil"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 30,
+    "liberty": 50,
+    "security": 60,
+    "immigration": 65,
+    "foreign": 75,
+    "energy": 30,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Opposes higher taxes on wealthy and ACA expansion; pro-life, pro-gun, backed Respect for Marriage Act (liberty); border wall, Israel aid, vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bryan_Steil",
+    "https://www.ontheissues.org/House/Bryan_Steil.htm"
+   ],
+   "photo": {
+    "file": "File:Steil Headshot.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "WI-1/mitchell-berman",
+  "name": "Mitchell Berman",
+  "party": "Democratic",
+  "race": "WI-1",
+  "race_label": "Wisconsin · US House WI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 30,
+    "energy": 80,
+    "tech": 65,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Higher minimum wage, PRO Act, public option, reproductive freedom, end Iran involvement, clean energy, data-center accountability, fully fund public schools.",
+   "sources": [
+    "https://www.bermanforcongress.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-2/mark-pocan",
+  "name": "Mark Pocan",
+  "party": "Democratic",
+  "race": "WI-2",
+  "race_label": "Wisconsin · US House WI-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000607",
+   "official_name": "Mark Pocan",
+   "chamber": "House",
+   "official_site": "https://pocan.house.gov",
+   "official_social": {
+    "facebook": "repmarkpocan",
+    "twitter": "RepMarkPocan",
+    "youtube": "repmarkpocan",
+    "instagram": "repmarkpocan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 10,
+    "security": 15,
+    "immigration": 10,
+    "foreign": 20,
+    "energy": 90,
+    "tech": null,
+    "education": 90,
+    "faith": 10
+   },
+   "basis": "Higher taxes on wealthy, Medicare for All caucus, pro-choice, opposes bulk surveillance, abolish-ICE bill, cut military spending, Green New Deal, opposes vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mark_Pocan",
+    "https://www.ontheissues.org/House/Mark_Pocan.htm"
+   ],
+   "photo": {
+    "file": "File:Mark Pocan official photo.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "WI-3/derrick-van-orden",
+  "name": "Derrick Van Orden",
+  "party": "Republican",
+  "race": "WI-3",
+  "race_label": "Wisconsin · US House WI-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "V000135",
+   "official_name": "Derrick Van Orden",
+   "chamber": "House",
+   "official_site": "https://vanorden.house.gov",
+   "official_social": {
+    "twitter": "RepVanOrden",
+    "facebook": "RepVanOrden",
+    "instagram": "RepVanOrden"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 30,
+    "liberty": null,
+    "security": 70,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs working-family tax cuts and One Big Beautiful Bill Act, repeal of Obamacare, pro-police stance, Trump border security and deportations.",
+   "sources": [
+    "https://www.vanordenforcongress.com/issues/",
+    "https://en.wikipedia.org/wiki/Derrick_Van_Orden"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-3/rebecca-cooke",
+  "name": "Rebecca Cooke",
+  "party": "Democratic",
+  "race": "WI-3",
+  "race_label": "Wisconsin · US House WI-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": 35,
+    "security": 55,
+    "immigration": 45,
+    "foreign": 65,
+    "energy": null,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "$15 minimum wage, Medicare expansion, pro-choice with background checks (liberty), opposes defunding police and abolishing ICE, backed Venezuela intervention, antitrust.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Rebecca_Cooke_(politician)"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-3/alexander-kent",
+  "name": "Alexander Kent",
+  "party": "Independent",
+  "race": "WI-3",
+  "race_label": "Wisconsin · US House WI-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Wisconsin%27s_3rd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-3/rustin-provance",
+  "name": "Rustin Provance",
+  "party": "Independent",
+  "race": "WI-3",
+  "race_label": "Wisconsin · US House WI-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Wisconsin%27s_3rd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WI-4/gwen-moore",
+  "name": "Gwen Moore",
+  "party": "Democratic",
+  "race": "WI-4",
+  "race_label": "Wisconsin · US House WI-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001160",
+   "official_name": "Gwen Moore",
+   "chamber": "House",
+   "official_site": "https://gwenmoore.house.gov",
+   "official_social": {
+    "twitter": "RepGwenMoore",
+    "facebook": "GwenSMoore",
+    "youtube": "RepGwenMoore",
+    "instagram": "RepGwenMoore"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 90,
+    "liberty": 20,
+    "security": 15,
+    "immigration": 10,
+    "foreign": 25,
+    "energy": 95,
+    "tech": 65,
+    "education": 90,
+    "faith": 15
+   },
+   "basis": "Millionaire tax, health care as a right, pro-choice and pro-LGBT, opposed PATRIOT wiretaps, legalize DREAMers, Green New Deal, net neutrality, opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/House/Gwen_Moore.htm",
+    "https://en.wikipedia.org/wiki/Gwen_Moore"
+   ],
+   "photo": {
+    "file": "File:Gwen Moore, official portrait, 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography/House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "WI-4/tim-rogers",
+  "name": "Tim Rogers",
+  "party": "Republican",
+  "race": "WI-4",
+  "race_label": "Wisconsin · US House WI-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found for this perennial candidate.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin"
+   ],
+   "photo": null
+  }
+ }
+]

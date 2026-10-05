@@ -1,0 +1,589 @@
+[
+ {
+  "id": "CO-4/lauren-boebert",
+  "name": "Lauren Boebert",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CO-4",
+  "bio": "Lauren Boebert has represented Colorado's 4th congressional district since 2025, after representing the 3rd district from 2021 to 2025. Before Congress she worked in the natural gas industry and co-owned a restaurant in Rifle, Colorado. She co-chairs the House Second Amendment Caucus.",
+  "website": "https://laurenforcolorado.com/",
+  "social": {
+   "x": "https://x.com/laurenboebert",
+   "instagram": "https://www.instagram.com/laurenboebert/",
+   "facebook": "https://www.facebook.com/laurenboebert",
+   "youtube": "https://www.youtube.com/@laurenforfreedom3084"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Prioritises stopping illegal immigration and fentanyl trafficking at the southern border.",
+    "source": "https://boebert.house.gov/issues"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Opposes gun restrictions and mandatory buybacks as co-chair of the Second Amendment Caucus.",
+    "source": "https://boebert.house.gov/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs an all-of-the-above energy strategy and opposes federal overreach on land and water.",
+    "source": "https://boebert.house.gov/issues"
+   },
+   {
+    "topic": "Economy",
+    "point": "Wants to cut regulations, balance the budget and reduce the national debt.",
+    "source": "https://boebert.house.gov/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Holds that life begins at conception and supports the Hyde Amendment limits on abortion funding.",
+    "source": "https://boebert.house.gov/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Promotes school choice and opposes critical race theory and gender ideology in schools.",
+    "source": "https://boebert.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Opposes tax increases, backs a balanced budget amendment and voted for the 2025 One Big Beautiful Bill Act tax cuts.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Supports repealing the Affordable Care Act and opposes single-payer health care.",
+    "source": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Opposes abortion and same-sex marriage (community norms) while backing broad gun rights and speech protections (individual choice).",
+    "source": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Co-introduced a 2026 bill requiring warrants for searches and limiting facial recognition, and opposed FISA 702 renewal without warrants.",
+    "source": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+   },
+   "immigration": {
+    "score": 95,
+    "evidence": "Supports a border wall and introduced the 'Build the Wall and Deport Them All Act'.",
+    "source": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Takes an America First stance against open-ended overseas spending and Ukraine aid, while calling for closer ties with Israel.",
+    "source": "https://boebert.house.gov/issues"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Backs all-of-the-above energy, opposes the Paris Agreement and green energy transition policies.",
+    "source": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+   },
+   "tech": null,
+   "education": {
+    "score": 5,
+    "evidence": "Supports eliminating the U.S. Department of Education and promotes school choice.",
+    "source": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+   },
+   "faith": {
+    "score": 95,
+    "evidence": "Has rejected church-state separation and supported Louisiana's Ten Commandments classroom requirement.",
+    "source": "https://en.wikipedia.org/wiki/Lauren_Boebert"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CO-4/eileen-laubacher",
+  "name": "Eileen Laubacher",
+  "party": "Democratic",
+  "current_role": "Retired U.S. Navy rear admiral",
+  "bio": "Eileen Laubacher is a retired U.S. Navy rear admiral who served 34 years, largely in naval intelligence, including a 2009 deployment to Afghanistan. She was U.S. defense attaché in New Delhi and later senior director for South Asia on the National Security Council from 2022 to 2024. She lives in Highlands Ranch, Colorado.",
+  "website": "https://eileenforcolorado.com/",
+  "social": {
+   "x": "https://x.com/EileenforCO",
+   "instagram": "https://www.instagram.com/eileenforcolorado",
+   "facebook": "https://www.facebook.com/eileenforcolorado"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Wants to end tariffs that raise prices on fuel, fertilizer and groceries, cut middle-class taxes and fight price gouging.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   {
+    "topic": "Health care",
+    "point": "Would reverse Medicaid cuts affecting rural hospitals, cap insulin at $35 a month and let Medicaid negotiate drug prices.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Supports congressional term and age limits and a ban on stock trading by members of Congress.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Calls for a secure border plus bipartisan reform that creates legal pathways to citizenship.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Opposes privatizing the VA and wants expanded telehealth and toxic-exposure care for veterans.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   {
+    "topic": "Water",
+    "point": "Proposes a 50-year water infrastructure plan and limits on foreign ownership of Colorado water and land.",
+    "source": "https://eileenforcolorado.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Backs middle-class tax cuts, ending tax breaks for corporations and billionaires, and action against price gouging.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "Wants Medicaid cuts reversed, a $35 insulin cap and Medicaid drug price negotiation.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 45,
+    "evidence": "Pairs a secure border with bipartisan reform that offers legal pathways to citizenship.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 50,
+    "evidence": "Supports creating jobs in both clean and traditional energy.",
+    "source": "https://eileenforcolorado.com/platform"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Eileen H. Laubacher (3).jpg",
+   "license": "Public domain",
+   "author": "U.S. Navy"
+  },
+  "campaign_photo": "",
+  "notes": "A primary rival argued she was a longtime Republican who registered as a Democrat in March 2025; a court declined to block her from the ballot."
+ },
+ {
+  "id": "CO-4/douglas-mangeris",
+  "name": "Douglas Mangeris",
+  "party": "Libertarian",
+  "current_role": "Construction superintendent and firearms dealer",
+  "bio": "Douglas Mangeris is the Libertarian nominee for Colorado's 4th congressional district. His FEC filings, as summarized on Wikipedia, describe him as a construction superintendent and firearms dealer.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or published issue positions were found; occupation comes from Wikipedia's summary of an FEC filing."
+ },
+ {
+  "id": "CO-5/jeff-crank",
+  "name": "Jeff Crank",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CO-5",
+  "bio": "Jeff Crank, a Pueblo native, has represented Colorado's 5th congressional district since January 2025 and serves on the Armed Services and Natural Resources committees. He was earlier a congressional staffer for Rep. Joel Hefley, a Colorado Springs Chamber of Commerce executive and Colorado state director of Americans for Prosperity. He later ran a political consulting firm and hosted a talk radio show.",
+  "website": "https://jeffcrankforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepJeffCrank",
+   "facebook": "https://www.facebook.com/RepJeffCrank",
+   "instagram": "https://www.instagram.com/repjeffcrank"
+  },
+  "platform": [
+   {
+    "topic": "Military",
+    "point": "Prioritises support for the district's military installations and veterans.",
+    "source": "https://jeffcrankforcongress.com/"
+   },
+   {
+    "topic": "Wildfire",
+    "point": "Aims to make communities more resilient to wildfires.",
+    "source": "https://jeffcrankforcongress.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs domestic energy production and reliable power, including votes to speed grid reliability resources.",
+    "source": "https://crank.house.gov/issues/energy"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports dismantling the U.S. Department of Education to move decisions closer to parents.",
+    "source": "https://crank.house.gov/issues/education"
+   },
+   {
+    "topic": "Housing",
+    "point": "Introduced a bill to ease student loan debt for first-time homebuyers.",
+    "source": "https://crank.house.gov/issues/economy"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Former Americans for Prosperity state director who voted for the 2025 One Big Beautiful Bill Act tax cuts.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 One Big Beautiful Bill Act, which added Medicaid work requirements.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Voted for the Laken Riley Act expanding detention of migrants charged with certain crimes.",
+    "source": "https://clerk.house.gov/Votes/20256"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 20,
+    "evidence": "Emphasises domestic energy production and reliable power, including coal, over renewable-only approaches.",
+    "source": "https://crank.house.gov/issues/energy"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Supports dismantling the Department of Education to shift decisions to parents and localities.",
+    "source": "https://crank.house.gov/issues/education"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Immigration, energy and education scores were added from his votes and official issue pages."
+ },
+ {
+  "id": "CO-5/jessica-killin",
+  "name": "Jessica Killin",
+  "party": "Democratic",
+  "current_role": "Attorney and former Army captain",
+  "bio": "Jessica Killin is a fourth-generation Coloradan raised in Colorado Springs and a former U.S. Army captain and paratrooper. She spent over a decade at USAA working on military family finances, then held roles on Capitol Hill and at the White House, including chief of staff to the Second Gentleman.",
+  "website": "https://www.killinforcolorado.com/",
+  "social": {
+   "x": "https://x.com/killinforco",
+   "instagram": "https://www.instagram.com/killinforco",
+   "facebook": "https://www.facebook.com/killinforco",
+   "tiktok": "https://www.tiktok.com/@killinforcolorado",
+   "youtube": "https://www.youtube.com/@KillinforCO"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Wants to end cost-raising tariffs, curb price gouging and corporate landlord rent hikes, and lower energy bills.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Supports a congressional stock trading ban, no pay for Congress during shutdowns and overturning Citizens United.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   },
+   {
+    "topic": "Health care",
+    "point": "Would repeal Medicaid cuts, let Medicare negotiate drug prices and cap insulin at $35.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Plans to raise VA clinic staffing and restore Veterans Crisis Line funding.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Opposes selling federal lands and wants more wildfire-fighting resources.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   },
+   {
+    "topic": "Space Command",
+    "point": "Commits to keeping U.S. Space Command in Colorado Springs and protecting the Air Force Academy.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Wants tariffs ended, higher taxes on corporations and the wealthy, and action against price gouging.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Calls for repealing Medicaid cuts, Medicare drug negotiation and a $35 insulin cap.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Calls for clear guidelines, standards and rules for the use of AI and digital assets.",
+    "source": "https://www.killinforcolorado.com/priorities"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CO-5/christopher-mitchell",
+  "name": "Christopher Mitchell",
+  "party": "American Constitution",
+  "current_role": "",
+  "bio": "Christopher Mitchell is the American Constitution Party nominee for Colorado's 5th congressional district. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue positions were found."
+ },
+ {
+  "id": "CO-5/mark-elworth",
+  "name": "Mark Elworth",
+  "party": "Libertarian",
+  "current_role": "Businessman",
+  "bio": "Mark Elworth is the Libertarian nominee for Colorado's 5th congressional district and is described as a businessman. In 2024 he sought the Libertarian nomination for Colorado's 3rd district but was not selected at the state convention.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or published issue positions were found."
+ },
+ {
+  "id": "CO-6/jason-crow",
+  "name": "Jason Crow",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CO-6",
+  "bio": "Jason Crow has represented Colorado's 6th congressional district since 2019 and serves on the House Armed Services and Intelligence committees. A Madison, Wisconsin native, he served as an Army Ranger and captain in Iraq and Afghanistan and received the Bronze Star. He later practiced law at Holland & Hart and served on Colorado's Board of Veterans Affairs.",
+  "website": "https://jasoncrow.org/",
+  "social": {
+   "x": "https://x.com/JasonCrowCO",
+   "facebook": "https://www.facebook.com/JasonCrowforCongress/"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Aims to lower costs of health care, prescription drugs, housing, groceries and energy.",
+    "source": "https://crow.house.gov/issues"
+   },
+   {
+    "topic": "Corruption",
+    "point": "Wants to crack down on dark money and strengthen ethics rules in Congress.",
+    "source": "https://crow.house.gov/issues"
+   },
+   {
+    "topic": "Gun violence",
+    "point": "Supports gun safety laws such as universal background checks while respecting Second Amendment rights.",
+    "source": "https://crow.house.gov/issues"
+   },
+   {
+    "topic": "National security",
+    "point": "Supports Buckley Space Force Base and Colorado's aerospace economy.",
+    "source": "https://crow.house.gov/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Pledges to protect access to health care.",
+    "source": "https://jasoncrow.org/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Voted against the 2025 One Big Beautiful Bill Act and says the economy should work for workers, not just corporations.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Voted against the 2025 One Big Beautiful Bill Act and its Medicaid changes; prioritises lower health care and drug costs.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Supports abortion rights, same-sex marriage and LGBTQ non-discrimination laws, and backs background checks and an assault weapons ban.",
+    "source": "https://en.wikipedia.org/wiki/Jason_Crow"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Voted against the Laken Riley Act's expanded detention requirements.",
+    "source": "https://clerk.house.gov/Votes/20256"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Urged sending F-16s to Ukraine, though in 2026 he voted to eliminate regular U.S. aid to Israel.",
+    "source": "https://en.wikipedia.org/wiki/Jason_Crow"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://jasoncrow.org/wp-content/uploads/2025/02/jason.webp",
+  "notes": "Economy, welfare and immigration scores were added from recorded House votes."
+ },
+ {
+  "id": "CO-6/jason-clark",
+  "name": "Jason Clark",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Jason Clark is the Republican nominee for Colorado's 6th congressional district. He became the nominee after the original nominee, Mel Tewahade, withdrew.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue positions were found."
+ },
+ {
+  "id": "CO-6/patty-mcmahon",
+  "name": "Patty McMahon",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Patty McMahon is the Libertarian nominee for Colorado's 6th congressional district. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue positions were found."
+ },
+ {
+  "id": "CO-6/meredith-ryan",
+  "name": "Meredith Ryan",
+  "party": "Unity",
+  "current_role": "",
+  "bio": "Meredith Ryan is the Unity Party nominee for Colorado's 6th congressional district. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue positions were found."
+ },
+ {
+  "id": "CO-6/samir-witta",
+  "name": "Samir Witta",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Samir Witta is an independent candidate for Colorado's 6th congressional district and has filed a statement of candidacy with the FEC. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue positions were found."
+ }
+]

@@ -1,0 +1,400 @@
+[
+ {
+  "id": "MT-2/troy-downing",
+  "name": "Troy Downing",
+  "party": "Republican",
+  "race": "MT-2",
+  "race_label": "Montana · US House MT-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000634",
+   "official_name": "Troy Downing",
+   "chamber": "House",
+   "official_site": "https://downing.house.gov",
+   "official_social": {
+    "twitter": "reptroydowning",
+    "facebook": "reptroydowning",
+    "instagram": "reptroydowning"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Permanent TCJA and estate tax repeal, veterans' gun rights (drove liberty), coal and oil-gas advocacy, state and local education control.",
+   "sources": [
+    "https://downing.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Troy Downing, official portrait (119th Congress) (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MT-2/brian-miller",
+  "name": "Brian Miller",
+  "party": "Democratic",
+  "race": "MT-2",
+  "race_label": "Montana · US House MT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 85,
+    "liberty": 20,
+    "security": null,
+    "immigration": 35,
+    "foreign": 20,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Addresses income inequality, healthcare for all, women's and LGBTQ rights, immigration reform, no endless wars or Israel ties, climate action.",
+   "sources": [
+    "https://www.miller4congress.com/copy-of-main-page-1"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MT-2/patrick-mccracken",
+  "name": "Patrick McCracken",
+  "party": "Libertarian",
+  "race": "MT-2",
+  "race_label": "Montana · US House MT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MT-2/michael-eisenhauer",
+  "name": "Michael Eisenhauer",
+  "party": "Independent",
+  "race": "MT-2",
+  "race_label": "Montana · US House MT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-1/mike-flood",
+  "name": "Mike Flood",
+  "party": "Republican",
+  "race": "NE-1",
+  "race_label": "Nebraska · US House NE-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000474",
+   "official_name": "Mike Flood",
+   "chamber": "House",
+   "official_site": "https://flood.house.gov",
+   "official_social": {
+    "twitter": "USRepMikeFlood",
+    "facebook": "Congressman-Mike-Flood-101986952582058"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 55,
+    "security": 65,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 25,
+    "tech": 20,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Protect Trump tax cuts, abortion ban with strong gun rights (liberty), pro-police, no path to citizenship, opposes Green New Deal and tech regulation.",
+   "sources": [
+    "https://www.ontheissues.org/House/Mike_Flood.htm",
+    "https://mikefloodfornebraska.com/"
+   ],
+   "photo": {
+    "file": "File:Mike Flood, official portrait (118th Congress) (cropped).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman"
+   }
+  }
+ },
+ {
+  "id": "NE-1/chris-backemeyer",
+  "name": "Chris Backemeyer",
+  "party": "Democratic",
+  "race": "NE-1",
+  "race_label": "Nebraska · US House NE-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 55,
+    "foreign": 75,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Calls for smart, fair immigration with a secure border and restoring American leadership against China, Russia and Iran.",
+   "sources": [
+    "https://backnebraska.com/priorities/"
+   ],
+   "photo": {
+    "file": "File:Christopher Backemyer DOS (cropped).jpg",
+    "license": "Public domain",
+    "author": "US Department of State"
+   }
+  }
+ },
+ {
+  "id": "NE-1/nik-sandman",
+  "name": "Nik Sandman",
+  "party": "Libertarian",
+  "race": "NE-1",
+  "race_label": "Nebraska · US House NE-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-1/daniel-hartong",
+  "name": "Daniel Hartong",
+  "party": "America First",
+  "race": "NE-1",
+  "race_label": "Nebraska · US House NE-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-2/brinker-harding",
+  "name": "Brinker Harding",
+  "party": "Republican",
+  "race": "NE-2",
+  "race_label": "Nebraska · US House NE-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 55,
+    "liberty": null,
+    "security": 35,
+    "immigration": 65,
+    "foreign": null,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Protect Social Security and Medicaid, IVF access, body cameras for ICE, deport violent criminal immigrants, national voter ID, year-round E15.",
+   "sources": [
+    "https://www.brinkerharding.com/vision"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-2/denise-powell",
+  "name": "Denise Powell",
+  "party": "Democratic",
+  "race": "NE-2",
+  "race_label": "Nebraska · US House NE-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 40,
+    "security": 50,
+    "immigration": 35,
+    "foreign": 75,
+    "energy": 70,
+    "tech": 70,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Anti-monopoly, public option, restore Roe plus universal background checks (liberty), fund police, Dreamer citizenship, rebuild USAID and alliances, AI guardrails.",
+   "sources": [
+    "https://deniseforcongress.org/priorities/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-2/eric-foreman",
+  "name": "Eric Foreman",
+  "party": "Libertarian",
+  "race": "NE-2",
+  "race_label": "Nebraska · US House NE-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-3/adrian-smith",
+  "name": "Adrian Smith",
+  "party": "Republican",
+  "race": "NE-3",
+  "race_label": "Nebraska · US House NE-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001172",
+   "official_name": "Adrian Smith",
+   "chamber": "House",
+   "official_site": "https://adriansmith.house.gov",
+   "official_social": {
+    "twitter": "RepAdrianSmith",
+    "youtube": "RepAdrianSmith",
+    "instagram": "RepAdrianSmith",
+    "facebook": "repadriansmith"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 50,
+    "security": 70,
+    "immigration": 85,
+    "foreign": 70,
+    "energy": 15,
+    "tech": 30,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Estate tax repeal, opposes ACA expansion, pro-life with expansive gun rights (liberty), PATRIOT Act wiretaps, ending birthright citizenship, vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/House/Adrian_Smith.htm"
+   ],
+   "photo": {
+    "file": "File:Adrian Smith portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives — Office of the Clerk"
+   }
+  }
+ }
+]

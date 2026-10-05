@@ -1,0 +1,390 @@
+[
+ {
+  "id": "TX-38/alex-mcmenemy",
+  "name": "Alex McMenemy",
+  "party": "Green",
+  "race": "TX-38",
+  "race_label": "Texas · US House TX-38",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Texas%27_38th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "UT-1/ben-mcadams",
+  "name": "Ben McAdams",
+  "party": "Democratic",
+  "race": "UT-1",
+  "race_label": "Utah · US House UT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 55,
+    "liberty": 30,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposed 2017 tax cuts, backs balanced budget, fix ACA, DACA and opposing wall, Paris vote; liberty from codifying Roe, Equality Act, universal background checks.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ben_McAdams",
+    "https://www.ontheissues.org/House/Ben_McAdams.htm"
+   ],
+   "photo": {
+    "file": "File:Ben McAdams, official portrait, 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "UT-1/riley-owen",
+  "name": "Riley Owen",
+  "party": "Republican",
+  "race": "UT-1",
+  "race_label": "Utah · US House UT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions were found.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "UT-1/jesse-west",
+  "name": "Jesse West",
+  "party": "Libertarian",
+  "race": "UT-1",
+  "race_label": "Utah · US House UT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://vote.utah.gov/2026-candidate-filings/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "UT-1/elias-montgomery",
+  "name": "Elias Montgomery",
+  "party": "Independent",
+  "race": "UT-1",
+  "race_label": "Utah · US House UT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://vote.utah.gov/2026-candidate-filings/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "UT-2/blake-moore",
+  "name": "Blake Moore",
+  "party": "Republican",
+  "race": "UT-2",
+  "race_label": "Utah · US House UT-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001213",
+   "official_name": "Blake D. Moore",
+   "chamber": "House",
+   "official_site": "https://blakemoore.house.gov",
+   "official_social": {
+    "twitter": "RepBlakeMoore",
+    "facebook": "RepBlakeMoore",
+    "instagram": "repblakemoore",
+    "youtube": "@RepBlakeMoore"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 20,
+    "liberty": 50,
+    "security": 65,
+    "immigration": 70,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Opposed ARPA, market-driven ACA replacement, border-first immigration, state-led environmental policy, local school control; liberty mixes pro-life and gun-rights votes.",
+   "sources": [
+    "https://www.ontheissues.org/House/Blake_Moore.htm",
+    "https://en.wikipedia.org/wiki/Blake_Moore"
+   ],
+   "photo": {
+    "file": "File:Rep. Blake Moore official photo, 2022.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "UT-2/peter-crosby",
+  "name": "Peter Crosby",
+  "party": "Democratic",
+  "race": "UT-2",
+  "race_label": "Utah · US House UT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": null,
+    "security": 25,
+    "immigration": null,
+    "foreign": null,
+    "energy": 60,
+    "tech": 75,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Closing corporate tax loopholes, expanding single-payer Medicare, opposing Medicaid cuts, Great Salt Lake restoration, data ownership and opposing surveillance algorithms.",
+   "sources": [
+    "https://www.petercrosbyforcongress.org/policies"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "UT-2/carlton-bowen",
+  "name": "Carlton Bowen",
+  "party": "Independent American",
+  "race": "UT-2",
+  "race_label": "Utah · US House UT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://vote.utah.gov/2026-candidate-filings/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "UT-2/daniel-cottam",
+  "name": "Daniel Cottam",
+  "party": "Libertarian",
+  "race": "UT-2",
+  "race_label": "Utah · US House UT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://vote.utah.gov/2026-candidate-filings/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "UT-2/robert-moesinger",
+  "name": "Robert Moesinger",
+  "party": "Independent",
+  "race": "UT-2",
+  "race_label": "Utah · US House UT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://vote.utah.gov/2026-candidate-filings/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "UT-3/celeste-maloy",
+  "name": "Celeste Maloy",
+  "party": "Republican",
+  "race": "UT-3",
+  "race_label": "Utah · US House UT-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001228",
+   "official_name": "Celeste Maloy",
+   "chamber": "House",
+   "official_site": "https://maloy.house.gov",
+   "official_social": {
+    "twitter": "RepMaloyUtah",
+    "facebook": "61555755717517",
+    "instagram": "RepCelesteMaloy",
+    "youtube": "@RepCelesteMaloy"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": 85,
+    "foreign": 75,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": 75
+   },
+   "basis": "Smaller government and deregulation, border wall and Remain in Mexico, strong military, more fossil fuels, public religious practice; liberty from gun rights.",
+   "sources": [
+    "https://maloy.house.gov/Issues/Issue/?IssueID=15136",
+    "https://maloy.house.gov/Issues/Issue/?IssueID=10177",
+    "https://maloy.house.gov/Issues/Issue/?IssueID=15138"
+   ],
+   "photo": {
+    "file": "File:Celeste Maloy 118th Congress.jpeg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "UT-3/kent-udell",
+  "name": "Kent Udell",
+  "party": "Democratic",
+  "race": "UT-3",
+  "race_label": "Utah · US House UT-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": 60,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": 55,
+    "tech": 75,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Expanding Medicare access, humane workable immigration, science-based all-of-the-above energy, AI labeling rules; liberty from red flag laws and safe storage.",
+   "sources": [
+    "https://www.kentudellforcongress.com/"
+   ],
+   "photo": null
+  }
+ }
+]

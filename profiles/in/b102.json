@@ -1,0 +1,424 @@
+[
+ {
+  "id": "VA-11/arthur-purves",
+  "name": "Arthur Purves",
+  "party": "Republican",
+  "race": "VA-11",
+  "race_label": "Virginia · US House VA-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 40,
+    "liberty": 60,
+    "security": null,
+    "immigration": 65,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": 10,
+    "faith": 95
+   },
+   "basis": "Lower taxes, deficit cuts, life begins at conception while opposing gun laws (abortion drove liberty), vet immigrants, opposes carbon rules, vouchers, Ten Commandments in schools.",
+   "sources": [
+    "https://www.votepurves.org/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-11/dianne-blais",
+  "name": "Dianne Blais",
+  "party": "Green",
+  "race": "VA-11",
+  "race_label": "Virginia · US House VA-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-1/suzan-delbene",
+  "name": "Suzan DelBene",
+  "party": "Democratic",
+  "race": "WA-1",
+  "race_label": "Washington · US House WA-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000617",
+   "official_name": "Suzan K. DelBene",
+   "chamber": "House",
+   "official_site": "https://delbene.house.gov",
+   "official_social": {
+    "twitter": "RepDelBene",
+    "facebook": "RepDelBene",
+    "instagram": "repdelbene"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 25,
+    "security": 40,
+    "immigration": 25,
+    "foreign": 60,
+    "energy": 85,
+    "tech": 65,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Buffett rule, ACA, abortion rights, background checks, end bulk data collection, DREAMers, clean energy, opposes vouchers; liberty driven by abortion and LGBTQ.",
+   "sources": [
+    "https://www.ontheissues.org/House/Suzan_DelBene.htm",
+    "https://en.wikipedia.org/wiki/Suzan_DelBene"
+   ],
+   "photo": {
+    "file": "File:Rep. Suzan DelBene Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "Ian Cunningham"
+   }
+  }
+ },
+ {
+  "id": "WA-1/mary-silva",
+  "name": "Mary Silva",
+  "party": "Republican",
+  "race": "WA-1",
+  "race_label": "Washington · US House WA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 25,
+    "security": 10,
+    "immigration": 70,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Medical freedom against mandates, ending warrantless mass surveillance, stronger border security and H-1B restructuring; liberty driven by medical choice.",
+   "sources": [
+    "https://www.marysilvaforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-2/rick-larsen",
+  "name": "Rick Larsen",
+  "party": "Democratic",
+  "race": "WA-2",
+  "race_label": "Washington · US House WA-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000560",
+   "official_name": "Rick Larsen",
+   "chamber": "House",
+   "official_site": "https://larsen.house.gov",
+   "official_social": {
+    "twitter": "RepRickLarsen",
+    "facebook": "RepRickLarsen",
+    "youtube": "congressmanlarsen",
+    "instagram": "repricklarsen"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 25,
+    "security": 30,
+    "immigration": 20,
+    "foreign": 65,
+    "energy": 85,
+    "tech": 70,
+    "education": 90,
+    "faith": 20
+   },
+   "basis": "30% minimum tax on millionaires, drug price negotiation, pro-choice, background checks, FISA warrants, citizenship pathway, 50% clean power, net neutrality, NEA-backed.",
+   "sources": [
+    "https://www.ontheissues.org/House/Rick_Larsen.htm"
+   ],
+   "photo": {
+    "file": "File:Rick Larsen 116th Congress official photo.jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "WA-2/edwin-h-feller",
+  "name": "Edwin H. Feller",
+  "party": "Republican",
+  "race": "WA-2",
+  "race_label": "Washington · US House WA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found on campaign site.",
+   "sources": [
+    "https://fellerforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-3/marie-gluesenkamp-perez",
+  "name": "Marie Gluesenkamp Perez",
+  "party": "Democratic",
+  "race": "WA-3",
+  "race_label": "Washington · US House WA-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000600",
+   "official_name": "Marie Gluesenkamp Perez",
+   "chamber": "House",
+   "official_site": "https://gluesenkampperez.house.gov",
+   "official_social": {
+    "twitter": "RepMGP",
+    "facebook": "RepMGP",
+    "instagram": "repmgp",
+    "youtube": "@repmgp"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": null,
+    "liberty": 40,
+    "security": null,
+    "immigration": 60,
+    "foreign": 70,
+    "energy": 45,
+    "tech": 55,
+    "education": 40,
+    "faith": null
+   },
+   "basis": "Reshoring manufacturing, abortion access but opposes assault weapons ban, Laken Riley and SAVE Act votes, Ukraine/Israel aid, right to repair, opposed loan forgiveness.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Marie_Gluesenkamp_Perez",
+    "https://www.ontheissues.org/House/Marie_Gluesenkamp_Perez.htm"
+   ],
+   "photo": {
+    "file": "File:Rep. Marie Gluesenkamp Perez - 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "WA-3/john-braun",
+  "name": "John Braun",
+  "party": "Republican",
+  "race": "WA-3",
+  "race_label": "Washington · US House WA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 45,
+    "security": 70,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": 25,
+    "tech": null,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Opposes tax hikes, backs gun rights and drug-market crackdowns, pro-police, border barriers, Navy deterrence, all-of-the-above energy, parental rights.",
+   "sources": [
+    "https://votebraun.com/issues",
+    "https://votebraun.com/"
+   ],
+   "photo": {
+    "file": "File:JohnBraun.png",
+    "license": "CC BY 4.0",
+    "author": "Troy Kirby"
+   }
+  }
+ },
+ {
+  "id": "WA-4/amanda-mckinney",
+  "name": "Amanda McKinney",
+  "party": "Republican",
+  "race": "WA-4",
+  "race_label": "Washington · US House WA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 45,
+    "security": 75,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 20,
+    "tech": 15,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Second Amendment defender, women's sports for biological females, backs law enforcement, secure borders, hydro/nuclear/gas, opposes heavy AI regulation.",
+   "sources": [
+    "https://www.mckinneyforwashington.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-4/john-duresky",
+  "name": "John Duresky",
+  "party": "Democratic",
+  "race": "WA-4",
+  "race_label": "Washington · US House WA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 85,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Close carried-interest loopholes, raise minimum wage, expand ACA toward universal coverage, protect Medicare and Medicaid, farm labor access.",
+   "sources": [
+    "https://johnduresky4congress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WA-5/michael-baumgartner",
+  "name": "Michael Baumgartner",
+  "party": "Republican",
+  "race": "WA-5",
+  "race_label": "Washington · US House WA-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001322",
+   "official_name": "Michael Baumgartner",
+   "chamber": "House",
+   "official_site": "https://baumgartner.house.gov",
+   "official_social": {
+    "twitter": "repbaumgartner",
+    "facebook": "RepBaumgartner",
+    "instagram": "repbaumgartner"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 60,
+    "security": null,
+    "immigration": 75,
+    "foreign": 35,
+    "energy": 25,
+    "tech": null,
+    "education": 30,
+    "faith": 70
+   },
+   "basis": "Opposes tax hikes and Obamacare, anti-abortion, NRA A rating, opposed same-sex marriage, opposed DREAM Act, climate skeptic, charters, religious exemptions.",
+   "sources": [
+    "https://www.ontheissues.org/House/Michael_Baumgartner.htm",
+    "https://en.wikipedia.org/wiki/Michael_Baumgartner"
+   ],
+   "photo": {
+    "file": "File:Congressman Michael Baumgartner (cropped).png",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "WA-5/carmela-conroy",
+  "name": "Carmela Conroy",
+  "party": "Democratic",
+  "race": "WA-5",
+  "race_label": "Washington · US House WA-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": 70,
+    "security": null,
+    "immigration": 20,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 85,
+    "faith": 10
+   },
+   "basis": "Indexed minimum wage and paid leave, Medicaid for all children, gun safety (liberty driven by guns only), defund detention, public school funding, church-state separation.",
+   "sources": [
+    "https://conroy4congress.com/priorities"
+   ],
+   "photo": {
+    "file": "File:Carmela Conroy State Department Portrait (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. Department of State"
+   }
+  }
+ }
+]

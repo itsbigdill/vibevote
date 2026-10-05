@@ -1,0 +1,550 @@
+[
+ {
+  "id": "NY-6/joseph-chou",
+  "name": "Joseph Chou",
+  "party": "Republican",
+  "race": "NY-6",
+  "race_label": "New York · US House NY-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education"
+  ],
+  "profile": {
+   "id": "NY-6/joseph-chou",
+   "name": "Joseph Chou",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Joseph Chou is a naturalized U.S. citizen from Queens and the Republican nominee for New York's 6th Congressional District in 2026. His campaign says his Christian faith and commitment to community service shape his candidacy.",
+   "website": "https://josephforny.com/",
+   "social": {
+    "x": "https://x.com/joseph4ny6",
+    "instagram": "https://www.instagram.com/josephforny",
+    "facebook": "https://www.facebook.com/josephchouforny",
+    "tiktok": "https://www.tiktok.com/@josephchou.forcongress"
+   },
+   "platform": [
+    {
+     "topic": "Community",
+     "point": "Honour the district's cultural diversity and promote unity among residents.",
+     "source": "https://josephforny.com/"
+    },
+    {
+     "topic": "Safety and prosperity",
+     "point": "Promote public safety and economic prosperity in Queens.",
+     "source": "https://josephforny.com/"
+    },
+    {
+     "topic": "Values",
+     "point": "Base policy on Christian principles while seeking broad appeal.",
+     "source": "https://josephforny.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": {
+     "score": 70,
+     "evidence": "Campaign says his policies will be guided by Christian principles.",
+     "source": "https://josephforny.com/"
+    }
+   },
+   "photo": null,
+   "campaign_photo": "https://img1.wsimg.com/isteam/ip/3f65359e-0072-4b81-a873-963b74ade972/449699651_122156071586227446_32304183002876933.jpg",
+   "notes": "A tax platform point and economy score from Ballotpedia were removed because the page could not be loaded to confirm them."
+  }
+ },
+ {
+  "id": "NY-7/melvin-rivera",
+  "name": "Melvin Rivera",
+  "party": "Republican",
+  "race": "NY-7",
+  "race_label": "New York · US House NY-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-7/melvin-rivera",
+   "name": "Melvin Rivera",
+   "party": "Republican",
+   "current_role": "Community activist and tenant organizer",
+   "bio": "Melvin Rivera is a community activist and tenant organizer from Bushwick, Brooklyn, and the Republican nominee for New York's 7th congressional district. His campaign cites more than 30 years of community work and his own past experience of homelessness.",
+   "website": "https://melvinforcongress.com/",
+   "social": {
+    "x": "https://x.com/Melvin4Congress",
+    "instagram": "https://www.instagram.com/thinkr3public/",
+    "facebook": "https://www.facebook.com/profile.php?id=61580566675399",
+    "tiktok": "https://www.tiktok.com/@melvinforcongress",
+    "youtube": "https://www.youtube.com/@ThinkR3public"
+   },
+   "platform": [
+    {
+     "topic": "Housing",
+     "point": "Prioritizes housing reform, tenant protections and community ownership models.",
+     "source": "https://melvinforcongress.com/"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Focuses on workforce development and economic opportunity for working families.",
+     "source": "https://melvinforcongress.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Lists public safety and accountable, transparent government among his priorities.",
+     "source": "https://melvinforcongress.com/"
+    },
+    {
+     "topic": "Environment",
+     "point": "Highlights environmental justice and public-health infrastructure.",
+     "source": "https://melvinforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Campaign site lists priority areas without specific policy proposals, so no domains are scored."
+  }
+ },
+ {
+  "id": "NY-8/lewis-mizrahi",
+  "name": "Lewis Mizrahi",
+  "party": "Republican",
+  "race": "NY-8",
+  "race_label": "New York · US House NY-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-8/lewis-mizrahi",
+   "name": "Lewis Mizrahi",
+   "party": "Republican",
+   "current_role": "Data analyst and wildland firefighter",
+   "bio": "Lewis Mizrahi is the Republican nominee for New York's 8th congressional district. He works as a criminal justice data analyst and wildland firefighter and attended John Jay College of Criminal Justice.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website found; coverage notes support for Second Amendment rights and local sheriffs, which alone is too narrow to score liberty."
+  }
+ },
+ {
+  "id": "NY-9/joel-anabilah-azumah",
+  "name": "Joel Anabilah-Azumah",
+  "party": "Republican",
+  "race": "NY-9",
+  "race_label": "New York · US House NY-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-9/joel-anabilah-azumah",
+   "name": "Joel Anabilah-Azumah",
+   "party": "Republican",
+   "current_role": "Bus company owner",
+   "bio": "Joel Anabilah-Azumah is the Republican nominee for New York's 9th congressional district. He owns a bus company and has run for office several times before.",
+   "website": "https://www.joelazumah.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "Lower taxes, arguing people spend their money better than government.",
+     "source": "https://www.joelazumah.com/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Support homeownership with less taxation and regulation.",
+     "source": "https://www.joelazumah.com/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Prioritize local projects such as a Utica Avenue subway over military spending.",
+     "source": "https://www.joelazumah.com/"
+    },
+    {
+     "topic": "Free speech",
+     "point": "Oppose censorship by government or technology companies.",
+     "source": "https://www.joelazumah.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Keep neighborhoods safe and community-invested.",
+     "source": "https://www.joelazumah.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 20,
+     "evidence": "Campaign calls for lower taxes and less regulation of property owners.",
+     "source": "https://www.joelazumah.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 30,
+     "evidence": "Campaign favors domestic infrastructure spending over military spending.",
+     "source": "https://www.joelazumah.com/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Positions are based only on short campaign-site statements."
+  }
+ },
+ {
+  "id": "OH-11/mike-kirchner",
+  "name": "Mike Kirchner",
+  "party": "Republican",
+  "race": "OH-11",
+  "race_label": "Ohio · US House OH-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "OH-11/mike-kirchner",
+   "name": "Mike Kirchner",
+   "party": "Republican",
+   "current_role": "Retired consulting actuary",
+   "bio": "Mike Kirchner is a retired consulting actuary from Northeast Ohio. He won the 2026 Republican primary for Ohio's 11th congressional district and has not held elected office.",
+   "website": "https://www.mikekirchner.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Favors more market competition to hold down prices.",
+     "source": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021668"
+    },
+    {
+     "topic": "Political civility",
+     "point": "Calls for direct, fact-based communication and less inflammatory rhetoric.",
+     "source": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021668"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Supports immigration by people able to take part successfully in the economy.",
+     "source": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021668"
+    },
+    {
+     "topic": "Domestic focus",
+     "point": "Says he would concentrate on domestic issues rather than foreign policy.",
+     "source": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021668"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://mikekirchner.com/wp-content/uploads/2025/11/MikePicWithRedShirt-1.jpg",
+   "notes": "Public statements are too general to score; campaign site content is mainly videos."
+  }
+ },
+ {
+  "id": "OH-2/jen-mazzuckelli",
+  "name": "Jen Mazzuckelli",
+  "party": "Democratic",
+  "race": "OH-2",
+  "race_label": "Ohio · US House OH-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "OH-2/jen-mazzuckelli",
+   "name": "Jen Mazzuckelli",
+   "party": "Democratic",
+   "current_role": "Former high school English teacher",
+   "bio": "Jen Mazzuckelli is the Democratic nominee for Ohio's 2nd District and ran for Clermont County commissioner in 2024. She grew up partly in Jacksonville, Illinois, and in Clermont County, graduating from Glen Este High School and Illinois College. She holds a master's degree in teaching and worked as a high school English teacher.",
+   "website": "https://www.jen4oh2.com/",
+   "social": {
+    "tiktok": "https://www.tiktok.com/@jen4oh2"
+   },
+   "platform": [
+    {
+     "topic": "Working families",
+     "point": "Says she will represent working people over campaign donors and address families' economic hardship.",
+     "source": "https://www.jen4oh2.com/about"
+    },
+    {
+     "topic": "Domestic violence",
+     "point": "Points to gaps in how the justice system protects domestic violence victims.",
+     "source": "https://www.jen4oh2.com/about"
+    },
+    {
+     "topic": "Political division",
+     "point": "Aims to reduce political division among residents of the district.",
+     "source": "https://www.jen4oh2.com/about"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Her campaign site gives no specific policy positions; Ballotpedia could not be reached to confirm her survey answers, so no scores are set."
+  }
+ },
+ {
+  "id": "OH-3/cleophus-dulaney",
+  "name": "Cleophus Dulaney",
+  "party": "Republican",
+  "race": "OH-3",
+  "race_label": "Ohio · US House OH-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "OH-3/cleophus-dulaney",
+   "name": "Cleophus Dulaney",
+   "party": "Republican",
+   "current_role": "Community advocate",
+   "bio": "Cleophus Dulaney is the Republican nominee for Ohio's 3rd District, which he also sought in 2020. His campaign describes long-running community work in the district, including outreach to homeless residents and support for young people.",
+   "website": "https://votedulaney.org/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Housing",
+     "point": "Wants solutions to the affordable housing crisis and gentrification pressures in the district.",
+     "source": "https://votedulaney.org/issues"
+    },
+    {
+     "topic": "Policing",
+     "point": "Seeks better relationships between the community and law enforcement.",
+     "source": "https://votedulaney.org/issues"
+    },
+    {
+     "topic": "Homelessness and addiction",
+     "point": "Supports rehabilitation services addressing homelessness and opioid addiction.",
+     "source": "https://votedulaney.org/issues"
+    },
+    {
+     "topic": "Property taxes",
+     "point": "Supports property tax relief and expanded home improvement grants for residents.",
+     "source": "https://votedulaney.org/issues"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Backs Medicare drug price negotiation and targeted tax relief for working families.",
+     "source": "https://votedulaney.org/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://content.campaignpartner.net/images/150750/2_20260306_164034_00012.png",
+   "notes": "Ballotpedia could not be reached to confirm his survey answers on abortion and guns, so no liberty score is set."
+  }
+ },
+ {
+  "id": "OH-5/brian-shaver",
+  "name": "Brian Shaver",
+  "party": "Democratic",
+  "race": "OH-5",
+  "race_label": "Ohio · US House OH-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "OH-5/brian-shaver",
+   "name": "Brian Shaver",
+   "party": "Democratic",
+   "current_role": "President of Fostoria City Council",
+   "bio": "Brian Shaver is president of the Fostoria City Council and a social studies teacher at Fostoria Junior/Senior High School. Born and raised in Fostoria, he is a lifelong resident of Northwest Ohio. He won the 2026 Democratic primary for Ohio's 5th District.",
+   "website": "https://www.brianshaverforcongress.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/BrianShaverForCongress/",
+    "instagram": "https://www.instagram.com/BrianShaverForCongress"
+   },
+   "platform": [
+    {
+     "topic": "Government reform",
+     "point": "Supports term limits for elected officials and limits on campaign finance.",
+     "source": "https://www.brianshaverforcongress.com/"
+    },
+    {
+     "topic": "Ethics",
+     "point": "Wants guardrails that stop elected officials from profiting from their positions and more legislative transparency.",
+     "source": "https://www.brianshaverforcongress.com/"
+    },
+    {
+     "topic": "Checks and balances",
+     "point": "Calls for strengthening checks and balances between branches of government.",
+     "source": "https://www.brianshaverforcongress.com/"
+    },
+    {
+     "topic": "Healthcare",
+     "point": "Lists healthcare and prescription drug costs among his key campaign issues.",
+     "source": "https://www.brianshaverforcongress.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/0156d9_6e6a6a86a8f54765bcea4e32fcb5a4a6~mv2.png/v1/fill/w_980,h_1372,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/Brian%205x7.png",
+   "notes": "Scores taken from earlier Ballotpedia research were removed because Ballotpedia could not be reached to confirm them; his campaign issues page presents positions only as videos."
+  }
+ }
+]

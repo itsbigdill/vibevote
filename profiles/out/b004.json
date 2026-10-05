@@ -1,0 +1,432 @@
+[
+ {
+  "id": "GA-GOV/rick-jackson",
+  "name": "Rick Jackson",
+  "party": "Republican",
+  "current_role": "Founder of Jackson Healthcare",
+  "bio": "Rick Jackson is an Atlanta-born businessman who founded the Alpharetta-based healthcare staffing company Jackson Healthcare in 2000 after starting his first medical recruiting business in 1978. He attended Lipscomb University and has not previously held elected office. He won the 2026 Republican nomination for governor in a June primary runoff.",
+  "website": "https://rickjackson.com",
+  "social": {
+   "x": "https://x.com/RickJacksonGA",
+   "instagram": "https://www.instagram.com/rickjacksonga",
+   "facebook": "https://www.facebook.com/RickJacksonGA",
+   "tiktok": "https://www.tiktok.com/@rickjacksonga",
+   "youtube": "https://www.youtube.com/@RickJacksonGA"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Freeze property taxes and cut the state income tax in half within four years.", "source": "https://rickjackson.com/action-plan/"},
+   {"topic": "Health care", "point": "Lower health costs by cutting out middlemen, negotiating pharmacy rates and expanding rural access.", "source": "https://rickjackson.com/action-plan/"},
+   {"topic": "Immigration", "point": "Make Georgia the national leader in deporting undocumented immigrants who commit crimes.", "source": "https://rickjackson.com/action-plan/"},
+   {"topic": "Education", "point": "Raise teacher pay, prioritize childhood literacy, freeze public college tuition and remove DEI programs.", "source": "https://rickjackson.com/action-plan/"},
+   {"topic": "Public safety", "point": "Give law enforcement more resources and training and end what he calls revolving-door justice.", "source": "https://rickjackson.com/action-plan/"},
+   {"topic": "Government", "point": "Enact term limits for officials and pass strong state ethics laws.", "source": "https://rickjackson.com/action-plan/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Proposes halving the state income tax and freezing property taxes.", "source": "https://rickjackson.com/action-plan/"},
+   "welfare": {"score": 10, "evidence": "Supports Medicaid block grants with work requirements and opposes full Medicaid expansion.", "source": "https://www.ajc.com/politics/2026/04/rick-jackson-a-look-at-the-ajcs-coverage/"},
+   "liberty": {"score": 80, "evidence": "Platform calls for removing DEI programs from government and schools and limiting transgender participation in girls' sports.", "source": "https://rickjackson.com/action-plan/"},
+   "security": {"score": 70, "evidence": "Pledges more resources for police and tougher criminal justice policies.", "source": "https://rickjackson.com/action-plan/"},
+   "immigration": {"score": 80, "evidence": "Wants Georgia first in deporting criminal undocumented immigrants and opposes sanctuary policies.", "source": "https://www.ajc.com/politics/2026/04/rick-jackson-a-look-at-the-ajcs-coverage/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 50, "evidence": "Pairs teacher pay raises and literacy goals with barring DEI programs from classrooms.", "source": "https://rickjackson.com/action-plan/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The liberty score rests mainly on his transgender sports and facilities stance; no abortion statement was found on his action plan."
+ },
+ {
+  "id": "HI-GOV/josh-green",
+  "name": "Josh Green",
+  "party": "Democratic",
+  "current_role": "Governor of Hawaii",
+  "bio": "Josh Green has been Governor of Hawaii since December 2022 after serving as lieutenant governor from 2018 to 2022. He served in the Hawaii House from 2004 to 2008 and the Hawaii Senate from 2008 to 2018, including as majority leader. Born in New York, he is a physician who practiced family medicine on the Big Island.",
+  "website": "https://joshgreenforhawaii.com",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Continue the middle-class income tax cut he describes as the largest in state history.", "source": "https://joshgreenforhawaii.com/issues/"},
+   {"topic": "Housing", "point": "Bring down housing costs by speeding construction of affordable homes across the islands.", "source": "https://joshgreenforhawaii.com/issues/"},
+   {"topic": "Homelessness", "point": "Build on major state investments aimed at reducing homelessness.", "source": "https://joshgreenforhawaii.com/issues/"},
+   {"topic": "Health care", "point": "Cover ACA subsidies for Hawaii families and expand rural health care with federal funding.", "source": "https://joshgreenforhawaii.com/issues/healthcare/"},
+   {"topic": "Climate", "point": "Position Hawaii as a global leader on climate and environmental protection.", "source": "https://joshgreenforhawaii.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Signed middle-class tax cuts and used emergency powers to push state-led housing construction.", "source": "https://en.wikipedia.org/wiki/Josh_Green_(politician)"},
+   "welfare": {"score": 75, "evidence": "Pledges state coverage of ACA subsidies and expanded Medicaid-related tax exemptions and mental health services.", "source": "https://joshgreenforhawaii.com/issues/healthcare/"},
+   "liberty": {"score": 40, "evidence": "Expanded abortion access (individual choice) while signing a law barring guns from sensitive places such as schools and hospitals.", "source": "https://en.wikipedia.org/wiki/Josh_Green_(politician)"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Backs the state's 100% renewable goal while also proposing an LNG import facility.", "source": "https://en.wikipedia.org/wiki/Josh_Green_(politician)"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign social accounts are linked from the site but their exact URLs could not be read. The Commons portrait is an official 2022 photo tagged as an uploader's own work, so its licence is doubtful and it was not used."
+ },
+ {
+  "id": "HI-GOV/gary-cordery",
+  "name": "Gary Cordery",
+  "party": "Republican",
+  "current_role": "Businessman",
+  "bio": "Gary Cordery is a businessman and community volunteer running as the Republican nominee for Governor of Hawaii. He has not held elected office. His campaign is based in Aiea on Oahu.",
+  "website": "https://www.garycorderyforgovernor.com",
+  "social": {
+   "x": "https://x.com/garycorderyforgovernor",
+   "instagram": "https://www.instagram.com/garycorderyforgovernor",
+   "facebook": "https://www.facebook.com/garycorderyforgovernor",
+   "tiktok": "https://www.tiktok.com/@garycorderyforgovernor",
+   "youtube": "https://www.youtube.com/@garycorderyforgovernor"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Remove the general excise tax on food and medicine and freeze property taxes for seniors.", "source": "https://www.garycorderyforgovernor.com/key-issues-priorities"},
+   {"topic": "Housing", "point": "Build 15,000 fee-simple homes priced $400K-$600K, streamline permits and end no-bid contracts.", "source": "https://www.garycorderyforgovernor.com/key-issues-priorities"},
+   {"topic": "Transparency", "point": "Create a government transparency office and require annual audits of public-private partnerships.", "source": "https://www.garycorderyforgovernor.com/key-issues-priorities"},
+   {"topic": "Native Hawaiians", "point": "Renegotiate Hawaiian Homes Act terms and expand Hawaiian language and cultural education.", "source": "https://www.garycorderyforgovernor.com/key-issues-priorities"},
+   {"topic": "Education", "point": "Adopt merit-based teacher pay, proficiency-based graduation and island-level budget control.", "source": "https://www.garycorderyforgovernor.com/key-issues-priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Wants to extend income tax cuts and shrink a state budget he calls too large.", "source": "https://www.civilbeat.org/2026/07/candidate-qa-governor-gary-cordery-2/"},
+   "welfare": {"score": 25, "evidence": "Proposes tying entitlements to participation in work programs.", "source": "https://www.civilbeat.org/2026/07/candidate-qa-governor-gary-cordery-2/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 45, "evidence": "Opposes the Green Fee as a new tax and points to hydrogen and fission as future options while not ruling out LNG.", "source": "https://www.civilbeat.org/2026/07/candidate-qa-governor-gary-cordery-2/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Earlier education (voucher) and faith scores were removed because no source confirming them could be found. Social URLs are built from the handle @garycorderyforgovernor listed on his site."
+ },
+ {
+  "id": "ID-SEN/jim-risch",
+  "name": "Jim Risch",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Idaho",
+  "bio": "Jim Risch has represented Idaho in the U.S. Senate since 2009 and chairs the Senate Foreign Relations Committee. He previously served as Ada County prosecuting attorney, state senate leader, lieutenant governor and, in 2006, Governor of Idaho. A University of Idaho law graduate, he is also a rancher and former attorney.",
+  "website": "https://senatorrisch.com",
+  "social": {
+   "x": "https://x.com/SenatorRisch",
+   "facebook": "https://www.facebook.com/senatorjimrisch",
+   "youtube": "https://www.youtube.com/user/SenatorJamesRisch"
+  },
+  "platform": [
+   {"topic": "Public lands", "point": "Keep Idaho public lands in public hands for hunting, recreation, logging and grazing.", "source": "https://senatorrisch.com/issues/"},
+   {"topic": "Taxes and business", "point": "Keep taxes low and cut regulatory burdens on small businesses.", "source": "https://senatorrisch.com/issues/"},
+   {"topic": "Border security", "point": "Enforce immigration laws and secure the border.", "source": "https://senatorrisch.com/issues/"},
+   {"topic": "Energy", "point": "Advance nuclear energy and defend Idaho hydropower dams against removal.", "source": "https://senatorrisch.com/issues/"},
+   {"topic": "Second Amendment", "point": "Protect gun rights and oppose new firearm restrictions.", "source": "https://senatorrisch.com/issues/"},
+   {"topic": "Law enforcement", "point": "Support funding and backing for police.", "source": "https://senatorrisch.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Supported the 2017 tax cuts and the 2025 reconciliation law and campaigns on cutting regulation.", "source": "https://senatorrisch.com/issues/"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 reconciliation law that added Medicaid work requirements.", "source": "https://en.wikipedia.org/wiki/Jim_Risch"},
+   "liberty": {"score": 60, "evidence": "Opposes abortion and voted against the Respect for Marriage Act, while opposing gun restrictions.", "source": "https://en.wikipedia.org/wiki/Jim_Risch"},
+   "security": {"score": 80, "evidence": "Voted to reauthorize FISA Section 702 surveillance and campaigns on backing police.", "source": "https://en.wikipedia.org/wiki/Jim_Risch"},
+   "immigration": {"score": 85, "evidence": "Voted for the Laken Riley Act and campaigns on strict border enforcement.", "source": "https://senatorrisch.com/issues/"},
+   "foreign": {"score": 75, "evidence": "Voted for the 2024 foreign aid package including Ukraine and Israel aid; chairs Foreign Relations.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm"},
+   "energy": {"score": 15, "evidence": "Backs nuclear and hydropower and opposed the Lava Ridge wind project.", "source": "https://senatorrisch.com/issues/"},
+   "tech": {"score": 60, "evidence": "Voted for the Kids Online Safety Act in 2024.", "source": "https://en.wikipedia.org/wiki/Jim_Risch"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "An earlier education score was removed because it rested on party affiliation rather than a specific statement or vote."
+ },
+ {
+  "id": "ID-SEN/todd-achilles",
+  "name": "Todd Achilles",
+  "party": "Independent",
+  "current_role": "Public policy professor at Boise State University",
+  "bio": "Todd Achilles is an Army veteran and former technology executive at T-Mobile, HTC and Hewlett-Packard who teaches public policy at Boise State University. He represented district 16B in the Idaho House from 2024 to 2025 before resigning to run for the U.S. Senate as an independent. He grew up on a family farm in Oregon and lives in the Treasure Valley.",
+  "website": "https://www.achillesforidaho.com",
+  "social": {
+   "x": "https://x.com/Achilles4Idaho",
+   "instagram": "https://www.instagram.com/toddachillesforidaho",
+   "facebook": "https://www.facebook.com/achilles4idaho",
+   "tiktok": "https://www.tiktok.com/@toddachillesforidaho",
+   "youtube": "https://www.youtube.com/@ToddAchillesforU.S.Senate"
+  },
+  "platform": [
+   {"topic": "Government reform", "point": "Set congressional term limits, ban stock trading by members and extend lobbying bans.", "source": "https://www.achillesforidaho.com/policies"},
+   {"topic": "Big Tech", "point": "Break Google's search dominance and require platforms to disclose content algorithms.", "source": "https://www.achillesforidaho.com/policies"},
+   {"topic": "Health care", "point": "Protect insurance tax credits, require upfront itemized pricing and increase competition among health insurers.", "source": "https://www.achillesforidaho.com/policies"},
+   {"topic": "Public lands", "point": "Oppose any sale of Idaho public lands and fully staff land management agencies.", "source": "https://www.achillesforidaho.com/policies"},
+   {"topic": "Immigration", "point": "Fund border security staffing and revive the bipartisan immigration reform bill.", "source": "https://www.achillesforidaho.com/policies"},
+   {"topic": "Abortion", "point": "Support Idaho's Reproductive Freedom and Privacy Act ballot initiative.", "source": "https://www.achillesforidaho.com/policies"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Backs closing loopholes for the wealthy, banning non-competes and stronger antitrust enforcement.", "source": "https://www.achillesforidaho.com/policies"},
+   "welfare": {"score": 50, "evidence": "Wants to protect ACA tax credits and add price transparency rather than a universal program.", "source": "https://www.achillesforidaho.com/policies"},
+   "liberty": {"score": 10, "evidence": "Supports the abortion-rights ballot initiative and opposes federal gun bans and registries.", "source": "https://www.achillesforidaho.com/policies"},
+   "security": {"score": 25, "evidence": "Backs a right for people to control their personal data and demand its deletion.", "source": "https://www.achillesforidaho.com/policies"},
+   "immigration": {"score": 50, "evidence": "Pairs added border staffing and technology with bipartisan reform and legal worker access.", "source": "https://www.achillesforidaho.com/policies"},
+   "foreign": {"score": 25, "evidence": "Calls for ending endless wars and reasserting congressional war powers.", "source": "https://www.achillesforidaho.com/policies"},
+   "energy": null,
+   "tech": {"score": 90, "evidence": "Proposes Google antitrust action, algorithm disclosure, AI copyright protections and child safety accountability.", "source": "https://www.achillesforidaho.com/policies"},
+   "education": {"score": 75, "evidence": "Pledges to protect federal public school funding including Title I and rural schools.", "source": "https://www.achillesforidaho.com/policies"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "ID-GOV/brad-little",
+  "name": "Brad Little",
+  "party": "Republican",
+  "current_role": "Governor of Idaho",
+  "bio": "Brad Little has been Governor of Idaho since January 2019. He previously served as lieutenant governor from 2009 to 2019 and in the Idaho Senate from 2001 to 2009. A University of Idaho agribusiness graduate from Emmett, he ran his family's ranching business for nearly three decades.",
+  "website": "https://www.bradlittleforidaho.com",
+  "social": {
+   "facebook": "https://www.facebook.com/BRAD-LITTLE-for-Idaho-134983589848425/"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Continue the income and grocery tax cuts enacted during his tenure.", "source": "https://www.bradlittleforidaho.com/"},
+   {"topic": "Housing", "point": "Keep Idaho's housing construction growth among the fastest in the nation.", "source": "https://www.bradlittleforidaho.com/"},
+   {"topic": "Women's sports", "point": "Defend Idaho's law limiting girls' and women's sports to biological females.", "source": "https://www.bradlittleforidaho.com/"},
+   {"topic": "Economy", "point": "Keep young Idahoans in the state through economic growth and investment.", "source": "https://www.bradlittleforidaho.com/accomplishments/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Campaigned for and signed income tax reductions and regulatory cuts.", "source": "https://en.wikipedia.org/wiki/Brad_Little"},
+   "welfare": null,
+   "liberty": {"score": 70, "evidence": "Signed abortion restrictions and transgender sports and care bans, opposes marijuana legalization, and opposes gun control.", "source": "https://en.wikipedia.org/wiki/Brad_Little"},
+   "security": {"score": 70, "evidence": "Signed a law making the firing squad Idaho's primary execution method and campaigns on law enforcement support.", "source": "https://en.wikipedia.org/wiki/Brad_Little"},
+   "immigration": {"score": 80, "evidence": "Campaign says Idaho sent more missions to the southern border than any other state and runs an operation to remove criminal immigrants.", "source": "https://www.bradlittleforidaho.com/accomplishments/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 40, "evidence": "Campaign cites both new school choice options for families and large teacher pay increases.", "source": "https://www.bradlittleforidaho.com/accomplishments/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Brad Little official photo.jpg", "license": "CC BY-SA 4.0", "author": "Phil White/Office of the Governor of Idaho"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "ID-GOV/terri-pickens",
+  "name": "Terri Pickens",
+  "party": "Democratic",
+  "current_role": "Attorney",
+  "bio": "Terri Pickens is a fourth-generation Idahoan from Pocatello and a lawyer who founded her own Boise firm in 2008. She previously worked as a public defender in Nez Perce County. She holds degrees from USC and the University of Idaho College of Law.",
+  "website": "https://www.terriforidaho.com",
+  "social": {
+   "instagram": "https://www.instagram.com/terriforidaho/",
+   "facebook": "https://www.facebook.com/TerriForIdaho",
+   "tiktok": "https://www.tiktok.com/@terriforidaho",
+   "youtube": "https://www.youtube.com/@terriforidaho"
+  },
+  "platform": [
+   {"topic": "Education", "point": "Repeal school vouchers, raise teacher pay and expand pre-K and full-day kindergarten.", "source": "https://www.terriforidaho.com/issues"},
+   {"topic": "Workers", "point": "Support unions, living wages and workplace safety protections.", "source": "https://www.terriforidaho.com/issues"},
+   {"topic": "Public lands", "point": "Keep public lands publicly owned and accessible for recreation.", "source": "https://www.terriforidaho.com/issues"},
+   {"topic": "Reproductive rights", "point": "Protect individuals' right to make their own reproductive health decisions.", "source": "https://www.terriforidaho.com/issues"},
+   {"topic": "Immigration", "point": "Treat undocumented immigrants humanely and support pathways for immigrant workers.", "source": "https://www.terriforidaho.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Backs strong unions and living wages and an economy that serves workers over billionaires.", "source": "https://www.terriforidaho.com/issues"},
+   "welfare": {"score": 70, "evidence": "Says health care must be affordable and accessible to every Idahoan.", "source": "https://www.terriforidaho.com/issues"},
+   "liberty": {"score": 5, "evidence": "Supports abortion rights, same-sex marriage and free speech and privacy protections.", "source": "https://www.terriforidaho.com/issues"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Calls for humane treatment of undocumented immigrants and pathways for immigrant workers.", "source": "https://www.terriforidaho.com/issues"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 95, "evidence": "Pledges to repeal school vouchers and increase public school funding.", "source": "https://www.terriforidaho.com/issues"},
+   "faith": {"score": 15, "evidence": "Says religious objections to reproductive health decisions belong in church teaching rather than state law.", "source": "https://www.terriforidaho.com/issues"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "An earlier energy score was removed because no clean-energy statement was found on her issues page."
+ },
+ {
+  "id": "ID-GOV/john-stegner",
+  "name": "John Stegner",
+  "party": "Independent",
+  "current_role": "Former Idaho Supreme Court Justice",
+  "bio": "John Stegner served as a Justice of the Idaho Supreme Court from 2018 to 2023 after more than two decades as a district judge. Earlier he practiced law in Lewiston and clerked for a federal district judge. Born in Grangeville, he is a former Republican running for governor as an independent.",
+  "website": "https://www.stegnerforidaho.com",
+  "social": {
+   "instagram": "https://www.instagram.com/stegnerforidaho",
+   "facebook": "https://www.facebook.com/StegnerforIdaho"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Lower family costs and address Idaho's grocery tax.", "source": "https://www.stegnerforidaho.com/priorities"},
+   {"topic": "Health care", "point": "Restore Medicaid access and keep health workers in rural communities.", "source": "https://www.stegnerforidaho.com/priorities"},
+   {"topic": "Education", "point": "Redirect more than $50 million from school vouchers back to public schools.", "source": "https://www.stegnerforidaho.com/priorities"},
+   {"topic": "Privacy", "point": "Require warrants for law enforcement access to Flock license-plate camera data.", "source": "https://www.stegnerforidaho.com/priorities"},
+   {"topic": "Data centers", "point": "Make data center developers show adequate resources and community fit before building.", "source": "https://www.stegnerforidaho.com/priorities"},
+   {"topic": "Water and lands", "point": "Keep public lands public and expand reservoir and aquifer storage.", "source": "https://www.stegnerforidaho.com/priorities"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 65, "evidence": "Wants to expand Medicaid access.", "source": "https://www.stegnerforidaho.com/priorities"},
+   "liberty": null,
+   "security": {"score": 30, "evidence": "Proposes requiring warrants for Flock camera data.", "source": "https://www.stegnerforidaho.com/priorities"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 65, "evidence": "Would require data centers to prove resource availability and community compatibility.", "source": "https://www.stegnerforidaho.com/priorities"},
+   "education": {"score": 90, "evidence": "Wants to recover voucher funding for public schools.", "source": "https://www.stegnerforidaho.com/priorities"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IL-SEN/juliana-stratton",
+  "name": "Juliana Stratton",
+  "party": "Democratic",
+  "current_role": "Lieutenant Governor of Illinois",
+  "bio": "Juliana Stratton has been Lieutenant Governor of Illinois since 2019 and previously served in the Illinois House from 2017 to 2019. A lawyer and mediator, she led the Cook County Justice Advisory Council and a public safety center at the University of Illinois Chicago. She was born and raised on Chicago's South Side.",
+  "website": "https://www.julianastratton.com",
+  "social": {
+   "x": "https://x.com/JulianaStratton",
+   "instagram": "https://www.instagram.com/julianaforillinois",
+   "facebook": "https://www.facebook.com/JulianaForIL",
+   "tiktok": "https://www.tiktok.com/@julianaforil",
+   "youtube": "https://www.youtube.com/@Juliana_Stratton"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Pass Medicare for All.", "source": "https://www.julianastratton.com/issues"},
+   {"topic": "Wages and taxes", "point": "Raise the minimum wage toward $25 and fund a middle-class tax cut with a millionaire tax.", "source": "https://www.julianastratton.com/issues"},
+   {"topic": "Trade", "point": "End current tariffs she describes as a tax on working families.", "source": "https://www.julianastratton.com/issues"},
+   {"topic": "Immigration", "point": "Abolish ICE.", "source": "https://www.julianastratton.com/issues"},
+   {"topic": "Education", "point": "Restore the Department of Education and expand support for trades and technical schools.", "source": "https://www.julianastratton.com/issues"},
+   {"topic": "Rights", "point": "Restore Roe protections, pass the John Lewis Voting Rights Act and enact gun safety laws.", "source": "https://www.julianastratton.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 90, "evidence": "Backs a $25 minimum wage and a tax on incomes over $1 million.", "source": "https://www.julianastratton.com/issues"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All.", "source": "https://www.julianastratton.com/issues"},
+   "liberty": {"score": 30, "evidence": "Supports abortion rights and LGBTQ+ rights (choice) alongside stricter gun safety laws.", "source": "https://www.julianastratton.com/issues"},
+   "security": null,
+   "immigration": {"score": 5, "evidence": "Calls for abolishing ICE.", "source": "https://www.julianastratton.com/issues"},
+   "foreign": {"score": 25, "evidence": "Opposes U.S. involvement in a war with Iran and argues military spending diverts money from domestic needs.", "source": "https://en.wikipedia.org/wiki/Juliana_Stratton"},
+   "energy": {"score": 85, "evidence": "Calls for urgent action on climate change.", "source": "https://www.julianastratton.com/issues"},
+   "tech": {"score": 80, "evidence": "Supports regulating artificial intelligence to protect workers and prevent discrimination.", "source": "https://en.wikipedia.org/wiki/Juliana_Stratton"},
+   "education": {"score": 90, "evidence": "Pledges to restore the Department of Education and fund public schools.", "source": "https://www.julianastratton.com/issues"},
+   "faith": null
+  },
+  "photo": {"file": "File:Juliana Stratton 2023 (cropped).jpg", "license": "Public domain", "author": "Sgt. Trenton Fouche, Illinois National Guard"},
+  "campaign_photo": "",
+  "notes": "Photo is tagged PD-USGov-Military-National Guard from DVIDS."
+ },
+ {
+  "id": "IL-SEN/don-tracy",
+  "name": "Don Tracy",
+  "party": "Republican",
+  "current_role": "Attorney; former Illinois Republican Party chairman",
+  "bio": "Don Tracy is a Springfield attorney with Brown, Hay & Stephens and former general counsel for Dot Foods. He chaired the Illinois Gaming Board from 2015 to 2019 and the Illinois Republican Party from 2021 to 2024. He was born in Urbana and ran for lieutenant governor in 2010.",
+  "website": "https://www.dontracyforil.com",
+  "social": {
+   "x": "https://x.com/DonTracyForIL",
+   "instagram": "https://instagram.com/DonTracyForIL",
+   "facebook": "https://facebook.com/DonTracyForIL",
+   "youtube": "https://www.youtube.com/@Don_TracyforIL"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower living costs by cutting federal spending and regulation.", "source": "https://www.dontracyforil.com/"},
+   {"topic": "Energy", "point": "Pursue energy independence through an all-of-the-above strategy.", "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/don-tracy-illinois-primary-united-states-senate"},
+   {"topic": "Trade and China", "point": "Use targeted tariffs, tighter export controls and stronger Indo-Pacific alliances to counter China.", "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/don-tracy-illinois-primary-united-states-senate"},
+   {"topic": "Public safety", "point": "Support law enforcement and accountability for offenders.", "source": "https://www.dontracyforil.com/"},
+   {"topic": "Representation", "point": "Give voters in all 102 Illinois counties a voice in Washington.", "source": "https://www.dontracyforil.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Favors spending and regulation cuts while backing targeted tariffs.", "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/don-tracy-illinois-primary-united-states-senate"},
+   "welfare": {"score": 25, "evidence": "Opposes taxpayer-funded benefits for people in the country illegally.", "source": "https://dontracyforil.com/defend/"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Campaigns on supporting law enforcement and community safety.", "source": "https://www.dontracyforil.com/"},
+   "immigration": {"score": 65, "evidence": "Criticizes past border policy while calling for oversight and coordination in enforcement.", "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/don-tracy-illinois-primary-united-states-senate"},
+   "foreign": {"score": 80, "evidence": "Backs military deterrence and stronger Indo-Pacific alliances against China.", "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/don-tracy-illinois-primary-united-states-senate"},
+   "energy": {"score": 35, "evidence": "Supports an all-of-the-above energy strategy.", "source": "https://chicago.suntimes.com/elections/2026/candidate-questionnaires/don-tracy-illinois-primary-united-states-senate"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "An earlier liberty score was removed because no direct statement of his position on transgender athletes or other liberty issues was found."
+ },
+ {
+  "id": "IL-GOV/jb-pritzker",
+  "name": "JB Pritzker",
+  "party": "Democratic",
+  "current_role": "Governor of Illinois",
+  "bio": "JB Pritzker has been Governor of Illinois since 2019. Before taking office he was a businessman, investor and philanthropist and a member of the family that founded the Hyatt hotel chain. He ran unsuccessfully for Congress in 1998.",
+  "website": "https://jbpritzker.com",
+  "social": {
+   "x": "https://x.com/jbpritzker",
+   "instagram": "https://www.instagram.com/jbpritzker",
+   "facebook": "https://www.facebook.com/jbpritzker",
+   "tiktok": "https://www.tiktok.com/@teamjb_hq",
+   "youtube": "https://www.youtube.com/channel/UCI8FbW3Sm5y_3eP2g8kyXHg"
+  },
+  "platform": [
+   {"topic": "Education", "point": "Keep expanding early childhood education and school funding.", "source": "https://jbpritzker.com/"},
+   {"topic": "Economy", "point": "Grow jobs and workforce training while balancing the state budget.", "source": "https://jbpritzker.com/latest/accomplishment/creating-the-economy-of-the-future/"},
+   {"topic": "Health care", "point": "Expand access to affordable health care and youth mental health services.", "source": "https://jbpritzker.com/latest/accomplishment/expanding-quality-affordable-health-care/"},
+   {"topic": "Climate", "point": "Continue the transition to clean energy under the state's climate law.", "source": "https://jbpritzker.com/"},
+   {"topic": "Rights", "point": "Protect reproductive rights and other individual freedoms in Illinois.", "source": "https://jbpritzker.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Signed a $15 minimum wage and pursued a graduated income tax.", "source": "https://en.wikipedia.org/wiki/JB_Pritzker"},
+   "welfare": {"score": 80, "evidence": "Expanded state health coverage and signed no-copay birth equity coverage.", "source": "https://jbpritzker.com/latest/accomplishment/expanding-quality-affordable-health-care/"},
+   "liberty": {"score": 25, "evidence": "Signed abortion protections and cannabis legalization, alongside an assault weapons ban.", "source": "https://en.wikipedia.org/wiki/JB_Pritzker"},
+   "security": {"score": 25, "evidence": "Signed the law ending cash bail.", "source": "https://en.wikipedia.org/wiki/JB_Pritzker"},
+   "immigration": {"score": 15, "evidence": "Banned private immigration detention and limited police cooperation with ICE.", "source": "https://en.wikipedia.org/wiki/JB_Pritzker"},
+   "foreign": null,
+   "energy": {"score": 85, "evidence": "Signed a law phasing out coal by 2035 and gas power by 2045.", "source": "https://en.wikipedia.org/wiki/JB_Pritzker"},
+   "tech": {"score": 90, "evidence": "Signed a 2026 law requiring annual third-party audits of major AI models.", "source": "https://en.wikipedia.org/wiki/JB_Pritzker"},
+   "education": {"score": 85, "evidence": "Expanded preschool through Smart Start and raised K-12 funding.", "source": "https://en.wikipedia.org/wiki/JB_Pritzker"},
+   "faith": null
+  },
+  "photo": {"file": "File:JB Pritzker 2026.jpg", "license": "CC BY-SA 4.0", "author": "Oscar Garza"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IL-GOV/darren-bailey",
+  "name": "Darren Bailey",
+  "party": "Republican",
+  "current_role": "Farmer; former Illinois state senator",
+  "bio": "Darren Bailey is a farmer from southern Illinois who served in the Illinois House from 2019 to 2021 and the Illinois Senate from 2021 to 2023. He was the Republican nominee for governor in 2022 and is the party's nominee again in 2026.",
+  "website": "https://baileyforillinois.com",
+  "social": {
+   "x": "https://x.com/DarrenBaileyIL",
+   "instagram": "https://www.instagram.com/baileyforillinois/",
+   "facebook": "https://www.facebook.com/BaileyforIllinois",
+   "youtube": "https://www.youtube.com/channel/UCJbna2cyfWOBmcZN8Dh_A0g"
+  },
+  "platform": [
+   {"topic": "Property taxes", "point": "Cut property taxes so no family pays more in property tax than its mortgage.", "source": "https://baileyforillinois.com/issues/"},
+   {"topic": "Taxes and spending", "point": "Lower taxes and cut wasteful state spending.", "source": "https://baileyforillinois.com/issues/"},
+   {"topic": "Public safety", "point": "Back law enforcement and crack down on repeat violent offenders.", "source": "https://baileyforillinois.com/issues/"},
+   {"topic": "Education", "point": "Fully fund schools while giving parents more choice over their children's education.", "source": "https://baileyforillinois.com/issues/"},
+   {"topic": "Small business", "point": "Support small businesses and job creation.", "source": "https://baileyforillinois.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Proposes lower income and property taxes and spending cuts.", "source": "https://baileyforillinois.com/issues/"},
+   "welfare": null,
+   "liberty": {"score": 50, "evidence": "Supports banning abortion except to save the mother's life and opposes gun control.", "source": "https://en.wikipedia.org/wiki/Darren_Bailey"},
+   "security": {"score": 80, "evidence": "Opposes the SAFE-T Act and backs tougher policing of repeat offenders.", "source": "https://en.wikipedia.org/wiki/Darren_Bailey"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 40, "evidence": "Pairs fully funding schools with expanding parental choice.", "source": "https://baileyforillinois.com/issues/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Darren Bailey at a 2022 Campaign Event (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Cobiblair"},
+  "campaign_photo": "",
+  "notes": "The liberty score averages his support for an abortion ban with his opposition to gun control."
+ }
+]

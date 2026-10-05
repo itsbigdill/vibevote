@@ -1,0 +1,379 @@
+[
+ {
+  "id": "AL-SEN/barry-moore",
+  "name": "Barry Moore",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AL-1",
+  "bio": "Barry Moore has served in the U.S. House since 2021, first for Alabama's 2nd district and later the 1st district after redistricting. He previously served in the Alabama House of Representatives. Before politics he ran a waste management business in the Wiregrass region of southeast Alabama.",
+  "website": "https://barrymooreforalabama.com",
+  "social": {"x": "https://x.com/BMooreSenate", "facebook": "https://www.facebook.com/BarryMooreforSenate", "youtube": "https://www.youtube.com/@barrymooreforcongress"},
+  "platform": [
+   {"topic": "Immigration", "point": "Wants zero tolerance for illegal immigration, deportation of people in the country illegally, and a permanently secured border.", "source": "https://barrymooreforalabama.com/issues/"},
+   {"topic": "Economy", "point": "Plans to cut taxes and regulations so families and small businesses can grow with less government involvement.", "source": "https://barrymooreforalabama.com/issues/"},
+   {"topic": "Public safety", "point": "Prioritizes prosecuting violent offenders and fully funding law enforcement.", "source": "https://barrymooreforalabama.com/issues/"},
+   {"topic": "Guns", "point": "Pledges to defend Second Amendment rights against federal gun confiscation efforts.", "source": "https://barrymooreforalabama.com/issues/"},
+   {"topic": "Women's sports", "point": "Would bar transgender athletes from women's sports and pull federal funds from institutions that allow it.", "source": "https://barrymooreforalabama.com/issues/"},
+   {"topic": "Veterans", "point": "Supports funding the VA and protecting military benefits.", "source": "https://barrymooreforalabama.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Campaign calls for lower taxes and fewer regulations on families and small businesses.", "source": "https://barrymooreforalabama.com/issues/"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Backs gun rights (individual choice) while praising the Roe reversal and opposing transgender athletes in women's sports.", "source": "https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)"},
+   "security": {"score": 75, "evidence": "Campaign prioritizes prosecuting violent criminals and fully funding law enforcement.", "source": "https://barrymooreforalabama.com/issues/"},
+   "immigration": {"score": 95, "evidence": "Campaign calls for zero tolerance and deportation of people in the country illegally.", "source": "https://barrymooreforalabama.com/issues/"},
+   "foreign": {"score": 30, "evidence": "Opposed additional aid to Ukraine.", "source": "https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 90, "evidence": "Sponsored the CRUSADE Act, citing the nation's Christian foundations.", "source": "https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AL-SEN/everett-wess",
+  "name": "Everett Wess",
+  "party": "Democratic",
+  "current_role": "Attorney, Birmingham",
+  "bio": "Everett W. Wess is a Birmingham attorney who has led The Wess Law Firm since 2001 and served eight years as a Midfield municipal court judge. He has also worked as a prosecutor, public defender and technology professional supporting NASA operations in Huntsville. He is state president of the Alabama New South Coalition and holds degrees from Alabama A&M University and Birmingham School of Law.",
+  "website": "https://wessforsenate.com",
+  "social": {"facebook": "https://www.facebook.com/616973018338413"},
+  "platform": [
+   {"topic": "Healthcare", "point": "Supports affordable healthcare with more funding for rural medical providers and underserved hospitals.", "source": "https://wessforsenate.com/"},
+   {"topic": "Jobs and economy", "point": "Links economic growth to quality public education and workforce development.", "source": "https://wessforsenate.com/"},
+   {"topic": "Justice", "point": "Calls for fair courts, clean government and equal access to the justice system.", "source": "https://wessforsenate.com/"},
+   {"topic": "Voting rights", "point": "Prioritizes protecting voting rights and community protections.", "source": "https://wessforsenate.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 60, "evidence": "Campaign backs affordable healthcare with added funding for rural and underserved providers.", "source": "https://wessforsenate.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 70, "evidence": "Campaign emphasizes quality public education as the basis for jobs and workforce development.", "source": "https://wessforsenate.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://img1.wsimg.com/isteam/ip/21f79d0e-c317-4c6a-9685-0267b714fb22/_MG_3346.jpg",
+  "notes": "Limited public footprint; campaign site lists broad priorities only."
+ },
+ {
+  "id": "AL-GOV/tommy-tuberville",
+  "name": "Tommy Tuberville",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Alabama",
+  "bio": "Tommy Tuberville has represented Alabama in the U.S. Senate since 2021. Before entering politics he was a college football head coach, including a decade at Auburn University, as well as at Ole Miss, Texas Tech and Cincinnati. He is running for governor rather than seeking a second Senate term.",
+  "website": "https://www.coachforgovernor.com",
+  "social": {"x": "https://x.com/CoachForGov", "instagram": "https://www.instagram.com/coachforgov/", "facebook": "https://www.facebook.com/CoachForGov", "youtube": "https://www.youtube.com/@CoachforGov"},
+  "platform": [
+   {"topic": "Jobs", "point": "Plans to cut taxes, eliminate waste and reduce regulation to attract manufacturing jobs.", "source": "https://www.coachforgovernor.com/issues"},
+   {"topic": "Education", "point": "Wants to expand school choice so parents decide where children learn.", "source": "https://www.coachforgovernor.com/issues"},
+   {"topic": "Immigration", "point": "Supports border enforcement and deporting people who entered illegally and committed crimes.", "source": "https://www.coachforgovernor.com/issues"},
+   {"topic": "Abortion", "point": "Backs pro-life policies and opposes taxpayer funding for abortion.", "source": "https://www.coachforgovernor.com/issues"},
+   {"topic": "Agriculture", "point": "Supports tariffs and trade policy aimed at protecting Alabama farmers and seafood producers.", "source": "https://www.coachforgovernor.com/issues"},
+   {"topic": "Defense industry", "point": "Aims to grow and secure defense-sector investment in Alabama.", "source": "https://www.coachforgovernor.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Campaign pairs tax and regulation cuts with support for protective tariffs.", "source": "https://www.coachforgovernor.com/issues"},
+   "welfare": {"score": 30, "evidence": "Senate record and statements favor limiting federal program spending.", "source": "https://www.ontheissues.org/Senate/Tommy_Tuberville.htm"},
+   "liberty": {"score": 70, "evidence": "Opposes abortion, marijuana legalization and transgender athletes in women's sports, while backing gun rights.", "source": "https://www.coachforgovernor.com/issues"},
+   "security": {"score": 75, "evidence": "Record and statements favor expanded law enforcement powers.", "source": "https://www.ontheissues.org/Senate/Tommy_Tuberville.htm"},
+   "immigration": {"score": 95, "evidence": "Campaign backs border enforcement and deportations.", "source": "https://www.coachforgovernor.com/issues"},
+   "foreign": {"score": 30, "evidence": "Senate record includes opposition to foreign aid packages.", "source": "https://www.ontheissues.org/Senate/Tommy_Tuberville.htm"},
+   "energy": {"score": 5, "evidence": "Has publicly dismissed climate change concerns and backs fossil fuel production.", "source": "https://www.ontheissues.org/Senate/Tommy_Tuberville.htm"},
+   "tech": {"score": 20, "evidence": "Statements favor a light regulatory approach to technology.", "source": "https://www.ontheissues.org/Senate/Tommy_Tuberville.htm"},
+   "education": {"score": 10, "evidence": "Campaign pledges to expand school choice and parental control of education.", "source": "https://www.coachforgovernor.com/issues"},
+   "faith": {"score": 95, "evidence": "Has criticized the removal of prayer from public schools.", "source": "https://www.ontheissues.org/Senate/Tommy_Tuberville.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AL-GOV/doug-jones",
+  "name": "Doug Jones",
+  "party": "Democratic",
+  "current_role": "Attorney; former U.S. Senator from Alabama",
+  "bio": "Doug Jones represented Alabama in the U.S. Senate from 2018 to 2021 after winning a special election. He was U.S. Attorney for the Northern District of Alabama from 1997 to 2001, where he prosecuted two of the 1963 16th Street Baptist Church bombers. He is a Birmingham-area lawyer from Fairfield, Alabama.",
+  "website": "https://www.dougjones.com",
+  "social": {"x": "https://x.com/DougJones", "instagram": "https://www.instagram.com/dougforalabama", "facebook": "https://www.facebook.com/dougforalabama", "tiktok": "https://www.tiktok.com/@dougforalabama"},
+  "platform": [
+   {"topic": "Data centers", "point": "Proposes a one-year pause on new data centers, more community transparency, and ending corporate tax incentives for them.", "source": "https://www.dougjones.com/priorities"},
+   {"topic": "Cost of living", "point": "Would suspend the gas tax, end the grocery tax and raise wages.", "source": "https://www.dougjones.com/priorities"},
+   {"topic": "Healthcare", "point": "Plans to expand Medicaid to cover more than 154,000 uninsured working Alabamians.", "source": "https://www.dougjones.com/priorities"},
+   {"topic": "Jobs", "point": "Would use tax credits, expanded childcare and community college access to grow employment.", "source": "https://www.dougjones.com/priorities"},
+   {"topic": "Government ethics", "point": "Supports banning stock trading by officials and letting voters bring ballot initiatives.", "source": "https://www.dougjones.com/priorities"},
+   {"topic": "Lottery", "point": "Wants voters to decide on a state lottery funding education, healthcare and infrastructure.", "source": "https://www.dougjones.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Proposes a higher minimum wage, grocery tax repeal and ending corporate data-center incentives.", "source": "https://www.dougjones.com/priorities"},
+   "welfare": {"score": 75, "evidence": "Centers his healthcare plan on Medicaid expansion and expanded childcare.", "source": "https://www.dougjones.com/priorities"},
+   "liberty": {"score": 30, "evidence": "Supports IVF and contraception protections and same-sex marriage, alongside gun background checks.", "source": "https://www.alreporter.com/2026/07/27/jones-lays-out-governing-agenda-calls-for-one-year-data-center-pause/"},
+   "security": {"score": 35, "evidence": "Supported criminal justice reform through the First Step Act as senator.", "source": "https://en.wikipedia.org/wiki/Doug_Jones_(politician)"},
+   "immigration": {"score": 30, "evidence": "Supported a path to citizenship for DACA recipients as senator.", "source": "https://en.wikipedia.org/wiki/Doug_Jones_(politician)"},
+   "foreign": {"score": 70, "evidence": "Senate record supported traditional alliances and defense commitments.", "source": "https://en.wikipedia.org/wiki/Doug_Jones_(politician)"},
+   "energy": {"score": 50, "evidence": "Senate record and statements took a middle course on climate and energy policy.", "source": "https://en.wikipedia.org/wiki/Doug_Jones_(politician)"},
+   "tech": {"score": 80, "evidence": "Calls for a one-year moratorium on new data centers and more oversight of them.", "source": "https://www.dougjones.com/priorities"},
+   "education": {"score": 70, "evidence": "Proposes lottery revenue for education and expanded community college access.", "source": "https://www.dougjones.com/priorities"},
+   "faith": null
+  },
+  "photo": {"file": "File:Senator Doug Jones official photo (1).jpg", "license": "Public domain", "author": "U.S. Senate Photographic Studio-Renee Bouchard"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AK-SEN/dan-s-sullivan",
+  "name": "Dan S. Sullivan",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Alaska",
+  "bio": "Dan Sullivan has represented Alaska in the U.S. Senate since 2015. He previously served as Alaska Attorney General, Commissioner of Natural Resources, and Assistant Secretary of State for Economic, Energy and Business Affairs. He is a Marine Corps Reserve officer and was born in Ohio.",
+  "website": "",
+  "social": {"x": "https://x.com/SenDanSullivan", "instagram": "https://www.instagram.com/sen_dansullivan", "facebook": "https://www.facebook.com/SenDanSullivan"},
+  "platform": [
+   {"topic": "Energy costs", "point": "Has secured federal energy cost relief funding for Alaska households.", "source": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-secures-additional-10-million-in-energy-cost-relief-for-alaskans/"},
+   {"topic": "Fisheries", "point": "Seeks sanctions on China's illegal, unreported and unregulated fishing fleet.", "source": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-and-cruz-lead-letter-urging-sanctions-on-chinas-illegal-unreported-and-unregulated-fishing-fleet/"},
+   {"topic": "Online safety", "point": "Backs legislation to protect young people online and hold Big Tech accountable.", "source": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-commerce-committee-advance-legislation-to-protect-youth-online-demand-accountability-from-big-tech/"},
+   {"topic": "Coast Guard", "point": "Pushes for new icebreakers homeported in Alaska.", "source": "https://www.sullivan.senate.gov/newsroom/press-releases/fourth-icebreaker-announced-for-alaska-two-to-be-homeported-in-kodiak-one-in-seward/"},
+   {"topic": "Opioids", "point": "Runs a fentanyl awareness campaign focused on counterfeit pills.", "source": "https://www.sullivan.senate.gov/newsroom/one-pill-can-kill/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Voted for the 2025 tax law.", "source": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)"},
+   "welfare": {"score": 35, "evidence": "Voted to repeal the Affordable Care Act.", "source": "https://www.ontheissues.org/Senate/Dan_Sullivan.htm"},
+   "liberty": {"score": 45, "evidence": "Backs a 20-week abortion ban but supports gun rights and leaving marijuana policy to states.", "source": "https://www.ontheissues.org/Senate/Dan_Sullivan.htm"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Supports building a border wall.", "source": "https://www.ontheissues.org/Senate/Dan_Sullivan.htm"},
+   "foreign": {"score": 85, "evidence": "Favors strong alliances and opposed limits on presidential war powers regarding Iran.", "source": "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)"},
+   "energy": {"score": 5, "evidence": "Backs expanded drilling in ANWR and the National Petroleum Reserve-Alaska.", "source": "https://www.adn.com/politics/2026/08/27/sullivan-peltola-debate-energy-issues-in-closely-watched-us-senate-race/"},
+   "tech": {"score": 60, "evidence": "Advanced committee legislation to protect youth online and increase Big Tech accountability.", "source": "https://www.sullivan.senate.gov/newsroom/press-releases/sullivan-commerce-committee-advance-legislation-to-protect-youth-online-demand-accountability-from-big-tech/"},
+   "education": null,
+   "faith": {"score": 70, "evidence": "Record supports religious liberty measures.", "source": "https://www.ontheissues.org/Senate/Dan_Sullivan.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not found; social links are official Senate accounts. Ballot name includes middle initial S."
+ },
+ {
+  "id": "AK-SEN/mary-peltola",
+  "name": "Mary Peltola",
+  "party": "Democratic",
+  "current_role": "Former U.S. Representative for Alaska's at-large district",
+  "bio": "Mary Peltola represented Alaska's at-large congressional district from 2022 to 2025, the first Alaska Native elected to Congress. She earlier served in the Alaska House of Representatives and led the Kuskokwim River Inter-Tribal Fish Commission. She grew up fishing on the Kuskokwim River in southwest Alaska.",
+  "website": "https://marypeltola.com",
+  "social": {"x": "https://x.com/MaryPeltola", "instagram": "https://www.instagram.com/marypeltola/", "facebook": "https://www.facebook.com/marypeltola", "tiktok": "https://www.tiktok.com/@mary_peltola"},
+  "platform": [
+   {"topic": "Affordability", "point": "Focuses on lowering grocery and living costs, especially in rural Alaska.", "source": "https://marypeltola.com/affordability/"},
+   {"topic": "Energy", "point": "Wants permitting reform, in-state refining and the Alaska LNG pipeline, plus restored renewable energy tax credits.", "source": "https://marypeltola.com/energy/"},
+   {"topic": "Fisheries", "point": "Aims to protect fish stocks and restore declining salmon returns.", "source": "https://marypeltola.com/fish/"},
+   {"topic": "Government reform", "point": "Says she will put Alaska ahead of partisan interests in Washington.", "source": "https://marypeltola.com/fixing-system/"},
+   {"topic": "Veterans", "point": "Pledges support for veterans and servicemembers.", "source": "https://marypeltola.com/veterans/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Emphasizes federal action on cost of living and expanded energy assistance programs.", "source": "https://marypeltola.com/energy/"},
+   "welfare": {"score": 70, "evidence": "Supports Medicaid expansion and expanding low-income energy assistance.", "source": "https://en.wikipedia.org/wiki/Mary_Peltola"},
+   "liberty": {"score": 20, "evidence": "Supports abortion rights, gun rights and same-sex marriage protections.", "source": "https://en.wikipedia.org/wiki/Mary_Peltola"},
+   "security": null,
+   "immigration": {"score": 55, "evidence": "Voted to deport migrants who assault police officers.", "source": "https://en.wikipedia.org/wiki/Mary_Peltola"},
+   "foreign": {"score": 55, "evidence": "Supported Ukraine aid and limits on presidential war powers regarding Iran.", "source": "https://en.wikipedia.org/wiki/Mary_Peltola"},
+   "energy": {"score": 30, "evidence": "Backs ANWR drilling and Alaska LNG while also seeking restored renewable tax credits.", "source": "https://www.adn.com/politics/2026/08/27/sullivan-peltola-debate-energy-issues-in-closely-watched-us-senate-race/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Mary Peltola Congressional Member Portrait (2).jpeg", "license": "Public domain", "author": "Leah Herman, House Creative Services"},
+  "campaign_photo": "https://i0.wp.com/marypeltola.com/wp-content/uploads/2026/06/DSC01126-34.png",
+  "notes": ""
+ },
+ {
+  "id": "AK-GOV/jonathan-kreiss-tomkins",
+  "name": "Jonathan Kreiss-Tomkins",
+  "party": "Democratic",
+  "current_role": "Former Alaska state representative",
+  "bio": "Jonathan Kreiss-Tomkins represented Sitka in the Alaska House of Representatives from 2013 to 2023. He was born and raised in Sitka. He led the first-round results in the 2026 nonpartisan gubernatorial primary.",
+  "website": "https://www.jktforak.com",
+  "social": {"x": "https://x.com/jktforak", "instagram": "https://www.instagram.com/jktforak/", "facebook": "https://www.facebook.com/jktforak/"},
+  "platform": [
+   {"topic": "Education", "point": "Wants to fully fund public schools, forward-fund education budgets and raise educator pay.", "source": "https://www.jktforak.com/platform"},
+   {"topic": "Data centers and AI", "point": "Proposes a moratorium on new data centers until regulated and holding AI companies accountable in state courts.", "source": "https://www.jktforak.com/platform"},
+   {"topic": "Energy", "point": "Supports a mix of renewables, hydro and natural gas and required cooperation among Railbelt utilities.", "source": "https://www.jktforak.com/platform"},
+   {"topic": "Healthcare", "point": "Would keep Medicaid expansion, expand telehealth and act to lower prescription drug costs.", "source": "https://www.jktforak.com/platform"},
+   {"topic": "Budget", "point": "Would require all oil producers to pay corporate income tax and constitutionally protect the Permanent Fund.", "source": "https://www.jktforak.com/platform"},
+   {"topic": "Housing", "point": "Plans to release state land for housing, ease building rules and tax vacant second homes.", "source": "https://www.jktforak.com/platform"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Backs raising corporate income tax revenue from oil and gas companies and says a broad-based tax is likely needed to balance the budget.", "source": "https://www.adn.com/politics/2026/08/26/alaska-gubernatorial-candidates-lay-out-competing-visions-as-ballots-are-counted/"},
+   "welfare": {"score": 60, "evidence": "Platform keeps Medicaid expansion and expands home-care options for seniors and people with disabilities.", "source": "https://www.jktforak.com/platform"},
+   "liberty": {"score": 20, "evidence": "Platform defends abortion and contraception access and protections against discrimination.", "source": "https://www.jktforak.com/platform"},
+   "security": {"score": 25, "evidence": "Platform would ban Flock-style mass-surveillance camera systems and block federal access to voter data.", "source": "https://www.jktforak.com/platform"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 60, "evidence": "Platform funds renewable projects while also supporting a natural gas pipeline.", "source": "https://www.jktforak.com/platform"},
+   "tech": {"score": 80, "evidence": "Platform calls for a data-center moratorium, AI accountability and disclosure of AI political ads.", "source": "https://www.jktforak.com/platform"},
+   "education": {"score": 95, "evidence": "Supports public money only for public schools and full school funding.", "source": "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Wikipedia infobox image was taken from the campaign website with an unknown author and no recorded permission, so it was not used."
+ },
+ {
+  "id": "AK-GOV/bernadette-wilson",
+  "name": "Bernadette Wilson",
+  "party": "Republican",
+  "current_role": "Talk radio host and small-business owner",
+  "bio": "Bernadette Wilson is a talk radio and television host who founded a commercial waste management company in 2016. She has worked for conservative political organizations and campaigns, including as a senior advisor to Nick Begich's congressional campaign, and has not held elected office. She was born on the Kenai Peninsula and raised in Anchorage.",
+  "website": "https://bernadetteforgovernor.com",
+  "social": {"x": "https://x.com/bernadette4gov/", "instagram": "https://www.instagram.com/bernadette4gov/", "facebook": "https://www.facebook.com/profile.php?id=61576342616127", "tiktok": "https://www.tiktok.com/@bernadette4gov", "youtube": "https://www.youtube.com/@Bernadette4gov/"},
+  "platform": [
+   {"topic": "Resource development", "point": "Promises action on AKLNG, NPR-A, ANWR, Willow and Ambler Road projects.", "source": "https://bernadetteforgovernor.com/"},
+   {"topic": "Permanent Fund Dividend", "point": "Wants to restore the full statutory dividend to Alaskans.", "source": "https://bernadetteforgovernor.com/on-the-issues/"},
+   {"topic": "Education", "point": "Criticizes the current per-student funding formula and urges Alaska to consider education savings accounts and backpack funding.", "source": "https://bernadetteforgovernor.com/on-the-issues/"},
+   {"topic": "Taxes and budget", "point": "Opposes new oil taxes and broad-based taxes, arguing regulatory reform and new resource projects can close the budget gap.", "source": "https://www.adn.com/politics/2026/08/26/alaska-gubernatorial-candidates-lay-out-competing-visions-as-ballots-are-counted/"},
+   {"topic": "Fisheries", "point": "Aims to ensure sustainable salmon runs.", "source": "https://bernadetteforgovernor.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Opposes new oil or broad-based taxes and favors regulatory reform and resource development to close the deficit.", "source": "https://www.adn.com/politics/2026/08/26/alaska-gubernatorial-candidates-lay-out-competing-visions-as-ballots-are-counted/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 5, "evidence": "Backs ANWR, Willow, NPR-A and other oil and gas development.", "source": "https://bernadetteforgovernor.com/"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Urges consideration of education savings accounts and funding that follows the student.", "source": "https://bernadetteforgovernor.com/on-the-issues/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://bernadetteforgovernor.com/wp-content/uploads/2025/06/bernadette-with-truck-892x1024.jpg",
+  "notes": "No freely licensed portrait found."
+ },
+ {
+  "id": "AK-GOV/dave-bronson",
+  "name": "Dave Bronson",
+  "party": "Republican",
+  "current_role": "Former Mayor of Anchorage",
+  "bio": "Dave Bronson served as Mayor of Anchorage from 2021 to 2024. He is a former U.S. Air Force pilot and has lived in Alaska for more than 30 years. His campaign emphasizes his executive experience during the COVID-19 period.",
+  "website": "https://davebronson.com",
+  "social": {"x": "https://x.com/alaska4bronson", "instagram": "https://instagram.com/bronsonforgovernor", "facebook": "https://facebook.com/bronsonforgovernor", "tiktok": "https://tiktok.com/@bronsonforgovernor", "youtube": "https://youtube.com/@bronsonforgovernor"},
+  "platform": [
+   {"topic": "Economy", "point": "Wants to develop natural resources to create jobs and fund the state without raising taxes.", "source": "https://davebronson.com/"},
+   {"topic": "Infrastructure", "point": "Plans to build roads, bridges and ports, citing his Port of Alaska funding work.", "source": "https://davebronson.com/"},
+   {"topic": "Housing", "point": "Would make more state land available to lower housing costs.", "source": "https://davebronson.com/"},
+   {"topic": "Education", "point": "Would cut school bureaucracy, focus on core academics and restore parental authority.", "source": "https://davebronson.com/"},
+   {"topic": "Permanent Fund Dividend", "point": "Wants the dividend distributed as originally intended.", "source": "https://davebronson.com/"},
+   {"topic": "Government reform", "point": "Promises more transparency and less bureaucracy in state government.", "source": "https://davebronson.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Opposes new oil and broad-based taxes and favors regulatory reform.", "source": "https://www.adn.com/politics/2026/08/26/alaska-gubernatorial-candidates-lay-out-competing-visions-as-ballots-are-counted/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 10, "evidence": "Campaign centers the economy on oil, gas and mineral development.", "source": "https://davebronson.com/"},
+   "tech": {"score": 20, "evidence": "Supports AI data-center development as competitively necessary.", "source": "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle"},
+   "education": {"score": 5, "evidence": "Backs a constitutional amendment letting school funding follow the child to private schools.", "source": "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle"},
+   "faith": null
+  },
+  "photo": {"file": "File:Dave bronson (cropped).jpg", "license": "CC BY-SA 3.0", "author": "RadioKAOS"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68def31ea843886c5ba2599d/93c2fae3-f91e-453e-9a17-be3e23f12673/dave-bronson-anchorage-museum-governor-portrait.jpg",
+  "notes": ""
+ },
+ {
+  "id": "AK-GOV/treg-taylor",
+  "name": "Treg Taylor",
+  "party": "Republican",
+  "current_role": "Former Alaska Attorney General",
+  "bio": "Treg Taylor served as Alaska Attorney General from 2021 to 2025 after working as deputy attorney general for the civil division. He previously practiced law in Anchorage and graduated from Brigham Young University. He lives in Anchorage and co-owns a small business.",
+  "website": "https://tregforak.com",
+  "social": {"x": "https://x.com/tregtaylorak", "instagram": "https://www.instagram.com/tregtaylorak/", "facebook": "https://www.facebook.com/profile.php?id=61579342770173", "tiktok": "https://www.tiktok.com/@tregtaylor", "youtube": "https://www.youtube.com/@TregTaylor-ak"},
+  "platform": [
+   {"topic": "Energy", "point": "Wants to expand pipelines and resource development to lower power costs.", "source": "https://tregforak.com/"},
+   {"topic": "Economy", "point": "Would cut red tape and reform permitting to attract investment.", "source": "https://tregforak.com/"},
+   {"topic": "Fisheries", "point": "Aims to restore salmon runs and end destructive ocean practices.", "source": "https://tregforak.com/"},
+   {"topic": "Federal overreach", "point": "Pledges to resist federal mandates on land use and guns.", "source": "https://tregforak.com/"},
+   {"topic": "Public safety", "point": "Would continue crime policies his campaign credits with low crime rates.", "source": "https://tregforak.com/"},
+   {"topic": "Education", "point": "Supports vouchers and letting school funding follow the child.", "source": "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Opposes the 2024 minimum wage and paid leave law as government overreach.", "source": "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle"},
+   "welfare": null,
+   "liberty": {"score": 55, "evidence": "Guns: joined a multistate suit against the ATF pistol-brace rule; LGBTQ: challenged federal Title IX rules expanding transgender protections.", "source": "https://law.alaska.gov/press/releases/2023/021423-PistolBrace.html"},
+   "security": {"score": 65, "evidence": "Campaign stresses tough crime policy, including murder charges for fentanyl dealers.", "source": "https://tregforak.com/"},
+   "immigration": {"score": 75, "evidence": "As attorney general joined a multistate suit to stop a federal parole program for migrants from four countries.", "source": "https://law.alaska.gov/press/releases/2023/012623-Immigration.html"},
+   "foreign": null,
+   "energy": {"score": 5, "evidence": "Campaign calls for energy dominance through pipeline and resource expansion, including Willow.", "source": "https://tregforak.com/"},
+   "tech": {"score": 60, "evidence": "As attorney general joined a 40-state privacy settlement with Google over location tracking.", "source": "https://law.alaska.gov/press/releases/2022/111522-Google.html"},
+   "education": {"score": 5, "evidence": "Supports vouchers and a constitutional amendment for funding to follow the child.", "source": "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://tregforak.com/wp-content/uploads/Treg-1.jpg",
+  "notes": "Taylor was briefly disqualified over financial disclosures before the decision was reversed on September 4, placing him on the general ballot. His tech score reflects the multistate Google privacy settlement, though he also supports data-center development."
+ },
+ {
+  "id": "AZ-GOV/katie-hobbs",
+  "name": "Katie Hobbs",
+  "party": "Democratic",
+  "current_role": "Governor of Arizona",
+  "bio": "Katie Hobbs has been Governor of Arizona since 2023. She previously served as Arizona Secretary of State, in the Arizona Senate including as minority leader, and in the Arizona House. Before politics she was a social worker and domestic violence services executive, and she is a Phoenix native.",
+  "website": "https://katiehobbs.org",
+  "social": {"x": "https://x.com/katiehobbs", "instagram": "https://www.instagram.com/katie4az", "facebook": "https://www.facebook.com/hobbskatie", "youtube": "https://www.youtube.com/@KatieHobbsAZ"},
+  "platform": [
+   {"topic": "Abortion", "point": "Signed repeal of Arizona's 1864 abortion ban and supports abortion access up to viability.", "source": "https://en.wikipedia.org/wiki/Katie_Hobbs"},
+   {"topic": "Border", "point": "Deployed the National Guard to the border while vetoing state-level immigration enforcement bills.", "source": "https://www.kjzz.org/politics/2026-02-26/arizona-gov-katie-hobbs-vetoed-these-bills-in-2026"},
+   {"topic": "Education", "point": "Vetoed expansions of private school tax-credit scholarships.", "source": "https://www.kjzz.org/politics/2026-02-26/arizona-gov-katie-hobbs-vetoed-these-bills-in-2026"},
+   {"topic": "Nondiscrimination", "point": "Issued orders barring discrimination based on sexual orientation and gender identity in state contracting.", "source": "https://en.wikipedia.org/wiki/Katie_Hobbs"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Vetoed Republican tax conformity legislation.", "source": "https://www.kjzz.org/politics/2026-02-26/arizona-gov-katie-hobbs-vetoed-these-bills-in-2026"},
+   "welfare": null,
+   "liberty": {"score": 25, "evidence": "Signed abortion-ban repeal, issued LGBTQ nondiscrimination orders, and vetoed concealed-carry expansion.", "source": "https://en.wikipedia.org/wiki/Katie_Hobbs"},
+   "security": {"score": 40, "evidence": "Deployed Guard to the border but vetoed expanded state enforcement powers.", "source": "https://www.kjzz.org/politics/2026-02-26/arizona-gov-katie-hobbs-vetoed-these-bills-in-2026"},
+   "immigration": {"score": 35, "evidence": "Vetoed state immigration enforcement bills while deploying the National Guard to the border.", "source": "https://en.wikipedia.org/wiki/Katie_Hobbs"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 80, "evidence": "Vetoed tax-credit scholarship expansion for private schools.", "source": "https://www.kjzz.org/politics/2026-02-26/arizona-gov-katie-hobbs-vetoed-these-bills-in-2026"},
+   "faith": null
+  },
+  "photo": {"file": "File:Katie Hobbs 2026.jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"},
+  "campaign_photo": "",
+  "notes": "Campaign site lists no detailed issues page; platform drawn from her record as governor."
+ },
+ {
+  "id": "AZ-GOV/andy-biggs",
+  "name": "Andy Biggs",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AZ-5",
+  "bio": "Andy Biggs has represented Arizona's 5th congressional district since 2017 and chaired the House Freedom Caucus from 2019 to 2022. He previously served in the Arizona Legislature, including as President of the Arizona Senate. He is an attorney who has lived in the East Valley for decades.",
+  "website": "https://biggsforarizona.com",
+  "social": {"x": "https://x.com/RepAndyBiggsAZ", "instagram": "https://www.instagram.com/repandybiggs", "facebook": "https://www.facebook.com/RepAndyBiggs"},
+  "platform": [
+   {"topic": "Affordability", "point": "Wants to grow the economy and cut taxes to lower costs for families and businesses.", "source": "https://biggsforarizona.com/issues/"},
+   {"topic": "Public safety", "point": "Plans to secure the southern border and fund public safety with law enforcement.", "source": "https://biggsforarizona.com/issues/"},
+   {"topic": "Energy", "point": "Would expand reliable energy sources to reduce utility and gas prices.", "source": "https://biggsforarizona.com/issues/"},
+   {"topic": "Water", "point": "Seeks water and land policy that supports growth and housing.", "source": "https://biggsforarizona.com/issues/"},
+   {"topic": "School and health choice", "point": "Wants Arizonans to make their own education and health decisions.", "source": "https://biggsforarizona.com/issues/"},
+   {"topic": "Elections", "point": "Supports faster election procedures and voter verification.", "source": "https://biggsforarizona.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Campaign calls for lower taxes and deregulation.", "source": "https://biggsforarizona.com/issues/"},
+   "welfare": {"score": 15, "evidence": "House record favors cutting federal program spending.", "source": "https://en.wikipedia.org/wiki/Andy_Biggs"},
+   "liberty": {"score": 90, "evidence": "Opposes elective abortion and the Obergefell same-sex marriage ruling.", "source": "https://en.wikipedia.org/wiki/Andy_Biggs"},
+   "security": {"score": 40, "evidence": "Opposed FISA surveillance reauthorization while backing border and police funding.", "source": "https://en.wikipedia.org/wiki/Andy_Biggs"},
+   "immigration": {"score": 95, "evidence": "Campaign prioritizes securing the southern border.", "source": "https://biggsforarizona.com/issues/"},
+   "foreign": {"score": 15, "evidence": "Voted against Ukraine aid and NATO expansion.", "source": "https://en.wikipedia.org/wiki/Andy_Biggs"},
+   "energy": {"score": 5, "evidence": "Opposes the Paris climate agreement and backs expanding conventional energy supply.", "source": "https://en.wikipedia.org/wiki/Andy_Biggs"},
+   "tech": {"score": 20, "evidence": "Coverage of his agenda favors a light regulatory approach.", "source": "https://ktar.com/arizona-politics-news/election/andy-biggs-issues"},
+   "education": {"score": 5, "evidence": "Campaign supports school choice.", "source": "https://biggsforarizona.com/issues/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Social links are official House accounts; campaign accounts were not listed on the issues page."
+ }
+]

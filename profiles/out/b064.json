@@ -1,0 +1,908 @@
+[
+ {
+  "id": "NV-4/cody-whipple",
+  "name": "Cody Whipple",
+  "party": "Republican",
+  "current_role": "Rancher and small-business owner",
+  "bio": "Cody Whipple is a fourth-generation Nevadan from Hiko who runs his family's cattle operation. He built a digital two-way communications network business serving first responders over about 25 years, and played football at Virginia Tech, where he studied animal science. He has not previously held elected office.",
+  "website": "https://codyk4congress.com/",
+  "social": {
+   "x": "https://x.com/codyk4congress",
+   "instagram": "https://www.instagram.com/codykforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61575943587060"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Lower everyday costs for housing, healthcare, groceries and energy.",
+    "source": "https://codyk4congress.com/issues/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "End federal taxes on tips and defend overtime pay for working families.",
+    "source": "https://codyk4congress.com/issues/"
+   },
+   {
+    "topic": "Safety net",
+    "point": "Protect Medicaid and Social Security by rooting out waste and fraud.",
+    "source": "https://codyk4congress.com/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand quality education and career pathways for every Nevada student.",
+    "source": "https://codyk4congress.com/issues/"
+   },
+   {
+    "topic": "Independence",
+    "point": "Vote on Nevadans' needs rather than party leadership instructions.",
+    "source": "https://codyk4congress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Proposes eliminating taxes on tips as his main tax measure.",
+    "source": "https://codyk4congress.com/issues/"
+   },
+   "welfare": {
+    "score": 45,
+    "evidence": "Pledges to protect Medicaid and Social Security while cutting waste and fraud.",
+    "source": "https://codyk4congress.com/issues/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://codyk4congress.com/wp-content/uploads/2025/11/cody-k-whipple-republican-for-congress.webp",
+  "notes": "Ballot name may appear as Cody K. Whipple; biography comes from his campaign site only. His issues page does not address guns, abortion or school choice, so those domains were left unscored."
+ },
+ {
+  "id": "NH-1/stefany-shaheen",
+  "name": "Stefany Shaheen",
+  "party": "Democratic",
+  "current_role": "Former Portsmouth city councilor",
+  "bio": "Stefany Shaheen is from Portsmouth, New Hampshire, where she previously served on the city council. She won the 2026 Democratic nomination for New Hampshire's 1st congressional district.",
+  "website": "https://stefanyshaheen.com/",
+  "social": {
+   "x": "https://x.com/Stefany4NH",
+   "instagram": "https://www.instagram.com/stefanyshaheennh/",
+   "facebook": "https://www.facebook.com/StefanyAShaheen",
+   "tiktok": "https://www.tiktok.com/@shaheeninthehouse",
+   "youtube": "https://www.youtube.com/channel/UC8Pm1wGGBDTOByU864aR28A"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Back Medicare for All with a public option, curb drug price gouging and add dental, vision and hearing coverage.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   {
+    "topic": "Housing",
+    "point": "End tax breaks for Wall Street home buyers, help first-time buyers and cut construction red tape.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   {
+    "topic": "Immigration enforcement",
+    "point": "Require ICE body cameras, ban agent masks and warrantless searches, and end raids at schools, churches and hospitals.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Defend access to abortion and reproductive care.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Grow local clean energy, upgrade the grid and retrofit homes to cut utility bills.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   {
+    "topic": "Tariffs",
+    "point": "Roll back the Trump tariffs and refund affected small businesses.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Wants to end corporate tax breaks for investor home purchases and break up corporate monopolies.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Supports Medicare for All with a public option and expanded Medicare benefits.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   "liberty": {
+    "score": 10,
+    "evidence": "Pledges to fight for abortion access and reproductive rights (abortion).",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   "security": {
+    "score": 25,
+    "evidence": "Calls for ICE body cameras, a mask ban and an end to warrantless searches.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Opposes ICE raids at schools, churches and hospitals and ICE facilities in New Hampshire.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 75,
+    "evidence": "Wants more local clean energy and less dependence on fossil fuels.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Would bar AI from making health coverage decisions without doctors.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   },
+   "education": null,
+   "faith": {
+    "score": 55,
+    "evidence": "Supports removing barriers to religious organizations taking part in federal housing programs.",
+    "source": "https://stefanyshaheen.com/priorities/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "https://stefanyshaheen.com/wp-content/uploads/2025/10/issues_desktop.jpg",
+  "notes": "The Commons photo was taken from a social-media post, so it was not used."
+ },
+ {
+  "id": "NH-1/anthony-dilorenzo",
+  "name": "Anthony DiLorenzo",
+  "party": "Republican",
+  "current_role": "Entrepreneur",
+  "bio": "Anthony DiLorenzo is a New Hampshire entrepreneur and the 2026 Republican nominee for the state's 1st congressional district. His campaign describes early jobs in restaurants and a family history of immigrants who arrived through Ellis Island. He has not previously held federal office.",
+  "website": "https://dilorenzoforcongress.com/",
+  "social": {
+   "x": "https://x.com/DiLorenzo4NH",
+   "instagram": "https://www.instagram.com/dilorenzo4nh/",
+   "facebook": "https://www.facebook.com/profile.php?id=61581636031540"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Keep the 2017 tax cuts and end taxes on tips, overtime and Social Security.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   {
+    "topic": "Budget",
+    "point": "Support a constitutional balanced budget amendment.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   {
+    "topic": "Border",
+    "point": "Secure both the southern and northern borders against illegal crossings, drugs and trafficking.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue energy independence using all sources without subsidies.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Oppose federal abortion legislation and defer to New Hampshire law.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   {
+    "topic": "China",
+    "point": "Counter Chinese technology theft, currency practices and infrastructure purchases.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Wants to protect the 2017 tax cuts and pass a balanced budget amendment.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   "welfare": {
+    "score": 45,
+    "evidence": "Fully supports Social Security and Medicare while seeking affordable health care.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Opposes a federal abortion law (abortion) and defends gun ownership (guns), while backing sex-based limits in women's sports (LGBTQ).",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Fully supports police and first responders and election security measures.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   "immigration": {
+    "score": 60,
+    "evidence": "Prioritises border security on both borders alongside common-sense immigration reform.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   "foreign": {
+    "score": 50,
+    "evidence": "Backs peace efforts in Ukraine and the Middle East and rebuilding the military.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   "energy": {
+    "score": 30,
+    "evidence": "Wants energy independence from all sources without subsidies.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   "tech": {
+    "score": 30,
+    "evidence": "Calls for clear, common-sense crypto regulation rather than restrictive rules.",
+    "source": "https://dilorenzoforcongress.com/issues/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Little independent biographical coverage was found; background comes from his campaign site."
+ },
+ {
+  "id": "NH-2/maggie-goodlander",
+  "name": "Maggie Goodlander",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NH-2",
+  "bio": "Maggie Goodlander of Nashua has represented New Hampshire's 2nd district since January 2025. She was a Navy Reserve intelligence officer, a foreign policy adviser to Senators Joe Lieberman and John McCain, a clerk for Merrick Garland and Justice Stephen Breyer, and later a House Judiciary counsel, Justice Department attorney and White House adviser. She holds degrees from Yale and Yale Law School.",
+  "website": "https://maggiefornh.com/",
+  "social": {
+   "x": "https://x.com/RepGoodlander",
+   "instagram": "https://www.instagram.com/repgoodlander",
+   "facebook": "https://www.facebook.com/61571606604866"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Make childcare, elder care and housing affordable and give tax breaks to working families.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Protect Social Security, Medicare and the ACA and take on insurers and drug companies.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Defend access to abortion, contraception and IVF.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Back a bipartisan framework pairing border security with a path to citizenship.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Make the U.S. a clean energy leader and close fossil fuel tax loopholes.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   {
+    "topic": "Technology",
+    "point": "Update laws on AI and data to protect workers, consumers and competition.",
+    "source": "https://maggiefornh.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Wants to fight corporate monopolies, raise the minimum wage and target tax breaks to working families.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Calls health care a right and seeks affordable childcare and elder care.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports access to abortion, contraception and IVF (abortion).",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports a path to citizenship combined with border security.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 80,
+    "evidence": "Wants a clean energy economy and an end to fossil fuel tax loopholes.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Calls for modernised AI and data laws addressing exploitation and monopolies.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Opposes book bans and backs public school teachers and students.",
+    "source": "https://maggiefornh.com/priorities/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NH-2/lily-tang-williams",
+  "name": "Lily Tang Williams",
+  "party": "Republican",
+  "current_role": "Business owner and 2024 Republican nominee for NH-2",
+  "bio": "Lily Tang Williams was born in Chengdu, China, and became a U.S. citizen in 1994. She worked as a social worker, a Walmart executive in China and a business consultant, and has run a rental property company since 2009. She chaired the Colorado Libertarian Party in 2015, ran for the U.S. Senate as a Libertarian in 2016, and was the Republican nominee for New Hampshire's 2nd district in 2024.",
+  "website": "https://www.lilytangwilliams.com/",
+  "social": {
+   "x": "https://twitter.com/Lily4Liberty",
+   "instagram": "https://www.instagram.com/lilytangwilliams/",
+   "facebook": "https://www.facebook.com/lilytangwilliams",
+   "youtube": "https://www.youtube.com/channel/UCDPh5TTtWO5PBxJadJbGN_Q"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Remove government restrictions and subsidies and pay down the national debt.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Pass national constitutional carry and oppose gun-free zones.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   {
+    "topic": "Border",
+    "point": "Secure the border and detain and return those who cross illegally, while keeping legal immigration.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Abolish the federal Department of Education in favour of local and parental control.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Allow use of all energy sources, from nuclear and oil to solar and wind.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   {
+    "topic": "Free speech",
+    "point": "Oppose censorship arising from government coordination with Big Tech.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Wants to remove government restrictions and subsidies to let markets compete.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 10,
+    "evidence": "Backs national constitutional carry (guns) and opposes online censorship (speech).",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Left the Republican Party in 2008 partly over the Patriot Act.",
+    "source": "https://en.wikipedia.org/wiki/Lily_Tang_Williams"
+   },
+   "immigration": {
+    "score": 65,
+    "evidence": "Supports legal immigration but wants illegal crossers detained and sent back, plus border barriers.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Stresses America-first priorities, formal war declarations and rejecting international bodies' authority.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Advocates energy freedom across all sources rather than restrictions.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Wants to abolish the federal Department of Education and expand parental control.",
+    "source": "https://www.lilytangwilliams.com/congress/issues/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Lily Tang Williams by Gage Skidmore.jpg",
+   "license": "CC BY-SA 3.0",
+   "author": "Gage Skidmore"
+  },
+  "campaign_photo": "https://www.lilytangwilliams.com/wp-content/uploads/2022/01/lily-tang-williams-homepage.png",
+  "notes": ""
+ },
+ {
+  "id": "NH-2/robbie-mahrou",
+  "name": "Robbie Mahrou",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Robbie Mahrou is an independent candidate for New Hampshire's 2nd congressional district in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue statements were found; the name spelling could not be checked against the ballot."
+ },
+ {
+  "id": "NJ-1/donald-norcross",
+  "name": "Donald Norcross",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NJ-1",
+  "bio": "Donald Norcross of Camden has represented New Jersey's 1st district since 2014 and serves on the Armed Services and Education and Workforce committees. He began as an electrician apprentice in the IBEW, became a Local 351 official and led the Southern New Jersey AFL-CIO Central Labor Council for 16 years. He served in the New Jersey General Assembly and State Senate from 2009 to 2014.",
+  "website": "https://www.donaldnorcrossforcongress.com/",
+  "social": {
+   "x": "https://x.com/DonaldNorcross",
+   "instagram": "https://www.instagram.com/donald_norcross",
+   "facebook": "https://www.facebook.com/DonaldNorcrossNJ"
+  },
+  "platform": [
+   {
+    "topic": "Wages and jobs",
+    "point": "Raise wages and grow jobs for American workers.",
+    "source": "https://www.donaldnorcrossforcongress.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Lower prescription costs, keep pre-existing condition protections and treat addiction as a public health issue.",
+    "source": "https://www.donaldnorcrossforcongress.com/issue/improving-health-care/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Invest in renewable energy and oppose offshore drilling off New Jersey.",
+    "source": "https://www.donaldnorcrossforcongress.com/issue/protecting-the-environment/"
+   },
+   {
+    "topic": "Education",
+    "point": "Make higher education and career training more accessible and affordable.",
+    "source": "https://www.donaldnorcrossforcongress.com/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Support service members and veterans.",
+    "source": "https://www.donaldnorcrossforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Backs raising the estate tax and higher taxes on the wealthy, and campaigns on raising wages.",
+    "source": "https://www.ontheissues.org/NJ/Donald_Norcross.htm"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Supports expanded affordable coverage and lower drug costs.",
+    "source": "https://www.donaldnorcrossforcongress.com/issue/improving-health-care/"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Supports abortion rights (abortion) but also universal background checks (guns).",
+    "source": "https://www.ontheissues.org/NJ/Donald_Norcross.htm"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Supports a path to citizenship, including for DREAMers through military service.",
+    "source": "https://www.ontheissues.org/NJ/Donald_Norcross.htm"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 75,
+    "evidence": "Backs renewable investment and opposes offshore drilling.",
+    "source": "https://www.donaldnorcrossforcongress.com/issue/protecting-the-environment/"
+   },
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Opposes school vouchers and supports public schools and free community college.",
+    "source": "https://www.ontheissues.org/NJ/Donald_Norcross.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NJ-1/damon-galdo",
+  "name": "Damon Galdo",
+  "party": "Republican",
+  "current_role": "Union carpenter",
+  "bio": "Damon Galdo is a union carpenter from South Jersey and the 2026 Republican nominee for New Jersey's 1st congressional district. His campaign centres on affordability, the trades and health care. He has not previously held elected office according to his campaign site.",
+  "website": "https://votedamongaldo.com/",
+  "social": {
+   "x": "https://x.com/DamonGaldoNJ",
+   "instagram": "https://www.instagram.com/damongaldonj",
+   "facebook": "https://www.facebook.com/DamonGaldo"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Cut federal spending and regulations and support American energy to lower costs.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border and strengthen federal-local cooperation on immigration enforcement.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   {
+    "topic": "Elections",
+    "point": "Require voter ID and proof of citizenship and tighten mail ballot security.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   {
+    "topic": "Parental rights",
+    "point": "Give parents curriculum access and more transparency from schools.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   {
+    "topic": "Credit card debt",
+    "point": "Temporarily cap credit card interest rates.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand health savings accounts and price transparency while keeping pre-existing condition protections.",
+    "source": "https://votedamongaldo.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Wants reduced federal spending and regulation, though he also backs a temporary credit card interest cap.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Favors health savings accounts and market competition in health care.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Calls for stronger penalties for drug traffickers (drugs); no stated positions on abortion, guns or LGBTQ issues.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Supports law enforcement and stronger penalties for violent crime.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "Wants border security and closer local cooperation with federal immigration enforcement.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 35,
+    "evidence": "Lists support for American energy as a way to lower costs.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   "tech": null,
+   "education": {
+    "score": 25,
+    "evidence": "Emphasises parental rights and curriculum transparency in schools.",
+    "source": "https://votedamongaldo.com/platform"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NJ-2/jeff-van-drew",
+  "name": "Jeff Van Drew",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NJ-2",
+  "bio": "Jeff Van Drew, a dentist, has represented New Jersey's 2nd district since 2019. He was elected as a Democrat and switched to the Republican Party in January 2020. He previously served in the New Jersey General Assembly from 2002 to 2008 and the State Senate from 2008 to 2018.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/Congressman_JVD",
+   "instagram": "https://www.instagram.com/jeffvandrew",
+   "facebook": "https://www.facebook.com/CongressmanJVD",
+   "youtube": "https://www.youtube.com/channel/UCc5AGO_bQLeiv313Bbr35fg"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Bring manufacturing back to South Jersey and support tourism, farming and fishing.",
+    "source": "https://vandrew.house.gov/issues/issue/?IssueID=14997"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Focus tax cuts on middle-class families and small businesses.",
+    "source": "https://vandrew.house.gov/issues/issue/?IssueID=14997"
+   },
+   {
+    "topic": "Energy",
+    "point": "Restore U.S. energy independence and oppose offshore wind development.",
+    "source": "https://vandrew.house.gov/issues/issue/?IssueID=10177"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Strengthen border security and require employers to verify workers' status.",
+    "source": "https://vandrew.house.gov/issues/issue/?IssueID=10360"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Support veterans and military service members.",
+    "source": "https://vandrew.house.gov/issues/issue/?IssueID=14998"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Voted for the 2025 Republican tax bill while stressing middle-class tax relief.",
+    "source": "https://en.wikipedia.org/wiki/Jeff_Van_Drew"
+   },
+   "welfare": {
+    "score": 35,
+    "evidence": "Voted for the 2025 tax-and-spending bill that included Medicaid changes.",
+    "source": "https://en.wikipedia.org/wiki/Jeff_Van_Drew"
+   },
+   "liberty": {
+    "score": 50,
+    "evidence": "Now describes himself as pro-life (abortion), has an NRA-backed record (guns) and a mixed record on same-sex marriage (LGBTQ).",
+    "source": "https://en.wikipedia.org/wiki/Jeff_Van_Drew"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Favored keeping existing police accountability rules in 2021.",
+    "source": "https://www.ontheissues.org/NJ/Jeff_Van_Drew.htm"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Prioritises border security and mandatory employer verification of workers.",
+    "source": "https://vandrew.house.gov/issues/issue/?IssueID=10360"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Voted against Ukraine aid packages.",
+    "source": "https://en.wikipedia.org/wiki/Jeff_Van_Drew"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Opposes offshore wind and seeks to make the U.S. the top energy producer again.",
+    "source": "https://vandrew.house.gov/issues/issue/?IssueID=10177"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "His official immigration page also mentions high-skilled visas and fair treatment for people brought as children, so the immigration score may overstate restrictiveness; no separate campaign website was found."
+ },
+ {
+  "id": "NJ-2/zack-mullock",
+  "name": "Zack Mullock",
+  "party": "Democratic",
+  "current_role": "Mayor of Cape May",
+  "bio": "Zack Mullock is serving his second term as mayor of Cape May, New Jersey. He is the 2026 Democratic nominee for New Jersey's 2nd congressional district, running under the slogan 'Country Over Party'. His campaign highlights his family's scholarship giving in the community.",
+  "website": "https://mullockforcongress.com/",
+  "social": {
+   "x": "https://x.com/ZMullock",
+   "instagram": "https://www.instagram.com/zmullock",
+   "facebook": "https://www.facebook.com/MullockforCongress/"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Ensure no worker pays a higher effective rate than a billionaire, via wealth taxes and higher corporate rates.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Enact Medicare for All and expand Medicare drug price negotiation.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Protect women's right to make their own medical decisions.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Expand solar and renewables and invest in coastal resiliency.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Strengthen NATO and democratic alliances while avoiding endless wars.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Support both trade schools and affordable college.",
+    "source": "https://mullockforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 90,
+    "evidence": "Proposes wealth taxes, higher corporate rates and closing offshore tax havens.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports Medicare for All funded by corporate taxes.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Supports abortion rights (abortion) and common-sense gun safety measures (guns).",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 75,
+    "evidence": "Wants stronger NATO and democratic alliances, while opposing endless wars.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Prioritises solar expansion and strict Clean Air and Water Act enforcement.",
+    "source": "https://mullockforcongress.com/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NJ-2/ramon-mora-jr",
+  "name": "Ramon Mora Jr.",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Ramon Mora Jr. is an independent candidate on the 2026 general election ballot for New Jersey's 2nd congressional district. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue statements were found; the ballot may list a slogan in place of a party."
+ },
+ {
+  "id": "NJ-3/herb-conaway",
+  "name": "Herb Conaway",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NJ-3",
+  "bio": "Herb Conaway, a physician and lawyer, has represented New Jersey's 3rd district since January 2025 and serves on the Armed Services and Veterans' Affairs committees. He served in the New Jersey General Assembly from 1998 to 2025, including as deputy speaker and majority whip. He was a captain in the U.S. Air Force Medical Corps and holds degrees from Princeton, Thomas Jefferson University and Rutgers Law School.",
+  "website": "https://www.herbforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepHerbConaway",
+   "facebook": "https://www.facebook.com/DrConaway"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Provide middle-class tax relief, including a larger Child Tax Credit and SALT deduction.",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   {
+    "topic": "Drug prices",
+    "point": "Extend state-style co-pay caps on insulin, epinephrine and inhalers nationwide.",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Codify Roe v. Wade and pass the Right to Contraception Act.",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   {
+    "topic": "Democracy",
+    "point": "Pass the John Lewis Voting Rights Act and make Election Day a federal holiday.",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   {
+    "topic": "Environment",
+    "point": "Offer tax credits for zero-emission equipment and expand EV charging.",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   {
+    "topic": "AI in health care",
+    "point": "Require physician review of AI-assisted Medicare Advantage prior-authorisation denials.",
+    "source": "https://en.wikipedia.org/wiki/Herb_Conaway"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Backs an expanded Child Tax Credit and a bill against product shrinkflation.",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Seeks national caps on co-pays for key medicines.",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports codifying Roe and a right to contraception (abortion).",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 70,
+    "evidence": "Backs zero-emission equipment tax credits and more EV charging.",
+    "source": "https://www.herbforcongress.com/issues"
+   },
+   "tech": {
+    "score": 75,
+    "evidence": "Co-sponsored a 2026 bill requiring physician review of AI-assisted coverage denials.",
+    "source": "https://en.wikipedia.org/wiki/Herb_Conaway"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "The liberty score rests only on abortion and contraception positions."
+ }
+]

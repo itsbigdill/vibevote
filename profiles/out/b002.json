@@ -1,0 +1,425 @@
+[
+ {
+  "id": "AR-SEN/tom-cotton",
+  "name": "Tom Cotton",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Arkansas",
+  "bio": "Tom Cotton has represented Arkansas in the U.S. Senate since 2015 and chairs the Senate Republican Conference and the Senate Intelligence Committee. He previously served one term in the U.S. House for Arkansas's 4th District. Raised in Yell County, he is a Harvard Law graduate who served as an Army infantry officer in Iraq and Afghanistan and later worked at McKinsey & Company.",
+  "website": "https://tomcotton.com",
+  "social": {
+   "x": "https://x.com/TomCottonAR",
+   "instagram": "https://www.instagram.com/tomcottonar/",
+   "facebook": "https://www.facebook.com/TomCottonAR/",
+   "youtube": "https://www.youtube.com/channel/UCVhTgeGOPys80LYsNwAxyUQ"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Points to authoring the RAISE Act and helping pass the Laken Riley Act to deport immigrants charged with crimes.", "source": "https://tomcotton.com/"},
+   {"topic": "Economy", "point": "Highlights his vote for middle-class tax cuts and ending Obamacare taxes on Arkansans.", "source": "https://tomcotton.com/"},
+   {"topic": "Defense", "point": "Uses his Armed Services Committee seat to bring defense investment to Arkansas sites such as Pine Bluff and Little Rock.", "source": "https://tomcotton.com/"},
+   {"topic": "Law and order", "point": "Pledges full backing for law enforcement and opposes measures that would release violent offenders.", "source": "https://tomcotton.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Campaign cites his vote for federal tax cuts and repeal of Obamacare taxes.", "source": "https://tomcotton.com/"},
+   "welfare": {"score": 10, "evidence": "Has long opposed the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Tom_Cotton"},
+   "liberty": {"score": 70, "evidence": "Supports a 20-week abortion ban and says Roe was wrongly decided and opposes same-sex marriage, while holding an A rating from the NRA on guns.", "source": "https://en.wikipedia.org/wiki/Tom_Cotton"},
+   "security": {"score": 90, "evidence": "Blocked the PRESS Act limiting government surveillance of reporters and backs broad intelligence and detention powers.", "source": "https://en.wikipedia.org/wiki/Tom_Cotton"},
+   "immigration": {"score": 95, "evidence": "Authored the RAISE Act to cut family-based legal immigration and opposes pathways to citizenship.", "source": "https://tomcotton.com/"},
+   "foreign": {"score": 85, "evidence": "Opposed the Iran nuclear deal and the withdrawal of U.S. troops from Syria, favoring an assertive U.S. posture abroad.", "source": "https://en.wikipedia.org/wiki/Tom_Cotton"},
+   "energy": {"score": 10, "evidence": "Backs more oil and gas production and signed a pledge against climate taxes.", "source": "https://www.ontheissues.org/Senate/Tom_Cotton.htm"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Favors school choice and vouchers and a smaller federal role in education.", "source": "https://www.ontheissues.org/Senate/Tom_Cotton.htm"},
+   "faith": {"score": 75, "evidence": "Supports faith-based exemptions from health care mandates and protecting religious objections to same-sex marriage.", "source": "https://www.ontheissues.org/Senate/Tom_Cotton.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AR-SEN/hallie-shoffner",
+  "name": "Hallie Shoffner",
+  "party": "Democratic",
+  "current_role": "Farmer and CEO of Delta Harvest",
+  "bio": "Hallie Shoffner is a sixth-generation Arkansas farmer and business owner who leads the agricultural company Delta Harvest. She won the 2026 Democratic primary for U.S. Senate in Arkansas and has not previously held elected office.",
+  "website": "https://www.hallieshoffner.com",
+  "social": {
+   "x": "https://x.com/hallieshoffner",
+   "instagram": "https://www.instagram.com/hallieshoffner/",
+   "facebook": "https://www.facebook.com/farmherhallie",
+   "tiktok": "https://www.tiktok.com/@hallieshoffner"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants tax cuts for working families and lower costs for groceries, childcare, housing and health care.", "source": "https://www.hallieshoffner.com/platform"},
+   {"topic": "Jobs and wages", "point": "Supports raising the minimum wage, expanding workforce training and backing union rights.", "source": "https://www.hallieshoffner.com/platform"},
+   {"topic": "Health care", "point": "Aims to protect rural hospitals, lower prescription drug prices and strengthen the Affordable Care Act.", "source": "https://www.hallieshoffner.com/platform"},
+   {"topic": "Social Security and Medicare", "point": "Would protect both programs and lift the payroll contribution cap on high earners.", "source": "https://www.hallieshoffner.com/platform"},
+   {"topic": "Agriculture", "point": "Seeks wider market access for farmers, regional food systems and crop diversification.", "source": "https://www.hallieshoffner.com/platform"},
+   {"topic": "Families", "point": "Backs affordable childcare, paid leave and efforts to reduce maternal mortality.", "source": "https://www.hallieshoffner.com/platform"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Platform calls for a higher minimum wage, stronger union rights and lifting the Social Security cap on high earners alongside family tax cuts.", "source": "https://www.hallieshoffner.com/platform"},
+   "welfare": {"score": 80, "evidence": "Platform backs affordable childcare, paid leave, a stronger ACA and expanded nutrition programs.", "source": "https://www.hallieshoffner.com/platform"},
+   "liberty": {"score": 20, "evidence": "On drugs, the platform treats addiction as a public health issue and supports harm-reduction strategies.", "source": "https://www.hallieshoffner.com/platform"},
+   "security": {"score": 40, "evidence": "Platform supports law enforcement while emphasizing community crime prevention.", "source": "https://www.hallieshoffner.com/platform"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 70, "evidence": "Platform calls for higher pay for teachers and school support staff.", "source": "https://www.hallieshoffner.com/platform"},
+   "faith": null
+  },
+  "photo": {"file": "File:Hallie Shoffner (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Arkansas Agricultural Experiment Station"},
+  "campaign_photo": "",
+  "notes": "The liberty score rests on drug policy alone; no public statements on abortion, guns or LGBTQ issues were found on the platform page."
+ },
+ {
+  "id": "AR-GOV/sarah-huckabee-sanders",
+  "name": "Sarah Huckabee Sanders",
+  "party": "Republican",
+  "current_role": "Governor of Arkansas",
+  "bio": "Sarah Huckabee Sanders has been Arkansas's 47th governor since January 2023, the first woman to hold the office. She served as White House Press Secretary under President Trump from 2017 to 2019 after years working on political campaigns. She grew up in Arkansas and graduated from Little Rock Central High School and Ouachita Baptist University.",
+  "website": "https://www.sarahforgovernor.com",
+  "social": {},
+  "platform": [
+   {"topic": "Education", "point": "Points to the LEARNS Act, which raised teacher pay and created universal school choice.", "source": "https://governor.arkansas.gov/administration/governor-sanders/"},
+   {"topic": "Taxes", "point": "Has prioritized income tax cuts to return money to Arkansans.", "source": "https://governor.arkansas.gov/administration/governor-sanders/"},
+   {"topic": "Public safety", "point": "Seeks to expand prison capacity and keep repeat offenders off the streets.", "source": "https://governor.arkansas.gov/administration/governor-sanders/"},
+   {"topic": "Outdoor economy", "point": "Promotes the Natural State Initiative to grow Arkansas's outdoor recreation economy.", "source": "https://governor.arkansas.gov/administration/governor-sanders/"},
+   {"topic": "Government reform", "point": "Aims to streamline state government and make agencies more efficient.", "source": "https://governor.arkansas.gov/administration/governor-sanders/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Has made state tax cuts a core priority of her administration.", "source": "https://governor.arkansas.gov/administration/governor-sanders/"},
+   "welfare": null,
+   "liberty": {"score": 90, "evidence": "Abortion: signed a bill allowing an anti-abortion monument on Capitol grounds; LGBTQ: ordered gender-neutral terms removed from state documents.", "source": "https://en.wikipedia.org/wiki/Sarah_Huckabee_Sanders"},
+   "security": {"score": 80, "evidence": "Pushes prison expansion and signed a law authorizing nitrogen hypoxia executions.", "source": "https://en.wikipedia.org/wiki/Sarah_Huckabee_Sanders"},
+   "immigration": {"score": 80, "evidence": "Sent Arkansas National Guard members to support Texas border operations in 2023 and 2024.", "source": "https://arkansasadvocate.com/2024/03/20/arkansas-national-guard-deploying-40-members-to-assist-texas-at-southern-u-s-border/"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 80, "evidence": "Arkansas enacted the Social Media Safety Act in 2023, requiring age verification and parental consent for minors.", "source": "https://en.wikipedia.org/wiki/Social_Media_Safety_Act"},
+   "education": {"score": 5, "evidence": "Signed the LEARNS Act creating universal Education Freedom Accounts and lifting charter school caps.", "source": "https://en.wikipedia.org/wiki/Sarah_Huckabee_Sanders"},
+   "faith": {"score": 95, "evidence": "Signed Act 573 requiring Ten Commandments displays in public schools and government buildings.", "source": "https://en.wikipedia.org/wiki/Act_573_of_Arkansas"}
+  },
+  "photo": {"file": "File:Governor Sarah Huckabee Sanders (cropped 3x4).jpg", "license": "Public domain", "author": "U.S. Embassy Jerusalem"},
+  "campaign_photo": "",
+  "notes": "The campaign site blocked access, so social accounts were not recorded."
+ },
+ {
+  "id": "AR-GOV/fredrick-love",
+  "name": "Fredrick Love",
+  "party": "Democratic",
+  "current_role": "Arkansas State Senator",
+  "bio": "Fredrick Love has represented District 15 in the Arkansas Senate since 2023 after serving in the Arkansas House from 2011 to 2023, including as minority leader from 2019 to 2021. A Little Rock native with degrees from the University of Arkansas at Little Rock, he worked for the Arkansas Foodbank and as Pulaski County's director of community services.",
+  "website": "https://www.fredlove.com",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Would lower the income tax rate from 3.7% to 2.9% for people earning $50,000 or less.", "source": "https://arktimes.com/arkansas-blog/2026/08/21/whats-love-got-to-do-with-it-a-qa-with-democratic-gubernatorial-candidate-fred-love"},
+   {"topic": "Education", "point": "Wants to end the LEARNS voucher program and return that money to public schools.", "source": "https://en.wikipedia.org/wiki/Fredrick_Love"},
+   {"topic": "Health care", "point": "Pledges to protect Arkansas's Medicaid expansion and oppose cuts to Medicaid and SNAP.", "source": "https://en.wikipedia.org/wiki/Fredrick_Love"},
+   {"topic": "Families", "point": "Proposes free school lunch and filling funding gaps in childcare vouchers.", "source": "https://arktimes.com/arkansas-blog/2026/08/21/whats-love-got-to-do-with-it-a-qa-with-democratic-gubernatorial-candidate-fred-love"},
+   {"topic": "Economy", "point": "Plans regional economic hubs across the state and support for small businesses.", "source": "https://en.wikipedia.org/wiki/Fredrick_Love"},
+   {"topic": "Prisons", "point": "Opposes the planned 3,000-bed state prison in Franklin County.", "source": "https://en.wikipedia.org/wiki/Fredrick_Love"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Proposes an income tax cut targeted at lower earners and new state-led regional economic hubs.", "source": "https://arktimes.com/arkansas-blog/2026/08/21/whats-love-got-to-do-with-it-a-qa-with-democratic-gubernatorial-candidate-fred-love"},
+   "welfare": {"score": 80, "evidence": "Opposes removing people from Medicaid and SNAP and backs free school lunch and childcare voucher funding.", "source": "https://arktimes.com/arkansas-blog/2026/08/21/whats-love-got-to-do-with-it-a-qa-with-democratic-gubernatorial-candidate-fred-love"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 90, "evidence": "Wants to stop the LEARNS voucher program, saying it moved $400 million from public to private schools.", "source": "https://arktimes.com/arkansas-blog/2026/08/21/whats-love-got-to-do-with-it-a-qa-with-democratic-gubernatorial-candidate-fred-love"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://cdn.prod.website-files.com/69c674b6188e4a37cd749738/69cb1737e8f807e3135aabac_DA427449-A662-4BE2-92ED-2C174BEEAFF2.jpeg",
+  "notes": "No Wikimedia Commons portrait was found; the campaign site lists no social media accounts."
+ },
+ {
+  "id": "AR-GOV/colt-shelby",
+  "name": "Colt Shelby",
+  "party": "Libertarian",
+  "current_role": "Farmer and oil and gas contract manager",
+  "bio": "Colt Shelby is a sixth-generation Arkansan from Cecil who runs a small family farm and has worked in the oil and gas industry for more than 20 years, starting on drilling rigs and later managing contracts. The 2026 governor's race is his first run for elected office.",
+  "website": "https://www.colt4arkansas.org",
+  "social": {
+   "instagram": "https://www.instagram.com/colt4arkansas/",
+   "facebook": "https://www.facebook.com/profile.php?id=61588556375753"
+  },
+  "platform": [
+   {"topic": "Transparency", "point": "Promises more open state government and ethics compliance at the Capitol.", "source": "https://www.colt4arkansas.org/"},
+   {"topic": "Budget and taxes", "point": "Pledges disciplined state budgeting and a lower overall tax burden.", "source": "https://www.arkansasonline.com/news/2026/feb/23/colt-shelby-opponent-of-franklin-county-prison/"},
+   {"topic": "Education", "point": "Supports public schools and opposes school voucher programs.", "source": "https://www.colt4arkansas.org/"},
+   {"topic": "Prisons", "point": "Opposes the Franklin County prison, proposing 525 beds at Calico Rock and more mental health funding instead.", "source": "https://www.arkansasonline.com/news/2026/feb/23/colt-shelby-opponent-of-franklin-county-prison/"},
+   {"topic": "Utilities", "point": "Wants utility expansion decisions to put ratepayers ahead of corporate interests.", "source": "https://www.colt4arkansas.org/"},
+   {"topic": "Agriculture", "point": "Aims to keep farms viable and strengthen rural communities.", "source": "https://www.colt4arkansas.org/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Pledges to reduce the overall tax burden and impose budget discipline.", "source": "https://www.arkansasonline.com/news/2026/feb/23/colt-shelby-opponent-of-franklin-county-prison/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 60, "evidence": "Campaign wants ratepayers protected as utilities expand for data centers.", "source": "https://www.colt4arkansas.org/"},
+   "education": {"score": 85, "evidence": "Campaign supports public education and opposes school vouchers.", "source": "https://www.colt4arkansas.org/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/69b0647edf356130a1f8b2e4/56ad9a6b-1378-44cb-9dce-c4fb3f4fe066/Screenshot+2025-03-10+at+9.24.46%E2%80%AFPM.JPEG",
+  "notes": "The tech score rests only on data-center utility concerns and is weak evidence. The campaign image file is labelled as a screenshot and may not be a formal headshot."
+ },
+ {
+  "id": "CA-GOV/xavier-becerra",
+  "name": "Xavier Becerra",
+  "party": "Democratic",
+  "current_role": "Former U.S. Secretary of Health and Human Services",
+  "bio": "Xavier Becerra served as U.S. Secretary of Health and Human Services from 2021 to 2025 and as California Attorney General from 2017 to 2021. Before that he represented Los Angeles in the U.S. House from 1993 to 2017, chairing the House Democratic Caucus, after a term in the California Assembly. Born in Sacramento, he holds economics and law degrees from Stanford.",
+  "website": "https://www.xavierbecerra2026.com",
+  "social": {
+   "x": "https://x.com/XavierBecerra",
+   "instagram": "https://www.instagram.com/becerraforgovernor",
+   "facebook": "https://www.facebook.com/becerraforgovernor",
+   "tiktok": "https://www.tiktok.com/@becerraforgovernor",
+   "youtube": "https://youtube.com/@becerraforgovernor"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Would use state buying power and CalRx to lower drug prices while building toward universal access.", "source": "https://www.xavierbecerra2026.com/priorities/health-care/"},
+   {"topic": "Housing", "point": "Would declare a housing emergency to fund 40,000 affordable units and ease zoning for apartments and duplexes.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   {"topic": "Energy", "point": "Makes utility bill affordability central to clean-energy policy, with stronger oversight of utilities.", "source": "https://www.xavierbecerra2026.com/priorities/energy-utilities/"},
+   {"topic": "Artificial intelligence", "point": "Supports child-safety protections, transparency in automated decisions and clean-energy rules for data centers.", "source": "https://www.xavierbecerra2026.com/priorities/ai/"},
+   {"topic": "Taxes", "point": "Backs extending higher tax rates on top earners to fund schools but opposes a billionaire wealth tax.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports extending higher income tax rates on top earners and is open to raising corporate taxes.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "welfare": {"score": 75, "evidence": "Pledges to protect coverage for all Californians while building toward guaranteed universal access.", "source": "https://www.xavierbecerra2026.com/priorities/health-care/"},
+   "liberty": {"score": 20, "evidence": "On abortion, he expanded access to abortion-related care at HHS after Dobbs and opposed sex-selective abortion restrictions.", "source": "https://en.wikipedia.org/wiki/Xavier_Becerra"},
+   "security": {"score": 60, "evidence": "Voted for Proposition 36, the tougher-on-crime measure, while favoring court-mandated drug treatment.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "immigration": {"score": 10, "evidence": "Supports California's sanctuary law and led the state coalition defending DACA.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "foreign": null,
+   "energy": {"score": 65, "evidence": "Backs clean energy but says climate action must stay affordable and is open to revising goals that raise fuel costs.", "source": "https://www.xavierbecerra2026.com/priorities/energy-utilities/"},
+   "tech": {"score": 85, "evidence": "Supports banning social media for children under 16 and requiring transparency for AI used in hiring.", "source": "https://www.xavierbecerra2026.com/priorities/ai/"},
+   "education": {"score": 75, "evidence": "Supports extending higher taxes on top earners to fund public schools.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "faith": {"score": 25, "evidence": "As attorney general he argued that the Little Sisters of the Poor should not be exempt from the ACA contraception mandate.", "source": "https://en.wikipedia.org/wiki/Xavier_Becerra"}
+  },
+  "photo": {"file": "File:HHS Xavier Becerra.jpg", "license": "Public domain", "author": "United States Department of Health and Human Services"},
+  "campaign_photo": "",
+  "notes": "CalMatters reports he has released no major education proposals, so the education score rests on his school-funding tax stance."
+ },
+ {
+  "id": "CA-GOV/steve-hilton",
+  "name": "Steve Hilton",
+  "party": "Republican",
+  "current_role": "Former Fox News host",
+  "bio": "Steve Hilton hosted Fox News's The Next Revolution from 2017 to 2023 and co-founded the political crowdfunding platform Crowdpac. Born in London, he was director of strategy for UK Prime Minister David Cameron from 2010 to 2012, moved to California in 2012 and became a U.S. citizen in 2021.",
+  "website": "https://stevehiltonforgovernor.com",
+  "social": {
+   "x": "https://x.com/SteveHiltonx",
+   "instagram": "https://www.instagram.com/stevehiltonx/",
+   "facebook": "https://www.facebook.com/TheSteveHilton/",
+   "youtube": "https://www.youtube.com/@stevehiltonx"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Would make the first $150,000 of income free of state income tax and abolish the $800 small business tax.", "source": "https://stevehiltonforgovernor.com/plan"},
+   {"topic": "Gas and utilities", "point": "Aims for $3 gas and utility bills cut in half by removing policy mandates.", "source": "https://stevehiltonforgovernor.com/plan"},
+   {"topic": "Housing", "point": "Wants to bring back starter homes by reducing fees, regulations and environmental-review lawsuits.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   {"topic": "Education", "point": "Sets a goal of every student reading by third grade and skills training in every school.", "source": "https://stevehiltonforgovernor.com/plan"},
+   {"topic": "Regulation", "point": "Would cut what he describes as $745 billion in burdensome state regulation and spending.", "source": "https://stevehiltonforgovernor.com/plan"},
+   {"topic": "Public safety", "point": "Proposes reopening closed prisons and reducing early releases.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Proposes exempting the first $150,000 of income from tax, a flat rate beyond that, and broad deregulation.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "welfare": {"score": 20, "evidence": "Would end Medi-Cal coverage for undocumented immigrants and rely on insurance market competition.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "liberty": {"score": 50, "evidence": "On guns he favors loosening firearm restrictions, while on LGBTQ issues he opposes transgender participation in girls' sports.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "security": {"score": 85, "evidence": "Would reopen prisons, cut early releases and loosen limits on police street stops.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "immigration": {"score": 80, "evidence": "Wants to overturn California's sanctuary law.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "foreign": null,
+   "energy": {"score": 5, "evidence": "Would roll back climate rules, end renewable purchase mandates and allow more natural gas production.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "tech": {"score": 15, "evidence": "Opposes tech regulation and bans, preferring to discourage children's smartphone use without legislation.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "education": {"score": 10, "evidence": "Supports private school vouchers and converting schools to charters.", "source": "https://calmatters.org/california-voter-guide-2026/governor/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Steve Hilton (54233451292) (cropped) (cropped).jpg", "license": "CC BY-SA 2.0", "author": "Gage Skidmore"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CO-SEN/john-hickenlooper",
+  "name": "John Hickenlooper",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from Colorado",
+  "bio": "John Hickenlooper has represented Colorado in the U.S. Senate since 2021. He was previously governor of Colorado from 2011 to 2019 and mayor of Denver from 2003 to 2011. Born in Narberth, Pennsylvania, he worked as a petroleum geologist before co-founding Denver's Wynkoop Brewing Company.",
+  "website": "https://hickenlooper.com",
+  "social": {
+   "x": "https://x.com/SenatorHick",
+   "instagram": "https://www.instagram.com/senatorhick",
+   "facebook": "https://www.facebook.com/SenatorHick",
+   "youtube": "https://www.youtube.com/channel/UCU6pcq-AZA9wnmIPBj6ePwQ"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports a public option, Medicare drug price negotiation and opposes cuts to Medicaid and ACA subsidies.", "source": "https://hickenlooper.com/issues/"},
+   {"topic": "Climate", "point": "Backs major climate investment, public lands protection and wildfire and drought funding.", "source": "https://hickenlooper.com/issues/"},
+   {"topic": "Guns", "point": "Wants expanded background checks and a ban on assault weapons.", "source": "https://hickenlooper.com/issues/"},
+   {"topic": "Immigration enforcement", "point": "Voted against more ICE funding and proposed banning masked raids at schools, hospitals and polling places.", "source": "https://hickenlooper.com/issues/"},
+   {"topic": "Abortion", "point": "Supports restoring Roe v. Wade protections, mifepristone access and a national right to IVF.", "source": "https://hickenlooper.com/issues/"},
+   {"topic": "Economy", "point": "Opposes Trump's tariffs and supports small business capital and federal investment in affordable housing.", "source": "https://hickenlooper.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Supports federal housing investment, curbs on corporate market dominance and a higher minimum wage.", "source": "https://hickenlooper.com/issues/"},
+   "welfare": {"score": 60, "evidence": "Calls health care a right and backs a public option rather than Medicare for All.", "source": "https://www.rmpbs.org/news/elections/colorado-election-results-senate-primary-gonzales-hickenlooper"},
+   "liberty": {"score": 35, "evidence": "Supports abortion rights and marijuana decriminalization, while backing universal background checks and an assault weapons ban on guns.", "source": "https://hickenlooper.com/issues/"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Opposes current ICE operations, voted against added ICE funding and proposed limits on masked raids.", "source": "https://hickenlooper.com/issues/"},
+   "foreign": {"score": 70, "evidence": "Voted for the April 2024 foreign aid package for Ukraine and Israel.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 65, "evidence": "Backs large climate investments and wind and solar expansion, and set methane rules as governor.", "source": "https://hickenlooper.com/issues/"},
+   "tech": {"score": 65, "evidence": "Supports regulating the AI industry and has called for Clayton Act reforms aimed at Big Tech dominance.", "source": "https://hickenlooper.com/issues/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The earlier summary said he backed dismantling ICE; his issues page instead describes opposing ICE funding and operations, so the evidence was reworded without changing the score."
+ },
+ {
+  "id": "CO-SEN/mark-baisley",
+  "name": "Mark Baisley",
+  "party": "Republican",
+  "current_role": "Colorado State Senator",
+  "bio": "Mark Baisley has served in the Colorado Senate since 2023 after representing a district in the Colorado House from 2019 to 2023. He worked as an aerospace engineer for Martin Marietta, Hughes, Raytheon and NASA's Jet Propulsion Laboratory and founded a Colorado software company. He is the 2026 Republican nominee for U.S. Senate.",
+  "website": "https://baisleyforsenate.com",
+  "social": {
+   "x": "https://x.com/MarkBaisley",
+   "instagram": "https://instagram.com/mark.baisley",
+   "facebook": "https://www.facebook.com/BaisleyforSenate"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Wants lower federal taxes and fewer regulations so private businesses can grow.", "source": "https://baisleyforsenate.com/issues/"},
+   {"topic": "Public safety", "point": "Would give law enforcement more support and funding and end programs he says return violent offenders to neighborhoods.", "source": "https://baisleyforsenate.com/issues/"},
+   {"topic": "Energy", "point": "Aims to restore American energy dominance.", "source": "https://baisleyforsenate.com/issues/"},
+   {"topic": "Immigration", "point": "Welcomes vetted, self-reliant legal immigrants who assimilate into American culture.", "source": "https://baisleyforsenate.com/issues/"},
+   {"topic": "Agriculture", "point": "Would cut red tape for farmers and favor free markets over bureaucracy.", "source": "https://baisleyforsenate.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Calls for reduced federal taxes and regulations and says prosperity comes from business rather than mandates.", "source": "https://baisleyforsenate.com/issues/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Pledges more funding and resources for law enforcement.", "source": "https://baisleyforsenate.com/issues/"},
+   "immigration": {"score": 55, "evidence": "Supports legal immigration limited to vetted, self-reliant immigrants who assimilate.", "source": "https://baisleyforsenate.com/issues/"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Makes restoring American energy dominance an issue priority.", "source": "https://baisleyforsenate.com/issues/"},
+   "tech": {"score": 40, "evidence": "Cites an AI bill he introduced that aims to balance innovation, growth and privacy.", "source": "https://baisleyforsenate.com/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://baisleyforsenate.com/wp-content/uploads/Colorado-Senator-Mark-Baisley-Cape-Canaveral-scaled.jpg",
+  "notes": "The Commons portrait is credited to the Colorado Senate GOP with only a generic public-domain tag, so it was not used."
+ },
+ {
+  "id": "CO-GOV/phil-weiser",
+  "name": "Phil Weiser",
+  "party": "Democratic",
+  "current_role": "Attorney General of Colorado",
+  "bio": "Phil Weiser has been Colorado's attorney general since January 2019. He previously served in the U.S. Justice Department's Antitrust Division and as a technology adviser in the Obama White House, and was dean of the University of Colorado Law School. He clerked for Supreme Court Justices Byron White and Ruth Bader Ginsburg and won the 2026 Democratic primary for governor.",
+  "website": "https://philforcolorado.com",
+  "social": {},
+  "platform": [
+   {"topic": "Economy and jobs", "point": "Plans to spur innovation, clean-energy jobs and small business growth across the state.", "source": "https://philforcolorado.com/phil-weiser-unveils-opportunity-agenda-to-build-a-stronger-colorado/"},
+   {"topic": "Workforce", "point": "Would invest in community colleges, apprenticeships and career training for veterans, young adults and rural workers.", "source": "https://philforcolorado.com/phil-weiser-unveils-opportunity-agenda-to-build-a-stronger-colorado/"},
+   {"topic": "Education", "point": "Proposes higher teacher pay, safer schools and wider early childhood education access.", "source": "https://philforcolorado.com/phil-weiser-unveils-opportunity-agenda-to-build-a-stronger-colorado/"},
+   {"topic": "Youth mental health", "point": "Proposes a statewide crisis response with early intervention and school-based support.", "source": "https://philforcolorado.com/phil-weiser-unveils-opportunity-agenda-to-build-a-stronger-colorado/"},
+   {"topic": "Rural Colorado", "point": "Supports broadband expansion, water security and farm-to-market programs.", "source": "https://philforcolorado.com/phil-weiser-unveils-opportunity-agenda-to-build-a-stronger-colorado/"},
+   {"topic": "Public service", "point": "Would create ColoradoCorps, a paid service program for young people.", "source": "https://philforcolorado.com/phil-weiser-unveils-opportunity-agenda-to-build-a-stronger-colorado/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Sued to block the Kroger-Albertsons merger and proposes state investment in jobs and workforce training.", "source": "https://en.wikipedia.org/wiki/Phil_Weiser"},
+   "welfare": {"score": 65, "evidence": "Backs universal preschool, expanded mental health services and protection from medical debt.", "source": "https://www.indivisiblenoco.com/colorado-governor-2026/phil-weiser"},
+   "liberty": {"score": 30, "evidence": "Pledges to defend abortion and LGBTQ rights while supporting gun-safety laws.", "source": "https://www.indivisiblenoco.com/colorado-governor-2026/phil-weiser"},
+   "security": {"score": 50, "evidence": "Pairs gun-violence prevention with expanded law enforcement training.", "source": "https://www.indivisiblenoco.com/colorado-governor-2026/phil-weiser"},
+   "immigration": {"score": 25, "evidence": "Supports enforcing state limits on federal immigration enforcement.", "source": "https://www.indivisiblenoco.com/colorado-governor-2026/phil-weiser"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Aims to meet Colorado's renewable targets with more solar, wind and EV infrastructure.", "source": "https://www.indivisiblenoco.com/colorado-governor-2026/phil-weiser"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Proposes higher educator pay, defending public schools and expanding universal preschool.", "source": "https://www.indivisiblenoco.com/colorado-governor-2026/phil-weiser"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons photo File:AG Phil Weiser.jpg carries only a Flickr Public Domain Mark rather than CC0 or a CC licence, so it was not used. Campaign social links are redirect shortcuts, so no account URLs were recorded."
+ },
+ {
+  "id": "CO-GOV/victor-marx",
+  "name": "Victor Marx",
+  "party": "Republican",
+  "current_role": "Founder of All Things Possible Ministries",
+  "bio": "Victor Marx founded the Christian nonprofit All Things Possible Ministries in 2003 and has worked as a martial arts instructor and gym owner. Born in Lafayette, Louisiana, he served in the U.S. Marine Corps from 1983 to 1986 and later worked at Focus on the Family. He lives in the Colorado Springs area and is the 2026 Republican nominee for governor.",
+  "website": "https://www.victor2026.com",
+  "social": {
+   "x": "https://x.com/victormarx",
+   "instagram": "https://www.instagram.com/victormarx/",
+   "facebook": "https://www.facebook.com/victormarx/",
+   "tiktok": "https://www.tiktok.com/@iamvictormarx",
+   "youtube": "https://www.youtube.com/victormarx"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Would phase down the income tax when surpluses allow and block fees that sidestep TABOR.", "source": "https://www.victor2026.com/my-policies"},
+   {"topic": "Public safety", "point": "Calls for mandatory bail for violent felonies, more police staffing and a focus on fentanyl.", "source": "https://www.victor2026.com/my-policies"},
+   {"topic": "Immigration", "point": "Would end sanctuary policies and require cooperation with federal immigration authorities.", "source": "https://www.victor2026.com/my-policies"},
+   {"topic": "Education", "point": "Supports parental access to curriculum, education savings accounts and trade school funding.", "source": "https://www.victor2026.com/my-policies"},
+   {"topic": "Energy", "point": "Favors an all-of-the-above mix of renewables, oil, gas, hydro and nuclear.", "source": "https://www.victor2026.com/my-policies"},
+   {"topic": "Elections", "point": "Would require voter ID for all ballots and annual voter roll maintenance.", "source": "https://www.victor2026.com/my-policies"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Proposes phased income tax cuts and strict limits on new fees under TABOR.", "source": "https://www.victor2026.com/my-policies"},
+   "welfare": {"score": 35, "evidence": "Favors deregulating housing and childcare over new public programs.", "source": "https://en.wikipedia.org/wiki/Victor_Marx"},
+   "liberty": {"score": 55, "evidence": "Opposes abortion, while on guns he supports strong Second Amendment protections.", "source": "https://en.wikipedia.org/wiki/Victor_Marx"},
+   "security": {"score": 60, "evidence": "Calls for mandatory bail for violent felonies, ending catch-and-release and more police staffing.", "source": "https://www.victor2026.com/my-policies"},
+   "immigration": {"score": 80, "evidence": "Would end sanctuary policies, mandate cooperation with federal authorities and create border-crime task forces.", "source": "https://www.victor2026.com/my-policies"},
+   "foreign": null,
+   "energy": {"score": 25, "evidence": "Backs an all-of-the-above approach that includes oil and gas alongside renewables.", "source": "https://www.victor2026.com/my-policies"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supports school choice through education savings accounts and parental curriculum access.", "source": "https://www.victor2026.com/my-policies"},
+   "faith": null
+  },
+  "photo": {"file": "File:Victor Marx (52125665777) (cropped).jpg", "license": "CC BY-SA 2.0", "author": "Gage Skidmore"},
+  "campaign_photo": "",
+  "notes": "Social accounts are his personal and ministry accounts as linked from the campaign site."
+ },
+ {
+  "id": "CT-GOV/ned-lamont",
+  "name": "Ned Lamont",
+  "party": "Democratic",
+  "current_role": "Governor of Connecticut",
+  "bio": "Ned Lamont has been governor of Connecticut since January 2019 and is seeking a third term. He built a career in telecommunications, founding Campus Televideo in 1984, and served as a Greenwich selectman in the late 1980s. He was the Democratic nominee for U.S. Senate in 2006 after defeating Joe Lieberman in the primary.",
+  "website": "https://www.nedlamont.com",
+  "social": {
+   "x": "https://x.com/NedLamont",
+   "instagram": "https://www.instagram.com/nedlamont/",
+   "facebook": "https://www.facebook.com/NedLamontCT",
+   "tiktok": "https://www.tiktok.com/@nedlamont.ct"
+  },
+  "platform": [
+   {"topic": "Taxes and budget", "point": "Points to balanced budgets, the largest income tax cut in state history and ending tax on retirement income.", "source": "https://www.nedlamont.com/accomplishments"},
+   {"topic": "Affordability", "point": "Cites paid family leave, a $25 monthly insulin cap and a car tax cap.", "source": "https://www.nedlamont.com/accomplishments"},
+   {"topic": "Education and childcare", "point": "Highlights full school funding, debt-free community college and a $600 million early childhood endowment.", "source": "https://www.nedlamont.com/accomplishments"},
+   {"topic": "Clean energy", "point": "Targets a zero-carbon electric grid by 2040 and net-zero emissions by 2050, including offshore wind.", "source": "https://www.nedlamont.com/accomplishments"},
+   {"topic": "Rights", "point": "Enacted post-Roe abortion protections and expanded legal protections for LGBTQ+ families.", "source": "https://www.nedlamont.com/accomplishments"},
+   {"topic": "Immigration", "point": "Expanded the TRUST Act and barred masked ICE agents and warrantless courthouse arrests.", "source": "https://www.nedlamont.com/accomplishments"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Raised the minimum wage to $16.94 while also signing a large income tax cut and balancing budgets.", "source": "https://www.nedlamont.com/accomplishments"},
+   "welfare": {"score": 80, "evidence": "Created paid family leave, the Covered Connecticut program and an endowment for universal early childhood education.", "source": "https://www.nedlamont.com/accomplishments"},
+   "liberty": {"score": 25, "evidence": "Signed abortion protections, cannabis legalization and LGBTQ+ protections, alongside the Ethan's Law safe gun storage requirement.", "source": "https://en.wikipedia.org/wiki/Ned_Lamont"},
+   "security": {"score": 30, "evidence": "Barred ICE from warrantless courthouse arrests and opposed National Guard deployments on civil liberties grounds.", "source": "https://www.nedlamont.com/accomplishments"},
+   "immigration": {"score": 20, "evidence": "Expanded the TRUST Act limiting state cooperation with federal immigration enforcement.", "source": "https://www.nedlamont.com/accomplishments"},
+   "foreign": null,
+   "energy": {"score": 85, "evidence": "Set goals of a zero-carbon grid by 2040 and net-zero emissions by 2050 and backed offshore wind.", "source": "https://www.nedlamont.com/accomplishments"},
+   "tech": {"score": 70, "evidence": "Signed 2026 AI regulations with protections for workers, parents and consumers.", "source": "https://www.nedlamont.com/accomplishments"},
+   "education": {"score": 85, "evidence": "Fully funded the state school funding formula early and doubled special education funding.", "source": "https://www.nedlamont.com/accomplishments"},
+   "faith": null
+  },
+  "photo": {"file": "File:Governor Ned Lamont of Connecticut, official portrait.jpg", "license": "CC BY-SA 4.0", "author": "The Office of Governor Ned Lamont"},
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

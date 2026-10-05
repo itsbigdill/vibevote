@@ -1,0 +1,960 @@
+[
+ {
+  "id": "CA-17/ro-khanna",
+  "name": "Ro Khanna",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-17",
+  "bio": "Ro Khanna has represented California's 17th congressional district in Silicon Valley since 2017. He was raised in Bucks County, Pennsylvania, worked as an intellectual property attorney, and served as a Deputy Assistant Secretary of Commerce from 2009 to 2011. He has also taught economics at Stanford and law at Santa Clara University.",
+  "website": "https://www.rokhanna.com/",
+  "social": {
+   "x": "https://x.com/RoKhanna",
+   "instagram": "https://www.instagram.com/rokhannausa/",
+   "facebook": "https://www.facebook.com/RoKhannaUSA",
+   "tiktok": "https://www.tiktok.com/@rokhannausa",
+   "youtube": "https://www.youtube.com/@rokhanna"
+  },
+  "platform": [
+   {
+    "topic": "Jobs",
+    "point": "Calls for a national economic plan to bring good-paying jobs to towns across the country.",
+    "source": "https://www.rokhanna.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Supports Medicare for All.",
+    "source": "https://www.rokhanna.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Wants higher taxes on billionaires to pay for public programs.",
+    "source": "https://www.rokhanna.com/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Opposes U.S. involvement in foreign wars.",
+    "source": "https://www.rokhanna.com/"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Backs campaign finance reform and stronger accountability for elected officials.",
+    "source": "https://www.rokhanna.com/"
+   },
+   {
+    "topic": "AI",
+    "point": "Seeks protections for workers as artificial intelligence spreads.",
+    "source": "https://www.rokhanna.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Proposes taxing billionaires and has backed a higher federal minimum wage.",
+    "source": "https://www.rokhanna.com/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports Medicare for All and universal childcare.",
+    "source": "https://www.rokhanna.com/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports abortion rights and LGBTQ rights legislation.",
+    "source": "https://en.wikipedia.org/wiki/Ro_Khanna"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 20,
+    "evidence": "Campaigns against U.S. involvement in foreign wars and has pushed war powers limits.",
+    "source": "https://www.rokhanna.com/"
+   },
+   "energy": {
+    "score": 75,
+    "evidence": "Has supported the Green New Deal framework for a clean-energy transition.",
+    "source": "https://en.wikipedia.org/wiki/Ro_Khanna"
+   },
+   "tech": {
+    "score": 80,
+    "evidence": "Drafted an Internet Bill of Rights on user data control and backs worker protections from AI.",
+    "source": "https://en.wikipedia.org/wiki/Ro_Khanna"
+   },
+   "education": {
+    "score": 80,
+    "evidence": "Supports tuition-free public college and public education funding.",
+    "source": "https://en.wikipedia.org/wiki/Ro_Khanna"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-17/ritesh-tandon",
+  "name": "Ritesh Tandon",
+  "party": "Republican",
+  "current_role": "Entrepreneur and UC Berkeley Haas research fellow",
+  "bio": "Ritesh Tandon is a Bay Area resident of more than two decades running for California's 17th congressional district. He holds an MBA and a master's in computer engineering from Santa Clara University and is a research fellow at UC Berkeley's Haas School of Business. His background is in business, entrepreneurship and nonprofit work.",
+  "website": "https://www.tandonforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/tandon4congress",
+   "instagram": "https://www.instagram.com/tandonforcongress/",
+   "facebook": "https://www.facebook.com/TandonforCongress/",
+   "youtube": "https://www.youtube.com/channel/UCzmoRZdVDRiy9ZeaWV5_d7A"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Aims to lower costs for groceries, utilities, housing, health care and education.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   {
+    "topic": "Innovation",
+    "point": "Supports AI education, startup-friendly rules and intellectual property protections.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   {
+    "topic": "Taxes and regulation",
+    "point": "Wants middle-class tax relief, a two-for-one regulation rule and spending discipline instead of a wealth tax.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Calls for border security and law enforcement alongside expanded skills-based legal immigration.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   {
+    "topic": "Energy and transportation",
+    "point": "Promotes affordable, reliable energy and lower commuting costs.",
+    "source": "https://www.tandonforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Backs middle-class tax relief and a one-in, two-out regulatory rule and opposes a wealth tax.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   "welfare": {
+    "score": 45,
+    "evidence": "Focuses on lowering costs, including access to affordable childcare and health care.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 55,
+    "evidence": "Pairs border security and enforcement with expanded skills-based legal immigration.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 40,
+    "evidence": "Backs an all-of-the-above energy strategy and grid modernization.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   "tech": {
+    "score": 25,
+    "evidence": "Favors startup-friendly policy and AI education rather than new tech regulation.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   "education": {
+    "score": 55,
+    "evidence": "Calls for higher teacher pay and expanded career and technical education.",
+    "source": "https://www.tandonforcongress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.tandonforcongress.com/wp-content/uploads/2019/12/tandon-congress.png",
+  "notes": "Immigration score added from the campaign's current issue list."
+ },
+ {
+  "id": "CA-18/zoe-lofgren",
+  "name": "Zoe Lofgren",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-18",
+  "bio": "Zoe Lofgren has served in the U.S. House since 1995 and has represented California's 18th district since 2023. She previously chaired the House Administration and Ethics committees and is the ranking member of the House Science Committee. Before Congress she practiced immigration law and served on the Santa Clara County Board of Supervisors from 1981 to 1994.",
+  "website": "https://www.zoelofgren.com/",
+  "social": {
+   "x": "https://x.com/ZoeLofgren",
+   "facebook": "https://www.facebook.com/zoelofgrenforcongress",
+   "youtube": "https://www.youtube.com/RepZoeLofgren"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Has long worked on immigration law reform and scrutiny of federal deportation programs.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   {
+    "topic": "Digital privacy",
+    "point": "Advocates for online privacy and net neutrality and introduced Aaron's Law on computer crime statutes.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Supports legal access to abortion.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   {
+    "topic": "Science and energy",
+    "point": "Supports investment in renewable energy and clean energy infrastructure.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 80,
+    "evidence": "Member of the Medicare for All caucus and supporter of a public option.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   "liberty": {
+    "score": 10,
+    "evidence": "Holds a 100% NARAL rating and opposed a 20-week abortion ban (abortion).",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   "security": {
+    "score": 25,
+    "evidence": "Opposed data retention mandates and SOPA and advocates digital privacy.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Former immigration lawyer who called for a federal probe of the Secure Communities deportation program.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 85,
+    "evidence": "Supported the Green New Deal and clean-energy investment.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   "tech": {
+    "score": 30,
+    "evidence": "Opposed the 2021 House antitrust package aimed at large tech companies.",
+    "source": "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Immigration score added based on her record on deportation programs."
+ },
+ {
+  "id": "CA-18/shane-lewis",
+  "name": "Shane Lewis",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Shane Lewis is a Republican candidate for California's 18th congressional district. His campaign focuses on taxes, water, energy, immigration and education.",
+  "website": "https://www.shanelewisforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Proposes a flat tax of about 7% on wages and annual deficit reduction.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Wants to expand the H-2A farm visa program with vetting and exclude non-citizens from Census-based funding.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Supports an all-of-the-above approach including renewables, natural gas, hydrogen and hydropower.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Proposes tying Title I funds to proficiency gains and expanding civics and financial literacy.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   },
+   {
+    "topic": "Water",
+    "point": "Backs dam retrofits, desalination and groundwater rule changes to protect farmland.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Proposes a roughly 7% flat wage tax and yearly deficit cuts.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 55,
+    "evidence": "Expands H-2A visas with vetting while counting only citizens for federal funding formulas.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 50,
+    "evidence": "Pairs renewable investment with continued use of natural gas and other traditional fuels.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Favors performance-based school funding and greater parental involvement in funding decisions.",
+    "source": "https://www.shanelewisforcongress.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Little public biographical information was found; social accounts are linked on the site but URLs were not confirmed."
+ },
+ {
+  "id": "CA-19/jimmy-panetta",
+  "name": "Jimmy Panetta",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-19",
+  "bio": "Jimmy Panetta has served in the U.S. House since 2017, representing the 20th district and, since 2023, the 19th district on California's Central Coast. He was a prosecutor in Alameda and Monterey counties and served as a Navy Reserve intelligence officer, deploying to Afghanistan in 2007. He grew up in Carmel Valley and holds degrees from UC Davis and Santa Clara University School of Law.",
+  "website": "https://www.jimmypanetta.com/",
+  "social": {
+   "x": "https://x.com/JimmyPanetta",
+   "instagram": "https://www.instagram.com/jimmypanettaforcongress/",
+   "facebook": "https://www.facebook.com/JimmyPanettaForCongress/",
+   "youtube": "https://www.youtube.com/@jimmypanetta8888"
+  },
+  "platform": [
+   {
+    "topic": "Inflation",
+    "point": "Seeks to ease inflation through investment in agriculture, tourism, technology, research and small business.",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   {
+    "topic": "Environment",
+    "point": "Opposes offshore drilling and supports clean energy, lower emissions and wildfire prevention.",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   {
+    "topic": "Housing",
+    "point": "Wants expanded housing tax credits and help for first-time buyers, veterans and homeless people.",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Defends the Affordable Care Act, supports universal health care and lower drug prices.",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   {
+    "topic": "Democracy",
+    "point": "Aims to strengthen checks and balances, election security and voting rights.",
+    "source": "https://www.jimmypanetta.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Supports federal investment in infrastructure, research and affordable education.",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Says he supports universal health care and expanding Medicare.",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports reproductive rights and holds a 100% NARAL rating (abortion).",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 80,
+    "evidence": "Supported sending F-16s to Ukraine and backs support for Taiwan.",
+    "source": "https://en.wikipedia.org/wiki/Jimmy_Panetta"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Opposes offshore drilling and backs clean energy and emissions cuts.",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   "tech": {
+    "score": 30,
+    "evidence": "Voted against the merger filing fee antitrust bill.",
+    "source": "https://en.wikipedia.org/wiki/Jimmy_Panetta"
+   },
+   "education": {
+    "score": 70,
+    "evidence": "Supports public pre-K and affordable education access.",
+    "source": "https://www.jimmypanetta.com/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://static.wixstatic.com/media/31c935_a4deca712ae84f93a2704f910372c46e~mv2_d_5152_2585_s_4_2.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-19/peter-verbica",
+  "name": "Peter Verbica",
+  "party": "Republican",
+  "current_role": "Financial advisor and attorney",
+  "bio": "Peter Coe Verbica is a Republican candidate for California's 19th congressional district. He holds a law degree and is a certified financial planner. His campaign centers on lowering the cost of living in California.",
+  "website": "https://peterverbica.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=100078446973953",
+   "youtube": "https://www.youtube.com/channel/UCms_9w3r9O_P477lrQmAD9Q"
+  },
+  "platform": [
+   {
+    "topic": "Gas prices",
+    "point": "Wants to end high gas taxes and special fuel blend requirements.",
+    "source": "https://peterverbica.com/"
+   },
+   {
+    "topic": "Water",
+    "point": "Seeks more water for farmers to bring down food prices.",
+    "source": "https://peterverbica.com/"
+   },
+   {
+    "topic": "Insurance",
+    "point": "Pledges to address California's home insurance crisis.",
+    "source": "https://peterverbica.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Supports local control over housing decisions.",
+    "source": "https://peterverbica.com/"
+   },
+   {
+    "topic": "Business",
+    "point": "Opposes PAGA lawsuits and rules restricting independent contractors.",
+    "source": "https://peterverbica.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Calls for immigration reform that serves the technology and farm sectors.",
+    "source": "https://peterverbica.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Opposes PAGA litigation and independent-contractor rules and wants lower taxes.",
+    "source": "https://peterverbica.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 30,
+    "evidence": "Wants to end gas taxes and reformulated fuel blend requirements.",
+    "source": "https://peterverbica.com/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://img1.wsimg.com/isteam/ip/f005755e-a8f0-4d26-a505-55b7e059da9d/IMG_7848.JPG",
+  "notes": "The campaign site lists his name as Peter Coe Verbica."
+ },
+ {
+  "id": "CA-20/vince-fong",
+  "name": "Vince Fong",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CA-20",
+  "bio": "Vince Fong has represented California's 20th congressional district since 2024. He previously served in the California State Assembly from 2016 to 2024. A Bakersfield native, he worked as district director for Congressman Kevin McCarthy and as an aide to Congressman Bill Thomas.",
+  "website": "https://vincefong.com/",
+  "social": {
+   "x": "https://x.com/vfong",
+   "instagram": "https://www.instagram.com/fongressman/",
+   "facebook": "https://www.facebook.com/VinceFongCA/"
+  },
+  "platform": [
+   {
+    "topic": "Energy",
+    "point": "Supports expanding domestic energy production to avoid dependence on foreign adversaries.",
+    "source": "https://vincefong.com/issues"
+   },
+   {
+    "topic": "Water and agriculture",
+    "point": "Backs modernized water infrastructure for Central Valley farms.",
+    "source": "https://vincefong.com/issues"
+   },
+   {
+    "topic": "Defense",
+    "point": "Prioritizes local military installations and aerospace innovation.",
+    "source": "https://vincefong.com/issues"
+   },
+   {
+    "topic": "Border security",
+    "point": "Calls for enforcing current immigration law while keeping legal immigration orderly.",
+    "source": "https://vincefong.com/issues"
+   },
+   {
+    "topic": "Gun rights",
+    "point": "Defends Second Amendment rights and focuses on prosecuting criminals.",
+    "source": "https://vincefong.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 25,
+    "evidence": "Defends Second Amendment rights and is a lifetime NRA member (guns).",
+    "source": "https://vincefong.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Prioritizes border security and enforcement of existing immigration law.",
+    "source": "https://vincefong.com/issues"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Emphasizes strong national defense and military readiness.",
+    "source": "https://vincefong.com/issues"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Calls for expanding domestic energy production.",
+    "source": "https://vincefong.com/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://vincefong.com/wp-content/uploads/Fong-Congress-Congress.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-20/sandra-van-scotter",
+  "name": "Sandra Van Scotter",
+  "party": "Democratic",
+  "current_role": "Health care worker and disability advocate",
+  "bio": "Sandra Van Scotter is a Democratic candidate for California's 20th congressional district. She has about 20 years of experience in health care and has served on a local advisory committee for the Kern Regional Center's Self-Determination Program.",
+  "website": "https://www.electsandravanscotter.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/sandravanscotter4cd20/",
+   "facebook": "http://facebook.com/SandraVanScotterforCongress"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Supports Medicare for All and a constitutional amendment making health care a right.",
+    "source": "https://www.electsandravanscotter.com/issues"
+   },
+   {
+    "topic": "Medi-Cal",
+    "point": "Opposes proposed cuts to Medi-Cal.",
+    "source": "https://www.electsandravanscotter.com/issues"
+   },
+   {
+    "topic": "Disability rights",
+    "point": "Pledges to advance access and inclusion for people with disabilities.",
+    "source": "https://www.electsandravanscotter.com/issues"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Promises town halls and direct office access for veterans and military families.",
+    "source": "https://www.electsandravanscotter.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Backs border security plus legal status for long-settled undocumented workers.",
+    "source": "https://www.electsandravanscotter.com/issues"
+   },
+   {
+    "topic": "Water",
+    "point": "Supports sustainable water policy for farmers and residents.",
+    "source": "https://www.electsandravanscotter.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 100,
+    "evidence": "Supports Medicare for All as a constitutional right.",
+    "source": "https://www.electsandravanscotter.com/issues"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 20,
+    "evidence": "Supports a Reagan-style pathway to legal status for undocumented workers.",
+    "source": "https://www.electsandravanscotter.com/issues"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/51893d_e185af96a9004f8dba30d98ec8871196~mv2.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-21/jim-costa",
+  "name": "Jim Costa",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-21",
+  "bio": "Jim Costa, a Fresno native, has served in the U.S. House since 2005 and has represented California's 21st district since 2023. He served in the California State Assembly from 1978 to 1994 and the State Senate from 1994 to 2002. He is a former co-chair of the Blue Dog Coalition.",
+  "website": "https://www.jimcosta.com/",
+  "social": {
+   "x": "https://x.com/RepJimCosta",
+   "facebook": "https://www.facebook.com/jimcosta",
+   "youtube": "https://www.youtube.com/RepJimCostaCA20"
+  },
+  "platform": [
+   {
+    "topic": "Water",
+    "point": "Prioritizes improving water supplies for the San Joaquin Valley.",
+    "source": "https://www.jimcosta.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Seeks to expand access to health care.",
+    "source": "https://www.jimcosta.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Focuses on reducing crime.",
+    "source": "https://www.jimcosta.com/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Pledges support for veterans.",
+    "source": "https://www.jimcosta.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Helped write the Farm Workforce Modernization Act and backs citizenship for Dreamers.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Costa"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Has backed raising the minimum wage.",
+    "source": "https://www.ontheissues.org/CA/Jim_Costa.htm"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Supports the Affordable Care Act and expanding health care access.",
+    "source": "https://www.ontheissues.org/CA/Jim_Costa.htm"
+   },
+   "liberty": {
+    "score": 40,
+    "evidence": "Supports abortion rights and co-sponsored the Women's Health Protection Act; supports gun background checks (abortion, guns).",
+    "source": "https://en.wikipedia.org/wiki/Jim_Costa"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Rated 92% by a police organization (NAPO) and voted in 2005 to make the PATRIOT Act permanent.",
+    "source": "https://www.ontheissues.org/CA/Jim_Costa.htm"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Co-sponsored the American Dream and Promise Act and helped craft farmworker legalization.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Costa"
+   },
+   "foreign": {
+    "score": 80,
+    "evidence": "Urged F-16s for Ukraine and voted to support Israel after October 7.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Costa"
+   },
+   "energy": {
+    "score": 50,
+    "evidence": "Voted for the Keystone XL pipeline while supporting some climate measures.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Costa"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Voted for the 2019 net neutrality bill.",
+    "source": "https://www.ontheissues.org/CA/Jim_Costa.htm"
+   },
+   "education": {
+    "score": 80,
+    "evidence": "Opposes private and religious school voucher programs.",
+    "source": "https://www.ontheissues.org/CA/Jim_Costa.htm"
+   },
+   "faith": {
+    "score": 30,
+    "evidence": "Voted in 2006 to let courts rule on 'God' in the Pledge of Allegiance.",
+    "source": "https://www.ontheissues.org/CA/Jim_Costa.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://assets.nationbuilder.com/jimcosta/pages/1172/attachments/original/1568318139/IMG_1654_2x.png?1568318139",
+  "notes": ""
+ },
+ {
+  "id": "CA-21/kyle-kirkland",
+  "name": "Kyle Kirkland",
+  "party": "Republican",
+  "current_role": "Owner of Club One Casino and President of the California Gaming Association",
+  "bio": "Kyle Kirkland is a Fresno businessman running for California's 21st congressional district. He owns Club One Casino, leads the California Gaming Association, chairs the Fresno Chaffee Zoo Corporation board and formerly chaired Steinway Musical Instruments. He holds an economics degree from Harvard and an MBA from Stanford.",
+  "website": "https://kirkland2026.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Wants to cut over-regulation and boost domestic production of housing, food, gas and health care.",
+    "source": "https://kirkland2026.com/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Proposes audits to eliminate government waste and fraud.",
+    "source": "https://kirkland2026.com/"
+   },
+   {
+    "topic": "Border security",
+    "point": "Wants law enforcement tools against fentanyl and trafficking while respecting legal immigration.",
+    "source": "https://kirkland2026.com/"
+   },
+   {
+    "topic": "Water",
+    "point": "Supports expanded water storage and modernized delivery for growers.",
+    "source": "https://kirkland2026.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Backs police and first responders and opposes lenient crime policies.",
+    "source": "https://kirkland2026.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Calls for higher academic standards, parental empowerment and career pathways.",
+    "source": "https://kirkland2026.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Pledges to end over-regulation to lower costs.",
+    "source": "https://kirkland2026.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 70,
+    "evidence": "Supports law enforcement and opposes lenient crime policies.",
+    "source": "https://kirkland2026.com/"
+   },
+   "immigration": {
+    "score": 60,
+    "evidence": "Focuses on border enforcement against cartels while respecting legal immigration.",
+    "source": "https://kirkland2026.com/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 30,
+    "evidence": "Calls for restarting domestic production, including gas, by reducing regulation.",
+    "source": "https://kirkland2026.com/"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Emphasizes empowering parents in education.",
+    "source": "https://kirkland2026.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://kirkland2026.com/images/campaign/hero.jpg",
+  "notes": "Energy score added from the campaign's call to restart domestic gas production."
+ },
+ {
+  "id": "CA-22/david-valadao",
+  "name": "David Valadao",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CA-22",
+  "bio": "David Valadao has represented California's 22nd congressional district since 2023, after earlier House service from 2013 to 2019 and 2021 to 2023. He served in the California State Assembly from 2010 to 2012. He is a dairy farmer from Hanford.",
+  "website": "https://valadaoforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/dgvaladao",
+   "facebook": "https://www.facebook.com/ValadaoforCongress/"
+  },
+  "platform": [
+   {
+    "topic": "Agriculture",
+    "point": "Supports Central Valley farmers and ranchers.",
+    "source": "https://valadaoforcongress.com/issues/"
+   },
+   {
+    "topic": "Water",
+    "point": "Seeks a reliable, clean water supply for farms and communities.",
+    "source": "https://valadaoforcongress.com/issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Calls for comprehensive reform of the immigration system.",
+    "source": "https://valadaoforcongress.com/issues/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Says quality, affordable health care should be available to all Americans.",
+    "source": "https://valadaoforcongress.com/issues/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Wants a balanced federal budget.",
+    "source": "https://valadaoforcongress.com/issues/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Supports developing traditional and renewable energy while reducing regulatory costs.",
+    "source": "https://valadaoforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Voted for the 2017 tax cuts and the 2025 reconciliation bill.",
+    "source": "https://en.wikipedia.org/wiki/David_Valadao"
+   },
+   "welfare": {
+    "score": 35,
+    "evidence": "Voted to repeal the ACA in 2017 but pushed to limit Medicaid cuts in 2025.",
+    "source": "https://en.wikipedia.org/wiki/David_Valadao"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Opposes abortion and supports gun rights, but voted for the Respect for Marriage Act (abortion, guns, LGBTQ rights).",
+    "source": "https://www.ontheissues.org/CA/David_Valadao.htm"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "Rated 77% by a police organization (NAPO) and favors keeping existing police accountability rules.",
+    "source": "https://www.ontheissues.org/CA/David_Valadao.htm"
+   },
+   "immigration": {
+    "score": 45,
+    "evidence": "Co-sponsored the DIGNIDAD Act's legalization path while supporting border barriers.",
+    "source": "https://en.wikipedia.org/wiki/David_Valadao"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Supported the 2026 Iran strikes and voted against limiting war powers.",
+    "source": "https://en.wikipedia.org/wiki/David_Valadao"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Backs traditional energy with fewer regulations and has disputed a climate link to drought.",
+    "source": "https://en.wikipedia.org/wiki/David_Valadao"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Says vouchers help low-income students leave low-quality schools.",
+    "source": "https://www.ontheissues.org/CA/David_Valadao.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-22/randy-villegas",
+  "name": "Randy Villegas",
+  "party": "Democratic",
+  "current_role": "Educator and school board trustee",
+  "bio": "Randy Villegas is a Democratic candidate for California's 22nd congressional district. Born and raised in Kern County to immigrant parents, he holds a PhD in political science, teaches, and serves as a school board trustee.",
+  "website": "https://www.villegasforcongress.com/",
+  "social": {
+   "x": "https://x.com/Villegas_CA22",
+   "instagram": "https://instagram.com/villegasforcongress",
+   "facebook": "https://facebook.com/VillegasforCongress",
+   "tiktok": "https://tiktok.com/@villegasforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Supports Medicare for All.",
+    "source": "https://platform.anewpolicypac.org/candidates/randy-villegas-ca"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Wants to end price gouging and monopolies in groceries, gas and prescription drugs.",
+    "source": "https://platform.anewpolicypac.org/candidates/randy-villegas-ca"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Would ban stock trading by members of Congress and block former members from lobbying.",
+    "source": "https://platform.anewpolicypac.org/candidates/randy-villegas-ca"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Rejects corporate PAC money.",
+    "source": "https://www.villegasforcongress.com/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Calls for a moratorium on new data centers.",
+    "source": "https://www.villegasforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Targets price gouging and corporate monopolies.",
+    "source": "https://platform.anewpolicypac.org/candidates/randy-villegas-ca"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports Medicare for All and opposes Medicaid and SNAP cuts.",
+    "source": "https://platform.anewpolicypac.org/candidates/randy-villegas-ca"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Has criticized ICE enforcement actions.",
+    "source": "https://platform.anewpolicypac.org/candidates/randy-villegas-ca"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Signed a January 2024 letter urging a ceasefire in Gaza.",
+    "source": "https://platform.anewpolicypac.org/candidates/randy-villegas-ca"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/6a10407a-3cd1-4570-80dc-77c93eb1f926/7596a939-a28f-4b4c-b215-e303ed21512b/7596a939-a28f-4b4c-b215-e303ed21512b.png",
+  "notes": "The campaign site's call for a data center moratorium was not scored because its rationale was unclear."
+ }
+]

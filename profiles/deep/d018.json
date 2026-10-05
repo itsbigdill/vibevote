@@ -1,0 +1,576 @@
+[
+ {
+  "id": "OH-9/derek-merrin",
+  "name": "Derek Merrin",
+  "party": "Republican",
+  "current_role": "Former Ohio state representative",
+  "bio": "Derek Merrin served in the Ohio House from 2016 to 2025 and was elected leader of the House Republican Caucus. He was earlier a Waterville city council member and mayor, and he holds degrees from the University of Toledo and Bowling Green State University. He narrowly lost to Marcy Kaptur in 2024 and is the 2026 Republican nominee.",
+  "website": "https://www.derekmerrin.com/",
+  "social": {
+   "x": "https://twitter.com/DerekMerrin",
+   "facebook": "https://www.facebook.com/derekmerrinforohio"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Supports income tax cuts and a simpler, more transparent tax code.",
+    "source": "https://www.derekmerrin.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Wants lower costs through price transparency and fewer regulations.",
+    "source": "https://www.derekmerrin.com/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Supports photo ID requirements for voting.",
+    "source": "https://www.derekmerrin.com/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Highlights his work passing constitutional carry in Ohio.",
+    "source": "https://www.derekmerrin.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Points to his record expanding school choice.",
+    "source": "https://www.derekmerrin.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Campaigns on supporting law and order, lowering costs and putting Northwest Ohio first.",
+    "source": "https://www.courthousenews.com/gop-voters-send-merrin-to-rematch-with-longtime-congresswoman-in-ohios-9th-district/"
+   },
+   {
+    "topic": "State budget",
+    "point": "Pledged to back Ohio House Bill 96, a state budget that included a flat income tax.",
+    "source": "https://www.courthousenews.com/gop-voters-send-merrin-to-rematch-with-longtime-congresswoman-in-ohios-9th-district/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Led state income tax cuts, favors fewer regulations and pledged support for a flat-tax state budget.",
+    "source": "https://www.derekmerrin.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 50,
+    "evidence": "Championed constitutional carry (guns) and Down syndrome non-discrimination legislation related to abortion (abortion).",
+    "source": "https://www.derekmerrin.com/"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "General campaign statement in support of law and order; no specific policing or surveillance proposals found.",
+    "source": "https://www.courthousenews.com/gop-voters-send-merrin-to-rematch-with-longtime-congresswoman-in-ohios-9th-district/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Expanded school choice as a legislator.",
+    "source": "https://www.derekmerrin.com/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Derek Merrin jpeg (cropped).jpg",
+   "license": "CC BY 4.0",
+   "author": "SchOg"
+  },
+  "campaign_photo": "https://irp.cdn-website.com/073f65c5/dms3rep/multi/opt/Merrin-Solo-73-568h.jpg",
+  "notes": "Campaign site (home page only; no issues page), Wikipedia and 2026 primary coverage were checked; the site does not address immigration, energy, foreign policy, welfare, tech or religion, and Ohio legislature vote records could not be reached. Liberty stays at 50 because constitutional carry and his abortion-related bill point in opposite directions."
+ },
+ {
+  "id": "OK-3/suzie-byrd",
+  "name": "Suzie Byrd",
+  "party": "Democratic",
+  "current_role": "Former newspaper reporter",
+  "bio": "Suzie Byrd, of Enid, won the Democratic nomination for Oklahoma's 3rd Congressional District in June 2026. Raised in Hennessey and an Oklahoma State University graduate, she most recently worked as a reporter for the Enid News & Eagle and has owned or partnered in businesses in Oklahoma and Florida.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/SuzieByrd4Congress/"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Web search was unavailable this round; her Facebook page could not be read without logging in and no campaign website, questionnaire or Wikipedia citation with her positions was found. All ten topics remain unknown."
+ },
+ {
+  "id": "OK-GOV/mike-mazzei",
+  "name": "Mike Mazzei",
+  "party": "Republican",
+  "current_role": "Financial adviser and former Oklahoma Secretary of Budget",
+  "bio": "Mike Mazzei served in the Oklahoma Senate from 2004 to 2016, where he chaired the Finance Committee, and was Oklahoma's Secretary of Budget from 2019 to 2020 under Governor Kevin Stitt. He founded a financial coaching business and leads an investment management firm. He is based in Tulsa.",
+  "website": "https://mikeforok.com",
+  "social": {
+   "x": "https://x.com/MazzeiMike",
+   "instagram": "https://www.instagram.com/mikemazzeiok/",
+   "facebook": "https://www.facebook.com/MikeForOK"
+  },
+  "platform": [
+   {
+    "topic": "Property tax",
+    "point": "Would phase out property taxes for seniors and veterans and move Oklahoma to no state income tax.",
+    "source": "https://mikeforok.com/the-issues/"
+   },
+   {
+    "topic": "Land",
+    "point": "Wants to close loopholes that let foreign adversaries control Oklahoma land.",
+    "source": "https://mikeforok.com/the-issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Prioritises reading proficiency and accountability in schools.",
+    "source": "https://mikeforok.com/the-issues/"
+   },
+   {
+    "topic": "Government",
+    "point": "Promises transparency and fiscal discipline in state government.",
+    "source": "https://mikeforok.com/the-issues/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Opposes abortion in all circumstances.",
+    "source": "https://mikeforok.com/the-issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "No sanctuary cities, mandatory state cooperation with ICE, and E-Verify required for employers and landlords.",
+    "source": "https://mikeforok.com/faq/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Remove barriers for oil and gas and end taxpayer-funded energy subsidies, including green-energy property tax breaks.",
+    "source": "https://mikeforok.com/faq/"
+   },
+   {
+    "topic": "Crime",
+    "point": "Restore felony penalties for theft over $50 and most drug offenses, and add more troopers, deputies and police.",
+    "source": "https://mikeforok.com/faq/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Proposes phasing out the state income tax.",
+    "source": "https://www.newson6.com/oklahoma-elections/oklahoma-governor-tax-plans-mazzei-drummond"
+   },
+   "welfare": {
+    "score": 35,
+    "evidence": "General pledge to reduce improper SNAP and TANF payments and cut SoonerCare waste; no program cuts specified.",
+    "source": "https://mikeforok.com/faq/"
+   },
+   "liberty": {
+    "score": 90,
+    "evidence": "Campaign issues page says he opposes abortion in all circumstances (abortion); his FAQ also backs restoring felony penalties for most drug offenses (drugs).",
+    "source": "https://mikeforok.com/the-issues/"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Would increase the number of state troopers, deputies and police and toughen theft and drug penalties.",
+    "source": "https://mikeforok.com/faq/"
+   },
+   "immigration": {
+    "score": 85,
+    "evidence": "Calls for no sanctuary cities, mandatory state ICE cooperation, E-Verify for employers and landlords, and no taxpayer resources for undocumented residents.",
+    "source": "https://mikeforok.com/faq/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 20,
+    "evidence": "Would remove barriers for the oil and gas industry and end taxpayer-funded energy subsidies, and his plan opposes green-energy property tax breaks and state land sales for green projects.",
+    "source": "https://mikeforok.com/faq/"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Would end data-center tax breaks and regulate their water and power use.",
+    "source": "https://www.news9.com/oklahoma-elections/who-should-i-vote-for-oklahomas-gubernatorial-runoff-drummond-mazzei"
+   },
+   "education": {
+    "score": 40,
+    "evidence": "General pledge to restore parental transparency and involvement, alongside literacy, performance pay and career-tech expansion; no voucher position found.",
+    "source": "https://mikeforok.com/the-plan/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the campaign Issues, Plan and FAQ pages plus News 9 and News On 6 coverage; foreign policy and faith remain unscored (his FAQ proposes a ban on Sharia law while protecting religious freedom, which does not fit the scale). Photo left unset because the Commons image lacks a named free license."
+ },
+ {
+  "id": "OR-3/loran-ayles",
+  "name": "Loran Ayles",
+  "party": "Republican",
+  "current_role": "Heavy equipment operator",
+  "bio": "Loran Ayles is a heavy equipment operator and the Republican nominee for Oregon's 3rd congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Web search was unavailable this round; Wikipedia's race page cites only state and FEC filings, and no campaign website, social account, voters' pamphlet statement or news coverage with positions was found."
+ },
+ {
+  "id": "OR-5/patti-adair",
+  "name": "Patti Adair",
+  "party": "Republican",
+  "current_role": "Deschutes County Commissioner",
+  "bio": "Patti Adair has served as a Deschutes County commissioner since 2019 and is in her second term. She is a certified public accountant who grew up on a ranch in Heppner, Oregon, and returned to the state from California in 2014. She won the Republican primary in May 2026 and also holds the Libertarian Party co-nomination.",
+  "website": "https://www.pattiforcongress.com",
+  "social": {
+   "x": "https://x.com/pattiadairor",
+   "instagram": "https://www.instagram.com/pattiadairor",
+   "facebook": "https://www.facebook.com/profile.php?id=61583499556979"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Reduce the cost of living for working Oregonians and extend tax cuts on tips, overtime and Social Security.",
+    "source": "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Back law enforcement fully so local communities stay safe.",
+    "source": "https://www.pattiforcongress.com/priorities"
+   },
+   {
+    "topic": "Natural resources",
+    "point": "Manage natural resources through responsible stewardship.",
+    "source": "https://www.pattiforcongress.com/priorities"
+   },
+   {
+    "topic": "Economic development",
+    "point": "Support business growth and entrepreneurs.",
+    "source": "https://www.pattiforcongress.com/priorities"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Prohibit insider trading by members of Congress.",
+    "source": "https://www.pattiforcongress.com/priorities"
+   },
+   {
+    "topic": "Federal spending",
+    "point": "Watch federal debt closely and keep spending accountable.",
+    "source": "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/"
+   },
+   {
+    "topic": "Drinking water",
+    "point": "Backs Salem and Marion County lawsuits to delay a Detroit Reservoir drawdown until a turbidity study is done.",
+    "source": "https://www.pattiforcongress.com/post/commissioner-patti-adair-stands-with-salem-and-marion-county-to-protect-regional-drinking-water"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Says Oregon taxes are among the highest and wants tip, overtime and Social Security tax cuts extended.",
+    "source": "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 60,
+    "evidence": "Pledges full support for law enforcement and cites increasing law enforcement funding as a commissioner.",
+    "source": "https://www.pattiforcongress.com/priorities"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the campaign priorities and news pages, OPB and the Bend Bulletin; she has published no positions on abortion, immigration, energy, foreign policy, tech, education or religion. Liberty left unscored for that reason."
+ },
+ {
+  "id": "PA-13/beth-farnham",
+  "name": "Beth Farnham",
+  "party": "Democratic",
+  "current_role": "Former school board member",
+  "bio": "Beth Farnham has worked as a credit analyst, administrative assistant and pharmacy technician and has served on a school board. A Baltimore native educated in public schools, she studied biology, French and secondary education, and she previously ran for PA-13.",
+  "website": "https://bethfarnhamforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/bethfarnhamforcongress",
+   "facebook": "https://www.facebook.com/profile.php?id=61554730581395",
+   "tiktok": "https://www.tiktok.com/@bethfarnhamforcongress",
+   "youtube": "https://www.youtube.com/@UnitePA13"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Create a national health program in federal law that covers all treatment and preventive care.",
+    "source": "https://bethfarnhamforcongress.com/"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Protect personal decisions on abortion and birth control.",
+    "source": "https://bethfarnhamforcongress.com/"
+   },
+   {
+    "topic": "Gun safety",
+    "point": "Reduce gun violence against children through measures such as universal background checks and red-flag orders.",
+    "source": "https://bethfarnhamforcongress.com/"
+   },
+   {
+    "topic": "Affordability",
+    "point": "Address rising living costs for working families, retirees, students and veterans.",
+    "source": "https://bethfarnhamforcongress.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Defend public education.",
+    "source": "https://bethfarnhamforcongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Argues that limits since 1965 left too few legal pathways, leading to unlawful entry and visa overstays.",
+    "source": "https://bethfarnhamforcongress.com/priorities/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Describes climate change as a threat through drought, severe weather, wildfires and harm to agriculture.",
+    "source": "https://bethfarnhamforcongress.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 95,
+    "evidence": "Wants a national healthcare program in federal law covering all treatment and preventive care.",
+    "source": "https://bethfarnhamforcongress.com/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports reproductive freedom on abortion and birth control and gun safety measures.",
+    "source": "https://bethfarnhamforcongress.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "General statement that the immigration system offers too few legal pathways; no specific bill or plan named.",
+    "source": "https://bethfarnhamforcongress.com/priorities/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 70,
+    "evidence": "General statement that climate change threatens humanity; no specific energy policy named.",
+    "source": "https://bethfarnhamforcongress.com/priorities/"
+   },
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "General campaign pledge to defend public education.",
+    "source": "https://bethfarnhamforcongress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://bethfarnhamforcongress.com/wp-content/uploads/2024/06/pxl_20251025_143840001.mp_.jpg",
+  "notes": "Checked the campaign home and priorities pages and local announcement coverage; her site gives no positions on taxes, foreign policy, tech, policing or religion. The location of her school board service was not stated."
+ },
+ {
+  "id": "PA-15/glenn-thompson",
+  "name": "Glenn Thompson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-15",
+  "bio": "Glenn \"GT\" Thompson has served in the U.S. House since 2009 (PA-5 until 2019, then PA-15) and has chaired the House Agriculture Committee since 2023. Born in Bellefonte and raised in Howard, he worked 28 years in therapeutic recreation and rehabilitation, including as a licensed nursing home administrator, and was a volunteer firefighter and EMT.",
+  "website": "https://gtthompson.com",
+  "social": {
+   "x": "https://x.com/CongressmanGT",
+   "instagram": "https://www.instagram.com/congressman_gt",
+   "facebook": "https://www.facebook.com/CongressmanGT",
+   "youtube": "https://www.youtube.com/user/CongressmanGT"
+  },
+  "platform": [
+   {
+    "topic": "Agriculture",
+    "point": "Support farming as Pennsylvania's leading industry and a driver of rural economies.",
+    "source": "https://thompson.house.gov/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Keep energy affordable and develop Marcellus Shale natural gas.",
+    "source": "https://thompson.house.gov/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand access to affordable rural education and career and technical education.",
+    "source": "https://thompson.house.gov/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Improve access, affordability and patient choice in rural health care.",
+    "source": "https://thompson.house.gov/issues"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Manage the Allegheny National Forest for multiple uses, including timber and energy.",
+    "source": "https://thompson.house.gov/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Campaign site says he is fighting for the sanctity of human life, including the unborn.",
+    "source": "https://gtthompson.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the One Big Beautiful Bill Act in July 2025, which permanently extended the 2017 individual tax rates.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted for the One Big Beautiful Bill Act, which added 80-hour monthly work requirements to SNAP and Medicaid.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Voted against the Respect for Marriage Act (LGBTQ rights) and campaigns as pro-life (abortion), and on guns opposed arming teachers while supporting funding for better background checks.",
+    "source": "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Voted for the Reforming Intelligence and Securing America Act (2024), which reauthorized FISA Section 702 surveillance.",
+    "source": "https://clerk.house.gov/Votes/2024119"
+   },
+   "immigration": {
+    "score": 60,
+    "evidence": "Voted for the 2021 Farm Workforce Modernization Act but also for the 2025 One Big Beautiful Bill Act with major border and ICE funding.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Voted for the 2024 Ukraine Security Supplemental Appropriations Act (H.R. 8035).",
+    "source": "https://clerk.house.gov/Votes/2024151"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Co-chairs the Natural Gas Caucus, opposed the WOTUS rule and voted for the 2025 law repealing several clean-energy tax credits.",
+    "source": "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Voted for the 2024 bill requiring TikTok's divestment from foreign-adversary control (H.R. 7521).",
+    "source": "https://clerk.house.gov/Votes/202486"
+   },
+   "education": {
+    "score": 30,
+    "evidence": "Voted for the 2023 Parents Bill of Rights Act (H.R. 5) and co-chairs the Career and Technical Education Caucus.",
+    "source": "https://clerk.house.gov/Votes/2023161"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Scores rest mainly on House roll-call votes from the Clerk's site because thompson.house.gov blocked automated access; campaign site is gtthompson.com. Faith remains unscored for lack of a specific vote or statement found."
+ },
+ {
+  "id": "PA-2/jessica-arriaga",
+  "name": "Jessica Arriaga",
+  "party": "Republican",
+  "current_role": "Healthcare professional",
+  "bio": "Jessica Arriaga is a North Philadelphia native who has worked for more than 20 years in operating rooms and in community health care. She is running as a first-time candidate.",
+  "website": "https://jessforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/jessicaarriaga4philly/",
+   "facebook": "https://www.facebook.com/profile.php?id=61586313816557"
+  },
+  "platform": [
+   {
+    "topic": "Public safety",
+    "point": "Seek federal resources aimed at repeat violent offenders, plus community prevention and mental health and addiction services.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Lower the tax burden on working families and cut federal rules that burden small businesses.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   {
+    "topic": "Jobs",
+    "point": "Expand job training tied to local employers and targeted infrastructure and industry investment.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand career and technical education and school-to-career partnerships with unions and employers.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand affordable care, lower costs and require more price transparency for patients.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   {
+    "topic": "Families",
+    "point": "Expand access to childcare and support working parents.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Strengthen federal spending oversight and transparency in how funds reach cities.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 40,
+    "evidence": "General mix of lower taxes on working families, fewer regulations and targeted industry investment; no specific bill named.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "General pledges to expand childcare access and affordable health care; no universal program proposed.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   "liberty": null,
+   "security": {
+    "score": 55,
+    "evidence": "Wants federal resources targeting repeat violent offenders alongside prevention and mental health services; general statement.",
+    "source": "https://jessforcongress.com/results-for-philadelphia/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the campaign home and Results for Philadelphia pages; the site gives no positions on abortion, immigration, energy, foreign policy, tech or religion. Her career-education focus does not fit the school-choice scale, so education is unscored."
+ }
+]

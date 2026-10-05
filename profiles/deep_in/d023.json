@@ -1,0 +1,416 @@
+[
+ {
+  "id": "AR-3/bobby-wilson",
+  "name": "Bobby Wilson",
+  "party": "Libertarian",
+  "race": "AR-3",
+  "race_label": "Arkansas · US House AR-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AR-3/bobby-wilson",
+   "name": "Bobby Wilson",
+   "party": "Libertarian",
+   "current_role": "",
+   "bio": "Bobby Wilson is the Libertarian Party nominee for Arkansas's 3rd Congressional District in 2026. Little public biographical information is available.",
+   "website": "https://bobbyforcongress.mydurable.com",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Only contact details were found on the Libertarian Party of Arkansas candidate list (https://lpar.org/2026-libertarian-candidates/); the campaign site was not reviewed."
+  }
+ },
+ {
+  "id": "AZ-2/curtis-goodwin",
+  "name": "Curtis Goodwin",
+  "party": "Libertarian",
+  "race": "AZ-2",
+  "race_label": "Arizona · US House AZ-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AZ-2/curtis-goodwin",
+   "name": "Curtis Goodwin",
+   "party": "Libertarian",
+   "current_role": "Maintenance technician",
+   "bio": "Curtis Goodwin is the Libertarian candidate for Arizona's 2nd Congressional District. He works as a maintenance technician and industrial painter.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or public policy statements found."
+  }
+ },
+ {
+  "id": "AZ-4/tisha-benoit",
+  "name": "Tisha Benoit",
+  "party": "No Labels",
+  "race": "AZ-4",
+  "race_label": "Arizona · US House AZ-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AZ-4/tisha-benoit",
+   "name": "Tisha Benoit",
+   "party": "No Labels",
+   "current_role": "Integrative medicine practitioner and small-business owner",
+   "bio": "Tisha Benoit is a doctor of integrative medicine and small-business owner who was clinic supervisor at the Phoenix Institute of Herbal Medicine and Acupuncture from 2008 to 2019. She won the No Labels Party nomination for Arizona's 4th district in July 2026.",
+   "website": "https://tishabenoit.com",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Economy",
+     "point": "Plans to cut unneeded regulations, pursue pro-growth tax policy, expand manufacturing and fight inflation.",
+     "source": "https://www.ballotready.org/people/tisha-benoit"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Supports secure, orderly border management while keeping lawful trade and travel moving.",
+     "source": "https://www.ballotready.org/people/tisha-benoit"
+    },
+    {
+     "topic": "Opioids",
+     "point": "Prioritizes fighting the opioid epidemic with mental health and recovery support.",
+     "source": "https://www.ballotready.org/people/tisha-benoit"
+    },
+    {
+     "topic": "Social services",
+     "point": "Proposes safe houses for vulnerable women and children.",
+     "source": "https://www.ballotready.org/people/tisha-benoit"
+    },
+    {
+     "topic": "Education",
+     "point": "Wants to expand federal vocational education grants and modernize career-track programs.",
+     "source": "https://www.ballotready.org/people/tisha-benoit"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Calls for regulatory cuts and pro-growth tax policies.",
+     "source": "https://www.ballotready.org/people/tisha-benoit"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 60,
+     "evidence": "Favors secure, orderly border management that controls entry while keeping lawful trade and travel moving.",
+     "source": "https://www.ballotready.org/people/tisha-benoit"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Coverage also says she backs law enforcement and Second Amendment rights, but no primary source was reviewed for those."
+  }
+ },
+ {
+  "id": "AZ-6/jereme-peters",
+  "name": "Jereme Peters",
+  "party": "Libertarian",
+  "race": "AZ-6",
+  "race_label": "Arizona · US House AZ-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AZ-6/jereme-peters",
+   "name": "Jereme Peters",
+   "party": "Libertarian",
+   "current_role": "",
+   "bio": "Jereme Peters is the Libertarian nominee for Arizona's 6th congressional district and was unopposed in the July 2026 primary. He has not held public office, and little biographical information is public.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Government",
+     "point": "Aims to reduce government overreach and promote personal freedoms.",
+     "source": "https://www.decodethevote.com/candidate/sos-AZ-us-house-6-jereme-lance-peters"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or specific issue positions were found."
+  }
+ },
+ {
+  "id": "CO-1/critter-milton",
+  "name": "Critter Milton",
+  "party": "Unity",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CO-1/critter-milton",
+   "name": "Critter Milton",
+   "party": "Unity",
+   "current_role": "",
+   "bio": "Critter Milton is the Unity Party candidate for Colorado's 1st Congressional District on the 2026 general election ballot. No further public biography was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or issue positions found."
+  }
+ },
+ {
+  "id": "CO-1/chad-humphrey",
+  "name": "Chad Humphrey",
+  "party": "Libertarian",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CO-1/chad-humphrey",
+   "name": "Chad Humphrey",
+   "party": "Libertarian",
+   "current_role": "",
+   "bio": "Chad Humphrey is the Libertarian candidate for Colorado's 1st Congressional District on the 2026 general election ballot. No further public biography was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or issue positions found."
+  }
+ },
+ {
+  "id": "CO-1/shimon-blau",
+  "name": "Shimon Blau",
+  "party": "Independent",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CO-1/shimon-blau",
+   "name": "Shimon Blau",
+   "party": "Independent",
+   "current_role": "Medical doctor",
+   "bio": "Shimon Blau is a medical doctor running as an independent for Colorado's 1st Congressional District. No further public biography was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or issue positions found."
+  }
+ },
+ {
+  "id": "CO-2/gaylon-kent",
+  "name": "Gaylon Kent",
+  "party": "Libertarian",
+  "race": "CO-2",
+  "race_label": "Colorado · US House CO-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CO-2/gaylon-kent",
+   "name": "Gaylon Kent",
+   "party": "Libertarian",
+   "current_role": "",
+   "bio": "Gaylon Kent is the Libertarian candidate for Colorado's 2nd Congressional District on the 2026 general election ballot. No further public biography was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or issue positions found."
+  }
+ }
+]

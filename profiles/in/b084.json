@@ -1,0 +1,396 @@
+[
+ {
+  "id": "PA-16/justin-wagner",
+  "name": "Justin Wagner",
+  "party": "Democratic",
+  "race": "PA-16",
+  "race_label": "Pennsylvania · US House PA-16",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 25,
+    "foreign": 30,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes Trump administration anti-immigration operations and Middle East military activity; otherwise campaigns broadly on affordability and money out of politics.",
+   "sources": [
+    "https://www.butlereagle.com/20260521/matchup-set-for-16th-district-race-between-kelly-and-wagner/",
+    "https://justinwagnerforcongress.com"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-17/chris-deluzio",
+  "name": "Chris Deluzio",
+  "party": "Democratic",
+  "race": "PA-17",
+  "race_label": "Pennsylvania · US House PA-17",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000530",
+   "official_name": "Christopher R. Deluzio",
+   "chamber": "House",
+   "official_site": "https://deluzio.house.gov",
+   "official_social": {
+    "twitter": "RepDeluzio",
+    "facebook": "RepChrisDeluzio",
+    "instagram": "RepDeluzio"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 95,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cosponsored Medicare for All and PRO Act, shrinkflation bill; supports abortion rights; supported Israel aid after October 7 and cluster munitions for Ukraine.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chris_Deluzio"
+   ],
+   "photo": {
+    "file": "File:Chris Deluzio 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "PA-17/tony-guy",
+  "name": "Tony Guy",
+  "party": "Republican",
+  "race": "PA-17",
+  "race_label": "Pennsylvania · US House PA-17",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 80,
+    "security": 80,
+    "immigration": 90,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cut regulation, protect Second Amendment, back the blue, finish the wall and deport criminal migrants, Remain in Mexico, energy dominance.",
+   "sources": [
+    "https://tonyguyforcongress.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "RI-1/gabe-amo",
+  "name": "Gabe Amo",
+  "party": "Democratic",
+  "race": "RI-1",
+  "race_label": "Rhode Island · US House RI-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "A000380",
+   "official_name": "Gabe Amo",
+   "chamber": "House",
+   "official_site": "https://amo.house.gov",
+   "official_social": {
+    "twitter": "RepGabeAmo",
+    "facebook": "61553581414066",
+    "instagram": "repgabeamo"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": 80,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2024 Ukraine, Israel and Taiwan aid and against 2025 GOP tax-and-Medicaid bill; backs abortion rights, gun-violence action, climate action.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gabe_Amo"
+   ],
+   "photo": {
+    "file": "File:Gabe Amo 118th Cong.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "RI-1/kellie-keenan",
+  "name": "Kellie Keenan",
+  "party": "Republican",
+  "race": "RI-1",
+  "race_label": "Rhode Island · US House RI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 70,
+    "foreign": null,
+    "energy": 45,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Backs tax relief and deregulation for small business, strong border protection, diversified energy with nuclear, school choice and a parental bill of rights.",
+   "sources": [
+    "https://www.kelliekeenanforcongressri.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "RI-1/wilfred-curioso",
+  "name": "Wilfred Curioso",
+  "party": "Independent",
+  "race": "RI-1",
+  "race_label": "Rhode Island · US House RI-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Rhode_Island's_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "RI-2/seth-magaziner",
+  "name": "Seth Magaziner",
+  "party": "Democratic",
+  "race": "RI-2",
+  "race_label": "Rhode Island · US House RI-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001223",
+   "official_name": "Seth Magaziner",
+   "chamber": "House",
+   "official_site": "https://magaziner.house.gov",
+   "official_social": {
+    "twitter": "Rep_Magaziner",
+    "facebook": "repsethmagaziner"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against 2025 GOP tax-and-Medicaid bill; campaigns on abortion rights and gun-violence prevention; founded green infrastructure bank as state treasurer.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Seth_Magaziner",
+    "https://magaziner.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Seth Magaziner (1).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "RI-2/victor-mellor",
+  "name": "Victor Mellor",
+  "party": "Republican",
+  "race": "RI-2",
+  "race_label": "Rhode Island · US House RI-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": 55,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Favors cutting taxes and regulation, gun rights, medical freedom and free speech, deporting criminal migrants with residency path for law-abiding workers, parental rights.",
+   "sources": [
+    "https://vicmellor.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "RI-2/armando-anzoli",
+  "name": "Armando Anzoli",
+  "party": "Independent",
+  "race": "RI-2",
+  "race_label": "Rhode Island · US House RI-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Rhode_Island's_2nd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-1/jenny-costa-honeycutt",
+  "name": "Jenny Costa Honeycutt",
+  "party": "Republican",
+  "race": "SC-1",
+  "race_label": "South Carolina · US House SC-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": null,
+    "liberty": 60,
+    "security": 70,
+    "immigration": 75,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Pledges spending cuts and balanced budget, opposes abortion, backs gun rights and free speech, border security, law enforcement, religious liberty.",
+   "sources": [
+    "https://www.jennycostahoneycutt.com/platform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-1/nancy-lacore",
+  "name": "Nancy Lacore",
+  "party": "Democratic",
+  "race": "SC-1",
+  "race_label": "South Carolina · US House SC-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 25,
+    "security": 35,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs restoring ACA subsidies, drug price negotiation, abortion rights in law, citizenship pathways with ICE accountability, offshore drilling ban, clean energy.",
+   "sources": [
+    "https://www.nancylacore.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SC-1/bill-reeside",
+  "name": "Bill Reeside",
+  "party": "Libertarian",
+  "race": "SC-1",
+  "race_label": "South Carolina · US House SC-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 10,
+    "immigration": 30,
+    "foreign": 20,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Libertarian fiscal conservative who wants the Patriot Act and military force authorizations repealed and says he supports immigration.",
+   "sources": [
+    "https://www.live5news.com/2026/04/10/we-palmetto-meet-candidate-bill-reeside-sc-01/"
+   ],
+   "photo": null
+  }
+ }
+]

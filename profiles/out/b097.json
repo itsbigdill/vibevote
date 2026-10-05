@@ -1,0 +1,885 @@
+[
+ {
+  "id": "TX-38/alex-mcmenemy",
+  "name": "Alex McMenemy",
+  "party": "Green",
+  "current_role": "Musician and community advocate",
+  "bio": "Alex McMenemy is the Green Party nominee for Texas's 38th Congressional District in northwest Houston. He is from Tomball, Texas, and works as a musician and community advocate. He describes himself as an ecosocialist and anti-corruption campaigner.",
+  "website": "https://alexforthepeople.org/",
+  "social": {
+   "x": "https://x.com/AlexMForTexas",
+   "instagram": "https://www.instagram.com/mcmenemy.alex",
+   "facebook": "https://www.facebook.com/share/18Bx6dponh/",
+   "tiktok": "https://www.tiktok.com/@alexmcmenemy"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Create free, universal healthcare for everyone in place of the private, profit-based system.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   {
+    "topic": "Wages and labor",
+    "point": "Raise the minimum wage to $25 an hour and strengthen union protections.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Move to clean energy and expand public transportation.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Abolish ICE and hold those involved in its operations accountable.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "End U.S. military interventions and back boycott, divestment and sanctions against Israel.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   {
+    "topic": "Money in politics",
+    "point": "Ban congressional stock trading, overturn Citizens United and end super PACs.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 90,
+    "evidence": "Calls for a $25 minimum wage and stronger unions.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports free universal healthcare and free universal higher education.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 5,
+    "evidence": "Calls for abolishing ICE.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   "foreign": {
+    "score": 10,
+    "evidence": "Wants to end U.S. military interventions abroad and sanction Israel.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   "energy": {
+    "score": 85,
+    "evidence": "Supports a transition to clean energy and expanded public transit.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Supports free, universal public higher education.",
+    "source": "https://alexforthepeople.org/our-platform/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://alexforthepeople.org/wp-content/uploads/2026/01/1000003290.jpg",
+  "notes": "Ballotpedia could not be reached, so the biography relies on the campaign website."
+ },
+ {
+  "id": "UT-1/ben-mcadams",
+  "name": "Ben McAdams",
+  "party": "Democratic",
+  "current_role": "Former U.S. Representative for UT-4",
+  "bio": "Ben McAdams represented Utah's 4th Congressional District from 2019 to 2021, served as Salt Lake County Mayor from 2013 to 2019, and was a Utah state senator from 2009 to 2012. He is a securities lawyer who studied at the University of Utah and Columbia Law School, and he grew up in West Bountiful, Utah. He describes himself as a moderate Democrat.",
+  "website": "https://benmcadams.com/",
+  "social": {
+   "x": "https://x.com/BenMcAdams",
+   "instagram": "https://www.instagram.com/benmcadamsforcongress/",
+   "facebook": "https://www.facebook.com/benmcadamsutah"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Lower housing and everyday costs and build economic security for working families.",
+    "source": "https://benmcadams.com/platform/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Expand access to affordable medical care for Utahns.",
+    "source": "https://benmcadams.com/platform/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Reduce pollution and increase funding for energy efficiency.",
+    "source": "https://benmcadams.com/"
+   },
+   {
+    "topic": "Democracy",
+    "point": "Defend the rule of law, civil liberties, due process and the will of voters.",
+    "source": "https://benmcadams.com/platform/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Opposes deporting law-abiding immigrants without due process.",
+    "source": "https://benmcadams.com/platform/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Opposed the 2017 tax cuts while backing a balanced budget amendment.",
+    "source": "https://en.wikipedia.org/wiki/Ben_McAdams"
+   },
+   "welfare": {
+    "score": 55,
+    "evidence": "Favors fixing the ACA rather than repealing it and restoring CHIP funding.",
+    "source": "https://www.ontheissues.org/House/Ben_McAdams.htm"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Abortion: pledged support for abortion rights in 2026; guns: universal background checks; LGBTQ: supports family equality.",
+    "source": "https://en.wikipedia.org/wiki/Ben_McAdams"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Supports a path to citizenship for DREAMers alongside border security.",
+    "source": "https://www.ontheissues.org/House/Ben_McAdams.htm"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 70,
+    "evidence": "Supports climate action and funding for wind and solar energy.",
+    "source": "https://www.ontheissues.org/House/Ben_McAdams.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "Stated opposition to school vouchers in 2018.",
+    "source": "https://www.ontheissues.org/House/Ben_McAdams.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Ben McAdams, official portrait, 116th Congress.jpg",
+   "license": "Public domain",
+   "author": "Eric Connolly, U.S. House of Representatives"
+  },
+  "campaign_photo": "",
+  "notes": "OnTheIssues also lists a 2018 statement supporting permanent income tax cuts, which sits alongside his opposition to the 2017 tax law."
+ },
+ {
+  "id": "UT-1/riley-owen",
+  "name": "Riley Owen",
+  "party": "Republican",
+  "current_role": "Navy Reserve intelligence officer",
+  "bio": "Riley Owen won the Utah Republican convention nomination for the redrawn 1st Congressional District in April 2026. He studied international affairs and public policy at Princeton and Oxford, worked as a White House policy analyst and in tech startups, and led the conservative group Doers Network. He serves as an intelligence officer in the Navy Reserve.",
+  "website": "https://www.utahriley.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/utahriley/",
+   "facebook": "https://www.facebook.com/people/Riley-Owen-for-Utah/61588417742948/",
+   "youtube": "https://www.youtube.com/@utahriley"
+  },
+  "platform": [
+   {
+    "topic": "Families",
+    "point": "Expand tax credits for businesses that offer six weeks of paid maternity leave.",
+    "source": "https://www.utahriley.com/issues"
+   },
+   {
+    "topic": "Housing",
+    "point": "Tie federal funding for localities to zoning reforms that allow more housing.",
+    "source": "https://www.utahriley.com/issues"
+   },
+   {
+    "topic": "Kids online",
+    "point": "Require age verification and limit social media use for users under 16.",
+    "source": "https://www.deseret.com/politics/2026/08/11/utah-republican-trying-to-win-states-new-blue-district/"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Ban stock trading by members and staff, set congressional term limits and overturn Citizens United.",
+    "source": "https://www.utahriley.com/issues"
+   },
+   {
+    "topic": "Defense",
+    "point": "Cut military costs by prioritizing unmanned systems over legacy platforms.",
+    "source": "https://www.utahriley.com/issues"
+   },
+   {
+    "topic": "Great Salt Lake",
+    "point": "Bring stakeholders together on Great Salt Lake conservation and expand state authority over public lands.",
+    "source": "https://www.utahriley.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 40,
+    "evidence": "Favors fiscal restraint and market solutions, plus targeted tax credits for paid maternity leave.",
+    "source": "https://www.deseret.com/politics/2026/08/11/utah-republican-trying-to-win-states-new-blue-district/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Proposes age verification and social media limits for minors under 16.",
+    "source": "https://www.utahriley.com/issues"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His immigration plank is general (rule of law plus a modernized system), so no immigration score was set."
+ },
+ {
+  "id": "UT-1/jesse-west",
+  "name": "Jesse West",
+  "party": "Libertarian",
+  "current_role": "Family law attorney",
+  "bio": "Jesse West is a family law attorney in Salt Lake City and a leader in the Salt Lake Libertarian Party. He is originally from Tennessee and moved to Utah in 2020. His campaign slogan is 'Ski not War.'",
+  "website": "https://www.jessewest2026.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Foreign policy",
+    "point": "End unnecessary wars.",
+    "source": "https://lp.org/candidate/jesse-west/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Protect Utah's environment and the Great Salt Lake.",
+    "source": "https://lp.org/candidate/jesse-west/"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "End the federal death penalty.",
+    "source": "https://lp.org/candidate/jesse-west/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Reduce taxes.",
+    "source": "https://lp.org/candidate/jesse-west/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Oppose heavy-handed immigration enforcement.",
+    "source": "https://lp.org/candidate/jesse-west/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Campaigns on reducing taxes.",
+    "source": "https://lp.org/candidate/jesse-west/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 30,
+    "evidence": "Calls for ending the federal death penalty.",
+    "source": "https://lp.org/candidate/jesse-west/"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Opposes what he calls oppressive immigration enforcement.",
+    "source": "https://lp.org/candidate/jesse-west/"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Calls for ending needless wars under the slogan 'Ski not War.'",
+    "source": "https://lp.org/candidate/jesse-west/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign site showed only a header when fetched, so positions come from his Libertarian Party candidate page; sources differ on whether he leads the Salt Lake City or Salt Lake County party."
+ },
+ {
+  "id": "UT-1/elias-montgomery",
+  "name": "Elias Montgomery",
+  "party": "Independent",
+  "current_role": "Graduate researcher and data analyst",
+  "bio": "Elias Montgomery is an independent candidate for Utah's 1st Congressional District. He works as a graduate researcher and data analyst. His campaign focuses on housing costs, economic structure and anti-corruption reforms.",
+  "website": "https://www.eliasmontgomery.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Phase out the federal individual income tax over ten years and shift revenue to the states.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Guarantee a universal floor for catastrophic and emergency care while keeping routine care competitive.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   {
+    "topic": "Privacy",
+    "point": "Treat personal data as property and ban mass public facial recognition.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Streamline legal visas and focus federal enforcement on cartels and violent criminal networks.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   {
+    "topic": "Policing",
+    "point": "Fund professional police with required body cameras and independent citizen oversight.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Oppose secret data center subsidies and set measurable Great Salt Lake restoration goals.",
+    "source": "https://www.eliasmontgomery.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 40,
+    "evidence": "Would phase out the federal income tax but require upfront, transparent pricing from hospitals and clinics.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   "welfare": {
+    "score": 45,
+    "evidence": "Backs a universal catastrophic-care floor with market-based everyday care.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Abortion: opposes criminalization; LGBTQ: backs non-discrimination protections; guns: supports Second Amendment protections.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   "security": {
+    "score": 15,
+    "evidence": "Would ban mass facial recognition and close loopholes letting the FBI buy tracking data without warrants.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports streamlined legal visas and opposes sweeping community roundups, alongside border checkpoints.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 45,
+    "evidence": "Opposes federal energy mandates but wants to cut red tape for small nuclear and solar projects.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   "tech": {
+    "score": 80,
+    "evidence": "Would define personal data as property and restrict surveillance technology and data center development.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   "education": {
+    "score": 40,
+    "evidence": "Supports parental online access to lesson materials and less federal Education Department oversight.",
+    "source": "https://www.eliasmontgomery.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/697c0379dee39a2c111a4e92/18bd2d68-de96-4c20-a243-8ace76be307d/Designer.png",
+  "notes": "Little biographical detail beyond his occupation was found; the campaign image file is named 'Designer.png', so it may be a generated or edited image rather than a photograph."
+ },
+ {
+  "id": "UT-2/blake-moore",
+  "name": "Blake Moore",
+  "party": "Republican",
+  "current_role": "U.S. Representative for UT-1",
+  "bio": "Blake Moore has represented Utah's 1st Congressional District since 2021 and is vice chair of the House Republican Conference; under the court-ordered map he is running in the 2nd District. He sits on the Ways and Means and Budget committees. He is from Ogden and previously worked as a U.S. Foreign Service officer and management consultant.",
+  "website": "https://electmoore.com/",
+  "social": {
+   "x": "https://twitter.com/ElectBlakeMoore",
+   "instagram": "https://instagram.com/electblakemoore",
+   "facebook": "https://facebook.com/ElectBlakeMoore",
+   "youtube": "https://www.youtube.com/@RepBlakeMoore"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Make the Trump tax cuts permanent and expand child, adoption and small-business tax credits.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   },
+   {
+    "topic": "National debt",
+    "point": "Address the debt through growth, program reforms, spending cuts and budget enforcement.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   },
+   {
+    "topic": "Defense",
+    "point": "Strengthen Hill Air Force Base, including Sentinel program jobs and depot upgrades.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   },
+   {
+    "topic": "China",
+    "point": "Bring circuit board manufacturing back to the U.S. to reduce dependence on China.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   },
+   {
+    "topic": "Outdoors",
+    "point": "Expand public land and shooting range access and support Great Salt Lake conservation.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Oppose abortion and support pregnancy resource centers.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Supports permanent Trump tax cuts and expanded business expensing; opposes higher taxes on the wealthy.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted against the 2021 American Rescue Plan and favors market-based replacement of the ACA.",
+    "source": "https://www.ontheissues.org/House/Blake_Moore.htm"
+   },
+   "liberty": {
+    "score": 50,
+    "evidence": "Abortion: A-plus SBA Pro-Life rating; guns: opposed universal background checks; LGBTQ: voted for the Respect for Marriage Act.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   },
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Puts border security before expanding legal immigration.",
+    "source": "https://www.ontheissues.org/House/Blake_Moore.htm"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Says he stands with Israel and wants to counter China.",
+    "source": "https://electmoore.com/fighting-for-utah-families"
+   },
+   "energy": {
+    "score": 30,
+    "evidence": "Favors state authority over EPA rules and American energy independence.",
+    "source": "https://www.ontheissues.org/House/Blake_Moore.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 35,
+    "evidence": "Favors local control of K-12 schools and market-based school choice.",
+    "source": "https://www.ontheissues.org/House/Blake_Moore.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Security cleared to null because no evidence was found for the earlier score of 65."
+ },
+ {
+  "id": "UT-2/peter-crosby",
+  "name": "Peter Crosby",
+  "party": "Democratic",
+  "current_role": "Adjunct professor and project manager",
+  "bio": "Peter Crosby has lived in Northern Utah for 19 years and holds bachelor's and master's degrees in political science from Utah State University. He worked in operations and corporate analytics, spent eight years in institutional research, and taught American Institutions at Utah State for seven years. He now teaches graduate courses on emerging technology and works as a private-sector project manager and consultant.",
+  "website": "https://www.petercrosbyforcongress.org/",
+  "social": {
+   "tiktok": "https://www.tiktok.com/@petercrosbyforcongress",
+   "youtube": "https://www.youtube.com/@PeterCrosbyforCongress"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Reform housing regulations, end recent tariffs and set realistic living wages.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Move toward a single-payer system built on expanded Medicare, with room for private competition.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   {
+    "topic": "Rural healthcare",
+    "point": "Oppose Medicaid cuts that he says threaten rural hospitals.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   {
+    "topic": "Great Salt Lake",
+    "point": "Secure $1 billion in federal funding for Great Salt Lake restoration and help affected farmers.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Ban congressional stock trading and reduce corporate influence in politics.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   {
+    "topic": "AI and data",
+    "point": "Oppose surveillance algorithms, hold corporations accountable and update data privacy law.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Backs living wages and curbing corporate influence, though he also wants tariffs ended.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Supports single-payer healthcare through expanded Medicare and opposes Medicaid cuts.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   "liberty": null,
+   "security": {
+    "score": 25,
+    "evidence": "Opposes algorithms used to surveil citizens.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 60,
+    "evidence": "Seeks federal funds for Great Salt Lake restoration and environmental review of data centers.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   "tech": {
+    "score": 75,
+    "evidence": "Wants corporate accountability for AI and updated data privacy laws.",
+    "source": "https://www.petercrosbyforcongress.org/policies"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign's Instagram and Threads handles appeared misspelled on the site, so they were left out."
+ },
+ {
+  "id": "UT-2/carlton-bowen",
+  "name": "Carlton Bowen",
+  "party": "Independent American",
+  "current_role": "Chair of the Independent American Party of Utah",
+  "bio": "Carlton Bowen is an Air Force veteran who worked in intelligence, then in information technology and program management. He served on the American Fork City Council and chairs the Independent American Party of Utah. He was the party's U.S. Senate nominee in 2000 and 2024, receiving 5.7% of the vote in 2024.",
+  "website": "https://bowenforcongress.com/",
+  "social": {
+   "x": "https://x.com/Bowen4Congress",
+   "instagram": "https://instagram.com/BowenForCongress",
+   "facebook": "https://facebook.com/BowenForCongress",
+   "tiktok": "https://www.tiktok.com/@BowenForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Constitution",
+    "point": "Vote only for legislation with clear constitutional authority.",
+    "source": "https://bowenforcongress.com/issues/"
+   },
+   {
+    "topic": "National debt",
+    "point": "Rein in federal spending, which he links to inflation and higher family costs.",
+    "source": "https://bowenforcongress.com/issues/"
+   },
+   {
+    "topic": "Data center",
+    "point": "Oppose the Box Elder data center until questions about water, purpose and approval are answered.",
+    "source": "https://bowenforcongress.com/issues/"
+   },
+   {
+    "topic": "Families",
+    "point": "Protect parental rights and end federal policies that penalize marriage.",
+    "source": "https://bowenforcongress.com/issues/"
+   },
+   {
+    "topic": "National security",
+    "point": "Pursue peace through strength and domestic munitions production while avoiding foreign entanglements.",
+    "source": "https://bowenforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Calls for fiscal discipline and limiting federal action to constitutional authority.",
+    "source": "https://bowenforcongress.com/issues/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 85,
+    "evidence": "Abortion: in his 2024 Senate race he opposed it even in cases of rape or incest.",
+    "source": "https://en.wikipedia.org/wiki/Utah_Independent_American_Party"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Opposes surveillance he considers unconstitutional.",
+    "source": "https://bowenforcongress.com/issues/"
+   },
+   "immigration": null,
+   "foreign": {
+    "score": 40,
+    "evidence": "Backs military readiness but opposes reckless foreign entanglements.",
+    "source": "https://bowenforcongress.com/issues/"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "In 2024 he campaigned to shrink national monuments and roll back environmental protections.",
+    "source": "https://en.wikipedia.org/wiki/Utah_Independent_American_Party"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Emphasizes protecting parental rights.",
+    "source": "https://bowenforcongress.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://bowenforcongress.com/assets/img/carlton-bowen-headshot.jpg",
+  "notes": "His liberty and energy scores rest on positions from his 2024 Senate campaign."
+ },
+ {
+  "id": "UT-2/daniel-cottam",
+  "name": "Daniel Cottam",
+  "party": "Libertarian",
+  "current_role": "Bariatric surgeon",
+  "bio": "Daniel Cottam is a bariatric surgeon, business owner and medical device consultant who studied at Brigham Young University and earned his medical degree from the University of Texas. He ran for the Utah House in 2022 and for Congress in Utah's 1st District in 2024, and he has also run for governor. He has previously been registered as both a Republican and a Democrat.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/CottamForCongress"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or published 2026 issue positions were found."
+ },
+ {
+  "id": "UT-2/robert-moesinger",
+  "name": "Robert Moesinger",
+  "party": "Independent",
+  "current_role": "Automation engineer",
+  "bio": "Robert Moesinger is an automation engineer running as an independent in Utah's 2nd Congressional District. His campaign centers on electoral reform to reduce partisan gridlock.",
+  "website": "https://www.improveourelections.org/",
+  "social": {
+   "instagram": "https://www.instagram.com/improve.our.elections",
+   "facebook": "https://www.facebook.com/share/DWDnWS3oy/",
+   "youtube": "https://www.youtube.com/@ImproveOurElections"
+  },
+  "platform": [
+   {
+    "topic": "Multi-party democracy",
+    "point": "Move beyond the two-party system so more viewpoints are represented.",
+    "source": "https://www.improveourelections.org/"
+   },
+   {
+    "topic": "Partisanship",
+    "point": "Adopt institutional reforms that reduce partisan gridlock.",
+    "source": "https://www.improveourelections.org/"
+   },
+   {
+    "topic": "Election reform",
+    "point": "Change election rules so that more than two parties can be viable.",
+    "source": "https://www.improveourelections.org/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site covers only electoral reform; his occupation comes from Politics1."
+ },
+ {
+  "id": "UT-3/celeste-maloy",
+  "name": "Celeste Maloy",
+  "party": "Republican",
+  "current_role": "U.S. Representative for UT-2",
+  "bio": "Celeste Maloy has represented Utah's 2nd Congressional District since winning a 2023 special election, and under the new map she is running in the 3rd District. She sits on the Appropriations and Natural Resources committees. Born in Cedar City, she worked 11 years as a soil conservationist, then as a Washington County deputy attorney and as chief legal counsel to Rep. Chris Stewart.",
+  "website": "https://celesteforutah.com/",
+  "social": {
+   "x": "https://twitter.com/CelesteMaloyUT",
+   "instagram": "https://www.instagram.com/celestemaloyut/",
+   "facebook": "https://www.facebook.com/CelestemaloyUT",
+   "youtube": "https://www.youtube.com/@RepCelesteMaloy"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Keep recent tax cuts, including no tax on tips or overtime and relief for seniors.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   {
+    "topic": "Border",
+    "point": "Fully fund the border wall and give Border Patrol more technology.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Remove regulations on domestic energy production and expand refining capacity.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Give Utah more control over its lands and resources.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   {
+    "topic": "Spending",
+    "point": "Cut bureaucracy and wasteful spending from her seat on Appropriations.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   {
+    "topic": "Defense",
+    "point": "Fund a strong military and protect Hill Air Force Base.",
+    "source": "https://celesteforutah.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Supports broad tax cuts and reducing federal bureaucracy and spending.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 45,
+    "evidence": "Abortion: pro-life; guns: treats Second Amendment rights as absolute, which pull in opposite directions on this scale.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Supports fully funding a border wall and Remain in Mexico.",
+    "source": "https://maloy.house.gov/Issues/Issue/?IssueID=15136"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Supports robust national defense funding and a strong military.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Wants fewer regulations on domestic energy production and more refining.",
+    "source": "https://celesteforutah.com/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 75,
+    "evidence": "Makes protecting religious freedom and public faith practice a core priority.",
+    "source": "https://celesteforutah.com/issues"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Liberty raised from 20 to 45 because her pro-life stance offsets her gun-rights stance on this scale."
+ },
+ {
+  "id": "UT-3/kent-udell",
+  "name": "Kent Udell",
+  "party": "Democratic",
+  "current_role": "Professor emeritus of mechanical engineering",
+  "bio": "Kent Udell is a mechanical engineer and professor emeritus who taught at UC Berkeley and the University of Utah, where he chaired an engineering department. He developed groundwater cleanup technologies, served on federal advisory boards and worked with mining, petroleum, geothermal and solar industries. He was born in Lehi, Utah, and lives near Moab.",
+  "website": "https://www.kentudellforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/kentstewartudell4utah",
+   "facebook": "https://www.facebook.com/stewart.udell"
+  },
+  "platform": [
+   {
+    "topic": "Water",
+    "point": "Protect water supplies for communities, farms and tribes, including the Great Salt Lake and Colorado River.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Manage Utah's public lands for long-term stewardship.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Reduce insurer influence and expand programs such as Medicare.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   {
+    "topic": "AI",
+    "point": "Require labeling of AI-generated content and bar AI from legal agency reserved for humans.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Pause new data centers until transparency and community concerns are addressed.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Push transparency reforms against dark money and refuse corporate PAC funds.",
+    "source": "https://www.kentudellforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 65,
+    "evidence": "Wants to expand Medicare and reduce insurance company influence.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   "liberty": {
+    "score": 60,
+    "evidence": "Guns: supports the Second Amendment alongside red flag laws and safety training.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Calls for lawful, humane and workable immigration reform.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 55,
+    "evidence": "Supports an all-of-the-above energy approach based on science and economics.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   "tech": {
+    "score": 75,
+    "evidence": "Proposes AI content labeling and a moratorium on new data centers.",
+    "source": "https://www.kentudellforcongress.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/fb03de_4002ca22893f4429b67bf5f4f9b1846b~mv2.jpg/v1/crop/x_0,y_0,w_2250,h_2201/fill/w_220,h_215,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_3384_edited.jpg",
+  "notes": "Politics1 lists his site as kentudell.com, but the campaign site used here is kentudellforcongress.com."
+ }
+]

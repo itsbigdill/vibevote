@@ -1,0 +1,483 @@
+[
+  {
+    "state": "Colorado",
+    "office": "US Senate",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "John Hickenlooper",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 60,
+          "liberty": 35,
+          "security": null,
+          "immigration": 20,
+          "foreign": 70,
+          "energy": 65,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs public option, minimum wage hike, drug price caps, dismantling ICE, wind and solar, Big Tech antitrust, gun background checks; voted for Ukraine-Israel aid.",
+        "sources": [
+          "https://www.rmpbs.org/news/elections/colorado-election-results-senate-primary-gonzales-hickenlooper",
+          "https://en.wikipedia.org/wiki/John_Hickenlooper",
+          "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"
+        ],
+        "photo": {
+          "file": "File:John Hickenlooper, official portrait, 117th Congress.jpeg",
+          "license": "Public domain",
+          "author": "Renee Bouchard, United States Senate Photographic Studio"
+        }
+      },
+      {
+        "name": "Mark Baisley",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 55,
+          "foreign": null,
+          "energy": 15,
+          "tech": 40,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pledges federal tax cuts, deregulation, police funding, energy dominance, vetted legal immigration with assimilation; touts AI bill balancing innovation and privacy.",
+        "sources": [
+          "https://baisleyforsenate.com/issues/",
+          "https://baisleyforsenate.com/"
+        ],
+        "photo": {
+          "file": "File:Mark Baisley in 2024 (cropped).jpg",
+          "license": "Public domain",
+          "author": "Colorado Senate GOP"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "office": "Governor",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Phil Weiser",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 65,
+          "liberty": 30,
+          "security": 50,
+          "immigration": 25,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Backs abortion and LGBTQ rights, gun-safety laws, renewable targets, limits on federal immigration enforcement, universal preschool, educator pay; sued to block grocery merger.",
+        "sources": [
+          "https://www.indivisiblenoco.com/colorado-governor-2026/phil-weiser",
+          "https://philforcolorado.com/phil-weiser-unveils-opportunity-agenda-to-build-a-stronger-colorado/",
+          "https://en.wikipedia.org/wiki/Phil_Weiser"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Victor Marx",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": 35,
+          "liberty": 55,
+          "security": 60,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 25,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Pledges income tax cuts, fee vetoes, ending sanctuary policies, school funding following students, all-of-the-above energy, constitutional gun protections; strongly opposes abortion.",
+        "sources": [
+          "https://www.victor2026.com/my-policies",
+          "https://en.wikipedia.org/wiki/Victor_Marx"
+        ],
+        "photo": {
+          "file": "File:Victor Marx (52125665777) (cropped).jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Gage Skidmore"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Connecticut",
+    "office": "Governor",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ned Lamont",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 50,
+          "welfare": 80,
+          "liberty": 25,
+          "security": 30,
+          "immigration": 20,
+          "foreign": null,
+          "energy": 85,
+          "tech": 70,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Signed income tax cut, paid leave, abortion safe-haven law, ghost-gun limits, cannabis legalization, ICE courthouse limits, zero-carbon grid goal, AI rules.",
+        "sources": [
+          "https://www.nedlamont.com/accomplishments",
+          "https://www.nedlamont.com/progressive-wins",
+          "https://en.wikipedia.org/wiki/Ned_Lamont"
+        ],
+        "photo": {
+          "file": "File:Governor Ned Lamont of Connecticut, official portrait.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "The Office of Governor Ned Lamont"
+        }
+      },
+      {
+        "name": "Ryan Fazio",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 20,
+          "security": null,
+          "immigration": 65,
+          "foreign": null,
+          "energy": 25,
+          "tech": null,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "Proposes income and property tax cuts, ending public benefits charge, natural gas pipelines, school choice; opposes single-payer; supports legal abortion; gun-group endorsed.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ryan_Fazio",
+          "https://ctmirror.org/2026/09/01/ryan-fazio-offers-prayers-talks-property-taxes-to-unseat-a-governor/",
+          "https://ctmirror.org/2026/07/09/fazio-housing-transportation-energy-election/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Delaware",
+    "office": "US Senate",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Chris Coons",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 45,
+          "welfare": 55,
+          "liberty": 30,
+          "security": null,
+          "immigration": 30,
+          "foreign": 85,
+          "energy": 75,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Defends ACA and abortion rights, backs clean-energy transition, immigration reform, gun control, NO FAKES AI bill; staunch Israel supporter; opposes Trump tariffs.",
+        "sources": [
+          "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons",
+          "https://en.wikipedia.org/wiki/Chris_Coons",
+          "https://en.wikipedia.org/wiki/NO_FAKES_Act"
+        ],
+        "photo": {
+          "file": "File:Chris Coons, official portrait, 112th Congress.jpg",
+          "license": "Public domain",
+          "author": "United States Senate"
+        }
+      },
+      {
+        "name": "Michael Katz",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 75,
+          "security": 65,
+          "immigration": 80,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports completing the border wall, withholding funds from sanctuary cities, backing police, protecting women's sports, manufacturing jobs, and lower health care costs.",
+        "sources": [
+          "https://www.fox29.com/election/delaware-2026-primary-election-senate-candidates-democrats-republicans-chris-coons",
+          "https://whyy.org/articles/election-2026-delaware-us-senate-republican-primary-voter-guide/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "office": "US Senate (special)",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Angie Nixon",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 95,
+          "welfare": 95,
+          "liberty": 5,
+          "security": 10,
+          "immigration": 5,
+          "foreign": 35,
+          "energy": 90,
+          "tech": 90,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Backs Medicare for All, billionaire wealth tax, rent stabilization, abolishing ICE, renewable transition, breaking up tech monopolies, abortion rights; prioritizes diplomacy over military action.",
+        "sources": [
+          "https://angienixon.com/priorities/",
+          "https://www.fox13news.com/news/one-on-one-senate-candidate-angie-nixon-outlines-positions-housing-healthcare-foreign-policy"
+        ],
+        "photo": {
+          "file": "File:Angie Nixon official portrait.jpg",
+          "license": "Public domain",
+          "author": "Florida House of Representatives"
+        }
+      },
+      {
+        "name": "Ashley Moody",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 15,
+          "liberty": 75,
+          "security": 70,
+          "immigration": 80,
+          "foreign": 70,
+          "energy": 45,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2025 tax-cut law, against ACA subsidy extension; challenged Amendment 4 abortion measure; backs border security, police, Iran strikes, kids' tech protections.",
+        "sources": [
+          "https://www.moody.senate.gov/about/",
+          "https://en.wikipedia.org/wiki/Ashley_Moody",
+          "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"
+        ],
+        "photo": {
+          "file": "File:Senator Ashley Moody Official Portrait.jpg",
+          "license": "Public domain",
+          "author": "United States Senate Photography Service"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "office": "Governor",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "David Jolly",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 70,
+          "liberty": 35,
+          "security": 40,
+          "immigration": 20,
+          "foreign": null,
+          "energy": 75,
+          "tech": null,
+          "education": 75,
+          "faith": null
+        },
+        "basis": "Backs Medicaid expansion, codifying Roe, assault weapons ban, universal background checks, clean energy, means-tested vouchers, more public school funding; opposes property tax repeal.",
+        "sources": [
+          "https://davidjolly.com/issues/",
+          "https://www.wusf.org/the-florida-roundup/2025-06-09/florida-governor-candidate-david-jolly-on-housing-property-taxes-immigration"
+        ],
+        "photo": {
+          "file": "File:David Jolly (3x4).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Byron Donalds",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 65,
+          "security": 75,
+          "immigration": 90,
+          "foreign": 50,
+          "energy": 15,
+          "tech": 55,
+          "education": 10,
+          "faith": null
+        },
+        "basis": "Backs property tax cuts, withholding state funds over immigration noncooperation, school choice, current abortion law, Second Amendment absolutism; opposed Ukraine aid; questions climate science.",
+        "sources": [
+          "https://byrondonalds.com/issues/",
+          "https://fox49.tv/news/local/byron-donalds-where-the-florida-governor-candidate-stands-on-the-issues",
+          "https://en.wikipedia.org/wiki/Byron_Donalds"
+        ],
+        "photo": {
+          "file": "File:Rep. Byron Donalds official photo, 117th Congress.jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "office": "US Senate",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jon Ossoff",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": 60,
+          "liberty": 20,
+          "security": 45,
+          "immigration": 45,
+          "foreign": 55,
+          "energy": 65,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs public option, abortion rights, Equality Act, cannabis legalization; voted for 2022 gun safety law, Laken Riley Act, Ukraine-Israel aid; opposes Iran war.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jon_Ossoff",
+          "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm",
+          "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00242.htm"
+        ],
+        "photo": {
+          "file": "File:Jon Ossoff Senate Portrait 2021.jpg",
+          "license": "Public domain",
+          "author": "U.S. Senate Photographic Studio"
+        }
+      },
+      {
+        "name": "Mike Collins",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": 15,
+          "liberty": 95,
+          "security": null,
+          "immigration": 90,
+          "foreign": 50,
+          "energy": 10,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Sponsored Laken Riley Act; backs deportations, 2025 tax cuts, ACA repeal, abortion ban without exceptions; voted against Ukraine aid; called climate change a hoax.",
+        "sources": [
+          "https://www.ajc.com/politics/2026/04/mike-collins-a-look-at-the-ajcs-coverage/",
+          "https://en.wikipedia.org/wiki/Mike_Collins_(politician)"
+        ],
+        "photo": {
+          "file": "File:Rep. Mike Collins official photo, 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "office": "Governor",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Keisha Lance Bottoms",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 55,
+          "welfare": 85,
+          "liberty": 40,
+          "security": 50,
+          "immigration": 35,
+          "foreign": null,
+          "energy": null,
+          "tech": 65,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Backs Medicaid expansion, universal childcare and pre-K, restoring abortion rights, universal background checks, slowing data center growth, fully funded schools, conditional ICE cooperation.",
+        "sources": [
+          "https://keishaforgovernor.com/issues",
+          "https://www.ajc.com/politics/2026/04/keisha-lance-bottoms-a-look-at-the-ajcs-coverage/",
+          "https://www.atlantanewsfirst.com/2026/04/19/keisha-lance-bottoms-goes-record-supports-casinos-medicaid-expansion-tougher-gun-laws/"
+        ],
+        "photo": {
+          "file": "File:Keisha Lance Bottoms.jpg",
+          "license": "Public domain",
+          "author": "Executive Office of the President of the United States"
+        }
+      },
+      {
+        "name": "Rick Jackson",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": 10,
+          "liberty": 80,
+          "security": 70,
+          "immigration": 80,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 50,
+          "faith": null
+        },
+        "basis": "Pledges halving income tax, property tax freeze, Medicaid work requirements, deporting criminal undocumented immigrants, DEI ban, transgender sports limits, police support, teacher raises.",
+        "sources": [
+          "https://rickjackson.com/action-plan/",
+          "https://www.ajc.com/politics/2026/04/rick-jackson-a-look-at-the-ajcs-coverage/"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,978 @@
+[
+ {
+  "id": "TX-34/vicente-gonzalez",
+  "name": "Vicente Gonzalez",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for TX-34",
+  "bio": "Vicente Gonzalez has represented Texas in the U.S. House since 2017, first the 15th District and since 2023 the 34th. Born in Corpus Christi, he earned a GED, degrees from Del Mar College and Embry-Riddle, and a law degree, then founded a McAllen law firm in 1997. He co-chairs the Blue Dog Coalition.",
+  "website": "https://vicentegonzalez.com/",
+  "social": {
+   "x": "https://x.com/votevicente",
+   "instagram": "https://www.instagram.com/votevicente/",
+   "facebook": "https://www.facebook.com/votevicente"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Pursue practical measures to ease rising costs of groceries, housing, energy and transportation for working families.",
+    "source": "https://vicentegonzalez.com/issues/"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Protect Social Security and Medicare as earned benefits and address prescription and long-term care costs.",
+    "source": "https://vicentegonzalez.com/issues/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Back an all-of-the-above energy approach and chair the Congressional Oil and Gas Caucus.",
+    "source": "https://gonzalez.house.gov/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Secure adequate federal K-12 funding for South Texas schools and support educators.",
+    "source": "https://gonzalez.house.gov/issues"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Expand affordable care access for rural and underserved South Texans.",
+    "source": "https://vicentegonzalez.com/issues/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Support veterans' benefits, healthcare and military installations in the district.",
+    "source": "https://gonzalez.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 50,
+    "evidence": "Official site backs fiscally responsible growth policies alongside tax modernization and lower childcare and education costs.",
+    "source": "https://gonzalez.house.gov/issues"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "Campaign and official sites prioritise protecting Social Security and Medicare and expanding affordable healthcare access.",
+    "source": "https://vicentegonzalez.com/issues/"
+   },
+   "liberty": {
+    "score": 50,
+    "evidence": "Mixed record: campaign backs women's healthcare choices, but he voted against a 2022 assault weapons ban and for 2025 bills restricting transgender athletes and care for minors.",
+    "source": "https://en.wikipedia.org/wiki/Vicente_Gonzalez_(American_politician)"
+   },
+   "security": null,
+   "immigration": {
+    "score": 45,
+    "evidence": "One of 46 House Democrats to vote for the Laken Riley Act and voted for DHS/ICE funding in January 2026.",
+    "source": "https://en.wikipedia.org/wiki/Vicente_Gonzalez_(American_politician)"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Official site calls a strong defense, free trade and diplomacy keys to American global leadership; he voted for 2024 Ukraine and Israel aid.",
+    "source": "https://gonzalez.house.gov/issues"
+   },
+   "energy": {
+    "score": 40,
+    "evidence": "Supports an all-of-the-above energy approach and chairs the Congressional Oil and Gas Caucus.",
+    "source": "https://gonzalez.house.gov/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 65,
+    "evidence": "Official site says he works to secure adequate K-12 funding for South Texas public schools.",
+    "source": "https://gonzalez.house.gov/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Liberty score raised from 35 to 50 because his votes on guns and transgender issues offset his abortion-rights stance. Ballotpedia lists him as Vicente Gonzalez Jr."
+ },
+ {
+  "id": "TX-34/eric-flores",
+  "name": "Eric Flores",
+  "party": "Republican",
+  "current_role": "Attorney and former federal prosecutor",
+  "bio": "Eric Flores is a Rio Grande Valley attorney and former assistant U.S. attorney in the Southern District of Texas, where he prosecuted cartel and smuggling cases. He previously served as a city attorney and municipal judge, is a U.S. Army infantry officer in the Texas Army National Guard, and studied at UT Austin and Thurgood Marshall School of Law. He won the 2026 Republican primary with President Trump's endorsement.",
+  "website": "https://www.ericflores.com/",
+  "social": {
+   "x": "https://x.com/EricDFloress",
+   "instagram": "https://www.instagram.com/eric4texas/",
+   "facebook": "https://www.facebook.com/people/Eric-Flores-for-Congress/61578310026781/"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Strengthen border security and back law enforcement, drawing on his prosecution of cartel cases.",
+    "source": "https://www.ericflores.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Curb federal spending he links to inflation, cut regulatory burdens and support affordable housing.",
+    "source": "https://www.ericflores.com/priorities"
+   },
+   {
+    "topic": "Water",
+    "point": "Fund water infrastructure and long-term regional planning to protect farm and city supplies.",
+    "source": "https://www.ericflores.com/priorities"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Cut VA wait times, fully fund disability claims and expand mental health resources.",
+    "source": "https://www.ericflores.com/priorities"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Oppose benefit cuts and keep benefits in line with the true cost of living.",
+    "source": "https://www.ericflores.com/priorities"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Win federal money for roads, bridges, ports and rural broadband in South Texas.",
+    "source": "https://www.ericflores.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Priorities page calls for tax relief, fewer regulations and less federal spending.",
+    "source": "https://www.ericflores.com/priorities"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Campaign lists stronger border security as a top priority alongside his record prosecuting smuggling rings.",
+    "source": "https://www.ericflores.com/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 20,
+    "evidence": "Campaign lists U.S. energy independence as a core priority.",
+    "source": "https://www.ericflores.com/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-34/eddie-espinoza",
+  "name": "Eddie Espinoza",
+  "party": "Green",
+  "current_role": "Retired teacher and Army veteran",
+  "bio": "Eddie Espinoza is a U.S. Army combat veteran of Desert Storm who taught in Rio Grande Valley public schools for 26 years. Born in Dallas, he graduated from the University of Texas–Pan American in 1994. He was the Green Party's 2024 nominee for Texas Railroad Commissioner.",
+  "website": "https://espinoza4tx.com/",
+  "social": {
+   "x": "https://x.com/Espinoza4TX",
+   "instagram": "https://www.instagram.com/espinoza4tx/",
+   "facebook": "https://www.facebook.com/Espinoza4TX/",
+   "tiktok": "https://www.tiktok.com/@espinoza4tx"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Enact Medicare for All with no premiums or co-pays, covering dental, vision, hearing and prescriptions.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   {
+    "topic": "Climate and energy",
+    "point": "Shift to solar, wind and batteries, ban fracking and oppose LNG exports.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   {
+    "topic": "Education",
+    "point": "Make college and trade school free, cancel student debt and end federal K-12 testing mandates.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Condition military aid to Israel, end long-running wars and halve military spending.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Refuse PAC money and push to overturn Citizens United.",
+    "source": "https://espinoza4tx.com/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Raise Social Security benefits and end veteran homelessness.",
+    "source": "https://espinoza4tx.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 95,
+    "evidence": "Backs Medicare for All with no premiums or co-pays and higher Social Security benefits.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Only gun policy is addressed: he is a Moms Demand Action Gun Sense Candidate.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 15,
+    "evidence": "Calls for ending forever wars, halving military spending and conditioning aid to Israel.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   "energy": {
+    "score": 95,
+    "evidence": "Wants a renewable transition, a fracking ban and an end to LNG exports.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Supports free public college and trade school and ending federal K-12 testing mandates.",
+    "source": "https://espinoza4tx.com/priorities/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://espinoza4tx.com/wp-content/uploads/2026/03/eddie-candidate-portrait.jpg",
+  "notes": "Liberty score rests on gun policy alone."
+ },
+ {
+  "id": "TX-34/chris-royal",
+  "name": "Chris Royal",
+  "party": "Libertarian",
+  "current_role": "Retired teacher and attorney",
+  "bio": "Chris Royal is a Harlingen resident who moved to the Rio Grande Valley in 1993 and has worked in law, the title business and teaching. He earned a law degree from the Kansas City School of Law in 1990. He ran for this seat in 2022 and is the Libertarian nominee in 2026.",
+  "website": "https://chriscongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Constitution",
+    "point": "Hold the federal government to the Constitution and Bill of Rights as originally intended.",
+    "source": "https://chriscongress.com/"
+   },
+   {
+    "topic": "Balanced budget",
+    "point": "Require the federal government to balance its budget, as Texas does.",
+    "source": "https://chriscongress.com/"
+   },
+   {
+    "topic": "Federal debt",
+    "point": "Rein in federal overspending and the growing national debt.",
+    "source": "https://chriscongress.com/"
+   },
+   {
+    "topic": "Limited government",
+    "point": "Limit Washington to a few core duties such as defense, postal service and interstate commerce.",
+    "source": "https://chriscongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Campaign calls for a balanced budget and a federal government confined to a few constitutional functions.",
+    "source": "https://chriscongress.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His campaign site does not state the election year, and biographical details come from search-result summaries of Ballotpedia, which could not be opened directly."
+ },
+ {
+  "id": "TX-35/johnny-garcia",
+  "name": "Johnny Garcia",
+  "party": "Democratic",
+  "current_role": "Bexar County sheriff's deputy",
+  "bio": "Johnny Garcia has served nearly two decades with the Bexar County Sheriff's Office, including as a SWAT hostage negotiator and public information officer. Raised on San Antonio's West Side, he worked in construction and plumbing before joining law enforcement. He describes himself as a Blue Dog Democrat.",
+  "website": "https://www.votejohnnygarcia.com/",
+  "social": {
+   "x": "https://x.com/johnnygarciatx",
+   "instagram": "https://www.instagram.com/johnnygarciaforcongress/",
+   "facebook": "https://www.facebook.com/Johnnygarciaforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "End tariffs on food and goods and keep data centers from raising utility bills.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   {
+    "topic": "Housing",
+    "point": "Restrict private equity home purchases and lower building material costs.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Restore ACA tax credits, fund rural hospitals and add dental and vision to Medicare.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pair border security with pathways to citizenship and work visas, focusing ICE on criminals.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Ban stock trading by members of Congress.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Fund well-trained police rather than cut law enforcement budgets.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Proposes ending tariffs, restricting private equity home buying and targeting drug prices.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Wants restored ACA subsidies, Medicaid expansion and Medicare dental and vision coverage.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Calls himself adamantly pro-choice (abortion).",
+    "source": "https://www.texasobserver.org/35th-congressional-district-runoff-johnny-garcia/"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Opposes defunding police and supports funding well-trained law enforcement.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   "immigration": {
+    "score": 30,
+    "evidence": "Backs pathways to citizenship and work visas with ICE focused on criminals, and opposes raids dividing his community.",
+    "source": "https://www.votejohnnygarcia.com/general-5"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/4cc1f6_279c5dc79695415bbb82bbc12383bc4e~mv2.png",
+  "notes": "Liberty score rests on abortion alone."
+ },
+ {
+  "id": "TX-35/carlos-de-la-cruz",
+  "name": "Carlos De La Cruz",
+  "party": "Republican",
+  "current_role": "Air Force veteran and small-business owner",
+  "bio": "Carlos De La Cruz is a retired U.S. Air Force veteran of 20 years who deployed to the Middle East and worked on drug interdiction at the southern border. He later did security contract work at Fort Sam Houston and co-founded a San Antonio kickboxing gym. He won the 2026 Republican runoff with President Trump's endorsement.",
+  "website": "https://www.carlosforcongress.com/",
+  "social": {
+   "x": "https://x.com/CarlosForTexas",
+   "instagram": "https://www.instagram.com/carlosforcongress/",
+   "facebook": "https://www.facebook.com/CarlosForTexas/",
+   "youtube": "https://www.youtube.com/@CarlosForTexas"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Write Trump-era border policies into law and give Border Patrol more personnel and technology.",
+    "source": "https://sanantonioreport.org/carlos-de-la-cruz-qa-tx-35-runoff/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Cut wasteful spending, keep taxes pro-growth and ease regulations on small businesses.",
+    "source": "https://sanantonioreport.org/profile/carlos-de-la-cruz-2026-candidate-for-texas-35th-congressional-district/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Roll back environmental rules to expand Texas energy production.",
+    "source": "https://www.carlosforcongress.com/mission"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Speed up VA care and remove bureaucratic delays.",
+    "source": "https://www.carlosforcongress.com/mission"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Ban congressional stock trading and stay independent of lobbyists.",
+    "source": "https://www.carlosforcongress.com/mission"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Favor market competition, price transparency and more insurance options for small businesses.",
+    "source": "https://sanantonioreport.org/profile/carlos-de-la-cruz-2026-candidate-for-texas-35th-congressional-district/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Calls for cutting wasteful spending, pro-growth tax policy and lighter regulation of small businesses.",
+    "source": "https://sanantonioreport.org/profile/carlos-de-la-cruz-2026-candidate-for-texas-35th-congressional-district/"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Prefers market competition over government control in healthcare while pledging to protect Social Security and Medicare.",
+    "source": "https://sanantonioreport.org/profile/carlos-de-la-cruz-2026-candidate-for-texas-35th-congressional-district/"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Opposes transgender athletes in women's sports and campaigns on faith and family values (LGBTQ).",
+    "source": "https://www.carlosforcongress.com/mission"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Pledges full support and resources for police officers.",
+    "source": "https://www.carlosforcongress.com/mission"
+   },
+   "immigration": {
+    "score": 85,
+    "evidence": "Wants Trump's border policies written into law, plus completed border infrastructure and more personnel.",
+    "source": "https://sanantonioreport.org/profile/carlos-de-la-cruz-2026-candidate-for-texas-35th-congressional-district/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 10,
+    "evidence": "Advocates removing environmental regulations to expand Texas energy production.",
+    "source": "https://www.carlosforcongress.com/mission"
+   },
+   "tech": {
+    "score": 30,
+    "evidence": "Backs AI development to compete with China and crypto innovation with consumer protections.",
+    "source": "https://www.carlosforcongress.com/mission"
+   },
+   "education": {
+    "score": 25,
+    "evidence": "Lists parental rights among his priorities against progressive policies.",
+    "source": "https://www.carlosforcongress.com/mission"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons file 'File:Carlos De La Cruz.jpg' is tagged as a U.S. Air Force work but was sourced from his campaign X account, so it was not used. Liberty score rests on LGBTQ issues alone."
+ },
+ {
+  "id": "TX-36/brian-babin",
+  "name": "Brian Babin",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-36",
+  "bio": "Brian Babin has represented Texas's 36th District in the U.S. House since 2015 and has chaired the House Science Committee since 2025. Born in Port Arthur, he is a dentist who has practiced in Woodville since 1979 and served as an Air Force officer from 1975 to 1979.",
+  "website": "https://www.babinforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepBrianBabin",
+   "facebook": "https://www.facebook.com/RepBrianBabin"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Secure the border with a wall, deport criminal migrants and cut funding for sanctuary cities.",
+    "source": "https://www.babinforcongress.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Repeal and replace the Affordable Care Act.",
+    "source": "https://www.babinforcongress.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Make the 2017 tax cuts permanent and cut wasteful spending.",
+    "source": "https://www.babinforcongress.com/"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Protect gun rights for law-abiding citizens.",
+    "source": "https://www.babinforcongress.com/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Oppose abortion and taxpayer funding for Planned Parenthood.",
+    "source": "https://www.babinforcongress.com/"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Repeal regulations he views as job-killing and rein in agencies such as the EPA.",
+    "source": "https://www.babinforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Campaign backs permanent tax cuts, less regulation and reining in the EPA.",
+    "source": "https://www.babinforcongress.com/"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Campaign priorities include repealing and replacing the Affordable Care Act.",
+    "source": "https://www.babinforcongress.com/"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Holds a 100% National Right to Life rating and filed school bathroom bills (abortion, LGBTQ) and has a NORML F (drugs), but has a 100% NRA record (guns).",
+    "source": "https://en.wikipedia.org/wiki/Brian_Babin"
+   },
+   "security": null,
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports a border wall, deporting criminal migrants and a 2025 bill ending automatic birthright citizenship.",
+    "source": "https://en.wikipedia.org/wiki/Brian_Babin"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Says foreign aid should reflect U.S. interests and voted against 2024 Ukraine aid.",
+    "source": "https://www.ontheissues.org/TX/Brian_Babin.htm"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Opposes green energy subsidies and CO2 regulation and supports offshore drilling.",
+    "source": "https://www.ontheissues.org/TX/Brian_Babin.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Supports vouchers usable at public, private or religious schools.",
+    "source": "https://www.ontheissues.org/TX/Brian_Babin.htm"
+   },
+   "faith": {
+    "score": 85,
+    "evidence": "Supports school moment-of-silence measures and religious expression in public life.",
+    "source": "https://www.ontheissues.org/TX/Brian_Babin.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Liberty score raised from 60 to 70 based on his abortion, LGBTQ and marijuana record. Campaign priorities page appears to date from his earlier terms."
+ },
+ {
+  "id": "TX-36/rhonda-hart",
+  "name": "Rhonda Hart",
+  "party": "Democratic",
+  "current_role": "Military veteran and gun-safety advocate",
+  "bio": "Rhonda Hart is a military veteran from Southeast Texas. Her campaign biography says she became an advocate for gun safety, healthcare access, women's rights and veterans after her daughter was killed in the 2018 Santa Fe High School shooting. She won the 2026 Democratic primary for TX-36.",
+  "website": "https://hart4congress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Education",
+    "point": "Oppose school vouchers and increase pay and funding for public schools.",
+    "source": "https://hart4congress.com/"
+   },
+   {
+    "topic": "Gun safety",
+    "point": "Continue gun violence prevention work after co-authoring the Kimberly Vaughan safe-storage provision in the Bipartisan Safer Communities Act.",
+    "source": "https://hart4congress.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "End tariffs, raise the minimum wage and cut Middle East military spending.",
+    "source": "https://hart4congress.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Expand affordable healthcare and oppose Medicaid cuts.",
+    "source": "https://hart4congress.com/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Invest in solar and wind while supporting Southeast Texas energy jobs.",
+    "source": "https://hart4congress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Require ICE accountability, including body cameras, and humane treatment of migrants.",
+    "source": "https://hart4congress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Proposes raising the minimum wage and ending tariffs.",
+    "source": "https://hart4congress.com/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Supports affordable healthcare for all Texans, opposes Medicaid cuts and wants better VA care.",
+    "source": "https://hart4congress.com/"
+   },
+   "liberty": {
+    "score": 40,
+    "evidence": "LGBTQ: wants the transgender military service ban reversed; guns: backs safe-storage laws and gun violence prevention.",
+    "source": "https://hart4congress.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Opposes current ICE operations and calls for accountability and humane treatment.",
+    "source": "https://hart4congress.com/"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Calls for ending unnecessary Middle East military interventions.",
+    "source": "https://hart4congress.com/"
+   },
+   "energy": {
+    "score": 70,
+    "evidence": "Calls climate change a crisis and wants serious investment in solar and wind.",
+    "source": "https://hart4congress.com/"
+   },
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Opposes vouchers and supports more public school funding and teacher pay.",
+    "source": "https://hart4congress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://media.base44.com/images/public/69fcfad11a04d0a611264e35/1c800da24_rhart1.png",
+  "notes": "Her branch of military service and her earlier offices or campaigns could not be confirmed because Ballotpedia was unreachable."
+ },
+ {
+  "id": "TX-37/greg-casar",
+  "name": "Greg Casar",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for TX-37",
+  "bio": "Greg Casar has served in the U.S. House since 2023 and has chaired the Congressional Progressive Caucus since 2025. Born in Houston to Mexican immigrant parents, he was policy director at the Workers Defense Project and served on the Austin City Council from 2015 to 2022.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepCasar",
+   "instagram": "https://www.instagram.com/repcasar/",
+   "facebook": "https://www.facebook.com/RepCasar"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Make the wealthy pay their fair share to fund essential services.",
+    "source": "https://casar.house.gov/issues"
+   },
+   {
+    "topic": "Child care",
+    "point": "Win universal, affordable child care for all families.",
+    "source": "https://casar.house.gov/issues"
+   },
+   {
+    "topic": "Climate",
+    "point": "Pass the Green New Deal and create union clean-energy jobs.",
+    "source": "https://casar.house.gov/issues"
+   },
+   {
+    "topic": "Energy grid",
+    "point": "Make the Texas grid reliable during extreme weather.",
+    "source": "https://casar.house.gov/issues"
+   },
+   {
+    "topic": "Consumer protection",
+    "point": "Outlaw surveillance pricing that sets prices from personal data.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Casar"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "Pursue criminal justice reform.",
+    "source": "https://casar.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 90,
+    "evidence": "Official site calls for the wealthy to pay their fair share in taxes; he led living-wage policies in Austin.",
+    "source": "https://casar.house.gov/issues"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Official site calls for truly universal, affordable child care.",
+    "source": "https://casar.house.gov/issues"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Member of the Congressional Equality Caucus (LGBTQ) and led fair-chance hiring and reduced discretionary arrests in Austin (justice reform).",
+    "source": "https://en.wikipedia.org/wiki/Greg_Casar"
+   },
+   "security": {
+    "score": 10,
+    "evidence": "Proposed moving $20 million from Austin police to homelessness and mental health services and created independent police oversight.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Casar"
+   },
+   "immigration": {
+    "score": 5,
+    "evidence": "Opposed Texas SB4, backed sanctuary policies and funded deportation defense in Austin.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Casar"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Opposed the 2026 Iran strikes, co-sponsored a 2023 Gaza ceasefire resolution and voted against the military aid supplemental.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Casar"
+   },
+   "energy": {
+    "score": 90,
+    "evidence": "Official site supports the Green New Deal and clean-energy jobs.",
+    "source": "https://casar.house.gov/issues"
+   },
+   "tech": {
+    "score": 75,
+    "evidence": "Introduced a 2025 bill to ban surveillance pricing and co-sponsored prediction market restrictions in 2026.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Casar"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Official site prioritises more education funding and support for teachers and staff.",
+    "source": "https://casar.house.gov/issues"
+   },
+   "faith": {
+    "score": 15,
+    "evidence": "Member of the Congressional Freethought Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Casar"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "His campaign domain gregcasar.com shows only a placeholder page."
+ },
+ {
+  "id": "TX-37/lauren-pena",
+  "name": "Lauren Peña",
+  "party": "Republican",
+  "current_role": "Anti-trafficking advocate",
+  "bio": "Lauren B. Peña is a conservative raised in Austin who describes herself as a human trafficking survivor and a mother of six. She won the 2026 Republican primary runoff for TX-37.",
+  "website": "https://www.lauren4congress.com/",
+  "social": {
+   "x": "https://x.com/lauren4congress",
+   "facebook": "https://www.facebook.com/lauren4texas",
+   "tiktok": "https://www.tiktok.com/@lauren4congress"
+  },
+  "platform": [
+   {
+    "topic": "Human trafficking",
+    "point": "Pass her SAFE NIGHTS Act requiring trafficking training and reporting at nightlife and hospitality venues.",
+    "source": "https://www.lauren4congress.com/"
+   },
+   {
+    "topic": "Congressional accountability",
+    "point": "Pass her SODA Act to end congressional immunity for sexual misconduct.",
+    "source": "https://www.lauren4congress.com/"
+   },
+   {
+    "topic": "Government waste",
+    "point": "End corruption and waste in the federal government.",
+    "source": "https://www.lauren4congress.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Lower energy costs.",
+    "source": "https://www.lauren4congress.com/"
+   },
+   {
+    "topic": "Parental rights",
+    "point": "Advance parental rights.",
+    "source": "https://www.lauren4congress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 25,
+    "evidence": "Lists parental rights among her main campaign priorities.",
+    "source": "https://www.lauren4congress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663450394445/BJQRmbhGNXZEirYx.jpg",
+  "notes": "Her platform comes from summaries on her campaign site, which gives little detail. The X handle comes from the site's metadata."
+ },
+ {
+  "id": "TX-38/jon-bonck",
+  "name": "Jon Bonck",
+  "party": "Republican",
+  "current_role": "Real estate and mortgage professional",
+  "bio": "Jon Bonck is a Greater Houston businessman with more than 20 years in real estate and mortgage lending. He is a deacon and Bible study teacher at Second Baptist Church. He won the 2026 Republican runoff for TX-38 with endorsements from President Trump and Senator Ted Cruz.",
+  "website": "https://www.jonbonck.com/",
+  "social": {
+   "x": "https://x.com/TeamBonck",
+   "instagram": "https://www.instagram.com/teambonck/",
+   "youtube": "https://www.youtube.com/@JonBonckForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Border",
+    "point": "Finish the border wall and end illegal crossings.",
+    "source": "https://www.jonbonck.com/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Protect life from conception with no exceptions.",
+    "source": "https://www.jonbonck.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Put parents first and remove gender ideology from classrooms.",
+    "source": "https://www.jonbonck.com/"
+   },
+   {
+    "topic": "Foreign aid",
+    "point": "Oppose open-ended spending on foreign wars and prioritize America first.",
+    "source": "https://www.jonbonck.com/"
+   },
+   {
+    "topic": "Religious liberty",
+    "point": "Defend religious liberty and faith in public life.",
+    "source": "https://www.jonbonck.com/"
+   },
+   {
+    "topic": "Medical freedom",
+    "point": "Oppose vaccine and medical mandates.",
+    "source": "https://www.jonbonck.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 60,
+    "evidence": "Opposes abortion without compromise (abortion) but defends gun rights (guns) and opposes vaccine mandates.",
+    "source": "https://www.jonbonck.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 95,
+    "evidence": "Calls for finishing the wall and ending what he calls an invasion.",
+    "source": "https://www.jonbonck.com/"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Opposes foreign aid spending and blank checks for foreign wars.",
+    "source": "https://www.jonbonck.com/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Emphasizes parental authority and opposes gender ideology in curriculum.",
+    "source": "https://www.jonbonck.com/"
+   },
+   "faith": {
+    "score": 90,
+    "evidence": "Advocates religious liberty and faith in public life.",
+    "source": "https://www.jonbonck.com/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "https://irp.cdn-website.com/7fb32cd5/dms3rep/multi/opt/Bonck-2-0b27a120-652w.jpg",
+  "notes": ""
+ },
+ {
+  "id": "TX-38/melissa-mcdonough",
+  "name": "Melissa McDonough",
+  "party": "Democratic",
+  "current_role": "Realtor and brokerage owner",
+  "bio": "Melissa McDonough is a Houston-area real estate professional with nearly 30 years as a Realtor and 20 years running a brokerage. She has worked in small-business consulting, advocated before Congress and the Texas Legislature on consumer protection and healthcare, and worked in Harris County election administration.",
+  "website": "https://melissaforcongress.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/MelissaForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Expand Medicaid in Texas to reduce the state's uninsured rate.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   {
+    "topic": "Education",
+    "point": "Fund public schools fully and oppose vouchers and book bans.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Expand mail-in voting and county-wide polling access.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Grow renewable energy while keeping Texas's petroleum industry role.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   {
+    "topic": "Gun safety",
+    "point": "Pass secure storage rules and background checks, and oppose permitless carry.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Continue military aid to Ukraine and support a two-state solution.",
+    "source": "https://melissaforcongress.com/platform/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Wants proactive inflation policy and criticizes corporate practices, while opposing protectionist tariffs.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Backs Medicaid expansion and tuition-free higher education; earlier research cited her support for Medicare for All.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Opposes abortion bans and anti-LGBTQ policies (abortion, LGBTQ) and supports safe storage and background checks (guns).",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Prefers streamlined immigration processes over border barriers.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Supports continued military aid to Ukraine and Israel's right to self-defense.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   "energy": {
+    "score": 65,
+    "evidence": "Supports adding renewable energy while maintaining the petroleum industry.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Calls for adequate public school funding and opposes vouchers.",
+    "source": "https://melissaforcongress.com/platform/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://melissaforcongress.com/wp-content/uploads/2023/09/Melissa-Headshot-scaled.jpg",
+  "notes": "The current platform page summary did not mention Medicare for All, so the welfare score rests mainly on Medicaid expansion and tuition-free college."
+ }
+]

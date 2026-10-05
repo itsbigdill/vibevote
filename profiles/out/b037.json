@@ -1,0 +1,899 @@
+[
+ {
+  "id": "FL-28/carlos-gimenez",
+  "name": "Carlos Giménez",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-28",
+  "bio": "Carlos Giménez has represented Florida's 28th district in the U.S. House since 2023 (previously FL-26). Born in Cuba, he was a Miami firefighter and fire chief and served as Mayor of Miami-Dade County from 2011 to 2020.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepCarlos",
+   "facebook": "https://www.facebook.com/RepCarlosGimenez",
+   "instagram": "https://www.instagram.com/repcarlosfl"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Supports small businesses and keeping the corporate tax rate at or below 21 percent.",
+    "source": "https://www.ontheissues.org/FL/Carlos_Gimenez.htm"
+   },
+   {
+    "topic": "China",
+    "point": "Treats China as the leading U.S. adversary and backs decoupling in energy and technology.",
+    "source": "https://gimenez.house.gov/china"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Favors border enforcement alongside legal status and work permits for undocumented residents, without blanket citizenship, and continued DACA protections.",
+    "source": "https://gimenez.house.gov/immigration"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs all-of-the-above domestic energy while opposing offshore drilling near Florida's coast.",
+    "source": "https://gimenez.house.gov/energy"
+   },
+   {
+    "topic": "Trade",
+    "point": "Promotes trade tied to South Florida's ports, agriculture and tech sector.",
+    "source": "https://gimenez.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Wants the corporate tax rate kept at or below 21% and opposed the 2021 COVID relief bill.",
+    "source": "https://www.ontheissues.org/FL/Carlos_Gimenez.htm"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Campaigned on repealing the Affordable Care Act.",
+    "source": "https://en.wikipedia.org/wiki/Carlos_A._Gim%C3%A9nez"
+   },
+   "liberty": {
+    "score": 40,
+    "evidence": "Voted for universal background checks (guns) and the Respect for Marriage Act (LGBTQ rights).",
+    "source": "https://en.wikipedia.org/wiki/Carlos_A._Gim%C3%A9nez"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Supports keeping existing police accountability rules and ended Miami-Dade's sanctuary designation by honoring ICE detainers.",
+    "source": "https://www.ontheissues.org/FL/Carlos_Gimenez.htm"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports legal status for undocumented immigrants and DACA, voted for Haitian TPS, while opposing sanctuary cities.",
+    "source": "https://gimenez.house.gov/immigration"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Calls China the most aggressive U.S. adversary and backs separating from it in energy and technology.",
+    "source": "https://gimenez.house.gov/china"
+   },
+   "energy": {
+    "score": 40,
+    "evidence": "Backs all-of-the-above energy and opposed Keystone XL cancellation, but opposes offshore drilling off Florida.",
+    "source": "https://gimenez.house.gov/energy"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "FL-28/phil-ehr",
+  "name": "Phil Ehr",
+  "party": "Democratic",
+  "current_role": "Retired U.S. Navy commander",
+  "bio": "Phil Ehr is a retired U.S. Navy commander whose career began with the Mariel Boatlift rescue mission. He is the Democratic nominee for Florida's 28th district, covering southwest Miami-Dade County and the Florida Keys.",
+  "website": "https://ehrforcongress.us/",
+  "social": {
+   "x": "https://twitter.com/PhilEhr",
+   "facebook": "https://www.facebook.com/PhilEhrFlorida",
+   "instagram": "https://www.instagram.com/phil.ehr/",
+   "youtube": "https://www.youtube.com/channel/UCdVj9vxDJrebsj433sViJIA"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Aims to lower premiums and widen access through a proposed Healthcare Stability & Program Choice Act.",
+    "source": "https://ehrforcongress.us/"
+   },
+   {
+    "topic": "Insurance",
+    "point": "Wants anti-fraud laws enforced to shield homeowners from rising insurance costs.",
+    "source": "https://ehrforcongress.us/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Seeks a full VA hospital or major medical facility in South Dade.",
+    "source": "https://ehrforcongress.us/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Would protect law-abiding immigrant families while targeting criminals and traffickers.",
+    "source": "https://ehrforcongress.us/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Pledges Everglades protection and a temporary moratorium on large AI data centers.",
+    "source": "https://ehrforcongress.us/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Proposes an inter-agency task force on public corruption.",
+    "source": "https://ehrforcongress.us/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 65,
+    "evidence": "Proposes legislation to lower premiums and expand health-care access.",
+    "source": "https://ehrforcongress.us/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Pledges to protect law-abiding immigrant families, focusing enforcement on criminals and traffickers.",
+    "source": "https://ehrforcongress.us/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Supports a temporary moratorium on large-scale AI data centers.",
+    "source": "https://ehrforcongress.us/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://i0.wp.com/cddigital.org/pehr/wp-content/uploads/2024/01/ehr-thumbsup-0226.jpg",
+  "notes": "The campaign image is a posed photo rather than a formal headshot."
+ },
+ {
+  "id": "FL-28/eddy-rojas",
+  "name": "Eddy Rojas",
+  "party": "Independent",
+  "current_role": "Businessman",
+  "bio": "Eddy Rojas is a Cuban-born businessman who immigrated to Miami and started out as a valet. He founded World Valet Parking, Flashwash Eco-Friendly Car Wash and ER Services Group, and is running as an independent in Florida's 28th district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Biography comes from candidate-directory summaries (Ballotpedia/Civoren) that could not be opened directly; no campaign website or issue positions were found."
+ },
+ {
+  "id": "GA-1/jim-kingston",
+  "name": "Jim Kingston",
+  "party": "Republican",
+  "current_role": "Insurance professional",
+  "bio": "Jim Kingston is a Southeast Georgia native who built a career in the insurance industry. He describes himself as a Trump conservative and is the Republican nominee for Georgia's 1st district.",
+  "website": "https://www.jimkingston.org/",
+  "social": {
+   "x": "https://twitter.com/JimKingstonGA",
+   "facebook": "https://www.facebook.com/JimKingstonGA/",
+   "instagram": "https://www.instagram.com/jimkingstonga/"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Wants lower taxes for families and small businesses and a simpler tax code.",
+    "source": "https://jimkingston.org/issues"
+   },
+   {
+    "topic": "Medicaid",
+    "point": "Supports work requirements for able-bodied adults and no Medicaid for undocumented immigrants.",
+    "source": "https://jimkingston.org/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Calls for more border enforcement, action against cartels, and a merit-based legal immigration system.",
+    "source": "https://jimkingston.org/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Would lift limits on domestic drilling and speed up permitting.",
+    "source": "https://jimkingston.org/issues"
+   },
+   {
+    "topic": "Local economy",
+    "point": "Pledges to protect the region's military bases, ports and agriculture.",
+    "source": "https://www.jimkingston.org/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Supports late-term abortion bans and ending taxpayer funding for abortion providers.",
+    "source": "https://jimkingston.org/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Pledges broad tax cuts, less federal spending and a simpler tax code.",
+    "source": "https://jimkingston.org/issues"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Backs Medicaid work requirements and treats Medicaid as a safety net rather than an entitlement.",
+    "source": "https://jimkingston.org/issues"
+   },
+   "liberty": {
+    "score": 60,
+    "evidence": "Pro-life on abortion and opposes gender ideology in schools, while opposing gun control.",
+    "source": "https://jimkingston.org/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Wants more border enforcement resources and a merit-based legal immigration system.",
+    "source": "https://jimkingston.org/issues"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Promotes peace through strength against Iran, Russia and China and stronger alliances.",
+    "source": "https://jimkingston.org/issues"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Supports ending restrictions on domestic drilling with streamlined permitting.",
+    "source": "https://jimkingston.org/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 25,
+    "evidence": "Advocates parental authority over curriculum and wider access to values-aligned education.",
+    "source": "https://jimkingston.org/issues"
+   },
+   "faith": {
+    "score": 70,
+    "evidence": "Emphasizes faith and conscience protections for faith-based organizations.",
+    "source": "https://jimkingston.org/issues"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "GA-1/amanda-hollowell",
+  "name": "Amanda Hollowell",
+  "party": "Democratic",
+  "current_role": "Political strategist",
+  "bio": "Amanda Hollowell is a political organizer who has been chief of campaigns at Color Of Change and previously led organizing at When We All Vote and advocacy at the Georgia Budget and Policy Institute and 9to5 Georgia. Born in Palm Springs, California, and a UC Berkeley graduate, she won the 2026 Democratic runoff for Georgia's 1st district.",
+  "website": "https://www.amandaforga.com/",
+  "social": {
+   "instagram": "https://instagram.com/amanda4ga",
+   "facebook": "https://facebook.com/amanda4ga"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Fully fund rural hospitals, expand mental health services and protect Medicaid from cuts.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   {
+    "topic": "Families",
+    "point": "Backs national paid family and medical leave.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   {
+    "topic": "Climate",
+    "point": "Wants federal investment in flood protection, resilient infrastructure, clean-energy jobs and Okefenokee preservation.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   {
+    "topic": "Workers",
+    "point": "Supports apprenticeship expansion and workers' right to organize.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   {
+    "topic": "Voting rights",
+    "point": "Would restore voting rights, expand ballot access and fight gerrymandering.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   {
+    "topic": "Guns",
+    "point": "Supports Ethan's Law and an assault weapons ban.",
+    "source": "https://www.amandaforga.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Supports union organizing rights and steering federal investment toward workers.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Wants Medicaid protected from cuts, rural hospitals fully funded and national paid family and medical leave.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Supports reproductive freedom and LGBTQ+ rights, alongside an assault weapons ban.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 70,
+    "evidence": "Calls for clean-energy jobs and federal climate-resilience investment.",
+    "source": "https://www.amandaforga.com/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Career details come from news summaries of her background (WTOC, The Current)."
+ },
+ {
+  "id": "GA-2/sanford-bishop",
+  "name": "Sanford Bishop",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for GA-2",
+  "bio": "Sanford Bishop has represented Georgia's 2nd district since 1993 and is a member of the Blue Dog Coalition and Congressional Black Caucus. Born in Mobile, Alabama, he is an Army veteran and lawyer from Columbus who served in the Georgia House and Senate.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/SanfordBishop",
+   "facebook": "https://www.facebook.com/sanfordbishop",
+   "youtube": "https://www.youtube.com/RepSanfordBishop"
+  },
+  "platform": [
+   {
+    "topic": "Agriculture",
+    "point": "Leads agriculture appropriations work and supports farm programs such as peanut price supports.",
+    "source": "https://en.wikipedia.org/wiki/Sanford_Bishop"
+   },
+   {
+    "topic": "Families",
+    "point": "Supports expanded parental leave, child tax credits and affordable childcare.",
+    "source": "https://bishop.house.gov/issues"
+   },
+   {
+    "topic": "Fiscal policy",
+    "point": "Supports a balanced budget constitutional amendment.",
+    "source": "https://bishop.house.gov/issues"
+   },
+   {
+    "topic": "Defense",
+    "point": "Backs a strong, well-trained military with modern technology.",
+    "source": "https://bishop.house.gov/issues"
+   },
+   {
+    "topic": "Guns",
+    "point": "Supports background checks while protecting the rights of gun owners.",
+    "source": "https://bishop.house.gov/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Supports domestic energy development, nuclear power and renewable research.",
+    "source": "https://bishop.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Opposed Bush tax cuts and backed stimulus, but supports business tax relief and a balanced budget amendment.",
+    "source": "https://www.ontheissues.org/GA/Sanford_Bishop.htm"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Supports expanding the ACA, negotiated drug prices and CHIP.",
+    "source": "https://www.ontheissues.org/GA/Sanford_Bishop.htm"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Mixed abortion record (NARAL 30%) and NRA A- rating on guns, though he backed background checks.",
+    "source": "https://www.ontheissues.org/GA/Sanford_Bishop.htm"
+   },
+   "security": {
+    "score": 55,
+    "evidence": "Voted for the PATRIOT Act and supports more law-enforcement resources at the border.",
+    "source": "https://bishop.house.gov/issues"
+   },
+   "immigration": {
+    "score": 45,
+    "evidence": "Supports Dreamer legalization but voted for the border fence and stresses enforcement.",
+    "source": "https://www.ontheissues.org/GA/Sanford_Bishop.htm"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Voted for the 2002 Iraq authorization and backs a strong U.S.-Israel bond.",
+    "source": "https://www.ontheissues.org/GA/Sanford_Bishop.htm"
+   },
+   "energy": {
+    "score": 45,
+    "evidence": "Backs renewable incentives but supported offshore drilling and Keystone XL.",
+    "source": "https://bishop.house.gov/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Opposes school vouchers and favors investing in public education.",
+    "source": "https://www.ontheissues.org/GA/Sanford_Bishop.htm"
+   },
+   "faith": {
+    "score": 70,
+    "evidence": "Co-sponsored a 1997 religious freedom constitutional amendment on school prayer.",
+    "source": "https://en.wikipedia.org/wiki/Sanford_Bishop"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "The earlier tech score of 60 was removed because no supporting evidence could be found this round."
+ },
+ {
+  "id": "GA-2/matt-day",
+  "name": "Matt Day",
+  "party": "Republican",
+  "current_role": "Businessman",
+  "bio": "Matt Day is a businessman who describes himself as a commonsense conservative. He is the Republican nominee for Georgia's 2nd district in southwest and middle Georgia.",
+  "website": "https://www.votemattday.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Agriculture",
+    "point": "Supports farmers, beef producers and the timber industry in the district.",
+    "source": "https://www.votemattday.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Would cap solar at about 1,000 acres per county to protect farmland.",
+    "source": "https://americustimesrecorder.com/2026/06/26/republican-candidate-matt-day-campaigns-for-u-s-congress-georgia-district-2/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Wants to rein in pharmacy benefit managers and expand rural health access.",
+    "source": "https://americustimesrecorder.com/2026/06/26/republican-candidate-matt-day-campaigns-for-u-s-congress-georgia-district-2/"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "Proposes a tiered work-based system in which non-violent offenders work to cover costs.",
+    "source": "https://americustimesrecorder.com/2026/06/26/republican-candidate-matt-day-campaigns-for-u-s-congress-georgia-district-2/"
+   },
+   {
+    "topic": "Border",
+    "point": "Calls for more border security and backing for law enforcement.",
+    "source": "https://www.votemattday.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Aims to revive manufacturing, balance the budget and stabilize Social Security and Medicare.",
+    "source": "https://www.votemattday.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "Anti-abortion, but supports decriminalizing marijuana except for impaired driving.",
+    "source": "https://americustimesrecorder.com/2026/06/26/republican-candidate-matt-day-campaigns-for-u-s-congress-georgia-district-2/"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Campaigns on supporting law enforcement.",
+    "source": "https://www.votemattday.com/"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "Calls for increased border security and immigration reform.",
+    "source": "https://www.votemattday.com/"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Campaigns to strengthen the military.",
+    "source": "https://www.votemattday.com/"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Would limit large solar farms to protect farmland while backing nuclear power expansion.",
+    "source": "https://americustimesrecorder.com/2026/06/26/republican-candidate-matt-day-campaigns-for-u-s-congress-georgia-district-2/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Liberty lowered from 75 to 65 because he supports marijuana decriminalization alongside his anti-abortion stance. No detailed career biography was found."
+ },
+ {
+  "id": "GA-3/brian-jack",
+  "name": "Brian Jack",
+  "party": "Republican",
+  "current_role": "U.S. Representative for GA-3",
+  "bio": "Brian Jack has represented Georgia's 3rd district since January 2025. An Atlanta native and Pepperdine graduate, he was White House Political Director under President Trump and worked for the RNC, AIPAC and Trump campaigns.",
+  "website": "https://brianjack.com/",
+  "social": {
+   "x": "https://x.com/briantjack",
+   "instagram": "https://www.instagram.com/brianjackforcongress",
+   "facebook": "https://www.facebook.com/profile.php?id=61557356693251"
+  },
+  "platform": [
+   {
+    "topic": "Border",
+    "point": "Secure the border and end illegal immigration.",
+    "source": "https://brianjack.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Cut taxes and fix the economy.",
+    "source": "https://brianjack.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Expand American energy production.",
+    "source": "https://brianjack.com/"
+   },
+   {
+    "topic": "Crime",
+    "point": "Stop crime and end what he calls the weaponization of justice.",
+    "source": "https://brianjack.com/"
+   },
+   {
+    "topic": "Technology",
+    "point": "Keep the U.S. ahead in digital innovation.",
+    "source": "https://brianjack.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Campaign priorities include cutting taxes.",
+    "source": "https://brianjack.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 60,
+    "evidence": "Campaigns on stopping crime.",
+    "source": "https://brianjack.com/"
+   },
+   "immigration": {
+    "score": 85,
+    "evidence": "Campaigns on securing the border and ending illegal immigration.",
+    "source": "https://brianjack.com/"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Co-chairs the House Republican Israel Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Brian_Jack"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Campaigns to unleash American energy production.",
+    "source": "https://brianjack.com/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://brianjack.com/wp-content/uploads/sites/61/2024/04/hero-photo-1.jpg",
+  "notes": ""
+ },
+ {
+  "id": "GA-3/maura-keller",
+  "name": "Maura Keller",
+  "party": "Democratic",
+  "current_role": "Retired U.S. Army lieutenant colonel",
+  "bio": "Maura Keller served 26 years in the U.S. Army, rising from enlisted military police to lieutenant colonel, and later worked as a health-care provider at the Atlanta VA. Born in Massachusetts, she has lived in Georgia for over 30 years and was the 2024 Democratic nominee for the district.",
+  "website": "https://maurakeller.com/",
+  "social": {
+   "x": "https://x.com/MauraKellerGA",
+   "instagram": "https://www.instagram.com/maurakellerforgeorgia/",
+   "facebook": "https://www.facebook.com/MauraKellerforGeorgia",
+   "tiktok": "https://www.tiktok.com/@maurakellerforgeorgia",
+   "youtube": "https://www.youtube.com/@GetMoreWithMaura"
+  },
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Raise the minimum wage and push for higher-paying jobs.",
+    "source": "https://maurakeller.com/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Fix Social Security for the long term.",
+    "source": "https://maurakeller.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Support local farmers and ranchers, including right-to-repair laws.",
+    "source": "https://maurakeller.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand rural hospital access and insurance coverage.",
+    "source": "https://maurakeller.com/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Strengthen veteran care and benefits.",
+    "source": "https://maurakeller.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Supports raising the minimum wage.",
+    "source": "https://maurakeller.com/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Wants expanded health coverage and a strengthened Social Security.",
+    "source": "https://maurakeller.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "Supports right-to-repair laws.",
+    "source": "https://maurakeller.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/65babf991018d92de237b77e/37086b63-ea7e-4136-b2f7-12db3be71528/MK+Homepage+Gold+Border+Square+Headshot.jpg",
+  "notes": ""
+ },
+ {
+  "id": "GA-4/hank-johnson",
+  "name": "Hank Johnson",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for GA-4",
+  "bio": "Hank Johnson has represented Georgia's 4th district since 2007. A lawyer educated at Clark Atlanta University and Texas Southern University, he practiced in Decatur and served as a DeKalb County magistrate judge and county commissioner.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepHankJohnson",
+   "facebook": "https://www.facebook.com/115356957005",
+   "youtube": "https://www.youtube.com/RepHankJohnson",
+   "instagram": "https://www.instagram.com/rephankjohnson"
+  },
+  "platform": [
+   {
+    "topic": "Courts",
+    "point": "Proposes expanding the Supreme Court and enforcing judicial ethics.",
+    "source": "https://hankjohnson.house.gov/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Seeks affordable, quality health care for all Americans.",
+    "source": "https://hankjohnson.house.gov/issues"
+   },
+   {
+    "topic": "Consumer protection",
+    "point": "Works to curb forced arbitration and protect consumers' access to courts.",
+    "source": "https://hankjohnson.house.gov/issues"
+   },
+   {
+    "topic": "Guns",
+    "point": "Supports universal background checks.",
+    "source": "https://hankjohnson.house.gov/issues"
+   },
+   {
+    "topic": "Transit",
+    "point": "Champions transit equity and MARTA rail expansion.",
+    "source": "https://hankjohnson.house.gov/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports DACA, TPS and comprehensive immigration reform.",
+    "source": "https://hankjohnson.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Supports a 30% minimum tax on incomes above $1 million.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Calls health care a right and supports a public insurance option.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Backs abortion rights without restrictions, though he supports universal background checks for guns.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Opposes warrantless searches and PATRIOT Act bulk data collection.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Supports a path to citizenship, Dreamers, DACA and TPS.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "foreign": {
+    "score": 45,
+    "evidence": "Opposes military interventionism and wants congressional approval before action against Iran.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "energy": {
+    "score": 85,
+    "evidence": "Prioritizes renewable energy and supports banning offshore drilling.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "tech": {
+    "score": 70,
+    "evidence": "Sponsored net neutrality legislation.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "education": {
+    "score": 90,
+    "evidence": "Opposes school vouchers and supports free community college.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   },
+   "faith": {
+    "score": 15,
+    "evidence": "Supports strict church-state separation and opposes public religious displays.",
+    "source": "https://www.ontheissues.org/GA/Hank_Johnson.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "GA-4/james-duffie",
+  "name": "James Duffie",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "James R. \"Jim\" Duffie is the Republican nominee for Georgia's 4th district. No further public biography was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue positions were found."
+ },
+ {
+  "id": "GA-5/nikema-williams",
+  "name": "Nikema Williams",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for GA-5",
+  "bio": "Nikema Williams has represented Georgia's 5th district, covering most of Atlanta, since 2021 and chaired the Georgia Democratic Party from 2019 to 2025. Born in Columbus, Georgia, she served in the Georgia State Senate and worked at Planned Parenthood Southeast and the National Domestic Workers Alliance.",
+  "website": "https://www.nikemaforcongress.com/",
+  "social": {
+   "x": "https://twitter.com/NikemaWilliams",
+   "facebook": "https://www.facebook.com/NikemaForCongress",
+   "instagram": "https://www.instagram.com/NikemaWilliams/"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Expand access to quality, affordable health care.",
+    "source": "https://www.nikemaforcongress.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Fully and equitably fund public schools.",
+    "source": "https://www.nikemaforcongress.com/"
+   },
+   {
+    "topic": "Voting rights",
+    "point": "Protect voting rights and opportunity for all.",
+    "source": "https://www.nikemaforcongress.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Fight for economic dignity for working families.",
+    "source": "https://www.nikemaforcongress.com/"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "Supports marijuana legalization, ending cash bail and stronger police accountability.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Supported the $1.9 trillion ARPA stimulus and campaigns on economic dignity for workers.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports Medicare for All.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Opposed Georgia's abortion restrictions and backs marijuana legalization, while supporting background checks.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Sponsored stricter police accountability rules and supports ending cash bail.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Supports a permanent path to citizenship for Dreamers and opposes religion-based bans.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Sponsored repeal of the 2002 Iraq war authorization.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   },
+   "energy": {
+    "score": 90,
+    "evidence": "Supports the Green New Deal and clean energy by 2050.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Calls for heavy investment in public schools.",
+    "source": "https://www.ontheissues.org/GA/Nikema_Williams.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5f2b094a153a305e4c6d5f78/1596675501063-1689BLH8YUM328WCABYT/20200802-180404-Nikema+Williams+PhotoshootB.jpg",
+  "notes": "Foreign score added from a single vote to repeal the 2002 AUMF."
+ }
+]

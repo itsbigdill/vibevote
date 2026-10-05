@@ -1,0 +1,374 @@
+[
+ {
+  "id": "NY-17/cait-conley",
+  "name": "Cait Conley",
+  "party": "Democratic",
+  "current_role": "National security official and Army veteran",
+  "bio": "Cait Conley is a Hudson Valley Democrat who served 16 years as a U.S. Army officer, including deployments to Iraq and Afghanistan. She was a National Security Council counterterrorism director and later a senior adviser at CISA working on 2024 election security. She is a West Point graduate with degrees from Harvard Kennedy School and MIT.",
+  "website": "https://caitconley.com/",
+  "social": {"x": "https://x.com/CaitforNewYork", "instagram": "https://www.instagram.com/caitconley/", "facebook": "https://www.facebook.com/profile.php?id=61574763653064"},
+  "platform": [
+   {"topic": "Health care", "point": "Create a public insurance option, defend the ACA and Medicaid, and cap insulin at $35.", "source": "https://caitconley.com/policy/"},
+   {"topic": "Ethics", "point": "Ban members of Congress and the White House from trading stocks.", "source": "https://caitconley.com/"},
+   {"topic": "Utilities", "point": "Tie monopoly utility profits to performance to lower customer bills.", "source": "https://caitconley.com/"},
+   {"topic": "Abortion", "point": "Write the protections of Roe v. Wade into federal law.", "source": "https://caitconley.com/policy/"},
+   {"topic": "Immigration", "point": "Add accountability for ICE and create a path to citizenship for Dreamers and undocumented immigrants.", "source": "https://caitconley.com/policy/"},
+   {"topic": "Climate", "point": "Invest in solar, wind and geothermal energy and rejoin the Paris Climate Agreement.", "source": "https://caitconley.com/policy/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 60, "evidence": "Backs a public insurance option, defending Medicaid and expanding Medicare to cover vision, dental and hearing.", "source": "https://caitconley.com/policy/"},
+   "liberty": {"score": 30, "evidence": "Abortion: supports codifying Roe v. Wade; no gun, drug or speech positions stated.", "source": "https://caitconley.com/policy/"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Supports a path to citizenship and reining in ICE while focusing enforcement on dangerous criminals.", "source": "https://caitconley.com/policy/"},
+   "foreign": {"score": 70, "evidence": "Supports restoring USAID funding and renewed support for Ukraine against Russia.", "source": "https://caitconley.com/policy/"},
+   "energy": {"score": 80, "evidence": "Calls for clean-energy investment and rejoining the Paris Climate Agreement.", "source": "https://caitconley.com/policy/"},
+   "tech": {"score": 75, "evidence": "Backs online age verification and parental consent standards, data privacy laws and data-center regulation.", "source": "https://caitconley.com/policy/"},
+   "education": {"score": 65, "evidence": "Supports universal pre-K and expanding community college and career-technical programs.", "source": "https://caitconley.com/policy/"},
+   "faith": null
+  },
+  "photo": {"file": "File:DHS Secretary Alejandro Mayorkas Gives Opening Remarks During CISA National Election Exercise in Arlington, Virginia on 22 August 2024 - 6.jpg", "license": "Public domain", "author": "Tia Dufour, U.S. Department of Homeland Security"},
+  "campaign_photo": "",
+  "notes": "The Commons photo shows Conley at a 2024 CISA event rather than a formal portrait. A security score based only on her career background was removed; her policy page also calls for limits on ICE tactics and 287(g) agreements."
+ },
+ {
+  "id": "NY-18/pat-ryan",
+  "name": "Pat Ryan",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-18",
+  "bio": "Pat Ryan has represented New York's 18th district since 2023, after winning a 2022 special election for the 19th district. He was Ulster County Executive from 2019 to 2022. A Kingston native and West Point graduate, he served two Iraq tours as an Army intelligence officer and later co-founded technology companies.",
+  "website": "https://www.patryanforcongress.com/",
+  "social": {"x": "https://x.com/RepPatRyanNY", "facebook": "https://www.facebook.com/PatRyanUC"},
+  "platform": [
+   {"topic": "Cost of living", "point": "Fight inflation and price gouging, cut taxes for the middle class and make billionaires and corporations pay their share.", "source": "https://www.patryanforcongress.com/priorities"},
+   {"topic": "Abortion", "point": "Defend reproductive rights and oppose a national abortion ban.", "source": "https://www.patryanforcongress.com/priorities"},
+   {"topic": "Public safety", "point": "Increase law enforcement funding and pass red flag laws, universal background checks and an assault weapons ban.", "source": "https://www.patryanforcongress.com/priorities"},
+   {"topic": "Environment", "point": "Move toward 100% renewable energy and invest in electric public transit.", "source": "https://www.patryanforcongress.com/priorities"},
+   {"topic": "Voting rights", "point": "Pass the John Lewis Voting Rights Act and protect marriage equality.", "source": "https://www.patryanforcongress.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Wants billionaires and corporations held accountable, backs organized labor and co-chairs the Monopoly Busters Caucus.", "source": "https://www.patryanforcongress.com/priorities"},
+   "welfare": {"score": 65, "evidence": "Supports paid family leave and expanded mental health and addiction services.", "source": "https://www.patryanforcongress.com/priorities"},
+   "liberty": {"score": 40, "evidence": "Abortion and same-sex marriage: supports protections; guns: backs an assault weapons ban and red flag laws.", "source": "https://www.patryanforcongress.com/priorities"},
+   "security": {"score": 60, "evidence": "Calls for more law enforcement funding alongside red flag laws.", "source": "https://www.patryanforcongress.com/priorities"},
+   "immigration": null,
+   "foreign": {"score": 55, "evidence": "Armed Services Committee member who pushed for Ukraine aid and voted against eliminating Israel military aid in 2026.", "source": "https://en.wikipedia.org/wiki/Pat_Ryan_(politician)"},
+   "energy": {"score": 85, "evidence": "Campaign goal of a transition to 100% renewable energy.", "source": "https://www.patryanforcongress.com/priorities"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "An immigration score based on unconfirmed ICE funding votes was removed."
+ },
+ {
+  "id": "NY-18/jackie-auringer",
+  "name": "Jackie Auringer",
+  "party": "Republican",
+  "current_role": "Construction project manager and marketing professional",
+  "bio": "Jackie Auringer was born and raised in Kingston, New York. She works as a project manager and managerial accountant in her family's construction business and also works in marketing and branding. She holds a marketing degree and has been active in civic and grassroots political organizing.",
+  "website": "https://winwithjackie.com/",
+  "social": {"x": "https://x.com/winwithjackie", "instagram": "https://instagram.com/jackieforcongress", "facebook": "https://www.facebook.com/jackie4congress", "tiktok": "https://www.tiktok.com/@winwithjackie"},
+  "platform": [
+   {"topic": "Affordability", "point": "Lower taxes, energy costs and health care costs for families.", "source": "https://winwithjackie.com/"},
+   {"topic": "Jobs", "point": "Promote job growth, small businesses, skilled trades and career-connected education.", "source": "https://winwithjackie.com/"},
+   {"topic": "Accountability", "point": "Strengthen congressional ethics, government transparency and cut wasteful spending.", "source": "https://winwithjackie.com/about"},
+   {"topic": "Workers and AI", "point": "Protect workers in sectors affected by artificial intelligence.", "source": "https://winwithjackie.com/about"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Calls for lower taxes, less wasteful spending and relief from regulation and costs on small businesses.", "source": "https://winwithjackie.com/about"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://winwithjackie.com/images/jackie-headshot.png",
+  "notes": "The ballot lists her as Jacqueline Auringer; she campaigns as Jackie. Her site gives few specific policy details."
+ },
+ {
+  "id": "NY-19/josh-riley",
+  "name": "Josh Riley",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-19",
+  "bio": "Josh Riley has represented New York's 19th district since January 2025 and sits on the Agriculture and Science committees. Born in Endicott, he is a Harvard Law graduate who worked as a lawyer in private practice, as counsel on the Senate Judiciary Committee and at the Department of Labor.",
+  "website": "https://www.joshrileyforcongress.com/",
+  "social": {"x": "https://twitter.com/JoshRileyUE", "instagram": "https://www.instagram.com/RepRileyNY", "facebook": "https://www.facebook.com/RepRileyNY"},
+  "platform": [
+   {"topic": "Cost of living", "point": "Ban corporate price gouging, cap child care costs and suspend the federal gas tax.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   {"topic": "Health care", "point": "Negotiate drug prices, cap prescription costs and add dental, vision and hearing coverage for seniors.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   {"topic": "Utilities", "point": "Take utility monopolies to court and stop data centers from raising grid costs.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   {"topic": "Border", "point": "Hire more border agents and immigration judges and stop fentanyl trafficking.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   {"topic": "Abortion", "point": "Restore Roe v. Wade protections and protect access to birth control.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   {"topic": "Education", "point": "Recruit STEM teachers, hire counselors and protect Department of Education funding.", "source": "https://joshrileyforcongress.com/policy-positions/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Backs banning corporate price gouging and CEO bonuses at utilities and taxing the wealthy and corporations.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "welfare": {"score": 65, "evidence": "Supports capping child care costs and expanding Medicare to dental, vision and hearing.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "liberty": {"score": 40, "evidence": "Abortion: supports restoring Roe; guns: backs universal background checks and safe storage laws.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "security": {"score": 65, "evidence": "Supports more police funding and more border agents.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "immigration": {"score": 45, "evidence": "Wants more border agents and judges while supporting legal immigration and updated visa programs.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "foreign": {"score": 70, "evidence": "Calls for confronting Iran, Russia, China and North Korea through strategic engagement.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "energy": {"score": 60, "evidence": "Backs home energy-efficiency funding and utility reform.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "tech": {"score": 65, "evidence": "Supports comprehensive rules for AI and blockchain technologies.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "education": {"score": 75, "evidence": "Wants Department of Education funding protected and more public school teachers and counselors.", "source": "https://joshrileyforcongress.com/policy-positions/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NY-19/peter-oberacker",
+  "name": "Peter Oberacker",
+  "party": "Republican",
+  "current_role": "New York State Senator, 51st District",
+  "bio": "Peter Oberacker has served in the New York State Senate since 2021. He was earlier a Maryland town board member, town supervisor and Otsego County legislator. A food scientist from Schenevus, he founded the food company FormTech Solutions and has been a longtime volunteer firefighter and EMT.",
+  "website": "https://www.peterforny19.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Keep taxes low, citing a record of never passing a budget that raised them.", "source": "https://www.peterforny19.com/blank-1"},
+   {"topic": "Utilities", "point": "Investigate utility company practices and enact a ratepayer bill of rights.", "source": "https://en.wikipedia.org/wiki/Peter_Oberacker"},
+   {"topic": "Food safety", "point": "Ban certain food additives such as Red No. 3 and potassium bromate.", "source": "https://en.wikipedia.org/wiki/Peter_Oberacker"},
+   {"topic": "Economy", "point": "Expand economic opportunity so young people can stay in upstate New York.", "source": "https://www.peterforny19.com/blank-1"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Campaigns on keeping taxes low and never raising them in local budgets.", "source": "https://www.peterforny19.com/blank-1"},
+   "welfare": null,
+   "liberty": {"score": 65, "evidence": "Drugs: voted against New York's 2021 recreational marijuana legalization; no other liberty issues found.", "source": "https://en.wikipedia.org/wiki/Peter_Oberacker"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:(05-12-25) NYS Senator Peter Oberacker (cropped).jpg", "license": "CC BY 2.0", "author": "NY Senate Photo"},
+  "campaign_photo": "",
+  "notes": "His campaign site lists no detailed issue platform; the liberty score rests on a single marijuana vote."
+ },
+ {
+  "id": "NY-20/paul-tonko",
+  "name": "Paul Tonko",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-20",
+  "bio": "Paul Tonko has served in the U.S. House since 2009 and has represented New York's 20th district since 2013. He was a member of the New York State Assembly for 24 years, where he chaired the Energy Committee, and later led the New York State Energy Research and Development Authority. He is a mechanical and industrial engineer from Amsterdam, New York.",
+  "website": "https://paultonko.com/",
+  "social": {"x": "https://x.com/PaulTonko", "instagram": "https://www.instagram.com/paultonko", "facebook": "https://www.facebook.com/paul.tonko", "youtube": "https://www.youtube.com/reppaultonko"},
+  "platform": [
+   {"topic": "Abortion", "point": "Protect access to reproductive health care.", "source": "https://paultonko.com/"},
+   {"topic": "Climate", "point": "Address climate change and create clean-energy jobs.", "source": "https://paultonko.com/"},
+   {"topic": "Mental health", "point": "Support people facing mental illness and opioid addiction.", "source": "https://paultonko.com/"},
+   {"topic": "Justice", "point": "Pursue social, racial, economic and climate justice for underserved communities.", "source": "https://paultonko.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Opposed USMCA until it had stronger environmental and job protections.", "source": "https://www.ontheissues.org/NY/Paul_Tonko.htm"},
+   "welfare": {"score": 80, "evidence": "Supports the Affordable Care Act and a public health insurance option.", "source": "https://www.ontheissues.org/NY/Paul_Tonko.htm"},
+   "liberty": {"score": 35, "evidence": "Abortion: supports abortion rights; guns: supports gun control.", "source": "https://www.ontheissues.org/NY/Paul_Tonko.htm"},
+   "security": {"score": 20, "evidence": "Voted to end bulk data collection under the Patriot Act.", "source": "https://www.ontheissues.org/NY/Paul_Tonko.htm"},
+   "immigration": {"score": 20, "evidence": "Supports raising caps on family-based and high-skill visas.", "source": "https://www.ontheissues.org/NY/Paul_Tonko.htm"},
+   "foreign": null,
+   "energy": {"score": 95, "evidence": "Supports the Green New Deal and EPA authority over carbon emissions.", "source": "https://en.wikipedia.org/wiki/Paul_Tonko"},
+   "tech": {"score": 65, "evidence": "Supports net neutrality rules.", "source": "https://www.ontheissues.org/NY/Paul_Tonko.htm"},
+   "education": {"score": 90, "evidence": "Opposes school vouchers.", "source": "https://www.ontheissues.org/NY/Paul_Tonko.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "OnTheIssues evidence was re-checked; a foreign-policy score without specific evidence was removed."
+ },
+ {
+  "id": "NY-20/ralph-ambrosio",
+  "name": "Ralph Ambrosio",
+  "party": "Republican",
+  "current_role": "Attorney",
+  "bio": "Ralph Ambrosio is an attorney from Delmar who grew up in Chatham, New York. He served in the U.S. Navy and spent more than two decades with the New York State Police. He has also been an assistant district attorney in Greene and Columbia counties, a public defender and an assistant state attorney general.",
+  "website": "https://ambrosioforcongress.com/",
+  "social": {"facebook": "https://www.facebook.com/ralphambrosioforcongress/"},
+  "platform": [
+   {"topic": "Cost of living", "point": "Cut taxes and regulation to lower living costs and increase purchasing power.", "source": "https://ambrosioforcongress.com/issues"},
+   {"topic": "Energy", "point": "Pursue an all-of-the-above energy strategy to raise supply and lower prices.", "source": "https://ambrosioforcongress.com/issues"},
+   {"topic": "Public safety", "point": "Support law enforcement, secure the border and protect self-defense rights.", "source": "https://ambrosioforcongress.com/issues"},
+   {"topic": "Government reform", "point": "Back term limits, voter ID, parental involvement in education and anti-corruption efforts.", "source": "https://ambrosioforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for tax cuts and reduced regulation.", "source": "https://ambrosioforcongress.com/issues"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 65, "evidence": "Prioritizes support for law enforcement.", "source": "https://ambrosioforcongress.com/issues"},
+   "immigration": {"score": 65, "evidence": "Lists border security as a top public-safety priority.", "source": "https://ambrosioforcongress.com/issues"},
+   "foreign": null,
+   "energy": {"score": 25, "evidence": "Backs all-of-the-above energy and opposes restrictive energy regulation.", "source": "https://ambrosioforcongress.com/issues"},
+   "tech": null,
+   "education": {"score": 35, "evidence": "Supports greater parental involvement in education decisions.", "source": "https://ambrosioforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His issues page is brief; liberty is left unscored because only a general self-defense rights statement was found."
+ },
+ {
+  "id": "NY-21/anthony-constantino",
+  "name": "Anthony Constantino",
+  "party": "Republican",
+  "current_role": "CEO of Sticker Mule",
+  "bio": "Anthony Constantino is the chief executive of Sticker Mule, an online printing company based in upstate New York. He was a candidate for the canceled 2025 special election in the 21st district and won the 2026 Republican nomination with an endorsement from President Trump.",
+  "website": "https://www.constantino.com/",
+  "social": {"x": "https://x.com/Constantino", "instagram": "https://www.instagram.com/ac132/", "facebook": "https://www.facebook.com/iloveanthony/", "youtube": "https://www.youtube.com/@Constantino"},
+  "platform": [
+   {"topic": "Northern border", "point": "Work with President Trump to stop drugs, crime and low-wage labor crossing the northern border.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"},
+   {"topic": "Broadband", "point": "Expand broadband and cell coverage across the North Country to attract remote workers.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"},
+   {"topic": "Energy costs", "point": "Roll back green energy and utility regulations that raise costs.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"},
+   {"topic": "Agriculture", "point": "End unfavorable solar farm deals for farmers and secure fair farm bill support.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"},
+   {"topic": "Gun rights", "point": "Restore Second Amendment rights he says New York has curtailed.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Proposes cutting government waste and eliminating outdated regulations on small businesses.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"},
+   "welfare": null,
+   "liberty": {"score": 30, "evidence": "Guns: wants Second Amendment rights restored; speech: pledges to protect free speech.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Pledges to work with President Trump to stop crime and low-wage labor at the northern border.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"},
+   "foreign": null,
+   "energy": {"score": 20, "evidence": "Wants green energy regulations reduced to lower costs.", "source": "https://www.stickermule.com/write/constantino/constantinos-agenda-to-improve-lives-in-new-yorks-21st-congressional-district"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The liberty score reflects only gun and speech positions; no abortion or drug stance was found. Hometown was not confirmed."
+ },
+ {
+  "id": "NY-21/blake-gendebien",
+  "name": "Blake Gendebien",
+  "party": "Democratic",
+  "current_role": "Dairy farmer",
+  "bio": "Blake Gendebien is a second-generation dairy farmer and small-business owner from Lisbon, New York. He is vice chair of the Agri-Mark cooperative board and has served on the Lisbon Central School board. He was the Democratic nominee for the canceled 2025 special election in the 21st district.",
+  "website": "https://blakegendebienforcongress.com/",
+  "social": {"x": "https://twitter.com/BlakeGendebien", "facebook": "https://www.facebook.com/profile.php?id=61570535124774"},
+  "platform": [
+   {"topic": "Agriculture", "point": "Cut farm regulations, fix guest worker programs and create programs for young farmers.", "source": "https://blakegendebienforcongress.com/issues/"},
+   {"topic": "Health care", "point": "Oppose cuts to Social Security, Medicare and Medicaid and expand rural telehealth.", "source": "https://blakegendebienforcongress.com/issues/"},
+   {"topic": "Congress reform", "point": "Ban congressional stock trading, set term limits and withhold member pay during shutdowns.", "source": "https://blakegendebienforcongress.com/issues/"},
+   {"topic": "Immigration", "point": "Hire more Border Patrol agents while making legal immigration simpler.", "source": "https://blakegendebienforcongress.com/issues/"},
+   {"topic": "Abortion", "point": "Oppose total abortion bans and protect access to contraception.", "source": "https://blakegendebienforcongress.com/issues/"},
+   {"topic": "Manufacturing", "point": "Bring back American manufacturing and pursue fair trade deals.", "source": "https://blakegendebienforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 45, "evidence": "Backs repealing costly regulations alongside fair trade and reshoring manufacturing.", "source": "https://blakegendebienforcongress.com/issues/"},
+   "welfare": {"score": 55, "evidence": "Opposes cuts to Social Security, Medicare and Medicaid.", "source": "https://blakegendebienforcongress.com/issues/"},
+   "liberty": {"score": 30, "evidence": "Abortion: supports the right to choose and contraception access; no gun, drug or speech positions stated.", "source": "https://blakegendebienforcongress.com/issues/"},
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Wants illegal entry made harder and more Border Patrol agents, while simplifying legal immigration.", "source": "https://blakegendebienforcongress.com/issues/"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 60, "evidence": "Supports responsible regulation of AI and cryptocurrency.", "source": "https://blakegendebienforcongress.com/issues/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://blakegendebienforcongress.com/wp-content/uploads/2026/07/headshot-bg-1.jpg",
+  "notes": ""
+ },
+ {
+  "id": "NY-22/john-mannion",
+  "name": "John Mannion",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-22",
+  "bio": "John Mannion has represented New York's 22nd district since January 2025 and serves on the Agriculture and Education committees. He was a New York State Senator from 2020 to 2024. A Syracuse native, he taught high school biology and led the West Genesee Teachers' Association.",
+  "website": "https://www.mannionforny.com/",
+  "social": {"x": "https://x.com/JohnMannionNY22", "instagram": "https://www.instagram.com/mannionforNY", "facebook": "https://www.facebook.com/JohnMannionforNY"},
+  "platform": [
+   {"topic": "Affordability", "point": "Lower everyday costs for Central New York families.", "source": "https://www.mannionforny.com/on-the-issues/"},
+   {"topic": "Abortion", "point": "Protect reproductive rights and freedoms.", "source": "https://www.mannionforny.com/on-the-issues/"},
+   {"topic": "Education", "point": "Support public education, drawing on his career as a teacher.", "source": "https://www.mannionforny.com/on-the-issues/"},
+   {"topic": "Social Security", "point": "Protect Social Security and health care programs.", "source": "https://www.mannionforny.com/on-the-issues/"},
+   {"topic": "Environment", "point": "Act on climate and environmental protection.", "source": "https://www.mannionforny.com/on-the-issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Voted against the 2025 Republican tax and spending bill.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "welfare": {"score": 70, "evidence": "Opposed the 2025 bill that included Medicaid cuts and campaigns on protecting health care and Social Security.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "liberty": {"score": 20, "evidence": "Abortion: supports reproductive rights; LGBTQ: member of the Congressional Equality Caucus.", "source": "https://www.mannionforny.com/on-the-issues/"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Voted for the 2025 Laken Riley Act.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "foreign": {"score": 40, "evidence": "Voted in 2026 for an amendment to eliminate U.S. military aid to Israel.", "source": "https://en.wikipedia.org/wiki/John_Mannion_(American_politician)"},
+   "energy": {"score": 80, "evidence": "Campaigns on climate and environmental action.", "source": "https://www.mannionforny.com/on-the-issues/"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Former teachers' union leader who campaigns on public education.", "source": "https://www.mannionforny.com/on-the-issues/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://www.mannionforny.com/wp-content/uploads/sites/35/2024/08/1Q7A2974.jpg",
+  "notes": "Roll-call sources were checked against the House Clerk records; an unconfirmed SAVE Act vote was dropped from the immigration evidence."
+ },
+ {
+  "id": "NY-22/kailee-buller",
+  "name": "Kailee Buller",
+  "party": "Republican",
+  "current_role": "Former chief of staff, U.S. Department of Agriculture",
+  "bio": "Kailee Buller is from Auburn, New York, and was chief of staff to the U.S. Secretary of Agriculture. She has held senior roles in the federal government and national policy organizations, focusing on agriculture, food policy and workforce development. She is a University at Buffalo graduate.",
+  "website": "https://kaileebuller.com/",
+  "social": {"x": "https://x.com/bullerforny", "instagram": "https://instagram.com/bullerforny", "facebook": "https://facebook.com/bullerforny", "youtube": "https://www.youtube.com/@bullerforny"},
+  "platform": [
+   {"topic": "Taxes", "point": "Reduce New York's tax burden and balance the federal budget.", "source": "https://kaileebuller.com/"},
+   {"topic": "Energy", "point": "Repeal New York climate mandates and pursue all-of-the-above energy.", "source": "https://kaileebuller.com/"},
+   {"topic": "Child care", "point": "Expand the Child Care Tax Credit and employer incentives for child care.", "source": "https://kaileebuller.com/"},
+   {"topic": "Public safety", "point": "Support law enforcement and oppose cashless bail.", "source": "https://kaileebuller.com/"},
+   {"topic": "Agriculture", "point": "Cut red tape for family farms and strengthen the food supply chain.", "source": "https://kaileebuller.com/"},
+   {"topic": "Housing", "point": "Increase housing supply and lower barriers for first-time buyers.", "source": "https://kaileebuller.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Calls for lower taxes, a balanced budget and less red tape.", "source": "https://kaileebuller.com/"},
+   "welfare": {"score": 40, "evidence": "Favors tax credits and health savings accounts while protecting Social Security and Medicare as earned benefits.", "source": "https://kaileebuller.com/"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Supports law enforcement and opposes cashless bail.", "source": "https://kaileebuller.com/"},
+   "immigration": null,
+   "foreign": {"score": 75, "evidence": "Backs peace through strength with U.S. military superiority and a strong U.S.-Israel relationship.", "source": "https://kaileebuller.com/"},
+   "energy": {"score": 25, "evidence": "Wants New York climate mandates repealed and backs all-of-the-above energy.", "source": "https://kaileebuller.com/"},
+   "tech": null,
+   "education": {"score": 40, "evidence": "Supports curriculum transparency, vocational training and college affordability.", "source": "https://kaileebuller.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://kaileebuller.com/wp-content/uploads/2026/03/Buller.jpg",
+  "notes": ""
+ },
+ {
+  "id": "NY-23/nick-langworthy",
+  "name": "Nick Langworthy",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NY-23",
+  "bio": "Nick Langworthy has represented New York's 23rd district since 2023. He chaired the New York State Republican Committee from 2019 to 2023 and the Erie County Republican Committee before that. A Jamestown native and Niagara University graduate, he worked for Governor George Pataki and Congressman Tom Reynolds and founded a polling firm.",
+  "website": "https://nicklangworthy.com/",
+  "social": {"x": "https://x.com/RepLangworthy", "instagram": "https://www.instagram.com/replangworthy", "facebook": "https://www.facebook.com/RepLangworthy"},
+  "platform": [
+   {"topic": "Spending", "point": "Cut wasteful government spending that he says drives up prices.", "source": "https://nicklangworthy.com/"},
+   {"topic": "Energy", "point": "Maximize domestic energy production and shorten permitting timelines.", "source": "https://nicklangworthy.com/"},
+   {"topic": "Public safety", "point": "Recruit more police and prosecute fentanyl-related crimes.", "source": "https://nicklangworthy.com/"},
+   {"topic": "Education", "point": "Expand parental choice in education and protect fairness in women's sports.", "source": "https://nicklangworthy.com/"},
+   {"topic": "Elections", "point": "Require voter ID and strengthen election security.", "source": "https://nicklangworthy.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2025 Republican tax and spending bill.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "welfare": {"score": 25, "evidence": "Voted for the 2025 bill that included Medicaid changes, while pledging to preserve Social Security and Medicare.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "liberty": {"score": 60, "evidence": "Abortion: opposes abortion rights; guns: supports Second Amendment rights; speech: pledges to protect free speech.", "source": "https://nicklangworthy.com/"},
+   "security": {"score": 80, "evidence": "Backs recruiting more police and tougher prosecution of fentanyl crimes.", "source": "https://nicklangworthy.com/"},
+   "immigration": {"score": 85, "evidence": "Voted for the 2025 Laken Riley Act.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "foreign": {"score": 50, "evidence": "Voted against the 2024 Ukraine aid package.", "source": "https://clerk.house.gov/evs/2024/roll151.xml"},
+   "energy": {"score": 20, "evidence": "Wants domestic energy production maximized and permitting sped up.", "source": "https://nicklangworthy.com/"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Supports expanding parental choice in education.", "source": "https://nicklangworthy.com/"},
+   "faith": {"score": 65, "evidence": "Campaign pledges to guarantee religious freedom.", "source": "https://nicklangworthy.com/"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "A tech score without specific evidence was removed; the faith score rests on a single campaign pledge."
+ }
+]

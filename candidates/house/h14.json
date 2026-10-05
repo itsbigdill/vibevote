@@ -1,0 +1,717 @@
+[
+  {
+    "state": "Illinois",
+    "district": "IL-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jonathan Jackson",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 90,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Backs Medicare for All, higher wages and pay equity, eliminating student-debt interest, climate action, and opposing public school closures.",
+        "sources": [
+          "https://www.ontheissues.org/IL/Jonathan_Jackson.htm",
+          "https://en.wikipedia.org/wiki/Jonathan_Jackson_(Illinois_politician)"
+        ],
+        "photo": {
+          "file": "File:Rep. Jonathan Jackson official portrait, 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Christian Maxwell",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Donna Miller",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": {
+          "file": "File:Donna Miller in front of Christmas Tree.jpg",
+          "license": "CC0",
+          "author": "MaylenePena"
+        }
+      },
+      {
+        "name": "Michael Noack",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Delia Ramirez",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 5,
+          "foreign": 20,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Introduced Melt ICE Act to defund immigrant detention; voted to withdraw troops from Syria and against pro-Israel resolutions.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Delia_Ramirez"
+        ],
+        "photo": {
+          "file": "File:Delia Ramirez, official portrait 2025.jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe, U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Angel Oakley",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Patty Garcia",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Lupe Castillo",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chris Getty",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign emphasizes cost of living, immigration and public-safety concerns, and independence from parties, without specific proposals; domains unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+          "https://suburbanchicagoland.com/2026/02/27/lyons-mayor-chris-getty-announces-candidacy-for-illinois-4th-congressional-district/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Ed Hershey",
+        "party": "Working Class",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Quigley",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 85,
+          "liberty": 30,
+          "security": null,
+          "immigration": null,
+          "foreign": 90,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backed Medicare for All, abortion and LGBTQ rights, gun restrictions (drove liberty), cap-and-trade, and opposed funding bill lacking Ukraine aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mike_Quigley",
+          "https://www.ontheissues.org/IL/Mike_Quigley.htm"
+        ],
+        "photo": {
+          "file": "File:Mike Quigley 2023 Portrait.jpg",
+          "license": "Public domain",
+          "author": "Brendan O'Hara, House Creative Services"
+        }
+      },
+      {
+        "name": "Tommy Hanson",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Sean Casten",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 60,
+          "energy": 95,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Prioritizes climate policy and ending oil and gas subsidies; supports abortion rights (drove liberty); backed Israel resolution but sought arms conditions.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sean_Casten"
+        ],
+        "photo": {
+          "file": "File:Sean Casten Headshot 117th Congress.jpeg",
+          "license": "Public domain",
+          "author": "Leah Herman, House Creative Services"
+        }
+      },
+      {
+        "name": "Niki Conforti",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "La Shawn Ford",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": {
+          "file": "File:La Shawn K. Ford on 11 December 2023 - 8 (cropped).jpg",
+          "license": "CC BY 2.0",
+          "author": "US Department of Education"
+        }
+      },
+      {
+        "name": "Chad Koppie",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Melissa Bean",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 35,
+          "welfare": 55,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": 65,
+          "energy": 70,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "House record: extended Bush-era tax cuts, backed CAFTA, voted for ACA and cap-and-trade, supported Iraq war, supports abortion rights.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Melissa_Bean"
+        ],
+        "photo": {
+          "file": "File:Melissa Bean Official.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Jennifer Davis",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Daniel Biss",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 95,
+          "liberty": 35,
+          "security": null,
+          "immigration": 25,
+          "foreign": null,
+          "energy": 85,
+          "tech": null,
+          "education": 75,
+          "faith": null
+        },
+        "basis": "Supports single-payer healthcare, abortion rights, marijuana legalization, gun control (drove liberty), carbon limits, in-state tuition regardless of status, teacher pay.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Daniel_Biss"
+        ],
+        "photo": {
+          "file": "File:Biss 2026.jpg",
+          "license": "CC BY 4.0",
+          "author": "Paul Goyette"
+        }
+      },
+      {
+        "name": "John Elleson",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-10",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brad Schneider",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 40,
+          "liberty": 30,
+          "security": 70,
+          "immigration": null,
+          "foreign": 90,
+          "energy": 75,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Favors higher taxes on high incomes and minimum wage hike, opposes Medicare for All, backs abortion/LGBTQ rights, NSA programs, Israel, Ukraine jets.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brad_Schneider"
+        ],
+        "photo": {
+          "file": "File:Brad Schneider Official Portrait 2025.jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Carl Lambrecht",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-11",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Bill Foster",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 60,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 60,
+          "energy": 50,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Let Bush tax cuts expire, defends estate tax, backed card check, Dodd-Frank and ACA; voted against cap-and-trade; supported Israel aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Bill_Foster_(politician)"
+        ],
+        "photo": {
+          "file": "File:Bill Foster 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Jeff Walter",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-12",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Bost",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": 80,
+          "security": null,
+          "immigration": null,
+          "foreign": 45,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts and wants them permanent, backed AHCA, condemned Obergefell ruling (drove liberty), backed Israel aid, opposed 2024 Ukraine aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mike_Bost"
+        ],
+        "photo": {
+          "file": "File:Mike Bost 117th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Julie Fortier",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

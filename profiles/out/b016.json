@@ -1,0 +1,417 @@
+[
+ {
+  "id": "AZ-3/yassamin-ansari",
+  "name": "Yassamin Ansari",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for AZ-3",
+  "bio": "Yassamin Ansari has represented Arizona's 3rd congressional district since January 2025. From 2021 to 2024 she was a Phoenix City Council member, serving part of that time as vice mayor. Before elected office she worked on climate policy as an adviser in the office of the UN Secretary-General; she studied at Stanford and Cambridge.",
+  "website": "https://yassaminforcongress.com",
+  "social": {
+   "x": "https://twitter.com/yassaminansari",
+   "instagram": "https://www.instagram.com/yassaminansari/",
+   "facebook": "https://www.facebook.com/yassaminansari/"
+  },
+  "platform": [
+   {"topic": "Climate", "point": "Pushes for climate action and environmental protection, building on her work creating Phoenix's heat response office.", "source": "https://yassaminforcongress.com/"},
+   {"topic": "Reproductive rights", "point": "Pledges to protect access to abortion and reproductive care.", "source": "https://yassaminforcongress.com/"},
+   {"topic": "Immigration", "point": "Opposes mass deportation, backs birthright citizenship and calls for oversight of ICE detention.", "source": "https://yassaminforcongress.com/"},
+   {"topic": "Education", "point": "Supports tuition help for community college and trade training.", "source": "https://yassaminforcongress.com/"},
+   {"topic": "Housing", "point": "Backed expanding affordable housing to address homelessness.", "source": "https://en.wikipedia.org/wiki/Yassamin_Ansari"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Supports labor unions and worker organizing.", "source": "https://en.wikipedia.org/wiki/Yassamin_Ansari"},
+   "welfare": null,
+   "liberty": {"score": 20, "evidence": "Abortion: has worked to protect reproductive rights; the cited page does not address other liberty issues.", "source": "https://yassaminforcongress.com/"},
+   "security": null,
+   "immigration": {"score": 10, "evidence": "Called for abolishing ICE and opposes mass deportation.", "source": "https://en.wikipedia.org/wiki/Yassamin_Ansari"},
+   "foreign": {"score": 45, "evidence": "Supports military aid to Israel but opposed military action against Iran and backed the Iran nuclear deal.", "source": "https://en.wikipedia.org/wiki/Yassamin_Ansari"},
+   "energy": {"score": 85, "evidence": "Former UN climate policy adviser who champions renewable energy and climate action.", "source": "https://en.wikipedia.org/wiki/Yassamin_Ansari"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://yassaminforcongress.com/wp-content/uploads/2023/04/ya-talking-779x1024.jpg",
+  "notes": ""
+ },
+ {
+  "id": "AZ-3/alan-aversa",
+  "name": "Alan Aversa",
+  "party": "No Labels",
+  "current_role": "Substitute teacher",
+  "bio": "Alan Aversa is a teacher who holds a physics and astronomy degree from the University of Arizona and has taught physics and programming in classrooms, online and to homeschoolers. He works as a substitute teacher in charter schools and ran for the Phoenix Union High School District board in 2022.",
+  "website": "https://aversa.vote/",
+  "social": {
+   "x": "https://x.com/SententiaeDeo",
+   "youtube": "https://www.youtube.com/@AlanAversa"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Promotes local, sustainable farming and wider, decentralized ownership of capital.", "source": "https://aversa.vote/issues"},
+   {"topic": "Education", "point": "Backs parental choice in schooling and opposes teaching gender and race theories without parental consent.", "source": "https://aversa.vote/issues"},
+   {"topic": "Abortion", "point": "Opposes abortion and federal funding for groups that provide or refer for it.", "source": "https://www.azvoterguide.com/candidate/aversa-alan/"},
+   {"topic": "Foreign policy", "point": "Opposes U.S. involvement in and funding for wars involving Israel, Ukraine and Iran.", "source": "https://aversa.vote/issues"},
+   {"topic": "Online safety", "point": "Supports parental consent and age verification for minors on online platforms.", "source": "https://www.azvoterguide.com/candidate/aversa-alan/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 85, "evidence": "Opposes abortion and adding sexual orientation and gender identity to federal nondiscrimination law.", "source": "https://www.azvoterguide.com/candidate/aversa-alan/"},
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 15, "evidence": "Takes an America First stance against U.S. funding of wars in Ukraine, Israel and Iran.", "source": "https://aversa.vote/issues"},
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Supports federal AI regulation and age verification for minors online.", "source": "https://www.azvoterguide.com/candidate/aversa-alan/"},
+   "education": {"score": 10, "evidence": "Supports federal tax credits for private school, homeschool and online options and parental rights.", "source": "https://www.azvoterguide.com/candidate/aversa-alan/"},
+   "faith": {"score": 80, "evidence": "Supports protecting organizations with sincerely held religious beliefs from federal discrimination; campaign motto invokes God.", "source": "https://www.azvoterguide.com/candidate/aversa-alan/"}
+  },
+  "photo": null,
+  "campaign_photo": "https://aversa.vote/assets/portrait.webp",
+  "notes": "On immigration he says the issue should be handled at the state level first, so no score was assigned."
+ },
+ {
+  "id": "AZ-3/david-redkey",
+  "name": "David Redkey",
+  "party": "Green",
+  "current_role": "Public school teacher",
+  "bio": "David Redkey is a certified public school teacher, small-business owner and disability advocate who has lived in Arizona for nearly four decades. He is the Green Party nominee for Arizona's 3rd congressional district.",
+  "website": "https://www.davidredkey4congress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/DavidRedkey",
+   "tiktok": "https://www.tiktok.com/@MrDavidRedkey",
+   "youtube": "https://www.youtube.com/@DavidRedkey4Congress"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Promotes what he calls Foundation Economics, putting people ahead of profits.", "source": "https://www.davidredkey4congress.com/"},
+   {"topic": "Health care", "point": "Proposes universal coverage modeled on the military's TriCare Prime system, with caps on catastrophic costs.", "source": "https://www.davidredkey4congress.com/"},
+   {"topic": "Reproductive rights", "point": "Supports protecting reproductive rights.", "source": "https://www.davidredkey4congress.com/"},
+   {"topic": "Foreign policy", "point": "Opposes U.S. military aid and weapons-system access for Israel.", "source": "https://www.davidredkey4congress.com/"},
+   {"topic": "Education", "point": "Backs federal funding for public schools.", "source": "https://www.davidredkey4congress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 95, "evidence": "Proposes universal health coverage based on TriCare Prime for all.", "source": "https://www.davidredkey4congress.com/"},
+   "liberty": {"score": 20, "evidence": "Supports reproductive rights (abortion only).", "source": "https://www.davidredkey4congress.com/"},
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 30, "evidence": "Opposes U.S. military aid to Israel.", "source": "https://www.davidredkey4congress.com/"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 75, "evidence": "Calls for federal funding of schools as a teacher-candidate.", "source": "https://www.davidredkey4congress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "FEC records list an earlier filing for AZ-1, but his campaign site describes a run in AZ-3."
+ },
+ {
+  "id": "AZ-4/greg-stanton",
+  "name": "Greg Stanton",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for AZ-4",
+  "bio": "Greg Stanton has served in the U.S. House since 2019, first for Arizona's 9th district and since 2023 for the 4th. He was Mayor of Phoenix from 2012 to 2018, and before that a Phoenix City Council member and Arizona Deputy Attorney General. He began his career as an education attorney.",
+  "website": "https://gregstanton.com",
+  "social": {
+   "x": "https://x.com/gregstantonaz",
+   "instagram": "https://www.instagram.com/gregstantonaz/",
+   "facebook": "https://www.facebook.com/gregstantonaz",
+   "youtube": "https://www.youtube.com/@gregstantonaz"
+  },
+  "platform": [
+   {"topic": "Water", "point": "Prioritizes securing Arizona's water supply and has backed federal water infrastructure funding.", "source": "https://gregstanton.com/"},
+   {"topic": "Cost of living", "point": "Campaigns on lowering everyday costs for Arizona families.", "source": "https://gregstanton.com/"},
+   {"topic": "Health care", "point": "Pledges to protect health coverage and has backed expanding the Affordable Care Act.", "source": "https://www.ontheissues.org/House/Greg_Stanton.htm"},
+   {"topic": "Ethics", "point": "Lists rooting out corruption in government as a top priority.", "source": "https://gregstanton.com/"},
+   {"topic": "Education", "point": "Campaigns on strengthening education.", "source": "https://gregstanton.com/"},
+   {"topic": "Security", "point": "Campaigns on keeping communities safe and secure.", "source": "https://gregstanton.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Voted for the American Rescue Plan, backs middle-class tax reform and sponsored a bill strengthening union organizing.", "source": "https://www.ontheissues.org/House/Greg_Stanton.htm"},
+   "welfare": {"score": 60, "evidence": "Supports expanding the Affordable Care Act.", "source": "https://www.ontheissues.org/House/Greg_Stanton.htm"},
+   "liberty": {"score": 20, "evidence": "Supports the Equality Act, opposed overturning Roe v. Wade and backs universal background checks for guns.", "source": "https://en.wikipedia.org/wiki/Greg_Stanton"},
+   "security": {"score": 35, "evidence": "Sponsored stricter police accountability rules.", "source": "https://www.ontheissues.org/House/Greg_Stanton.htm"},
+   "immigration": {"score": 25, "evidence": "Supports the DREAM Act, a path to citizenship and higher visa caps.", "source": "https://www.ontheissues.org/House/Greg_Stanton.htm"},
+   "foreign": {"score": 60, "evidence": "Serves on Foreign Affairs and criticized delays in military aid to Ukraine, while voting to end U.S. role in Yemen hostilities.", "source": "https://www.ontheissues.org/House/Greg_Stanton.htm"},
+   "energy": {"score": 70, "evidence": "Backs more federal investment in solar and wind and voted for rural renewable energy aid.", "source": "https://www.ontheissues.org/House/Greg_Stanton.htm"},
+   "tech": {"score": 60, "evidence": "Sponsored a net neutrality bill.", "source": "https://www.ontheissues.org/House/Greg_Stanton.htm"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6a385937af2cca4e2ca878e7/d0069535-4add-4627-9ff3-2e386544e0ad/download.jpeg",
+  "notes": "Several scores rest on votes and statements from 2018-2022 compiled by OnTheIssues."
+ },
+ {
+  "id": "AZ-4/zuhdi-jasser",
+  "name": "Zuhdi Jasser",
+  "party": "Republican",
+  "current_role": "Physician and president of the American Islamic Forum for Democracy",
+  "bio": "Zuhdi Jasser is a Phoenix internist and nuclear cardiologist who served 11 years as a U.S. Navy medical officer, including as a staff internist for Congress. Born in Ohio to Syrian immigrant parents, he founded the American Islamic Forum for Democracy and served on the U.S. Commission on International Religious Freedom. He ran for this seat in 2024 and lost the Republican primary.",
+  "website": "https://z4az.com/",
+  "social": {
+   "x": "https://x.com/DrZforAZ",
+   "instagram": "https://www.instagram.com/drzuhdijasser",
+   "facebook": "https://www.facebook.com/DrZ4AZ/",
+   "youtube": "https://www.youtube.com/channel/UCr_8NTXRAYG9hTBObAXySbQ"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Wants to cut wasteful spending and regulations and bring manufacturing back.", "source": "https://z4az.com/"},
+   {"topic": "Budget", "point": "Supports a Balanced Budget Amendment.", "source": "https://z4az.com/"},
+   {"topic": "Border", "point": "Calls for strong enforcement and more resources for border agents.", "source": "https://z4az.com/"},
+   {"topic": "Defense", "point": "Plans to strengthen military readiness and counter authoritarian ideologies abroad.", "source": "https://z4az.com/"},
+   {"topic": "Education", "point": "Supports education freedom with funding that follows students.", "source": "https://z4az.com/"},
+   {"topic": "Health care", "point": "Seeks reforms targeting obesity, addiction and mental health.", "source": "https://z4az.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for spending and regulation cuts and a balanced budget amendment.", "source": "https://z4az.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Calls for strong border enforcement with more border agents.", "source": "https://z4az.com/"},
+   "foreign": {"score": 70, "evidence": "Wants stronger military readiness and U.S. leadership against authoritarian ideologies.", "source": "https://z4az.com/"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 15, "evidence": "Backs education freedom and funding students rather than systems.", "source": "https://z4az.com/"},
+   "faith": null
+  },
+  "photo": {"file": "File:M. Zuhdi Jasser by Gage Skidmore (cropped).jpg", "license": "CC BY-SA 3.0", "author": "Gage Skidmore"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68829e56f479c276ab6c2ff1/32c9f8f2-a235-4da1-a45e-5b6e29cfb871/ZUHDI+JASSER.HEADSHOT.LIGHT+BACKGROUND.png",
+  "notes": "An earlier security score was cleared because its basis, support for the See Something Say Something Act, was not confirmed."
+ },
+ {
+  "id": "AZ-4/tisha-benoit",
+  "name": "Tisha Benoit",
+  "party": "No Labels",
+  "current_role": "Integrative medicine practitioner and small-business owner",
+  "bio": "Tisha Benoit is a doctor of integrative medicine and small-business owner who was clinic supervisor at the Phoenix Institute of Herbal Medicine and Acupuncture from 2008 to 2019. She won the No Labels Party nomination for Arizona's 4th district in July 2026.",
+  "website": "https://tishabenoit.com",
+  "social": {},
+  "platform": [
+   {"topic": "Economy", "point": "Plans to cut unneeded regulations, pursue pro-growth tax policy, expand manufacturing and fight inflation.", "source": "https://www.ballotready.org/people/tisha-benoit"},
+   {"topic": "Immigration", "point": "Supports secure, orderly border management while keeping lawful trade and travel moving.", "source": "https://www.ballotready.org/people/tisha-benoit"},
+   {"topic": "Opioids", "point": "Prioritizes fighting the opioid epidemic with mental health and recovery support.", "source": "https://www.ballotready.org/people/tisha-benoit"},
+   {"topic": "Social services", "point": "Proposes safe houses for vulnerable women and children.", "source": "https://www.ballotready.org/people/tisha-benoit"},
+   {"topic": "Education", "point": "Wants to expand federal vocational education grants and modernize career-track programs.", "source": "https://www.ballotready.org/people/tisha-benoit"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Calls for regulatory cuts and pro-growth tax policies.", "source": "https://www.ballotready.org/people/tisha-benoit"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 60, "evidence": "Favors secure, orderly border management that controls entry while keeping lawful trade and travel moving.", "source": "https://www.ballotready.org/people/tisha-benoit"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Coverage also says she backs law enforcement and Second Amendment rights, but no primary source was reviewed for those."
+ },
+ {
+  "id": "AZ-5/mark-lamb",
+  "name": "Mark Lamb",
+  "party": "Republican",
+  "current_role": "Former Pinal County Sheriff",
+  "bio": "Mark Lamb was Sheriff of Pinal County, Arizona, from 2017 to 2024 and earlier worked as a police officer and detective with the Salt River Pima-Maricopa Indian Community. Born in Hawaii and raised partly abroad, he graduated from Chandler High School. He ran for U.S. Senate in 2024 and won the 2026 Republican primary for the open 5th district seat.",
+  "website": "https://marklamb.us/",
+  "social": {
+   "x": "https://x.com/sherifflamb1",
+   "instagram": "https://www.instagram.com/americansheriff",
+   "facebook": "https://www.facebook.com/americansheriff",
+   "tiktok": "https://www.tiktok.com/@sherifflamb",
+   "youtube": "https://www.youtube.com/@realamericansheriff"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Wants a secure border and orderly immigration, targeting cartels while protecting legal immigration.", "source": "https://marklamb.us/"},
+   {"topic": "Law enforcement", "point": "Opposes defunding police or abolishing ICE and backs local-federal enforcement partnerships.", "source": "https://marklamb.us/"},
+   {"topic": "Economy", "point": "Focuses on lower costs, small businesses and protecting taxpayers.", "source": "https://marklamb.us/"},
+   {"topic": "Government spending", "point": "Calls for cutting government waste and bureaucracy.", "source": "https://marklamb.us/"},
+   {"topic": "Constitutional rights", "point": "Champions the Second Amendment, free speech and religious liberty.", "source": "https://marklamb.us/about"},
+   {"topic": "Data centers", "point": "Questions Big Tech data center growth in Arizona over water use and grid strain.", "source": "https://marklamb.us/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Campaigns on cutting government waste, lower costs and protecting taxpayers.", "source": "https://marklamb.us/"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Opposes drag shows (LGBTQ) but backs gun rights, free speech and refused to enforce COVID mandates.", "source": "https://en.wikipedia.org/wiki/Mark_Lamb_(sheriff)"},
+   "security": {"score": 70, "evidence": "Opposes defunding police and abolishing ICE; formed citizen posses as sheriff.", "source": "https://marklamb.us/"},
+   "immigration": {"score": 90, "evidence": "Makes border enforcement against illegal immigration and cartels a top priority.", "source": "https://marklamb.us/about"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 85, "evidence": "Runs on God, Family, Freedom and champions religious liberty.", "source": "https://marklamb.us/about"}
+  },
+  "photo": {"file": "File:Mark Lamb (55021585032) (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"},
+  "campaign_photo": "https://assets.cdn.filesafe.space/VmdSatTwnT8u4zV0wYD3/media/6a239eb649e55f851980ea2c.png",
+  "notes": "Liberty lowered from 75 to 60 because his gun-rights, speech and anti-mandate stances weigh toward individual choice alongside his LGBTQ stance."
+ },
+ {
+  "id": "AZ-5/elizabeth-lee",
+  "name": "Elizabeth Lee",
+  "party": "Democratic",
+  "current_role": "Nurse and patient advocate",
+  "bio": "Elizabeth Lee is a board-certified reproductive health and infertility nurse and patient advocate who has also worked as a healthcare consultant. She grew up in Ohio and holds degrees from Northwestern State University and Carrington College. She won the 2026 Democratic nomination for Arizona's 5th district.",
+  "website": "https://www.nurselee4az.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/NurseLee4AZ",
+   "facebook": "https://www.facebook.com/NurseLee4AZ"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Treats health care as a human right and opposes cost-based rationing of care.", "source": "https://nurselee4az.com/issues"},
+   {"topic": "Education", "point": "Wants public schools fully funded to ease overcrowding and resource shortages.", "source": "https://nurselee4az.com/issues"},
+   {"topic": "Housing", "point": "Prioritizes affordable housing so families need not choose between groceries and medicine.", "source": "https://nurselee4az.com/issues"},
+   {"topic": "Water", "point": "Puts water security during Arizona's drought at the center of her environmental plans.", "source": "https://nurselee4az.com/issues"},
+   {"topic": "Reproductive rights", "point": "Supports reproductive freedom and access to fertility care such as IVF.", "source": "https://nurselee4az.com/issues"},
+   {"topic": "Campaign finance", "point": "Refuses corporate PAC money and runs a community-funded campaign.", "source": "https://www.nurselee4az.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 85, "evidence": "Calls health care a human right that should not be rationed by cost.", "source": "https://nurselee4az.com/issues"},
+   "liberty": {"score": 20, "evidence": "Supports reproductive freedom and gun violence prevention.", "source": "https://nurselee4az.com/issues"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Says no person is illegal and calls for humane immigration solutions.", "source": "https://nurselee4az.com/issues"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 90, "evidence": "Calls for fully funding public schools.", "source": "https://nurselee4az.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/f9df0b31-2ce0-4b8a-9a5d-4765b3afb86b/ab4b5c88-afea-4c83-9eb7-311e7cead6a6/ab4b5c88-afea-4c83-9eb7-311e7cead6a6.jpg",
+  "notes": ""
+ },
+ {
+  "id": "AZ-6/juan-ciscomani",
+  "name": "Juan Ciscomani",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AZ-6",
+  "bio": "Juan Ciscomani has represented Arizona's 6th congressional district since 2023. Born in Hermosillo, Mexico, and raised in Tucson, he graduated from the University of Arizona. He worked as a senior adviser to Arizona Governor Doug Ducey and served as the Arizona-Mexico Commission's vice chair.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepCiscomani",
+   "instagram": "https://www.instagram.com/repjuanciscomani",
+   "facebook": "https://www.facebook.com/100089186535085",
+   "youtube": "https://www.youtube.com/channel/UCD329AYGX7YnMMSUaTKWHwA"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Backs comprehensive border security and co-sponsored a border agent safety bill.", "source": "https://www.ontheissues.org/House/Juan_Ciscomani.htm"},
+   {"topic": "Water", "point": "Treats protecting Arizona's water supply as essential to the state's growth.", "source": "https://ciscomani.house.gov/issues"},
+   {"topic": "Taxes", "point": "Supports lower taxes and less regulation and signed the Taxpayer Protection Pledge.", "source": "https://www.ontheissues.org/House/Juan_Ciscomani.htm"},
+   {"topic": "Medicaid", "point": "Says he will not support legislation that cuts Medicaid benefits for vulnerable people.", "source": "https://en.wikipedia.org/wiki/Juan_Ciscomani"},
+   {"topic": "Veterans", "point": "Lists veterans' issues among his main legislative focus areas.", "source": "https://ciscomani.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Advocates lower taxes and less regulation; signed the Taxpayer Protection Pledge and voted for the One Big Beautiful Bill.", "source": "https://www.ontheissues.org/House/Juan_Ciscomani.htm"},
+   "welfare": {"score": 50, "evidence": "Pledged not to support Medicaid benefit reductions for vulnerable populations.", "source": "https://en.wikipedia.org/wiki/Juan_Ciscomani"},
+   "liberty": {"score": 60, "evidence": "Praised the Dobbs decision and supports Arizona's 15-week abortion limit but not a national ban; supports the Second Amendment.", "source": "https://en.wikipedia.org/wiki/Juan_Ciscomani"},
+   "security": null,
+   "immigration": {"score": 55, "evidence": "Prioritizes border security while staying open to legal protections for Dreamers.", "source": "https://en.wikipedia.org/wiki/Juan_Ciscomani"},
+   "foreign": {"score": 65, "evidence": "Voted to support Israel after the October 2023 attacks.", "source": "https://en.wikipedia.org/wiki/Juan_Ciscomani"},
+   "energy": {"score": 45, "evidence": "Member of the Conservative Climate Caucus and the bipartisan Climate Solutions Caucus.", "source": "https://en.wikipedia.org/wiki/Juan_Ciscomani"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was confirmed, so official House social accounts are listed."
+ },
+ {
+  "id": "AZ-6/joanna-mendoza",
+  "name": "JoAnna Mendoza",
+  "party": "Democratic",
+  "current_role": "Retired U.S. Marine",
+  "bio": "JoAnna Mendoza is a retired U.S. Marine with 20 years of service, including training military leaders. She has worked in public service and on veterans' transition issues, and describes herself as a rural Arizonan. She is the Democratic nominee for Arizona's 6th district.",
+  "website": "https://www.joannamendoza.com/",
+  "social": {
+   "x": "https://x.com/Mendoza4AZ",
+   "instagram": "https://www.instagram.com/mendoza4az/",
+   "facebook": "https://www.facebook.com/Mendoza4AZ"
+  },
+  "platform": [
+   {"topic": "Jobs", "point": "Wants to bring good-paying jobs to Southern Arizona and protect workers.", "source": "https://www.joannamendoza.com/issues"},
+   {"topic": "Cost of living", "point": "Focuses on lowering costs for families and seniors.", "source": "https://www.joannamendoza.com/issues"},
+   {"topic": "Health care", "point": "Pledges to strengthen the health care system.", "source": "https://www.joannamendoza.com/issues"},
+   {"topic": "Border", "point": "Pairs safe communities and strong borders with immigration solutions.", "source": "https://www.joannamendoza.com/issues"},
+   {"topic": "Water and energy", "point": "Prioritizes climate, water and energy security for rural Arizona.", "source": "https://www.joannamendoza.com/issues"},
+   {"topic": "Veterans", "point": "Commits to keeping promises made to veterans.", "source": "https://www.joannamendoza.com/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Platform combines strong borders with real immigration solutions.", "source": "https://www.joannamendoza.com/issues"},
+   "foreign": {"score": 70, "evidence": "Platform includes standing with U.S. allies.", "source": "https://www.joannamendoza.com/issues"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:JoAnna Mendoza, 2013.jpg", "license": "Public domain", "author": "Lance Cpl. Shaltiel Dominguez"},
+  "campaign_photo": "https://www.joannamendoza.com/wp-content/uploads/2026/03/DSC00138-1024x684.jpg",
+  "notes": "Her issues page lists topic headings; detailed policy text was not captured."
+ },
+ {
+  "id": "AZ-6/jereme-peters",
+  "name": "Jereme Peters",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Jereme Peters is the Libertarian nominee for Arizona's 6th congressional district and was unopposed in the July 2026 primary. He has not held public office, and little biographical information is public.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Government", "point": "Aims to reduce government overreach and promote personal freedoms.", "source": "https://www.decodethevote.com/candidate/sos-AZ-us-house-6-jereme-lance-peters"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or specific issue positions were found."
+ },
+ {
+  "id": "AZ-6/gary-swing",
+  "name": "Gary Swing",
+  "party": "Green",
+  "current_role": "Green Party activist",
+  "bio": "Gary Swing is a longtime Green Party activist who has run for office many times; born in New Jersey, he holds degrees from the University of Colorado at Boulder and Denver. He is the Arizona Green Party's nominee for the 6th congressional district.",
+  "website": "https://theswingvote.wixsite.com/unity",
+  "social": {
+   "facebook": "https://www.facebook.com/RunFromCongress/"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All and a universal basic income.", "source": "https://theswingvote.wixsite.com/unity"},
+   {"topic": "Military", "point": "Proposes cutting the military budget by 90 percent and opposes foreign interventions.", "source": "https://theswingvote.wixsite.com/unity"},
+   {"topic": "Climate", "point": "Wants a shift to renewable energy, away from fossil fuels and nuclear power.", "source": "https://theswingvote.wixsite.com/unity"},
+   {"topic": "Immigration", "point": "Backs freedom of migration, abolishing ICE and no border wall.", "source": "https://theswingvote.wixsite.com/unity"},
+   {"topic": "Abortion", "point": "Supports federal legislation securing abortion rights and subsidized family planning.", "source": "https://theswingvote.wixsite.com/unity"},
+   {"topic": "Higher education", "point": "Proposes forgiving student debt and subsidizing higher education.", "source": "https://theswingvote.wixsite.com/unity"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Advocates a steady-state economy with pollution taxes and a universal basic income.", "source": "https://theswingvote.wixsite.com/unity"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and a universal basic income.", "source": "https://theswingvote.wixsite.com/unity"},
+   "liberty": {"score": 15, "evidence": "Supports federal abortion-rights legislation (abortion only).", "source": "https://theswingvote.wixsite.com/unity"},
+   "security": null,
+   "immigration": {"score": 0, "evidence": "Supports freedom of migration, abolishing ICE and opposes a border wall.", "source": "https://theswingvote.wixsite.com/unity"},
+   "foreign": {"score": 5, "evidence": "Proposes a 90 percent military budget cut and opposes foreign military intervention.", "source": "https://theswingvote.wixsite.com/unity"},
+   "energy": {"score": 95, "evidence": "Calls for moving off fossil fuels to renewable energy.", "source": "https://theswingvote.wixsite.com/unity"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/3bc2c3_3e852cf09fd24ef1915ffff5a8584b98~mv2.jpg",
+  "notes": "Ballotpedia describes him as a former Green Party activist; his current occupation was not confirmed."
+ }
+]

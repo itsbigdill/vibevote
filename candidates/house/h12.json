@@ -1,0 +1,755 @@
+[
+  {
+    "state": "Florida",
+    "district": "FL-25",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jared Moskowitz",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 60,
+          "liberty": 35,
+          "security": null,
+          "immigration": 50,
+          "foreign": 85,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes Social Security and Medicare cuts, backed gun-safety laws and abortion access (guns drove liberty), voted for Laken Riley Act, strongly pro-Israel.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jared_Moskowitz",
+          "https://www.ontheissues.org/FL/Jared_Moskowitz.htm",
+          "https://jaredforflorida.com/"
+        ],
+        "photo": {
+          "file": "File:JEM New Headshot 2 (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman"
+        }
+      },
+      {
+        "name": "Scott Singer",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 70,
+          "foreign": 75,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pledges no tax increases and free-market policy, backs law enforcement and strong borders, supports alliances such as Israel.",
+        "sources": [
+          "https://www.scottsingerusa.com/"
+        ],
+        "photo": {
+          "file": "File:Scott singer.png",
+          "license": "Public domain",
+          "author": "City of Boca Raton"
+        }
+      },
+      {
+        "name": "Peter Jassenoff",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-26",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mario Díaz-Balart",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 75,
+          "security": 75,
+          "immigration": 40,
+          "foreign": 70,
+          "energy": 20,
+          "tech": 35,
+          "education": 15,
+          "faith": 85
+        },
+        "basis": "Voted for 2017 tax cuts and ACA repeal; anti-abortion, opposes gun control (abortion and guns drove liberty); cosponsored DIGNIDAD Act; backs vouchers and offshore drilling.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mario_D%C3%ADaz-Balart",
+          "https://www.ontheissues.org/FL/Mario_Diaz-Balart.htm"
+        ],
+        "photo": {
+          "file": "File:Mario Díaz-Balart official photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Nicole Locklin",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": 25,
+          "security": 35,
+          "immigration": null,
+          "foreign": 35,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants to tax extreme wealth, pursue universal healthcare and childcare, restore abortion rights, universal background checks, diplomacy-first foreign policy.",
+        "sources": [
+          "https://locklinforcongress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Deborah Ann Meidinger Hosey",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-27",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "María Elvira Salazar",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 30,
+          "welfare": 35,
+          "liberty": 65,
+          "security": null,
+          "immigration": 35,
+          "foreign": 75,
+          "energy": 55,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposed 2021 relief bill; anti-abortion but backed background checks (abortion drove liberty); sponsors DIGNIDAD legalization bill; hawkish on Cuba; backed carbon tax.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mar%C3%ADa_Elvira_Salazar",
+          "https://www.ontheissues.org/FL/Maria_Elvira_Salazar.htm"
+        ],
+        "photo": {
+          "file": "File:REP.MES Headshot (cropped 2).jpg",
+          "license": "Public domain",
+          "author": "Office of Rep. María Elvira Salazar"
+        }
+      },
+      {
+        "name": "Eliott Rodriguez",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": 20,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls for federal affordable-housing support, restoring ACA subsidies, defending Social Security and Medicare, and scrutiny of immigration enforcement.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Eliott_Rodriguez",
+          "https://eliottrodriguez.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-28",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Carlos Giménez",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": 40,
+          "security": null,
+          "immigration": 35,
+          "foreign": 70,
+          "energy": 40,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes higher taxes and ran on ACA repeal; backed background checks and Respect for Marriage Act (guns, LGBTQ drove liberty); voted for Haitian TPS.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Carlos_A._Gim%C3%A9nez",
+          "https://www.ontheissues.org/FL/Carlos_Gimenez.htm"
+        ],
+        "photo": {
+          "file": "File:Rep. Carlos Gimenez official photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Phil Ehr",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": null,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants to lower premiums and expand health access, protect immigrant families with residency paths, and pause large AI data centers pending review.",
+        "sources": [
+          "https://ehrforcongress.us/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Eddy Rojas",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jim Kingston",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": 30,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 70
+        },
+        "basis": "Pledges to cut taxes, rein in spending and regulation, favors market competition in health insurance, says faith matters.",
+        "sources": [
+          "https://www.jimkingston.org/",
+          "https://www.clubforgrowth.org/candidates/jim-kingston/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Amanda Hollowell",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": 30,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 70,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs Medicaid expansion, national paid leave, union rights, clean-energy investment, reproductive and LGBTQ rights, and an assault weapons ban.",
+        "sources": [
+          "https://www.amandaforga.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Sanford Bishop",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": 70,
+          "liberty": 55,
+          "security": 55,
+          "immigration": 45,
+          "foreign": 70,
+          "energy": 45,
+          "tech": 60,
+          "education": 90,
+          "faith": 70
+        },
+        "basis": "Supports ACA and opposes vouchers; mixed abortion and gun record (both drove liberty); backed PATRIOT Act, Laken Riley Act, school-prayer amendment.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sanford_Bishop",
+          "https://www.ontheissues.org/GA/Sanford_Bishop.htm"
+        ],
+        "photo": {
+          "file": "File:Sanford Bishop 117th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Matt Day",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 75,
+          "security": 70,
+          "immigration": 70,
+          "foreign": 65,
+          "energy": 25,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaigns to fight for the unborn (drove liberty), increase border security, back law enforcement, strengthen military, and oppose solar expansion.",
+        "sources": [
+          "https://www.votemattday.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brian Jack",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": null,
+          "security": 60,
+          "immigration": 85,
+          "foreign": 65,
+          "energy": 20,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign priorities: cut taxes, end illegal immigration, unleash American energy, stop crime, strengthen the US-Israel relationship.",
+        "sources": [
+          "https://brianjack.com/",
+          "https://en.wikipedia.org/wiki/Brian_Jack"
+        ],
+        "photo": {
+          "file": "File:Jack Brian 119th Congress (3x4 crop).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Maura Keller",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 60,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports raising the minimum wage, expanding health coverage, fixing Social Security, and right-to-repair laws.",
+        "sources": [
+          "https://maurakeller.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Hank Johnson",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": 15,
+          "security": 20,
+          "immigration": 15,
+          "foreign": 45,
+          "energy": 85,
+          "tech": 70,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Backs higher taxes on the wealthy, public health insurance, abortion rights and background checks, limits on surveillance, citizenship pathway, clean energy, net neutrality; opposes vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/GA/Hank_Johnson.htm",
+          "https://en.wikipedia.org/wiki/Hank_Johnson"
+        ],
+        "photo": {
+          "file": "File:Hank Johnson, official portrait 115th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "James Duffie",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found.",
+        "sources": [
+          "https://www.wsbtv.com/news/local/georgia-general-election-2026-candidates-us-senate-all-14-us-house-seats/TCGX3E477BG7FCEATCR67KRDBQ/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Nikema Williams",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 95,
+          "liberty": 15,
+          "security": 20,
+          "immigration": 15,
+          "foreign": null,
+          "energy": 90,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Supports Medicare for All, abortion rights, gun control and marijuana legalization, police accountability, Dreamer citizenship, Green New Deal; opposes vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/GA/Nikema_Williams.htm",
+          "https://www.nikemaforcongress.com/"
+        ],
+        "photo": {
+          "file": "File:Rep. Nikema Williams official photo, 117th Congress (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "House Creative Committee"
+        }
+      },
+      {
+        "name": "John Salvesen",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found.",
+        "sources": [
+          "https://www.wsbtv.com/news/local/georgia-general-election-2026-candidates-us-senate-all-14-us-house-seats/TCGX3E477BG7FCEATCR67KRDBQ/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Lucy McBath",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 70,
+          "liberty": 25,
+          "security": 35,
+          "immigration": 40,
+          "foreign": null,
+          "energy": null,
+          "tech": 60,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Backs $15 minimum wage, shoring up ACA over Medicare for All, abortion rights and strict gun laws, opposes abolishing ICE and school vouchers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Lucy_McBath",
+          "https://www.ontheissues.org/GA/Lucy_McBath.htm"
+        ],
+        "photo": {
+          "file": "File:Lucy McBath portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Kevin Martin",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found.",
+        "sources": [
+          "https://www.wsbtv.com/news/local/georgia-general-election-2026-candidates-us-senate-all-14-us-house-seats/TCGX3E477BG7FCEATCR67KRDBQ/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Rich McCormick",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 85,
+          "security": 75,
+          "immigration": 85,
+          "foreign": 65,
+          "energy": 15,
+          "tech": null,
+          "education": 25,
+          "faith": 70
+        },
+        "basis": "Favors tax cuts, no-exception abortion ban and fewer gun limits (drove liberty), qualified immunity, border wall, fracking, parents-first education.",
+        "sources": [
+          "https://www.ontheissues.org/GA/Rich_McCormick.htm",
+          "https://www.richmccormick.us/",
+          "https://en.wikipedia.org/wiki/Rich_McCormick"
+        ],
+        "photo": {
+          "file": "File:Rep. Rich McCormick official photo, 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Tony Kozycki",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 60,
+          "liberty": null,
+          "security": null,
+          "immigration": 55,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants to protect Social Security and Medicare and lower health costs, calls for a secure border and working system, and standing with allies.",
+        "sources": [
+          "https://kozyckiforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Austin Scott",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 85,
+          "security": 70,
+          "immigration": 85,
+          "foreign": 65,
+          "energy": 10,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Backs tax cuts, ACA repeal, work requirements; opposes abortion, gun control and same-sex marriage (drove liberty); supports Ukraine aid, drilling, vouchers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Austin_Scott",
+          "https://www.ontheissues.org/GA/Austin_Scott.htm"
+        ],
+        "photo": {
+          "file": "File:Austin Scott 2021-22 (cropped).jpg",
+          "license": "Public domain",
+          "author": "Office of Representative Austin Scott"
+        }
+      },
+      {
+        "name": "Kelly Esti",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 60,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Treats healthcare and education as public goods, supports federal labor standards, rural clinic funding, and community options for solar and wind.",
+        "sources": [
+          "https://www.kellyesti4congress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

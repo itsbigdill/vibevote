@@ -1,0 +1,448 @@
+[
+ {
+  "id": "PA-10/janelle-stelson",
+  "name": "Janelle Stelson",
+  "party": "Democratic",
+  "race": "PA-10",
+  "race_label": "Pennsylvania · US House PA-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": 20,
+    "security": 35,
+    "immigration": 55,
+    "foreign": 35,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Middle-class tax cuts not billionaires, drug price negotiation, restore Roe, unmasked badged agents, deport violent migrants, opposes Iran war, backs public schools.",
+   "sources": [
+    "https://janellestelson.com/priorities/",
+    "https://en.wikipedia.org/wiki/Janelle_Stelson"
+   ],
+   "photo": {
+    "file": "File:Janelle Stelson 08-29-2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "James Newton"
+   }
+  }
+ },
+ {
+  "id": "PA-11/lloyd-smucker",
+  "name": "Lloyd Smucker",
+  "party": "Republican",
+  "race": "PA-11",
+  "race_label": "Pennsylvania · US House PA-11",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001199",
+   "official_name": "Lloyd Smucker",
+   "chamber": "House",
+   "official_site": "https://smucker.house.gov",
+   "official_social": {
+    "twitter": "RepSmucker",
+    "facebook": "RepSmucker"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 85,
+    "security": null,
+    "immigration": 55,
+    "foreign": 75,
+    "energy": 10,
+    "tech": 20,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Tax cuts, ACA repeal, Social Security private accounts; opposes abortion, same-sex marriage protections, gun control; cosponsored DIGNIDAD Act; backed Iran war; opposes net neutrality.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lloyd_Smucker"
+   ],
+   "photo": {
+    "file": "File:Lloyd Smucker Official Congressional Photo.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Smucker"
+   }
+  }
+ },
+ {
+  "id": "PA-11/nancy-mannion",
+  "name": "Nancy Mannion",
+  "party": "Democratic",
+  "race": "PA-11",
+  "race_label": "Pennsylvania · US House PA-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 20,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Reverse corporate tax cut, raise minimum wage, healthcare for all, free school meals, abortion choice, school gun rules, Dreamers pathway, more work visas.",
+   "sources": [
+    "https://www.nancymannion.com/Priorities/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-12/summer-lee",
+  "name": "Summer Lee",
+  "party": "Democratic",
+  "race": "PA-12",
+  "race_label": "Pennsylvania · US House PA-12",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000602",
+   "official_name": "Summer L. Lee",
+   "chamber": "House",
+   "official_site": "https://summerlee.house.gov",
+   "official_social": {
+    "twitter": "RepSummerLee",
+    "facebook": "RepSummerLee",
+    "instagram": "repsummerlee",
+    "youtube": "UCqQJ44qlkVxWV5N12YeacyA"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": null,
+    "liberty": 10,
+    "security": null,
+    "immigration": 15,
+    "foreign": 15,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against Fiscal Responsibility Act; supports abortion rights and gun control; condemned ICE over asylum seeker death; opposed Israel resolutions, backed Syria withdrawal.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Summer_Lee"
+   ],
+   "photo": {
+    "file": "File:Rep. Summer Lee - 118th Congress (3x4 cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "PA-12/james-hayes",
+  "name": "James Hayes",
+  "party": "Republican",
+  "race": "PA-12",
+  "race_label": "Pennsylvania · US House PA-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": 45,
+    "security": 70,
+    "immigration": null,
+    "foreign": 70,
+    "energy": 15,
+    "tech": null,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Cut wasteful spending, opposes energy restrictions, no national abortion ban, more police resources and juvenile detention, strong Israel support, money follows the child.",
+   "sources": [
+    "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/",
+    "https://www.monvalleyindependent.com/2026/09/02/summer-lee-james-hayes-set-for-rematch-in-pa-s-12th-congressional-district/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-13/john-joyce",
+  "name": "John Joyce",
+  "party": "Republican",
+  "race": "PA-13",
+  "race_label": "Pennsylvania · US House PA-13",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000302",
+   "official_name": "John Joyce",
+   "chamber": "House",
+   "official_site": "https://johnjoyce.house.gov",
+   "official_social": {
+    "twitter": "RepJohnJoyce"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": 25,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against expanding H-2B and high-skill visas; voted for Syria and Somalia troop withdrawal and against Ukraine aid; favors rolling back energy regulations.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/John_Joyce_(American_politician)",
+    "https://johnjoyce.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:John Joyce 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "PA-13/beth-farnham",
+  "name": "Beth Farnham",
+  "party": "Democratic",
+  "race": "PA-13",
+  "race_label": "Pennsylvania · US House PA-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 95,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "National healthcare program covering all care, codify reproductive freedom, universal background checks and red-flag orders, defend public education.",
+   "sources": [
+    "https://bethfarnhamforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-14/guy-reschenthaler",
+  "name": "Guy Reschenthaler",
+  "party": "Republican",
+  "race": "PA-14",
+  "race_label": "Pennsylvania · US House PA-14",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000610",
+   "official_name": "Guy Reschenthaler",
+   "chamber": "House",
+   "official_site": "https://reschenthaler.house.gov",
+   "official_social": {
+    "twitter": "GReschenthaler",
+    "facebook": "GReschenthaler",
+    "instagram": "greschenthaler",
+    "youtube": "RepGuyReschenthaler"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 85,
+    "security": 65,
+    "immigration": 90,
+    "foreign": 75,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Permanent tax cuts, opposed $2,000 checks; anti-abortion, against background checks; opposed police accountability changes; border wall; pro-Israel; opposed renewable aid.",
+   "sources": [
+    "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm",
+    "https://en.wikipedia.org/wiki/Guy_Reschenthaler"
+   ],
+   "photo": {
+    "file": "File:Guy Reschenthaler Official Portrait 2022 (cropped2).jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "PA-14/alan-bradstock",
+  "name": "Alan Bradstock",
+  "party": "Democratic",
+  "race": "PA-14",
+  "race_label": "Pennsylvania · US House PA-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 85,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Lists universal healthcare and ending medical debt as priorities; no other concrete stances found.",
+   "sources": [
+    "https://www.bradstockforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-15/glenn-thompson",
+  "name": "Glenn Thompson",
+  "party": "Republican",
+  "race": "PA-15",
+  "race_label": "Pennsylvania · US House PA-15",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000467",
+   "official_name": "Glenn Thompson",
+   "chamber": "House",
+   "official_site": "https://thompson.house.gov",
+   "official_social": {
+    "twitter": "CongressmanGT",
+    "facebook": "CongressmanGT",
+    "youtube": "CongressmanGT",
+    "instagram": "congressman_gt"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 65,
+    "security": null,
+    "immigration": 55,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against Respect for Marriage Act, opposed arming teachers; voted for Farm Workforce Modernization Act; unsure of human role in climate change.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)"
+   ],
+   "photo": {
+    "file": "File:Glenn Thompson portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "PA-15/ray-bilger",
+  "name": "Ray Bilger",
+  "party": "Democratic",
+  "race": "PA-15",
+  "race_label": "Pennsylvania · US House PA-15",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": 20,
+    "security": 35,
+    "immigration": 40,
+    "foreign": 30,
+    "energy": 50,
+    "tech": 70,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Anti-monopoly, defend Medicaid and ACA credits, codify abortion, background checks, ICE oversight, opposes Iran war, gas plus clean energy, data center rules.",
+   "sources": [
+    "https://bilgerforcongress.com/priorities/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "PA-16/mike-kelly",
+  "name": "Mike Kelly",
+  "party": "Republican",
+  "race": "PA-16",
+  "race_label": "Pennsylvania · US House PA-16",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000376",
+   "official_name": "Mike Kelly",
+   "chamber": "House",
+   "official_site": "https://kelly.house.gov",
+   "official_social": {
+    "twitter": "MikeKellyPA",
+    "facebook": "191056827594903",
+    "youtube": "repmikekelly"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 80,
+    "security": null,
+    "immigration": 55,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 80
+   },
+   "basis": "Voted against American Rescue Plan; cosponsored Federal Marriage Amendment; called contraceptive mandate an attack on religious freedom; cosponsored DIGNIDAD Act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)"
+   ],
+   "photo": {
+    "file": "File:Mike Kelly, official portrait, 112th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "US House of Representatives"
+   }
+  }
+ }
+]

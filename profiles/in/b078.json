@@ -1,0 +1,438 @@
+[
+ {
+  "id": "OH-10/thomas-mcmasters",
+  "name": "Thomas McMasters",
+  "party": "Libertarian",
+  "race": "OH-10",
+  "race_label": "Ohio · US House OH-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Ohio%27s_10th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-11/shontel-brown",
+  "name": "Shontel Brown",
+  "party": "Democratic",
+  "race": "OH-11",
+  "race_label": "Ohio · US House OH-11",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001313",
+   "official_name": "Shontel M. Brown",
+   "chamber": "House",
+   "official_site": "https://shontelbrown.house.gov",
+   "official_social": {
+    "twitter": "RepShontelBrown",
+    "facebook": "RepShontelBrown"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 80,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 45,
+    "energy": 75,
+    "tech": null,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Protects SNAP, Social Security Fairness Act; reproductive-rights advocacy; war powers votes against Iran war but backed Israel aid; clean-energy funding; teacher grants.",
+   "sources": [
+    "https://shontelbrown.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Shontel_Brown"
+   ],
+   "photo": {
+    "file": "File:Shontel Brown, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "OH-11/mike-kirchner",
+  "name": "Mike Kirchner",
+  "party": "Republican",
+  "race": "OH-11",
+  "race_label": "Ohio · US House OH-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published policy positions found on campaign site or Ballotpedia.",
+   "sources": [
+    "https://www.mikekirchner.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-12/troy-balderson",
+  "name": "Troy Balderson",
+  "party": "Republican",
+  "race": "OH-12",
+  "race_label": "Ohio · US House OH-12",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001306",
+   "official_name": "Troy Balderson",
+   "chamber": "House",
+   "official_site": "https://balderson.house.gov",
+   "official_social": {
+    "twitter": "RepBalderson",
+    "facebook": "RepTroyBalderson",
+    "youtube": "UCm6vJzx-mu4Xr56FnQKRz0w"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 75,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 reconciliation bill; proposed Medicaid drug testing; voted against Respect for Marriage Act; chairs House Energy Action Team backing EPA rollbacks.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Troy_Balderson",
+    "https://balderson.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Troy Balderson, official portrait, 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "OH-12/jerrad-christian",
+  "name": "Jerrad Christian",
+  "party": "Democratic",
+  "race": "OH-12",
+  "race_label": "Ohio · US House OH-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 95,
+    "liberty": 15,
+    "security": 20,
+    "immigration": 10,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Raise minimum wage, curb institutional homebuyers, universal healthcare, codify reproductive and marriage rights, abolish and prosecute ICE, need-based public school funding.",
+   "sources": [
+    "https://www.christianforohio.com/issues",
+    "https://ballotpedia.org/Jerrad_Christian"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-13/emilia-sykes",
+  "name": "Emilia Sykes",
+  "party": "Democratic",
+  "race": "OH-13",
+  "race_label": "Ohio · US House OH-13",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001223",
+   "official_name": "Emilia Strong Sykes",
+   "chamber": "House",
+   "official_site": "https://sykes.house.gov",
+   "official_social": {
+    "twitter": "RepEmiliaSykes",
+    "facebook": "repemiliasykes",
+    "instagram": "RepEmiliaSykes",
+    "youtube": "@repemiliasykes"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": 25,
+    "security": 60,
+    "immigration": null,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs ACA subsidies and COPS hiring grants, opposed heartbeat abortion ban and stand-your-ground, supports clean-environment and solar policies; liberty driven by abortion and guns.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Emilia_Sykes",
+    "https://www.ontheissues.org/OH/Emilia_Sykes.htm",
+    "https://www.emiliasykesforcongress.com/issues"
+   ],
+   "photo": {
+    "file": "File:Rep. Emilia Sykes - 118th Congress (1.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "OH-13/carey-coleman",
+  "name": "Carey Coleman",
+  "party": "Republican",
+  "race": "OH-13",
+  "race_label": "Ohio · US House OH-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 30,
+    "security": 75,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": 30,
+    "faith": 70
+   },
+   "basis": "Wants spending cuts, no new taxes, more police resources, border security, more energy production, parental voice, religious freedom; liberty from gun rights.",
+   "sources": [
+    "https://careycoleman.com/issues/",
+    "https://careycoleman.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-14/david-joyce",
+  "name": "David Joyce",
+  "party": "Republican",
+  "race": "OH-14",
+  "race_label": "Ohio · US House OH-14",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000295",
+   "official_name": "David P. Joyce",
+   "chamber": "House",
+   "official_site": "https://joyce.house.gov",
+   "official_social": {
+    "twitter": "RepDaveJoyce",
+    "facebook": "RepDaveJoyce",
+    "youtube": "repdavejoyce",
+    "instagram": "repdavejoyce"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 30,
+    "liberty": 35,
+    "security": null,
+    "immigration": 60,
+    "foreign": 70,
+    "energy": 45,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted to repeal ACA, co-chairs Cannabis Caucus, backed Respect for Marriage Act, refugee scrutiny; Ukraine and Climate Solutions caucuses; liberty from cannabis, marriage.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/David_Joyce_(politician)",
+    "https://joyceforcongress.com/"
+   ],
+   "photo": {
+    "file": "File:David Joyce.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "OH-14/maria-jukic",
+  "name": "Maria Jukic",
+  "party": "Democratic",
+  "race": "OH-14",
+  "race_label": "Ohio · US House OH-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 85,
+    "liberty": null,
+    "security": 30,
+    "immigration": 20,
+    "foreign": null,
+    "energy": 75,
+    "tech": 80,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Favors taxing portfolios over paychecks, a path to universal coverage, a citizenship pathway and reining in ICE, environmental protection, and early AI regulation.",
+   "sources": [
+    "https://www.mariajukicforcongress.com/",
+    "https://www.mariajukicforcongress.com/immigration-constitutional-humane-and-smart/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-15/mike-carey",
+  "name": "Mike Carey",
+  "party": "Republican",
+  "race": "OH-15",
+  "race_label": "Ohio · US House OH-15",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001126",
+   "official_name": "Mike Carey",
+   "chamber": "House",
+   "official_site": "https://carey.house.gov",
+   "official_social": {
+    "twitter": "RepMikeCarey",
+    "facebook": "RepMikeCarey",
+    "youtube": "@congressmanmikecarey"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 45,
+    "security": 80,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": 10,
+    "tech": null,
+    "education": 15,
+    "faith": 80
+   },
+   "basis": "Backs tax cuts, Medicaid work requirements, Laken Riley Act, police, Israel aid, fossil fuels, vouchers; liberty mixes anti-abortion, gun rights, same-sex marriage support.",
+   "sources": [
+    "https://www.careyforcongress.com/priorities",
+    "https://www.ontheissues.org/OH/Mike_Carey.htm",
+    "https://en.wikipedia.org/wiki/Mike_Carey_(politician)"
+   ],
+   "photo": {
+    "file": "File:Mike Carey, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "OH-15/don-leonard",
+  "name": "Don Leonard",
+  "party": "Democratic",
+  "race": "OH-15",
+  "race_label": "Ohio · US House OH-15",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 90,
+    "liberty": 20,
+    "security": null,
+    "immigration": 45,
+    "foreign": 30,
+    "energy": 60,
+    "tech": 65,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Supports universal healthcare, childcare and paid leave, LGBTQ protections, 'secure the border, respect immigrants', fewer wars, water-protecting development, data-center limits, public schools.",
+   "sources": [
+    "https://donforohio.com/values",
+    "https://donforohio.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-15/brennan-barrington",
+  "name": "Brennan Barrington",
+  "party": "Libertarian",
+  "race": "OH-15",
+  "race_label": "Ohio · US House OH-15",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio",
+    "https://ballotpedia.org/Ohio's_15th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ }
+]

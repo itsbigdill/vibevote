@@ -1,0 +1,622 @@
+[
+ {
+  "id": "RI-GOV/aaron-guckian",
+  "name": "Aaron Guckian",
+  "party": "Republican",
+  "race": "RI-GOV",
+  "race_label": "Rhode Island · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "RI-GOV/aaron-guckian",
+   "name": "Aaron Guckian",
+   "party": "Republican",
+   "current_role": "Former executive director of the Rhode Island Dental Association",
+   "bio": "Aaron Guckian narrowly leads Elaine Pelino in the 2026 Republican primary for Governor of Rhode Island, with a recount pending, and was endorsed by the state Republican Party. He previously served as director of advance for Governor Donald Carcieri, worked as a development officer at the Rhode Island Foundation and led the Rhode Island Dental Association until November 2025.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "He describes himself as a compassionate conservative, but no specific policy positions or campaign website could be verified. The Republican nomination is subject to a pending recount."
+  }
+ },
+ {
+  "id": "SC-3/eunice-lehmacher",
+  "name": "Eunice Lehmacher",
+  "party": "Democratic",
+  "race": "SC-3",
+  "race_label": "South Carolina · US House SC-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "SC-3/eunice-lehmacher",
+   "name": "Eunice Lehmacher",
+   "party": "Democratic",
+   "current_role": "Social worker and counselor",
+   "bio": "Eunice Lehmacher is a social worker and counselor who was born in Lexington, Missouri, and campaigns from Central, South Carolina. She won the Democratic nomination for SC-3 in June 2026.",
+   "website": "https://www.euniceforsc.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/euniceforsc",
+    "facebook": "https://www.facebook.com/EuniceforSC",
+    "tiktok": "https://www.tiktok.com/@euniceforsc",
+    "youtube": "https://www.youtube.com/@euniceforsc4284"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Aims to lower high prices for working families, small businesses and seniors.",
+     "source": "https://www.euniceforsc.com/ideas"
+    },
+    {
+     "topic": "Health care",
+     "point": "Wants to increase access to doctors and hospitals.",
+     "source": "https://www.euniceforsc.com/ideas"
+    },
+    {
+     "topic": "Childcare",
+     "point": "Supports investing in childcare as a workforce investment.",
+     "source": "https://www.euniceforsc.com/ideas"
+    },
+    {
+     "topic": "Housing",
+     "point": "Seeks to restore housing opportunity and affordability.",
+     "source": "https://www.euniceforsc.com/ideas"
+    },
+    {
+     "topic": "Technology",
+     "point": "Raises surveillance and privacy concerns about data center expansion.",
+     "source": "https://www.euniceforsc.com/ideas"
+    },
+    {
+     "topic": "Foreign policy",
+     "point": "Favors peaceful solutions over military conflict.",
+     "source": "https://www.euniceforsc.com/ideas"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 30,
+     "evidence": "Abortion: supports access and public funding of reproductive care for low-income women, while calling for safety standards on abortion pills.",
+     "source": "https://ballotpedia.org/Eunice_Lehmacher"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Her issues page gives headings with few specifics, so most scores are left null. Ballotpedia blocked access this pass, so the liberty evidence was confirmed only through a secondary summary of her survey answers."
+  }
+ },
+ {
+  "id": "SC-4/courtney-mcclain",
+  "name": "Courtney McClain",
+  "party": "Democratic",
+  "race": "SC-4",
+  "race_label": "South Carolina · US House SC-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "SC-4/courtney-mcclain",
+   "name": "Courtney McClain",
+   "party": "Democratic",
+   "current_role": "Political organizer and policy advocate",
+   "bio": "Courtney McClain is a Spartanburg native with a journalism degree from the University of South Carolina and a political science master's from Howard University. She led the South Carolina NAACP Youth and College Division and held fellowships with the Congressional Black Caucus Institute and the Clyburn Fellow Program. At 25, she won the Democratic nomination for SC-4.",
+   "website": "https://www.mcclainforsc.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/mcclainforcongress",
+    "facebook": "https://www.facebook.com/share/16Di3wdnFt/",
+    "tiktok": "https://www.tiktok.com/@mcclain.for.sc"
+   },
+   "platform": [
+    {
+     "topic": "Housing",
+     "point": "Prioritizes building more affordable housing.",
+     "source": "https://www.mcclainforsc.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Says affordable health care should be accessible to everyone.",
+     "source": "https://www.mcclainforsc.com/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Aims to reduce everyday costs for Upstate families.",
+     "source": "https://www.mcclainforsc.com/"
+    },
+    {
+     "topic": "Growth",
+     "point": "Wants to manage the Upstate's rapid population growth.",
+     "source": "https://www.mcclainforsc.com/"
+    },
+    {
+     "topic": "Advocacy record",
+     "point": "Has advocated on reproductive health, public education, voting rights and criminal justice reform.",
+     "source": "https://www.mcclainforsc.com/about"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 80,
+     "evidence": "Describes affordable healthcare as a right for all.",
+     "source": "https://www.mcclainforsc.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "SC-6/john-peterson",
+  "name": "John Peterson",
+  "party": "Republican",
+  "race": "SC-6",
+  "race_label": "South Carolina · US House SC-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "SC-6/john-peterson",
+   "name": "John Peterson",
+   "party": "Republican",
+   "current_role": "North Charleston Convention Center employee and former mathematician",
+   "bio": "John Peterson is a former mathematician who now works full-time at the North Charleston Convention Center. He describes himself as a Donald Trump Republican and has canvassed as a volunteer for Trump's campaigns. He is the Republican nominee challenging Jim Clyburn in SC-6.",
+   "website": "https://johnpeterson.org",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Debt",
+     "point": "Wants to address the national debt and rein in federal spending.",
+     "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+    },
+    {
+     "topic": "Government efficiency",
+     "point": "Supports the Department of Government Efficiency effort.",
+     "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Aims to lower gas, grocery and insurance prices.",
+     "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+    },
+    {
+     "topic": "Dividend proposal",
+     "point": "Opposes a proposed $5,000 dividend to Americans, citing its cost.",
+     "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Calls for cutting federal spending and backs government-efficiency cuts.",
+     "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "SC-7/john-vincent",
+  "name": "John Vincent",
+  "party": "Democratic",
+  "race": "SC-7",
+  "race_label": "South Carolina · US House SC-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "SC-7/john-vincent",
+   "name": "John Vincent",
+   "party": "Democratic",
+   "current_role": "Navy veteran and small-business owner",
+   "bio": "John Vincent is the Democratic nominee for South Carolina's 7th Congressional District. His campaign says he served 20 years in the U.S. Navy and later built a small business. He says he will not accept corporate PAC donations.",
+   "website": "https://www.vincentforcongress.com",
+   "social": {
+    "x": "https://x.com/Vincent4SC07",
+    "facebook": "https://www.facebook.com/vincent4congress",
+    "tiktok": "https://www.tiktok.com/@vincent4congress"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "End tariffs, protect Social Security, raise wages and make home ownership more attainable.",
+     "source": "https://www.vincentforcongress.com/policy"
+    },
+    {
+     "topic": "Jobs and farms",
+     "point": "Restore small-business programs, give farmers stable trade policy and expand career-focused training.",
+     "source": "https://www.vincentforcongress.com/policy"
+    },
+    {
+     "topic": "Health care",
+     "point": "Keep rural hospitals open and preserve health care tax credits.",
+     "source": "https://www.vincentforcongress.com/policy"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Keep commitments made to veterans, teachers and first responders.",
+     "source": "https://www.vincentforcongress.com/policy"
+    },
+    {
+     "topic": "Government accountability",
+     "point": "Support term limits, a ban on congressional stock trading, limits on dark money and a balanced budget.",
+     "source": "https://www.vincentforcongress.com/policy"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 50,
+     "evidence": "Wants to end tariffs while also calling for higher wages and budget discipline.",
+     "source": "https://www.vincentforcongress.com/policy"
+    },
+    "welfare": {
+     "score": 60,
+     "evidence": "Pledges to protect Social Security and health care tax credits and keep rural hospitals open.",
+     "source": "https://www.vincentforcongress.com/policy"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://run.imgix.net/4ef04a91-f7e0-4ae7-b399-5a079e97e308/33070119-a187-4e24-b0fb-49641bb1e121/33070119-a187-4e24-b0fb-49641bb1e121.png",
+   "notes": "Hometown and details of his business are not stated on the campaign site."
+  }
+ },
+ {
+  "id": "SC-SEN/darline-graham",
+  "name": "Darline Graham",
+  "party": "Republican",
+  "race": "SC-SEN",
+  "race_label": "South Carolina · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "SC-SEN/darline-graham",
+   "name": "Darline Graham",
+   "party": "Republican",
+   "current_role": "U.S. Senator from South Carolina",
+   "bio": "Darline Graham was appointed to the U.S. Senate by Governor Henry McMaster in July 2026 to fill the seat left vacant by the death of her brother, Senator Lindsey Graham, and is the first woman to represent South Carolina in the Senate. She previously worked at the South Carolina Vocational Rehabilitation Department and served as Commissioner of the South Carolina Commission for the Blind from 2019. A native of Central, South Carolina, she holds degrees from the College of Charleston and South Carolina State University.",
+   "website": "https://darlinegraham.com",
+   "social": {
+    "x": "https://x.com/DarlineGrahamSC",
+    "instagram": "https://www.instagram.com/darlinegrahamsc",
+    "facebook": "https://www.facebook.com/DarlineGrahamSC"
+   },
+   "platform": [
+    {
+     "topic": "Israel",
+     "point": "Cosponsors bills expanding U.S.-Israel defense cooperation and countering campus antisemitism.",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-doubles-down-on-support-for-israel"
+    },
+    {
+     "topic": "Sanctions",
+     "point": "Backs the Sanctioning Russia and Iran Act of 2026.",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-applauds-senate-passage-of-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Cosponsors bills on mandatory E-Verify, ending sanctuary cities and limiting birthright citizenship.",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-stands-firm-on-illegal-immigration"
+    },
+    {
+     "topic": "Abortion",
+     "point": "Cosponsors bills restricting abortion medication and permanently barring federal abortion funding.",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-proudly-stands-for-life"
+    },
+    {
+     "topic": "Guns",
+     "point": "Backs national concealed-carry reciprocity and removing suppressors from National Firearms Act rules.",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-vows-to-protect-second-amendment-rights"
+    },
+    {
+     "topic": "Women's sports",
+     "point": "Pledges to defend women's and girls' sports under Title IX.",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-vows-to-defend-womens-and-girls-sports"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 60,
+     "evidence": "Cosponsors abortion restrictions and backs limits on transgender athletes, while supporting looser gun regulation.",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-proudly-stands-for-life"
+    },
+    "security": null,
+    "immigration": {
+     "score": 90,
+     "evidence": "Cosponsors bills limiting birthright citizenship, mandating E-Verify, defunding sanctuary cities and expanding 287(g).",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-stands-firm-on-illegal-immigration"
+    },
+    "foreign": {
+     "score": 85,
+     "evidence": "Cosponsors bills deepening U.S.-Israel defense cooperation and introduced Russia sanctions legislation.",
+     "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-doubles-down-on-support-for-israel"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Official portrait of Darline Graham, member of the United States Senate from South Carolina (2026).jpg",
+    "license": "Public domain",
+    "author": "Rosa Pineda, United States Senate"
+   },
+   "campaign_photo": "https://darlinegraham.com/hero-mobile.webp",
+   "notes": "Input lists no member_of_congress record although she is a sitting appointed senator, so the Commons official portrait (U.S. Congress public domain) was used. Liberty score is new, from her official releases on abortion, guns and women's sports."
+  }
+ },
+ {
+  "id": "TN-5/charlie-hatcher",
+  "name": "Charlie Hatcher",
+  "party": "Republican",
+  "race": "TN-5",
+  "race_label": "Tennessee · US House TN-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TN-5/charlie-hatcher",
+   "name": "Charlie Hatcher",
+   "party": "Republican",
+   "current_role": "Former Tennessee Commissioner of Agriculture",
+   "bio": "Charlie Hatcher is a dairy farmer and livestock veterinarian who served as Tennessee's Commissioner of Agriculture from 2019 to 2025 under Governor Bill Lee. He holds an animal science degree from Middle Tennessee State University and a veterinary degree from the University of Tennessee, and has founded several businesses. He won the 2026 Republican primary for the 5th District, defeating incumbent Andy Ogles.",
+   "website": "https://charliehatcher.com/",
+   "social": {
+    "x": "https://x.com/HatcherforTN",
+    "instagram": "https://www.instagram.com/hatcherforcongress/",
+    "facebook": "https://www.facebook.com/profile.php?id=61581980624788"
+   },
+   "platform": [
+    {
+     "topic": "Guns",
+     "point": "Describes himself as a pro-gun candidate who will defend Second Amendment rights.",
+     "source": "https://charliehatcher.com/"
+    },
+    {
+     "topic": "Abortion",
+     "point": "Campaigns as a pro-life candidate.",
+     "source": "https://charliehatcher.com/"
+    },
+    {
+     "topic": "Trump agenda",
+     "point": "Pledges to back President Trump, whom he calls the most consequential president of his lifetime.",
+     "source": "https://charliehatcher.com/"
+    },
+    {
+     "topic": "Government",
+     "point": "Says he will bring a farmer's work ethic and common sense to Washington.",
+     "source": "https://en.wikipedia.org/wiki/Charlie_Hatcher"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 55,
+     "evidence": "Campaign identifies him as pro-life (abortion) and pro-gun (guns), leaning toward community norms on abortion and individual choice on guns.",
+     "source": "https://charliehatcher.com/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Campaign site offers only brief themes and no detailed issues page."
+  }
+ },
+ {
+  "id": "TN-5/chaz-molder",
+  "name": "Chaz Molder",
+  "party": "Democratic",
+  "race": "TN-5",
+  "race_label": "Tennessee · US House TN-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TN-5/chaz-molder",
+   "name": "Chaz Molder",
+   "party": "Democratic",
+   "current_role": "Mayor of Columbia, Tennessee",
+   "bio": "Chaz Molder has been mayor of Columbia, Tennessee, since 2018, when he became the youngest mayor in the city's history; he was re-elected in 2022. His campaign highlights balanced city budgets and infrastructure and education investments during his tenure. He is the Democratic nominee for Tennessee's 5th District.",
+   "website": "https://chazmolder.com/",
+   "social": {
+    "x": "https://x.com/chazmolder",
+    "instagram": "https://www.instagram.com/chazmolder",
+    "facebook": "https://www.facebook.com/profile.php?id=61586827373227",
+    "tiktok": "https://www.tiktok.com/@chazmolder"
+   },
+   "platform": [
+    {
+     "topic": "Ethics",
+     "point": "Supports banning members of Congress from trading individual stocks.",
+     "source": "https://chazmolder.com/issues/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Pledges to make healthcare, housing and groceries more affordable for Tennessee families.",
+     "source": "https://chazmolder.com/issues/"
+    },
+    {
+     "topic": "Labor",
+     "point": "Backs workers' right to organize and stronger labor protections.",
+     "source": "https://chazmolder.com/issues/"
+    },
+    {
+     "topic": "Healthcare",
+     "point": "Wants to lower healthcare costs, expand coverage, invest in preventive care and keep rural hospitals open.",
+     "source": "https://chazmolder.com/issues/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 60,
+     "evidence": "Supports workers' organizing rights, stronger labor protections and action on the cost of housing, groceries and healthcare.",
+     "source": "https://chazmolder.com/issues/"
+    },
+    "welfare": {
+     "score": 60,
+     "evidence": "Calls for broadening health insurance coverage, lowering costs and supporting rural hospitals.",
+     "source": "https://chazmolder.com/issues/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Mayor Chaz Molder (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hmil6 (cropped by Fad8229)"
+   },
+   "campaign_photo": "https://chazmolder.com/wp-content/uploads/2025/08/chaz-headshot@2x.png",
+   "notes": ""
+  }
+ }
+]

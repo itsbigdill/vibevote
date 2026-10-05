@@ -1,0 +1,604 @@
+[
+ {
+  "id": "FL-20/brent-andersen",
+  "name": "Brent Andersen",
+  "party": "Republican",
+  "race": "FL-20",
+  "race_label": "Florida · US House FL-20",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-20/brent-andersen",
+   "name": "Brent Andersen",
+   "party": "Republican",
+   "current_role": "Businessman",
+   "bio": "Brent Andersen is a businessman who campaigned on public safety, education and lowering insurance costs. He won the 2026 Republican primary in FL-20 over three opponents. He has not previously held elected office.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Insurance costs",
+     "point": "Lower insurance costs by cutting red tape, pursuing tort reform and easing reinsurance treaties.",
+     "source": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Made public safety a central focus of his campaign.",
+     "source": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/"
+    },
+    {
+     "topic": "Education",
+     "point": "Named education as one of his three main campaign issues.",
+     "source": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/"
+    },
+    {
+     "topic": "Debates",
+     "point": "Challenged Rep. Wasserman Schultz to three public debates.",
+     "source": "https://flvoicenews.com/andersen-challenges-wasserman-schultz-to-three-debates-in-floridas-20th-district/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Proposes cutting red tape and tort reform to lower insurance costs.",
+     "source": "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Some coverage spells his name Anderson; the state ballot list uses Andersen. No campaign website was found."
+  }
+ },
+ {
+  "id": "FL-3/seth-harp",
+  "name": "Seth Harp",
+  "party": "Democratic",
+  "race": "FL-3",
+  "race_label": "Florida · US House FL-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-3/seth-harp",
+   "name": "Seth Harp",
+   "party": "Democratic",
+   "current_role": "Middle school civics teacher",
+   "bio": "Seth Harp is a Gainesville civics teacher at Lincoln Middle School. He spent more than 25 years in radio, managing stations in six states including ESPN Gainesville, and taught as an adjunct at the University of Florida's journalism college.",
+   "website": "https://www.sethharpforcongress.com/",
+   "social": {
+    "x": "https://x.com/harpforcongress",
+    "instagram": "https://www.instagram.com/harpforcongress",
+    "facebook": "https://www.facebook.com/HarpForCongress"
+   },
+   "platform": [
+    {
+     "topic": "Social Security",
+     "point": "Would raise the payroll tax cap to $250,000 to shore up benefits without cutting payments.",
+     "source": "https://www.sethharpforcongress.com/issues"
+    },
+    {
+     "topic": "Healthcare",
+     "point": "Aims to guarantee affordable health care so no family goes bankrupt from illness.",
+     "source": "https://www.sethharpforcongress.com/issues"
+    },
+    {
+     "topic": "Child care",
+     "point": "Proposes the C.U.B.S. Act with sliding-scale child care subsidies for working families.",
+     "source": "https://www.sethharpforcongress.com/issues"
+    },
+    {
+     "topic": "Housing",
+     "point": "Would tax corporate home purchases at rising rates and encourage starter-home construction.",
+     "source": "https://www.sethharpforcongress.com/issues"
+    },
+    {
+     "topic": "Corporate taxes",
+     "point": "Would set the corporate tax rate at 26% and cap CEO pay at 150 times median worker pay.",
+     "source": "https://www.sethharpforcongress.com/issues"
+    },
+    {
+     "topic": "Student loans",
+     "point": "Would cap federal student loan interest at 3.1% and tie repayment to income.",
+     "source": "https://www.sethharpforcongress.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 80,
+     "evidence": "Proposes a 26% corporate tax rate, a CEO pay cap and escalating taxes on corporate home buying.",
+     "source": "https://www.sethharpforcongress.com/issues"
+    },
+    "welfare": {
+     "score": 85,
+     "evidence": "Backs guaranteed affordable health care, universal school lunch and expanded child care subsidies.",
+     "source": "https://www.sethharpforcongress.com/issues"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/1389e5_6c0caf1acc5f4e59a7f3a07eb740d298~mv2.jpg",
+   "notes": "Not the same person as former Georgia state senator Seth Harp or the journalist of the same name. Campaign photo URL is taken from the About page and was not visually checked."
+  }
+ },
+ {
+  "id": "FL-4/lashonda-holloway",
+  "name": "LaShonda Holloway",
+  "party": "Democratic",
+  "race": "FL-4",
+  "race_label": "Florida · US House FL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-4/lashonda-holloway",
+   "name": "LaShonda Holloway",
+   "party": "Democratic",
+   "current_role": "Attorney",
+   "bio": "LaShonda \"L.J.\" Holloway is an attorney with a law degree from the University of Florida who previously worked for the EPA and AT&T. She was recognized as a youth civil rights advocate by the Southern Christian Leadership Conference and is the Democratic nominee for Florida's 4th District.",
+   "website": "https://www.hollowayforcongress.com/",
+   "social": {
+    "x": "https://x.com/lj4congress",
+    "instagram": "https://www.instagram.com/lj4congress",
+    "facebook": "https://www.facebook.com/LJHollowayforCongress"
+   },
+   "platform": [
+    {
+     "topic": "Healthcare",
+     "point": "Wants broader coverage, more preventive care and better access to mental health services.",
+     "source": "https://www.hollowayforcongress.com/"
+    },
+    {
+     "topic": "Education",
+     "point": "Aims to lower college costs and invest in quality learning resources.",
+     "source": "https://www.hollowayforcongress.com/"
+    },
+    {
+     "topic": "Communities",
+     "point": "Seeks access to food, jobs, health care and affordable housing for local communities.",
+     "source": "https://www.hollowayforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 80,
+     "evidence": "Treats health care as a basic right regardless of income and calls for expanded coverage.",
+     "source": "https://www.hollowayforcongress.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {
+     "score": 70,
+     "evidence": "Supports investing in education resources and reducing higher education costs.",
+     "source": "https://www.hollowayforcongress.com/"
+    },
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://images.squarespace-cdn.com/content/v1/65fa4ec138b7f05f249ede0d/eb27a424-8789-40c6-9ffb-fb2082c198e8/headshot+%28trp%29.png",
+   "notes": ""
+  }
+ },
+ {
+  "id": "FL-5/rachel-grage",
+  "name": "Rachel Grage",
+  "party": "Democratic",
+  "race": "FL-5",
+  "race_label": "Florida · US House FL-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-5/rachel-grage",
+   "name": "Rachel Grage",
+   "party": "Democratic",
+   "current_role": "Biomedical engineer",
+   "bio": "Rachel Grage is a biomedical engineer who researched cardiac therapies and treatments for children with cerebral palsy, with engineering degrees from Tulane University. She has served as an elected homeowners' association president and was the Democratic nominee for Florida House District 16 in 2024.",
+   "website": "https://www.rachelgrage.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61555168751860",
+    "instagram": "https://www.instagram.com/grageforflorida/",
+    "youtube": "https://youtube.com/@rachelgrageforflorida"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Keep health premiums and drug prices affordable, maintain federal cost-sharing aid and stabilize home insurance.",
+     "source": "https://www.rachelgrage.com/"
+    },
+    {
+     "topic": "Retirement",
+     "point": "Protect Medicare and Social Security benefits and secure their long-term solvency.",
+     "source": "https://www.rachelgrage.com/"
+    },
+    {
+     "topic": "Government accountability",
+     "point": "Increase campaign finance transparency and reduce the influence of big money in politics.",
+     "source": "https://www.rachelgrage.com/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Secure borders through efficient enforcement while keeping a humane system that respects due process.",
+     "source": "https://www.rachelgrage.com/"
+    },
+    {
+     "topic": "Individual rights",
+     "point": "Protect personal privacy, access to healthcare and equal treatment under the law.",
+     "source": "https://www.rachelgrage.com/"
+    },
+    {
+     "topic": "Environment",
+     "point": "Defend coastal ecosystems, expand conservation funding and invest in disaster resilience.",
+     "source": "https://www.rachelgrage.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 65,
+     "evidence": "Pledges to maintain federal health cost-sharing supports, expand coverage and protect Medicare and Social Security.",
+     "source": "https://www.rachelgrage.com/"
+    },
+    "liberty": {
+     "score": 30,
+     "evidence": "Campaign site pledges to protect personal privacy, access to healthcare and equality under the law.",
+     "source": "https://www.rachelgrage.com/"
+    },
+    "security": null,
+    "immigration": {
+     "score": 45,
+     "evidence": "Calls for secure borders through smart enforcement alongside a fair, humane system with due process.",
+     "source": "https://www.rachelgrage.com/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Campaign site does not clearly identify a standalone headshot image."
+  }
+ },
+ {
+  "id": "FL-9/dan-green",
+  "name": "Dan Green",
+  "party": "Republican",
+  "race": "FL-9",
+  "race_label": "Florida · US House FL-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-9/dan-green",
+   "name": "Dan Green",
+   "party": "Republican",
+   "current_role": "U.S. Navy officer and former Pentagon official",
+   "bio": "Dan Green is a U.S. Navy commander who joined the Navy after working at the Pentagon on September 11, 2001, and deployed to Iraq and Afghanistan, including with SEAL teams. He also served a civilian State Department tour in Afghanistan and was Deputy Assistant Secretary of Defense for Strategy and Force Development. He is the Republican nominee for Florida's 9th District.",
+   "website": "https://dangreenfl.com/",
+   "social": {
+    "x": "https://x.com/DanGreenFL",
+    "facebook": "https://www.facebook.com/DanGreenForCongress",
+    "youtube": "https://www.youtube.com/@DanGreenFL"
+   },
+   "platform": [
+    {
+     "topic": "Defense",
+     "point": "Keep the military well funded and ready.",
+     "source": "https://dangreenfl.com/"
+    },
+    {
+     "topic": "Insurance",
+     "point": "Bring down homeowners insurance rates for Floridians.",
+     "source": "https://dangreenfl.com/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Lower grocery, gas and fuel prices by reversing Biden administration policies.",
+     "source": "https://dangreenfl.com/"
+    },
+    {
+     "topic": "Growth",
+     "point": "Address overdevelopment pressures on Central Florida communities.",
+     "source": "https://dangreenfl.com/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Use conservative approaches to make homeownership affordable again.",
+     "source": "https://dangreenfl.com/"
+    },
+    {
+     "topic": "Constitution",
+     "point": "Protect constitutional government and individual freedoms.",
+     "source": "https://dangreenfl.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 65,
+     "evidence": "Campaign pledges to maintain strong military funding and readiness, drawing on his counterterrorism and foreign policy work.",
+     "source": "https://dangreenfl.com/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Daniel R. Green (cropped).jpg",
+    "license": "Public domain",
+    "author": "JoAnne Sorrentino, U.S. Department of Defense"
+   },
+   "campaign_photo": "https://dangreenfl.com/wp-content/themes/template/images/dan.jpg",
+   "notes": "Campaign site lists priorities without detailed policy specifics."
+  }
+ },
+ {
+  "id": "GA-11/john-cowan",
+  "name": "John Cowan",
+  "party": "Republican",
+  "race": "GA-11",
+  "race_label": "Georgia · US House GA-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "GA-11/john-cowan",
+   "name": "John Cowan",
+   "party": "Republican",
+   "current_role": "Neurosurgeon and small-business owner",
+   "bio": "Dr. John Cowan is the Republican nominee for Georgia's 11th Congressional District. He is a neurosurgeon and small-business owner who describes himself as a conservative outsider.",
+   "website": "https://www.cowanforcongress.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/drcowanforcongress",
+    "instagram": "https://www.instagram.com/drcowanforcongress/"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Wants to fix problems he attributes to Obamacare by lowering premiums and expanding patient choice.",
+     "source": "https://www.cowanforcongress.com/issues.html"
+    },
+    {
+     "topic": "Economy",
+     "point": "Proposes tax relief for families and small businesses and strengthening domestic industries.",
+     "source": "https://www.cowanforcongress.com/issues.html"
+    },
+    {
+     "topic": "Elections",
+     "point": "Supports proof of citizenship to vote and transparency in ballot counting.",
+     "source": "https://www.cowanforcongress.com/issues.html"
+    },
+    {
+     "topic": "Constitutional rights",
+     "point": "Pledges to protect free speech, freedom of worship and Second Amendment rights.",
+     "source": "https://www.cowanforcongress.com/issues.html"
+    },
+    {
+     "topic": "Government reform",
+     "point": "Supports banning congressional stock trading, stronger ethics rules and term limits.",
+     "source": "https://www.cowanforcongress.com/issues.html"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Proposes tax relief for families and small businesses.",
+     "source": "https://www.cowanforcongress.com/issues.html"
+    },
+    "welfare": {
+     "score": 25,
+     "evidence": "Opposes Obamacare and favors more patient choice in health coverage.",
+     "source": "https://www.cowanforcongress.com/issues.html"
+    },
+    "liberty": {
+     "score": 25,
+     "evidence": "Pledges to protect Second Amendment rights (guns) and free speech (speech).",
+     "source": "https://www.cowanforcongress.com/issues.html"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://www.cowanforcongress.com/images/Cowanscrubs.png",
+   "notes": "He appears to be the same John Cowan who ran for Congress in GA-14 in 2020, but this was not confirmed. The liberty score reflects only guns and speech; his abortion stance was not found."
+  }
+ },
+ {
+  "id": "GA-4/james-duffie",
+  "name": "James Duffie",
+  "party": "Republican",
+  "race": "GA-4",
+  "race_label": "Georgia · US House GA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "GA-4/james-duffie",
+   "name": "James Duffie",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "James R. \"Jim\" Duffie is the Republican nominee for Georgia's 4th district. No further public biography was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website, biography or issue positions were found."
+  }
+ },
+ {
+  "id": "GA-5/john-salvesen",
+  "name": "John Salvesen",
+  "party": "Republican",
+  "race": "GA-5",
+  "race_label": "Georgia · US House GA-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "GA-5/john-salvesen",
+   "name": "John Salvesen",
+   "party": "Republican",
+   "current_role": "Construction industry professional",
+   "bio": "John Salvesen is the Republican nominee for Georgia's 5th Congressional District. Originally from South Jersey, he has lived in Atlanta since 1994 and has worked in the construction industry. He was the Republican nominee for the same seat in 2024, his first run for office.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Elections",
+     "point": "Supports using paper ballots to secure elections.",
+     "source": "https://www.branch.vote/races/2024-georgia-primary-election-ga-state-us-representative-ga-5-r/candidates/john-%22bongo%22-salvesen"
+    },
+    {
+     "topic": "Ethics",
+     "point": "Pledged not to own stocks or accept corporate donations if elected.",
+     "source": "https://www.branch.vote/races/2024-georgia-primary-election-ga-state-us-representative-ga-5-r/candidates/john-%22bongo%22-salvesen"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Appears on some listings as John \"Bongo\" Salvesen; platform points come from his 2024 campaign, and his former site bongoforcongress.com no longer hosts campaign content."
+  }
+ }
+]

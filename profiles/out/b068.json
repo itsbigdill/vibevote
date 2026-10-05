@@ -1,0 +1,409 @@
+[
+ {
+  "id": "NY-1/chris-gallant",
+  "name": "Chris Gallant",
+  "party": "Democratic",
+  "current_role": "FAA air traffic controller",
+  "bio": "Chris Gallant is a Long Island native who joined the New York Army National Guard at 17 and deployed to Kuwait several times. He has worked as a Federal Aviation Administration air traffic controller, served as a union leader and volunteers as a firefighter. He won the 2026 Democratic primary for New York's 1st District.",
+  "website": "https://gallantny.com/",
+  "social": {
+   "x": "https://x.com/_gallantny",
+   "instagram": "https://www.instagram.com/_gallantny",
+   "facebook": "https://www.facebook.com/gallantny",
+   "youtube": "https://www.youtube.com/@GallantNY"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Use federal investment to bring down Long Island costs for housing, energy and everyday goods.", "source": "https://gallantny.com/"},
+   {"topic": "Healthcare", "point": "Protect and expand Medicare, Medicaid and Social Security and cut out-of-pocket costs for seniors.", "source": "https://gallantny.com/"},
+   {"topic": "Infrastructure", "point": "Invest in aging local infrastructure and protect shoreline communities from rising seas.", "source": "https://gallantny.com/"},
+   {"topic": "Public safety", "point": "Give first responders the tools they need to protect neighborhoods.", "source": "https://gallantny.com/"},
+   {"topic": "Accountability", "point": "Run congressional work around clear goals and measurable results.", "source": "https://gallantny.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 70, "evidence": "Campaign pledges to protect and expand Medicare, Medicaid and Social Security.", "source": "https://gallantny.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://gallantny.com/wp-content/uploads/2025/07/gallant-iso-1-819x1024.png",
+  "notes": "His campaign site describes military aviation service while Newsweek describes Army National Guard service; the bio uses the Guard description."
+ },
+ {
+  "id": "NY-2/andrew-garbarino",
+  "name": "Andrew Garbarino",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NY-2",
+  "bio": "Andrew Garbarino has represented New York's 2nd District since 2021 and has chaired the House Homeland Security Committee since July 2025. He previously served in the New York State Assembly from 2013 to 2020. He is from Sayville, New York, and is a member of the Republican Governance Group.",
+  "website": "https://garbarinoforny.com/",
+  "social": {
+   "x": "https://x.com/RepGarbarino",
+   "facebook": "https://www.facebook.com/RepAndrewGarbarino",
+   "instagram": "https://www.instagram.com/garbarinoforcongress",
+   "youtube": "https://www.youtube.com/channel/UCJrGd8qJE_pNc0s0EYb1AFQ"
+  },
+  "platform": [
+   {"topic": "Homeland security", "point": "Leads House Homeland Security Committee work on cybersecurity and infrastructure protection.", "source": "https://en.wikipedia.org/wiki/Andrew_Garbarino"},
+   {"topic": "Law enforcement", "point": "Lists standing with law enforcement as an official priority.", "source": "https://garbarino.house.gov/issues"},
+   {"topic": "Second Amendment", "point": "Says he works to safeguard constituents' Second Amendment rights.", "source": "https://garbarino.house.gov/issues"},
+   {"topic": "Opioids", "point": "Names the opioid epidemic as an issue area for his office.", "source": "https://garbarino.house.gov/issues"},
+   {"topic": "Animal welfare", "point": "Opposes federal preemption of state animal welfare laws.", "source": "https://en.wikipedia.org/wiki/Andrew_Garbarino"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 35, "evidence": "Voted for the 2021 background checks bill (guns) and the Respect for Marriage Act (LGBTQ rights).", "source": "https://en.wikipedia.org/wiki/Andrew_Garbarino"},
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Voted for the Farm Workforce Modernization Act, which offers farmworkers a path to legal status.", "source": "https://en.wikipedia.org/wiki/Andrew_Garbarino"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NY-2/patrick-halpin",
+  "name": "Patrick Halpin",
+  "party": "Democratic",
+  "current_role": "Former Suffolk County Executive",
+  "bio": "Patrick Halpin served in the Suffolk County Legislature from 1979 and in the New York State Assembly from 1982, then was Suffolk County Executive from 1988 to 1991. He later worked in education nonprofits and served on the Suffolk County Water Authority from 2006, becoming its chair in 2018. He is from Long Island's South Shore.",
+  "website": "https://www.halpinforcongress.com/",
+  "social": {
+   "x": "https://x.com/Pat_Halpin",
+   "instagram": "https://www.instagram.com/pat_halpin_ny/",
+   "facebook": "https://www.facebook.com/HalpinforCongress",
+   "tiktok": "https://www.tiktok.com/@pat_halpin",
+   "youtube": "https://www.youtube.com/@PatHalpinforCongress"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower costs for families, from rent and childcare to medical bills.", "source": "https://www.halpinforcongress.com/"},
+   {"topic": "Taxes", "point": "Oppose tax breaks for billionaires and special interests to help bring costs down.", "source": "https://www.halpinforcongress.com/about"},
+   {"topic": "Housing", "point": "Expand housing options so young people, families and seniors can stay on Long Island.", "source": "https://www.halpinforcongress.com/"},
+   {"topic": "Environment", "point": "Protect drinking water and preserve parks and beaches.", "source": "https://www.halpinforcongress.com/"},
+   {"topic": "Public safety", "point": "Make community safety a priority, building on his community policing record.", "source": "https://www.halpinforcongress.com/about"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Says he will fight billionaire tax breaks and special interests to lower costs.", "source": "https://www.halpinforcongress.com/about"},
+   "welfare": {"score": 70, "evidence": "Campaign prioritises lowering rent, childcare and medical costs for families.", "source": "https://www.halpinforcongress.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/c4b5920c-d331-4f80-99ec-b442234934ad/c717da3b-5bbc-4444-8474-8a53c3713db9/c717da3b-5bbc-4444-8474-8a53c3713db9.jpg",
+  "notes": "An immigration score was removed because the campaign's ICE material criticises his opponent without stating a policy. The Wikipedia portrait is credited to the Suffolk County Water Authority without a specific free licence, so it was not used."
+ },
+ {
+  "id": "NY-3/tom-suozzi",
+  "name": "Tom Suozzi",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-3",
+  "bio": "Tom Suozzi represented New York's 3rd District from 2017 to 2023 and has held the seat again since 2024. He was previously Mayor of Glen Cove from 1994 to 2001 and Nassau County Executive from 2002 to 2009. He is an attorney and CPA from Glen Cove and a former vice chair of the Problem Solvers Caucus.",
+  "website": "https://suozziforcongress.com/",
+  "social": {
+   "x": "https://x.com/reptomsuozzi",
+   "facebook": "https://www.facebook.com/RepTomSuozzi",
+   "instagram": "https://www.instagram.com/tom_suozzi"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Restore the full state and local tax (SALT) deduction to cut costs for Long Island families.", "source": "https://suozziforcongress.com/"},
+   {"topic": "Immigration", "point": "Pursue bipartisan border security reform and address undocumented migration.", "source": "https://suozziforcongress.com/"},
+   {"topic": "Abortion", "point": "Defend women's right to make their own reproductive healthcare decisions.", "source": "https://suozziforcongress.com/"},
+   {"topic": "Climate", "point": "Address climate change with ambitious, sustainable solutions.", "source": "https://suozziforcongress.com/"},
+   {"topic": "Israel", "point": "Strengthen Israel's security and counter anti-Israel bias.", "source": "https://suozziforcongress.com/"},
+   {"topic": "Public safety", "point": "Reduce crime through intervention and prevention.", "source": "https://suozziforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 40, "evidence": "Supports abortion rights, but has criticised his party's stance on transgender athletes in girls' sports.", "source": "https://en.wikipedia.org/wiki/Tom_Suozzi"},
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Co-chairs a Democratic border security task force and voted for the Laken Riley Act and 2026 ICE funding, which he later said he regretted.", "source": "https://en.wikipedia.org/wiki/Tom_Suozzi"},
+   "foreign": {"score": 85, "evidence": "Voted for the 2024 military aid packages for Ukraine, Israel and Taiwan.", "source": "https://en.wikipedia.org/wiki/Tom_Suozzi"},
+   "energy": {"score": 65, "evidence": "Campaign calls for addressing climate change with sustainable solutions.", "source": "https://suozziforcongress.com/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://suozziforcongress.com/wp-content/uploads/2023/12/tom_solo_cropped-1.png",
+  "notes": ""
+ },
+ {
+  "id": "NY-3/mike-lipetri",
+  "name": "Mike LiPetri",
+  "party": "Republican",
+  "current_role": "Attorney and former New York State Assemblyman",
+  "bio": "Mike LiPetri is an attorney from Farmingdale on Long Island. He represented the 9th District in the New York State Assembly from 2019 to 2021, where he co-chaired a statewide water quality task force. He was the Republican nominee for New York's 3rd District in 2024 and is running again in 2026.",
+  "website": "https://www.mikelipetriforcongress.com/",
+  "social": {
+   "x": "https://x.com/TheMikeLiPetri",
+   "instagram": "https://www.instagram.com/mikelipetri",
+   "youtube": "https://www.youtube.com/@mikelipetri_ny3"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Keep the Trump tax cuts, lift the SALT cap and end taxes on tips, overtime and Social Security.", "source": "https://www.mikelipetriforcongress.com/"},
+   {"topic": "Law enforcement", "point": "Give police full support and oppose New York's bail reform.", "source": "https://www.longislandpress.com/2026/02/03/mike-lipetri-congressional-bid/"},
+   {"topic": "Border security", "point": "Deport people here illegally who commit crimes while welcoming those who immigrated legally.", "source": "https://www.mikelipetriforcongress.com/"},
+   {"topic": "Israel", "point": "Oppose the BDS movement and stand against Hamas, Hezbollah, the Houthis and Iran.", "source": "https://www.mikelipetriforcongress.com/"},
+   {"topic": "Healthcare", "point": "Favour personal, portable, preventive care with price transparency over insurer bureaucracy.", "source": "https://www.mikelipetriforcongress.com/"},
+   {"topic": "Crypto", "point": "Create a single regulatory framework for blockchain that shields innovation from overreach.", "source": "https://www.mikelipetriforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Backs the Trump tax cuts, no tax on tips or overtime, and fewer regulations on homeownership.", "source": "https://www.mikelipetriforcongress.com/"},
+   "welfare": {"score": 35, "evidence": "Favours portable, personal healthcare with price transparency rather than expanded public programs.", "source": "https://www.mikelipetriforcongress.com/"},
+   "liberty": {"score": 65, "evidence": "Opposes transgender women competing in women's sports or using women's facilities (LGBTQ issues).", "source": "https://www.mikelipetriforcongress.com/"},
+   "security": {"score": 70, "evidence": "Sponsored tougher penalties for assaulting police and opposes bail reform.", "source": "https://en.wikipedia.org/wiki/Mike_LiPetri"},
+   "immigration": {"score": 75, "evidence": "Makes border security a central theme and calls for deporting criminals here illegally.", "source": "https://www.mikelipetriforcongress.com/"},
+   "foreign": {"score": 65, "evidence": "Pledges strong support for Israel and opposition to Iran and its allied groups.", "source": "https://www.mikelipetriforcongress.com/"},
+   "energy": null,
+   "tech": {"score": 30, "evidence": "Wants a crypto framework that protects innovation from bureaucratic overreach.", "source": "https://www.mikelipetriforcongress.com/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Mike LiPetri (2024 Italian Heritage Street Festival) (cropped).jpg", "license": "CC BY-SA 4.0", "author": "ComplexRational"},
+  "campaign_photo": "https://static.wixstatic.com/media/f2f119_c447c2f307ef47b88bf43b9fe7f35c9c~mv2.png",
+  "notes": ""
+ },
+ {
+  "id": "NY-4/laura-gillen",
+  "name": "Laura Gillen",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-4",
+  "bio": "Laura Gillen has represented New York's 4th District since January 2025. She was Supervisor of the Town of Hempstead from 2018 to 2020 and is an attorney who has taught as an adjunct at Hofstra Law School. She grew up in Baldwin and lives in Rockville Centre.",
+  "website": "https://lauragillen.com/",
+  "social": {
+   "x": "https://x.com/RepLauraGillen",
+   "facebook": "https://www.facebook.com/replauragillen",
+   "instagram": "https://www.instagram.com/replauragillen"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Seek bipartisan measures to lower costs for working families.", "source": "https://gillen.house.gov/issues"},
+   {"topic": "Federal funding", "point": "Secure federal investment for Nassau County.", "source": "https://lauragillen.com/"},
+   {"topic": "Law enforcement", "point": "Lists support for law enforcement and public safety as an official priority.", "source": "https://gillen.house.gov/issues"},
+   {"topic": "Antisemitism", "point": "Commits to standing up for the Jewish community.", "source": "https://gillen.house.gov/issues"},
+   {"topic": "Transit", "point": "Opposes congestion pricing in Manhattan.", "source": "https://en.wikipedia.org/wiki/Laura_Gillen"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "Signed a June 2026 anti-socialism pledge and criticised Zohran Mamdani's agenda as bringing higher taxes.", "source": "https://en.wikipedia.org/wiki/Laura_Gillen"},
+   "welfare": null,
+   "liberty": {"score": 55, "evidence": "One of eight Democrats to vote for the Stopping Indoctrination and Protecting Kids Act on transgender-related instruction (LGBTQ issues).", "source": "https://en.wikipedia.org/wiki/Laura_Gillen"},
+   "security": null,
+   "immigration": {"score": 55, "evidence": "Voted for the Laken Riley Act and for 2026 DHS funding that included ICE.", "source": "https://en.wikipedia.org/wiki/Laura_Gillen"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 45, "evidence": "Voted for the Stopping Indoctrination and Protecting Kids Act, a bill limiting school instruction on gender identity.", "source": "https://en.wikipedia.org/wiki/Laura_Gillen"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://lauragillen.com/wp-content/uploads/2026/05/image-4.png",
+  "notes": ""
+ },
+ {
+  "id": "NY-4/jeanine-driscoll",
+  "name": "Jeanine Driscoll",
+  "party": "Republican",
+  "current_role": "Hempstead Town Receiver of Taxes",
+  "bio": "Jeanine Driscoll has been Hempstead Town Receiver of Taxes since 2019 and was re-elected in 2023. She practised aviation law for over two decades and was appointed an associate village justice in Bellerose in 2015. She holds degrees from Catholic University of America and Fordham Law School and lives in Bellerose Village in Nassau County.",
+  "website": "https://driscoll4congress.com/",
+  "social": {
+   "x": "https://x.com/driscoll4ny",
+   "facebook": "https://www.facebook.com/driscoll4ny"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Restore the full SALT deduction and ease tax burdens on families, seniors and small businesses.", "source": "https://driscoll4congress.com/"},
+   {"topic": "Border security", "point": "Keep the southern border closed and support record border funding.", "source": "https://driscoll4congress.com/"},
+   {"topic": "Law enforcement", "point": "Pledges to back law enforcement.", "source": "https://driscoll4congress.com/"},
+   {"topic": "Water", "point": "Protect Long Island's aquifer and win federal funding to clean up the Bethpage Plume.", "source": "https://patch.com/new-york/longisland/new-york-primary-previews-meet-jeanine-driscoll-candidate-new-york-s-4th"},
+   {"topic": "Infrastructure", "point": "Secure Long Island's share of federal infrastructure money without raising local taxes.", "source": "https://patch.com/new-york/longisland/new-york-primary-previews-meet-jeanine-driscoll-candidate-new-york-s-4th"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for lower federal taxes on families and small businesses and backs no tax on tips and overtime.", "source": "https://driscoll4congress.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 65, "evidence": "Says the southern border must never be opened again and supports record border funding.", "source": "https://driscoll4congress.com/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://driscoll4congress.com/wp-content/uploads/2026/04/4-2026_NCRP_J_Driscoll_-_57_cleaned-683x1024.jpg",
+  "notes": ""
+ },
+ {
+  "id": "NY-4/blay-tarnoff",
+  "name": "Blay Tarnoff",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Blay Tarnoff is the Libertarian Party candidate for New York's 4th Congressional District in 2026. No further biographical details were found in the sources checked.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Ballotpedia could not be retrieved and no campaign site or coverage was found, so the profile is minimal."
+ },
+ {
+  "id": "NY-5/gregory-meeks",
+  "name": "Gregory Meeks",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-5",
+  "bio": "Gregory Meeks has served in the U.S. House since 1998, representing the 6th District until 2013 and the 5th District since then. He chaired the House Foreign Affairs Committee from 2021 to 2023 and is now its ranking member, and he previously served in the New York State Assembly from 1993 to 1998. He is a lawyer who was born in East Harlem and holds degrees from Adelphi University and Howard University School of Law.",
+  "website": "https://www.congressmangregorymeeks.com/",
+  "social": {
+   "x": "https://x.com/RepGregoryMeeks",
+   "facebook": "https://www.facebook.com/gregorymeeksny05",
+   "instagram": "https://www.instagram.com/repgregorymeeks",
+   "youtube": "https://www.youtube.com/user/gwmeeks"
+  },
+  "platform": [
+   {"topic": "Healthcare", "point": "Treat healthcare as a right and protect the Affordable Care Act, Medicare and Medicaid.", "source": "https://meeks.house.gov/issues"},
+   {"topic": "Financial access", "point": "Widen access to capital, credit and investment for underserved communities.", "source": "https://meeks.house.gov/issues"},
+   {"topic": "Labor", "point": "Support unions as the foundation of the middle class.", "source": "https://meeks.house.gov/issues"},
+   {"topic": "Gun violence", "point": "Address gun violence as a public health emergency.", "source": "https://meeks.house.gov/issues"},
+   {"topic": "Immigration", "point": "Build a fair and humane immigration system that values immigrant contributions.", "source": "https://meeks.house.gov/issues"},
+   {"topic": "Technology", "point": "Make sure the digital economy's gains are shared broadly.", "source": "https://meeks.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Official site strongly backs labor unions and equitable access to capital and credit.", "source": "https://meeks.house.gov/issues"},
+   "welfare": {"score": 75, "evidence": "Calls healthcare a right and prioritises protecting the ACA, Medicare and Medicaid.", "source": "https://meeks.house.gov/issues"},
+   "liberty": {"score": 60, "evidence": "Describes gun violence as a public health emergency to be addressed (guns); no stated positions found on other liberty issues.", "source": "https://meeks.house.gov/issues"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Official site calls for a just and humane immigration system.", "source": "https://meeks.house.gov/issues"},
+   "foreign": {"score": 80, "evidence": "Ranking member and former chair of the House Foreign Affairs Committee, engaged with U.S. allies.", "source": "https://en.wikipedia.org/wiki/Gregory_Meeks"},
+   "energy": {"score": 75, "evidence": "Urged action on climate change at the 2022 G20 parliamentary summit.", "source": "https://en.wikipedia.org/wiki/Gregory_Meeks"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://www.congressmangregorymeeks.com/sites/default/files/styles/standard/public/images/standard/meeks-standing-on-street.jpg",
+  "notes": "The campaign image is a photo of him on a street rather than a studio headshot."
+ },
+ {
+  "id": "NY-5/george-marsh",
+  "name": "George Marsh",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "George Marsh is the Republican nominee for New York's 5th Congressional District in 2026. No further biographical details were found in the sources checked.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign site was found, and FEC filings reported no fundraising as of June 2026."
+ },
+ {
+  "id": "NY-6/grace-meng",
+  "name": "Grace Meng",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NY-6",
+  "bio": "Grace Meng has represented New York's 6th District in Queens since 2013. She previously served in the New York State Assembly from 2009 to 2012. She was born in Queens to immigrant parents.",
+  "website": "https://www.gracefornewyork.com/",
+  "social": {
+   "x": "https://x.com/RepGraceMeng",
+   "facebook": "https://www.facebook.com/repgracemeng",
+   "instagram": "https://www.instagram.com/grace4ny/"
+  },
+  "platform": [
+   {"topic": "Healthcare", "point": "Make quality healthcare affordable and accessible for Queens residents.", "source": "https://www.gracefornewyork.com/"},
+   {"topic": "Jobs", "point": "Support small businesses and create good jobs for working families.", "source": "https://meng.house.gov/issues"},
+   {"topic": "Gun violence", "point": "Prioritise school safety and reducing gun violence.", "source": "https://www.gracefornewyork.com/"},
+   {"topic": "Education", "point": "Increase school funding and expand student internet access.", "source": "https://meng.house.gov/issues"},
+   {"topic": "Social Security", "point": "Defend Social Security as a key protection against poverty for seniors.", "source": "https://meng.house.gov/issues"},
+   {"topic": "Immigration", "point": "Keep America welcoming to immigrants.", "source": "https://meng.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 70, "evidence": "Voted against the Fiscal Responsibility Act's spending limits and says every American deserves affordable healthcare.", "source": "https://en.wikipedia.org/wiki/Grace_Meng"},
+   "liberty": {"score": 30, "evidence": "Rated 100% by NARAL (abortion) and belongs to the Equality Caucus (LGBTQ), while prioritising gun violence prevention (guns).", "source": "https://en.wikipedia.org/wiki/Grace_Meng"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Introduced a measure requiring ICE agents to display badge numbers and says America should stay welcoming to immigrants.", "source": "https://en.wikipedia.org/wiki/Grace_Meng"},
+   "foreign": {"score": 80, "evidence": "Voted for the 2024 military aid packages for Ukraine, Israel and Taiwan.", "source": "https://en.wikipedia.org/wiki/Grace_Meng"},
+   "energy": {"score": 80, "evidence": "Backed the Inflation Reduction Act's clean-energy jobs and joined the 2019 climate strike.", "source": "https://meng.house.gov/issues"},
+   "tech": null,
+   "education": {"score": 75, "evidence": "Calls for more school funding and created the Emergency Connectivity Fund for student internet access.", "source": "https://meng.house.gov/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NY-6/joseph-chou",
+  "name": "Joseph Chou",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Joseph Chou is a naturalized U.S. citizen from Queens and the Republican nominee for New York's 6th Congressional District in 2026. His campaign says his Christian faith and commitment to community service shape his candidacy.",
+  "website": "https://josephforny.com/",
+  "social": {
+   "x": "https://x.com/joseph4ny6",
+   "instagram": "https://www.instagram.com/josephforny",
+   "facebook": "https://www.facebook.com/josephchouforny",
+   "tiktok": "https://www.tiktok.com/@josephchou.forcongress"
+  },
+  "platform": [
+   {"topic": "Community", "point": "Honour the district's cultural diversity and promote unity among residents.", "source": "https://josephforny.com/"},
+   {"topic": "Safety and prosperity", "point": "Promote public safety and economic prosperity in Queens.", "source": "https://josephforny.com/"},
+   {"topic": "Values", "point": "Base policy on Christian principles while seeking broad appeal.", "source": "https://josephforny.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 70, "evidence": "Campaign says his policies will be guided by Christian principles.", "source": "https://josephforny.com/"}
+  },
+  "photo": null,
+  "campaign_photo": "https://img1.wsimg.com/isteam/ip/3f65359e-0072-4b81-a873-963b74ade972/449699651_122156071586227446_32304183002876933.jpg",
+  "notes": "A tax platform point and economy score from Ballotpedia were removed because the page could not be loaded to confirm them."
+ }
+]

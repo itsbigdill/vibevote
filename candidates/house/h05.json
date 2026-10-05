@@ -1,0 +1,687 @@
+[
+  {
+    "state": "California",
+    "district": "CA-21",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jim Costa",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 70,
+          "liberty": 40,
+          "security": 60,
+          "immigration": 35,
+          "foreign": 80,
+          "energy": 50,
+          "tech": 60,
+          "education": 80,
+          "faith": 30
+        },
+        "basis": "Backs minimum wage hike, ACA, Ukraine F-16s and Israel aid, farmworker legalization; voted for Keystone XL; pro-choice with background checks drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jim_Costa",
+          "https://www.ontheissues.org/CA/Jim_Costa.htm"
+        ],
+        "photo": {
+          "file": "File:Rep Costa Headshot 2 (cropped).jpg",
+          "license": "Public domain",
+          "author": "Jim Costa's Congressional Office"
+        }
+      },
+      {
+        "name": "Kyle Kirkland",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 60,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "Campaign pledges to end over-regulation, back police, stop cartels while respecting legal immigration, and empower parents in schools.",
+        "sources": [
+          "https://kirkland2026.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-22",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "David Valadao",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 35,
+          "liberty": 55,
+          "security": 65,
+          "immigration": 45,
+          "foreign": 70,
+          "energy": 25,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts and 2025 megabill, backs pathway plus border wall, Iran strikes; pro-life, pro-gun, yet voted Respect for Marriage Act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/David_Valadao",
+          "https://www.ontheissues.org/CA/David_Valadao.htm"
+        ],
+        "photo": {
+          "file": "File:David Valadao 117th U.S Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Committee"
+        }
+      },
+      {
+        "name": "Randy Villegas",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 95,
+          "liberty": null,
+          "security": null,
+          "immigration": 25,
+          "foreign": 30,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports Medicare for All, opposes SNAP and Medicaid cuts, targets price gouging and monopolies, criticizes ICE, called for Gaza ceasefire.",
+        "sources": [
+          "https://platform.anewpolicypac.org/candidates/randy-villegas-ca",
+          "https://www.nationalnursesunited.org/press/national-nurses-united-endorses-randy-villegas-for-californias-22nd-district"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-23",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jay Obernolte",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 40,
+          "security": 65,
+          "immigration": 75,
+          "foreign": 55,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": 70
+        },
+        "basis": "Opposes high taxes and EPA overreach, opposed sanctuary law, backed Dobbs and gun rights but voted Respect for Marriage Act; supports God in public life.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jay_Obernolte",
+          "https://www.ontheissues.org/CA/Jay_Obernolte.htm"
+        ],
+        "photo": {
+          "file": "File:Jay Obernolte 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Tessa Lynn Hodge",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Campaign platform lists humane immigration policy and public education among priorities; few detailed stances published.",
+        "sources": [
+          "https://tessaforca.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-24",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Salud Carbajal",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 70,
+          "liberty": 35,
+          "security": 35,
+          "immigration": 20,
+          "foreign": 60,
+          "energy": 85,
+          "tech": 60,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Backs higher taxes on the wealthy, ACA, green energy, net neutrality, free community college; pro-choice and gun control drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Salud_Carbajal",
+          "https://www.ontheissues.org/CA/Salud_Carbajal.htm"
+        ],
+        "photo": {
+          "file": "File:Salud Carbajal - 117th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Bob Smith",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 60,
+          "foreign": 75,
+          "energy": 50,
+          "tech": null,
+          "education": 40,
+          "faith": null
+        },
+        "basis": "Platform: secure border and remove violent offenders with legal clarity for long-term workers, peace through strength, baseload plus clean power, parental involvement.",
+        "sources": [
+          "https://bobsmithforcongress.com/issues/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-25",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Raul Ruiz",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 75,
+          "liberty": 40,
+          "security": 55,
+          "immigration": 20,
+          "foreign": null,
+          "energy": 70,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Backs minimum tax on the wealthy, ACA and Medicare, DREAM Act, offshore drilling ban, opposes vouchers; pro-choice and gun control drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Raul_Ruiz_(politician)",
+          "https://www.ontheissues.org/CA/Raul_Ruiz.htm"
+        ],
+        "photo": {
+          "file": "File:Raul Ruiz (D-CA) 118th Congress 1.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Joe Males",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": 65,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Hemet councilman whose campaign centers on public safety after his son's murder; no detailed policy platform published.",
+        "sources": [
+          "https://joemalesforca.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-26",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jacqui Irwin",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 75,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 75,
+          "education": null,
+          "faith": null
+        },
+        "basis": "As assemblymember strengthened gun violence restraining orders and pushed AI companies to disclose training data.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jacqui_Irwin"
+        ],
+        "photo": {
+          "file": "File:150302-Z-WQ610- (16698067641) (cropped).jpg",
+          "license": "CC BY 2.0",
+          "author": "California National Guard"
+        }
+      },
+      {
+        "name": "Sam Gallucci",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 45,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Said criminals should be deported while immigrant workers stay; campaign focuses on homelessness and education.",
+        "sources": [
+          "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-27",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "George Whitesides",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 60,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 70,
+          "tech": null,
+          "education": 75,
+          "faith": null
+        },
+        "basis": "Official issues page backs affordable health care, reproductive rights, cost-effective clean energy and public education investment.",
+        "sources": [
+          "https://whitesides.house.gov/issues",
+          "https://legisletter.org/legislator/george-whitesides-W000830"
+        ],
+        "photo": {
+          "file": "File:George T. Whitesides, official portrait (119th Congress) (1).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman"
+        }
+      },
+      {
+        "name": "Jason Gibbs",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 35,
+          "liberty": 15,
+          "security": 70,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes tax increases like Measure ER, seeks tighter Medicare and Medi-Cal spending oversight, backs police and gun rights.",
+        "sources": [
+          "https://ballotpedia.org/Jason_Gibbs_(California)"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-28",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Judy Chu",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": 30,
+          "security": 20,
+          "immigration": 10,
+          "foreign": 40,
+          "energy": 95,
+          "tech": 60,
+          "education": 85,
+          "faith": 15
+        },
+        "basis": "Medicare for All caucus, Green New Deal, opposes bulk surveillance and vouchers, conditioned Israel offensive aid; pro-choice, LGBT rights, gun control.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Judy_Chu",
+          "https://www.ontheissues.org/CA/Judy_Chu.htm"
+        ],
+        "photo": {
+          "file": "File:Judy Chu 2019-05-02.jpg",
+          "license": "Public domain",
+          "author": "Eric Connolly, House Creative Services"
+        }
+      },
+      {
+        "name": "April Verlato",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": null,
+          "security": 70,
+          "immigration": 75,
+          "foreign": 60,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign platform: smaller government and lower taxes, market-driven healthcare, support for law enforcement, border security, national security.",
+        "sources": [
+          "https://verlatoforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-29",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Luz Rivas",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 40,
+          "security": 35,
+          "immigration": 15,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposed ICE raid tactics and megabill ICE funding, backed cutting criminal justice fees; abortion rights and gun regulation drove liberty.",
+        "sources": [
+          "https://www.ontheissues.org/CA/Luz_Rivas.htm",
+          "https://rivas.house.gov/media/press-releases/congresswoman-luz-rivas-demands-meeting-ice-and-cbp-leadership-regarding-la"
+        ],
+        "photo": {
+          "file": "File:Rep. Luz Rivas (D-CA), Official Portrait, 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Angélica María Dueñas",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 85,
+          "welfare": 100,
+          "liberty": 10,
+          "security": 15,
+          "immigration": 5,
+          "foreign": 10,
+          "energy": 90,
+          "tech": null,
+          "education": 95,
+          "faith": null
+        },
+        "basis": "Supports Medicare for All, taxing billionaire loans, abolishing ICE, no military aid to Israel, clean energy, tuition-free college, abortion access.",
+        "sources": [
+          "https://angelica4congress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-30",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Laura Friedman",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 90,
+          "liberty": 40,
+          "security": 35,
+          "immigration": 15,
+          "foreign": 55,
+          "energy": 90,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Backs universal healthcare and childcare, No Masks for ICE Act, foreign aid, climate action, public schools; abortion rights and gun limits drove liberty.",
+        "sources": [
+          "https://www.lauraforcongress.org/",
+          "https://www.ontheissues.org/CA/Laura_Friedman.htm",
+          "https://www.govtrack.us/congress/members/laura_friedman/456979"
+        ],
+        "photo": {
+          "file": "File:Laura Friedman, House portrait.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Scott Alan Meyers",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": null,
+          "security": 75,
+          "immigration": 80,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "Campaign: lower taxes and spending, cut red tape, secure the border, restore law and order, schools without political indoctrination.",
+        "sources": [
+          "https://www.meyersforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-31",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Gil Cisneros",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": 35,
+          "security": null,
+          "immigration": 15,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Opposed 2017 tax law and Medicaid cuts, backs ACA, DACA path, renewable energy, opposes border wall and vouchers; pro-choice and assault weapons ban.",
+        "sources": [
+          "https://www.ontheissues.org/CA/Gil_Cisneros.htm",
+          "https://cisneros.house.gov/issues/immigration"
+        ],
+        "photo": {
+          "file": "File:Gil Cisneros 119th Congress 2.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Eric Ching",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Former Walnut councilman; no verifiable detailed policy stances found in accessible sources.",
+        "sources": [
+          "https://www.ericchingforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-32",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brad Sherman",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": 30,
+          "security": 25,
+          "immigration": 15,
+          "foreign": 80,
+          "energy": 90,
+          "tech": 60,
+          "education": 85,
+          "faith": 15
+        },
+        "basis": "Proposed oil windfall profits tax, backs ACA, Israel aid and Iran sanctions, opposes warrantless surveillance, vouchers and school prayer; pro-choice, gun control.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brad_Sherman",
+          "https://www.ontheissues.org/CA/Brad_Sherman.htm"
+        ],
+        "photo": {
+          "file": "File:Brad Sherman portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Larry Thompson",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 35,
+          "security": 50,
+          "immigration": 90,
+          "foreign": 65,
+          "energy": 25,
+          "tech": 15,
+          "education": 35,
+          "faith": null
+        },
+        "basis": "Wants lower taxes, deport those here illegally, strong Israel support, oil competing freely, no crypto crackdown; gun rights, abortion left to states.",
+        "sources": [
+          "https://www.larrythompsonforcongress.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

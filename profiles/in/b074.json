@@ -1,0 +1,419 @@
+[
+ {
+  "id": "NC-7/david-rouzer",
+  "name": "David Rouzer",
+  "party": "Republican",
+  "race": "NC-7",
+  "race_label": "North Carolina · US House NC-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000603",
+   "official_name": "David Rouzer",
+   "chamber": "House",
+   "official_site": "https://rouzer.house.gov",
+   "official_social": {
+    "twitter": "RepDavidRouzer",
+    "facebook": "RepRouzer",
+    "instagram": "repdavidrouzer"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 15,
+    "liberty": 70,
+    "security": null,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Favors ACA repeal, anti-abortion; voted for 2025 tax bill, Laken Riley and SAVE Acts, Ukraine/Israel aid, ending California emissions waiver. Liberty: abortion, transgender sports.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/David_Rouzer",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2024/roll151.xml"
+   ],
+   "photo": {
+    "file": "File:David Rouzer official photo.jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "NC-7/kim-hardy",
+  "name": "Kim Hardy",
+  "party": "Democratic",
+  "race": "NC-7",
+  "race_label": "North Carolina · US House NC-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Platform: raise minimum wage, close overtime loophole, protect Medicare and Medicaid, solar/wind/geothermal and clean-energy permitting, protect Title I and Head Start.",
+   "sources": [
+    "https://www.kimberlyhardyforcongress.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-7/maad-abu-ghazalah",
+  "name": "Maad Abu-Ghazalah",
+  "party": "Libertarian",
+  "race": "NC-7",
+  "race_label": "North Carolina · US House NC-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-8/mark-harris",
+  "name": "Mark Harris",
+  "party": "Republican",
+  "race": "NC-8",
+  "race_label": "North Carolina · US House NC-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001102",
+   "official_name": "Mark Harris",
+   "chamber": "House",
+   "official_site": "https://markharris.house.gov",
+   "official_social": {
+    "twitter": "RepMarkHarrisNC",
+    "facebook": "RepMarkHarris",
+    "instagram": "repmarkharris"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 15,
+    "liberty": 75,
+    "security": null,
+    "immigration": 85,
+    "foreign": 60,
+    "energy": 10,
+    "tech": 25,
+    "education": 10,
+    "faith": 95
+   },
+   "basis": "Backs lower taxes, market-based health reform, abortion ban without exceptions, opposes same-sex marriage and gun laws, wants border wall, vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)",
+    "https://www.ontheissues.org/NC/Mark_Harris.htm"
+   ],
+   "photo": {
+    "file": "File:Harris Mark 119th Congress (crop2).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NC-8/colby-watson",
+  "name": "Colby Watson",
+  "party": "Democratic",
+  "race": "NC-8",
+  "race_label": "North Carolina · US House NC-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 60,
+    "liberty": 20,
+    "security": 55,
+    "immigration": 50,
+    "foreign": 50,
+    "energy": null,
+    "tech": 75,
+    "education": 60,
+    "faith": null
+   },
+   "basis": "Backs Second Amendment and LGBTQ equality, police funding, border security plus legal immigration reform, banning data collection on minors, public schools.",
+   "sources": [
+    "https://www.colbyforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-8/bo-whitehead",
+  "name": "Bo Whitehead",
+  "party": "Green",
+  "race": "NC-8",
+  "race_label": "North Carolina · US House NC-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-9/richard-hudson",
+  "name": "Richard Hudson",
+  "party": "Republican",
+  "race": "NC-9",
+  "race_label": "North Carolina · US House NC-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001067",
+   "official_name": "Richard Hudson",
+   "chamber": "House",
+   "official_site": "https://hudson.house.gov",
+   "official_social": {
+    "twitter": "RepRichHudson",
+    "facebook": "RepRichHudson",
+    "youtube": "RepRichHudson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 10,
+    "liberty": 70,
+    "security": null,
+    "immigration": 85,
+    "foreign": 70,
+    "energy": 10,
+    "tech": null,
+    "education": 5,
+    "faith": 85
+   },
+   "basis": "Opposes tax hikes and ACA, pro-life, opposed same-sex marriage protections, gun-rights sponsor, border fence, supports Israel, fossil fuels, vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Richard_Hudson_(American_politician)",
+    "https://www.ontheissues.org/NC/Richard_Hudson.htm"
+   ],
+   "photo": {
+    "file": "File:Richard Hudson, official portrait, 115th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "NC-9/richard-ojeda",
+  "name": "Richard Ojeda",
+  "party": "Democratic",
+  "race": "NC-9",
+  "race_label": "North Carolina · US House NC-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 85,
+    "liberty": 25,
+    "security": null,
+    "immigration": 30,
+    "foreign": 30,
+    "energy": 55,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants higher taxes on corporations and rich, universal coverage, abortion rights, cannabis legalization, stricter guns, DACA pathway, no Iran war.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Richard_Ojeda"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-10/pat-harrigan",
+  "name": "Pat Harrigan",
+  "party": "Republican",
+  "race": "NC-10",
+  "race_label": "North Carolina · US House NC-10",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001101",
+   "official_name": "Pat Harrigan",
+   "chamber": "House",
+   "official_site": "https://harrigan.house.gov",
+   "official_social": {
+    "twitter": "RepPatHarrigan",
+    "facebook": "RepPatHarrigan",
+    "instagram": "RepPatHarrigan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 70,
+    "foreign": 60,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs cutting red tape, stronger border enforcement, a stronger military, and an all-of-the-above energy strategy including fossil fuels and nuclear.",
+   "sources": [
+    "https://harrigan.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Pat_Harrigan"
+   ],
+   "photo": {
+    "file": "File:CongressmanPatHarriganPortrait.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "NC-10/ashley-bell",
+  "name": "Ashley Bell",
+  "party": "Democratic",
+  "race": "NC-10",
+  "race_label": "North Carolina · US House NC-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 90,
+    "liberty": 20,
+    "security": null,
+    "immigration": 10,
+    "foreign": 25,
+    "energy": 95,
+    "tech": 85,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Supports universal healthcare, paid leave, reproductive and LGBTQ rights, gun reform, abolishing ICE, ending Israel funding, Green New Deal, AI regulation.",
+   "sources": [
+    "https://www.ashleybellforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-10/steven-feldman",
+  "name": "Steven Feldman",
+  "party": "Libertarian",
+  "race": "NC-10",
+  "race_label": "North Carolina · US House NC-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-11/jennifer-balkcom",
+  "name": "Jennifer Balkcom",
+  "party": "Republican",
+  "race": "NC-11",
+  "race_label": "North Carolina · US House NC-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 65,
+    "security": 60,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 25,
+    "tech": null,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Backed income tax cuts, opposed Medicaid expansion, 12-week abortion ban, transgender sports ban, gun rights, immigration status checks, vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   ],
+   "photo": {
+    "file": "File:Rep. Jennifer Balkcom.jpg",
+    "license": "Public domain",
+    "author": "NC House"
+   }
+  }
+ }
+]

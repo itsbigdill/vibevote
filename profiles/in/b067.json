@@ -1,0 +1,412 @@
+[
+ {
+  "id": "NJ-11/alan-b-bond",
+  "name": "Alan B. Bond",
+  "party": "Hope for Tomorrow",
+  "race": "NJ-11",
+  "race_label": "New Jersey · US House NJ-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-12/adam-hamawy",
+  "name": "Adam Hamawy",
+  "party": "Democratic",
+  "race": "NJ-12",
+  "race_label": "New Jersey · US House NJ-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 100,
+    "liberty": 10,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports single-payer Medicare for All, medical debt cancellation, breaking up pharmacy middlemen, and codifying abortion rights.",
+   "sources": [
+    "https://hamawyfornj.com/priorities",
+    "https://en.wikipedia.org/wiki/Adam_Hamawy"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-12/gregg-mele",
+  "name": "Gregg Mele",
+  "party": "Republican",
+  "race": "NJ-12",
+  "race_label": "New Jersey · US House NJ-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions could be retrieved from campaign or other sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-12/andres-jinete",
+  "name": "Andres Jinete",
+  "party": "Green",
+  "race": "NJ-12",
+  "race_label": "New Jersey · US House NJ-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NJ-12/winston-jordan",
+  "name": "Winston Jordan",
+  "party": "Get Money Out",
+  "race": "NJ-12",
+  "race_label": "New Jersey · US House NJ-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NM-1/melanie-stansbury",
+  "name": "Melanie Stansbury",
+  "party": "Democratic",
+  "race": "NM-1",
+  "race_label": "New Mexico · US House NM-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001218",
+   "official_name": "Melanie A. Stansbury",
+   "chamber": "House",
+   "official_site": "https://stansbury.house.gov",
+   "official_social": {
+    "twitter": "Rep_Stansbury",
+    "facebook": "RepStansbury"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pledged support for Medicare for All, student debt cancellation, marijuana legalization and an assault weapons ban; liberty driven by drugs and guns.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Melanie_Stansbury"
+   ],
+   "photo": {
+    "file": "File:Melanie Stansbury 117th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "NM-1/didi-okpareke",
+  "name": "Didi Okpareke",
+  "party": "Republican",
+  "race": "NM-1",
+  "race_label": "New Mexico · US House NM-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 65,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Calls for cutting federal spending and taxes and prioritizes border security against trafficking and smuggling.",
+   "sources": [
+    "https://nmpoliticalreport.com/2025/07/25/rio-rancho-pharmacist-running-for-house/",
+    "https://ballotpedia.org/Ndidiamaka_Okpareke"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NM-2/gabe-vasquez",
+  "name": "Gabe Vasquez",
+  "party": "Democratic",
+  "race": "NM-2",
+  "race_label": "New Mexico · US House NM-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "V000136",
+   "official_name": "Gabe Vasquez",
+   "chamber": "House",
+   "official_site": "https://vasquez.house.gov",
+   "official_social": {
+    "twitter": "RepGabeVasquez",
+    "facebook": "100089328694464",
+    "instagram": "RepGabeVasquez"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 30,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports codifying Roe v. Wade, backed COVID vaccine requirement for health workers, voted for TikTok divest-or-ban law; liberty driven by abortion.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gabe_Vasquez"
+   ],
+   "photo": {
+    "file": "File:Rep Gabriel Vasquez Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "NM-2/greg-cunningham",
+  "name": "Greg Cunningham",
+  "party": "Republican",
+  "race": "NM-2",
+  "race_label": "New Mexico · US House NM-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources.",
+   "sources": [
+    "https://news.ballotpedia.org/2026/08/03/vasquez-d-cunningham-r-running-in-new-mexicos-2nd-district-one-of-23-trump-won-seats-democrats-are-defending/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NM-3/teresa-leger-fernandez",
+  "name": "Teresa Leger Fernández",
+  "party": "Democratic",
+  "race": "NM-3",
+  "race_label": "New Mexico · US House NM-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000273",
+   "official_name": "Teresa Leger Fernandez",
+   "chamber": "House",
+   "official_site": "https://fernandez.house.gov",
+   "official_social": {
+    "twitter": "RepTeresaLF",
+    "facebook": "RepTeresaLF",
+    "instagram": "repteresalf",
+    "youtube": "@rep.teresalegerfernandez8059"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 90,
+    "liberty": 35,
+    "security": null,
+    "immigration": 20,
+    "foreign": null,
+    "energy": 90,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs a Green New Deal, Medicare for All, moving from fracking to clean energy, the DREAM Act and a military-style rifle ban; liberty: guns.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Teresa_Leger_Fern%C3%A1ndez"
+   ],
+   "photo": {
+    "file": "File:Teresa Leger Fernandez 117th Congress portrait 2.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services, Franmarie Metzler"
+   }
+  }
+ },
+ {
+  "id": "NM-3/martin-zamora",
+  "name": "Martin Zamora",
+  "party": "Republican",
+  "race": "NM-3",
+  "race_label": "New Mexico · US House NM-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Martin_R._Zamora"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-1/nick-lalota",
+  "name": "Nick LaLota",
+  "party": "Republican",
+  "race": "NY-1",
+  "race_label": "New York · US House NY-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000598",
+   "official_name": "Nick LaLota",
+   "chamber": "House",
+   "official_site": "https://lalota.house.gov",
+   "official_social": {
+    "twitter": "RepLaLota",
+    "facebook": "replalota",
+    "instagram": "replalota"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 40,
+    "security": null,
+    "immigration": 55,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cosponsored the DIGNIDAD Act pairing legal status with stricter enforcement; opposes undoing same-sex marriage rights; liberty driven by LGBTQ stance.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nick_LaLota"
+   ],
+   "photo": {
+    "file": "File:Nick lalota portrait.jpg",
+    "license": "Public domain",
+    "author": "lalota.house.gov"
+   }
+  }
+ }
+]

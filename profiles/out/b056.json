@@ -1,0 +1,373 @@
+[
+ {
+  "id": "MI-5/james-bronke",
+  "name": "James Bronke",
+  "party": "Green",
+  "current_role": "Retired engineer",
+  "bio": "James (Jim) Bronke is a retired engineer who has lived in Cass County, Michigan, for about two decades and describes ties to the local farming community. He was the Green Party nominee for Michigan's 5th district in 2024 and was nominated again by Green Party convention in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Government spending", "point": "Calls for balanced budgets and less unnecessary spending, with foreign aid voted on separately.", "source": "https://www.gp.org/jim_bronke_for_congress"},
+   {"topic": "Climate and agriculture", "point": "Wants to work with farmers to respond to the effects of climate change on agriculture.", "source": "https://www.gp.org/jim_bronke_for_congress"},
+   {"topic": "Immigration", "point": "Supports stronger border security, with particular attention to states bordering Mexico.", "source": "https://www.gp.org/jim_bronke_for_congress"},
+   {"topic": "Health care", "point": "Says the health system puts profit ahead of patients and needs fundamental reform.", "source": "https://www.gp.org/jim_bronke_for_congress"},
+   {"topic": "Reproductive health", "point": "Favors reducing government involvement in women's reproductive decisions.", "source": "https://www.gp.org/jim_bronke_for_congress"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 25, "evidence": "On abortion, favors phasing out government intervention in women's reproductive decisions.", "source": "https://www.gp.org/jim_bronke_for_congress"},
+   "security": null,
+   "immigration": {"score": 65, "evidence": "Supports strengthened borders, with special concern for states bordering Mexico.", "source": "https://www.gp.org/jim_bronke_for_congress"},
+   "foreign": {"score": 35, "evidence": "Objects to foreign aid being passed without separate votes as part of cutting unnecessary spending.", "source": "https://www.gp.org/jim_bronke_for_congress"},
+   "energy": {"score": 65, "evidence": "Commits to working with farmers to address the impacts of climate change.", "source": "https://www.gp.org/jim_bronke_for_congress"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions come from his 2024 Green Party profile; no 2026 campaign website was found."
+ },
+ {
+  "id": "MI-6/debbie-dingell",
+  "name": "Debbie Dingell",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MI-6",
+  "bio": "Debbie Dingell has represented southeast Michigan in the U.S. House since 2015, succeeding John Dingell, and has held the 6th district seat since 2023. Born in Detroit and a Georgetown University graduate, she previously led the General Motors Foundation, served on the Wayne State University Board of Governors and founded the National Women's Health Resource Center.",
+  "website": "https://debbiedingellforcongress.com/",
+  "social": {"x": "https://x.com/debdingell", "facebook": "https://www.facebook.com/debbie.dingell", "instagram": "https://www.instagram.com/debbiedingell"},
+  "platform": [
+   {"topic": "Climate", "point": "Pursue federal action on climate change and protect the Great Lakes.", "source": "https://debbiedingellforcongress.com/"},
+   {"topic": "Health care", "point": "Work to guarantee access to quality, affordable health care for all Americans.", "source": "https://debbiedingellforcongress.com/"},
+   {"topic": "Jobs and auto industry", "point": "Support manufacturing, auto jobs and a stable regional economy.", "source": "https://debbiedingell.house.gov/issues"},
+   {"topic": "Gun violence", "point": "Backs background checks on every firearm sale and transfer.", "source": "https://www.ontheissues.org/MI/Debbie_Dingell.htm"},
+   {"topic": "Retirement security", "point": "Protect Social Security, Medicare and worker pensions.", "source": "https://debbiedingell.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports progressive taxation, including raising estate taxes to 1990s levels.", "source": "https://www.ontheissues.org/MI/Debbie_Dingell.htm"},
+   "welfare": {"score": 75, "evidence": "Supports a right to affordable, quality health care and defended the Affordable Care Act.", "source": "https://www.ontheissues.org/MI/Debbie_Dingell.htm"},
+   "liberty": {"score": 25, "evidence": "Supports abortion access, universal background checks for guns, and equal rights for LGBTQ people.", "source": "https://www.ontheissues.org/MI/Debbie_Dingell.htm"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Supports comprehensive immigration reform, legal status for DREAMers and higher visa caps.", "source": "https://www.ontheissues.org/MI/Debbie_Dingell.htm"},
+   "foreign": {"score": 45, "evidence": "Opposes military force against Iran without congressional approval and voted in 2023 to withdraw U.S. troops from Syria.", "source": "https://en.wikipedia.org/wiki/Debbie_Dingell"},
+   "energy": {"score": 85, "evidence": "Calls for proactive federal climate solutions and voted to ban offshore oil drilling.", "source": "https://www.ontheissues.org/MI/Debbie_Dingell.htm"},
+   "tech": null,
+   "education": {"score": 90, "evidence": "Supports public education including pre-K and opposes private and religious school vouchers.", "source": "https://www.ontheissues.org/MI/Debbie_Dingell.htm"},
+   "faith": {"score": 20, "evidence": "Says religious freedom means no religious registry and opposes vouchers for religious schools.", "source": "https://www.ontheissues.org/MI/Debbie_Dingell.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://debbiedingellforcongress.com/wp-content/uploads/2020/06/20140626_Dingell-0575-1-scaled-e1593461775708.jpg",
+  "notes": ""
+ },
+ {
+  "id": "MI-6/heather-smiley",
+  "name": "Heather Smiley",
+  "party": "Republican",
+  "current_role": "Office analyst",
+  "bio": "Heather Smiley is an office analyst from southeast Michigan. She was the Republican nominee for Michigan's 6th district in 2024 and is the party's nominee again in 2026.",
+  "website": "https://smileyforcongress.com/",
+  "social": {"x": "https://x.com/Smiley4Congress", "instagram": "https://www.instagram.com/smiley4congress/", "facebook": "https://www.facebook.com/profile.php?id=61560975149472"},
+  "platform": [
+   {"topic": "Budget", "point": "Cut unnecessary spending, increase government transparency and balance the federal budget.", "source": "https://smileyforcongress.com/?page_id=269"},
+   {"topic": "Immigration", "point": "Secure the border and address people living in the country without authorization.", "source": "https://smileyforcongress.com/?page_id=269"},
+   {"topic": "Energy", "point": "Pursue U.S. energy independence through market-based approaches.", "source": "https://smileyforcongress.com/?page_id=269"},
+   {"topic": "Economy", "point": "Promote domestic manufacturing and fair trade, including U.S.-made pharmaceuticals.", "source": "https://smileyforcongress.com/?page_id=269"},
+   {"topic": "Government reform", "point": "Increase accountability for officials, support term limits and require review time before votes.", "source": "https://smileyforcongress.com/?page_id=269"},
+   {"topic": "Sovereignty", "point": "Limit foreign ownership of U.S. land and protect domestic assets.", "source": "https://smileyforcongress.com/?page_id=269"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for spending cuts, a balanced budget and market-driven policy.", "source": "https://smileyforcongress.com/?page_id=269"},
+   "welfare": null,
+   "liberty": {"score": 65, "evidence": "Issues page takes a pro-life stance while backing Second Amendment rights and free speech.", "source": "https://smileyforcongress.com/?page_id=269"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Calls for closing the border and limiting chain migration.", "source": "https://smileyforcongress.com/?page_id=269"},
+   "foreign": {"score": 65, "evidence": "Supports strengthening U.S. military capabilities.", "source": "https://smileyforcongress.com/?page_id=269"},
+   "energy": {"score": 30, "evidence": "Prioritizes energy independence through market forces while backing conservation.", "source": "https://smileyforcongress.com/?page_id=269"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 65, "evidence": "Issues page pledges to protect the practice of faith from government interference.", "source": "https://smileyforcongress.com/?page_id=269"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MI-6/clyde-shabazz",
+  "name": "Clyde Shabazz",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Clyde Shabazz is a Green Party candidate from southeast Michigan. He was the Green nominee for Michigan's 14th district in 2020 and for the 6th district in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Income support", "point": "Advocates a universal basic income.", "source": "https://www.gp.org/gpmi_insurgent_campaigns_challenge_duopoly"},
+   {"topic": "Reparations", "point": "Supports cash reparations for Black Americans.", "source": "https://www.gp.org/gpmi_insurgent_campaigns_challenge_duopoly"},
+   {"topic": "Foreign policy", "point": "Calls for ending U.S. military funding for Israel and the wars in Gaza and Lebanon.", "source": "https://www.gp.org/gpmi_insurgent_campaigns_challenge_duopoly"},
+   {"topic": "Media", "point": "Wants to break up concentrated corporate control of the media.", "source": "https://www.gp.org/gpmi_insurgent_campaigns_challenge_duopoly"},
+   {"topic": "Climate and economy", "point": "Promotes a Green New Deal and an economic plan aimed at people earning under $65,000.", "source": "https://www.facebook.com/migreens/posts/vote-for-clyde-shabazz-green-party-candidate-for-us-congress-in-the-michigan-6th/1327442459570782/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Backs cash reparations and an economic plan focused on households under $65,000.", "source": "https://www.gp.org/gpmi_insurgent_campaigns_challenge_duopoly"},
+   "welfare": {"score": 90, "evidence": "Advocates a universal basic income.", "source": "https://www.gp.org/gpmi_insurgent_campaigns_challenge_duopoly"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 15, "evidence": "Calls for ending U.S. military funding for Israel and the wars in Gaza and Lebanon.", "source": "https://www.gp.org/gpmi_insurgent_campaigns_challenge_duopoly"},
+   "energy": {"score": 90, "evidence": "Campaign materials promote a Green New Deal.", "source": "https://www.facebook.com/migreens/posts/vote-for-clyde-shabazz-green-party-candidate-for-us-congress-in-the-michigan-6th/1327442459570782/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions are from 2024 Green Party of Michigan materials; no 2026 campaign website was found."
+ },
+ {
+  "id": "MI-7/tom-barrett",
+  "name": "Tom Barrett",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MI-7",
+  "bio": "Tom Barrett has represented Michigan's 7th district in the U.S. House since January 2025. He previously served in the Michigan House (2015-2019) and Michigan Senate (2019-2023) and spent over two decades in the Army and Michigan Army National Guard as a helicopter pilot, with deployments including Iraq. He was born in Southfield and lives in Charlotte, Michigan.",
+  "website": "https://tombarrettforcongress.com/",
+  "social": {"x": "https://x.com/tombarrettmi7", "facebook": "https://www.facebook.com/tombarrettmi7", "instagram": "https://www.instagram.com/tombarrettMI7", "youtube": "https://www.youtube.com/@tombarrettmi7"},
+  "platform": [
+   {"topic": "Veterans", "point": "Improve resources and job opportunities for veterans, including through his Veterans' Affairs subcommittee role.", "source": "https://barrett.house.gov/about"},
+   {"topic": "Taxes", "point": "Support tax relief for working families.", "source": "https://barrett.house.gov/about"},
+   {"topic": "Infrastructure", "point": "Promote investment in roads and infrastructure from his Transportation and Infrastructure Committee seat.", "source": "https://barrett.house.gov/about"},
+   {"topic": "VA technology", "point": "Modernize Veterans Affairs technology systems as chair of the relevant subcommittee.", "source": "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the One Big Beautiful Bill Act's tax cuts in 2025.", "source": "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"},
+   "welfare": {"score": 20, "evidence": "Voted for the One Big Beautiful Bill Act, which included Medicaid changes.", "source": "https://en.wikipedia.org/wiki/Tom_Barrett_(Michigan_politician)"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Tom Barrett, official portrait (119th Congress).jpg", "license": "Public domain", "author": "Brian Thorpe"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/618846223a022e7ecb41d30c/9477560c-7360-4d24-8505-bab65e96abea/SM%2Bprofile%2B-%2Bcockpit.jpg",
+  "notes": "Foreign score left empty because he backed 2026 strikes on Iran but later voted for a resolution to withdraw U.S. forces from Iran. The Commons portrait is his House official portrait (federal work)."
+ },
+ {
+  "id": "MI-7/william-lawrence",
+  "name": "William Lawrence",
+  "party": "Democratic",
+  "current_role": "Tenant organizer and Sunrise Movement co-founder",
+  "bio": "William Lawrence co-founded the Sunrise Movement climate organization in 2015 and worked there until 2020. He then founded the Mid-Michigan Tenant Resource Center and coordinates a Michigan housing-cost coalition. He grew up in East Lansing and graduated from Swarthmore College.",
+  "website": "https://wewill2026.com/",
+  "social": {"x": "https://x.com/wewill2026", "instagram": "https://www.instagram.com/wewill2026mi", "facebook": "https://www.facebook.com/wewill2026", "tiktok": "https://www.tiktok.com/@wewill2026"},
+  "platform": [
+   {"topic": "Housing", "point": "Invest federal money in mixed-income housing and adopt a national tenant bill of rights.", "source": "https://wewill2026.com/platform/"},
+   {"topic": "Health care", "point": "Enact Medicare for All to take profit out of health insurance.", "source": "https://wewill2026.com/platform/"},
+   {"topic": "Taxes", "point": "Set a minimum tax on billionaires so they pay at least what ordinary workers pay.", "source": "https://wewill2026.com/platform/"},
+   {"topic": "Foreign policy", "point": "Move military spending to domestic needs and end U.S. weapons support for Israel.", "source": "https://wewill2026.com/platform/"},
+   {"topic": "Immigration", "point": "End current ICE operations in American cities and create a path to citizenship.", "source": "https://wewill2026.com/platform/"},
+   {"topic": "Technology", "point": "Oversee data collection and AI use by companies and government.", "source": "https://wewill2026.com/platform/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Backs a billionaire minimum tax, federal mixed-income housing investment and a tenant bill of rights.", "source": "https://wewill2026.com/platform/"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and guaranteed health care.", "source": "https://wewill2026.com/platform/"},
+   "liberty": {"score": 15, "evidence": "Abortion: wants reproductive rights written into federal law; LGBTQ and civil rights: opposes rolling back equal-rights protections.", "source": "https://wewill2026.com/platform/"},
+   "security": {"score": 15, "evidence": "Calls for regulating surveillance by corporations and government and ending current ICE operations in cities.", "source": "https://wewill2026.com/platform/"},
+   "immigration": {"score": 10, "evidence": "Proposes ending ICE's current city operations and creating a path to citizenship.", "source": "https://wewill2026.com/platform/"},
+   "foreign": {"score": 15, "evidence": "Opposes endless wars, wants military funds moved to domestic needs and would end weapons support for Israel.", "source": "https://wewill2026.com/platform/"},
+   "energy": {"score": 85, "evidence": "Pledges clean energy investment and environmental protection to address climate change.", "source": "https://wewill2026.com/platform/"},
+   "tech": {"score": 80, "evidence": "Seeks oversight of tech companies' data collection and AI deployment.", "source": "https://wewill2026.com/platform/"},
+   "education": {"score": 85, "evidence": "Wants public schools protected from corporate interests and more support for community colleges.", "source": "https://wewill2026.com/platform/"},
+   "faith": null
+  },
+  "photo": {"file": "File:William Lawrence 2026.jpg", "license": "CC0", "author": "Sabio117"},
+  "campaign_photo": "",
+  "notes": "Platform and scores were rebuilt from his current platform page, which does not mention data centers, Iran or stock trading as earlier drafts stated."
+ },
+ {
+  "id": "MI-8/kristen-mcdonald-rivet",
+  "name": "Kristen McDonald Rivet",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MI-8",
+  "bio": "Kristen McDonald Rivet has represented Michigan's 8th district in the U.S. House since January 2025, after serving in the Michigan Senate from 2023 to 2025 and on the Bay City Commission. She previously led Michigan Head Start, was a vice president at the Skillman Foundation and headed Greater Midlands Inc. She was born in Portland, Michigan.",
+  "website": "https://kristenmcdonaldrivet.com/",
+  "social": {"x": "https://x.com/repkmr", "facebook": "https://www.facebook.com/repmcdonaldrivet", "instagram": "https://www.instagram.com/repmcdonaldrivet"},
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower costs for groceries, prescriptions, gas and housing.", "source": "https://kristenmcdonaldrivet.com/priorities/"},
+   {"topic": "Health care", "point": "Make health care affordable and accessible.", "source": "https://kristenmcdonaldrivet.com/priorities/"},
+   {"topic": "Public safety", "point": "Support community safety efforts.", "source": "https://kristenmcdonaldrivet.com/priorities/"},
+   {"topic": "Bipartisanship", "point": "Work with both parties to pass legislation.", "source": "https://kristenmcdonaldrivet.com/priorities/"},
+   {"topic": "Government reform", "point": "Fix a political system she says does not serve constituents well.", "source": "https://kristenmcdonaldrivet.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "As a state senator expanded Michigan's Working Families Tax Credit; joined the centrist Promise to America initiative in 2026.", "source": "https://en.wikipedia.org/wiki/Kristen_McDonald_Rivet"},
+   "welfare": {"score": 70, "evidence": "Introduced a Child Care for All package in the Michigan Senate.", "source": "https://en.wikipedia.org/wiki/Kristen_McDonald_Rivet"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 55, "evidence": "Voted for the Laken Riley Act in 2025 with a minority of House Democrats.", "source": "https://en.wikipedia.org/wiki/Kristen_McDonald_Rivet"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Social links are her official House accounts; campaign account URLs were not readable on her site."
+ },
+ {
+  "id": "MI-8/tom-smith",
+  "name": "Tom Smith",
+  "party": "Republican",
+  "current_role": "Retired engineer and small-business owner",
+  "bio": "Thomas (Tom) Smith is a retired General Motors engineer who runs a small salsa business. He won the August 2026 Republican primary for Michigan's 8th district despite having suspended his campaign and endorsed another candidate in July.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Affordability", "point": "Says he will work with House Republican leaders on President Trump's agenda to lower costs for working families.", "source": "https://www.foxnews.com/politics/gop-dropout-candidate-puts-communist-opponent-notice-after-stunning-comeback-win"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "He said after the primary that he is running, but it is unclear whether he formally resumed his campaign; no campaign website or issue positions were found."
+ },
+ {
+  "id": "MI-9/lisa-mcclain",
+  "name": "Lisa McClain",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MI-9 and House Republican Conference Chair",
+  "bio": "Lisa McClain has served in the U.S. House since 2021, first for Michigan's 10th district and since 2023 for the 9th, and has chaired the House Republican Conference since 2025. Before Congress she worked at American Express and spent two decades at the Hantz Group. She was born in Stockbridge, Michigan, and holds a business degree from Northwood University.",
+  "website": "https://www.lisamcclainforcongress.com/",
+  "social": {"x": "https://x.com/LisaForCongress", "facebook": "https://www.facebook.com/lisamcclainforcongress", "instagram": "https://www.instagram.com/lisamcclainforcongress"},
+  "platform": [
+   {"topic": "Taxes", "point": "Promotes tax cuts for working families.", "source": "https://mcclain.house.gov/issues"},
+   {"topic": "Health care", "point": "Opposes Medicare for All and prioritizes fighting fraud and market-based drug pricing.", "source": "https://www.ontheissues.org/MI/Lisa_McClain.htm"},
+   {"topic": "Social Security", "point": "Open to examining investment options for younger workers.", "source": "https://www.ontheissues.org/MI/Lisa_McClain.htm"},
+   {"topic": "Immigration", "point": "Opposes a path to citizenship and supports immigration bans on non-cooperating countries.", "source": "https://www.ontheissues.org/MI/Lisa_McClain.htm"},
+   {"topic": "Gun rights", "point": "Presents herself as a gun owner defending constitutional rights.", "source": "https://www.lisamcclainforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Voted against the American Rescue Plan and the Inflation Reduction Act.", "source": "https://en.wikipedia.org/wiki/Lisa_McClain"},
+   "welfare": {"score": 20, "evidence": "Opposes Medicare for All and favors investment options for Social Security.", "source": "https://www.ontheissues.org/MI/Lisa_McClain.htm"},
+   "liberty": {"score": 50, "evidence": "Backs gun rights and voted against universal background checks, but voted against the Respect for Marriage Act.", "source": "https://en.wikipedia.org/wiki/Lisa_McClain"},
+   "security": {"score": 65, "evidence": "Opposed new police accountability rules in 2021 and favors stricter punishment to deter crime.", "source": "https://www.ontheissues.org/MI/Lisa_McClain.htm"},
+   "immigration": {"score": 85, "evidence": "Opposes a path to citizenship and supports immigration bans on non-cooperating countries.", "source": "https://www.ontheissues.org/MI/Lisa_McClain.htm"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MI-9/ray-pooley",
+  "name": "Ray Pooley",
+  "party": "Democratic",
+  "current_role": "CNC machinist and programmer",
+  "bio": "Ray Pooley is a CNC machinist and programmer from Michigan's 9th district. He is the Democratic nominee for the district in 2026.",
+  "website": "https://www.pooley4congress.com/",
+  "social": {"x": "https://x.com/pooley4congress", "facebook": "https://www.facebook.com/Pooley4Congress", "instagram": "https://www.instagram.com/pooley4congress", "tiktok": "https://www.tiktok.com/@pooley4congress", "youtube": "https://www.youtube.com/@pooley4congress"},
+  "platform": [
+   {"topic": "Wages and taxes", "point": "Make the wealthy pay more, cut taxes for working families, raise the minimum wage and cap CEO pay.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   {"topic": "Health care", "point": "Supports Medicare for All along with expanded childcare and parental leave.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   {"topic": "Manufacturing", "point": "Invest in trade schools, biofuels and domestic supply chains while protecting union organizing.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   {"topic": "Data centers", "point": "Heavily regulate data centers and reject projects that harm communities or rely on subsidies.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   {"topic": "Elections", "point": "Overturn Citizens United, end dark money and adopt public financing and ranked-choice voting.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   {"topic": "Guns", "point": "Supports background checks, age limits and restrictions for domestic abusers alongside Second Amendment rights.", "source": "https://www.pooley4congress.com/copy-of-the-issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Calls for higher taxes on the wealthy, a higher minimum wage and CEO pay caps.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All, expanded childcare and parental leave.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   "liberty": null,
+   "security": {"score": 25, "evidence": "Opposes expanding Flock license-plate surveillance.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   "immigration": {"score": 25, "evidence": "Backs faster citizenship pathways and an end to ICE harassment, alongside border security.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   "foreign": {"score": 35, "evidence": "Favors diplomacy over endless wars while keeping military deterrence.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   "energy": {"score": 80, "evidence": "Supports building U.S. solar, wind and renewable energy and holding polluters accountable.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   "tech": {"score": 70, "evidence": "Calls for heavy regulation of data centers.", "source": "https://www.pooley4congress.com/copy-of-the-issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/65ce28_34a19c47c07347e9b5371f26203bf5d1~mv2.png",
+  "notes": ""
+ },
+ {
+  "id": "MI-10/mike-bouchard-jr",
+  "name": "Mike Bouchard Jr.",
+  "party": "Republican",
+  "current_role": "Army National Guard captain",
+  "bio": "Mike Bouchard Jr. is an Army officer and Michigan State University ROTC graduate who served in the 82nd and 101st Airborne Divisions, with deployments to Iraq and the southern border. He later served as an operations officer in a Michigan Army National Guard infantry battalion. He is running for the open 10th district seat with President Trump's endorsement.",
+  "website": "https://www.bouchardforcongress.com/",
+  "social": {"x": "https://x.com/bouchardformi", "instagram": "https://www.instagram.com/bouchardformi"},
+  "platform": [
+   {"topic": "Border", "point": "Finish the border wall, restore Remain in Mexico, end catch-and-release and deport criminal immigrants.", "source": "https://www.bouchardforcongress.com/"},
+   {"topic": "Economy", "point": "Bring manufacturing home and reduce regulations on small businesses.", "source": "https://www.bouchardforcongress.com/"},
+   {"topic": "Education", "point": "Refocus schools on core subjects and pass a Parents' Bill of Rights.", "source": "https://www.bouchardforcongress.com/"},
+   {"topic": "Seniors", "point": "Protect Medicare and Social Security while cutting waste and fraud.", "source": "https://www.bouchardforcongress.com/"},
+   {"topic": "Health care", "point": "Favors individual choice and price transparency over government-run programs.", "source": "https://www.bouchardforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Supports cutting regulations on small businesses and protecting domestic manufacturing.", "source": "https://www.bouchardforcongress.com/"},
+   "welfare": {"score": 30, "evidence": "Prefers individual health-care choice over centralized government programs while pledging to protect Medicare and Social Security.", "source": "https://www.bouchardforcongress.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Calls for finishing the wall, Remain in Mexico, ending catch-and-release and removing criminal immigrants.", "source": "https://www.bouchardforcongress.com/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 15, "evidence": "Backs a Parents' Bill of Rights giving families more say in schools.", "source": "https://www.bouchardforcongress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Some sources list him as Michael Bouchard Jr.; confirm the exact ballot form."
+ },
+ {
+  "id": "MI-10/christina-hines",
+  "name": "Christina Hines",
+  "party": "Democratic",
+  "current_role": "Prosecutor",
+  "bio": "Christina Hines is a prosecutor who has handled sexual assault, child abuse, human trafficking and hate crime cases and started a restorative justice program. She grew up in Macomb County, attending Warren Woods schools, and graduated from the University of Michigan and Wayne State University Law School.",
+  "website": "https://www.christinahinesforcongress.com/",
+  "social": {"x": "https://x.com/cbhines586", "instagram": "https://www.instagram.com/christinahinesforcongress", "facebook": "https://www.facebook.com/christinahinesforcongress", "youtube": "https://www.youtube.com/@ChristinaHinesforCongress"},
+  "platform": [
+   {"topic": "Health care", "point": "Pursue universal, affordable health care and fight corporate price gouging.", "source": "https://christinahinesforcongress.substack.com/p/my-plan-to-fix-healthcare-lessons"},
+   {"topic": "Cost of living", "point": "Lower costs for groceries, childcare, housing and energy, raise the minimum wage and expand paid leave.", "source": "https://www.christinahinesforcongress.com/"},
+   {"topic": "Labor", "point": "Strengthen the NLRB and pass the PRO Act.", "source": "https://www.christinahinesforcongress.com/"},
+   {"topic": "Government reform", "point": "Reject corporate PAC money and ban congressional stock trading.", "source": "https://www.christinahinesforcongress.com/"},
+   {"topic": "Great Lakes", "point": "Protect Lake St. Clair and the Great Lakes.", "source": "https://christinahinesforcongress.substack.com/p/my-plan-to-protect-michigans-water"},
+   {"topic": "Kids and tech", "point": "Address social media harms to youth and set guardrails on AI.", "source": "https://www.christinahinesforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports a higher minimum wage, paid family leave and action against corporate price gouging.", "source": "https://www.christinahinesforcongress.com/"},
+   "welfare": {"score": 80, "evidence": "Has published a plan for universal health care.", "source": "https://christinahinesforcongress.substack.com/p/my-plan-to-fix-healthcare-lessons"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Calls for environmental protections for Lake St. Clair and the Great Lakes.", "source": "https://christinahinesforcongress.substack.com/p/my-plan-to-protect-michigans-water"},
+   "tech": {"score": 65, "evidence": "Calls for responsible AI guardrails and limits on social media harms to children.", "source": "https://www.christinahinesforcongress.com/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/67eda982ce97276b2a79e766/4ea81435-5cd4-49a6-a46c-ffedbae8574b/Christina+%2813+of+71%29.jpg",
+  "notes": "Earlier immigration (30) and faith (55) scores were cleared because no supporting statement could be found on her campaign site."
+ }
+]

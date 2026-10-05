@@ -1,0 +1,409 @@
+[
+ {
+  "id": "AZ-3/yassamin-ansari",
+  "name": "Yassamin Ansari",
+  "party": "Democratic",
+  "race": "AZ-3",
+  "race_label": "Arizona · US House AZ-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "A000381",
+   "official_name": "Yassamin Ansari",
+   "chamber": "House",
+   "official_site": "https://ansari.house.gov",
+   "official_social": {
+    "twitter": "RepYassAnsari",
+    "facebook": "RepYassAnsari",
+    "instagram": "RepYassAnsari"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": 10,
+    "foreign": 45,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Progressive; backs unions, climate action, LGBTQ rights (liberty), abolishing ICE; mixed Israel record, opposed Iran war.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yassamin_Ansari"
+   ],
+   "photo": {
+    "file": "File:Rep. Yassamin Ansari official photo, 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AZ-3/alan-aversa",
+  "name": "Alan Aversa",
+  "party": "No Labels",
+  "race": "AZ-3",
+  "race_label": "Arizona · US House AZ-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Arizona%27s_3rd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-3/david-redkey",
+  "name": "David Redkey",
+  "party": "Green",
+  "race": "AZ-3",
+  "race_label": "Arizona · US House AZ-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Arizona%27s_3rd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-4/greg-stanton",
+  "name": "Greg Stanton",
+  "party": "Democratic",
+  "race": "AZ-4",
+  "race_label": "Arizona · US House AZ-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001211",
+   "official_name": "Greg Stanton",
+   "chamber": "House",
+   "official_site": "https://stanton.house.gov",
+   "official_social": {
+    "twitter": "RepGregStanton",
+    "facebook": "repgregstanton",
+    "instagram": "repgregstanton"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports the Equality Act and opposed overturning Roe v. Wade; LGBTQ and abortion stances drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Greg_Stanton"
+   ],
+   "photo": {
+    "file": "File:Greg Stanton 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AZ-4/zuhdi-jasser",
+  "name": "Zuhdi Jasser",
+  "party": "Republican",
+  "race": "AZ-4",
+  "race_label": "Arizona · US House AZ-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": 70,
+    "foreign": 70,
+    "energy": null,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Backs spending and regulation cuts, more border agents, military readiness, 'funding students not systems'; supported See Something Say Something Act.",
+   "sources": [
+    "https://z4az.com/",
+    "https://en.wikipedia.org/wiki/Zuhdi_Jasser"
+   ],
+   "photo": {
+    "file": "File:M. Zuhdi Jasser by Gage Skidmore (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "AZ-4/tisha-benoit",
+  "name": "Tisha Benoit",
+  "party": "No Labels",
+  "race": "AZ-4",
+  "race_label": "Arizona · US House AZ-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Arizona%27s_4th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-5/mark-lamb",
+  "name": "Mark Lamb",
+  "party": "Republican",
+  "race": "AZ-5",
+  "race_label": "Arizona · US House AZ-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 75,
+    "security": 70,
+    "immigration": 90,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 85
+   },
+   "basis": "Runs on faith, family and guns; opposes drag shows (drove liberty); law-and-order sheriff; border security and FAIR advisor.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mark_Lamb_(sheriff)"
+   ],
+   "photo": {
+    "file": "File:Mark Lamb (55021585032) (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "AZ-5/elizabeth-lee",
+  "name": "Elizabeth Lee",
+  "party": "Democratic",
+  "race": "AZ-5",
+  "race_label": "Arizona · US House AZ-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-6/juan-ciscomani",
+  "name": "Juan Ciscomani",
+  "party": "Republican",
+  "race": "AZ-6",
+  "race_label": "Arizona · US House AZ-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001133",
+   "official_name": "Juan Ciscomani",
+   "chamber": "House",
+   "official_site": "https://ciscomani.house.gov",
+   "official_social": {
+    "twitter": "RepCiscomani",
+    "facebook": "100089186535085",
+    "instagram": "repjuanciscomani",
+    "youtube": "UCD329AYGX7YnMMSUaTKWHwA"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 50,
+    "liberty": 60,
+    "security": null,
+    "immigration": 55,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for One Big Beautiful Bill; opposes Medicaid cuts; backs 15-week abortion limit; border security plus openness to Dreamer protections; supports Israel.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Juan_Ciscomani"
+   ],
+   "photo": {
+    "file": "File:Rep. Juan Ciscomani official photo, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "AZ-6/joanna-mendoza",
+  "name": "JoAnna Mendoza",
+  "party": "Democratic",
+  "race": "AZ-6",
+  "race_label": "Arizona · US House AZ-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 50,
+    "foreign": 70,
+    "energy": 60,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Platform lists strong borders with immigration solutions, standing with allies, and climate, water and energy security.",
+   "sources": [
+    "https://www.joannamendoza.com/issues"
+   ],
+   "photo": {
+    "file": "File:JoAnna Mendoza, 2013.jpg",
+    "license": "Public domain",
+    "author": "Lance Cpl. Shaltiel Dominguez"
+   }
+  }
+ },
+ {
+  "id": "AZ-6/jereme-peters",
+  "name": "Jereme Peters",
+  "party": "Libertarian",
+  "race": "AZ-6",
+  "race_label": "Arizona · US House AZ-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Arizona%27s_6th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-6/gary-swing",
+  "name": "Gary Swing",
+  "party": "Green",
+  "race": "AZ-6",
+  "race_label": "Arizona · US House AZ-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Arizona%27s_6th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ }
+]

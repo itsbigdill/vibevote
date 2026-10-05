@@ -1,0 +1,405 @@
+[
+ {
+  "id": "FL-14/mike-beltran",
+  "name": "Mike Beltran",
+  "party": "Republican",
+  "race": "FL-14",
+  "race_label": "Florida · US House FL-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 60,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "State House record: fiscally conservative, sponsored abortion ban and open-carry amendment, minor vaping limits; endorsed by school-choice groups.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Beltran"
+   ],
+   "photo": {
+    "file": "File:Mike Beltran.jpg",
+    "license": "Public domain",
+    "author": "Florida House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "FL-14/brian-lambert",
+  "name": "Brian Lambert",
+  "party": "Libertarian",
+  "race": "FL-14",
+  "race_label": "Florida · US House FL-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-15/laurel-lee",
+  "name": "Laurel Lee",
+  "party": "Republican",
+  "race": "FL-15",
+  "race_label": "Florida · US House FL-15",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000597",
+   "official_name": "Laurel M. Lee",
+   "chamber": "House",
+   "official_site": "https://laurellee.house.gov",
+   "official_social": {
+    "twitter": "RepLaurelLee",
+    "facebook": "RepLaurelLee",
+    "instagram": "replaurellee"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 55,
+    "security": 85,
+    "immigration": 70,
+    "foreign": null,
+    "energy": 20,
+    "tech": 65,
+    "education": null,
+    "faith": 75
+   },
+   "basis": "Led FISA 702 reauthorization, DEFIANCE deepfake bill; lower taxes; abortion limits but gun rights; Mayorkas impeachment manager; pro-fracking; religious liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Laurel_Lee",
+    "https://www.ontheissues.org/FL/Laurel_Lee.htm"
+   ],
+   "photo": {
+    "file": "File:Laurel Lee 118thCong.jpeg",
+    "license": "Public domain",
+    "author": "Brian Thorpe, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "FL-15/robert-people",
+  "name": "Robert People",
+  "party": "Democratic",
+  "race": "FL-15",
+  "race_label": "Florida · US House FL-15",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Platform calls for strengthening health care, Social Security and energy-cost assistance, plus affordable housing.",
+   "sources": [
+    "https://www.suncoastnorml.org/post/robert-people-wins-democratic-primary-for-florida-s-15th-congressional-district-after-jumping-in-the"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-16/sydney-gruters",
+  "name": "Sydney Gruters",
+  "party": "Republican",
+  "race": "FL-16",
+  "race_label": "Florida · US House FL-16",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 80,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pledges to cut taxes and regulations, 'defend the unborn', and work with Trump and ICE on illegal immigration.",
+   "sources": [
+    "https://grutersforcongress.com/",
+    "https://floridapolitics.com/archives/802844-sydney-gruters-earns-faith-based-conservative-backing-in-cd-16-race/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-16/kelly-kirschner",
+  "name": "Kelly Kirschner",
+  "party": "Democratic",
+  "race": "FL-16",
+  "race_label": "Florida · US House FL-16",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 40,
+    "energy": 80,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Close corporate loopholes, restore Medicare and Medicaid cuts, drug price negotiation, ban offshore drilling, limit data centers, no blank checks abroad.",
+   "sources": [
+    "https://kellykirschner.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-16/mark-davis",
+  "name": "Mark Davis",
+  "party": "Independent",
+  "race": "FL-16",
+  "race_label": "Florida · US House FL-16",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-17/greg-steube",
+  "name": "Greg Steube",
+  "party": "Republican",
+  "race": "FL-17",
+  "race_label": "Florida · US House FL-17",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001214",
+   "official_name": "W. Gregory Steube",
+   "chamber": "House",
+   "official_site": "https://steube.house.gov",
+   "official_social": {
+    "twitter": "RepGregSteube",
+    "facebook": "RepGregSteube",
+    "instagram": "repgregsteube",
+    "youtube": "@RepGregSteube"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 65,
+    "security": 65,
+    "immigration": 90,
+    "foreign": 25,
+    "energy": 10,
+    "tech": null,
+    "education": 20,
+    "faith": 85
+   },
+   "basis": "Repeal ACA, oppose stimulus, pro-life, gun rights, trans sports ban, border wall, Ukraine aid moratorium, anti-climate regulation, vouchers, Judeo-Christian values.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Greg_Steube",
+    "https://www.ontheissues.org/FL/Greg_Steube.htm"
+   ],
+   "photo": {
+    "file": "File:Greg Steube 117th Congress.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "FL-17/matthew-montavon",
+  "name": "Matthew Montavon",
+  "party": "Democratic",
+  "race": "FL-17",
+  "race_label": "Florida · US House FL-17",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": 20,
+    "foreign": 35,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Prefers single-payer health care, protect SNAP and Medicaid, end tax breaks for wealthy, cut military spending, reform or abolish ICE.",
+   "sources": [
+    "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-17/michael-quirk",
+  "name": "Michael Quirk",
+  "party": "Independent",
+  "race": "FL-17",
+  "race_label": "Florida · US House FL-17",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-18/scott-franklin",
+  "name": "Scott Franklin",
+  "party": "Republican",
+  "race": "FL-18",
+  "race_label": "Florida · US House FL-18",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000472",
+   "official_name": "Scott Franklin",
+   "chamber": "House",
+   "official_site": "https://franklin.house.gov",
+   "official_social": {
+    "twitter": "RepFranklin",
+    "facebook": "RepFranklin",
+    "instagram": "RepFranklin",
+    "youtube": "@RepFranklin"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 30,
+    "liberty": 50,
+    "security": null,
+    "immigration": 85,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Lower taxes and spending, voted against PACT Act, pro-life but anti-gun control, supports border wall and immigration bans, backed Israel aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Scott_Franklin_(politician)",
+    "https://www.ontheissues.org/FL/Scott_Franklin.htm"
+   ],
+   "photo": {
+    "file": "File:Scott Franklin, 117th Congress portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "FL-18/curtis-gibson",
+  "name": "Curtis Gibson",
+  "party": "Democratic",
+  "race": "FL-18",
+  "race_label": "Florida · US House FL-18",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No concrete policy positions found in available sources.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+   ],
+   "photo": null
+  }
+ }
+]

@@ -1,0 +1,407 @@
+[
+ {
+  "id": "NE-3/becky-stille",
+  "name": "Becky Stille",
+  "party": "Democratic",
+  "race": "NE-3",
+  "race_label": "Nebraska · US House NE-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 70,
+    "liberty": 20,
+    "security": 55,
+    "immigration": 50,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Improved health care for all, abortion rights with Second Amendment support (liberty), backs police resources, secure but welcoming borders, public education.",
+   "sources": [
+    "https://www.beckystille2026.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-3/david-else",
+  "name": "David Else",
+  "party": "Legal Marijuana Now",
+  "race": "NE-3",
+  "race_label": "Nebraska · US House NE-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-3/macey-budke",
+  "name": "Macey Budke",
+  "party": "Nebraska Working People",
+  "race": "NE-3",
+  "race_label": "Nebraska · US House NE-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NE-3/mark-cohen",
+  "name": "Mark Cohen",
+  "party": "Independent",
+  "race": "NE-3",
+  "race_label": "Nebraska · US House NE-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NV-1/dina-titus",
+  "name": "Dina Titus",
+  "party": "Democratic",
+  "race": "NV-1",
+  "race_label": "Nevada · US House NV-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000468",
+   "official_name": "Dina Titus",
+   "chamber": "House",
+   "official_site": "https://titus.house.gov",
+   "official_social": {
+    "twitter": "RepDinaTitus",
+    "facebook": "CongresswomanTitus",
+    "youtube": "CongresswomanTitus",
+    "instagram": "dinatitusnv"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 85,
+    "liberty": 30,
+    "security": 60,
+    "immigration": 35,
+    "foreign": 60,
+    "energy": 75,
+    "tech": null,
+    "education": 90,
+    "faith": 25
+   },
+   "basis": "Medicare for All Caucus, abortion access and universal background checks (liberty), police-backed, citizenship path yet Laken Riley yes, Ukraine caucus, opposes vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dina_Titus",
+    "https://www.ontheissues.org/House/Dina_Titus.htm"
+   ],
+   "photo": {
+    "file": "File:Dina Titus official photo (cropped).jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "NV-1/carrie-buck",
+  "name": "Carrie Buck",
+  "party": "Republican",
+  "race": "NV-1",
+  "race_label": "Nevada · US House NV-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": 65,
+    "immigration": 70,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "No tax on tips, fully fund police, secure the border, charter school expansion and parental rights.",
+   "sources": [
+    "https://carriebuckforcongress.com/about/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NV-2/david-flippo",
+  "name": "David Flippo",
+  "party": "Republican",
+  "race": "NV-2",
+  "race_label": "Nevada · US House NV-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 20,
+    "security": 75,
+    "immigration": 90,
+    "foreign": 40,
+    "energy": 15,
+    "tech": null,
+    "education": 20,
+    "faith": 65
+   },
+   "basis": "Tax and regulation cuts, Second Amendment and free speech (liberty), tough sentencing, deport undocumented immigrants, America First alliances, school choice, religious liberty.",
+   "sources": [
+    "https://flippo4nv.com/issues/"
+   ],
+   "photo": {
+    "file": "File:David Flippo.png",
+    "license": "Public domain",
+    "author": "U.S. Department of Defense"
+   }
+  }
+ },
+ {
+  "id": "NV-2/teresa-benitez-thompson",
+  "name": "Teresa Benitez-Thompson",
+  "party": "Democratic",
+  "race": "NV-2",
+  "race_label": "Nevada · US House NV-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 15,
+    "security": null,
+    "immigration": 30,
+    "foreign": 40,
+    "energy": null,
+    "tech": 80,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Restore DOGE cuts, defend ACA, reproductive freedom (liberty), opposes family-separating raids, conditions Israel military aid, strong AI job-loss rules.",
+   "sources": [
+    "https://electteresa.com/policy/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NV-2/lynn-chapman",
+  "name": "Lynn Chapman",
+  "party": "Independent American",
+  "race": "NV-2",
+  "race_label": "Nevada · US House NV-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NV-3/susie-lee",
+  "name": "Susie Lee",
+  "party": "Democratic",
+  "race": "NV-3",
+  "race_label": "Nevada · US House NV-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000590",
+   "official_name": "Susie Lee",
+   "chamber": "House",
+   "official_site": "https://susielee.house.gov",
+   "official_social": {
+    "twitter": "RepSusieLee",
+    "facebook": "RepSusieLee",
+    "instagram": "repsusielee"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 65,
+    "liberty": 35,
+    "security": 35,
+    "immigration": 40,
+    "foreign": null,
+    "energy": 70,
+    "tech": 60,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Signed pro-capitalist pledge yet favors tax increases, defends ACA, pro-choice with assault weapons ban (liberty), citizenship path, renewables, opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/House/Susie_Lee.htm",
+    "https://en.wikipedia.org/wiki/Susie_Lee"
+   ],
+   "photo": {
+    "file": "File:Rep. Susie Lee 118th Portrait (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "NV-3/martin-o-donnell",
+  "name": "Martin O'Donnell",
+  "party": "Republican",
+  "race": "NV-3",
+  "race_label": "Nevada · US House NV-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 40,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Balanced budget and worker protections, strong border security, ending benefits for undocumented immigrants, safeguards for workers against AI disruption.",
+   "sources": [
+    "https://martyforcongress.vote/priorities/"
+   ],
+   "photo": {
+    "file": "File:Marty O'Donnell by Gage Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "NV-4/steven-horsford",
+  "name": "Steven Horsford",
+  "party": "Democratic",
+  "race": "NV-4",
+  "race_label": "Nevada · US House NV-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001066",
+   "official_name": "Steven Horsford",
+   "chamber": "House",
+   "official_site": "https://horsford.house.gov",
+   "official_social": {
+    "twitter": "RepHorsford",
+    "instagram": "rephorsford",
+    "youtube": "UCNEpy5bPXiyAavRzYnPlhDQ"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 85,
+    "liberty": 35,
+    "security": 25,
+    "immigration": 25,
+    "foreign": 40,
+    "energy": 70,
+    "tech": 60,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Higher taxes on wealthy, healthcare as a right, pro-choice with assault weapons ban (liberty), limits NSA bulk collection, citizenship path, voted to cut Israel aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Steven_Horsford",
+    "https://www.ontheissues.org/House/Steven_Horsford.htm"
+   ],
+   "photo": {
+    "file": "File:Steven Horsford 118th (cropped).jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ }
+]

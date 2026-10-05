@@ -1,0 +1,387 @@
+[
+ {
+  "id": "CO-7/brittany-pettersen",
+  "name": "Brittany Pettersen",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CO-7",
+  "bio": "Brittany Pettersen has represented Colorado's 7th congressional district since January 2023 and sits on the House Financial Services Committee. She previously served in the Colorado House of Representatives (2013-2019) and the Colorado State Senate (2019-2023). A Jefferson County native and Metropolitan State University of Denver graduate, she earlier worked for the civic engagement nonprofit New Era Colorado.",
+  "website": "https://brittanypettersen.com",
+  "social": {
+   "x": "https://x.com/reppettersen",
+   "instagram": "https://www.instagram.com/reppettersen",
+   "facebook": "https://www.facebook.com/repbrittanypettersen"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Repeal the 2017 tax cuts that benefited the wealthy and put the money into schools and infrastructure.", "source": "https://brittanypettersen.com/issues"},
+   {"topic": "Health care", "point": "Defend the Affordable Care Act and let Medicare negotiate drug prices while making medical billing more transparent.", "source": "https://brittanypettersen.com/issues"},
+   {"topic": "Energy and climate", "point": "Speed the shift to renewable energy, invest federally in the power grid, and pass climate legislation.", "source": "https://brittanypettersen.com/issues"},
+   {"topic": "Seniors", "point": "Protect Medicare from cuts and raise Social Security benefits to keep pace with living costs.", "source": "https://brittanypettersen.com/issues"},
+   {"topic": "Education", "point": "Increase funding for early childhood education and teacher pay, and reduce college costs and student debt.", "source": "https://brittanypettersen.com/issues"},
+   {"topic": "Reproductive rights", "point": "Write abortion rights into federal law and expand access to contraception.", "source": "https://brittanypettersen.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Calls for repealing the 2017 tax cuts for high earners and holding corporations accountable for price gouging.", "source": "https://brittanypettersen.com/issues"},
+   "welfare": {"score": 60, "evidence": "Supports defending the ACA, Medicare drug price negotiation, higher Social Security benefits and affordable childcare nationwide.", "source": "https://brittanypettersen.com/issues"},
+   "liberty": {"score": 20, "evidence": "Abortion: backs codifying abortion rights; drugs: supported harm-reduction measures; guns: sponsored Colorado's red flag law.", "source": "https://en.wikipedia.org/wiki/Brittany_Pettersen"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Advocates a rapid transition to renewable energy, grid investment and climate legislation.", "source": "https://brittanypettersen.com/issues"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Pledges more funding for public schools, early childhood education and teacher pay.", "source": "https://brittanypettersen.com/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign site social links could not be resolved, so official congressional accounts are listed."
+ },
+ {
+  "id": "CO-7/tim-bennett",
+  "name": "Tim Bennett",
+  "party": "Republican",
+  "current_role": "Retired U.S. Army veteran",
+  "bio": "Tim Bennett is a Republican candidate for Colorado's 7th congressional district and describes himself as a 32-year veteran of the U.S. Army. He was a school board candidate in 2025. He has not previously held elected office.",
+  "website": "https://timbennettforcongress.com",
+  "social": {
+   "x": "https://www.x.com/timbennettforco",
+   "instagram": "https://www.instagram.com/bennettforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61589905717019",
+   "youtube": "https://www.youtube.com/@TimBennettForCongress"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower living costs through responsible federal spending and cost-benefit review of regulations on small businesses.", "source": "https://timbennettforcongress.com/platform"},
+   {"topic": "Health care", "point": "Protect Medicare and Medicaid through cost controls, transparency and fraud prevention.", "source": "https://timbennettforcongress.com/platform"},
+   {"topic": "Immigration", "point": "Secure the border with orderly legal pathways, quick returns for unlawful entry and penalties for exploitative employers.", "source": "https://timbennettforcongress.com/platform"},
+   {"topic": "Energy", "point": "Expand oil, gas, nuclear and renewable production to keep energy affordable and reliable.", "source": "https://timbennettforcongress.com/platform"},
+   {"topic": "Foreign policy", "point": "Press NATO allies to meet defense commitments and tie foreign aid to clear U.S. interests.", "source": "https://timbennettforcongress.com/platform"},
+   {"topic": "Water and forests", "point": "Keep water decisions under local control and back active forest management for wildfire mitigation.", "source": "https://timbennettforcongress.com/platform"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Calls for spending restraint and scaling back regulations, while also backing fair-trade policies to revive domestic manufacturing.", "source": "https://timbennettforcongress.com/platform"},
+   "welfare": {"score": 40, "evidence": "Pledges to protect Medicare and Medicaid through cost controls and fraud prevention rather than expansion.", "source": "https://timbennettforcongress.com/platform"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 60, "evidence": "Supports border security and rapid returns for unlawful entrants alongside orderly legal pathways.", "source": "https://timbennettforcongress.com/platform"},
+   "foreign": {"score": 60, "evidence": "Supports NATO with allies meeting their defense commitments and accountable, interest-based foreign aid.", "source": "https://timbennettforcongress.com/platform"},
+   "energy": {"score": 30, "evidence": "Favors expanding oil and gas alongside nuclear and renewables for affordability.", "source": "https://timbennettforcongress.com/platform"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The earlier education score (25) was removed because the current platform page no longer mentions education or parental rights."
+ },
+ {
+  "id": "CO-7/susan-hall",
+  "name": "Susan Hall",
+  "party": "Unity",
+  "current_role": "Teacher and peace activist",
+  "bio": "Susan Hall is the Unity Party candidate for Colorado's 7th congressional district. She is described as a teacher and peace activist and was previously a congressional candidate in 2012 and 2024, when she ran in Colorado's 8th district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null,
+   "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The listed campaign domain susanhallforcongress.com currently redirects to a parking page, and no published platform was found."
+ },
+ {
+  "id": "CO-7/lawrence-kyle-clark",
+  "name": "Lawrence Kyle Clark",
+  "party": "American Constitution",
+  "current_role": "Businessman",
+  "bio": "Lawrence Kyle Clark is the American Constitution Party candidate for Colorado's 7th congressional district. He is described as a businessman.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null,
+   "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public policy statements were found."
+ },
+ {
+  "id": "CO-7/dan-sallis",
+  "name": "Dan \"Kilo\" Sallis",
+  "party": "Libertarian",
+  "current_role": "Businessman",
+  "bio": "Dan \"Kilo\" Sallis is the Libertarian Party candidate for Colorado's 7th congressional district. He is described as a businessman and was a candidate for governor of Colorado in 2010.",
+  "website": "https://dankilo.com",
+  "social": {},
+  "platform": [
+   {"topic": "Spending", "point": "Cut wasteful federal spending and shrink the federal bureaucracy within constitutional limits.", "source": "https://dankilo.com"},
+   {"topic": "Drug policy", "point": "End drug prohibition and handle substance use as a health matter.", "source": "https://dankilo.com"},
+   {"topic": "Foreign policy", "point": "Avoid foreign military interventions and favor free trade, focusing resources at home.", "source": "https://dankilo.com"},
+   {"topic": "Privacy", "point": "Oppose mass government surveillance programs.", "source": "https://dankilo.com"},
+   {"topic": "Education", "point": "Expand school choice and remove federal education mandates.", "source": "https://dankilo.com"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for reducing federal spending and limiting the size of government.", "source": "https://dankilo.com"},
+   "welfare": null,
+   "liberty": {"score": 10, "evidence": "Drugs: supports ending prohibition; guns: defends Second Amendment rights; broadly favors personal autonomy over government involvement.", "source": "https://dankilo.com"},
+   "security": {"score": 15, "evidence": "Opposes mass surveillance programs.", "source": "https://dankilo.com"},
+   "immigration": null,
+   "foreign": {"score": 15, "evidence": "Opposes military interventions abroad and prioritizes domestic needs.", "source": "https://dankilo.com"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supports school choice and opposes federal education mandates.", "source": "https://dankilo.com"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Name shown with nickname as on the Colorado certified candidate list. Campaign site gives little biographical detail."
+ },
+ {
+  "id": "CO-7/joe-krzeczkowski",
+  "name": "Joe Krzeczkowski",
+  "party": "Unaffiliated",
+  "current_role": "Technology executive and software engineer",
+  "bio": "Joe Krzeczkowski is an unaffiliated candidate for Colorado's 7th congressional district who qualified for the ballot by petition. Raised in Michigan and an engineering graduate of the University of Michigan, he has led software teams in Colorado and has run small businesses. He has lived in the district since 2018 and has been a community council leader in Lakewood.",
+  "website": "https://joeforco.com",
+  "social": {
+   "instagram": "https://www.instagram.com/joekrzeczkowski/",
+   "tiktok": "https://www.tiktok.com/@joekrzeczkowski"
+  },
+  "platform": [
+   {"topic": "Political reform", "point": "Limit corporate money in elections, enact term limits and prosecute corruption in either party.", "source": "https://joeforco.com/"},
+   {"topic": "Health care", "point": "Establish a single-payer health care system to lower costs for working families.", "source": "https://joeforco.com/values/"},
+   {"topic": "Energy", "point": "Build abundant clean domestic energy to lower prices and end reliance on foreign oil.", "source": "https://joeforco.com/values/"},
+   {"topic": "Artificial intelligence", "point": "Regulate AI quickly to protect personal data and limit synthetic content, without banning the technology.", "source": "https://joeforco.com/values/"},
+   {"topic": "Taxes", "point": "Have wealthy individuals and corporations pay more to balance budgets and avoid deficits.", "source": "https://joeforco.com/values/"},
+   {"topic": "Rights", "point": "Protect civil, women's, LGBTQ+ and voting rights and strengthen worker protections.", "source": "https://joeforco.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Wants wealthy individuals and corporations to pay more and rejects trickle-down economics.", "source": "https://joeforco.com/values/"},
+   "welfare": {"score": 90, "evidence": "Supports universal single-payer health care.", "source": "https://joeforco.com/values/"},
+   "liberty": {"score": 25, "evidence": "Abortion and LGBTQ rights: backs women's and LGBTQ+ rights and privacy in medical decisions; guns: supports ownership with added transparency rules.", "source": "https://joeforco.com/values/"},
+   "security": {"score": 30, "evidence": "Opposes government intrusion into people's homes and personal data.", "source": "https://joeforco.com/values/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Calls for funding clean-energy independence and expanding clean domestic energy.", "source": "https://joeforco.com/values/"},
+   "tech": {"score": 80, "evidence": "Calls for smart, rapid AI regulation protecting personal data and restricting artificial content.", "source": "https://joeforco.com/values/"},
+   "education": {"score": 65, "evidence": "Wants quality schooling regardless of zip code and higher, competitive teacher pay.", "source": "https://joeforco.com/values/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://i0.wp.com/joeforco.com/wp-content/uploads/2026/06/IMG_2048-e1775675674592-edited-1.jpeg?resize=1576%2C1976&ssl=1",
+  "notes": "Listed as Unaffiliated on the Colorado certified candidate list (Independent in some coverage). His site mentions secure borders without further detail, so immigration is left unscored."
+ },
+ {
+  "id": "CO-8/gabe-evans",
+  "name": "Gabe Evans",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CO-8",
+  "bio": "Gabe Evans has represented Colorado's 8th congressional district since January 2025 and previously served in the Colorado House of Representatives (2023-2025). He is a former U.S. Army officer and helicopter pilot in the National Guard and a former Arvada Police Department lieutenant. He was born in Aurora, Colorado.",
+  "website": "https://electgabeevans.com",
+  "social": {
+   "x": "https://x.com/GabeforColorado",
+   "facebook": "https://www.facebook.com/ElectGabeEvans/",
+   "instagram": "https://www.instagram.com/RepGabeEvans"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower costs for gas, groceries and utilities through spending restraint and lighter regulation.", "source": "https://electgabeevans.com/"},
+   {"topic": "Education", "point": "Expand school choice so parents can pick schools that fit their children's needs.", "source": "https://gabeevans.house.gov/issues"},
+   {"topic": "Energy", "point": "Support Colorado oil, gas, wind and solar production.", "source": "https://gabeevans.house.gov/issues"},
+   {"topic": "Immigration", "point": "Challenge sanctuary policies and target criminal organizations, while backing DACA protections and the DIGNIDAD Act.", "source": "https://en.wikipedia.org/wiki/Gabe_Evans"},
+   {"topic": "Public safety", "point": "Apply his law enforcement experience to public safety policy.", "source": "https://gabeevans.house.gov/issues"},
+   {"topic": "Seniors and health care", "point": "Preserve Social Security and keep coverage for pre-existing conditions.", "source": "https://gabeevans.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Prioritizes cutting spending and regulatory burdens to lower costs.", "source": "https://electgabeevans.com/"},
+   "welfare": {"score": 25, "evidence": "Emphasizes preserving existing Social Security and pre-existing-condition coverage rather than expanding programs.", "source": "https://gabeevans.house.gov/issues"},
+   "liberty": {"score": 50, "evidence": "Abortion: personally backs bans with exceptions but leaves it to states; guns and speech: pledges to protect Second Amendment and free speech rights.", "source": "https://en.wikipedia.org/wiki/Gabe_Evans"},
+   "security": {"score": 70, "evidence": "Former police lieutenant who centers public safety policy on his law enforcement experience.", "source": "https://gabeevans.house.gov/issues"},
+   "immigration": {"score": 50, "evidence": "Opposes sanctuary policies but supports DACA protections and cosponsored the DIGNIDAD Act pairing legal status with enforcement.", "source": "https://en.wikipedia.org/wiki/Gabe_Evans"},
+   "foreign": null,
+   "energy": {"score": 35, "evidence": "Supports an all-of-the-above mix of oil, gas, wind and solar production in Colorado.", "source": "https://gabeevans.house.gov/issues"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Advocates school choice and parental rights in education.", "source": "https://gabeevans.house.gov/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/69b2ed88dfdccb578f1c5b75/99a4a9d5-5284-4b8e-855c-833336736ab00/GE+-+Site.jpg",
+  "notes": "Energy score newly added from his official issues page."
+ },
+ {
+  "id": "CO-8/manny-rutinel",
+  "name": "Manny Rutinel",
+  "party": "Democratic",
+  "current_role": "Former Colorado state representative",
+  "bio": "Manny Rutinel represented District 32 in the Colorado House of Representatives from 2023 to 2026. An attorney and economist, he worked for the U.S. Army Corps of Engineers and Earthjustice and has led the nonprofit Climate Refarm since 2021. Born in Los Angeles, he spent early childhood in the Dominican Republic and grew up in California and Florida before earning a law degree from Yale.",
+  "website": "https://mannyforcolorado.com",
+  "social": {
+   "x": "https://x.com/MannyRutinel",
+   "instagram": "https://www.instagram.com/mannyrutinel",
+   "facebook": "https://www.facebook.com/mannyforcolorado"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Expand tax credits for working families and have the wealthiest pay more.", "source": "https://mannyforcolorado.com/issues"},
+   {"topic": "Health care", "point": "Widen Medicare drug price negotiation and cap insulin at $35 a month.", "source": "https://mannyforcolorado.com/issues"},
+   {"topic": "Jobs", "point": "Raise the federal minimum wage and support unions and paid family leave.", "source": "https://mannyforcolorado.com/issues"},
+   {"topic": "Artificial intelligence", "point": "Require AI safety reviews, transparency and whistleblower protections.", "source": "https://mannyforcolorado.com/issues"},
+   {"topic": "Immigration", "point": "Create a path to citizenship for long-term residents and Dreamers and focus enforcement on violent criminals.", "source": "https://mannyforcolorado.com/issues"},
+   {"topic": "Ethics", "point": "Ban congressional stock trading and work to overturn Citizens United.", "source": "https://mannyforcolorado.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Backs higher taxes on billionaires, closing corporate loopholes and a higher minimum wage.", "source": "https://mannyforcolorado.com/issues"},
+   "welfare": {"score": 65, "evidence": "Supports expanding Medicare drug negotiation, an insulin cap, paid family leave and protecting Social Security.", "source": "https://mannyforcolorado.com/issues"},
+   "liberty": {"score": 35, "evidence": "Abortion: supports access free from government interference; LGBTQ: backs marriage equality; guns: cosponsored limits on semiautomatic weapons.", "source": "https://mannyforcolorado.com/issues"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Supports a path to citizenship and opposes current ICE enforcement practices.", "source": "https://mannyforcolorado.com/issues"},
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Calls for cracking down on polluters and supporting the renewable energy transition.", "source": "https://mannyforcolorado.com/issues"},
+   "tech": {"score": 75, "evidence": "Wants AI companies held accountable through safety reviews and transparency rules.", "source": "https://mannyforcolorado.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Manny Rutinel at 2024 YIMBY Denver Legislative Kickoff (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Andy Bosselman"},
+  "campaign_photo": "",
+  "notes": "Energy score newly added from his campaign issues page."
+ },
+ {
+  "id": "CO-8/dave-wood",
+  "name": "Dave Wood",
+  "party": "Libertarian",
+  "current_role": "Retired businessman",
+  "bio": "Dave Wood of Westminster is the Libertarian Party candidate for Colorado's 8th congressional district. He worked in retail management and TV repair, ran an antenna installation business, and spent 28 years at an internet marketing company before retiring in 2018. A longtime Libertarian activist, he ran for the Colorado House in 2000.",
+  "website": "https://davewood4colorado.com",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Let people keep more of their income and decide how it is spent.", "source": "https://davewood4colorado.com/"},
+   {"topic": "Medicare", "point": "Means-test Medicare so high-income recipients cover their own costs.", "source": "https://davewood4colorado.com/"},
+   {"topic": "Military draft", "point": "Oppose conscription and preserve the right to refuse military service.", "source": "https://davewood4colorado.com/dave-wood-bio/"},
+   {"topic": "Limited government", "point": "Reduce government and oppose foreign wars under libertarian principles.", "source": "https://davewood4colorado.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Advocates lower taxes so people keep more of their income.", "source": "https://davewood4colorado.com/"},
+   "welfare": {"score": 20, "evidence": "Proposes means-testing Medicare for high earners.", "source": "https://davewood4colorado.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 20, "evidence": "Campaigns against foreign wars and opposes a military draft.", "source": "https://davewood4colorado.com/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://davewood4colorado.com/wp-content/uploads/2026/07/cottonwood-dave-900-534.jpg",
+  "notes": "Campaign photo is a landscape image of the candidate rather than a formal headshot."
+ },
+ {
+  "id": "CT-1/luke-bronin",
+  "name": "Luke Bronin",
+  "party": "Democratic",
+  "current_role": "Former Mayor of Hartford",
+  "bio": "Luke Bronin was mayor of Hartford, Connecticut, from 2016 to 2024 and won the August 2026 Democratic primary for Connecticut's 1st district over incumbent John Larson. He previously served as general counsel to Governor Dannel Malloy and as a Treasury Department official in the Obama administration, and was a Navy Reserve officer deployed to Afghanistan. Born in Westchester County, New York, he is a Rhodes Scholar and Yale Law School graduate.",
+  "website": "https://www.broninforcongress.com",
+  "social": {
+   "x": "https://x.com/lukebronin",
+   "instagram": "https://instagram.com/lukebronin",
+   "facebook": "https://facebook.com/luke.bronin",
+   "tiktok": "https://tiktok.com/@lukebronin",
+   "youtube": "https://www.youtube.com/@LukeBroninForCongress"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Build a progressive, simpler tax code that closes loopholes and makes the wealthy and corporations pay more.", "source": "https://www.broninforcongress.com/issues"},
+   {"topic": "Health care", "point": "Protect Medicare and Medicaid, negotiate drug prices and move toward universal affordable coverage.", "source": "https://www.broninforcongress.com/issues"},
+   {"topic": "Artificial intelligence", "point": "Ensure AI gains reach workers and shield children from addictive algorithms.", "source": "https://www.broninforcongress.com/issues"},
+   {"topic": "Climate", "point": "Act on climate change by moving away from fossil fuels and addressing data center energy demand.", "source": "https://www.broninforcongress.com/issues"},
+   {"topic": "Immigration", "point": "Abolish ICE, end current enforcement tactics and overhaul the immigration system.", "source": "https://www.broninforcongress.com/issues"},
+   {"topic": "Gun safety", "point": "Pass universal background checks, an assault weapons ban, safe storage and red-flag laws.", "source": "https://www.broninforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Calls for a progressive tax code with the wealthy and corporations paying more.", "source": "https://www.broninforcongress.com/issues"},
+   "welfare": {"score": 80, "evidence": "Supports advancing universal, affordable health coverage.", "source": "https://www.broninforcongress.com/issues"},
+   "liberty": {"score": 40, "evidence": "Abortion: backs federal protection of abortion access; guns: supports an assault weapons ban and red-flag laws.", "source": "https://www.broninforcongress.com/issues"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Proposes abolishing ICE and ending current enforcement practices.", "source": "https://www.broninforcongress.com/issues"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Treats climate change as an urgent threat requiring a move away from fossil fuels.", "source": "https://www.broninforcongress.com/issues"},
+   "tech": {"score": 70, "evidence": "Wants rules protecting children from addictive algorithms and ensuring AI benefits workers.", "source": "https://www.broninforcongress.com/issues"},
+   "education": {"score": 70, "evidence": "Supports expanding public education from early childhood through affordable college and trade pathways.", "source": "https://www.broninforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": {"file": "File:Luke Bronin (42831415392).jpg", "license": "CC BY 2.0", "author": "Dannel Malloy"},
+  "campaign_photo": "https://run.imgix.net/14d84d79-60f4-48a6-8537-8ed9721f92d3/fdabd80e-4f26-43c9-baf1-0ee61eb3f032/fdabd80e-4f26-43c9-baf1-0ee61eb3f032.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CT-1/amy-chai",
+  "name": "Amy Chai",
+  "party": "Republican",
+  "current_role": "Physician",
+  "bio": "Amy Chai is a physician specializing in internal medicine and addiction medicine and the Republican nominee for Connecticut's 1st district. She previously identified as an independent before running as a Republican. Her campaign centers on mental health, addiction prevention and reducing political polarization.",
+  "website": "https://www.chaiforcongress.com",
+  "social": {
+   "x": "https://x.com/docchai2022",
+   "facebook": "https://www.facebook.com/chai.for.congress.ct.1",
+   "tiktok": "https://www.tiktok.com/@doc.chai7"
+  },
+  "platform": [
+   {"topic": "Mental health", "point": "Invest in addiction and mental illness prevention as an alternative to medication and incarceration.", "source": "https://www.chaiforcongress.com/issues"},
+   {"topic": "Transparency", "point": "Pass bills requiring public review of legislation before votes and accountability for federal spending.", "source": "https://www.chaiforcongress.com"},
+   {"topic": "Taxes", "point": "Cut spending, cap property taxes, end self-employment taxes and shift tax burden toward the financial industry.", "source": "https://www.chaiforcongress.com/issues"},
+   {"topic": "Education", "point": "Focus schools on reading and math and strengthen parental oversight of curriculum.", "source": "https://www.chaiforcongress.com/issues"},
+   {"topic": "Health care", "point": "Lower costs and emphasize disease prevention over profit-driven treatment.", "source": "https://www.chaiforcongress.com/issues"},
+   {"topic": "Foreign policy", "point": "Put domestic interests first, secure the border and avoid regime-change operations.", "source": "https://www.chaiforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "Favors lower spending and taxes on wage earners while shifting tax burden onto the financial industry.", "source": "https://www.chaiforcongress.com/issues"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 30, "evidence": "Prioritizes domestic interests and opposes regime-change operations abroad.", "source": "https://www.chaiforcongress.com/issues"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 30, "evidence": "Emphasizes parental rights and curriculum transparency in schools.", "source": "https://www.chaiforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her site mentions secure borders without detail, so immigration is left unscored."
+ },
+ {
+  "id": "CT-2/joe-courtney",
+  "name": "Joe Courtney",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CT-2",
+  "bio": "Joe Courtney has represented Connecticut's 2nd congressional district since 2007 and is known for his work on submarine funding and the AUKUS partnership. He previously served in the Connecticut House of Representatives (1987-1995) and as Vernon town attorney. Born in West Hartford, he graduated from Tufts University and the University of Connecticut School of Law.",
+  "website": "https://www.joecourtney.com",
+  "social": {
+   "x": "https://x.com/joecourtneyct",
+   "instagram": "https://www.instagram.com/joecourtneyct",
+   "facebook": "https://www.facebook.com/CourtneyforCongress",
+   "youtube": "https://www.youtube.com/repcourtney"
+  },
+  "platform": [
+   {"topic": "Defense", "point": "Secure funding for submarine construction and advance the AUKUS partnership with the UK and Australia.", "source": "https://courtney.house.gov/issues"},
+   {"topic": "Health care", "point": "Lower prescription drug costs through Medicare negotiation and expand a Medicare buy-in.", "source": "https://courtney.house.gov/issues"},
+   {"topic": "Seniors", "point": "Protect retirement benefits and security for older residents.", "source": "https://courtney.house.gov/issues"},
+   {"topic": "Infrastructure", "point": "Invest in roads, bridges and transit, and provide relief for homes with crumbling foundations.", "source": "https://courtney.house.gov/issues"},
+   {"topic": "Workplace safety", "point": "Pass workplace violence prevention legislation.", "source": "https://courtney.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Backs Medicare drug price negotiation and federal infrastructure investment.", "source": "https://en.wikipedia.org/wiki/Joe_Courtney_(politician)"},
+   "welfare": {"score": 65, "evidence": "Supports a Medicare buy-in expansion and lower drug costs for all Americans.", "source": "https://courtney.house.gov/issues"},
+   "liberty": {"score": 45, "evidence": "Abortion: voted to codify Roe v. Wade; guns: joined the 2016 House sit-in for stricter gun laws.", "source": "https://en.wikipedia.org/wiki/Joe_Courtney_(politician)"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Opposed the Trump administration travel ban.", "source": "https://en.wikipedia.org/wiki/Joe_Courtney_(politician)"},
+   "foreign": {"score": 80, "evidence": "Leads on AUKUS, supports military funding and aid to Israel, and opposed troop withdrawal from Syria.", "source": "https://en.wikipedia.org/wiki/Joe_Courtney_(politician)"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://joecourtney.com/wp-content/uploads/2022/06/Courtney-Web-Site.jpg",
+  "notes": ""
+ }
+]

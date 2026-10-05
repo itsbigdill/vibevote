@@ -1,0 +1,396 @@
+[
+ {
+  "id": "DC-DEL/kymone-freeman",
+  "name": "Kymone Freeman",
+  "party": "DC Statehood Green",
+  "race": "DC-DEL",
+  "race_label": "District of Columbia · US House DC-DEL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Radio host; campaign slogan \"No Representation, No Taxes\" only; no mappable stances found.",
+   "sources": [
+    "https://freeman4congress.com/",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_the_District_of_Columbia"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-1/jimmy-patronis",
+  "name": "Jimmy Patronis",
+  "party": "Republican",
+  "race": "FL-1",
+  "race_label": "Florida · US House FL-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000622",
+   "official_name": "Jimmy Patronis",
+   "chamber": "House",
+   "official_site": "https://patronis.house.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for the 2025 One Big Beautiful Bill Act with its tax cuts and Medicaid work requirements.",
+   "sources": [
+    "https://clerk.house.gov/evs/2025/roll190.xml"
+   ],
+   "photo": {
+    "file": "File:Jimmy Patronis, official portrait (119th Congress) (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "FL-1/gay-valimont",
+  "name": "Gay Valimont",
+  "party": "Democratic",
+  "race": "FL-1",
+  "race_label": "Florida · US House FL-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 85,
+    "liberty": 70,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Backs universal affordable healthcare, fighting price gouging, background checks and red-flag laws (liberty from guns), Dreamer citizenship, teacher pay.",
+   "sources": [
+    "https://www.gayforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-1/tyler-davis",
+  "name": "Tyler Davis",
+  "party": "Independent",
+  "race": "FL-1",
+  "race_label": "Florida · US House FL-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-2/austin-rogers",
+  "name": "Austin Rogers",
+  "party": "Republican",
+  "race": "FL-2",
+  "race_label": "Florida · US House FL-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign pledges to secure the border under an America First agenda; few other stated positions.",
+   "sources": [
+    "https://rogersforflorida.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-2/amanda-green",
+  "name": "Amanda Green",
+  "party": "Democratic",
+  "race": "FL-2",
+  "race_label": "Florida · US House FL-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign site lists only a congressional stock-trading ban, term limits and no billionaire donors.",
+   "sources": [
+    "https://www.amgforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-3/kat-cammack",
+  "name": "Kat Cammack",
+  "party": "Republican",
+  "race": "FL-3",
+  "race_label": "Florida · US House FL-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001039",
+   "official_name": "Kat Cammack",
+   "chamber": "House",
+   "official_site": "https://cammack.house.gov",
+   "official_social": {
+    "twitter": "RepKatCammack",
+    "facebook": "RepKatCammack",
+    "instagram": "repkatcammack"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 60,
+    "security": null,
+    "immigration": 85,
+    "foreign": 50,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Voted for 2025 tax bill and Laken Riley Act; backs border wall, more oil; opposes abortion and gun checks (liberty); mixed Ukraine/Syria votes.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kat_Cammack",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2025/roll023.xml"
+   ],
+   "photo": {
+    "file": "File:Rep. Kat Cammack official photo, 117th Congress (3x4 cropped).jpg",
+    "license": "Public domain",
+    "author": "Office of Congresswoman Kat Cammack"
+   }
+  }
+ },
+ {
+  "id": "FL-3/seth-harp",
+  "name": "Seth Harp",
+  "party": "Democratic",
+  "race": "FL-3",
+  "race_label": "Florida · US House FL-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 85,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Proposes 26% corporate tax, CEO pay cap, higher payroll tax cap, guaranteed affordable healthcare, universal school lunch and child care subsidies.",
+   "sources": [
+    "https://www.sethharpforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-3/mike-klein",
+  "name": "Mike Klein",
+  "party": "Independent",
+  "race": "FL-3",
+  "race_label": "Florida · US House FL-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-4/aaron-bean",
+  "name": "Aaron Bean",
+  "party": "Republican",
+  "race": "FL-4",
+  "race_label": "Florida · US House FL-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001314",
+   "official_name": "Aaron Bean",
+   "chamber": "House",
+   "official_site": "https://bean.house.gov",
+   "official_social": {
+    "twitter": "RepAaronBean",
+    "facebook": "100089355874563",
+    "instagram": "RepAaronBean"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": 75,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 tax bill with Medicaid changes and Laken Riley Act; backed Israel aid and the 2026 Iran war.",
+   "sources": [
+    "https://bean.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Aaron_Bean",
+    "https://clerk.house.gov/evs/2025/roll023.xml"
+   ],
+   "photo": {
+    "file": "File:Rep. Aaron Bean official photo, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "FL-4/lashonda-holloway",
+  "name": "LaShonda Holloway",
+  "party": "Democratic",
+  "race": "FL-4",
+  "race_label": "Florida · US House FL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Calls healthcare a basic right regardless of income; supports investing in education and lowering college costs.",
+   "sources": [
+    "https://www.hollowayforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-4/mike-sell",
+  "name": "Mike Sell",
+  "party": "Forward",
+  "race": "FL-4",
+  "race_label": "Florida · US House FL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ }
+]

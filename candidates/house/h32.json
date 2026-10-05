@@ -1,0 +1,737 @@
+[
+  {
+    "state": "Oregon",
+    "district": "OR-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Suzanne Bonamici",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 90,
+          "liberty": 20,
+          "security": 30,
+          "immigration": 20,
+          "foreign": 60,
+          "energy": 85,
+          "tech": null,
+          "education": 85,
+          "faith": 20
+        },
+        "basis": "Backs Medicare for All, ending top-bracket tax cuts, gun background checks, police accountability, humane immigration reform, Ukraine/Israel/Taiwan aid, climate action; Freethought Caucus.",
+        "sources": [
+          "https://www.ontheissues.org/House/Suzanne_Bonamici.htm",
+          "https://bonamici.house.gov/issues/health-care",
+          "https://en.wikipedia.org/wiki/Suzanne_Bonamici"
+        ],
+        "photo": {
+          "file": "File:Suzanne Bonamici.jpg",
+          "license": "Public domain",
+          "author": "U.S. Congress"
+        }
+      },
+      {
+        "name": "Barbara Kahl",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 35,
+          "welfare": null,
+          "liberty": null,
+          "security": 55,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "Campaign platform backs federal school choice with funding following the student, cutting red tape for small business, and funding local law enforcement.",
+        "sources": [
+          "https://drkahlforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "district": "OR-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Cliff Bentz",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 20,
+          "liberty": 70,
+          "security": 65,
+          "immigration": 65,
+          "foreign": 45,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for One Big Beautiful Bill and Laken Riley Act; opposes government-run healthcare, most abortion, private-sale background checks (liberty drivers); mixed Ukraine votes.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Cliff_Bentz",
+          "https://www.ontheissues.org/House/Cliff_Bentz.htm",
+          "https://www.opb.org/article/2025/08/26/oregon-congressman-cliff-bentz-defends-vote-big-beautiful-bill/"
+        ],
+        "photo": {
+          "file": "File:Cliff Bentz 117th U.S Congress (cropped) (centered).jpg",
+          "license": "Public domain",
+          "author": "House Creative Committee"
+        }
+      },
+      {
+        "name": "Chris Beck",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 75,
+          "liberty": null,
+          "security": null,
+          "immigration": 35,
+          "foreign": 30,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants HR-1 Medicaid cuts repealed, a public care option, fewer luxury-home tax breaks, legal farm immigration, and an end to the Iran war.",
+        "sources": [
+          "https://chrisbeckforcongress.com/district2issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "district": "OR-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Maxine Dexter",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 95,
+          "liberty": 15,
+          "security": null,
+          "immigration": 5,
+          "foreign": 35,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports single-payer healthcare, abortion rights, LGBTQ equality, stricter gun control, dismantling ICE, conditioning Israel aid, and cutting greenhouse emissions.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Maxine_Dexter",
+          "https://dexter.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:Dexter Maxine 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Loran Ayles",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions were found for this candidate.",
+        "sources": [
+          "https://vote-usa.org/intro.aspx?state=or&id=oraylesloran"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "district": "OR-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Val Hoyle",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 90,
+          "liberty": 25,
+          "security": 30,
+          "immigration": 15,
+          "foreign": 40,
+          "energy": 90,
+          "tech": null,
+          "education": null,
+          "faith": 20
+        },
+        "basis": "Supports Medicare for All, gun background checks, 100% clean electricity and halting federal fossil leasing; opposed ICE/CBP funding increase; limits on Israel arms; Freethought Caucus.",
+        "sources": [
+          "https://www.valhoyle.com/issues/",
+          "https://en.wikipedia.org/wiki/Val_Hoyle",
+          "https://www.ontheissues.org/House/Val_Hoyle.htm"
+        ],
+        "photo": {
+          "file": "File:Rep. Val Hoyle portrait, 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Monique DeSpain",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 60,
+          "immigration": 60,
+          "foreign": 60,
+          "energy": 30,
+          "tech": null,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "Platform: lower taxes and regulation, back police, secure border with legal path for long-settled residents, peace through strength, all-of-the-above energy, parents' bill of rights.",
+        "sources": [
+          "https://moniqueforcongress.com/issues/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Justin Filip",
+        "party": "Pacific Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+          "https://ballotpedia.org/Oregon's_4th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "district": "OR-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Janelle Bynum",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": 60,
+          "liberty": 25,
+          "security": null,
+          "immigration": 45,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Sponsored Oregon CHIPS Act, backs expanded affordable healthcare and abortion rights, voted for Laken Riley Act while opposing Trump deportation tactics.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Janelle_Bynum",
+          "https://www.koin.com/news/politics/congresswoman-janelle-bynum-questioned-at-town-hall-after-thank-ice-vote/"
+        ],
+        "photo": {
+          "file": "File:Janelle Bynum, official portrait (119th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Patti Adair",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": 80,
+          "security": 60,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Says taxes are too high, wants tip and overtime tax cuts extended, backs police; liberty driven by support for protecting life from conception.",
+        "sources": [
+          "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/",
+          "https://www.pattiforcongress.com/priorities"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Andrea Townsend",
+        "party": "Pacific Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Oregon",
+          "https://ballotpedia.org/Oregon's_5th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Oregon",
+    "district": "OR-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Andrea Salinas",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 70,
+          "liberty": 20,
+          "security": 25,
+          "immigration": 25,
+          "foreign": null,
+          "energy": 75,
+          "tech": null,
+          "education": null,
+          "faith": 20
+        },
+        "basis": "Backs codifying abortion rights, interstate marijuana trade, chokehold ban, ICE liability bill, certainty for immigrants, mental-health funding, climate action; Freethought Caucus.",
+        "sources": [
+          "https://www.andreasalinasfororegon.com/issues/",
+          "https://salinas.house.gov/issues/reproductive-freedom",
+          "https://www.ontheissues.org/House/Andrea_Salinas.htm"
+        ],
+        "photo": {
+          "file": "File:Andrea Salinas, Official Portrait, 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "US House of Representatives"
+        }
+      },
+      {
+        "name": "David Russ",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": 65,
+          "security": null,
+          "immigration": 95,
+          "foreign": 25,
+          "energy": 20,
+          "tech": null,
+          "education": 10,
+          "faith": 70
+        },
+        "basis": "Wants border wall and near-zero immigration, smaller government, school choice and no Education Department; rejects climate threat; backs religious exemptions. Liberty driven by abortion funding.",
+        "sources": [
+          "https://www.russisforus.com/",
+          "https://ivoterguide.com/candidate/59448/race/13079/election/1105?culture=en-us"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brian Fitzpatrick",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 45,
+          "welfare": 55,
+          "liberty": 35,
+          "security": null,
+          "immigration": 40,
+          "foreign": 80,
+          "energy": 70,
+          "tech": 60,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted against final One Big Beautiful Bill over SNAP/Medicaid cuts, backs ACA subsidy extension, assault-weapons ban, same-sex marriage, Ukraine aid, climate action, antitrust package.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"
+        ],
+        "photo": {
+          "file": "File:Brian Fitzpatrick official congressional photo.jpg",
+          "license": "Public domain",
+          "author": "Kristie Boyd; U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Bob Harvie",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 80,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants ultra-wealthy taxed more, $15 minimum wage, Medicare at 55, expanded ACA credits, clean energy investment, ban on AI price manipulation, data center moratorium.",
+        "sources": [
+          "https://bobharvieforcongress.com/priorities/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brendan Boyle",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 65,
+          "liberty": 25,
+          "security": null,
+          "immigration": 50,
+          "foreign": 85,
+          "energy": 80,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Backs ACA credits, abortion rights, assault-weapons limits, Ukraine/Israel/Taiwan aid, 100% clean energy by 2035, tuition-free college; voted for Laken Riley Act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brendan_Boyle",
+          "https://ballotpedia.org/Brendan_Boyle"
+        ],
+        "photo": {
+          "file": "File:Congressman-brendan-f-boyle-official-photo.jpg",
+          "license": "Public domain",
+          "author": "Eric Connolly, U.S. House Office of Photography/House Creative Services"
+        }
+      },
+      {
+        "name": "Jessica Arriaga",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions were found beyond general themes on costs and safety.",
+        "sources": [
+          "https://jessforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Chris Rabb",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 90,
+          "welfare": 100,
+          "liberty": 15,
+          "security": null,
+          "immigration": 5,
+          "foreign": 20,
+          "energy": 95,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Platform calls for Medicare for All and universal guarantees, Green New Deal, legal cannabis, abolishing ICE, ending Israel funding, curbing corporate media consolidation.",
+        "sources": [
+          "https://www.chrisrabb.com/platform",
+          "https://www.jta.org/2026/05/19/politics/with-aoc-backing-and-anti-israel-message-chris-rabb-vies-for-open-house-seat-in-philadelphia"
+        ],
+        "photo": {
+          "file": "File:Rep. Chris Rabb speaks at a fundraiser.jpg",
+          "license": "CC0",
+          "author": "Yolanda Cheers"
+        }
+      },
+      {
+        "name": "Dennis Mahoney",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign backs expanding the Child Tax Credit, gradual benefit phase-outs, protecting food assistance, and cheaper childcare.",
+        "sources": [
+          "https://mahoneyforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Madeleine Dean",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 70,
+          "liberty": 20,
+          "security": null,
+          "immigration": 25,
+          "foreign": 40,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs permanent ACA subsidies, Medicare expansion, gun violence prevention (liberty driver), clean energy; opposed added ICE funding; voted to end Israel military aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Madeleine_Dean",
+          "https://dean.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:Madeleine Dean Official Portrait 116th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography/House Creative Services"
+        }
+      },
+      {
+        "name": "Aurora Stuski",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 70,
+          "foreign": null,
+          "energy": null,
+          "tech": 60,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign pledges to fight inflationary spending, back police and prosecute violent crime, enforce immigration law, and protect children from AI harms.",
+        "sources": [
+          "https://aurora4pa.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mary Gay Scanlon",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 75,
+          "liberty": 15,
+          "security": 20,
+          "immigration": 20,
+          "foreign": 40,
+          "energy": null,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Backs universal pre-K, public education, abortion rights and gun control, pathway to citizenship; opposed warrantless ICE raids; voted for Syria and Somalia troop withdrawals.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mary_Gay_Scanlon",
+          "https://ontheissues.org/PA/Mary_Gay_Scanlon.htm"
+        ],
+        "photo": {
+          "file": "File:Mary Gay Scanlon, official portrait, 2018 (3x4 cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Nicholas Manganaro",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": null,
+          "security": null,
+          "immigration": 75,
+          "foreign": null,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants a balanced budget and no new entitlements, strong ICE enforcement and cooperation, all-of-the-above energy with oil, nuclear and fusion; opposes RGGI.",
+        "sources": [
+          "https://broadandliberty.com/2026/04/07/delco-republican-nicholas-manganaro-is-running-for-pa-5-seat/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Chrissy Houlahan",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": 60,
+          "liberty": 25,
+          "security": null,
+          "immigration": 35,
+          "foreign": 80,
+          "energy": 80,
+          "tech": 40,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs drug price negotiation, a public option not single payer, Equality Act, F-16s for Ukraine, climate action; opposed Laken Riley Act and an antitrust bill.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Chrissy_Houlahan",
+          "https://houlahan.house.gov/news/documentsingle.aspx?DocumentID=4393"
+        ],
+        "photo": {
+          "file": "File:Houlahan Chrissy 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "Brendan O'Hara, House Creative Services"
+        }
+      },
+      {
+        "name": "Marty Young",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 65,
+          "immigration": null,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign stresses cutting spending without tax increases, opposing police defunding, and modernized defense budgets with a strong industrial base.",
+        "sources": [
+          "https://ballotpedia.org/Marty_Young"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,372 @@
+[
+ {
+  "id": "TN-4/clay-faircloth",
+  "name": "Clay Faircloth",
+  "party": "Independent",
+  "race": "TN-4",
+  "race_label": "Tennessee · US House TN-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_4th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-5/charlie-hatcher",
+  "name": "Charlie Hatcher",
+  "party": "Republican",
+  "race": "TN-5",
+  "race_label": "Tennessee · US House TN-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 55,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign describes him as pro-life and pro-gun; no other documented policy positions found.",
+   "sources": [
+    "https://charliehatcher.com/",
+    "https://en.wikipedia.org/wiki/Charlie_Hatcher"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-5/chaz-molder",
+  "name": "Chaz Molder",
+  "party": "Democratic",
+  "race": "TN-5",
+  "race_label": "Tennessee · US House TN-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 60,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports workers' right to organize, lowering healthcare costs, expanding coverage, rural hospital support, and a congressional stock trading ban.",
+   "sources": [
+    "https://chazmolder.com/issues/"
+   ],
+   "photo": {
+    "file": "File:Mayor Chaz Molder (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hmil6 (cropped by Fad8229)"
+   }
+  }
+ },
+ {
+  "id": "TN-5/james-johnson",
+  "name": "James Johnson",
+  "party": "Independent",
+  "race": "TN-5",
+  "race_label": "Tennessee · US House TN-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_5th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-5/micheal-o-leary",
+  "name": "Micheál O'Leary",
+  "party": "Independent",
+  "race": "TN-5",
+  "race_label": "Tennessee · US House TN-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_5th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-6/johnny-garrett",
+  "name": "Johnny Garrett",
+  "party": "Republican",
+  "race": "TN-6",
+  "race_label": "Tennessee · US House TN-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": null,
+    "liberty": 65,
+    "security": 65,
+    "immigration": 95,
+    "foreign": 75,
+    "energy": null,
+    "tech": 20,
+    "education": null,
+    "faith": 75
+   },
+   "basis": "Permanent tax cuts, pro-life and trans sports ban with gun rights, backs police, border wall and deportations, pro-Israel, pro-AI innovation, Christian conservative.",
+   "sources": [
+    "https://johnnygarrettforcongress.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-6/mike-croley",
+  "name": "Mike Croley",
+  "party": "Democratic",
+  "race": "TN-6",
+  "race_label": "Tennessee · US House TN-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in available sources.",
+   "sources": [
+    "https://tennesseelookout.com/2025/07/08/whos-running-for-tennessees-6th-and-7th-u-s-house-seats/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-6/chris-monday",
+  "name": "Chris Monday",
+  "party": "Independent",
+  "race": "TN-6",
+  "race_label": "Tennessee · US House TN-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_6th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-6/angus-purdy",
+  "name": "Angus Purdy",
+  "party": "Independent",
+  "race": "TN-6",
+  "race_label": "Tennessee · US House TN-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_6th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-7/matt-van-epps",
+  "name": "Matt Van Epps",
+  "party": "Republican",
+  "race": "TN-7",
+  "race_label": "Tennessee · US House TN-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "V000139",
+   "official_name": "Matt Van Epps",
+   "chamber": "House",
+   "official_site": "https://vanepps.house.gov",
+   "official_social": {},
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 15,
+    "security": null,
+    "immigration": 85,
+    "foreign": 70,
+    "energy": null,
+    "tech": null,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Backed OBBBA tax cuts and deregulation, Medicaid reform, opposes gun control, supports border wall and deportations, peace through strength, school choice.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Matt_Van_Epps"
+   ],
+   "photo": {
+    "file": "File:Rep Matt Van Epps, 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "TN-7/darden-copeland",
+  "name": "Darden Copeland",
+  "party": "Democratic",
+  "race": "TN-7",
+  "race_label": "Tennessee · US House TN-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants corporations and wealthy to pay fair share, opposes Medicaid, Medicare and Social Security cuts, backs lower drug costs and rural hospitals.",
+   "sources": [
+    "https://dardenforcongress.com/home-2"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-7/andrew-koontz",
+  "name": "Andrew Koontz",
+  "party": "Independent",
+  "race": "TN-7",
+  "race_label": "Tennessee · US House TN-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_7th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ }
+]

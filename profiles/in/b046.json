@@ -1,0 +1,399 @@
+[
+ {
+  "id": "IA-2/joe-mitchell",
+  "name": "Joe Mitchell",
+  "party": "Republican",
+  "race": "IA-2",
+  "race_label": "Iowa · US House IA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 40,
+    "liberty": 65,
+    "security": 60,
+    "immigration": 80,
+    "foreign": 55,
+    "energy": 35,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Tax cuts, smaller government; pro-life, pro-gun; deport criminal immigrants, H-1B pause; all-of-the-above energy; school choice.",
+   "sources": [
+    "https://www.joemitchell.com/issues",
+    "https://www.joemitchell.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-2/lindsay-james",
+  "name": "Lindsay James",
+  "party": "Democratic",
+  "race": "IA-2",
+  "race_label": "Iowa · US House IA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 60,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 80,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Supports gun safety reform; restrict social media and AI access for minors; opposes Iowa private school vouchers.",
+   "sources": [
+    "https://lindsayforiowa.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-2/rick-stewart",
+  "name": "Rick Stewart",
+  "party": "Libertarian",
+  "race": "IA-2",
+  "race_label": "Iowa · US House IA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-2/dave-bushaw",
+  "name": "Dave Bushaw",
+  "party": "Independent",
+  "race": "IA-2",
+  "race_label": "Iowa · US House IA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-3/zach-nunn",
+  "name": "Zach Nunn",
+  "party": "Republican",
+  "race": "IA-3",
+  "race_label": "Iowa · US House IA-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "N000193",
+   "official_name": "Zachary Nunn",
+   "chamber": "House",
+   "official_site": "https://nunn.house.gov",
+   "official_social": {
+    "twitter": "ZachNunn",
+    "facebook": "RepZachNunn",
+    "instagram": "repzachnunn",
+    "youtube": "UCHcM0qd2GQ2CbOHSGZ06rrA"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 65,
+    "security": 70,
+    "immigration": 70,
+    "foreign": 70,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Income tax cuts; abortion limits with exceptions, pro-gun; backs qualified immunity; stricter immigration; supports Iran war; domestic energy extraction.",
+   "sources": [
+    "https://www.ontheissues.org/House/Zach_Nunn.htm",
+    "https://en.wikipedia.org/wiki/Zach_Nunn"
+   ],
+   "photo": {
+    "file": "File:Official Portrait of Rep. Zach Lunn 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "IA-3/sarah-trone-garriott",
+  "name": "Sarah Trone Garriott",
+  "party": "Democratic",
+  "race": "IA-3",
+  "race_label": "Iowa · US House IA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Reproductive freedom; border security plus legal pathways and Dreamer protection; clean energy and climate action; protect public schools.",
+   "sources": [
+    "https://sarahforiowa.com/issues/",
+    "https://sarahforiowa.com/issue/immigration-thats-smart-fair-and-reflects-our-values/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-4/chris-mcgowan",
+  "name": "Chris McGowan",
+  "party": "Republican",
+  "race": "IA-4",
+  "race_label": "Iowa · US House IA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 85,
+    "security": 70,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": 75
+   },
+   "basis": "Life from conception; supports ICE and intelligence agencies; border security, opposes sanctuary cities; energy independence; religious freedom.",
+   "sources": [
+    "https://mcgowanforiowa.com/vision"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-4/dave-dawson",
+  "name": "Dave Dawson",
+  "party": "Democratic",
+  "race": "IA-4",
+  "race_label": "Iowa · US House IA-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Higher minimum wage, PRO Act, closing corporate loopholes and antitrust; public option, Medicare drug negotiation, protect ACA.",
+   "sources": [
+    "https://davedawsonforiowa.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-1/tracey-mann",
+  "name": "Tracey Mann",
+  "party": "Republican",
+  "race": "KS-1",
+  "race_label": "Kansas · US House KS-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M000871",
+   "official_name": "Tracey Mann",
+   "chamber": "House",
+   "official_site": "https://mann.house.gov",
+   "official_social": {
+    "twitter": "RepMann",
+    "facebook": "Congressman-Tracey-Mann-105522931489227",
+    "instagram": "reptraceymann"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 15,
+    "liberty": 70,
+    "security": 70,
+    "immigration": 90,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 90
+   },
+   "basis": "Opposed ARPA; opposes universal coverage; life at conception, opposes same-sex marriage and recreational marijuana; border wall, E-Verify; God in public life.",
+   "sources": [
+    "https://www.ontheissues.org/House/Tracey_Mann.htm"
+   ],
+   "photo": {
+    "file": "File:Tracey Mann 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "KS-1/lauren-reinhold",
+  "name": "Lauren Reinhold",
+  "party": "Democratic",
+  "race": "KS-1",
+  "race_label": "Kansas · US House KS-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Stronger unions, opposes corporate monopolies; strengthen Social Security, rural healthcare; border security with path to citizenship.",
+   "sources": [
+    "https://www.laurenforkansas.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-1/steven-jacob",
+  "name": "Steven Jacob",
+  "party": "Libertarian",
+  "race": "KS-1",
+  "race_label": "Kansas · US House KS-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Kansas%27_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-2/derek-schmidt",
+  "name": "Derek Schmidt",
+  "party": "Republican",
+  "race": "KS-2",
+  "race_label": "Kansas · US House KS-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001228",
+   "official_name": "Derek Schmidt",
+   "chamber": "House",
+   "official_site": "https://schmidt.house.gov",
+   "official_social": {
+    "twitter": "repderekschmidt",
+    "facebook": "repderekschmidt",
+    "instagram": "repderekschmidt"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 70,
+    "security": 80,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": 30,
+    "faith": 85
+   },
+   "basis": "Opposes higher taxes; opposed ACA expansion; anti-abortion, transgender sports limits, gun rights; tough on crime; border security; sued over climate rules.",
+   "sources": [
+    "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   ],
+   "photo": {
+    "file": "File:Schmidt Derek 119th Congress (cropped2).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ }
+]

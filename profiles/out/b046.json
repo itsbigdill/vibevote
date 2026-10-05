@@ -1,0 +1,819 @@
+[
+ {
+  "id": "IA-2/joe-mitchell",
+  "name": "Joe Mitchell",
+  "party": "Republican",
+  "current_role": "Former Iowa state representative; HUD regional administrator",
+  "bio": "Joe Mitchell, from Wayland, Iowa, served in the Iowa House of Representatives for District 84 from 2019 to 2023 after being elected at 21. He later served as chief of staff at the Federal Housing Finance Agency and in July 2025 was appointed HUD's Great Plains regional administrator. He also runs a real estate development company in Clear Lake focused on rural housing.",
+  "website": "https://joemitchell.com/",
+  "social": {
+   "x": "https://x.com/joemitchelliowa",
+   "facebook": "https://www.facebook.com/profile.php?id=61580346786195"
+  },
+  "platform": [
+   {
+    "topic": "Government reform",
+    "point": "Supports 12-year congressional term limits, a ban on stock trading by members, and refuses corporate PAC money.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Calls for border security, deporting immigrants with criminal records, and restricting H-1B visas.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Pledges middle-class tax cuts and a simpler tax code.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   {
+    "topic": "Housing",
+    "point": "Wants to loosen homebuilding regulations to increase the supply of affordable housing.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs an all-of-the-above mix including oil, gas, coal, nuclear, hydro, solar and wind.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Emphasizes parental choice, core K-12 skills, and accountability for colleges receiving taxpayer money.",
+    "source": "https://www.joemitchell.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Campaign pledges tax cuts, a simpler tax code and reduced regulation on farms and homebuilding.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   "welfare": {
+    "score": 40,
+    "evidence": "Health plan focuses on price transparency, consumer choice and lower drug prices rather than universal coverage.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Pledges to protect the right to life (abortion) and defend the Second Amendment (guns); his issues page also opposes gender surgery for minors (LGBTQ).",
+    "source": "https://www.joemitchell.com/"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Campaign says police should be supported and funded while pursuing practical reform.",
+    "source": "https://www.joemitchell.com/"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Calls for border security, deporting immigrants with criminal records and a temporary ban on H-1B visas.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Says he favors strengthening alliances while putting American interests first.",
+    "source": "https://www.joemitchell.com/"
+   },
+   "energy": {
+    "score": 35,
+    "evidence": "Supports all-of-the-above energy including fossil fuels, nuclear and renewables for independence and lower costs.",
+    "source": "https://www.joemitchell.com/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Says he supports school choice and wants parents to decide what is best for their children's education.",
+    "source": "https://www.joemitchell.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://cdn.prod.website-files.com/68b8861c9406da38d9d5abb6/68b894062007f2fb0b5a8b6a_Joe-Mitchell-Portrait-min.avif",
+  "notes": "Foreign-policy score rests on a one-line homepage statement about alliances. Commons portrait is 'copyrighted free use' from the Iowa General Assembly, not an accepted licence, so no photo."
+ },
+ {
+  "id": "IA-2/lindsay-james",
+  "name": "Lindsay James",
+  "party": "Democratic",
+  "current_role": "Iowa State Representative, 71st District",
+  "bio": "Lindsay James has represented Dubuque in the Iowa House of Representatives since 2019 and was elected House Minority Whip in 2022. She is a Presbyterian minister who has worked as a pastor and college chaplain and teaches as an adjunct professor at the University of Dubuque.",
+  "website": "https://www.lindsayforiowa.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Aims to lower everyday costs such as utilities, food and rent for working Iowans.",
+    "source": "https://lindsayforiowa.com/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Seeks to end medical bankruptcies and medication rationing and address Iowa's rising cancer rates and rural care strain.",
+    "source": "https://lindsayforiowa.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Opposes private school vouchers and supports well-funded public schools.",
+    "source": "https://lindsayforiowa.com/issues"
+   },
+   {
+    "topic": "Technology",
+    "point": "Wants to limit social media and AI risks to children and restore parental control from tech companies.",
+    "source": "https://lindsayforiowa.com/issues"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Wants to reduce the influence of money and corporations in politics.",
+    "source": "https://lindsayforiowa.com/issues"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Supports farmers and calls for timely passage of a farm bill.",
+    "source": "https://lindsayforiowa.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 60,
+    "evidence": "Calls for gun safety reform as part of keeping communities safe (guns); no other liberty issue is addressed.",
+    "source": "https://lindsayforiowa.com/issues"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 80,
+    "evidence": "'Kids Over Clicks' plank seeks limits on social media and AI harms to children.",
+    "source": "https://lindsayforiowa.com/issues"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Opposes private school vouchers and supports robust public school funding.",
+    "source": "https://lindsayforiowa.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Commons portrait is an Iowa General Assembly 'copyrighted free use' image, not an accepted licence. No campaign social accounts were confirmed."
+ },
+ {
+  "id": "IA-2/rick-stewart",
+  "name": "Rick Stewart",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Rick Stewart has run for office in Iowa several times: as an independent for U.S. Senate in 2014, for Iowa Secretary of Agriculture in 2018, as the Libertarian nominee for U.S. Senate in 2020, and as the Libertarian nominee for governor in 2022, when he received about 2.4 percent of the vote.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Wikipedia lists him only as having filed paperwork for the Libertarian nomination, and a June 2026 state objections panel removed two Libertarian candidates from the ballot, so his ballot status should be checked. No 2026 campaign site or platform was found."
+ },
+ {
+  "id": "IA-2/dave-bushaw",
+  "name": "Dave Bushaw",
+  "party": "Independent",
+  "current_role": "Labor organizer and farmer",
+  "bio": "Dave Bushaw is from northeast Iowa, raised in West Union and living in Hawkeye, and started a small squash farm at 19. He spent about five years as a Midwest organizer for the rural group United Today, Stronger Tomorrow, organized for Bernie Sanders' 2020 campaign, and performs as a folk and labor musician. The Forward Party has endorsed him.",
+  "website": "https://www.davebushaw.com/",
+  "social": {
+   "x": "https://x.com/Dave_Bushaw",
+   "facebook": "https://www.facebook.com/BushawforCongress",
+   "instagram": "https://www.instagram.com/BushawforCongress",
+   "tiktok": "https://www.tiktok.com/@BushawforCongress",
+   "youtube": "https://www.youtube.com/@BushawForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Rural economy",
+    "point": "Wants to improve economic conditions so young people are not pushed to leave Iowa.",
+    "source": "https://www.radioiowa.com/2025/11/12/independent-from-hawkeye-running-in-iowas-2nd-congressional-district/"
+   },
+   {
+    "topic": "Labor",
+    "point": "Highlights stronger workers' rights and organized labor conditions.",
+    "source": "https://www.radioiowa.com/2025/11/12/independent-from-hawkeye-running-in-iowas-2nd-congressional-district/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Focuses on improving health care access in rural communities.",
+    "source": "https://www.radioiowa.com/2025/11/12/independent-from-hawkeye-running-in-iowas-2nd-congressional-district/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Pitches an independent, working-class voice focused on accountability and transparency in Washington.",
+    "source": "https://www.davebushaw.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/690ba2dea3fe8a77d143e9b3/d2d98bd0-11c4-44bf-9cb6-5961694c9107/DAVE+BUSHAW-sf.png",
+  "notes": "Stated priorities were too general to score; his site's platform page was not reviewed in detail."
+ },
+ {
+  "id": "IA-3/zach-nunn",
+  "name": "Zach Nunn",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IA-3",
+  "bio": "Zach Nunn has represented Iowa's 3rd District in the U.S. House since 2023, after serving in the Iowa House (2015-2019) and Iowa Senate (2019-2023). He is a colonel in the Iowa Air National Guard and commands an intelligence squadron. He was born in Story City and raised in Altoona.",
+  "website": "https://zachnunn.com/",
+  "social": {
+   "x": "https://x.com/ZachNunn",
+   "facebook": "https://www.facebook.com/RepZachNunn",
+   "instagram": "https://www.instagram.com/repzachnunn",
+   "youtube": "https://www.youtube.com/channel/UCHcM0qd2GQ2CbOHSGZ06rrA"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Lists improving the economy and fiscal discipline, including income tax cuts, as a top priority.",
+    "source": "https://nunn.house.gov/priorities/issues/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Prioritizes supporting and growing Iowa agriculture.",
+    "source": "https://www.zachnunn.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Campaigns on backing law enforcement and securing the border.",
+    "source": "https://www.zachnunn.com/"
+   },
+   {
+    "topic": "National defense",
+    "point": "Emphasizes national defense and keeping the country safe.",
+    "source": "https://nunn.house.gov/priorities/issues/"
+   },
+   {
+    "topic": "Families",
+    "point": "Focuses on helping families and kids and co-chairs the Congressional Caucus on Foster Youth.",
+    "source": "https://en.wikipedia.org/wiki/Zach_Nunn"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Advocates income tax cuts and limited government; opposed the bipartisan infrastructure law as wasteful.",
+    "source": "https://www.ontheissues.org/House/Zach_Nunn.htm"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "Opposes abortion with exceptions for rape, incest and the mother's life, opposes suits against gun makers, supports IVF access.",
+    "source": "https://en.wikipedia.org/wiki/Zach_Nunn"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Supports qualified immunity for police and opposes defunding police.",
+    "source": "https://www.ontheissues.org/House/Zach_Nunn.htm"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "Favors stricter immigration enforcement and campaigns on defending the border.",
+    "source": "https://www.ontheissues.org/House/Zach_Nunn.htm"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Backed the 2026 Iran war and voted against a war powers resolution; backs anti-BDS legislation.",
+    "source": "https://en.wikipedia.org/wiki/Zach_Nunn"
+   },
+   "energy": {
+    "score": 30,
+    "evidence": "Prioritizes domestic energy extraction over prioritizing green energy.",
+    "source": "https://www.ontheissues.org/House/Zach_Nunn.htm"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 70,
+    "evidence": "Supports bringing religious convictions into public discourse.",
+    "source": "https://www.ontheissues.org/House/Zach_Nunn.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IA-3/sarah-trone-garriott",
+  "name": "Sarah Trone Garriott",
+  "party": "Democratic",
+  "current_role": "Iowa State Senator, 14th District",
+  "bio": "Sarah Trone Garriott has served in the Iowa Senate since 2021, first for the 22nd District and now the 14th, and is ranking member of the Health and Human Services Committee. She is an ordained Lutheran minister, was born in Minneapolis, and lives in West Des Moines.",
+  "website": "https://sarahforiowa.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Promises affordable health care that is available when people need it.",
+    "source": "https://sarahforiowa.com/issue/health-care-thats-affordable-and-there-when-you-need-it/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pairs border security with legal pathways and protections for Dreamers.",
+    "source": "https://sarahforiowa.com/issue/immigration-thats-smart-fair-and-reflects-our-values/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Supports expanding wind, solar and biofuels and protecting Iowa's water and soil.",
+    "source": "https://sarahforiowa.com/issue/protecting-iowas-land-water-and-clean-energy-future/"
+   },
+   {
+    "topic": "Education",
+    "point": "Pledges to protect strong public schools in every community.",
+    "source": "https://sarahforiowa.com/issue/protect-great-public-schools-for-every-child-in-every-community/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Supports reproductive freedom as a personal decision.",
+    "source": "https://sarahforiowa.com/issue/reproductive-freedom-is-personal-and-non-negotiable/"
+   },
+   {
+    "topic": "Labor",
+    "point": "Backs workers' right to organize.",
+    "source": "https://sarahforiowa.com/issue/the-right-to-organize-and-the-dignity-of-work/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 70,
+    "evidence": "Priorities include expanding affordable coverage through Medicaid restoration and a public option.",
+    "source": "https://en.wikipedia.org/wiki/Sarah_Trone_Garriott"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Campaign calls reproductive freedom personal and non-negotiable.",
+    "source": "https://sarahforiowa.com/issue/reproductive-freedom-is-personal-and-non-negotiable/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports border security combined with legal pathways and Dreamer protections.",
+    "source": "https://sarahforiowa.com/issue/immigration-thats-smart-fair-and-reflects-our-values/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 75,
+    "evidence": "Supports expanding wind, solar and biofuels while addressing climate change.",
+    "source": "https://sarahforiowa.com/issue/protecting-iowas-land-water-and-clean-energy-future/"
+   },
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Campaign pledges to protect public schools in every community.",
+    "source": "https://sarahforiowa.com/issue/protect-great-public-schools-for-every-child-in-every-community/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Welfare score added from Wikipedia's summary of her health priorities. Commons portrait is Iowa General Assembly 'copyrighted free use', not an accepted licence."
+ },
+ {
+  "id": "IA-4/chris-mcgowan",
+  "name": "Chris McGowan",
+  "party": "Republican",
+  "current_role": "President of the Siouxland Chamber of Commerce",
+  "bio": "Chris McGowan is president of the Siouxland Chamber of Commerce in Sioux City and comes from a family with generations of roots in northwest Iowa agriculture. His campaign describes him as a former military officer and law school graduate. He won the 2026 Republican primary with endorsements from Donald Trump and Terry Branstad.",
+  "website": "https://mcgowanforiowa.com/",
+  "social": {
+   "x": "https://x.com/McGowanForIowa",
+   "facebook": "https://www.facebook.com/profile.php?id=61577314967973",
+   "instagram": "https://www.instagram.com/mcgowan.for.iowa/"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Supports finishing border enforcement, stopping fentanyl and human trafficking, and backing ICE.",
+    "source": "https://mcgowanforiowa.com/vision"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Pledges to protect farm markets and landowner rights and secure trade deals for Iowa farmers.",
+    "source": "https://mcgowanforiowa.com/vision"
+   },
+   {
+    "topic": "Economy",
+    "point": "Wants to bring jobs back to the U.S., counter China's influence and restore energy independence.",
+    "source": "https://mcgowanforiowa.com/vision"
+   },
+   {
+    "topic": "Spending",
+    "point": "Lists cutting wasteful government spending among top priorities.",
+    "source": "https://mcgowanforiowa.com/"
+   },
+   {
+    "topic": "Defense",
+    "point": "Pledges strong support and resources for the military and veterans.",
+    "source": "https://mcgowanforiowa.com/vision"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 85,
+    "evidence": "His 'Faith, Family, Freedom' plank pledges to defend life from conception to natural death (abortion).",
+    "source": "https://mcgowanforiowa.com/vision"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Supports ICE operations and robust national security resources.",
+    "source": "https://mcgowanforiowa.com/vision"
+   },
+   "immigration": {
+    "score": 85,
+    "evidence": "Calls for completing border enforcement under Trump administration policies and backing ICE.",
+    "source": "https://mcgowanforiowa.com/vision"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 30,
+    "evidence": "Lists restoring American energy independence as an America First priority.",
+    "source": "https://mcgowanforiowa.com/vision"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 75,
+    "evidence": "Campaign centers faith and traditional values in its platform.",
+    "source": "https://mcgowanforiowa.com/vision"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Military service details come from the campaign site only."
+ },
+ {
+  "id": "IA-4/dave-dawson",
+  "name": "Dave Dawson",
+  "party": "Democratic",
+  "current_role": "Attorney and former Iowa state representative",
+  "bio": "Dave Dawson represented the 14th District in the Iowa House of Representatives from 2013 to 2017. He has practiced law for 27 years, including 19 as a prosecutor, and is a longtime AFSCME member. He grew up in small-town northwest Iowa.",
+  "website": "https://davedawsonforiowa.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/davedawsonforiowa",
+   "instagram": "https://www.instagram.com/dawsonforiowa/"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Supports Medicare drug negotiation, insulin caps, protecting the ACA and Medicaid, and a public option.",
+    "source": "https://davedawsonforiowa.com/issues"
+   },
+   {
+    "topic": "Wages",
+    "point": "Backs a higher federal minimum wage, the PRO Act and an expanded Child Tax Credit.",
+    "source": "https://davedawsonforiowa.com/issues"
+   },
+   {
+    "topic": "Rural communities",
+    "point": "Calls for broadband expansion, a farm bill and antitrust action against agricultural consolidation.",
+    "source": "https://davedawsonforiowa.com/issues"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Opposes cuts or privatization and supports lifting the payroll tax cap on high earners.",
+    "source": "https://davedawsonforiowa.com/issues"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Proposes banning congressional stock trading, term limits and a Supreme Court ethics code.",
+    "source": "https://davedawsonforiowa.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Supports a higher minimum wage, the PRO Act, closing corporate tax loopholes and antitrust enforcement.",
+    "source": "https://davedawsonforiowa.com/issues"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Backs a public option, expanded Child Tax Credit and childcare investment, and protecting the ACA and Medicaid.",
+    "source": "https://davedawsonforiowa.com/issues"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Commons portrait is from the Iowa legislature and was not verified under an accepted licence."
+ },
+ {
+  "id": "KS-1/tracey-mann",
+  "name": "Tracey Mann",
+  "party": "Republican",
+  "current_role": "U.S. Representative for KS-1",
+  "bio": "Tracey Mann has represented Kansas's 1st District in the U.S. House since 2021 and served as Lieutenant Governor of Kansas from 2018 to 2019. He grew up on a farm near Quinter, has worked as a commercial real estate broker in Salina, and chairs the House Agriculture subcommittee on livestock, dairy and poultry.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepMann",
+   "facebook": "https://www.facebook.com/Congressman-Tracey-Mann-105522931489227",
+   "instagram": "https://www.instagram.com/reptraceymann"
+  },
+  "platform": [
+   {
+    "topic": "Agriculture",
+    "point": "Treats agriculture as the core of the district's economy and a top legislative focus.",
+    "source": "https://mann.house.gov/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Supports an all-of-the-above approach and rolling back energy regulations.",
+    "source": "https://mann.house.gov/issues/energy"
+   },
+   {
+    "topic": "Economy",
+    "point": "Focuses on tax cuts and support for small businesses.",
+    "source": "https://mann.house.gov/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Opposes abortion and supports pregnancy resource centers.",
+    "source": "https://mann.house.gov/issues"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Works on district roads, airports and rail.",
+    "source": "https://mann.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Opposed the 2021 American Rescue Plan and describes himself as strongly pro-free enterprise.",
+    "source": "https://www.ontheissues.org/House/Tracey_Mann.htm"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Rated strongly against universal coverage and in favor of private insurance.",
+    "source": "https://www.ontheissues.org/House/Tracey_Mann.htm"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Supports life from conception, opposes recreational marijuana, opposed the Equality Act and Respect for Marriage Act, voted against expanded gun background checks.",
+    "source": "https://www.ontheissues.org/House/Tracey_Mann.htm"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Supports mandatory minimum sentences and existing police accountability rules.",
+    "source": "https://www.ontheissues.org/House/Tracey_Mann.htm"
+   },
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports a border wall, ICE, E-Verify and opposes sanctuary cities.",
+    "source": "https://www.ontheissues.org/House/Tracey_Mann.htm"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 25,
+    "evidence": "Backs oil, gas, biofuels and renewables and rolling back energy regulations over a Green New Deal agenda.",
+    "source": "https://mann.house.gov/issues/energy"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 90,
+    "evidence": "Says church-state separation does not mean removing God from schools and strongly supports religious liberty.",
+    "source": "https://www.ontheissues.org/House/Tracey_Mann.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Foreign policy left unscored: he backed Israel aid but opposed further Ukraine aid in 2024. No campaign website confirmed."
+ },
+ {
+  "id": "KS-1/lauren-reinhold",
+  "name": "Lauren Reinhold",
+  "party": "Democratic",
+  "current_role": "Attorney; former Social Security Administration attorney advisor",
+  "bio": "Lauren Reinhold is an attorney with 28 years of experience who worked as an attorney advisor at the Social Security Administration and as an investigator and election officer for the National Labor Relations Board. She has also worked in legal aid and immigration law and served as a federal union officer. She has lived in Kansas for 32 years, in Lawrence.",
+  "website": "https://www.laurenforkansas.com/",
+  "social": {
+   "x": "https://x.com/laurenforkansas",
+   "instagram": "https://www.instagram.com/laurenforkansas",
+   "facebook": "https://www.facebook.com/laurenforkansas",
+   "tiktok": "https://www.tiktok.com/@laurenforkansas"
+  },
+  "platform": [
+   {
+    "topic": "Rural health care",
+    "point": "Aims to preserve rural hospitals as essential community infrastructure.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Prioritizes family farms and local businesses over corporate consolidation.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   },
+   {
+    "topic": "Workers",
+    "point": "Wants to strengthen workers' rights and counter corporate monopolies.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports border security with a pathway to citizenship and a stable agricultural workforce.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Treats Social Security as an earned benefit that must be paid fully and on time.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Commits to representative democracy and constitutional governance.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Calls for stronger worker rights and an economy less dominated by corporate monopolies.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Prioritizes strengthening Social Security and rebuilding rural health care.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports border security combined with humane pathways to citizenship.",
+    "source": "https://www.laurenforkansas.com/priorities"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Lauren Reinhold KS 1 Acceptance Speech Cropped 1.jpg",
+   "license": "CC0",
+   "author": "Catboy69"
+  },
+  "campaign_photo": "https://static.wixstatic.com/media/4ed1d6_01e8acc6534742c58dff22d77b3274d7~mv2.jpg/v1/fill/w_376,h_240,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/_DSC3422%20copy_edited.jpg",
+  "notes": "Commons photo is a user-uploaded 'own work' under CC0."
+ },
+ {
+  "id": "KS-1/steven-jacob",
+  "name": "Steven Jacob",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Steven Jacob filed with the FEC as the Libertarian candidate for Kansas's 1st Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, platform or coverage found; Ballotpedia was unreachable."
+ },
+ {
+  "id": "KS-2/derek-schmidt",
+  "name": "Derek Schmidt",
+  "party": "Republican",
+  "current_role": "U.S. Representative for KS-2",
+  "bio": "Derek Schmidt has represented Kansas's 2nd District in the U.S. House since 2025. He was Kansas Attorney General from 2011 to 2023 and served in the Kansas Senate from 2001 to 2011, including as majority leader. He is a lawyer born in Independence, Kansas.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/repderekschmidt",
+   "facebook": "https://www.facebook.com/repderekschmidt",
+   "instagram": "https://www.instagram.com/repderekschmidt"
+  },
+  "platform": [
+   {
+    "topic": "Energy",
+    "point": "Supports expanding domestic energy production and voted to bar presidential fracking moratoriums without Congress.",
+    "source": "https://schmidt.house.gov/issues/energy"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Favors cutting taxes, paying down debt and ending taxes on Social Security and retirement income.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Emphasizes border security and opposes a pathway to citizenship for undocumented immigrants.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   },
+   {
+    "topic": "Education",
+    "point": "Introduced a bipartisan bill creating a Robert J. Dole WWII education program.",
+    "source": "https://schmidt.house.gov/issues/education"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Supports tougher penalties for crime and backing law enforcement.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Opposes higher taxes on the wealthy and favors tax cuts, budget cuts and debt reduction.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "As attorney general, joined litigation against the Affordable Care Act.",
+    "source": "https://en.wikipedia.org/wiki/Derek_Schmidt"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Opposes abortion rights and transgender athletes in women's sports, supports gun rights; accepts medical marijuana with safeguards.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   },
+   "security": {
+    "score": 80,
+    "evidence": "Supports stricter criminal penalties, backs law enforcement and the death penalty in some cases.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   },
+   "immigration": {
+    "score": 85,
+    "evidence": "Opposes a pathway to citizenship and easing asylum rules; emphasizes border security.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Sued the federal government over climate rules and opposes the Green New Deal; voted against fracking moratoriums.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Supports school choice vouchers and opposes teaching critical race theory.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   },
+   "faith": {
+    "score": 85,
+    "evidence": "Defended coaches' public prayer on school fields and says America was founded on Christian values.",
+    "source": "https://www.ontheissues.org/House/Derek_Schmidt.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "No campaign website confirmed."
+ }
+]

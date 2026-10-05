@@ -1,0 +1,772 @@
+[
+  {
+    "state": "Georgia",
+    "district": "GA-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Andrew Clyde",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 10,
+          "welfare": 15,
+          "liberty": 60,
+          "security": null,
+          "immigration": 95,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 15,
+          "faith": 80
+        },
+        "basis": "FairTax and abolishing IRS, voted against PACT Act, pro-life but strong gun rights, Muslim immigration ban, abolish Education Department, school-prayer stance.",
+        "sources": [
+          "https://www.clyde4congress.com/",
+          "https://en.wikipedia.org/wiki/Andrew_Clyde"
+        ],
+        "photo": {
+          "file": "File:Rep. Andrew Clyde official photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Caitlyn Gegen",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published policy positions found on campaign site or in coverage reviewed.",
+        "sources": [
+          "https://www.caitlynforgeorgia.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-10",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Houston Gaines",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 65,
+          "security": 70,
+          "immigration": 80,
+          "foreign": 70,
+          "energy": null,
+          "tech": 30,
+          "education": null,
+          "faith": 75
+        },
+        "basis": "Tax cuts, heartbeat bill and trans sports limits offset by constitutional carry, pro-police, full ICE cooperation, Israel support, stablecoin rules, RFRA vote.",
+        "sources": [
+          "https://houstongaines.com/issues/",
+          "https://en.wikipedia.org/wiki/Houston_Gaines"
+        ],
+        "photo": {
+          "file": "File:Official headshot of Houston Gaines.jpg",
+          "license": "Public domain",
+          "author": "Georgia House of Representatives"
+        }
+      },
+      {
+        "name": "Pamela DeLancy",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 80,
+          "liberty": null,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": 60,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Real Deal Act for living wage, healthcare, childcare and long-term care; legal work pathways with humane enforcement; water protection over data centers.",
+        "sources": [
+          "https://www.votepamdelancy.com/issues",
+          "https://www.votepamdelancy.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-11",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "John Cowan",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Tax relief for families and businesses, opposes Obamacare; liberty score from gun rights and free speech positions.",
+        "sources": [
+          "https://www.cowanforcongress.com/issues.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chris Harden",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 75,
+          "liberty": 35,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 80,
+          "tech": 70,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Wealthy pay fair share, higher minimum wage, expand ACA credits, abortion rights plus gun safety, clean energy, ban AI surveillance pricing, public schools.",
+        "sources": [
+          "https://electharden.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-12",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Rick Allen",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 80,
+          "security": null,
+          "immigration": 80,
+          "foreign": 45,
+          "energy": 25,
+          "tech": null,
+          "education": null,
+          "faith": 90
+        },
+        "basis": "Tax cuts and anti-ESG bills, opposed same-sex marriage and cannabis, backed travel ban, opposed later Ukraine aid, IRA freeze, religious framing.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Rick_Allen_(politician)"
+        ],
+        "photo": {
+          "file": "File:Rick Allen Official Photo, 114th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "US House of Representatives"
+        }
+      },
+      {
+        "name": "Ceretta Smith",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": 45,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Fair wages, expanded affordable coverage and mental health care, reproductive rights plus gun safety measures, fair funding for public schools.",
+        "sources": [
+          "https://cerettaforga.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-13",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jasmine Clark",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 75,
+          "liberty": 30,
+          "security": 25,
+          "immigration": 20,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Tax billionaires, expand healthcare, abortion and LGBTQ rights with assault weapons ban, justice reform, opposes ICE raids, climate, against private school funding.",
+        "sources": [
+          "https://jasmine4ga.com/agenda"
+        ],
+        "photo": {
+          "file": "File:Member of the Georgia House of Representatives Jasmine Michelle Clark.jpg",
+          "license": "Public domain",
+          "author": "Georgia House of Representatives"
+        }
+      },
+      {
+        "name": "Jonathan Chavez",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 40,
+          "liberty": null,
+          "security": 70,
+          "immigration": 75,
+          "foreign": 55,
+          "energy": 35,
+          "tech": null,
+          "education": 15,
+          "faith": 80
+        },
+        "basis": "FairTax and deregulation, ACA repeal with Medicaid expansion, more police resources, secure borders, peace through strength, school choice, Judeo-Christian values.",
+        "sources": [
+          "https://jonathanchavezforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Georgia",
+    "district": "GA-14",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Clay Fuller",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 25,
+          "security": 75,
+          "immigration": 95,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 80
+        },
+        "basis": "Second Amendment rights, tough prosecution with law enforcement, backs mass deportation, says Constitution was inspired by Christ's teachings.",
+        "sources": [
+          "https://clayfullerforgeorgia.com/"
+        ],
+        "photo": {
+          "file": "File:Clay Fuller official congressional photograph 119th congress.jpg",
+          "license": "Public domain",
+          "author": "Unknown author (U.S. House)"
+        }
+      },
+      {
+        "name": "Shawn Harris",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 75,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Expand Medicare to long-term care and drug negotiation, Women's Health Protection Act, strong gun ownership with safe storage, restore Education Department.",
+        "sources": [
+          "https://www.shawnforgeorgia.com/on-the-issues/healthcare/",
+          "https://www.shawnforgeorgia.com/on-the-issues/womens-health/",
+          "https://www.shawnforgeorgia.com/on-the-issues/education/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Andrew Underwood",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Georgia"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Hawaii",
+    "district": "HI-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ed Case",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 45,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 75,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Blue Dog fiscal moderate who resisted the $3.5 trillion reconciliation plan; founded Pacific Islands Caucus and backed Israel aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ed_Case"
+        ],
+        "photo": {
+          "file": "File:Ed Case, official portrait, 119th Congress (slight crop 2).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman"
+        }
+      },
+      {
+        "name": "Adriel Lam",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": 75,
+          "security": null,
+          "immigration": null,
+          "foreign": 70,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No tax on tips, overtime or Social Security; liberty score from protecting women's sports; hawkish Iran stance.",
+        "sources": [
+          "https://lam4aloha.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jordan Conley",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Hawaii"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Nathan Berning",
+        "party": "Nonpartisan",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://ballotpedia.org/Hawaii%27s_1st_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Hawaii",
+    "district": "HI-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jill Tokuda",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": 35,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Abortion-rights advocate; voted to direct withdrawal of US troops from Syria.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jill_Tokuda"
+        ],
+        "photo": {
+          "file": "File:Rep. Jill Tokuda official photo, 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Brenton Awa",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 55,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Housing platform: limit corporate investors, reclaim federal land, down payment assistance, tax parity for owner-occupants.",
+        "sources": [
+          "https://www.votebrentonawa.com/",
+          "https://en.wikipedia.org/wiki/Brenton_Awa"
+        ],
+        "photo": {
+          "file": "File:Senator Awa Visits Marine Corps Base Hawaii (8) (cropped).jpg",
+          "license": "Public domain",
+          "author": "Sgt. Julian Elliott-Drouin"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Idaho",
+    "district": "ID-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Russ Fulcher",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 55,
+          "security": null,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 30,
+          "tech": 55,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No tax on overtime and deeper spending cuts, ending abortion plus gun rights, border security, keep dams, voted for merger antitrust bill.",
+        "sources": [
+          "https://www.russfulcher.com/",
+          "https://en.wikipedia.org/wiki/Russ_Fulcher"
+        ],
+        "photo": {
+          "file": "File:Russ Fulcher, official portrait, 116th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Kaylee Peterson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 10,
+          "security": 25,
+          "immigration": 15,
+          "foreign": null,
+          "energy": 80,
+          "tech": 60,
+          "education": 95,
+          "faith": 20
+        },
+        "basis": "Tax corporations, single-payer healthcare, abortion and equal rights, opposes warrantless ICE arrests and mass deportation, renewables, bans vouchers.",
+        "sources": [
+          "https://kayleeforcongress.com/platform"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Sarah Zabel",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": 45,
+          "welfare": 35,
+          "liberty": null,
+          "security": 30,
+          "immigration": 35,
+          "foreign": 55,
+          "energy": null,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Free markets with monopoly breakups, means-tested Social Security fix, oversight of detention powers, needs-based legal immigration, burden-sharing allies, AI priorities.",
+        "sources": [
+          "https://zabelforcongress.com/"
+        ],
+        "photo": {
+          "file": "File:Maj. Gen. Sarah Zabel discusses the Air Force Journey to Agile Software Acquisition (cropped).jpg",
+          "license": "Public domain",
+          "author": "Todd Maki"
+        }
+      },
+      {
+        "name": "Brendan Gomez",
+        "party": "Constitution",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Idaho",
+    "district": "ID-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Simpson",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 30,
+          "welfare": 25,
+          "liberty": 50,
+          "security": null,
+          "immigration": 55,
+          "foreign": 70,
+          "energy": 55,
+          "tech": 60,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts, ACA repeal, anti-abortion but backed Respect for Marriage Act, farmworker legalization and wall, Ukraine aid, nuclear, antitrust.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mike_Simpson",
+          "https://simpsonforcongress.com/"
+        ],
+        "photo": {
+          "file": "File:Mike simpson official portrait (cropped).jpg",
+          "license": "Public domain",
+          "author": "Mike Simpson U.S. House Office"
+        }
+      },
+      {
+        "name": "Elinor Gilbreath",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign site blocked and no policy positions found in sources reviewed.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Will Johanson",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Carta Sierra",
+        "party": "Constitution",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Emre Houser",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Tripp Hutchinson",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

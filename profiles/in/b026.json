@@ -1,0 +1,437 @@
+[
+ {
+  "id": "CA-47/dave-min",
+  "name": "Dave Min",
+  "party": "Democratic",
+  "race": "CA-47",
+  "race_label": "California · US House CA-47",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001241",
+   "official_name": "Dave Min",
+   "chamber": "House",
+   "official_site": "https://min.house.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": 40,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": 90,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Codify Roe and gun-show ban drove liberty; offshore drilling ban and 30x30 law; opposed One Big Beautiful Bill; voted for Laken Riley Act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dave_Min",
+    "https://min.house.gov/issues/reproductive-rights-0"
+   ],
+   "photo": {
+    "file": "File:Min Dave 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-47/jenny-rae-le-roux",
+  "name": "Jenny Rae Le Roux",
+  "party": "Republican",
+  "race": "CA-47",
+  "race_label": "California · US House CA-47",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": 80,
+    "foreign": 75,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Small-business tax relief and permitting reform, end catch-and-release and defund sanctuary jurisdictions, fully fund federal law enforcement, strong support for Israel.",
+   "sources": [
+    "https://jennyraeca.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-48/jim-desmond",
+  "name": "Jim Desmond",
+  "party": "Republican",
+  "race": "CA-48",
+  "race_label": "California · US House CA-48",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": 65,
+    "immigration": 70,
+    "foreign": null,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes energy mandates, backs all-of-the-above energy and nuclear, border enforcement, weakening sanctuary law and ICE cooperation, streamlined legal immigration.",
+   "sources": [
+    "https://www.desmondforcongress.com/secure-border",
+    "https://www.desmondforcongress.com/energy",
+    "https://en.wikipedia.org/wiki/Jim_Desmond"
+   ],
+   "photo": {
+    "file": "File:Jim Desmond Official Portrait (cropped).jpg",
+    "license": "Public domain",
+    "author": "County of San Diego"
+   }
+  }
+ },
+ {
+  "id": "CA-48/marni-von-wilpert",
+  "name": "Marni von Wilpert",
+  "party": "Democratic",
+  "race": "CA-48",
+  "race_label": "California · US House CA-48",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 25,
+    "immigration": 15,
+    "foreign": 60,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "PRO Act, public option, codify Roe, Equality Act and assault weapons ban (drove liberty), suing ICE, citizenship pathway, backing Ukraine, opposing offshore drilling.",
+   "sources": [
+    "https://marnivonwilpert.com/issues",
+    "https://www.marnivonwilpert.com/"
+   ],
+   "photo": {
+    "file": "File:Marni von Wilpert (cropped).jpg",
+    "license": "Public domain",
+    "author": "City of San Diego"
+   }
+  }
+ },
+ {
+  "id": "CA-49/mike-levin",
+  "name": "Mike Levin",
+  "party": "Democratic",
+  "race": "CA-49",
+  "race_label": "California · US House CA-49",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000593",
+   "official_name": "Mike Levin",
+   "chamber": "House",
+   "official_site": "https://levin.house.gov",
+   "official_social": {
+    "twitter": "RepMikeLevin",
+    "facebook": "RepMikeLevin",
+    "instagram": "RepMikeLevin",
+    "youtube": "UCYFDRohyZgoPy5rXOaVZO-A"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": null,
+    "liberty": 30,
+    "security": null,
+    "immigration": 25,
+    "foreign": 65,
+    "energy": 90,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-choice, marriage equality and assault weapons ban drove liberty; Dignity Act and Dreamers; offshore drilling ban; Israel aid with two states; bill banning death-bet markets.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Levin"
+   ],
+   "photo": {
+    "file": "File:Rep. Mike Levin official photo (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-49/armen-kurdian",
+  "name": "Armen Kurdian",
+  "party": "Republican",
+  "race": "CA-49",
+  "race_label": "California · US House CA-49",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 45,
+    "liberty": null,
+    "security": 70,
+    "immigration": null,
+    "foreign": 60,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes new federal taxes and cuts regulations, protects Medicare and Social Security, backs police, fully funds defense, all-of-the-above domestic energy.",
+   "sources": [
+    "https://kurdianforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-50/scott-peters",
+  "name": "Scott Peters",
+  "party": "Democratic",
+  "race": "CA-50",
+  "race_label": "California · US House CA-50",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000608",
+   "official_name": "Scott H. Peters",
+   "chamber": "House",
+   "official_site": "https://scottpeters.house.gov",
+   "official_social": {
+    "twitter": "RepScottPeters",
+    "facebook": "RepScottPeters",
+    "instagram": "repscottpeters"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 55,
+    "liberty": 25,
+    "security": 35,
+    "immigration": 25,
+    "foreign": null,
+    "energy": 80,
+    "tech": 30,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-choice, same-sex marriage and universal background checks drove liberty; opposed broad Medicare drug negotiation; carbon pricing; DREAM Act; opposed antitrust fee package.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Scott_Peters_(politician)"
+   ],
+   "photo": {
+    "file": "File:Scott Peters official portrait 116th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "CA-50/steve-cohen",
+  "name": "Steve Cohen",
+  "party": "Republican",
+  "race": "CA-50",
+  "race_label": "California · US House CA-50",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 55,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Crack down on corporate price manipulation, oppose earmarks, defend Social Security and Medicare, protect pre-existing condition coverage, lower drug costs.",
+   "sources": [
+    "https://cohenforcongressca50.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-51/sara-jacobs",
+  "name": "Sara Jacobs",
+  "party": "Democratic",
+  "race": "CA-51",
+  "race_label": "California · US House CA-51",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000305",
+   "official_name": "Sara Jacobs",
+   "chamber": "House",
+   "official_site": "https://sarajacobs.house.gov",
+   "official_social": {
+    "twitter": "RepSaraJacobs",
+    "facebook": "RepSaraJacobs",
+    "instagram": "repsarajacobs"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 95,
+    "liberty": 15,
+    "security": 25,
+    "immigration": 15,
+    "foreign": 45,
+    "energy": 95,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Higher top tax rates, Medicare for All, federal child care, abortion rights (drove liberty), reproductive data privacy bill, citizenship pathway, limits on arms transfers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sara_Jacobs"
+   ],
+   "photo": {
+    "file": "File:Congresswoman Sara Jacobs.jpg",
+    "license": "Public domain",
+    "author": "House Creative Committee"
+   }
+  }
+ },
+ {
+  "id": "CA-51/ricardo-cabrera",
+  "name": "Ricardo Cabrera",
+  "party": "Republican",
+  "race": "CA-51",
+  "race_label": "California · US House CA-51",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign cites only term limits, anti-corruption reform and lower living costs; no concrete stances found on the scored domains.",
+   "sources": [
+    "https://www.cabreraforcongress2026.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-52/juan-vargas",
+  "name": "Juan Vargas",
+  "party": "Democratic",
+  "race": "CA-52",
+  "race_label": "California · US House CA-52",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "V000130",
+   "official_name": "Juan Vargas",
+   "chamber": "House",
+   "official_site": "https://vargas.house.gov",
+   "official_social": {
+    "facebook": "RepJuanVargas",
+    "twitter": "RepJuanVargas",
+    "youtube": "RepJuanVargas",
+    "instagram": "repjuanvargas"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": null,
+    "liberty": 30,
+    "security": null,
+    "immigration": 25,
+    "foreign": 70,
+    "energy": 70,
+    "tech": 30,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-choice, LGBTQ equality and gun safety laws drove liberty; protested Trump immigration policy; backed Israel aid and opposed Iran war powers limit; climate priority.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Juan_Vargas",
+    "https://vargas.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Juan Vargas official photo (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "CA-52/jeff-belle",
+  "name": "Jeff Belle",
+  "party": "Republican",
+  "race": "CA-52",
+  "race_label": "California · US House CA-52",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 30,
+    "liberty": 50,
+    "security": null,
+    "immigration": 75,
+    "foreign": 85,
+    "energy": 30,
+    "tech": null,
+    "education": 20,
+    "faith": 85
+   },
+   "basis": "Opposes progressive taxes, backs school choice and religious exemptions, abortion ban versus no gun restrictions (averaged in liberty), opposes sanctuary cities, interventionist.",
+   "sources": [
+    "https://ivoterguide.com/candidate/92432/race/25613/election/1385",
+    "https://www.belleforcongress.com/"
+   ],
+   "photo": null
+  }
+ }
+]

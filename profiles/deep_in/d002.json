@@ -1,0 +1,648 @@
+[
+ {
+  "id": "AZ-6/joanna-mendoza",
+  "name": "JoAnna Mendoza",
+  "party": "Democratic",
+  "race": "AZ-6",
+  "race_label": "Arizona · US House AZ-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AZ-6/joanna-mendoza",
+   "name": "JoAnna Mendoza",
+   "party": "Democratic",
+   "current_role": "Retired U.S. Marine",
+   "bio": "JoAnna Mendoza is a retired U.S. Marine with 20 years of service, including training military leaders. She has worked in public service and on veterans' transition issues, and describes herself as a rural Arizonan. She is the Democratic nominee for Arizona's 6th district.",
+   "website": "https://www.joannamendoza.com/",
+   "social": {
+    "x": "https://x.com/Mendoza4AZ",
+    "instagram": "https://www.instagram.com/mendoza4az/",
+    "facebook": "https://www.facebook.com/Mendoza4AZ"
+   },
+   "platform": [
+    {
+     "topic": "Jobs",
+     "point": "Wants to bring good-paying jobs to Southern Arizona and protect workers.",
+     "source": "https://www.joannamendoza.com/issues"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Focuses on lowering costs for families and seniors.",
+     "source": "https://www.joannamendoza.com/issues"
+    },
+    {
+     "topic": "Health care",
+     "point": "Pledges to strengthen the health care system.",
+     "source": "https://www.joannamendoza.com/issues"
+    },
+    {
+     "topic": "Border",
+     "point": "Pairs safe communities and strong borders with immigration solutions.",
+     "source": "https://www.joannamendoza.com/issues"
+    },
+    {
+     "topic": "Water and energy",
+     "point": "Prioritizes climate, water and energy security for rural Arizona.",
+     "source": "https://www.joannamendoza.com/issues"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Commits to keeping promises made to veterans.",
+     "source": "https://www.joannamendoza.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 50,
+     "evidence": "Platform combines strong borders with real immigration solutions.",
+     "source": "https://www.joannamendoza.com/issues"
+    },
+    "foreign": {
+     "score": 70,
+     "evidence": "Platform includes standing with U.S. allies.",
+     "source": "https://www.joannamendoza.com/issues"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:JoAnna Mendoza, 2013.jpg",
+    "license": "Public domain",
+    "author": "Lance Cpl. Shaltiel Dominguez"
+   },
+   "campaign_photo": "https://www.joannamendoza.com/wp-content/uploads/2026/03/DSC00138-1024x684.jpg",
+   "notes": "Her issues page lists topic headings; detailed policy text was not captured."
+  }
+ },
+ {
+  "id": "AZ-7/daniel-butierez",
+  "name": "Daniel Butierez",
+  "party": "Republican",
+  "race": "AZ-7",
+  "race_label": "Arizona · US House AZ-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "AZ-7/daniel-butierez",
+   "name": "Daniel Butierez",
+   "party": "Republican",
+   "current_role": "Painting contractor and small-business owner",
+   "bio": "Daniel Butierez is a third-generation Arizonan who runs two businesses, including a painting contracting company. He was the Republican nominee for Arizona's 7th district in 2024 and in the 2025 special election.",
+   "website": "https://butierezforcongress.com/",
+   "social": {
+    "x": "https://x.com/Butierez4C",
+    "facebook": "https://www.facebook.com/p/Butierez-For-Congress-61556219533310/"
+   },
+   "platform": [
+    {
+     "topic": "Border security",
+     "point": "Secure the southern border and give the U.S. Border Patrol the resources it needs.",
+     "source": "https://butierezforcongress.com/"
+    },
+    {
+     "topic": "Taxes",
+     "point": "Cut taxes and simplify the tax code for small businesses, moving toward a flatter system without the IRS.",
+     "source": "https://butierezforcongress.com/policy/"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Promote job growth in southern Arizona through responsible mining.",
+     "source": "https://butierezforcongress.com/"
+    },
+    {
+     "topic": "Homelessness",
+     "point": "Address homelessness with an approach he describes as combining compassion and accountability.",
+     "source": "https://butierezforcongress.com/policy/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 15,
+     "evidence": "Calls for cutting taxes, a flatter tax code and eliminating the IRS.",
+     "source": "https://butierezforcongress.com/policy/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 70,
+     "evidence": "Prioritizes securing the southern border and expanding Border Patrol resources.",
+     "source": "https://butierezforcongress.com/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Daniel Butierez by Gage Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   },
+   "campaign_photo": "",
+   "notes": "His campaign policy page gives only short summaries, so most domains remain unscored."
+  }
+ },
+ {
+  "id": "CA-19/peter-verbica",
+  "name": "Peter Verbica",
+  "party": "Republican",
+  "race": "CA-19",
+  "race_label": "California · US House CA-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-19/peter-verbica",
+   "name": "Peter Verbica",
+   "party": "Republican",
+   "current_role": "Financial advisor and attorney",
+   "bio": "Peter Coe Verbica is a Republican candidate for California's 19th congressional district. He holds a law degree and is a certified financial planner. His campaign centers on lowering the cost of living in California.",
+   "website": "https://peterverbica.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=100078446973953",
+    "youtube": "https://www.youtube.com/channel/UCms_9w3r9O_P477lrQmAD9Q"
+   },
+   "platform": [
+    {
+     "topic": "Gas prices",
+     "point": "Wants to end high gas taxes and special fuel blend requirements.",
+     "source": "https://peterverbica.com/"
+    },
+    {
+     "topic": "Water",
+     "point": "Seeks more water for farmers to bring down food prices.",
+     "source": "https://peterverbica.com/"
+    },
+    {
+     "topic": "Insurance",
+     "point": "Pledges to address California's home insurance crisis.",
+     "source": "https://peterverbica.com/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Supports local control over housing decisions.",
+     "source": "https://peterverbica.com/"
+    },
+    {
+     "topic": "Business",
+     "point": "Opposes PAGA lawsuits and rules restricting independent contractors.",
+     "source": "https://peterverbica.com/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Calls for immigration reform that serves the technology and farm sectors.",
+     "source": "https://peterverbica.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 20,
+     "evidence": "Opposes PAGA litigation and independent-contractor rules and wants lower taxes.",
+     "source": "https://peterverbica.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 30,
+     "evidence": "Wants to end gas taxes and reformulated fuel blend requirements.",
+     "source": "https://peterverbica.com/"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://img1.wsimg.com/isteam/ip/f005755e-a8f0-4d26-a505-55b7e059da9d/IMG_7848.JPG",
+   "notes": "The campaign site lists his name as Peter Coe Verbica."
+  }
+ },
+ {
+  "id": "CA-2/robin-littau",
+  "name": "Robin Littau",
+  "party": "Republican",
+  "race": "CA-2",
+  "race_label": "California · US House CA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-2/robin-littau",
+   "name": "Robin Littau",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Robin Littau is the Republican nominee for California's 2nd Congressional District in 2026. Little public biographical information is available.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign site, platform or voting record was found."
+  }
+ },
+ {
+  "id": "CA-20/sandra-van-scotter",
+  "name": "Sandra Van Scotter",
+  "party": "Democratic",
+  "race": "CA-20",
+  "race_label": "California · US House CA-20",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-20/sandra-van-scotter",
+   "name": "Sandra Van Scotter",
+   "party": "Democratic",
+   "current_role": "Health care worker and disability advocate",
+   "bio": "Sandra Van Scotter is a Democratic candidate for California's 20th congressional district. She has about 20 years of experience in health care and has served on a local advisory committee for the Kern Regional Center's Self-Determination Program.",
+   "website": "https://www.electsandravanscotter.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/sandravanscotter4cd20/",
+    "facebook": "http://facebook.com/SandraVanScotterforCongress"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Supports Medicare for All and a constitutional amendment making health care a right.",
+     "source": "https://www.electsandravanscotter.com/issues"
+    },
+    {
+     "topic": "Medi-Cal",
+     "point": "Opposes proposed cuts to Medi-Cal.",
+     "source": "https://www.electsandravanscotter.com/issues"
+    },
+    {
+     "topic": "Disability rights",
+     "point": "Pledges to advance access and inclusion for people with disabilities.",
+     "source": "https://www.electsandravanscotter.com/issues"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Promises town halls and direct office access for veterans and military families.",
+     "source": "https://www.electsandravanscotter.com/issues"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Backs border security plus legal status for long-settled undocumented workers.",
+     "source": "https://www.electsandravanscotter.com/issues"
+    },
+    {
+     "topic": "Water",
+     "point": "Supports sustainable water policy for farmers and residents.",
+     "source": "https://www.electsandravanscotter.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 100,
+     "evidence": "Supports Medicare for All as a constitutional right.",
+     "source": "https://www.electsandravanscotter.com/issues"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 20,
+     "evidence": "Supports a Reagan-style pathway to legal status for undocumented workers.",
+     "source": "https://www.electsandravanscotter.com/issues"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/51893d_e185af96a9004f8dba30d98ec8871196~mv2.jpg",
+   "notes": ""
+  }
+ },
+ {
+  "id": "CA-23/tessa-lynn-hodge",
+  "name": "Tessa Lynn Hodge",
+  "party": "Democratic",
+  "race": "CA-23",
+  "race_label": "California · US House CA-23",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-23/tessa-lynn-hodge",
+   "name": "Tessa Lynn Hodge",
+   "party": "Democratic",
+   "current_role": "Licensed clinical social worker",
+   "bio": "Tessa Lynn Hodge is a licensed clinical social worker who grew up in the High Desert region of California's 23rd District. She has worked with children in foster care and students needing school mental health services, and she helped San Bernardino County put state and federal legislation into county policy. This is her first campaign for Congress.",
+   "website": "https://tessaforca.com",
+   "social": {
+    "x": "https://x.com/tessaforca",
+    "instagram": "https://www.instagram.com/tessaforca/",
+    "facebook": "https://www.facebook.com/profile.php?id=61574790105613"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Make health care more affordable and accessible.",
+     "source": "https://tessaforca.com/issues"
+    },
+    {
+     "topic": "Housing",
+     "point": "Lower costs for homeowners and renters.",
+     "source": "https://tessaforca.com/issues"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Bring good jobs with livable wages to the district.",
+     "source": "https://tessaforca.com/issues"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Pursue a humane immigration policy.",
+     "source": "https://tessaforca.com/issues"
+    },
+    {
+     "topic": "Mental health",
+     "point": "Expand mental health resources and support.",
+     "source": "https://tessaforca.com/issues"
+    },
+    {
+     "topic": "Education",
+     "point": "Invest in public education.",
+     "source": "https://tessaforca.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 30,
+     "evidence": "Lists a humane immigration policy among her campaign priorities.",
+     "source": "https://tessaforca.com/issues"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {
+     "score": 70,
+     "evidence": "Lists investment in public education among her campaign priorities.",
+     "source": "https://tessaforca.com/issues"
+    },
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://run.imgix.net/3d168e21-fedf-4224-a39e-27cd57192ee3/25491d87-a147-4fda-9252-939f19f6d2f6/25491d87-a147-4fda-9252-939f19f6d2f6.jpg",
+   "notes": "Campaign issues page names priorities without detailed policy proposals; Ballotpedia could not be reached."
+  }
+ },
+ {
+  "id": "CA-25/joe-males",
+  "name": "Joe Males",
+  "party": "Republican",
+  "race": "CA-25",
+  "race_label": "California · US House CA-25",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-25/joe-males",
+   "name": "Joe Males",
+   "party": "Republican",
+   "current_role": "Hemet City Council member",
+   "bio": "Joe Males is a member of the Hemet City Council and a small-business owner who started his own computer networking business in 1996. He is a Marine Corps veteran who served overseas and left the service as a sergeant. He ran for city council to focus on public safety after the murder of his son, also a Marine, which he discusses in his campaign biography.",
+   "website": "https://joemalesforca.com",
+   "social": {
+    "x": "https://x.com/JoeMalesforCA",
+    "instagram": "https://www.instagram.com/joemalesforca",
+    "facebook": "https://www.facebook.com/JoeMalesforCA"
+   },
+   "platform": [
+    {
+     "topic": "Public safety",
+     "point": "Make public safety and the rule of law a priority.",
+     "source": "https://joemalesforca.com/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Improve infrastructure and support business growth in the Inland Empire and Imperial County.",
+     "source": "https://joemalesforca.com/"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Support veterans, drawing on his roles with veterans' organizations.",
+     "source": "https://joemalesforca.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": {
+     "score": 65,
+     "evidence": "Centers his campaign on public safety and the rule of law.",
+     "source": "https://joemalesforca.com/"
+    },
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://joemalesforca.com/wp-content/uploads/2025/04/Adobe-Express-file-5-e1744046921739-847x1024.png",
+   "notes": "No detailed policy platform was found on the campaign site."
+  }
+ },
+ {
+  "id": "CA-26/jacqui-irwin",
+  "name": "Jacqui Irwin",
+  "party": "Democratic",
+  "race": "CA-26",
+  "race_label": "California · US House CA-26",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-26/jacqui-irwin",
+   "name": "Jacqui Irwin",
+   "party": "Democratic",
+   "current_role": "California State Assemblymember for AD-42",
+   "bio": "Jacqui Irwin has served in the California State Assembly since 2014, representing the 44th District and since 2022 the 42nd, and chairs the Revenue and Taxation Committee. She previously served as mayor and city council member in Thousand Oaks and worked as a systems engineer at Johns Hopkins University and Teledyne. Raised in Woodland Hills, she holds a systems engineering degree from UC San Diego.",
+   "website": "https://www.jacquiirwin.com",
+   "social": {
+    "x": "https://x.com/jacquiirwin",
+    "facebook": "https://www.facebook.com/ElectJacquiIrwin"
+   },
+   "platform": [
+    {
+     "topic": "Affordability",
+     "point": "Address the rising cost of living, including federal action to ease construction barriers and fund affordable housing.",
+     "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+    },
+    {
+     "topic": "Democracy",
+     "point": "Oppose what she describes as Trump's attacks on democracy and shared values.",
+     "source": "https://www.jacquiirwin.com"
+    },
+    {
+     "topic": "Gun safety",
+     "point": "Expand gun safety measures, building on her gun violence restraining order legislation.",
+     "source": "https://www.jacquiirwin.com"
+    },
+    {
+     "topic": "Climate",
+     "point": "Cites her work reauthorizing California's climate law.",
+     "source": "https://www.jacquiirwin.com"
+    },
+    {
+     "topic": "Wildfire and insurance",
+     "point": "Improve wildfire resilience and access to home insurance.",
+     "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Protect access to health care.",
+     "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 75,
+     "evidence": "Authored legislation extending gun violence restraining orders to up to five years and campaigns on expanding gun safety (guns only).",
+     "source": "https://en.wikipedia.org/wiki/Jacqui_Irwin"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 75,
+     "evidence": "Highlights her role in reauthorizing California's climate law and authored recycled-plastic content requirements.",
+     "source": "https://www.jacquiirwin.com"
+    },
+    "tech": {
+     "score": 75,
+     "evidence": "Pushed AI companies to disclose training data and authored IoT device security requirements.",
+     "source": "https://en.wikipedia.org/wiki/Jacqui_Irwin"
+    },
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:150302-Z-WQ610- (16698067641) (cropped).jpg",
+    "license": "CC BY 2.0",
+    "author": "Master Sgt. David J. Loeffler, California National Guard"
+   },
+   "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5df831e93182260fee97e615/31050071-9e81-41bf-aef4-14df51fe1f34/meeno_Jacqui+Irwin-2022_346.jpg",
+   "notes": "Liberty score rests only on gun policy; no evidence found on her abortion, drug or speech positions, so it may shift once those are known."
+  }
+ }
+]

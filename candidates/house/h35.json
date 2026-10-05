@@ -1,0 +1,1154 @@
+[
+  {
+    "state": "Tennessee",
+    "district": "TN-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Diana Harshbarger",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 55,
+          "security": null,
+          "immigration": 90,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Anti-tax and anti-ACA stances, opposed ARPA and Medicaid obesity-drug coverage, pro-life but against gun control, supports border wall.",
+        "sources": [
+          "https://www.ontheissues.org/House/Diana_Harshbarger.htm",
+          "https://en.wikipedia.org/wiki/Diana_Harshbarger"
+        ],
+        "photo": {
+          "file": "File:Diana Harshbarger official photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "Office of Congresswoman Diana Harshbarger"
+        }
+      },
+      {
+        "name": "Kristi Burke",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 95,
+          "liberty": 15,
+          "security": null,
+          "immigration": 10,
+          "foreign": 30,
+          "energy": 80,
+          "tech": 70,
+          "education": 95,
+          "faith": 5
+        },
+        "basis": "Backs Medicare for All, higher taxes on the wealthy, abortion and LGBTQ rights, no mass deportations, diplomacy first, public schools over vouchers, church-state separation.",
+        "sources": [
+          "https://www.votekristiburke.com/non-negotiables"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Joshua Ray Ashburn",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Richard Baker",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chris Campbell",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Billy Cody",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Tyler McClain",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "district": "TN-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Tim Burchett",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": null,
+          "security": null,
+          "immigration": 80,
+          "foreign": 30,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Fiscal hawk who opposed debt-limit deals, voted for OBBBA, opposed H-2B visa expansion, voted to repeal Iraq AUMF and opposed Iran intervention.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Tim_Burchett"
+        ],
+        "photo": {
+          "file": "File:Rep Tim Burchett, 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Michaela Barnett",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": null,
+          "liberty": 25,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": 65,
+          "tech": 80,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Pro-worker economics, reproductive freedom and LGBTQ rights with responsible gun ownership, dignified immigration system, environmental protection, regulating AI and data centers.",
+        "sources": [
+          "https://michaelafortennessee.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Bruce Fine",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_2nd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Adam Heimerman",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_2nd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "district": "TN-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Chuck Fleischmann",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 85,
+          "energy": 35,
+          "tech": null,
+          "education": null,
+          "faith": 80
+        },
+        "basis": "Voted to repeal the ACA and weatherization aid, NRA A rating drove liberty, backs Ukraine and Israel aid, nuclear power, 'In God We Trust' displays.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Chuck_Fleischmann"
+        ],
+        "photo": {
+          "file": "File:Rep Chuck Fleischmann, 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Anna Golladay",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 85,
+          "welfare": 65,
+          "liberty": 25,
+          "security": null,
+          "immigration": 15,
+          "foreign": null,
+          "energy": 75,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Backs $15 wage, billionaire wealth tax, expanding programs but not Medicare for All, abortion and LGBTQ rights, gun safety laws, citizenship pathway, TVA renewables, anti-voucher.",
+        "sources": [
+          "https://annagolladay.com/policy/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Dean Arnold",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_3rd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jean Howard-Hill",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_3rd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Rodney King",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_3rd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Donnie Ownby",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_3rd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Edward Roland",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_3rd_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "district": "TN-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Scott DesJarlais",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 10,
+          "welfare": 15,
+          "liberty": 65,
+          "security": 70,
+          "immigration": 90,
+          "foreign": 60,
+          "energy": 10,
+          "tech": 35,
+          "education": 15,
+          "faith": 70
+        },
+        "basis": "FairTax and anti-ACA, pro-life and against same-sex marriage but pro-gun, PATRIOT Act extension, opposes citizenship pathway, backs drilling and vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/House/Scott_DesJarlais.htm",
+          "https://en.wikipedia.org/wiki/Scott_DesJarlais"
+        ],
+        "photo": {
+          "file": "File:Rep Scott DesJarlais, 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Victoria Broderick",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 60,
+          "liberty": 50,
+          "security": null,
+          "immigration": 55,
+          "foreign": 35,
+          "energy": null,
+          "tech": 80,
+          "education": 70,
+          "faith": 45
+        },
+        "basis": "Corporate tax reform, rural coverage and universal pre-K, protecting gun owners while reducing gun violence, secure border with fair process, war-spending oversight, AI accountability.",
+        "sources": [
+          "https://www.victoria4tennessee.org/more-about-my-platform"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jacob Anders",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_4th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Clay Faircloth",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_4th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "district": "TN-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Charlie Hatcher",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 55,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign describes him as pro-life and pro-gun; no other documented policy positions found.",
+        "sources": [
+          "https://charliehatcher.com/",
+          "https://en.wikipedia.org/wiki/Charlie_Hatcher"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chaz Molder",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 60,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports workers' right to organize, lowering healthcare costs, expanding coverage, rural hospital support, and a congressional stock trading ban.",
+        "sources": [
+          "https://chazmolder.com/issues/"
+        ],
+        "photo": {
+          "file": "File:Mayor Chaz Molder (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Hmil6 (cropped by Fad8229)"
+        }
+      },
+      {
+        "name": "James Johnson",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_5th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Micheál O'Leary",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_5th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "district": "TN-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Johnny Garrett",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 10,
+          "welfare": null,
+          "liberty": 65,
+          "security": 65,
+          "immigration": 95,
+          "foreign": 75,
+          "energy": null,
+          "tech": 20,
+          "education": null,
+          "faith": 75
+        },
+        "basis": "Permanent tax cuts, pro-life and trans sports ban with gun rights, backs police, border wall and deportations, pro-Israel, pro-AI innovation, Christian conservative.",
+        "sources": [
+          "https://johnnygarrettforcongress.com/issues/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mike Croley",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented policy positions found in available sources.",
+        "sources": [
+          "https://tennesseelookout.com/2025/07/08/whos-running-for-tennessees-6th-and-7th-u-s-house-seats/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chris Monday",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_6th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Angus Purdy",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_6th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "district": "TN-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Matt Van Epps",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 15,
+          "security": null,
+          "immigration": 85,
+          "foreign": 70,
+          "energy": null,
+          "tech": null,
+          "education": 10,
+          "faith": null
+        },
+        "basis": "Backed OBBBA tax cuts and deregulation, Medicaid reform, opposes gun control, supports border wall and deportations, peace through strength, school choice.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Matt_Van_Epps"
+        ],
+        "photo": {
+          "file": "File:Rep Matt Van Epps, 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Darden Copeland",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants corporations and wealthy to pay fair share, opposes Medicaid, Medicare and Social Security cuts, backs lower drug costs and rural hospitals.",
+        "sources": [
+          "https://dardenforcongress.com/home-2"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Andrew Koontz",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_7th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Lowell Reynolds",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_7th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "district": "TN-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "David Kustoff",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 70,
+          "security": null,
+          "immigration": 85,
+          "foreign": 75,
+          "energy": 10,
+          "tech": 30,
+          "education": 30,
+          "faith": 80
+        },
+        "basis": "Tax cuts, ACA repeal, no-exception pro-life and opposed same-sex marriage bills, gun rights, border wall, drilling deregulation, anti-Common Core, religious liberty.",
+        "sources": [
+          "https://www.ontheissues.org/House/David_Kustoff.htm",
+          "https://en.wikipedia.org/wiki/David_Kustoff"
+        ],
+        "photo": {
+          "file": "File:Rep. David Kustoff, official portrait, 2023 (head crop).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services (Nate Payne)"
+        }
+      },
+      {
+        "name": "Heidi Kuhn",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": 25,
+          "foreign": 20,
+          "energy": 45,
+          "tech": 85,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs $17 minimum wage, protecting Medicare and Medicaid, due process in ICE enforcement, ending the Iran war, energy price-gouging limits, data center moratorium.",
+        "sources": [
+          "https://kuhnforcongress.com/issues/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Adam Austill",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Wendell Blankenship",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Antonio Futch",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Pamela Moses",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Horace Taylor",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Henry Ward",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_8th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Tennessee",
+    "district": "TN-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Justin J. Pearson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 95,
+          "liberty": 75,
+          "security": null,
+          "immigration": 5,
+          "foreign": null,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs Medicare for All and higher wages, repealing permitless carry and red-flag laws (drove liberty), abolishing ICE, led Byhalia pipeline opposition.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Justin_J._Pearson"
+        ],
+        "photo": {
+          "file": "File:Justin J Pearson August 2023.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "TrentBenge"
+        }
+      },
+      {
+        "name": "Brent Taylor",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": 80,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Known for tough-on-crime stance, including backing a state amendment to deny bail for major violent crimes; few other documented positions.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brent_Taylor_(Tennessee_politician)"
+        ],
+        "photo": {
+          "file": "File:Brent Taylor (Tennessee politician).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "GatewayPolitics"
+        }
+      },
+      {
+        "name": "Dennis Clark",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_9th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Michelle Head",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+          "https://ballotpedia.org/Tennessee's_9th_Congressional_District_election,_2026"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,354 @@
+[
+ {
+  "id": "OH-10/thomas-mcmasters",
+  "name": "Thomas McMasters",
+  "party": "Libertarian",
+  "current_role": "Former Mayor of Huber Heights",
+  "bio": "Thomas McMasters served as mayor of Huber Heights, Ohio, from 2014 to 2018. He ran for Ohio's 10th congressional district as an independent in 2016 and is the Libertarian nominee for the seat in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Government efficiency", "point": "Focuses on finding inefficiencies in government and reducing wasteful spending.", "source": "https://www.aol.com/articles/ohio-10th-map-throws-wrinkle-212401000.html"},
+   {"topic": "Legislation review", "point": "Says he scrutinizes bill language to catch wording that undermines how a law works in practice.", "source": "https://www.aol.com/articles/ohio-10th-map-throws-wrinkle-212401000.html"},
+   {"topic": "Nonpartisan approach", "point": "Says he draws on ideas from across different political philosophies.", "source": "https://www.aol.com/articles/ohio-10th-map-throws-wrinkle-212401000.html"}
+  ],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or detailed issue positions found; Ballotpedia could not be reached."
+ },
+ {
+  "id": "OH-11/shontel-brown",
+  "name": "Shontel Brown",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for OH-11",
+  "bio": "Shontel Brown has represented Ohio's 11th congressional district since winning a 2021 special election. She previously served on the Warrensville Heights City Council and the Cuyahoga County Council, and chaired the Cuyahoga County Democratic Party. She founded a marketing support company before entering politics.",
+  "website": "https://shontelbrown.com/",
+  "social": {"x": "https://x.com/RepShontelBrown", "facebook": "https://www.facebook.com/RepShontelBrown", "instagram": "https://www.instagram.com/shontelbrown/"},
+  "platform": [
+   {"topic": "Health care", "point": "Backs extending Affordable Care Act tax credits and reversing cuts to ACA and Medicaid.", "source": "https://shontelbrown.house.gov/issues/health"},
+   {"topic": "Food security", "point": "Opposes cuts to SNAP that would affect families and seniors.", "source": "https://shontelbrown.com/"},
+   {"topic": "Social Security", "point": "Supports restoring full Social Security benefits for public-sector retirees.", "source": "https://shontelbrown.com/"},
+   {"topic": "Environmental health", "point": "Cosponsors bills to remove lead from homes and water pipes.", "source": "https://shontelbrown.house.gov/issues/health"},
+   {"topic": "Cybersecurity", "point": "Wants stronger cybersecurity requirements for federal contractors.", "source": "https://shontelbrown.com/"},
+   {"topic": "District investment", "point": "Seeks federal funding for infrastructure and community development in Northeast Ohio.", "source": "https://shontelbrown.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supported the Build Back Better Act's expanded federal spending package.", "source": "https://en.wikipedia.org/wiki/Shontel_Brown"},
+   "welfare": {"score": 80, "evidence": "Votes to extend ACA tax credits and opposes cuts to Medicaid and SNAP.", "source": "https://shontelbrown.house.gov/issues/health"},
+   "liberty": {"score": 20, "evidence": "Advocates for abortion access through her reproductive rights work (abortion).", "source": "https://shontelbrown.house.gov/issues/reproductive-rights"},
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 45, "evidence": "Voted for support to Israel after the October 7 attacks while backing war-powers limits on Iran.", "source": "https://en.wikipedia.org/wiki/Shontel_Brown"},
+   "energy": {"score": 75, "evidence": "Promotes clean-energy and environmental funding on her official energy and environment page.", "source": "https://shontelbrown.house.gov/issues/energy-and-environment"},
+   "tech": null,
+   "education": {"score": 70, "evidence": "Supports federal funding and grants for public school teachers.", "source": "https://shontelbrown.house.gov/issues/education"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://shontelbrown.com/wp-content/uploads/2024/08/shontel-brown-meet-836x1024.jpg",
+  "notes": "Economy score added from Build Back Better support; energy and education scores rest on official issue pages rather than specific votes."
+ },
+ {
+  "id": "OH-11/mike-kirchner",
+  "name": "Mike Kirchner",
+  "party": "Republican",
+  "current_role": "Retired consulting actuary",
+  "bio": "Mike Kirchner is a retired consulting actuary from Northeast Ohio. He won the 2026 Republican primary for Ohio's 11th congressional district and has not held elected office.",
+  "website": "https://www.mikekirchner.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Favors more market competition to hold down prices.", "source": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021668"},
+   {"topic": "Political civility", "point": "Calls for direct, fact-based communication and less inflammatory rhetoric.", "source": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021668"},
+   {"topic": "Immigration", "point": "Supports immigration by people able to take part successfully in the economy.", "source": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021668"},
+   {"topic": "Domestic focus", "point": "Says he would concentrate on domestic issues rather than foreign policy.", "source": "https://onyourballot.vote411.org/m/candidate-detail.do?id=72021668"}
+  ],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "https://mikekirchner.com/wp-content/uploads/2025/11/MikePicWithRedShirt-1.jpg",
+  "notes": "Public statements are too general to score; campaign site content is mainly videos."
+ },
+ {
+  "id": "OH-12/troy-balderson",
+  "name": "Troy Balderson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-12",
+  "bio": "Troy Balderson has represented Ohio's 12th congressional district since 2018. He previously served in the Ohio House of Representatives and the Ohio Senate. Before public office he helped run his family's car dealership in Zanesville.",
+  "website": "https://www.baldersonforcongress.com/",
+  "social": {"x": "https://x.com/RepBalderson", "facebook": "https://www.facebook.com/RepTroyBalderson", "instagram": "https://www.instagram.com/repbalderson/", "youtube": "https://www.youtube.com/channel/UCm6vJzx-mu4Xr56FnQKRz0w"},
+  "platform": [
+   {"topic": "Energy", "point": "Promotes expanded domestic energy production and grid reliability, and chairs the House Energy Action Team.", "source": "https://balderson.house.gov/issues/issue/?IssueID=15369"},
+   {"topic": "Spending", "point": "Wants to reduce federal spending to address inflation and cost of living.", "source": "https://www.baldersonforcongress.com/"},
+   {"topic": "Workforce", "point": "Focuses on closing Ohio's skilled-worker shortage through workforce development.", "source": "https://balderson.house.gov/issues/issue/?IssueID=15162"},
+   {"topic": "Rural health", "point": "Supports expanding telehealth and remote patient care in rural areas.", "source": "https://balderson.house.gov/issues/issue/?IssueID=15438"},
+   {"topic": "Broadband", "point": "Backs expanding broadband access to rural communities.", "source": "https://balderson.house.gov/issues/issue/?IssueID=15019"},
+   {"topic": "Education", "point": "Emphasises parental involvement and concerns over classroom content.", "source": "https://www.baldersonforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2025 reconciliation tax bill and campaigns on cutting federal spending.", "source": "https://www.baldersonforcongress.com/"},
+   "welfare": {"score": 20, "evidence": "Proposed drug testing for public-assistance recipients as a state legislator and backed the 2025 reconciliation bill.", "source": "https://en.wikipedia.org/wiki/Troy_Balderson"},
+   "liberty": {"score": 75, "evidence": "Voted against the Respect for Marriage Act (LGBTQ rights) and is a Second Amendment Caucus member (guns).", "source": "https://en.wikipedia.org/wiki/Troy_Balderson"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 10, "evidence": "Chairs the House Energy Action Team and applauded repeal of EPA regulations.", "source": "https://balderson.house.gov/issues/issue/?IssueID=15369"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Campaigns on parents' concerns over classroom content and parental involvement.", "source": "https://www.baldersonforcongress.com/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://cdn.prod.website-files.com/6346ce52fe6efe22331eed74/6442ef654f581601f1e4f45c_6344b08d9563b.webp",
+  "notes": "Education score added from campaign messaging on parental involvement; liberty score draws on marriage and gun issues only."
+ },
+ {
+  "id": "OH-12/jerrad-christian",
+  "name": "Jerrad Christian",
+  "party": "Democratic",
+  "current_role": "Software engineer and Navy veteran",
+  "bio": "Jerrad Christian is a software engineer who grew up in Appalachian Ohio and served five years in the U.S. Navy, including as a meteorologist and oceanographer. He attended Ohio University on the GI Bill and was the Democratic nominee for Ohio's 12th district in 2024.",
+  "website": "https://www.christianforohio.com/",
+  "social": {"x": "https://x.com/jerradchristian", "instagram": "https://www.instagram.com/jerrad.christian", "facebook": "https://www.facebook.com/christianforohio", "tiktok": "https://www.tiktok.com/@jerradchristian", "youtube": "https://www.youtube.com/@JerradChristianResists"},
+  "platform": [
+   {"topic": "Health care", "point": "Supports passing a universal healthcare system.", "source": "https://www.christianforohio.com/issues"},
+   {"topic": "Wages", "point": "Wants to raise the federal minimum wage above the poverty line.", "source": "https://www.christianforohio.com/issues"},
+   {"topic": "Immigration", "point": "Proposes replacing ICE with an accountable agency and prosecuting agents who violate rights.", "source": "https://www.christianforohio.com/issues"},
+   {"topic": "Campaign finance", "point": "Seeks to overturn Citizens United and cap campaign spending.", "source": "https://www.christianforohio.com/issues"},
+   {"topic": "Housing", "point": "Backs zoning reform, homeownership incentives and limits on corporate real estate speculation.", "source": "https://www.christianforohio.com/issues"},
+   {"topic": "Technology", "point": "Wants transparency and accountability rules for AI and data centers.", "source": "https://www.christianforohio.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Calls for a higher minimum wage, equal taxation of capital gains and wealth, and ending corporate subsidies.", "source": "https://www.christianforohio.com/issues"},
+   "welfare": {"score": 95, "evidence": "Supports universal healthcare and uncapping Social Security contributions.", "source": "https://www.christianforohio.com/issues"},
+   "liberty": {"score": 15, "evidence": "Wants to codify reproductive and marriage rights (abortion, LGBTQ rights).", "source": "https://www.christianforohio.com/issues"},
+   "security": {"score": 20, "evidence": "Seeks limits on data collection and closing law-enforcement data backdoors.", "source": "https://www.christianforohio.com/issues"},
+   "immigration": {"score": 10, "evidence": "Proposes abolishing ICE and replacing it with an accountable system.", "source": "https://www.christianforohio.com/issues"},
+   "foreign": {"score": 40, "evidence": "Wants offensive military aid to Israel halted while supporting Ukraine's sovereignty and a diplomatic end to the war.", "source": "https://www.christianforohio.com/issues"},
+   "energy": {"score": 75, "evidence": "Backs expanding renewables, grid modernization and reducing oil dependence.", "source": "https://www.christianforohio.com/issues"},
+   "tech": {"score": 80, "evidence": "Calls for AI and data-center regulation and a ban on sales of sensitive personal data.", "source": "https://www.christianforohio.com/issues"},
+   "education": {"score": 90, "evidence": "Wants public schools funded by student need rather than local property wealth.", "source": "https://www.christianforohio.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/2ce4e2_6061d8075018446591f4c4c64138f14e~mv2.png",
+  "notes": "Foreign, energy and tech scores added from his campaign issues page."
+ },
+ {
+  "id": "OH-13/emilia-sykes",
+  "name": "Emilia Sykes",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for OH-13",
+  "bio": "Emilia Sykes has represented Ohio's 13th congressional district since 2023. She previously represented an Akron-area district in the Ohio House of Representatives and served as House minority leader from 2019 to 2021. An Akron native, she holds a law degree and a master's in public health from the University of Florida.",
+  "website": "https://www.emiliasykesforcongress.com/",
+  "social": {"x": "https://x.com/RepEmiliaSykes", "instagram": "https://www.instagram.com/RepEmiliaSykes", "facebook": "https://www.facebook.com/repemiliasykes", "youtube": "https://www.youtube.com/@repemiliasykes"},
+  "platform": [
+   {"topic": "Environment", "point": "Describes clean water, air and environment as basic rights and backs green policies that create jobs.", "source": "https://www.emiliasykesforcongress.com/issues"},
+   {"topic": "Infrastructure", "point": "Supports federal investment in water, flood-control and Ohio River restoration projects.", "source": "https://en.wikipedia.org/wiki/Emilia_Sykes"},
+   {"topic": "Maternal health", "point": "Co-introduced the Black Maternal Health Momnibus Act to reduce pregnancy-related deaths.", "source": "https://en.wikipedia.org/wiki/Emilia_Sykes"},
+   {"topic": "Public safety", "point": "Co-introduced a bill letting police use COPS grants for recruitment and retention bonuses.", "source": "https://en.wikipedia.org/wiki/Emilia_Sykes"},
+   {"topic": "Reproductive health", "point": "Lists protecting women's access to reproductive healthcare as a campaign priority.", "source": "https://www.emiliasykesforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 70, "evidence": "Backs ACA subsidies and co-introduced the Black Maternal Health Momnibus Act.", "source": "https://en.wikipedia.org/wiki/Emilia_Sykes"},
+   "liberty": {"score": 25, "evidence": "Opposed Ohio's heartbeat abortion ban and stand-your-ground legislation (abortion, guns).", "source": "https://www.ontheissues.org/OH/Emilia_Sykes.htm"},
+   "security": {"score": 60, "evidence": "Co-introduced a bill expanding COPS hiring grants for local police.", "source": "https://en.wikipedia.org/wiki/Emilia_Sykes"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Campaigns on clean air and water as basic rights and supports environmental policy.", "source": "https://www.emiliasykesforcongress.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Her official House issues page returned an error, so evidence comes from Wikipedia, OnTheIssues and the campaign site."
+ },
+ {
+  "id": "OH-13/carey-coleman",
+  "name": "Carey Coleman",
+  "party": "Republican",
+  "current_role": "Radio host",
+  "bio": "Carey Coleman is a longtime Northeast Ohio radio host who left Akron station WNIR in 2026 to run for Congress. He won the 2026 Republican primary for Ohio's 13th district with the Summit County GOP's endorsement and has not held elected office.",
+  "website": "https://careycoleman.com/",
+  "social": {"x": "https://x.com/colemanforohio", "instagram": "https://www.instagram.com/colemanforcongress", "facebook": "https://www.facebook.com/colemanforohio", "tiktok": "https://www.tiktok.com/@colemanforcongress"},
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants to curb federal spending and expand energy production to reduce inflation.", "source": "https://careycoleman.com/issues/"},
+   {"topic": "Public safety", "point": "Supports more resources for police and tougher penalties for violent offenders.", "source": "https://careycoleman.com/issues/"},
+   {"topic": "Constitutional rights", "point": "Pledges to defend First and Second Amendment rights and limit federal overreach.", "source": "https://careycoleman.com/issues/"},
+   {"topic": "Jobs", "point": "Backs regulatory reform and advanced manufacturing growth in Ohio.", "source": "https://careycoleman.com/issues/"},
+   {"topic": "Infrastructure", "point": "Favors accountable infrastructure spending with faster permitting.", "source": "https://careycoleman.com/issues/"},
+   {"topic": "Border and education", "point": "Calls for securing the border and giving parents a strong voice in education.", "source": "https://careycoleman.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for reining in federal spending and pro-growth regulatory reform.", "source": "https://careycoleman.com/issues/"},
+   "welfare": null,
+   "liberty": {"score": 30, "evidence": "Pledges to defend Second Amendment gun rights and First Amendment speech rights (guns, speech).", "source": "https://careycoleman.com/issues/"},
+   "security": {"score": 75, "evidence": "Supports more police resources and stronger penalties for violent crime.", "source": "https://careycoleman.com/issues/"},
+   "immigration": {"score": 75, "evidence": "Lists securing the border among his core priorities.", "source": "https://careycoleman.com/"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Wants to unleash domestic energy production to lower costs.", "source": "https://careycoleman.com/issues/"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Wants parents to have a strong voice in their children's education.", "source": "https://careycoleman.com/"},
+   "faith": {"score": 65, "evidence": "Pledges to protect religious freedom alongside other constitutional rights.", "source": "https://careycoleman.com/issues/"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "OH-14/david-joyce",
+  "name": "David Joyce",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-14",
+  "bio": "David Joyce has represented Ohio's 14th congressional district since 2013 and chairs the Republican Governance Group. He was previously Geauga County prosecutor and worked as a public defender and assistant prosecutor. He was born in Cleveland and studied accounting and law at the University of Dayton.",
+  "website": "https://joyceforcongress.com/",
+  "social": {"x": "https://x.com/RepDaveJoyce", "instagram": "https://www.instagram.com/repdavejoyce", "facebook": "https://www.facebook.com/RepDaveJoyce", "youtube": "https://www.youtube.com/repdavejoyce"},
+  "platform": [
+   {"topic": "Great Lakes", "point": "Prioritises environmental protection of the Great Lakes.", "source": "https://joyceforcongress.com/"},
+   {"topic": "Opioids", "point": "Advocates for opioid addiction relief in Ohio communities.", "source": "https://joyceforcongress.com/"},
+   {"topic": "Public safety", "point": "Emphasises law enforcement, drawing on his prosecutorial career.", "source": "https://joyceforcongress.com/"},
+   {"topic": "Cannabis", "point": "Co-chairs the Cannabis Caucus and backs removing federal barriers to state cannabis laws.", "source": "https://en.wikipedia.org/wiki/David_Joyce_(politician)"},
+   {"topic": "Sexual assault care", "point": "Introduced the SANEs Act to address shortages of sexual assault nurse examiners.", "source": "https://en.wikipedia.org/wiki/David_Joyce_(politician)"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 30, "evidence": "Has voted repeatedly to repeal the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/David_Joyce_(politician)"},
+   "liberty": {"score": 35, "evidence": "Supports ending federal cannabis prohibition (drugs) and voted for the Respect for Marriage Act (LGBTQ rights).", "source": "https://en.wikipedia.org/wiki/David_Joyce_(politician)"},
+   "security": null,
+   "immigration": {"score": 60, "evidence": "His immigration record includes scrutiny of refugee admissions alongside support for H-2B visa expansions.", "source": "https://en.wikipedia.org/wiki/David_Joyce_(politician)"},
+   "foreign": {"score": 70, "evidence": "Member of the Congressional Ukraine and Taiwan caucuses.", "source": "https://en.wikipedia.org/wiki/David_Joyce_(politician)"},
+   "energy": {"score": 45, "evidence": "Member of the bipartisan Climate Solutions Caucus and prioritises Great Lakes protection.", "source": "https://en.wikipedia.org/wiki/David_Joyce_(politician)"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://joyceforcongress.com/wp-content/uploads/2018/03/Just-Dave-v3.00_00_23_22.Still002.jpg",
+  "notes": "Campaign headshot is a video still from 2018."
+ },
+ {
+  "id": "OH-14/maria-jukic",
+  "name": "Maria Jukic",
+  "party": "Democratic",
+  "current_role": "Attorney and former Euclid City Council member",
+  "bio": "Maria Jukic is an attorney from Northeast Ohio and a former member of the Euclid City Council. She worked in healthcare administration for 24 years. She won the 2026 Democratic primary for Ohio's 14th district.",
+  "website": "https://www.mariajukicforcongress.com/",
+  "social": {"facebook": "https://www.facebook.com/profile.php?id=61587475775493"},
+  "platform": [
+   {"topic": "Health care", "point": "Proposes lowering Medicare eligibility to 62, negotiating drug prices and working toward universal coverage.", "source": "https://www.mariajukicforcongress.com/healthcare-the-road-to-universal-coverage/"},
+   {"topic": "Taxes", "point": "Wants to close carried-interest and offshore loopholes and tax investment income more like wages.", "source": "https://www.mariajukicforcongress.com/tax-policy-for-the-paycheck-not-the-portfolio/"},
+   {"topic": "Artificial intelligence", "point": "Backs AI transparency, algorithmic accountability, content labeling and retraining for displaced workers.", "source": "https://www.mariajukicforcongress.com/artificial-intelligence/"},
+   {"topic": "Immigration", "point": "Calls for a constitutional, humane immigration system including a path to citizenship.", "source": "https://www.mariajukicforcongress.com/immigration-constitutional-humane-and-smart/"},
+   {"topic": "Data centers", "point": "Wants community consent required for data-center expansion.", "source": "https://www.mariajukicforcongress.com/data-centers/"},
+   {"topic": "Social Security", "point": "Pledges to protect earned Social Security benefits.", "source": "https://www.mariajukicforcongress.com/social-security-protect-what-americans-earned/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Proposes closing tax loopholes for the wealthy, taxing investment income and raising the minimum wage.", "source": "https://www.mariajukicforcongress.com/tax-policy-for-the-paycheck-not-the-portfolio/"},
+   "welfare": {"score": 85, "evidence": "Supports lowering Medicare eligibility to 62 and a path to universal coverage.", "source": "https://www.mariajukicforcongress.com/healthcare-the-road-to-universal-coverage/"},
+   "liberty": null,
+   "security": {"score": 30, "evidence": "Calls for reining in ICE enforcement powers.", "source": "https://www.mariajukicforcongress.com/immigration-constitutional-humane-and-smart/"},
+   "immigration": {"score": 20, "evidence": "Supports a path to citizenship and limits on ICE.", "source": "https://www.mariajukicforcongress.com/immigration-constitutional-humane-and-smart/"},
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Treats environmental and climate protection as a necessity.", "source": "https://www.mariajukicforcongress.com/environment-climate-change-protecting-whats-ours/"},
+   "tech": {"score": 80, "evidence": "Proposes a federal AI rights framework with transparency and accountability rules.", "source": "https://www.mariajukicforcongress.com/artificial-intelligence/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.mariajukicforcongress.com/wp-content/uploads/2026/02/Maria-Jukic-Headshot-apr2026-web-840x1024.jpg",
+  "notes": ""
+ },
+ {
+  "id": "OH-15/mike-carey",
+  "name": "Mike Carey",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-15",
+  "bio": "Mike Carey has represented Ohio's 15th congressional district since a 2021 special election and serves on the Ways and Means Committee. He previously worked in government affairs for a coal company and chaired the Ohio Coal Association. Raised in Sabina, Ohio, he served in the Army National Guard and graduated from Ohio State University.",
+  "website": "https://www.careyforcongress.com/",
+  "social": {"x": "https://x.com/RepMikeCarey", "facebook": "https://www.facebook.com/RepMikeCarey", "youtube": "https://www.youtube.com/@congressmanmikecarey"},
+  "platform": [
+   {"topic": "Taxes", "point": "Authored tax cuts including no tax on tips or overtime and permanent 2017 tax provisions.", "source": "https://www.careyforcongress.com/priorities"},
+   {"topic": "Social Security", "point": "Works on fixing Social Security overpayment problems and backed the Social Security Fairness Act.", "source": "https://www.careyforcongress.com/priorities"},
+   {"topic": "Public safety", "point": "Voted for the Laken Riley Act and HALT Fentanyl Act and backed border security funding.", "source": "https://www.careyforcongress.com/priorities"},
+   {"topic": "Spending", "point": "Supports cutting wasteful federal spending and Medicaid work requirements.", "source": "https://www.careyforcongress.com/priorities"},
+   {"topic": "Veterans and first responders", "point": "Sponsors bills on EMS, veteran health savings accounts and toxic-exposure care.", "source": "https://www.careyforcongress.com/priorities"},
+   {"topic": "Civility", "point": "Co-founded the bipartisan Civility and Respect Caucus.", "source": "https://www.careyforcongress.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Authored tax-cut legislation and supports cutting federal spending.", "source": "https://www.careyforcongress.com/priorities"},
+   "welfare": {"score": 20, "evidence": "Supports Medicaid work requirements.", "source": "https://www.careyforcongress.com/priorities"},
+   "liberty": {"score": 45, "evidence": "Opposes abortion and supports gun rights, but backed same-sex marriage protections (abortion, guns, LGBTQ rights).", "source": "https://www.ontheissues.org/OH/Mike_Carey.htm"},
+   "security": {"score": 80, "evidence": "Backs expanded law-enforcement hiring and the HALT Fentanyl Act.", "source": "https://www.careyforcongress.com/priorities"},
+   "immigration": {"score": 80, "evidence": "Voted for the Laken Riley Act and $175 billion in border security funding.", "source": "https://www.careyforcongress.com/priorities"},
+   "foreign": {"score": 70, "evidence": "Voted to provide Israel with military support after the October 2023 Hamas attack.", "source": "https://en.wikipedia.org/wiki/Mike_Carey_(politician)"},
+   "energy": {"score": 10, "evidence": "Former coal industry executive who advocates for coal and American energy independence.", "source": "https://en.wikipedia.org/wiki/Mike_Carey_(politician)"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supports school vouchers and school choice.", "source": "https://www.ontheissues.org/OH/Mike_Carey.htm"},
+   "faith": {"score": 80, "evidence": "Has argued that religious freedom does not require keeping religion out of public life, per OnTheIssues.", "source": "https://www.ontheissues.org/OH/Mike_Carey.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Liberty, education and faith scores rely on OnTheIssues summaries of 2021-2022 statements."
+ },
+ {
+  "id": "OH-15/don-leonard",
+  "name": "Don Leonard",
+  "party": "Democratic",
+  "current_role": "Former Ohio State University planning professor",
+  "bio": "Don Leonard taught city and regional planning at Ohio State University for about ten years. He previously served two years as a Peace Corps volunteer in South America and was a postdoctoral researcher at Tulane University. He is based in the Columbus area.",
+  "website": "https://donforohio.com/",
+  "social": {"instagram": "https://www.instagram.com/donforohio/", "facebook": "https://www.facebook.com/profile.php?id=61581963835424", "tiktok": "https://www.tiktok.com/@donforohio"},
+  "platform": [
+   {"topic": "Economy", "point": "Says one job should be enough to buy a home, raise a family and retire.", "source": "https://donforohio.com/values"},
+   {"topic": "Family support", "point": "Supports universal healthcare, affordable childcare and paid family leave.", "source": "https://donforohio.com/values"},
+   {"topic": "Campaign finance", "point": "Wants to reduce the influence of money in politics.", "source": "https://donforohio.com/values"},
+   {"topic": "Foreign policy", "point": "Favors diplomacy and restoring Congress's authority over decisions to go to war.", "source": "https://donforohio.com/values"},
+   {"topic": "Environment", "point": "Wants community welfare prioritised over corporate development projects.", "source": "https://donforohio.com/values"},
+   {"topic": "Immigration", "point": "Supports border security combined with respect for immigrants.", "source": "https://donforohio.com/values"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Campaigns on economic justice and wages sufficient to buy a home and retire.", "source": "https://donforohio.com/values"},
+   "welfare": {"score": 90, "evidence": "Supports universal healthcare, affordable childcare and paid family leave.", "source": "https://donforohio.com/values"},
+   "liberty": {"score": 20, "evidence": "Backs civil-rights protections from discrimination, including for LGBTQ people (LGBTQ rights).", "source": "https://donforohio.com/values"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Pairs border security with respect for immigrants.", "source": "https://donforohio.com/values"},
+   "foreign": {"score": 30, "evidence": "Favors diplomacy, fewer wars and restoring congressional war authority.", "source": "https://donforohio.com/values"},
+   "energy": {"score": 60, "evidence": "Prioritises protecting communities and water from harmful development projects.", "source": "https://donforohio.com/values"},
+   "tech": {"score": 65, "evidence": "Supports limits on data-center development affecting communities.", "source": "https://donforohio.com/values"},
+   "education": {"score": 75, "evidence": "Supports public schools.", "source": "https://donforohio.com/values"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/687eb236d4e3d45f11da2aa6/b53dd593-9c08-4fd4-8192-f41c2b4977cb/DSC02163.jpg",
+  "notes": "Education and tech scores rest on brief statements about public schools and data centers on his values page."
+ },
+ {
+  "id": "OH-15/brennan-barrington",
+  "name": "Brennan Barrington",
+  "party": "Libertarian",
+  "current_role": "Engineer",
+  "bio": "Brennan Barrington is an engineer with a bachelor's degree in aeronautical and astronautical engineering from Ohio State University. He is the Libertarian nominee for Ohio's 15th congressional district in 2026 and has not held elected office.",
+  "website": "",
+  "social": {"x": "https://x.com/Barrington4OH15"},
+  "platform": [
+   {"topic": "Size of government", "point": "Wants to sharply reduce the scope of the federal government and return authority to states and individuals.", "source": "https://lpo.org/2025/11/06/2026-candidates/"},
+   {"topic": "Regulation", "point": "Seeks to eliminate regulations he views as deterring success and expanding bureaucracy.", "source": "https://lpo.org/2025/11/06/2026-candidates/"},
+   {"topic": "Taxes", "point": "Favors reforming taxes along Georgist land-value and Pigouvian lines.", "source": "https://lpo.org/2025/11/06/2026-candidates/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Calls for shrinking the federal government and eliminating regulatory systems, while rejecting socialism.", "source": "https://lpo.org/2025/11/06/2026-candidates/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website found; bio and positions come from the Libertarian Party of Ohio candidate page."
+ }
+]

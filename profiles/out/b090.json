@@ -1,0 +1,356 @@
+[
+ {
+  "id": "TN-9/michelle-head",
+  "name": "Michelle Davis Head",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Michelle Davis Head is an independent candidate for Tennessee's 9th Congressional District in 2026. She lives in Lewisburg, Tennessee.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Very little public information exists; election coverage lists her as Michelle Davis Head of Lewisburg, and no campaign site or stated positions were found."
+ },
+ {
+  "id": "TX-1/nathaniel-moran",
+  "name": "Nathaniel Moran",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-1",
+  "bio": "Nathaniel Moran has represented Texas's 1st Congressional District since 2023 and sits on the Ways and Means Committee. An attorney from the Tyler area, he previously served on the Tyler City Council (2005-2009) and as Smith County Judge (2016-2022).",
+  "website": "",
+  "social": {"x": "https://x.com/RepNateMoran", "facebook": "https://www.facebook.com/RepNateMoran", "instagram": "https://www.instagram.com/RepNateMoran", "youtube": "https://www.youtube.com/@RepNateMoran"},
+  "platform": [
+   {"topic": "Economy", "point": "Address the national debt through measures like the TRUST Act and cut taxes on workers, including a No Tax on Overtime bill.", "source": "https://moran.house.gov/Issues/Issue/?IssueID=14898"},
+   {"topic": "Trade", "point": "Restrict imports of dangerous products from China.", "source": "https://moran.house.gov/Issues/Issue/?IssueID=14898"},
+   {"topic": "Technology", "point": "Require developers of advanced AI systems to keep the ability to throttle or shut them down (AI Kill Switch Act).", "source": "https://en.wikipedia.org/wiki/Nathaniel_Moran"},
+   {"topic": "Abortion", "point": "Lists pro-life policy as a core issue of his congressional office.", "source": "https://moran.house.gov/issues"},
+   {"topic": "Border", "point": "Lists border security and election integrity among his main legislative priorities.", "source": "https://moran.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Prioritizes debt reduction and tax cuts such as No Tax on Overtime, and voted against the 2023 Fiscal Responsibility Act.", "source": "https://moran.house.gov/Issues/Issue/?IssueID=14898"},
+   "welfare": {"score": 20, "evidence": "Focuses on reducing federal spending and the debt, and sits on the Work and Welfare subcommittee backing Republican budget priorities.", "source": "https://en.wikipedia.org/wiki/Nathaniel_Moran"},
+   "liberty": {"score": 80, "evidence": "Abortion: lists pro-life policy as a core issue on his official site.", "source": "https://moran.house.gov/issues"},
+   "security": null,
+   "immigration": {"score": 80, "evidence": "Lists border security as a core issue and supported the Laken Riley Act.", "source": "https://moran.house.gov/issues"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Official energy priorities emphasize expanding domestic energy production.", "source": "https://moran.house.gov/Issues/Issue/?IssueID=10177"},
+   "tech": {"score": 65, "evidence": "Co-introduced the 2026 AI Kill Switch Act requiring shutdown capability for advanced AI systems.", "source": "https://en.wikipedia.org/wiki/Nathaniel_Moran"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Welfare and energy scores rest on the earlier research summary; his official issue pages give few specifics."
+ },
+ {
+  "id": "TX-1/yolanda-prince",
+  "name": "Yolanda Prince",
+  "party": "Democratic",
+  "current_role": "University project manager",
+  "bio": "Yolanda R. Prince won the May 2026 Democratic primary runoff for Texas's 1st Congressional District. She holds degrees from Stephen F. Austin State University and the University of Texas at Arlington, and has worked in education, nonprofits and government, most recently as a university project manager.",
+  "website": "https://yolandaprince.com",
+  "social": {},
+  "platform": [
+   {"topic": "Wages", "point": "Raise the federal minimum wage to at least $15 an hour.", "source": "https://yolandaprince.com/issues"},
+   {"topic": "Healthcare", "point": "Create a single-payer Medicare for All system and let the government negotiate lower drug prices.", "source": "https://yolandaprince.com/issues"},
+   {"topic": "Rural health", "point": "Raise Medicare reimbursement rates to keep rural hospitals and clinics open.", "source": "https://yolandaprince.com/issues"},
+   {"topic": "Education", "point": "Raise teacher pay and fund universal pre-K and school meals.", "source": "https://yolandaprince.com/issues"},
+   {"topic": "Abortion", "point": "Supports restoring Roe v. Wade protections for abortion access.", "source": "https://yolandaprince.com/issues"},
+   {"topic": "Immigration", "point": "Create a pathway to citizenship and end immigrant detention centers.", "source": "https://yolandaprince.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports a federal minimum wage of at least $15 and government negotiation of drug prices.", "source": "https://yolandaprince.com/issues"},
+   "welfare": {"score": 95, "evidence": "Backs single-payer Medicare for All plus universal pre-K and school meals.", "source": "https://yolandaprince.com/issues"},
+   "liberty": {"score": 20, "evidence": "Abortion: describes herself as pro-choice and backs restoring Roe.", "source": "https://yolandaprince.com/issues"},
+   "security": {"score": 35, "evidence": "Opposes for-profit prisons and calls for fairness and accountability in criminal justice.", "source": "https://yolandaprince.com/issues"},
+   "immigration": {"score": 15, "evidence": "Supports a pathway to citizenship and ending detention centers.", "source": "https://yolandaprince.com/issues"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 85, "evidence": "Calls for protecting public education, higher teacher pay and universal pre-K.", "source": "https://yolandaprince.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-2/steve-toth",
+  "name": "Steve Toth",
+  "party": "Republican",
+  "current_role": "Texas State Representative for District 15",
+  "bio": "Steve Toth has represented District 15 in the Texas House (2013-2015 and since 2019) and won the 2026 Republican primary for Texas's 2nd Congressional District over incumbent Dan Crenshaw. A businessman from The Woodlands, he owns pool companies and previously worked as a pastor.",
+  "website": "https://stevetothforcongress.com",
+  "social": {"x": "https://x.com/SteveTothTX", "facebook": "https://www.facebook.com/SteveTothTX", "instagram": "https://www.instagram.com/stevetothtx/"},
+  "platform": [
+   {"topic": "Border", "point": "Push Congress to secure the southern border against illegal immigration.", "source": "https://stevetothforcongress.com/issues/"},
+   {"topic": "Education", "point": "Keep Critical Race Theory and DEI out of classrooms.", "source": "https://stevetothforcongress.com/issues/"},
+   {"topic": "Energy", "point": "Expand Texas oil and gas production for American energy independence.", "source": "https://stevetothforcongress.com/issues/"},
+   {"topic": "Guns", "point": "Oppose red flag laws and other gun restrictions.", "source": "https://stevetothforcongress.com/issues/"},
+   {"topic": "National security", "point": "Stop foreign adversaries from owning U.S. land while working with allies.", "source": "https://stevetothforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaigns on limiting government and reducing government overreach.", "source": "https://stevetothforcongress.com/issues/"},
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Abortion: co-authored a heartbeat bill; LGBTQ: backed limits on gender transition for minors; guns: authored gun-rights bills and backs constitutional carry.", "source": "https://en.wikipedia.org/wiki/Steve_Toth"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Makes securing the southern border his top campaign issue.", "source": "https://stevetothforcongress.com/issues/"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Calls for expanding oil and gas production for energy independence.", "source": "https://stevetothforcongress.com/issues/"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Opposes CRT and DEI in schools and authored the CSCOPE Transparency Act.", "source": "https://en.wikipedia.org/wiki/Steve_Toth"},
+   "faith": null
+  },
+  "photo": {"file": "File:SteveToth--EagleForum--TX2Debate--GraceChurch--SpringTX--08Jan2026 (cropped).jpg", "license": "CC0", "author": "LiwenAristodemos"},
+  "campaign_photo": "https://stevetothforcongress.com/wp-content/uploads/2025/07/steve-badge-v2-768x768.webp",
+  "notes": "Energy score added from his campaign issues page."
+ },
+ {
+  "id": "TX-2/shaun-finnie",
+  "name": "Shaun Finnie",
+  "party": "Democratic",
+  "current_role": "Business executive",
+  "bio": "Shaun Finnie is the Democratic nominee for Texas's 2nd Congressional District and lives in The Woodlands. A business executive and former investment banker, he holds undergraduate, graduate and law degrees from Northwestern University.",
+  "website": "https://shaunfinnieforcongress.com",
+  "social": {"x": "https://x.com/shaunfinnie", "instagram": "https://www.instagram.com/shaunfinnieforcongress/", "facebook": "https://www.facebook.com/profile.php?id=61577416087375", "tiktok": "https://www.tiktok.com/@shaunfinnieforcongress", "youtube": "https://www.youtube.com/@shaunfinnieforcongress"},
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower living costs and oppose tariffs, which he likens to hidden taxes on households.", "source": "https://politicsdoneright.com/2026/08/shaun-finnie-makes-the-middle-class-his-mission-in-texas-congressional-district-2/"},
+   {"topic": "Debt", "point": "Lists the federal debt among his campaign priorities.", "source": "https://shaunfinnieforcongress.com/issues/"},
+   {"topic": "Healthcare", "point": "Restore enhanced ACA subsidies and create a public insurance option.", "source": "https://politicsdoneright.com/2026/08/shaun-finnie-makes-the-middle-class-his-mission-in-texas-congressional-district-2/"},
+   {"topic": "Education", "point": "Invest in public schools, universal pre-K, affordable childcare and scientific research.", "source": "https://politicsdoneright.com/2026/08/shaun-finnie-makes-the-middle-class-his-mission-in-texas-congressional-district-2/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Calls for higher wages while opposing tariffs as a hidden tax on households.", "source": "https://egberto.substack.com/p/texas-cd2-democrat-shaun-finnie-takes"},
+   "welfare": {"score": 70, "evidence": "Backs enhanced ACA subsidies, a public option and universal pre-K.", "source": "https://politicsdoneright.com/2026/08/shaun-finnie-makes-the-middle-class-his-mission-in-texas-congressional-district-2/"},
+   "liberty": {"score": 25, "evidence": "Abortion: defends reproductive freedom and women's autonomy in healthcare decisions.", "source": "https://egberto.substack.com/p/texas-cd2-democrat-shaun-finnie-takes"},
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Supports deporting people convicted of serious crimes but opposes mass deportation and insists on due process.", "source": "https://egberto.substack.com/p/texas-cd2-democrat-shaun-finnie-takes"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 75, "evidence": "Calls for investing in public education and universal pre-K.", "source": "https://shaunfinnieforcongress.com/issues/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-3/keith-self",
+  "name": "Keith Self",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-3",
+  "bio": "Keith Self has represented Texas's 3rd Congressional District since 2023 and serves on the House Foreign Affairs Committee. He was Collin County Judge from 2007 to 2018 after a U.S. Army career (1975-1999) in the Special Forces and Rangers, retiring as a lieutenant colonel. He grew up in Amarillo.",
+  "website": "",
+  "social": {"x": "https://x.com/repkeithself", "facebook": "https://www.facebook.com/repkeithself", "instagram": "https://www.instagram.com/repkeithself"},
+  "platform": [
+   {"topic": "National debt", "point": "Cut federal spending, pursue pro-growth tax policy and remove burdensome regulations.", "source": "https://keithself.house.gov/issues/national-debt"},
+   {"topic": "Abortion", "point": "Work to end abortion procedures and protect unborn life.", "source": "https://keithself.house.gov/issues/life"},
+   {"topic": "Border", "point": "Enforce existing immigration law, fund more agents and expand physical barriers.", "source": "https://keithself.house.gov/issues/border-security-immigration"},
+   {"topic": "Guns", "point": "Protect Second Amendment rights and oppose AR-15 restrictions.", "source": "https://en.wikipedia.org/wiki/Keith_Self"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Pledges pro-growth tax policy, federal spending cuts and deregulation.", "source": "https://keithself.house.gov/issues/national-debt"},
+   "welfare": {"score": 20, "evidence": "Calls for cutting federal spending and voted against the 2023 debt deal as insufficiently restrained.", "source": "https://keithself.house.gov/issues/national-debt"},
+   "liberty": {"score": 70, "evidence": "Abortion: seeks to end abortion procedures; guns: rejected AR-15 restrictions after the Allen shooting.", "source": "https://keithself.house.gov/issues/life"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Calls for strict enforcement, more immigration agents and expanded border barriers.", "source": "https://keithself.house.gov/issues/border-security-immigration"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 80, "evidence": "Co-founded the Sharia-Free America Caucus and cited prayer as a response to gun violence.", "source": "https://en.wikipedia.org/wiki/Keith_Self"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-3/evan-hunt",
+  "name": "Evan Hunt",
+  "party": "Democratic",
+  "current_role": "Retired Air Force lieutenant colonel and aerospace executive",
+  "bio": "Evan Hunt is the Democratic nominee for Texas's 3rd Congressional District and lives in McKinney. He retired as a U.S. Air Force lieutenant colonel after more than 20 years as a B-1 weapons systems officer, then held executive roles in defense and aerospace, including at Raytheon. He studied at the University of Pennsylvania and American Military University.",
+  "website": "https://www.electevanhunt.com",
+  "social": {"instagram": "https://www.instagram.com/electevanhunt", "facebook": "https://www.facebook.com/share/1AacHwW1r8", "tiktok": "https://www.tiktok.com/@electevanhunt", "youtube": "https://www.youtube.com/@electevanhunt"},
+  "platform": [
+   {"topic": "Education", "point": "Fully fund public schools with merit-based raises for teachers and oppose vouchers.", "source": "https://www.electevanhunt.com/"},
+   {"topic": "Healthcare", "point": "Lower prescription costs and improve price transparency through public-private partnerships.", "source": "https://www.electevanhunt.com/"},
+   {"topic": "Ethics", "point": "Adopt term limits, a congressional stock trading ban, anti-gerrymandering rules and Supreme Court ethics standards.", "source": "https://www.electevanhunt.com/"},
+   {"topic": "Alliances", "point": "Keep NATO and partnerships strong as force multipliers for U.S. security.", "source": "https://www.electevanhunt.com/"},
+   {"topic": "Immigration", "point": "Strengthen border security while offering pathways for law-abiding immigrants and guaranteeing due process.", "source": "https://www.electevanhunt.com/"},
+   {"topic": "Wages", "point": "Raise the federal minimum wage to $17 an hour, indexed to inflation.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-evan-hunt-for"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Supports a $17 inflation-indexed minimum wage while opposing tariffs and trade wars.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-evan-hunt-for"},
+   "welfare": {"score": 60, "evidence": "Backs a public-private healthcare model and protecting Social Security.", "source": "https://www.electevanhunt.com/"},
+   "liberty": {"score": 15, "evidence": "LGBTQ and speech: pledges to protect personal identity, speech and religion from government overreach; guns: supports some gun safety measures.", "source": "https://www.electevanhunt.com/"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Supports legal pathways, more asylum officers, due process and ending family separation.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-evan-hunt-for"},
+   "foreign": {"score": 75, "evidence": "Calls NATO and strong alliances force multipliers for U.S. security.", "source": "https://www.electevanhunt.com/"},
+   "energy": {"score": 60, "evidence": "Favors incentives for clean-energy innovation rather than rigid mandates.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-evan-hunt-for"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Wants public schools fully funded and opposes vouchers.", "source": "https://www.electevanhunt.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/67fadcf11912d9559c3d19a1/2d5f5d47-c0f6-46f1-bbe9-bb47e0e2ec28/Mini.jpg",
+  "notes": ""
+ },
+ {
+  "id": "TX-4/pat-fallon",
+  "name": "Pat Fallon",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-4",
+  "bio": "Pat Fallon has represented Texas's 4th Congressional District since 2021. He previously served on the Frisco City Council, in the Texas House (2013-2019) and in the Texas Senate (2019-2021). A former Air Force officer, he leads Virtus Apparel, a clothing company based in Prosper, Texas.",
+  "website": "",
+  "social": {"x": "https://x.com/RepPatFallon", "facebook": "https://www.facebook.com/RepPatFallon", "instagram": "https://www.instagram.com/RepPatFallon", "youtube": "https://www.youtube.com/RepPatFallon"},
+  "platform": [
+   {"topic": "Energy", "point": "Secure energy supply chains, improve grid resilience and rescind offshore wind tax credits.", "source": "https://fallon.house.gov/Issues/Issue/?IssueID=10177"},
+   {"topic": "Taxation", "point": "Sponsored bills on special district fairness and grant access, and a bill to end offshore wind tax credits.", "source": "https://fallon.house.gov/Issues/Issue/?IssueID=10493"},
+   {"topic": "Defense", "point": "Lists defense, immigration and transportation among his main policy areas in Congress.", "source": "https://fallon.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Record of low-tax votes and a bill to rescind offshore wind tax credits; opposed the 2023 Fiscal Responsibility Act.", "source": "https://en.wikipedia.org/wiki/Pat_Fallon"},
+   "welfare": {"score": 15, "evidence": "Opposed taxpayer-funded school breakfast and voted to require drug testing for unemployment benefits.", "source": "https://en.wikipedia.org/wiki/Pat_Fallon"},
+   "liberty": {"score": 65, "evidence": "Abortion: backed Texas's 20-week ban; guns: co-sponsored concealed-carry bills with an NRA A+ rating.", "source": "https://en.wikipedia.org/wiki/Pat_Fallon"},
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 65, "evidence": "Voted for aid to Israel.", "source": "https://en.wikipedia.org/wiki/Pat_Fallon"},
+   "energy": {"score": 20, "evidence": "Introduced a bill to rescind offshore wind tax credits.", "source": "https://fallon.house.gov/Issues/Issue/?IssueID=10177"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 85, "evidence": "Co-authored the 2013 Texas law allowing 'Merry Christmas' greetings and holiday displays in schools.", "source": "https://en.wikipedia.org/wiki/Pat_Fallon"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-4/jason-pearce",
+  "name": "Jason Pearce",
+  "party": "Democratic",
+  "current_role": "Former sales and finance professional",
+  "bio": "Jason Pearce is the Democratic nominee for Texas's 4th Congressional District. A Plano native who attended the University of North Texas, he has worked in wireless consulting, sales management, mortgage, finance, insurance and hospitality.",
+  "website": "https://pearcefortexas.com",
+  "social": {"x": "https://x.com/JasonPearceTX", "instagram": "https://www.instagram.com/pearcefortexas", "tiktok": "https://www.tiktok.com/@pearcefortexas"},
+  "platform": [
+   {"topic": "Healthcare", "point": "Supports Medicare for All.", "source": "https://pearcefortexas.com/"},
+   {"topic": "Health costs", "point": "Lower prescription drug costs and make childbirth free for families.", "source": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-4-d/candidates/jason-pearce"},
+   {"topic": "Housing", "point": "Ban corporations from buying and renting out single-family homes.", "source": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-4-d/candidates/jason-pearce"},
+   {"topic": "Wages", "point": "Raise the minimum wage and create paid family leave.", "source": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-4-d/candidates/jason-pearce"},
+   {"topic": "Social Security", "point": "Expand Social Security benefits rather than cut them.", "source": "https://pearcefortexas.com/"},
+   {"topic": "Guns", "point": "Require universal background checks, waiting periods and gun safety training.", "source": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-4-d/candidates/jason-pearce"},
+   {"topic": "Government", "point": "Set term limits and a retirement age of 65 for all offices, including judges.", "source": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-4-d/candidates/jason-pearce"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Backs a higher minimum wage, paid family leave, anti-price-gouging rules and limits on corporate home buying.", "source": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-4-d/candidates/jason-pearce"},
+   "welfare": {"score": 85, "evidence": "Campaign site endorses Medicare for All and expanding Social Security.", "source": "https://pearcefortexas.com/"},
+   "liberty": {"score": 55, "evidence": "Guns: supports universal background checks, waiting periods and required safety training.", "source": "https://www.branch.vote/races/2026-texas-primary-election-tx-state-us-representative-tx-congressional-4-d/candidates/jason-pearce"},
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 35, "evidence": "Says he wants to end endless wars.", "source": "https://pearcefortexas.com/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/edf5ac_0f3f7e86200e416ba842b33eb5f5ac45~mv2.png",
+  "notes": "Welfare raised from 75 to 85 because his campaign site now endorses Medicare for All; foreign score added from his 'end endless wars' statement."
+ },
+ {
+  "id": "TX-5/lance-gooden",
+  "name": "Lance Gooden",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-5",
+  "bio": "Lance Gooden has represented Texas's 5th Congressional District since 2019. He previously served in the Texas House (2011-2015 and 2017-2019). Raised in Kaufman County, he holds government and finance degrees from the University of Texas at Austin.",
+  "website": "",
+  "social": {"youtube": "https://www.youtube.com/channel/UCaEs0pYlL_1cLlPBHfl0RIg"},
+  "platform": [
+   {"topic": "Border", "point": "Secure the southern border, remove criminal illegal immigrants and support Border Patrol and ICE.", "source": "https://gooden.house.gov/border-security-immigration"},
+   {"topic": "Healthcare", "point": "Oppose socialized medicine in favor of free-market options, and block taxpayer funding of abortion.", "source": "https://gooden.house.gov/healthcare"},
+   {"topic": "Energy", "point": "Pursue an all-of-the-above energy strategy with deregulation and use of Texas resources.", "source": "https://gooden.house.gov/energy-natural-resources"},
+   {"topic": "Education", "point": "Give states and parents more control and expand career and technical education.", "source": "https://gooden.house.gov/education"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Advocates deregulation and free-market principles across energy and healthcare.", "source": "https://gooden.house.gov/energy-natural-resources"},
+   "welfare": {"score": 15, "evidence": "Opposes socializing medicine and favors free-market health solutions.", "source": "https://gooden.house.gov/healthcare"},
+   "liberty": {"score": 75, "evidence": "Abortion: opposes taxpayer-funded abortion; LGBTQ: co-sponsored a bill criminalizing gender-affirming care for minors and did not back the Respect for Marriage Act.", "source": "https://en.wikipedia.org/wiki/Lance_Gooden"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Backs removing illegal immigrants and opposed H-2B visa expansion.", "source": "https://gooden.house.gov/border-security-immigration"},
+   "foreign": {"score": 30, "evidence": "Voted against the April 2024 Ukraine military aid package.", "source": "https://en.wikipedia.org/wiki/Lance_Gooden"},
+   "energy": {"score": 20, "evidence": "Supports all-of-the-above energy with deregulation of production.", "source": "https://gooden.house.gov/energy-natural-resources"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Favors policies that empower states and parental choice over federal control.", "source": "https://gooden.house.gov/education"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-5/chelsey-hockett",
+  "name": "Chelsey Hockett",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Chelsey Hockett is the Democratic nominee for Texas's 5th Congressional District. She describes herself as a mother from a union family in East Texas who is not a career politician, and says medical bills and a job loss during COVID-19 prompted her run.",
+  "website": "https://chelseyhockettforcongress.com",
+  "social": {"instagram": "https://www.instagram.com/chelseyhockettforcongress/", "facebook": "https://www.facebook.com/ChelseyHockettforCongress/", "tiktok": "https://www.tiktok.com/@hockettforcongress"},
+  "platform": [
+   {"topic": "Healthcare", "point": "Enact Medicare for All, treating health care as a right.", "source": "https://chelseyhockettforcongress.com/"},
+   {"topic": "Wages", "point": "Set a $25 minimum wage and expand Social Security benefits.", "source": "https://chelseyhockettforcongress.com/"},
+   {"topic": "Taxes", "point": "Raise taxes on billionaires and corporations to pay for schools, healthcare and infrastructure.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-chelsey-hockett"},
+   {"topic": "Climate", "point": "Pass a Green New Deal with public clean-energy investment and a more reliable grid.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-chelsey-hockett"},
+   {"topic": "Policing", "point": "End qualified immunity and set federal use-of-force standards with independent investigations.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-chelsey-hockett"},
+   {"topic": "Education", "point": "Fully fund public schools and pay teachers competitively.", "source": "https://chelseyhockettforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 90, "evidence": "Backs higher taxes on billionaires and corporations and a $25 minimum wage.", "source": "https://chelseyhockettforcongress.com/"},
+   "welfare": {"score": 100, "evidence": "Supports Medicare for All and expanded Social Security.", "source": "https://chelseyhockettforcongress.com/"},
+   "liberty": {"score": 15, "evidence": "Abortion: lists protecting reproductive freedom in her platform.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-chelsey-hockett"},
+   "security": {"score": 15, "evidence": "Wants to end qualified immunity and impose federal use-of-force standards.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-chelsey-hockett"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 95, "evidence": "Supports a Green New Deal with public investment in clean energy.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-chelsey-hockett"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Calls for fully funding public schools with competitive teacher pay.", "source": "https://chelseyhockettforcongress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://chelseyhockettforcongress.com/images/chelsey.jpg",
+  "notes": "Liberty score rests on abortion alone."
+ },
+ {
+  "id": "TX-6/jake-ellzey",
+  "name": "Jake Ellzey",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-6",
+  "bio": "Jake Ellzey has represented Texas's 6th Congressional District since 2021, after briefly serving in the Texas House that year. A former Navy fighter pilot who retired as a commander after nine deployments, he later served on the Texas Veterans Commission. He was born in Amarillo and raised in Perryton.",
+  "website": "",
+  "social": {"x": "https://x.com/RepEllzey", "facebook": "https://www.facebook.com/RepJakeEllzey"},
+  "platform": [
+   {"topic": "Border", "point": "Fund border enforcement, strengthen barriers and biometric screening, and close asylum loopholes.", "source": "https://ellzey.house.gov/border-security"},
+   {"topic": "Energy", "point": "Increase domestic production, approve pipelines like Keystone and speed natural gas exports to allies.", "source": "https://ellzey.house.gov/energy"},
+   {"topic": "National security", "point": "Strengthen the military and back NATO membership for Finland and Sweden to deter Russia.", "source": "https://ellzey.house.gov/national-security"},
+   {"topic": "Education", "point": "Give teachers the resources they need and keep what he calls radical indoctrination out of schools.", "source": "https://ellzey.house.gov/education"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Official economy priorities favor lower taxes and less regulation.", "source": "https://ellzey.house.gov/economy"},
+   "welfare": null,
+   "liberty": {"score": 70, "evidence": "Abortion: cosponsored a 2025 bill recognizing personhood from conception.", "source": "https://en.wikipedia.org/wiki/Jake_Ellzey"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Cosponsored bills to strengthen border barriers and close asylum loopholes.", "source": "https://ellzey.house.gov/border-security"},
+   "foreign": {"score": 75, "evidence": "Voted to admit Finland and Sweden to NATO and to support Israel after October 2023.", "source": "https://ellzey.house.gov/national-security"},
+   "energy": {"score": 15, "evidence": "Backs Keystone and expanded domestic oil and gas production and exports.", "source": "https://ellzey.house.gov/energy"},
+   "tech": null,
+   "education": {"score": 55, "evidence": "Emphasizes supporting public school teachers with resources while opposing classroom ideology.", "source": "https://ellzey.house.gov/education"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Economy evidence rests on the earlier research summary; his economy page was not re-read."
+ }
+]

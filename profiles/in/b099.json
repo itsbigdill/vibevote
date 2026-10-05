@@ -1,0 +1,407 @@
+[
+ {
+  "id": "VT-AL/suzanne-suz-seymour",
+  "name": "Suzanne \"Suz\" Seymour",
+  "party": "Independent",
+  "race": "VT-AL",
+  "race_label": "Vermont · US House VT-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://sos.vermont.gov/elections/election-info-resources/candidates/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VT-AL/ryan-walton",
+  "name": "Ryan Walton",
+  "party": "Independent",
+  "race": "VT-AL",
+  "race_label": "Vermont · US House VT-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://sos.vermont.gov/elections/election-info-resources/candidates/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-1/rob-wittman",
+  "name": "Rob Wittman",
+  "party": "Republican",
+  "race": "VA-1",
+  "race_label": "Virginia · US House VA-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000804",
+   "official_name": "Robert J. Wittman",
+   "chamber": "House",
+   "official_site": "https://wittman.house.gov",
+   "official_social": {
+    "twitter": "RobWittman",
+    "facebook": "RepRobWittman",
+    "youtube": "RobWittman",
+    "instagram": "reprobwittman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 65,
+    "security": 70,
+    "immigration": 85,
+    "foreign": 80,
+    "energy": 25,
+    "tech": null,
+    "education": 20,
+    "faith": 70
+   },
+   "basis": "FairTax and estate-tax repeal, ACA repeal votes, personhood bill (abortion drove liberty), anti-amnesty, Iran force, offshore drilling, vouchers, abstinence funding.",
+   "sources": [
+    "https://www.ontheissues.org/VA/Rob_Wittman.htm",
+    "https://en.wikipedia.org/wiki/Rob_Wittman"
+   ],
+   "photo": {
+    "file": "File:Rob Wittman official portrait, 118th Congress (tight crop 2).jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "VA-1/shannon-taylor",
+  "name": "Shannon Taylor",
+  "party": "Democratic",
+  "race": "VA-1",
+  "race_label": "Virginia · US House VA-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": null,
+    "security": 60,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax cuts for working families not billionaires, restore ACA credits, expand Medicare drug negotiation, paid leave, pro-law-enforcement prosecutor.",
+   "sources": [
+    "https://shannontaylorva.com/",
+    "https://en.wikipedia.org/wiki/Shannon_Taylor_(attorney)"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-2/jen-kiggans",
+  "name": "Jen Kiggans",
+  "party": "Republican",
+  "race": "VA-2",
+  "race_label": "Virginia · US House VA-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000399",
+   "official_name": "Jennifer A. Kiggans",
+   "chamber": "House",
+   "official_site": "https://kiggans.house.gov",
+   "official_social": {
+    "twitter": "RepJenKiggans",
+    "facebook": "repjenkiggans",
+    "instagram": "repjenkiggans",
+    "youtube": "@repjenkiggans"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 30,
+    "liberty": 55,
+    "security": null,
+    "immigration": 60,
+    "foreign": 80,
+    "energy": 35,
+    "tech": null,
+    "education": 25,
+    "faith": 65
+   },
+   "basis": "OBBBA vote, against ACA subsidy extension, 15-week abortion ban and gun rights, border wall plus DIGNIDAD Act, Iran war support, school choice.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jen_Kiggans",
+    "https://www.ontheissues.org/VA/Jen_Kiggans.htm"
+   ],
+   "photo": {
+    "file": "File:Kiggans Jen 118th Congress 3x4 (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "VA-2/elaine-luria",
+  "name": "Elaine Luria",
+  "party": "Democratic",
+  "race": "VA-2",
+  "race_label": "Virginia · US House VA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": 45,
+    "foreign": 70,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes tariffs, restore ACA subsidies and insulin cap, border barrier plus citizenship path, deter Russia/China/Iran, offshore wind, opposes offshore drilling.",
+   "sources": [
+    "https://elaineforcongress.com/issues/",
+    "https://en.wikipedia.org/wiki/Elaine_Luria"
+   ],
+   "photo": {
+    "file": "File:Rep. Elaine Luria official photo, 117th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "VA-2/matt-baker",
+  "name": "Matt Baker",
+  "party": "Independent",
+  "race": "VA-2",
+  "race_label": "Virginia · US House VA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-2/bishop-staten",
+  "name": "Bishop Staten",
+  "party": "Independent",
+  "race": "VA-2",
+  "race_label": "Virginia · US House VA-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-3/bobby-scott",
+  "name": "Bobby Scott",
+  "party": "Democratic",
+  "race": "VA-3",
+  "race_label": "Virginia · US House VA-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S000185",
+   "official_name": "Robert C. \"Bobby\" Scott",
+   "chamber": "House",
+   "official_site": "https://bobbyscott.house.gov",
+   "official_social": {
+    "twitter": "BobbyScott",
+    "facebook": "RepBobbyScott",
+    "youtube": "repbobbyscott",
+    "instagram": "repbobbyscott"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 90,
+    "liberty": 30,
+    "security": 15,
+    "immigration": 15,
+    "foreign": 40,
+    "energy": 90,
+    "tech": 65,
+    "education": 95,
+    "faith": 10
+   },
+   "basis": "Higher taxes on millionaires, public option, pro-choice and LGBT rights with gun control (abortion drove liberty), anti-surveillance, citizenship path, Green New Deal, anti-voucher.",
+   "sources": [
+    "https://www.ontheissues.org/VA/Bobby_Scott.htm",
+    "https://en.wikipedia.org/wiki/Bobby_Scott_(politician)"
+   ],
+   "photo": {
+    "file": "File:Bobby Scott (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   }
+  }
+ },
+ {
+  "id": "VA-3/edwin-rivera-jr",
+  "name": "Edwin Rivera Jr.",
+  "party": "Republican",
+  "race": "VA-3",
+  "race_label": "Virginia · US House VA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": 65,
+    "immigration": 45,
+    "foreign": null,
+    "energy": 40,
+    "tech": null,
+    "education": 55,
+    "faith": null
+   },
+   "basis": "Lower taxes, hold prosecutors accountable and expand school resource officers, more immigration judges, all-of-the-above energy, teacher pay and parental involvement.",
+   "sources": [
+    "https://edwinriveraforcongress.com/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-3/makiba-gaines",
+  "name": "Makiba Gaines",
+  "party": "Independent",
+  "race": "VA-3",
+  "race_label": "Virginia · US House VA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "VA-3/steve-woll",
+  "name": "Steve Woll",
+  "party": "Independent",
+  "race": "VA-3",
+  "race_label": "Virginia · US House VA-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/november-3-2026-gen-elect-federal-offices/"
+   ],
+   "photo": null
+  }
+ }
+]

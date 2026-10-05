@@ -1,0 +1,551 @@
+[
+ {
+  "id": "KY-3/maria-rodriguez",
+  "name": "Maria Rodriguez",
+  "party": "Republican",
+  "race": "KY-3",
+  "race_label": "Kentucky · US House KY-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "KY-3/maria-rodriguez",
+   "name": "Maria Rodriguez",
+   "party": "Republican",
+   "current_role": "Cleaning contractor",
+   "bio": "Maria Rodriguez is the Republican nominee for Kentucky's 3rd congressional district and works as a cleaning contractor. Her campaign describes a path from political persecution abroad to public service in the United States.",
+   "website": "https://mariaforuscongress.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/profile.php?id=61586552040656"
+   },
+   "platform": [
+    {
+     "topic": "Public safety",
+     "point": "Lists safer streets in Louisville as a top priority.",
+     "source": "https://mariaforuscongress.com/"
+    },
+    {
+     "topic": "Economy",
+     "point": "Promotes lower taxes and defending capitalism and free enterprise.",
+     "source": "https://mariaforuscongress.com/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Emphasizes legal immigration as a campaign priority.",
+     "source": "https://mariaforuscongress.com/"
+    },
+    {
+     "topic": "Abortion",
+     "point": "Lists protecting the unborn among her priorities.",
+     "source": "https://mariaforuscongress.com/"
+    },
+    {
+     "topic": "Women's sports",
+     "point": "Pledges to protect women's sports.",
+     "source": "https://mariaforuscongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Campaign lists lower taxes and defending capitalism as priorities.",
+     "source": "https://mariaforuscongress.com/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 80,
+     "evidence": "Campaign priorities include protecting the unborn (abortion) and protecting women's sports (LGBTQ issues).",
+     "source": "https://mariaforuscongress.com/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Maria Rodriguez.png",
+    "license": "CC0",
+    "author": "William R. Wilks II"
+   },
+   "campaign_photo": "https://mariaforuscongress.com/wp-content/uploads/2026/02/92329daa-1525-42cd-ac61-8af5e5ea9744.jpg",
+   "notes": "Campaign site lists priorities only as headings without detail; country of origin was not stated."
+  }
+ },
+ {
+  "id": "KY-5/ned-pillersdorf",
+  "name": "Ned Pillersdorf",
+  "party": "Democratic",
+  "race": "KY-5",
+  "race_label": "Kentucky · US House KY-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "KY-5/ned-pillersdorf",
+   "name": "Ned Pillersdorf",
+   "party": "Democratic",
+   "current_role": "Attorney",
+   "bio": "Ned Pillersdorf is an eastern Kentucky attorney who has practiced law for over four decades, much of it representing low-income clients and people with disability claims. He was a candidate for this district in 1992 and is the Democratic nominee in 2026.",
+   "website": "https://nedforcongress.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Safety net",
+     "point": "Opposes cuts to Medicaid, Medicare, food stamps, utility assistance and job training.",
+     "source": "https://nedforcongress.com/"
+    },
+    {
+     "topic": "Rural health",
+     "point": "Wants to expand health care access and protect rural hospitals affected by Medicaid cuts.",
+     "source": "https://nedforcongress.com/press-releases/"
+    },
+    {
+     "topic": "Taxes",
+     "point": "Opposes further tax breaks for the wealthiest Americans.",
+     "source": "https://nedforcongress.com/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Prioritizes rural broadband and safe drinking water in eastern Kentucky.",
+     "source": "https://nedforcongress.com/press-releases/"
+    },
+    {
+     "topic": "Social Security",
+     "point": "Pledges to defend Social Security, including service staffing.",
+     "source": "https://nedforcongress.com/press-releases/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 65,
+     "evidence": "Criticizes tax breaks for billionaires and opposes the 2025 budget law.",
+     "source": "https://nedforcongress.com/"
+    },
+    "welfare": {
+     "score": 70,
+     "evidence": "Opposes cuts to Medicaid, Medicare, food stamps and utility assistance and wants expanded health access.",
+     "source": "https://nedforcongress.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No dedicated issues page was found; the campaign image on the site appears to be a logo rather than a headshot."
+  }
+ },
+ {
+  "id": "KY-6/ralph-alvarado",
+  "name": "Ralph Alvarado",
+  "party": "Republican",
+  "race": "KY-6",
+  "race_label": "Kentucky · US House KY-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "KY-6/ralph-alvarado",
+   "name": "Ralph Alvarado",
+   "party": "Republican",
+   "current_role": "Physician",
+   "bio": "Ralph Alvarado is a physician who served in the Kentucky State Senate from 2015 to 2023, the first Hispanic member of the Kentucky General Assembly, and was Tennessee's health commissioner from 2023 to 2025. He was Matt Bevin's running mate for lieutenant governor in 2019. Born in California, he trained at Loma Linda University and the University of Kentucky and practices in Central Kentucky.",
+   "website": "https://alvaradoforcongress.com/",
+   "social": {
+    "x": "https://x.com/AlvaradoForKY",
+    "facebook": "https://www.facebook.com/RalphAlvaradoMD"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Wants more affordable care, clearer insurance choices and more patient control.",
+     "source": "https://alvaradoforcongress.com/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Focuses on lowering prices for groceries, gas and health care.",
+     "source": "https://alvaradoforcongress.com/"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Aims to grow jobs in Kentucky.",
+     "source": "https://alvaradoforcongress.com/"
+    },
+    {
+     "topic": "Spending",
+     "point": "Pledges to eliminate wasteful government spending.",
+     "source": "https://alvaradoforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 35,
+     "evidence": "Sponsored medical malpractice tort reform as a state senator and campaigns on cutting wasteful spending.",
+     "source": "https://en.wikipedia.org/wiki/Ralph_Alvarado"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Ralph Alvarado by Gage Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   },
+   "campaign_photo": "https://alvaradoforcongress.com/wp-content/uploads/2025/07/250713_Ralph-Alvarado_170-Edit.jpg",
+   "notes": ""
+  }
+ },
+ {
+  "id": "LA-1/randall-arrington",
+  "name": "Randall Arrington",
+  "party": "Republican",
+  "race": "LA-1",
+  "race_label": "Louisiana · US House LA-1",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-1/randall-arrington",
+   "name": "Randall Arrington",
+   "party": "Republican",
+   "current_role": "Navy veteran",
+   "bio": "Randall Arrington is a Navy veteran running as a Republican in Louisiana's 1st district. Little other public information about his background was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or issue positions found; background from Wikipedia citing the American Press."
+  }
+ },
+ {
+  "id": "LA-2/renada-collins",
+  "name": "Renada Collins",
+  "party": "Democratic",
+  "race": "LA-2",
+  "race_label": "Louisiana · US House LA-2",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-2/renada-collins",
+   "name": "Renada Collins",
+   "party": "Democratic",
+   "current_role": "",
+   "bio": "Renada Collins ran as an independent candidate for mayor of New Orleans in 2025 and is running as a Democrat in Louisiana's 2nd district. Little other public information was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "The campaign site listed on Wikipedia (renadacollinsforyou.com) returned a 404 error."
+  }
+ },
+ {
+  "id": "LA-3/caleb-walker",
+  "name": "Caleb Walker",
+  "party": "Democratic",
+  "race": "LA-3",
+  "race_label": "Louisiana · US House LA-3",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-3/caleb-walker",
+   "name": "Caleb Walker",
+   "party": "Democratic",
+   "current_role": "Student body president, South Louisiana Community College",
+   "bio": "Caleb Walker served 10 years in the U.S. Army, reaching Sergeant First Class and deploying to Afghanistan. Originally from Wisner in Franklin Parish, he moved to Lafayette in 2020 and worked as a Sam's Club department manager and community coordinator. He studies political science at South Louisiana Community College, where he is student body president, and serves on the Louisiana Task Force for Career Alignment.",
+   "website": "https://www.calebforcongress.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Lower grocery, housing and insurance costs and push for wages that keep pace with the economy.",
+     "source": "https://www.calebforcongress.com/issues"
+    },
+    {
+     "topic": "Teachers",
+     "point": "Raise teacher pay and exempt the first $50,000 of educator salaries from federal income tax.",
+     "source": "https://www.calebforcongress.com/issues"
+    },
+    {
+     "topic": "Healthcare workers",
+     "point": "Provide student-loan forgiveness for healthcare workers serving Louisiana.",
+     "source": "https://www.calebforcongress.com/issues"
+    },
+    {
+     "topic": "Essential workers",
+     "point": "Secure hazardous-duty pay for essential workers during declared natural disasters.",
+     "source": "https://www.calebforcongress.com/issues"
+    },
+    {
+     "topic": "Coast",
+     "point": "Fund coastal restoration, stronger flood protection and storm-resilient infrastructure.",
+     "source": "https://www.calebforcongress.com/issues"
+    },
+    {
+     "topic": "Climate",
+     "point": "Address global warming with science-based solutions, including responsible carbon-capture projects.",
+     "source": "https://www.calebforcongress.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 60,
+     "evidence": "Pledges science-based action on global warming, including carbon capture, while supporting Louisiana's energy industry.",
+     "source": "https://www.calebforcongress.com/issues"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/f44005_ef517e1d801a41a4947cb7d81fe4055a~mv2.png/v1/fill/w_384,h_583,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/IMG_6646_edited.png",
+   "notes": "Campaign photo URL is assumed to be his portrait on the home page."
+  }
+ },
+ {
+  "id": "LA-4/mike-nichols",
+  "name": "Mike Nichols",
+  "party": "Republican",
+  "race": "LA-4",
+  "race_label": "Louisiana · US House LA-4",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-4/mike-nichols",
+   "name": "Mike Nichols",
+   "party": "Republican",
+   "current_role": "Biologist",
+   "bio": "Mike Nichols is a biologist from Pitkin, Louisiana. He is running as a Republican in the 4th District against incumbent Speaker Mike Johnson.",
+   "website": "https://mikenicholsforcongress.com/",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Campaign site lists no issue positions or biography; background is from the Wikipedia race article and Louisiana Radio Network."
+  }
+ },
+ {
+  "id": "LA-4/conrad-cable",
+  "name": "Conrad Cable",
+  "party": "Democratic",
+  "race": "LA-4",
+  "race_label": "Louisiana · US House LA-4",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-4/conrad-cable",
+   "name": "Conrad Cable",
+   "party": "Democratic",
+   "current_role": "Farmer",
+   "bio": "Conrad Cable is a farmer from Farmerville in north Louisiana. He is running as a Democrat for the 4th District, campaigning on agriculture, health care and worker issues.",
+   "website": "https://www.conrad4congress2026.com/",
+   "social": {
+    "x": "https://x.com/conrad4congress",
+    "instagram": "https://www.instagram.com/conrad4congress",
+    "facebook": "https://www.facebook.com/conrad4congress",
+    "tiktok": "https://www.tiktok.com/@conrad4congress",
+    "youtube": "https://www.youtube.com/@conrad4congress"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Supports Medicare for All and opposes federal cuts to Medicaid.",
+     "source": "https://www.conrad4congress2026.com/"
+    },
+    {
+     "topic": "Workers",
+     "point": "Wants higher wages and stronger protections for union organizing.",
+     "source": "https://www.conrad4congress2026.com/"
+    },
+    {
+     "topic": "Food access",
+     "point": "Proposes public grocery stores in rural and low-income areas stocked with local food and accepting SNAP and WIC.",
+     "source": "https://www.conrad4congress2026.com/"
+    },
+    {
+     "topic": "Government reform",
+     "point": "Backs overturning Citizens United and banning stock trading by members of Congress.",
+     "source": "https://www.conrad4congress2026.com/"
+    },
+    {
+     "topic": "Agriculture",
+     "point": "Argues current farm and trade policy has hurt Louisiana soybean growers.",
+     "source": "https://louisianaradionetwork.com/2026/02/19/45480/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 80,
+     "evidence": "Calls for higher wages, union protections and publicly run grocery stores.",
+     "source": "https://www.conrad4congress2026.com/"
+    },
+    "welfare": {
+     "score": 95,
+     "evidence": "Supports Medicare for All and opposes Medicaid cuts.",
+     "source": "https://www.conrad4congress2026.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Social handles are listed as @conrad4congress on the campaign site; exact profile URLs were not individually verified. Sources differ on whether he is a first- or fifth-generation farmer."
+  }
+ }
+]

@@ -1,0 +1,388 @@
+[
+ {
+  "id": "MO-6/josh-smead",
+  "name": "Josh Smead",
+  "party": "Democratic",
+  "race": "MO-6",
+  "race_label": "Missouri · US House MO-6",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Campaign site stresses strong public schools; other stated themes too general to score.",
+   "sources": [
+    "https://votesmead.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-6/andy-maidment",
+  "name": "Andy Maidment",
+  "party": "Libertarian",
+  "race": "MO-6",
+  "race_label": "Missouri · US House MO-6",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-7/eric-burlison",
+  "name": "Eric Burlison",
+  "party": "Republican",
+  "race": "MO-7",
+  "race_label": "Missouri · US House MO-7",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001316",
+   "official_name": "Eric Burlison",
+   "chamber": "House",
+   "official_site": "https://burlison.house.gov",
+   "official_social": {
+    "twitter": "RepEricBurlison",
+    "facebook": "100089208900263",
+    "instagram": "RepEricBurlison",
+    "youtube": "UCuJFygzYhGiXMZHjhTQy20w"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 55,
+    "security": null,
+    "immigration": 80,
+    "foreign": 15,
+    "energy": null,
+    "tech": 20,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Freedom Caucus, Medicaid cuts and work requirements, personhood bill, looser carry laws, Syria withdrawal vote, against Take It Down Act, charter expansion.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Eric_Burlison",
+    "https://www.ontheissues.org/House/Eric_Burlison.htm"
+   ],
+   "photo": {
+    "file": "File:Rep. Eric Burlison - 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MO-7/missi-hesketh",
+  "name": "Missi Hesketh",
+  "party": "Democratic",
+  "race": "MO-7",
+  "race_label": "Missouri · US House MO-7",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 75,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Close billionaire tax loopholes, paid leave, Medicare for all who want it, drug price negotiation, oppose AI data centers, child data privacy, rural education.",
+   "sources": [
+    "https://www.missiformo.com/top-5-issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-7/kevin-craig",
+  "name": "Kevin Craig",
+  "party": "Libertarian",
+  "race": "MO-7",
+  "race_label": "Missouri · US House MO-7",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-8/jason-smith",
+  "name": "Jason Smith",
+  "party": "Republican",
+  "race": "MO-8",
+  "race_label": "Missouri · US House MO-8",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001195",
+   "official_name": "Jason Smith",
+   "chamber": "House",
+   "official_site": "https://jasonsmith.house.gov",
+   "official_social": {
+    "twitter": "RepJasonSmith",
+    "facebook": "repjasonsmith",
+    "youtube": "RepJasonSmith"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 60,
+    "security": 35,
+    "immigration": 70,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": 20,
+    "faith": 80
+   },
+   "basis": "Tax cuts, ACA repeal, food-stamp ID, anti-abortion, gun rights, opposes bulk data collection, drilling, vouchers, biblical marriage view; liberty from abortion, guns.",
+   "sources": [
+    "https://www.ontheissues.org/House/Jason_Smith.htm",
+    "https://en.wikipedia.org/wiki/Jason_Smith_(American_politician)"
+   ],
+   "photo": {
+    "file": "File:Rep Jason Smith - 2024.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MO-8/christopher-reichard",
+  "name": "Christopher Reichard",
+  "party": "Democratic",
+  "race": "MO-8",
+  "race_label": "Missouri · US House MO-8",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": 25,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports PRO Act and Equality Act; wants to avoid another forever war and end Citizens United.",
+   "sources": [
+    "https://www.reichardforrep.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-8/rebecca-sharpe-lombard",
+  "name": "Rebecca Sharpe Lombard",
+  "party": "Libertarian",
+  "race": "MO-8",
+  "race_label": "Missouri · US House MO-8",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MT-1/aaron-flint",
+  "name": "Aaron Flint",
+  "party": "Republican",
+  "race": "MT-1",
+  "race_label": "Montana · US House MT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": 80,
+    "foreign": 40,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax and regulation cuts, Second Amendment (drove liberty), border security and deporting criminals, energy dominance and timber, opposes forever wars.",
+   "sources": [
+    "https://flintformontana.com/issues/",
+    "https://projects.montanafreepress.org/election-guide-2026/candidates/aaron-flint/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MT-1/sam-forstag",
+  "name": "Sam Forstag",
+  "party": "Democratic",
+  "race": "MT-1",
+  "race_label": "Montana · US House MT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 85,
+    "liberty": 15,
+    "security": 20,
+    "immigration": 20,
+    "foreign": null,
+    "energy": null,
+    "tech": 85,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Billionaire and corporate tax hikes, Medicare option, codify Roe while backing gun rights, ICE warrants and no warrantless surveillance, strict AI oversight, public-school funding.",
+   "sources": [
+    "https://samformontana.com/policies/"
+   ],
+   "photo": {
+    "file": "File:Sam Forstag Portrait (cropped).jpg",
+    "license": "CC0",
+    "author": "Conorhogan16"
+   }
+  }
+ },
+ {
+  "id": "MT-1/nick-sheedy",
+  "name": "Nick Sheedy",
+  "party": "Libertarian",
+  "race": "MT-1",
+  "race_label": "Montana · US House MT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 20,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Would end the Federal Reserve, cut healthcare regulation over federal support, and require congressional war declarations.",
+   "sources": [
+    "https://projects.montanafreepress.org/election-guide-2026/candidates/nick-sheedy/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MT-1/kimberly-persico",
+  "name": "Kimberly Persico",
+  "party": "Independent",
+  "race": "MT-1",
+  "race_label": "Montana · US House MT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
+   ],
+   "photo": null
+  }
+ }
+]

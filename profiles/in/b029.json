@@ -1,0 +1,411 @@
+[
+ {
+  "id": "CO-7/brittany-pettersen",
+  "name": "Brittany Pettersen",
+  "party": "Democratic",
+  "race": "CO-7",
+  "race_label": "Colorado · US House CO-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000620",
+   "official_name": "Brittany Pettersen",
+   "chamber": "House",
+   "official_site": "https://pettersen.house.gov",
+   "official_social": {
+    "twitter": "reppettersen",
+    "facebook": "repbrittanypettersen",
+    "instagram": "reppettersen"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 60,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Would repeal 2017 tax cuts for the wealthy, backs ACA and drug-price negotiation, abortion rights (drove liberty), rapid renewable transition, higher teacher pay and school funding.",
+   "sources": [
+    "https://brittanypettersen.com/issues",
+    "https://en.wikipedia.org/wiki/Brittany_Pettersen"
+   ],
+   "photo": {
+    "file": "File:Rep. Brittany Pettersen 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CO-7/tim-bennett",
+  "name": "Tim Bennett",
+  "party": "Republican",
+  "race": "CO-7",
+  "race_label": "Colorado · US House CO-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 40,
+    "liberty": null,
+    "security": null,
+    "immigration": 60,
+    "foreign": 60,
+    "energy": 30,
+    "tech": null,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Prioritizes spending cuts, protecting Medicare and Medicaid via fraud control, border security with legal pathways, NATO with burden sharing, oil-gas-nuclear energy, parental control of education.",
+   "sources": [
+    "https://timbennettforcongress.com/platform",
+    "https://timbennettforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-7/susan-hall",
+  "name": "Susan Hall",
+  "party": "Unity",
+  "race": "CO-7",
+  "race_label": "Colorado · US House CO-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-7/lawrence-kyle-clark",
+  "name": "Lawrence Kyle Clark",
+  "party": "American Constitution",
+  "race": "CO-7",
+  "race_label": "Colorado · US House CO-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-7/dan-sallis",
+  "name": "Dan Sallis",
+  "party": "Libertarian",
+  "race": "CO-7",
+  "race_label": "Colorado · US House CO-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-7/joe-krzeczkowski",
+  "name": "Joe Krzeczkowski",
+  "party": "Independent",
+  "race": "CO-7",
+  "race_label": "Colorado · US House CO-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-8/gabe-evans",
+  "name": "Gabe Evans",
+  "party": "Republican",
+  "race": "CO-8",
+  "race_label": "Colorado · US House CO-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "E000300",
+   "official_name": "Gabe Evans",
+   "chamber": "House",
+   "official_site": "https://gabeevans.house.gov",
+   "official_social": {
+    "twitter": "repgabeevans",
+    "facebook": "RepGabeEvans",
+    "instagram": "RepGabeEvans"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 50,
+    "security": 70,
+    "immigration": 50,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Opposes tax-and-regulate policies; favors abortion ban with exceptions but strong gun rights; ex-police officer against soft-on-crime; Laken Riley Act yet DACA and DIGNIDAD support; school choice.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gabe_Evans",
+    "https://electgabeevans.com/"
+   ],
+   "photo": {
+    "file": "File:Rep. Gabe Evans official photo, 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CO-8/manny-rutinel",
+  "name": "Manny Rutinel",
+  "party": "Democratic",
+  "race": "CO-8",
+  "race_label": "Colorado · US House CO-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 65,
+    "liberty": 35,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": null,
+    "tech": 75,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs billionaire taxes, higher minimum wage, drug negotiation, abortion rights, marriage equality, semiautomatic weapon limits, citizenship path, independent AI safety reviews.",
+   "sources": [
+    "https://mannyforcolorado.com/issues",
+    "https://en.wikipedia.org/wiki/Manny_Rutinel"
+   ],
+   "photo": {
+    "file": "File:Manny Rutinel at 2024 YIMBY Denver Legislative Kickoff (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Andybosselman"
+   }
+  }
+ },
+ {
+  "id": "CO-8/dave-wood",
+  "name": "Dave Wood",
+  "party": "Libertarian",
+  "race": "CO-8",
+  "race_label": "Colorado · US House CO-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CT-1/luke-bronin",
+  "name": "Luke Bronin",
+  "party": "Democratic",
+  "race": "CT-1",
+  "race_label": "Connecticut · US House CT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 70,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Former Hartford mayor; campaigned for more renewable energy and sensible artificial intelligence regulation.",
+   "sources": [
+    "https://ctmirror.org/2026/08/11/john-larson-luke-bronin-primary-election-results/",
+    "https://en.wikipedia.org/wiki/Luke_Bronin"
+   ],
+   "photo": {
+    "file": "File:Luke Bronin (42831415392).jpg",
+    "license": "CC BY 2.0",
+    "author": "Dannel Malloy (Flickr)"
+   }
+  }
+ },
+ {
+  "id": "CT-1/amy-chai",
+  "name": "Amy Chai",
+  "party": "Republican",
+  "race": "CT-1",
+  "race_label": "Connecticut · US House CT-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Physician focused on mental illness and addiction prevention; no stances mappable to these domains found.",
+   "sources": [
+    "https://ctmirror.org/2026/08/11/john-larson-luke-bronin-primary-election-results/",
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Connecticut"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CT-2/joe-courtney",
+  "name": "Joe Courtney",
+  "party": "Democratic",
+  "race": "CT-2",
+  "race_label": "Connecticut · US House CT-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001069",
+   "official_name": "Joe Courtney",
+   "chamber": "House",
+   "official_site": "https://courtney.house.gov",
+   "official_social": {
+    "twitter": "RepJoeCourtney",
+    "facebook": "joecourtney",
+    "youtube": "repcourtney",
+    "instagram": "repjoecourtney"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": 45,
+    "security": null,
+    "immigration": 30,
+    "foreign": 80,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Medicare drug negotiation, grocery price accountability, abortion rights, gun control; opposed travel ban; leads AUKUS, opposed Syria withdrawal.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Joe_Courtney_(politician)",
+    "https://courtney.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Rep. Joe Courtney Portrait 2024.jpg",
+    "license": "Public domain",
+    "author": "Office of Congressman Joe Courtney"
+   }
+  }
+ }
+]

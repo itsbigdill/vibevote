@@ -1,0 +1,416 @@
+[
+ {
+  "id": "NJ-3/michael-mcguire",
+  "name": "Michael McGuire",
+  "party": "Republican",
+  "current_role": "Family law attorney and Marine Corps veteran",
+  "bio": "Michael McGuire is a family law attorney from Freehold Township and the Republican nominee for New Jersey's 3rd District. He is a U.S. Marine Corps veteran serving in the Navy Reserve and previously worked as a New York City police officer. He has not held elected office and earlier ran for a local school board.",
+  "website": "https://michaelmcguireforcongress.com/",
+  "social": {
+   "x": "https://x.com/MikeMcGuireNJ",
+   "instagram": "https://www.instagram.com/michaelmcguireforcongressnj03/",
+   "facebook": "https://www.facebook.com/profile.php?id=61585312319321"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Cut wasteful federal spending and lower taxes on middle- and working-class families.", "source": "https://michaelmcguireforcongress.com/issues/"},
+   {"topic": "Term limits", "point": "Supports term limits for members of Congress to increase accountability.", "source": "https://michaelmcguireforcongress.com/issues/"},
+   {"topic": "National defense", "point": "Prioritize military readiness, training and modernization.", "source": "https://michaelmcguireforcongress.com/issues/"},
+   {"topic": "Veterans", "point": "Improve the VA and ensure veterans can access health care, including mental health services.", "source": "https://michaelmcguireforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Calls for cutting wasteful spending and lowering taxes on middle-class families.", "source": "https://michaelmcguireforcongress.com/issues/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 60, "evidence": "Prioritizes military readiness, training and modernization.", "source": "https://michaelmcguireforcongress.com/issues/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://michaelmcguireforcongress.com/wp-content/uploads/2025/08/McGuire_1920-x-1135-2C-ALT.png",
+  "notes": "Campaign lists an endorsement from New Jersey Right to Life PAC but publishes no abortion position of its own. The campaign image is a wide banner rather than a tight headshot."
+ },
+ {
+  "id": "NJ-3/ryan-michael-kelly",
+  "name": "Ryan Michael Kelly",
+  "party": "Affordability, Accountability, People",
+  "current_role": "Independent candidate; former Lake Como councilman",
+  "bio": "Ryan Michael Kelly is an independent candidate for New Jersey's 3rd District based in Hightstown. He served on the Lake Como borough council at age 22 and has worked as a teacher, a first responder and in the Department of Homeland Security, including civil-rights oversight work.",
+  "website": "https://www.kellyfornj03.com/en",
+  "social": {
+   "x": "https://x.com/KellyForNJ03",
+   "instagram": "https://www.instagram.com/KellyForNJ03",
+   "facebook": "https://www.facebook.com/KellyForNJ03",
+   "youtube": "https://www.youtube.com/@KellyForNJ03com"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Create a universal single-payer health system covering preventive, mental health, prescription and reproductive care.", "source": "https://www.kellyfornj03.com/en/issues"},
+   {"topic": "Housing", "point": "Expand affordable and public housing, adopt rent stabilization and use Housing First approaches.", "source": "https://www.kellyfornj03.com/en/issues"},
+   {"topic": "Labor", "point": "Protect collective bargaining, oppose right-to-work laws, and back a living wage and universal paid parental leave.", "source": "https://www.kellyfornj03.com/en/issues"},
+   {"topic": "Immigration", "point": "Abolish ICE and rebuild immigration enforcement around due process and independent oversight.", "source": "https://www.kellyfornj03.com/en/issues"},
+   {"topic": "Foreign policy", "point": "Restore congressional war powers, support a permanent Gaza ceasefire and end military aid tied to rights abuses.", "source": "https://www.kellyfornj03.com/en/issues"},
+   {"topic": "Energy and AI", "point": "Pursue a union-jobs clean energy transition and pause new AI data centers pending impact studies.", "source": "https://www.kellyfornj03.com/en/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Backs a living wage, rent stabilization, the PRO Act model and public ownership of utilities.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "welfare": {"score": 90, "evidence": "Supports a universal single-payer health system and universal paid parental leave.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "liberty": {"score": 20, "evidence": "Abortion: supports federal protection of access; drugs: decriminalize use; guns: NRA member who backs background checks but opposes broad bans.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "security": {"score": 15, "evidence": "Wants to shift resources from policing to social services and end cash bail.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "immigration": {"score": 5, "evidence": "Calls for abolishing ICE, supports sanctuary policies and protections for asylum seekers and TPS holders.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "foreign": {"score": 25, "evidence": "Describes an anti-war stance and supports ending military aid that enables humanitarian violations.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "energy": {"score": 80, "evidence": "Supports a clean energy transition with worker protections.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "tech": {"score": 80, "evidence": "Supports a moratorium on new AI data centers until their impacts are assessed.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "education": {"score": 80, "evidence": "Wants public higher education to be low-cost or tuition-free, with loan forgiveness for public servants.", "source": "https://www.kellyfornj03.com/en/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.kellyfornj03.com/images/ryan-headshot.jpg",
+  "notes": "The headshot URL was checked and loads directly. Ballot label is a slogan; he describes himself as an independent."
+ },
+ {
+  "id": "NJ-3/steven-welzer",
+  "name": "Steven Welzer",
+  "party": "Green",
+  "current_role": "Green Party activist and writer",
+  "bio": "Steven Welzer is a co-founder of the Green Party of New Jersey and lives in East Windsor. He holds a master's degree in economics from Rutgers, taught at the college level and worked as an IT analyst before retiring in 2008. He has run as a Green candidate for state Assembly, Congress and governor, including for Assembly District 14 in 2025.",
+  "website": "https://www.welzerforcongress.org/",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=61555465286264"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Establish a universal single-payer health care system.", "source": "https://www.welzerforcongress.org/"},
+   {"topic": "Energy", "point": "End dependence on fossil fuels and green New Jersey's economy.", "source": "https://www.welzerforcongress.org/"},
+   {"topic": "Housing", "point": "Expand affordable housing.", "source": "https://www.welzerforcongress.org/"},
+   {"topic": "Democracy", "point": "Reform campaign finance and open politics to more parties and candidates.", "source": "https://www.welzerforcongress.org/"},
+   {"topic": "Peace", "point": "Runs on the Green values of peace and anti-militarism.", "source": "https://www.welzerforcongress.org/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 95, "evidence": "Campaigns for a universal single-payer health care system.", "source": "https://www.welzerforcongress.org/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 20, "evidence": "Lists anti-militarism among the core values of his campaign.", "source": "https://www.welzerforcongress.org/"},
+   "energy": {"score": 90, "evidence": "Calls for ending dependence on fossil fuels.", "source": "https://www.welzerforcongress.org/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site defers to the national Green Party platform for detail; the headshot's full image URL could not be confirmed."
+ },
+ {
+  "id": "NJ-4/chris-smith",
+  "name": "Chris Smith",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NJ-4",
+  "bio": "Chris Smith has represented central New Jersey in the U.S. House since 1981 and has chaired the House Veterans' Affairs Committee. Born in Rahway, he graduated from Trenton State College, worked in a family sporting goods business and led New Jersey Right to Life before entering Congress. He is known for authoring the Trafficking Victims Protection Act and autism research laws.",
+  "website": "https://smith4nj.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/repchrissmith",
+   "facebook": "https://www.facebook.com/RepChrisSmith",
+   "youtube": "https://www.youtube.com/USRepChrisSmith"
+  },
+  "platform": [
+   {"topic": "Human trafficking", "point": "Continue anti-trafficking work built on prevention, protection and prosecution.", "source": "https://smith4nj.com/"},
+   {"topic": "Autism", "point": "Expand autism research, early detection and services for adults through the Autism CARES laws.", "source": "https://smith4nj.com/"},
+   {"topic": "Public safety", "point": "Secure federal grants for local police departments.", "source": "https://smith4nj.com/"},
+   {"topic": "Human rights", "point": "Oppose trade policies that overlook human rights abuses in countries such as China.", "source": "https://smith4nj.com/"},
+   {"topic": "Energy", "point": "Opposes offshore wind projects he says burden New Jersey ratepayers.", "source": "https://smith4nj.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Voted against the 2017 tax law over the SALT cap and supports unions and the Employee Free Choice Act.", "source": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"},
+   "welfare": {"score": 50, "evidence": "One of three Republicans to vote to keep ACA pre-existing condition protections in 2019.", "source": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"},
+   "liberty": {"score": 85, "evidence": "Abortion: co-chairs the Pro-Life Caucus; LGBTQ: voted against the Respect for Marriage Act; guns: backs background checks and a bump stock ban.", "source": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"},
+   "security": null,
+   "immigration": {"score": 40, "evidence": "Voted for the Farm Workforce Modernization Act giving legal status to farmworkers.", "source": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"},
+   "foreign": {"score": 75, "evidence": "Long record of international human rights legislation and sanctions on China over Xinjiang and Hong Kong.", "source": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"},
+   "energy": {"score": 65, "evidence": "Backed a carbon emissions trading bill, opposes offshore drilling and holds a 62% LCV lifetime score.", "source": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 75, "evidence": "Champions international religious freedom, including sanctions over treatment of religious groups in Vietnam and China.", "source": "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://smith4nj.com/wp-content/uploads/2022/11/Chris-Smith-headshot-ht.jpeg",
+  "notes": "Energy score kept, though his campaign now criticizes offshore wind projects."
+ },
+ {
+  "id": "NJ-4/rachel-peace",
+  "name": "Rachel Peace",
+  "party": "Democratic",
+  "current_role": "Small-business owner",
+  "bio": "Rachel Peace is a small-business owner from New Jersey's 4th District and the Democratic nominee against Rep. Chris Smith. She has not held elected office and has worked with climate nonprofits and startups. She campaigned against the 2025 budget reconciliation law and says she does not accept corporate PAC money.",
+  "website": "https://www.peace4shore.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/peace4shore/",
+   "facebook": "https://www.facebook.com/peace4shore",
+   "tiktok": "https://www.tiktok.com/@.peace4shore",
+   "youtube": "https://www.youtube.com/@peace4shore"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Treat health care as a right, guarantee coverage, and add long-term care to Medicare.", "source": "https://www.peace4shore.com/policy"},
+   {"topic": "Families", "point": "Guarantee 12 weeks of paid parental leave and universal pre-K starting at age three.", "source": "https://www.peace4shore.com/policy"},
+   {"topic": "Cost of living", "point": "Set an inflation-indexed living wage and end corporate ownership of family homes.", "source": "https://www.peace4shore.com/policy"},
+   {"topic": "Environment", "point": "Invest in offshore wind, hydroelectric power and coastal resilience for shore towns.", "source": "https://www.peace4shore.com/policy"},
+   {"topic": "AI", "point": "Pass federal AI oversight and a nationwide freeze on new data center construction.", "source": "https://www.peace4shore.com/policy"},
+   {"topic": "Democracy", "point": "Pursue a constitutional amendment to overturn Citizens United and overhaul campaign finance.", "source": "https://www.peace4shore.com/policy"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports an inflation-indexed living wage, the Tenant's Right to Organize Act and ending corporate ownership of homes.", "source": "https://www.peace4shore.com/policy"},
+   "welfare": {"score": 90, "evidence": "Calls for guaranteed health care, universal paid family leave and universal pre-K.", "source": "https://www.peace4shore.com/policy"},
+   "liberty": null,
+   "security": {"score": 30, "evidence": "Warns that unregulated AI enables mass surveillance threatening Fourth Amendment rights.", "source": "https://www.peace4shore.com/policy"},
+   "immigration": null,
+   "foreign": {"score": 30, "evidence": "Criticizes the cost of the Iran war and calls for ending 'forever wars'.", "source": "https://www.peace4shore.com/policy"},
+   "energy": {"score": 85, "evidence": "Backs offshore wind and hydroelectric investment and holding polluters accountable for climate costs.", "source": "https://www.peace4shore.com/policy"},
+   "tech": {"score": 95, "evidence": "Supports comprehensive federal AI oversight and a national moratorium on data center construction.", "source": "https://www.peace4shore.com/policy"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/69629a101e1563046158f483/52528314-e0d7-4c27-8c9d-7bb03960327b/Rachel+Pink.png",
+  "notes": "Policy page content loads from a published campaign spreadsheet; only items marked as published were used."
+ },
+ {
+  "id": "NJ-5/josh-gottheimer",
+  "name": "Josh Gottheimer",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NJ-5",
+  "bio": "Josh Gottheimer has represented New Jersey's 5th District since 2017 and is a centrist member of the Blue Dog Coalition. Born in Livingston, he was a speechwriter in the Clinton White House, worked at Ford, Burson-Marsteller and the FCC, and holds degrees from Penn and Harvard Law. He ran for governor in the 2025 Democratic primary.",
+  "website": "https://josh4jersey.com/",
+  "social": {
+   "x": "https://x.com/RepJoshG",
+   "instagram": "https://www.instagram.com/RepJoshG",
+   "facebook": "https://www.facebook.com/RepJoshG"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Lower taxes for New Jersey families, including restoring the full SALT deduction.", "source": "https://josh4jersey.com/"},
+   {"topic": "Bipartisanship", "point": "Work across party lines on practical solutions for New Jersey.", "source": "https://josh4jersey.com/"},
+   {"topic": "Public safety", "point": "Fund smaller police departments through his Invest to Protect Act.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   {"topic": "Commuting", "point": "Oppose New York City congestion pricing charges on New Jersey drivers.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   {"topic": "Israel", "point": "Oppose conditions on U.S. security aid to Israel.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "Describes himself as fiscally conservative and leads efforts to restore the full SALT deduction.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   "welfare": {"score": 45, "evidence": "Defends parts of the ACA but has opposed single-payer health care.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   "liberty": {"score": 30, "evidence": "Abortion: voted for the Women's Health Protection Act; LGBTQ: voted for Respect for Marriage Act; drugs: voted for MORE Act; guns: backs red flag laws.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   "security": {"score": 65, "evidence": "Voted for the Thin Blue Line Act and introduced the Invest to Protect Act for police funding.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   "immigration": {"score": 50, "evidence": "Voted for the Laken Riley Act but co-sponsored the Dream and Promise Act.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   "foreign": {"score": 90, "evidence": "Opposes conditions on Israel aid and supports military aid to Ukraine and Taiwan.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   "energy": {"score": 60, "evidence": "Voted for the Inflation Reduction Act and called it major climate progress.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   "tech": {"score": 40, "evidence": "Introduced a bill creating AI regulatory sandboxes free of burdensome regulation, while backing a TikTok ban.", "source": "https://en.wikipedia.org/wiki/Josh_Gottheimer"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NJ-5/sean-kirrane",
+  "name": "Sean Kirrane",
+  "party": "Republican",
+  "current_role": "Corporate consultant and AI entrepreneur",
+  "bio": "Sean Kirrane is a corporate consultant and artificial intelligence entrepreneur from River Vale and the Republican nominee in New Jersey's 5th District. He moved to New Jersey from Oklahoma and has not held elected office. He describes himself as a socially moderate, fiscally responsible Republican.",
+  "website": "https://www.seankirrane.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Health care", "point": "Create a universal, market-based health plan funded through income-based taxes with cost-sharing, not single-payer.", "source": "https://newjerseyglobe.com/congress/socially-moderate-republican-will-challenge-josh-gottheimer-in-nj-5/"},
+   {"topic": "Housing", "point": "Pass sweeping affordable housing legislation driven by the private market.", "source": "https://newjerseyglobe.com/congress/socially-moderate-republican-will-challenge-josh-gottheimer-in-nj-5/"},
+   {"topic": "Ethics", "point": "Impose lifetime lobbying bans on former members of Congress.", "source": "https://newjerseyglobe.com/tag/sean-kirrane/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 70, "evidence": "Proposes a universal health care system funded through the tax system on an income basis, though market-run.", "source": "https://newjerseyglobe.com/congress/socially-moderate-republican-will-challenge-josh-gottheimer-in-nj-5/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign website renders only client-side and no issue content could be read; positions come from news coverage."
+ },
+ {
+  "id": "NJ-5/adam-rueda",
+  "name": "Adam Rueda",
+  "party": "Humane Sustainable Future",
+  "current_role": "Financial analyst and DJ",
+  "bio": "Adam Rueda is a candidate from Andover Township in Sussex County running with the greenparty2.0 movement. A New Jersey native and first-generation college graduate, he earned a finance and accounting degree from Bucknell University in 2019. He has worked as a senior financial analyst in Morristown and in creative roles including as a DJ.",
+  "website": "https://adamrueda4nj5.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/reprueda/"
+  },
+  "platform": [
+   {"topic": "Ethics", "point": "Pledges not to own stocks or crypto in office and to curb corporate lobbying influence.", "source": "https://adamrueda4nj5.com/issues"},
+   {"topic": "Human rights", "point": "Address human rights violations in Gaza, the West Bank and ICE detention centers.", "source": "https://adamrueda4nj5.com/issues"},
+   {"topic": "Free speech", "point": "Oppose viewpoint-based censorship online and protect workers' political speech.", "source": "https://adamrueda4nj5.com/issues"},
+   {"topic": "Health care", "point": "Ensure every American can access quality, affordable health care as a human right.", "source": "https://adamrueda4nj5.com/issues"},
+   {"topic": "Environment", "point": "Pursue science-based climate policy and limit fossil fuel industry influence.", "source": "https://adamrueda4nj5.com/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 80, "evidence": "Calls health care a human right and prioritizes universal access.", "source": "https://adamrueda4nj5.com/issues"},
+   "liberty": {"score": 25, "evidence": "Speech: opposes online censorship and backs workplace political speech protections; other issues not addressed.", "source": "https://adamrueda4nj5.com/issues"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Says ICE disregards detainees' due process and human rights.", "source": "https://adamrueda4nj5.com/issues"},
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Supports science-based climate policy and opposes fossil fuel industry influence.", "source": "https://adamrueda4nj5.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://adamrueda4nj5.com/Adam/adam-hero.jpg",
+  "notes": "Headshot URL reconstructed from the site's Next.js image path. A second campaign domain, adamruedafornj5.com, also exists."
+ },
+ {
+  "id": "NJ-6/frank-pallone",
+  "name": "Frank Pallone Jr.",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NJ-6",
+  "bio": "Frank Pallone Jr. has served in the U.S. House since 1988 and is the ranking Democrat on the Energy and Commerce Committee, which he chaired from 2019 to 2023. A Long Branch native, he holds degrees from Middlebury, Tufts' Fletcher School and Rutgers Law. He previously served on the Long Branch City Council and in the New Jersey Senate.",
+  "website": "https://pallonefornewjersey.com/",
+  "social": {
+   "x": "https://x.com/FrankPallone",
+   "instagram": "https://www.instagram.com/repfrankpallone",
+   "facebook": "https://www.facebook.com/repfrankpallone",
+   "youtube": "https://www.youtube.com/repfrankpallone"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Treat health care as a right and defend and expand the Affordable Care Act.", "source": "https://pallone.house.gov/issues"},
+   {"topic": "Environment", "point": "Protect water and air quality and clean up toxic sites.", "source": "https://pallone.house.gov/issues"},
+   {"topic": "Energy", "point": "Promote domestically made solar, wind and other clean energy.", "source": "https://pallone.house.gov/issues"},
+   {"topic": "Labor", "point": "Raise the minimum wage and support equal pay and paid family leave.", "source": "https://pallone.house.gov/issues"},
+   {"topic": "Privacy", "point": "Pass a national data privacy law such as the American Data Privacy and Protection Act.", "source": "https://en.wikipedia.org/wiki/Frank_Pallone"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Backs higher minimum wage, workplace protections and national infrastructure investment.", "source": "https://pallone.house.gov/issues"},
+   "welfare": {"score": 85, "evidence": "Advocates universal access to affordable care and paid family leave.", "source": "https://pallone.house.gov/issues"},
+   "liberty": {"score": 30, "evidence": "Abortion and LGBTQ rights: supports both; guns: supports background checks and gun violence prevention.", "source": "https://www.ontheissues.org/NJ/Frank_Pallone.htm"},
+   "security": {"score": 25, "evidence": "Supports police accountability measures.", "source": "https://www.ontheissues.org/NJ/Frank_Pallone.htm"},
+   "immigration": {"score": 20, "evidence": "Supports legal pathways for undocumented immigrants.", "source": "https://www.ontheissues.org/NJ/Frank_Pallone.htm"},
+   "foreign": {"score": 60, "evidence": "Voted to undo the 2024 pause on Israel weapons shipments but voted to withdraw troops from Syria.", "source": "https://en.wikipedia.org/wiki/Frank_Pallone"},
+   "energy": {"score": 90, "evidence": "Promotes a clean energy transition built on domestic solar and wind.", "source": "https://pallone.house.gov/issues"},
+   "tech": {"score": 80, "evidence": "Sponsored the American Data Privacy and Protection Act.", "source": "https://en.wikipedia.org/wiki/Frank_Pallone"},
+   "education": {"score": 80, "evidence": "Emphasizes adequate public school resources and teacher pay; opposes vouchers.", "source": "https://pallone.house.gov/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Liberty, security, immigration and voucher evidence relies on earlier OnTheIssues research that was not re-fetched this pass."
+ },
+ {
+  "id": "NJ-6/hillary-herzig",
+  "name": "Hillary Herzig",
+  "party": "Republican",
+  "current_role": "Civil servant",
+  "bio": "Hillary Herzig is an Oceanport resident and first-time candidate who grew up in the 6th District. Her career includes government administration work with U.S. Citizenship and Immigration Services, U.S. Army intelligence and security operations, and the Key West Police Department. She is a military spouse.",
+  "website": "https://www.herzigforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Lower property taxes and the cost of living so families keep more of their pay.", "source": "https://www.herzigforcongress.com/"},
+   {"topic": "Public safety", "point": "Support safe communities while limiting police use of surveillance technology.", "source": "https://www.herzigforcongress.com/"},
+   {"topic": "Accountability", "point": "Back term limits, a congressional stock trading ban and breaking up monopolies.", "source": "https://www.herzigforcongress.com/"},
+   {"topic": "Education", "point": "Prioritize parental rights, school choice and core academics.", "source": "https://www.herzigforcongress.com/"},
+   {"topic": "Cannabis", "point": "End federal cannabis prohibition to create legal markets.", "source": "https://www.herzigforcongress.com/"},
+   {"topic": "Environment", "point": "Reduce pollution, protect water quality and support the fishing industry.", "source": "https://www.herzigforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "Calls for lower taxes while also backing breaking up monopolies.", "source": "https://www.herzigforcongress.com/"},
+   "welfare": {"score": 30, "evidence": "Emphasizes medical freedom and veterans' choice of providers while pledging to protect Social Security and Medicare.", "source": "https://www.herzigforcongress.com/"},
+   "liberty": {"score": 25, "evidence": "Drugs: end federal cannabis prohibition; health: supports medical freedom and alternative wellness options.", "source": "https://www.herzigforcongress.com/"},
+   "security": {"score": 20, "evidence": "Wants to limit law enforcement use of surveillance technology.", "source": "https://www.herzigforcongress.com/"},
+   "immigration": {"score": 60, "evidence": "Supports legal immigration through proper channels with practical reform.", "source": "https://www.herzigforcongress.com/"},
+   "foreign": null,
+   "energy": {"score": 50, "evidence": "Backs reducing pollution and innovation-led environmental protection without a stated climate agenda.", "source": "https://www.herzigforcongress.com/"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Prioritizes parental rights and school choice.", "source": "https://www.herzigforcongress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/18a1de_c99c0e04e59d4253bc99a48059351abd~mv2.jpg",
+  "notes": "Campaign site lists social handles without clear platform links, so none were recorded."
+ },
+ {
+  "id": "NJ-7/thomas-kean-jr",
+  "name": "Thomas Kean Jr.",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NJ-7",
+  "bio": "Tom Kean Jr. has represented New Jersey's 7th District since 2023 and belongs to the Problem Solvers Caucus and Republican Main Street Partnership. He served in the New Jersey Assembly and then the state Senate from 2003 to 2022, including as Senate Republican leader. Born in Livingston, he studied at Dartmouth and Tufts' Fletcher School and earlier worked at the EPA.",
+  "website": "https://tomkean.com/",
+  "social": {
+   "x": "https://x.com/CongressmanKean",
+   "instagram": "https://www.instagram.com/congressmankean",
+   "facebook": "https://www.facebook.com/CongressmanKean",
+   "youtube": "https://www.youtube.com/TomKean"
+  },
+  "platform": [
+   {"topic": "SALT deduction", "point": "Restore the full state and local tax deduction, which he calls double taxation.", "source": "https://kean.house.gov/issues"},
+   {"topic": "Cost of living", "point": "Work to lower everyday costs for New Jersey families.", "source": "https://tomkean.com/"},
+   {"topic": "Immigration", "point": "Pair border security and law enforcement resources with a comprehensive approach.", "source": "https://kean.house.gov/issues"},
+   {"topic": "National defense", "point": "Maintain a strong military with resources for service members.", "source": "https://kean.house.gov/issues"},
+   {"topic": "Infrastructure", "point": "Address congestion, rail, roads, bridges and broadband in the district.", "source": "https://kean.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "Seeks to restore the full SALT deduction and lower costs.", "source": "https://kean.house.gov/issues"},
+   "welfare": {"score": 45, "evidence": "Voted in 2026 to extend Affordable Care Act premium tax credits.", "source": "https://en.wikipedia.org/wiki/Thomas_Kean_Jr."},
+   "liberty": {"score": 55, "evidence": "Abortion: calls himself pro-choice but voted against the Women's Health Protection Act and for the Born-Alive bill.", "source": "https://en.wikipedia.org/wiki/Thomas_Kean_Jr."},
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Prioritizes border security and enforcement resources.", "source": "https://kean.house.gov/issues"},
+   "foreign": {"score": 70, "evidence": "Supported 2026 strikes on Iran, voted against war powers limits and met with Zelenskyy.", "source": "https://en.wikipedia.org/wiki/Thomas_Kean_Jr."},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NJ-7/rebecca-bennett",
+  "name": "Rebecca Bennett",
+  "party": "Democratic",
+  "current_role": "Healthcare executive and Air National Guard officer",
+  "bio": "Rebecca Bennett is a healthcare business executive and the Democratic nominee in New Jersey's 7th District. She flew helicopters in the U.S. Navy for over a decade as an aircraft commander and now serves as an officer in the Air National Guard. She holds an MBA from the Wharton School and has worked with startups and Fortune 50 companies.",
+  "website": "https://rebeccabennettforcongress.com/",
+  "social": {
+   "x": "https://x.com/rebeccafornj07",
+   "instagram": "https://www.instagram.com/rebeccafornj07",
+   "facebook": "https://www.facebook.com/p/Rebecca-Bennett-for-Congress-61572992483996/",
+   "youtube": "https://www.youtube.com/@RebeccaBennettforCongress"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Tackle inflation and the rising cost of living in New Jersey.", "source": "https://rebeccabennettforcongress.com/priorities/"},
+   {"topic": "Health care", "point": "Lower health care costs and protect families' coverage.", "source": "https://rebeccabennettforcongress.com/priorities/"},
+   {"topic": "Gun safety", "point": "Keep guns from dangerous people, restore gun violence research funding and expand mental health services.", "source": "https://giffords.org/candidates/rebecca-bennett/"},
+   {"topic": "National security", "point": "Apply her military leadership experience to protecting national security.", "source": "https://rebeccabennettforcongress.com/priorities/"},
+   {"topic": "Veterans", "point": "Advocate for veterans and military families.", "source": "https://rebeccabennettforcongress.com/priorities/"},
+   {"topic": "Environment", "point": "Invest in renewable energy and act on climate change.", "source": "https://rebeccabennettforcongress.com/priorities/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 60, "evidence": "Pledges to lower health care costs and protect access to coverage.", "source": "https://rebeccabennettforcongress.com/priorities/"},
+   "liberty": {"score": 65, "evidence": "Guns only: backs steps to keep firearms from dangerous people while respecting responsible owners.", "source": "https://giffords.org/candidates/rebecca-bennett/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Calls for investing in renewable energy to address climate change.", "source": "https://rebeccabennettforcongress.com/priorities/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://rebeccabennettforcongress.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-10.27.51-PM-1008x1024.png",
+  "notes": "Liberty score reflects gun policy only; her site's 'Defending Our Freedoms' priority gave no retrievable specifics. Campaign image is a screenshot file that may not be a formal headshot."
+ }
+]

@@ -1,0 +1,555 @@
+[
+ {
+  "id": "CO-7/susan-hall",
+  "name": "Susan Hall",
+  "party": "Unity",
+  "current_role": "Teacher and peace activist",
+  "bio": "Susan Hall is the Unity Party candidate for Colorado's 7th congressional district. She is described as a teacher and peace activist and was previously a congressional candidate in 2012 and 2024, when she ran in Colorado's 8th district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked susanhallforcongress.com (parked), the Unity Party of Colorado site and Wikipedia race pages; no statements by the candidate were found. All ten positions remain unknown."
+ },
+ {
+  "id": "CO-7/lawrence-kyle-clark",
+  "name": "Lawrence Kyle Clark",
+  "party": "American Constitution",
+  "current_role": "Businessman",
+  "bio": "Lawrence Kyle Clark is the American Constitution Party candidate for Colorado's 7th congressional district. He is described as a businessman.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Tried likely campaign domains, an American Constitution Party website and Wikipedia race pages without finding any campaign site or statements. All ten positions remain unknown."
+ },
+ {
+  "id": "DC-DEL/kymone-freeman",
+  "name": "Kymone Freeman",
+  "party": "DC Statehood Green",
+  "current_role": "Co-founder of We Act Radio",
+  "bio": "Kymone Freeman is a Washington, D.C. playwright, activist and commentator who co-founded the community station We Act Radio. He is the D.C. Statehood Green Party nominee for Delegate in 2026 after also running for the seat in 2024.",
+  "website": "https://freeman4congress.com/",
+  "social": {
+   "x": "https://x.com/guerillartist",
+   "instagram": "https://instagram.com/kymonefreeman",
+   "facebook": "https://www.facebook.com/kymone.freeman"
+  },
+  "platform": [
+   {
+    "topic": "DC statehood",
+    "point": "Campaigns on the slogan \"No Representation, No Taxes,\" objecting to District residents paying federal taxes without voting representation.",
+    "source": "https://freeman4congress.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Promotes withholding federal income taxes as a protest and argues D.C. should be tax-exempt until it gains statehood.",
+    "source": "https://freeman4congress.com/"
+   },
+   {
+    "topic": "Budget",
+    "point": "Wants budgets that shift money from corporate subsidies and policing toward housing, health care and education.",
+    "source": "https://freeman4congress.com/"
+   },
+   {
+    "topic": "Crime",
+    "point": "Addresses crime and poverty through economic opportunity, mental health resources and ending the school-to-prison pipeline.",
+    "source": "https://freeman4congress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "General statement: calls for moving city priorities away from corporate handouts toward community investment.",
+    "source": "https://freeman4congress.com/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "General statement: wants budgets that prioritize housing and health care.",
+    "source": "https://freeman4congress.com/"
+   },
+   "liberty": null,
+   "security": {
+    "score": 35,
+    "evidence": "General statement: would prioritize social spending over policing and address crime through root causes such as mental health services.",
+    "source": "https://freeman4congress.com/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 60,
+    "evidence": "General statement: lists education among budget priorities and seeks to end the school-to-prison pipeline.",
+    "source": "https://freeman4congress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Issue text comes from the campaign site's agenda section; no questionnaires or debate records were found. Immigration, foreign policy, energy, tech, faith and a multi-issue liberty score remain unknown."
+ },
+ {
+  "id": "FL-1/tyler-davis",
+  "name": "Tyler Davis",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Tyler L. Davis is running without party affiliation in Florida's 1st Congressional District and qualified for the ballot by petition. He describes himself as a Panhandle resident who is not a career politician, and his platform centers on education, workforce development and government transparency.",
+  "website": "https://www.tylerdavisforcongress.com/",
+  "social": {
+   "x": "https://x.com/TylerDavis4FL01",
+   "facebook": "https://www.facebook.com/profile.php?id=61575467512611"
+  },
+  "platform": [
+   {
+    "topic": "Education",
+    "point": "Expand literacy programs, career and technical education, apprenticeships and teaching about how AI works.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   {
+    "topic": "Taxes and spending",
+    "point": "Simplify the federal tax code, review agencies for waste and reduce the national debt gradually.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Protect benefits for current and near retirees while improving the trust fund's long-term finances.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   {
+    "topic": "Medicaid",
+    "point": "Raise provider participation in Medicaid by cutting paperwork and improving reimbursement where appropriate.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   {
+    "topic": "Energy",
+    "point": "Hold utilities accountable for reliability when rates rise and pursue an all-of-the-above energy strategy.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Spoke at a county commission meeting in June 2026 against data centers in the area.",
+    "source": "https://www.tylerdavisforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 40,
+    "evidence": "General statements: supports a simpler tax code, fewer regulations for small businesses and cutting wasteful federal spending, alongside stronger competition.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   "welfare": {
+    "score": 55,
+    "evidence": "General statements: would protect Social Security for current retirees and improve Medicaid access and provider reimbursement.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   "liberty": null,
+   "security": {
+    "score": 55,
+    "evidence": "General statement: supports first responders and community policing partnerships.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 50,
+    "evidence": "General statement: backs an all-of-the-above energy strategy with grid resilience and environmental stewardship.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   "tech": null,
+   "education": {
+    "score": 55,
+    "evidence": "General statements: supports teacher recruitment and resources plus career and technical education, with no stated position on vouchers.",
+    "source": "https://www.tylerdavisforcongress.com/how-ill-work-for-you"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Found the campaign site tylerdavisforcongress.com and read its home, platform, about and FAQ pages; no questionnaires or debate coverage were found. Immigration, foreign policy, tech regulation, faith and liberty issues are not addressed."
+ },
+ {
+  "id": "FL-11/ralph-groves",
+  "name": "Ralph Groves",
+  "party": "Libertarian",
+  "current_role": "Former chair, Libertarian Party of Orange County",
+  "bio": "Ralph Groves is a retired U.S. Army major and Iraq War veteran who later worked as a Defense Department analyst, including in the United Kingdom and at the Pentagon. He formerly chaired the Libertarian Party of Orange County, Florida, and holds a Doctor of Arts in history from St. John's University.",
+  "website": "https://www.grovesforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Guns",
+    "point": "Defend the individual right to bear arms, oppose gun-free zones and question the effectiveness of background checks.",
+    "source": "https://www.grovesforcongress.com/position-papers"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Describes himself as pro-life, opposes federal funding for Planned Parenthood and leaves only extreme cases to women and doctors.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Anti-war; urges a Ukraine cease-fire, opposes deeper U.S. aid to Ukraine and opposes military intervention in Iran.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   {
+    "topic": "Gun safety",
+    "point": "Supports safety courses for gun owners, similar to driver education.",
+    "source": "https://www.grovesforcongress.com/position-papers"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Keep Social Security and Medicare while cutting federal taxes and regulation to spur growth.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   {
+    "topic": "Energy",
+    "point": "Increase fossil fuel output, arguing a green-energy transition will take decades.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   {
+    "topic": "Education",
+    "point": "Applauds abolishing the federal Education Department and supports vouchers and homeschooling options.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   {
+    "topic": "Drugs",
+    "point": "Would push to end the War on Drugs, citing its failure and unequal punishment of minorities.",
+    "source": "https://www.grovesforcongress.com/meet-ralph-groves"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Calls for lower federal taxes and decreased regulation to spur job growth.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   "welfare": {
+    "score": 45,
+    "evidence": "Would uphold Social Security and Medicare and backed emergency SNAP funding during the 2025 shutdown, while also seeking tax cuts.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   "liberty": {
+    "score": 40,
+    "evidence": "Guns: strong gun-ownership rights; drugs: end the War on Drugs; abortion: pro-life, opposes public funding and backed curbing mail-order mifepristone.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Opposes government surveillance of religious congregations and wants to end the War on Drugs.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   "immigration": {
+    "score": 45,
+    "evidence": "Supports simpler processes for legal, regulated immigration while saying illegal migration strains communities.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Follows a non-interventionist principle, opposes deeper U.S. support for Ukraine and military action in Iran, though he backs more defense-industry funding.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Supports increasing fossil fuel output and says a green-energy transition will take decades.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Applauds abolishing the federal Education Department and supports vouchers and homeschooling.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   },
+   "faith": {
+    "score": 60,
+    "evidence": "Wants church-related pro-life agencies protected and no government surveillance of religious establishments.",
+    "source": "https://www.grovesforcongress.com/my-mission"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Read the campaign's mission, position paper, biography, letters and press release pages; his mission page confirms a pro-life stance with an exception for extreme cases. Tech regulation remains unknown."
+ },
+ {
+  "id": "FL-12/branden-scrivener",
+  "name": "Branden Scrivener",
+  "party": "Independent",
+  "current_role": "Healthcare worker",
+  "bio": "Branden Scrivener is running without party affiliation in Florida's 12th District. He holds a bachelor's degree in human services, has worked in healthcare for more than three years handling insurance authorizations, and interned with Catholic Charities, Tampa Crossroads and other agencies.",
+  "website": "https://brandenscrivenerfl.info/",
+  "social": {
+   "facebook": "https://www.facebook.com/Branden.scrivener.fl/"
+  },
+  "platform": [
+   {
+    "topic": "Term limits",
+    "point": "Set strict term limits, with eight years as the limit for House members.",
+    "source": "https://brandenscrivenerfl.info/"
+   },
+   {
+    "topic": "Congress size",
+    "point": "Increase the number of House seats beyond 435 to match population growth.",
+    "source": "https://brandenscrivenerfl.info/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Rework campaign finance law to curb unlimited corporate spending and support open primaries.",
+    "source": "https://brandenscrivenerfl.info/"
+   },
+   {
+    "topic": "Education",
+    "point": "Stop diverting public education funding to charter and other alternative school programs.",
+    "source": "https://brandenscrivenerfl.info/"
+   },
+   {
+    "topic": "Privacy",
+    "point": "Require warrants for government data access and bar agencies from buying consumer data.",
+    "source": "https://brandenscrivenerfl.info/"
+   },
+   {
+    "topic": "Development",
+    "point": "Opposes AI data centers funded by Floridians and wants more public transportation.",
+    "source": "https://brandenscrivenerfl.info/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 15,
+    "evidence": "Wants warrants required for government access to personal data and a ban on agencies buying consumer data.",
+    "source": "https://brandenscrivenerfl.info/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "General statement: says personal data should be protected, and opposes AI data centers paid for by Floridians.",
+    "source": "https://brandenscrivenerfl.info/"
+   },
+   "education": {
+    "score": 70,
+    "evidence": "Says public education funding should not be diverted to charter and other programs, though he says he believes in parent choice.",
+    "source": "https://brandenscrivenerfl.info/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions come from the 'My Key Issues' section of his GoodParty.org-built campaign site; no questionnaires or news coverage were found. Economy, welfare, liberty, immigration, foreign policy, energy and faith remain unknown."
+ },
+ {
+  "id": "FL-13/tony-d-arrigo",
+  "name": "Tony D'Arrigo",
+  "party": "Independent",
+  "current_role": "Small-business owner and author",
+  "bio": "Tony D'Arrigo is a small-business owner with a background in hospitality management and a published author. He describes himself as a former Republican and is running without party affiliation in Florida's 13th District, refusing corporate PAC money.",
+  "website": "https://tonydarrigo.com/",
+  "social": {
+   "x": "https://twitter.com/TonyDArrigo",
+   "instagram": "https://instagram.com/tonyd_in_district13",
+   "facebook": "https://facebook.com/TonyDArrigoD13",
+   "tiktok": "https://tiktok.com/@Tony.darrigo",
+   "youtube": "https://youtube.com/channel/UC5vTIn3h2iqS4wS29DG9x_g"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Expand coverage toward universal care, de-privatize hospitals and protect the ACA.",
+    "source": "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-us-district-13"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Protect Medicare and Medicaid and increase Social Security benefits.",
+    "source": "https://tonydarrigo.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Eliminate federal income tax for households earning under $75,000.",
+    "source": "https://tonydarrigo.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Promote affordable clean energy and electric vehicles.",
+    "source": "https://tonydarrigo.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Expand homeownership through government-backed mortgages.",
+    "source": "https://tonydarrigo.com/"
+   },
+   {
+    "topic": "Children",
+    "point": "Provide free school meals and child health care.",
+    "source": "https://tonydarrigo.com/"
+   },
+   {
+    "topic": "Lending",
+    "point": "Cap auto loan interest at 15%, cap consumer loan rates and ban payday and title loans.",
+    "source": "https://tonydarrigo.com/"
+   },
+   {
+    "topic": "Climate",
+    "point": "Pursue a zero-carbon future and shift oil and gas subsidies to solar, wind and hydrogen.",
+    "source": "https://tonydarrigo.com/letsgettowork/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Proposes interest-rate caps on consumer and auto loans, government-issued mortgages capped at 5%, and limits on investor ownership of homes in each county.",
+    "source": "https://tonydarrigo.com/"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Proposes universal health coverage with premium and deductible caps tied to income, free care for all children and higher Social Security benefits.",
+    "source": "https://tonydarrigo.com/"
+   },
+   "liberty": {
+    "score": 60,
+    "evidence": "General statement on guns only: says more guns have worsened violence and calls for practical action on gun violence.",
+    "source": "https://tonydarrigo.com/letsgettowork/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 40,
+    "evidence": "General statement: rejects claims that undocumented immigrants receive entitlements and stresses that they pay taxes.",
+    "source": "https://tonydarrigo.com/letsgettowork/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 85,
+    "evidence": "Calls for bold climate action toward zero carbon and for moving oil and gas subsidies into renewable energy on federal land.",
+    "source": "https://tonydarrigo.com/letsgettowork/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Read the campaign home, 'The Facts' and about pages plus a TV station questionnaire. Security, foreign policy, tech, education and faith remain unknown."
+ },
+ {
+  "id": "FL-16/mark-davis",
+  "name": "Mark Davis",
+  "party": "Independent",
+  "current_role": "Air Force veteran and small-business owner",
+  "bio": "Mark Davis served eight years in the U.S. Air Force and then spent 16 years in corporate retail operations management. He lives in Parrish, Florida, and is running without party affiliation in Florida's 16th Congressional District.",
+  "website": "https://markdavisforcongress.com/",
+  "social": {
+   "x": "https://x.com/MarkMadDogDavis",
+   "instagram": "https://www.instagram.com/markdavisforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61577092521616"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Supports single-payer universal health care that covers everyone instead of employer-based or profit-driven plans.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   {
+    "topic": "Economy",
+    "point": "Oppose tariffs and pursue policies to address rising rents, insurance costs and stagnant wages.",
+    "source": "https://markdavisforcongress.com/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Protect reproductive freedom in federal law.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   {
+    "topic": "Guns",
+    "point": "Support common-sense gun laws to protect children and the public.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Handle immigration and crime with practical policies that respect civil liberties.",
+    "source": "https://markdavisforcongress.com/issues"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Raise taxes on billionaires so they pay what he calls their fair share.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   {
+    "topic": "Education",
+    "point": "Make public college and trade school free.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Improve services and benefits for veterans.",
+    "source": "https://markdavisforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Calls for taxing billionaires, while also opposing tariffs.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports single-payer health care covering everyone.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Abortion: protect reproductive freedom in federal law; LGBTQ and civil rights: equal rights with no exceptions; guns: supports common-sense gun laws.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   "security": {
+    "score": 35,
+    "evidence": "Says crime can be addressed without militarizing streets, with respect for civil liberties.",
+    "source": "https://markdavisforcongress.com/issues"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Rejects 'invasion' framing and calls for immigration policy that respects liberty.",
+    "source": "https://markdavisforcongress.com/issues"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Supports free public college and trade school.",
+    "source": "https://markdavisforcongress.com/more-about-why"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68e2ebacb1264b1df27fe772/0f5435e0-3e2e-4ef1-b8d3-37667e44d106/IMG_6092.jpg",
+  "notes": "Read the campaign home, issues and 'More About Why' pages; a linked policy PDF was not opened. Foreign policy, energy, tech and faith remain unknown, and the campaign image may not be a formal headshot."
+ }
+]

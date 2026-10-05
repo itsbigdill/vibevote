@@ -1,0 +1,444 @@
+[
+ {
+  "id": "IA-SEN/ashley-hinson",
+  "name": "Ashley Hinson",
+  "party": "Republican",
+  "race": "IA-SEN",
+  "race_label": "Iowa · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "H001091",
+   "official_name": "Ashley Hinson",
+   "chamber": "House",
+   "official_site": "https://hinson.house.gov",
+   "official_social": {
+    "twitter": "RepAshleyHinson",
+    "facebook": "RepAshleyHinson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 30,
+    "liberty": 45,
+    "security": 80,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": 30,
+    "tech": 60,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Voted for OBBBA, Laken Riley, FISA extension, Ukraine aid, TikTok divestment, Born-Alive and Respect for Marriage acts; against background checks; backs E15.",
+   "sources": [
+    "https://ballotpedia.org/Ashley_Hinson",
+    "https://clerk.house.gov/Votes/2024151",
+    "https://clerk.house.gov/Votes/2026155"
+   ],
+   "photo": {
+    "file": "File:Ashley Hinson 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "IA-SEN/josh-turek",
+  "name": "Josh Turek",
+  "party": "Democratic",
+  "race": "IA-SEN",
+  "race_label": "Iowa · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 80,
+    "liberty": 5,
+    "security": null,
+    "immigration": 30,
+    "foreign": 30,
+    "energy": null,
+    "tech": null,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Backs a public option, PRO Act, indexed minimum wage, food price-gouging ban, ending vouchers, codifying Roe, marriage equality, simpler citizenship path; opposes unnecessary wars.",
+   "sources": [
+    "https://turek4iowa.com/platform",
+    "https://en.wikipedia.org/wiki/Josh_Turek"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IA-GOV/rob-sand",
+  "name": "Rob Sand",
+  "party": "Democratic",
+  "race": "IA-GOV",
+  "race_label": "Iowa · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": 15,
+    "security": 60,
+    "immigration": null,
+    "foreign": null,
+    "energy": 75,
+    "tech": 90,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Proposes under-16 social media ban, data center rules, higher minimum wage, ending Medicaid privatization, legal cannabis, universal pre-K, voucher limits, renewables, prison for taxpayer theft.",
+   "sources": [
+    "https://robsand.com/priorities",
+    "https://robsand.com/issues/keep-iowa-kids-safe-online",
+    "https://robsand.com/issues/making-life-more-affordable"
+   ],
+   "photo": {
+    "file": "File:Rob sand IA.png",
+    "license": "CC BY-SA 4.0",
+    "author": "Williamskt"
+   }
+  }
+ },
+ {
+  "id": "IA-GOV/zach-lahn",
+  "name": "Zach Lahn",
+  "party": "Republican",
+  "race": "IA-GOV",
+  "race_label": "Iowa · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": 25,
+    "liberty": 60,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": 70,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Backs total abortion ban, constitutional carry, ESA expansion, no benefits for unauthorized immigrants, farm antitrust suits, data center moratorium, privatized Medicaid, revoking indoctrinating teachers' licenses.",
+   "sources": [
+    "https://www.zachlahn.com/policy/",
+    "https://en.wikipedia.org/wiki/Zach_Lahn",
+    "https://ballotpedia.org/Zach_Lahn"
+   ],
+   "photo": {
+    "file": "File:Zach Lahn IA State Fair 2026.jog (cropped).jpg",
+    "license": "CC0",
+    "author": "Aunger67 (cropped by Raydo)"
+   }
+  }
+ },
+ {
+  "id": "KS-SEN/roger-marshall",
+  "name": "Roger Marshall",
+  "party": "Republican",
+  "race": "KS-SEN",
+  "race_label": "Kansas · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001198",
+   "official_name": "Roger Marshall",
+   "chamber": "Senate",
+   "official_site": "https://www.marshall.senate.gov",
+   "official_social": {
+    "twitter": "SenatorMarshall",
+    "facebook": "RogerMarshallMD",
+    "instagram": "senrogermarshall",
+    "youtube": "UCR3nOFMqBB-kRpKFwgapMaQ"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 15,
+    "liberty": 65,
+    "security": 50,
+    "immigration": 80,
+    "foreign": 35,
+    "energy": 15,
+    "tech": 60,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Voted for OBBBA, KOSA, Laken Riley Act; against 2024 Ukraine aid, FISA renewal, gun-safety and marriage acts; backs tariffs, wall, all-of-the-above energy; opposes abortion.",
+   "sources": [
+    "https://kansansformarshall.com/record",
+    "https://en.wikipedia.org/wiki/Roger_Marshall",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"
+   ],
+   "photo": {
+    "file": "File:Roger Marshall 117th Congress portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. Senate Photographic Studio"
+   }
+  }
+ },
+ {
+  "id": "KS-SEN/adam-hamilton",
+  "name": "Adam Hamilton",
+  "party": "Democratic",
+  "race": "KS-SEN",
+  "race_label": "Kansas · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 10,
+    "security": null,
+    "immigration": null,
+    "foreign": 30,
+    "energy": 55,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs reversing Medicaid cuts, restoring ACA credits, broader Medicare drug negotiation, ending tariffs and Iran war, union bargaining, abortion rights, all-of-the-above energy, AI hiring safeguards.",
+   "sources": [
+    "https://hamiltonforkansas.com/issues",
+    "https://ballotpedia.org/Adam_Hamilton_(Kansas)"
+   ],
+   "photo": {
+    "file": "File:Adam Hamilton at podium (cropped 2).jpg",
+    "license": "Public domain",
+    "author": "Western Pennsylvania Conference - United Methodist Church"
+   }
+  }
+ },
+ {
+  "id": "KS-GOV/cindy-holscher",
+  "name": "Cindy Holscher",
+  "party": "Democratic",
+  "race": "KS-GOV",
+  "race_label": "Kansas · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 10,
+    "security": null,
+    "immigration": 15,
+    "foreign": null,
+    "energy": null,
+    "tech": 70,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Backs Medicaid expansion, $16 minimum wage, repealing right-to-work, paid sick leave, cannabis legalization, data center moratorium, public school funding over vouchers; opposed immigrant detention facility.",
+   "sources": [
+    "https://www.cindyforkansas.com/issues",
+    "https://ballotpedia.org/Cindy_Holscher",
+    "https://www.democracynow.org/2026/8/7/cindy_holscher"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KS-GOV/ty-masterson",
+  "name": "Ty Masterson",
+  "party": "Republican",
+  "race": "KS-GOV",
+  "race_label": "Kansas · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": null,
+    "liberty": 90,
+    "security": 75,
+    "immigration": 70,
+    "foreign": null,
+    "energy": null,
+    "tech": 30,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Led $2 billion tax cut; backs private school vouchers, police funding, data center tax incentives; opposes abortion rights, gender surgeries for minors, illegal immigration.",
+   "sources": [
+    "https://www.mastersonforgovernor.com",
+    "https://ballotpedia.org/Ty_Masterson",
+    "https://kansasreflector.com/2026/09/14/kansas-republican-ty-masterson-concentrates-gubernatorial-campaign-on-generational-change/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "KY-SEN/charles-booker",
+  "name": "Charles Booker",
+  "party": "Democratic",
+  "race": "KY-SEN",
+  "race_label": "Kentucky · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 15,
+    "security": 20,
+    "immigration": 10,
+    "foreign": 25,
+    "energy": 95,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, universal basic income, Green New Deal, codified abortion rights, no-knock warrant ban, abolishing ICE; calls Gaza war genocide.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)",
+    "https://charlesbookerky.org/why-im-running"
+   ],
+   "photo": {
+    "file": "File:Charles solar panels (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Breadwin"
+   }
+  }
+ },
+ {
+  "id": "KY-SEN/andy-barr",
+  "name": "Andy Barr",
+  "party": "Republican",
+  "race": "KY-SEN",
+  "race_label": "Kentucky · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "B001282",
+   "official_name": "Andy Barr",
+   "chamber": "House",
+   "official_site": "https://barr.house.gov",
+   "official_social": {
+    "twitter": "RepAndyBarr",
+    "facebook": "RepAndyBarr",
+    "youtube": "RepAndyBarr",
+    "instagram": "RepAndyBarr"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": 90,
+    "security": null,
+    "immigration": 85,
+    "foreign": 80,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts; backs ACA repeal; anti-abortion, opposed Obergefell; seeks birthright citizenship amendment; strongly pro-Israel; opposes carbon tax.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Andy_Barr",
+    "https://www.wuky.org/wuky-news/2025-06-27/barr-seeks-to-undo-birthright-citizenship-and-put-an-end-to-this-debate"
+   ],
+   "photo": {
+    "file": "File:Andy Barr 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "US Congress"
+   }
+  }
+ },
+ {
+  "id": "LA-SEN/jamie-davis",
+  "name": "Jamie Davis",
+  "party": "Democratic",
+  "race": "LA-SEN",
+  "race_label": "Louisiana · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 40,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 65,
+    "tech": 70,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Supports raising minimum wage, reversing 2025 billionaire tax cuts, expanding health coverage, AI guardrails, energy transition, school funding; defends Second Amendment with background checks.",
+   "sources": [
+    "https://jamieforlouisiana.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "LA-SEN/julia-letlow",
+  "name": "Julia Letlow",
+  "party": "Republican",
+  "race": "LA-SEN",
+  "race_label": "Louisiana · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "L000595",
+   "official_name": "Julia Letlow",
+   "chamber": "House",
+   "official_site": "https://letlow.house.gov",
+   "official_social": {
+    "twitter": "RepJuliaLetlow",
+    "facebook": "repjulialetlow"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 25,
+    "liberty": 60,
+    "security": 70,
+    "immigration": 90,
+    "foreign": 70,
+    "energy": 15,
+    "tech": null,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Backs extending Trump tax cuts, more oil and LNG, border wall, school choice; opposes abortion, defends gun rights, backs banning minors' gender transition.",
+   "sources": [
+    "https://www.julialetlow.com/policyplan",
+    "https://letlow.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Julia_Letlow"
+   ],
+   "photo": {
+    "file": "File:Julia Letlow 117th (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ }
+]

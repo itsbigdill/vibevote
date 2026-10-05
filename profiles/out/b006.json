@@ -1,0 +1,377 @@
+[
+ {
+  "id": "ME-SEN/troy-jackson",
+  "name": "Troy Jackson",
+  "party": "Democratic",
+  "current_role": "Former President of the Maine Senate",
+  "bio": "Troy Jackson is a logger from Allagash in northern Maine. He served in the Maine House from 2002 to 2008 and in the Maine Senate from 2008 to 2014 and 2016 to 2024, including as majority leader, minority leader and Senate President from 2018 to 2024.",
+  "website": "https://www.jacksonformaine.com",
+  "social": {"x": "https://x.com/troyjackson207", "instagram": "https://www.instagram.com/troyjackson207", "facebook": "https://www.facebook.com/TroyJacksonmaine", "youtube": "https://www.youtube.com/@troyjacksonformaine"},
+  "platform": [
+   {"topic": "Health care", "point": "Pass Medicare for All and lower prescription drug prices.", "source": "https://www.jacksonformaine.com/priorities"},
+   {"topic": "Taxes", "point": "Make billionaires and corporations pay their fair share while cutting taxes for working-class families.", "source": "https://www.jacksonformaine.com/priorities"},
+   {"topic": "Immigration", "point": "Dismantle and abolish ICE.", "source": "https://www.jacksonformaine.com/priorities"},
+   {"topic": "Abortion", "point": "Establish a federal right to abortion.", "source": "https://www.jacksonformaine.com/priorities"},
+   {"topic": "Foreign policy", "point": "Work to end the war in Gaza and stop U.S. military aid to Israel.", "source": "https://www.jacksonformaine.com/priorities"},
+   {"topic": "Government reform", "point": "Ban stock trading by members of Congress, overturn Citizens United and end dark money.", "source": "https://www.jacksonformaine.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Calls for taxing billionaires and corporations more while cutting working-class taxes.", "source": "https://www.jacksonformaine.com/priorities"},
+   "welfare": {"score": 90, "evidence": "Backs Medicare for All.", "source": "https://www.jacksonformaine.com/priorities"},
+   "liberty": {"score": 30, "evidence": "Supports a federal abortion right and LGBTQ anti-discrimination law, and led passage of Maine's 72-hour gun waiting period and bump stock ban.", "source": "https://en.wikipedia.org/wiki/Troy_Jackson"},
+   "security": null,
+   "immigration": {"score": 5, "evidence": "Calls for dismantling and abolishing ICE.", "source": "https://www.jacksonformaine.com/priorities"},
+   "foreign": {"score": 30, "evidence": "Calls for ending U.S. tax-funded military aid to Israel and ending the war in Gaza.", "source": "https://www.jacksonformaine.com/priorities"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Troy Jackson in the Senate Chamber (cropped).jpg", "license": "CC0", "author": "ArenLeBrun"},
+  "campaign_photo": "https://run.imgix.net/61cfa6b5-77cc-468d-b36c-b302654b60f4/31913722-b697-4500-af76-cb0e285b84f8/31913722-b697-4500-af76-cb0e285b84f8.png",
+  "notes": "An earlier Ukraine aid claim was dropped because the cited article does not mention it."
+ },
+ {
+  "id": "ME-SEN/susan-collins",
+  "name": "Susan Collins",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Maine",
+  "bio": "Susan Collins, from Caribou, Maine, has served in the U.S. Senate since 1997 and chairs the Senate Appropriations Committee. Before the Senate she worked as a congressional staffer, served as Maine's commissioner of professional and financial regulation, led the Small Business Administration's New England office and founded a family business center at Husson University.",
+  "website": "https://www.susancollins.com",
+  "social": {"x": "https://x.com/SenatorCollins", "instagram": "https://www.instagram.com/susancollinsforsenate/", "facebook": "https://www.facebook.com/collins4senator", "youtube": "https://www.youtube.com/@susancollins4senator"},
+  "platform": [
+   {"topic": "Jobs", "point": "Support Maine jobs, workforce development and small businesses.", "source": "https://www.susancollins.com/"},
+   {"topic": "Health care", "point": "Advance research and care for Alzheimer's disease and diabetes.", "source": "https://www.susancollins.com/"},
+   {"topic": "Retirement", "point": "Protect Social Security.", "source": "https://www.susancollins.com/"},
+   {"topic": "Fishing", "point": "Defend Maine's lobster industry and fishing heritage.", "source": "https://www.susancollins.com/"},
+   {"topic": "Security and veterans", "point": "Strengthen national security and services for veterans.", "source": "https://www.susancollins.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 45, "evidence": "Voted for the 2017 Republican tax law but against the 2025 reconciliation bill.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm"},
+   "welfare": {"score": 45, "evidence": "Voted against 2017 bills to repeal the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Political_positions_of_Susan_Collins"},
+   "liberty": {"score": 40, "evidence": "Describes herself as pro-choice, led repeal of Don't Ask, Don't Tell, supports same-sex marriage and backed the 2022 bipartisan gun law.", "source": "https://en.wikipedia.org/wiki/Political_positions_of_Susan_Collins"},
+   "security": {"score": 65, "evidence": "Voted for the Protect America Act expanding FISA surveillance powers and serves on the Intelligence Committee.", "source": "https://en.wikipedia.org/wiki/Political_positions_of_Susan_Collins"},
+   "immigration": {"score": 45, "evidence": "Supported the 2013 bipartisan immigration reform bill and opposed the 2017 travel ban.", "source": "https://en.wikipedia.org/wiki/Political_positions_of_Susan_Collins"},
+   "foreign": {"score": 70, "evidence": "Voted for the 2024 Ukraine-Israel aid package and introduced legislation to block NATO withdrawal without Senate approval.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 65, "evidence": "Only Republican to vote against Scott Pruitt's EPA confirmation and against undoing an Obama-era coal mining rule in 2017.", "source": "https://en.wikipedia.org/wiki/Susan_Collins"},
+   "tech": null,
+   "education": {"score": 60, "evidence": "One of two Republicans who voted against confirming Betsy DeVos as Education Secretary.", "source": "https://en.wikipedia.org/wiki/Susan_Collins"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://susancollins.com/wp-content/uploads/2025/08/4J4A3647-1-scaled.jpg",
+  "notes": ""
+ },
+ {
+  "id": "ME-GOV/hannah-pingree",
+  "name": "Hannah Pingree",
+  "party": "Democratic",
+  "current_role": "Former Speaker of the Maine House",
+  "bio": "Hannah Pingree grew up on North Haven island and served in the Maine House from 2002 to 2010, as majority leader and then Speaker from 2008 to 2010. From 2019 to 2025 she directed Governor Janet Mills's Office of Policy Innovation and the Future, covering climate, housing and economic development; she has also run an inn and restaurant and chaired a school board.",
+  "website": "https://hannahforgovernor.com",
+  "social": {"x": "https://x.com/pingreehannah", "instagram": "https://www.instagram.com/hannahpingreeforgovernor/", "facebook": "https://www.facebook.com/profile.php?id=61577230374810", "tiktok": "https://www.tiktok.com/@hannah.pingree", "youtube": "https://www.youtube.com/@HannahPingreeforGovernor"},
+  "platform": [
+   {"topic": "Housing", "point": "Invest $100 million a year in affordable housing and cap state permit reviews at 90 days.", "source": "https://hannahforgovernor.com/housing-plan/"},
+   {"topic": "Education", "point": "Create free, full-day universal public pre-K for 4-year-olds and speed a $50,000 minimum teacher salary.", "source": "https://hannahforgovernor.com/education/"},
+   {"topic": "Workforce", "point": "Fund 1,000 construction apprenticeships and make free community college permanent.", "source": "https://hannahforgovernor.com/housing-plan/"},
+   {"topic": "Climate and energy", "point": "Move Maine to 100% clean energy by 2040.", "source": "https://hannahforgovernor.com/climate/"},
+   {"topic": "Affordability", "point": "Offer a public health insurance option and ask top earners to pay more.", "source": "https://hannahforgovernor.com/affordability/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Proposes that top earners pay more and $100 million a year in public housing investment.", "source": "https://hannahforgovernor.com/affordability/"},
+   "welfare": {"score": 75, "evidence": "Proposes a public health option and universal free pre-K.", "source": "https://hannahforgovernor.com/education/"},
+   "liberty": {"score": 15, "evidence": "Supports abortion rights.", "source": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-hannah-pingree-democrat-for-governor"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Describes immigrant workers as important to Maine's workforce.", "source": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-hannah-pingree-democrat-for-governor"},
+   "foreign": null,
+   "energy": {"score": 90, "evidence": "Proposes 100% clean energy by 2040.", "source": "https://hannahforgovernor.com/climate/"},
+   "tech": {"score": 60, "evidence": "Proposes a data center moratorium and a teacher-led task force on classroom AI.", "source": "https://hannahforgovernor.com/affordability/"},
+   "education": {"score": 85, "evidence": "Plan centers on public schools: universal public pre-K, higher teacher pay and a $100 million school construction loan fund.", "source": "https://hannahforgovernor.com/education/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Hannah Pingree (cropped).jpg", "license": "Public domain", "author": "Office of U.S. Representative Chellie Pingree"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "ME-GOV/bobby-charles",
+  "name": "Bobby Charles",
+  "party": "Republican",
+  "current_role": "Consultant; former Assistant Secretary of State",
+  "bio": "Bobby Charles (Robert B. Charles) grew up in Wayne, Maine, and leads The Charles Group, a Washington consulting firm. He was Assistant Secretary of State for International Narcotics and Law Enforcement Affairs from 2003 to 2005, worked in the Reagan and George H.W. Bush White Houses, led staff on a House oversight subcommittee and served as a Navy Reserve intelligence officer.",
+  "website": "https://bobbyformaine.com",
+  "social": {"x": "https://x.com/Bobby4Maine", "instagram": "https://www.instagram.com/bobbyformaine/", "facebook": "https://www.facebook.com/BobbyCharlesMaine/", "tiktok": "https://www.tiktok.com/@bobbyformaine", "youtube": "https://www.youtube.com/@BobbyRCharles"},
+  "platform": [
+   {"topic": "Crime", "point": "Dismantle drug cartel networks and rebuild law enforcement.", "source": "https://bobbyformaine.com/issues"},
+   {"topic": "Taxes", "point": "Abolish the state income tax and reduce regulations on businesses and families.", "source": "https://bobbyformaine.com/issues"},
+   {"topic": "Energy", "point": "Put energy experts in charge and restore reliable, lower-cost power.", "source": "https://bobbyformaine.com/issues"},
+   {"topic": "Education", "point": "Refocus schools on reading, math and science, with curriculum transparency and more parental involvement.", "source": "https://bobbyformaine.com/issues"},
+   {"topic": "Elections", "point": "Seek federal help, including ICE and U.S. Marshals, to prevent noncitizen voting.", "source": "https://www.mainepublic.org/politics/2026-08-26/bobby-charles-says-hell-ask-trumps-border-chief-to-send-ice-agents-to-maine-polls"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Proposes abolishing the state income tax and cutting regulations.", "source": "https://bobbyformaine.com/issues"},
+   "welfare": null,
+   "liberty": {"score": 75, "evidence": "Opposes transgender girls competing in girls' sports.", "source": "https://www.bangordailynews.com/2025/04/15/politics/elections/maine-election-2026-republican-governor-candidate-bobby-charles/"},
+   "security": {"score": 80, "evidence": "Campaigns on a law enforcement buildup against drug trafficking and crime.", "source": "https://spectrumlocalnews.com/me/maine/politics/2025/04/18/republican-focused-on-fighting-crime-launches-bid-for-maine-governor"},
+   "immigration": {"score": 70, "evidence": "Pledges strict immigration enforcement and would ask for ICE agents at polling places.", "source": "https://www.mainepublic.org/politics/2026-08-26/bobby-charles-says-hell-ask-trumps-border-chief-to-send-ice-agents-to-maine-polls"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 30, "evidence": "Calls for curriculum transparency, more parental involvement and an end to what he calls ideological teaching.", "source": "https://bobbyformaine.com/issues"},
+   "faith": null
+  },
+  "photo": {"file": "File:Robert Charles.jpg", "license": "CC BY-SA 4.0", "author": "Hoveros"},
+  "campaign_photo": "",
+  "notes": "Education score is new, based on the campaign issues page."
+ },
+ {
+  "id": "ME-GOV/rick-bennett",
+  "name": "Rick Bennett",
+  "party": "Independent",
+  "current_role": "Maine State Senator",
+  "bio": "Rick Bennett, of Oxford County, has served in the Maine Senate since 2020 and earlier served in the Maine House (1990-1994) and Senate (1996-2004), including as Senate President. He chaired the Maine Republican Party from 2013 to 2017, left the party in 2025, and is CEO of the governance advisory firm ValueEdge Advisors.",
+  "website": "https://bennettforgovernor.com",
+  "social": {"instagram": "https://www.instagram.com/rickbennettforgovernor/", "facebook": "https://www.facebook.com/RickBennettForGovernor/", "youtube": "https://www.youtube.com/@RickBennettforGovernor"},
+  "platform": [
+   {"topic": "Housing", "point": "Offer state-backed down payment guarantees for first-time buyers and audit permitting delays.", "source": "https://bennettforgovernor.com/cutthecostscrushingmainers"},
+   {"topic": "Energy", "point": "Lower utility delivery margins and create a Maine Generation Authority to build renewable energy for ratepayers.", "source": "https://bennettforgovernor.com/cutthecostscrushingmainers"},
+   {"topic": "Health care", "point": "Fund a medical debt relief program and pursue a path to universal coverage.", "source": "https://bennettforgovernor.com/cutthecostscrushingmainers"},
+   {"topic": "Education", "point": "Ensure every child reads, writes and does math by fourth grade and expand career and technical education.", "source": "https://bennettforgovernor.com/building-strong-schools"},
+   {"topic": "Government reform", "point": "Create an inspector general in the governor's office and require disclosure of large campaign donors.", "source": "https://bennettforgovernor.com/fix-the-corrupt-system"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 65, "evidence": "Commits to a path toward universal health coverage and medical debt relief.", "source": "https://bennettforgovernor.com/cutthecostscrushingmainers"},
+   "liberty": {"score": 30, "evidence": "Voted against restricting transgender students in school sports.", "source": "https://en.wikipedia.org/wiki/Rick_Bennett_(Maine_politician)"},
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Voted for limiting local police cooperation with ICE.", "source": "https://en.wikipedia.org/wiki/Rick_Bennett_(Maine_politician)"},
+   "foreign": null,
+   "energy": {"score": 65, "evidence": "Proposes a state authority to develop renewable generation and statewide weatherization investment.", "source": "https://bennettforgovernor.com/cutthecostscrushingmainers"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Welfare and energy scores are new, based on campaign proposals. The campaign site shows only a photo with his spouse, so no campaign headshot was recorded."
+ },
+ {
+  "id": "MD-GOV/wes-moore",
+  "name": "Wes Moore",
+  "party": "Democratic",
+  "current_role": "Governor of Maryland",
+  "bio": "Wes Moore has been Governor of Maryland since January 2023. Born in Takoma Park and raised largely in the Bronx, he served as an Army officer in Afghanistan, worked in investment banking, wrote several books including The Other Wes Moore, and led the Robin Hood Foundation from 2017 to 2021.",
+  "website": "https://wesmoore.com",
+  "social": {},
+  "platform": [
+   {"topic": "Economy", "point": "Expand pathways to work, wages and wealth for Maryland families.", "source": "https://wesmoore.com/"},
+   {"topic": "Budget", "point": "Keep the state budget balanced.", "source": "https://wesmoore.com/"},
+   {"topic": "Data centers", "point": "Support data centers only if they pay for their own power, hire locally and have community backing.", "source": "https://thedailyrecord.com/2026/09/10/data-centers-wes-moore-dan-cox-maryland/"},
+   {"topic": "Energy", "point": "Pursue 8.5 gigawatts of offshore wind by 2031 and utility cost reforms.", "source": "https://en.wikipedia.org/wiki/Governorship_of_Wes_Moore"},
+   {"topic": "Public safety", "point": "Hire more probation and parole officers and fund police while stressing accountability and violence intervention.", "source": "https://en.wikipedia.org/wiki/Political_positions_of_Wes_Moore"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Signed a 2025 budget adding a capital gains surtax and a tax on IT services alongside spending cuts.", "source": "https://en.wikipedia.org/wiki/Governorship_of_Wes_Moore"},
+   "welfare": {"score": 65, "evidence": "Record reflects expanded state programs within a budget that also cut $2.5 billion.", "source": "https://en.wikipedia.org/wiki/Governorship_of_Wes_Moore"},
+   "liberty": {"score": 25, "evidence": "Signed the 2023 Gun Safety Act (guns) and supports expanding abortion access (abortion).", "source": "https://en.wikipedia.org/wiki/Governorship_of_Wes_Moore"},
+   "security": {"score": 50, "evidence": "Backs more law enforcement resources paired with misconduct accountability, and funded a state intelligence fusion center.", "source": "https://en.wikipedia.org/wiki/Political_positions_of_Wes_Moore"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Set an 8.5-gigawatt offshore wind goal and signed the Clean Transportation Act.", "source": "https://en.wikipedia.org/wiki/Governorship_of_Wes_Moore"},
+   "tech": {"score": 50, "evidence": "Signed tariffs on large power users like data centers but also eased data center generator rules.", "source": "https://thedailyrecord.com/2026/09/10/data-centers-wes-moore-dan-cox-maryland/"},
+   "education": {"score": 85, "evidence": "Tried to cut BOOST private school scholarship funding and opposes charter expansion in favor of public districts.", "source": "https://en.wikipedia.org/wiki/Political_positions_of_Wes_Moore"},
+   "faith": null
+  },
+  "photo": {"file": "File:Wes Moore Official Governor Portrait.jpg", "license": "CC BY-SA 4.0", "author": "Maryland State Government"},
+  "campaign_photo": "",
+  "notes": "Earlier immigration (20) and foreign (40) scores were cleared because no source for the 287(g) ban or foreign-policy statements could be confirmed. Campaign social links on wesmoore.com were redirects and could not be resolved."
+ },
+ {
+  "id": "MD-GOV/dan-cox",
+  "name": "Dan Cox",
+  "party": "Republican",
+  "current_role": "Attorney; former Maryland state delegate",
+  "bio": "Dan Cox is a lawyer who grew up near Taneytown, Maryland. He represented District 4 in the Maryland House of Delegates from 2019 to 2023 and was the Republican nominee for governor in 2022.",
+  "website": "https://dancoxforgovernor.com",
+  "social": {"x": "https://x.com/dancox4maryland", "instagram": "https://www.instagram.com/dancox4maryland", "facebook": "https://www.facebook.com/DanCoxforGovernor", "tiktok": "https://www.tiktok.com/@dancox4maryland", "youtube": "https://www.youtube.com/@dancox4maryland"},
+  "platform": [
+   {"topic": "Taxes", "point": "Repeal recent tax increases and cut the corporate tax rate from 8.25% to 5.5%.", "source": "https://en.wikipedia.org/wiki/Dan_Cox"},
+   {"topic": "Retirees", "point": "Reduce property, estate and income taxes so seniors can afford to retire in Maryland.", "source": "https://dancoxforgovernor.com/"},
+   {"topic": "Housing", "point": "Help first-time buyers with assistance and tax credits and lower building costs.", "source": "https://dancoxforgovernor.com/"},
+   {"topic": "Energy", "point": "Lower power costs through more household competition and reopening power plants.", "source": "https://dancoxforgovernor.com/"},
+   {"topic": "Data centers", "point": "Impose a statewide data center moratorium to protect farmland and waterways.", "source": "https://thedailyrecord.com/2026/09/10/data-centers-wes-moore-dan-cox-maryland/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Proposes repealing tax increases and cutting the corporate tax rate.", "source": "https://en.wikipedia.org/wiki/Dan_Cox"},
+   "welfare": {"score": 30, "evidence": "Calls for lean budgeting and shifting spending to essential services.", "source": "https://dancoxforgovernor.com/"},
+   "liberty": {"score": 60, "evidence": "Opposes abortion with some exceptions and opposes gun restrictions.", "source": "https://en.wikipedia.org/wiki/Dan_Cox"},
+   "security": {"score": 60, "evidence": "Supports strong enforcement of existing laws, including immigration laws.", "source": "https://en.wikipedia.org/wiki/Dan_Cox"},
+   "immigration": {"score": 85, "evidence": "Advocates strong immigration enforcement and cooperation with federal authorities.", "source": "https://en.wikipedia.org/wiki/Dan_Cox"},
+   "foreign": null,
+   "energy": {"score": 25, "evidence": "Opposes offshore wind and supports repealing fracking bans.", "source": "https://en.wikipedia.org/wiki/Dan_Cox"},
+   "tech": {"score": 55, "evidence": "Proposes a statewide data center moratorium, though he voted for 2020 data center tax exemptions.", "source": "https://thedailyrecord.com/2026/09/10/data-centers-wes-moore-dan-cox-maryland/"},
+   "education": {"score": 15, "evidence": "Emphasizes parental involvement and opposes gender identity instruction in early grades.", "source": "https://en.wikipedia.org/wiki/Dan_Cox"},
+   "faith": null
+  },
+  "photo": {"file": "File:Dan Cox Mar2020 (49617550556).jpg", "license": "CC BY 2.0", "author": "Joe Andrucyk / MDGovpics"},
+  "campaign_photo": "",
+  "notes": "An earlier faith score was removed because no supporting statement was found. The campaign site image was a logo composite rather than a headshot, so none was recorded."
+ },
+ {
+  "id": "MA-SEN/ed-markey",
+  "name": "Ed Markey",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from Massachusetts",
+  "bio": "Ed Markey, from Malden, Massachusetts, has served in the U.S. Senate since 2013. He previously represented Massachusetts in the U.S. House for 37 years (1976-2013), where he chaired the Select Committee on Energy Independence and Global Warming, and served in the Army Reserve.",
+  "website": "https://www.edmarkey.com",
+  "social": {"x": "https://twitter.com/EdMarkey", "instagram": "https://www.instagram.com/edmarkey", "facebook": "https://facebook.com/EdMarkeyforMA"},
+  "platform": [
+   {"topic": "Climate", "point": "Advance the Green New Deal with clean energy, infrastructure and transit investment.", "source": "https://www.edmarkey.com/issues-priorities/"},
+   {"topic": "Health care", "point": "Pursue Medicare for All and protect Medicaid.", "source": "https://www.edmarkey.com/"},
+   {"topic": "Workers", "point": "Lower costs, protect workers and support union jobs.", "source": "https://www.edmarkey.com/issues-priorities/"},
+   {"topic": "Civil rights", "point": "Defend immigrants and LGBTQ+ Americans, including through his Transgender Bill of Rights.", "source": "https://www.edmarkey.com/"},
+   {"topic": "Immigration", "point": "Rein in ICE enforcement practices through bills such as the ICE Out of Our Faces Act.", "source": "https://www.edmarkey.com/"},
+   {"topic": "Public safety", "point": "Strengthen gun laws and invest in violence prevention.", "source": "https://www.edmarkey.com/issues-priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Prioritizes lowering costs, union jobs and large public investment under the Green New Deal.", "source": "https://www.edmarkey.com/issues-priorities/"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All.", "source": "https://en.wikipedia.org/wiki/Ed_Markey"},
+   "liberty": {"score": 30, "evidence": "Supports abortion access and transgender rights (abortion, LGBTQ) and universal background checks (guns).", "source": "https://www.edmarkey.com/"},
+   "security": {"score": 15, "evidence": "Takes privacy-focused positions and seeks limits on ICE enforcement practices.", "source": "https://en.wikipedia.org/wiki/Ed_Markey"},
+   "immigration": {"score": 5, "evidence": "Introduced the ICE Out of Our Faces Act and opposes enforcement at sensitive locations.", "source": "https://www.edmarkey.com/"},
+   "foreign": {"score": 55, "evidence": "Voted for the 2024 Ukraine-Israel aid package but has backed resolutions to restrict arms sales to Israel.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 100, "evidence": "Co-authored the Green New Deal calling for 100% clean, zero-emission energy.", "source": "https://en.wikipedia.org/wiki/Ed_Markey"},
+   "tech": {"score": 90, "evidence": "Longtime advocate of net neutrality and children's online privacy legislation.", "source": "https://en.wikipedia.org/wiki/Ed_Markey"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Earlier education score (85) was cleared because no specific education position could be sourced."
+ },
+ {
+  "id": "MA-SEN/john-deaton",
+  "name": "John Deaton",
+  "party": "Republican",
+  "current_role": "Attorney",
+  "bio": "John Deaton is an attorney known for asbestos litigation and cryptocurrency cases; he founded the Deaton Law Firm in Rhode Island in 2006. Born in Highland Park, Michigan, he served in the Marine Corps as a judge advocate and moved to Massachusetts in 2024, when he was the Republican nominee for U.S. Senate.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Cryptocurrency", "point": "Oppose the restrictive cryptocurrency regulation approach associated with Senator Elizabeth Warren.", "source": "https://en.wikipedia.org/wiki/John_Deaton"},
+   {"topic": "Energy", "point": "Pursue a mix of solar, wind, hydroelectric and nuclear power without aggressive net-zero deadlines.", "source": "https://en.wikipedia.org/wiki/John_Deaton"},
+   {"topic": "Abortion", "point": "Support abortion rights and disagree with the Dobbs decision.", "source": "https://en.wikipedia.org/wiki/John_Deaton"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 30, "evidence": "Supports abortion rights, same-sex marriage and Massachusetts's existing gun laws (abortion, LGBTQ, guns).", "source": "https://en.wikipedia.org/wiki/John_Deaton"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 40, "evidence": "Favors renewables and nuclear but opposes a net-zero-by-2050 target.", "source": "https://en.wikipedia.org/wiki/John_Deaton"},
+   "tech": {"score": 20, "evidence": "Opposes Warren-style cryptocurrency regulation.", "source": "https://en.wikipedia.org/wiki/John_Deaton"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions are from his 2024 Senate campaign; no 2026 campaign website could be located."
+ },
+ {
+  "id": "MA-GOV/maura-healey",
+  "name": "Maura Healey",
+  "party": "Democratic",
+  "current_role": "Governor of Massachusetts",
+  "bio": "Maura Healey has been Governor of Massachusetts since 2023, after serving as state Attorney General from 2015 to 2023. Raised in New Hampshire, she played professional basketball in Austria, then worked as a lawyer at WilmerHale and in the Attorney General's office.",
+  "website": "https://maurahealey.com",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Continue lowering costs for families, building on state tax cuts.", "source": "https://maurahealey.com/accomplishments/"},
+   {"topic": "Housing", "point": "Build 100,000 new homes and eliminate renter-paid broker fees.", "source": "https://maurahealey.com/accomplishments/"},
+   {"topic": "Energy", "point": "Pursue an Energy Affordability Agenda to cut utility bills and oppose rate increases.", "source": "https://maurahealey.com/accomplishments/"},
+   {"topic": "Education", "point": "Keep school meals free and community college tuition-free.", "source": "https://maurahealey.com/accomplishments/"},
+   {"topic": "Health care", "point": "Cap health insurance deductibles and copays.", "source": "https://maurahealey.com/accomplishments/"},
+   {"topic": "Federal policy", "point": "Push back on Trump administration actions affecting Massachusetts, including SNAP cuts.", "source": "https://maurahealey.com/accomplishments/"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "Signed the state's first broad tax cut in over 20 years.", "source": "https://maurahealey.com/accomplishments/"},
+   "welfare": {"score": 65, "evidence": "Made community college tuition-free and school meals free, and capped deductibles and copays.", "source": "https://maurahealey.com/accomplishments/"},
+   "liberty": {"score": 40, "evidence": "Signed a 2026 law removing state abortion restrictions (abortion) and a 2024 ghost-gun law (guns).", "source": "https://en.wikipedia.org/wiki/Maura_Healey"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Signed the 2026 PROTECT Act limiting warrantless civil immigration arrests at courthouses, schools and health facilities.", "source": "https://www.wbur.org/news/2026/08/05/massachusetts-governor-protect-act-ice-immigrants-chelsea"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Created a state Climate Chief post and backed offshore wind.", "source": "https://en.wikipedia.org/wiki/Maura_Healey"},
+   "tech": null,
+   "education": {"score": 70, "evidence": "Says she doubled school funding and made community college free.", "source": "https://maurahealey.com/accomplishments/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign social links on maurahealey.com were redirects and could not be resolved. The official portrait on Commons relies on the state public records law rather than a free licence, so it was not used."
+ },
+ {
+  "id": "MA-GOV/mike-minogue",
+  "name": "Mike Minogue",
+  "party": "Republican",
+  "current_role": "Business executive and Army veteran",
+  "bio": "Mike Minogue is a former CEO of heart pump maker Abiomed, which was sold to Johnson & Johnson. Born in Georgia and raised in New Jersey, he graduated from West Point, served in the Army in Iraq, and earned an MBA from the University of Chicago.",
+  "website": "https://minogueforma.com",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Cut taxes and spending through audits and remove state-mandated utility fees on day one.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   {"topic": "Energy", "point": "Repeal the net-zero mandate and expand natural gas pipelines and modular nuclear power.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   {"topic": "Housing", "point": "End enforcement of the MBTA Communities Act and reward towns that permit single-family homes within 45 days.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   {"topic": "Public safety", "point": "End cashless bail, appoint a tougher parole board and address fentanyl trafficking.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   {"topic": "Immigration", "point": "End sanctuary state policies and prioritize removing violent criminals.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   {"topic": "Education", "point": "Join the federal scholarship tax credit and expand charter, technical and vocational schools.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Proposes tax cuts, fee cuts and reduced regulation.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   "welfare": null,
+   "liberty": {"score": 55, "evidence": "Calls himself pro-life (abortion), defends Second Amendment rights (guns) and opposes transgender girls in girls' sports (LGBTQ).", "source": "https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor"},
+   "security": {"score": 60, "evidence": "Proposes ending cashless bail and a tougher parole board.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   "immigration": {"score": 70, "evidence": "Would end sanctuary policies and restrict immigrant access to state services such as shelter.", "source": "https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Would repeal the net-zero mandate and expand natural gas pipelines.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Supports joining the federal scholarship tax credit program and expanding charter schools.", "source": "https://minogueforma.com/blueprint-for-a-better-future/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://minogueforma.com/wp-content/uploads/2025/09/Mike-Minogue-Social-Share-v1.jpg",
+  "notes": "Education score is new, based on the campaign blueprint. The campaign image is a social-share graphic that may not be a plain headshot."
+ },
+ {
+  "id": "MI-SEN/abdul-el-sayed",
+  "name": "Abdul El-Sayed",
+  "party": "Democratic",
+  "current_role": "Physician and epidemiologist; former Wayne County health director",
+  "bio": "Abdul El-Sayed is a physician and epidemiologist from southeast Michigan who was Detroit's health director from 2015 to 2017 and led Wayne County's health, human and veterans services department from 2023 to 2025. He taught at Columbia University, hosts a public health podcast and ran for governor of Michigan in 2018.",
+  "website": "https://abdulforsenate.com",
+  "social": {"x": "https://x.com/AbdulElSayed", "instagram": "https://www.instagram.com/abdulelsayed", "facebook": "https://www.facebook.com/DrAbdulElSayed/", "tiktok": "https://www.tiktok.com/@abdulelsayed", "youtube": "https://www.youtube.com/c/abdulelsayed"},
+  "platform": [
+   {"topic": "Health care", "point": "Pass Medicare for All.", "source": "https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/"},
+   {"topic": "Taxes", "point": "Tax billionaire wealth and tax capital gains above $1 million as ordinary income.", "source": "https://abdulforsenate.com/priority/money-in-your-pocket/"},
+   {"topic": "AI", "point": "Create AI safety testing standards and an independent federal agency to oversee AI.", "source": "https://abdulforsenate.com/priority/money-in-your-pocket/"},
+   {"topic": "Housing", "point": "Ban large corporations from owning homes and pass a federal renter bill of rights.", "source": "https://abdulforsenate.com/priority/money-in-your-pocket/"},
+   {"topic": "Democracy", "point": "Ban corporate money in politics, end gerrymandering and abolish the filibuster.", "source": "https://abdulforsenate.com/priority/money-out-of-politics/"},
+   {"topic": "Energy", "point": "Move to 100% renewable energy and shut down the Line 5 pipeline.", "source": "https://abdulforsenate.com/priority/money-out-of-politics/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Proposes a billionaire wealth tax, higher top rates and targeted tariffs.", "source": "https://abdulforsenate.com/priority/money-in-your-pocket/"},
+   "welfare": {"score": 95, "evidence": "Backs Medicare for All.", "source": "https://abdulforsenate.com/priority/medicare-for-all-the-path-to-a-healthier-america/"},
+   "liberty": {"score": 5, "evidence": "Supports abortion rights, LGBTQ+ rights and protections for speech and protest (abortion, LGBTQ, speech).", "source": "https://abdulforsenate.com/priority/money-out-of-politics/"},
+   "security": {"score": 20, "evidence": "Opposes what he calls state weaponization against speech, assembly and protest.", "source": "https://abdulforsenate.com/priority/money-out-of-politics/"},
+   "immigration": {"score": 15, "evidence": "Supports abolishing ICE and a pathway to citizenship while keeping border security.", "source": "https://abdulforsenate.com/priority/money-out-of-politics/"},
+   "foreign": {"score": 25, "evidence": "Opposes direct military funding to foreign countries and supports an arms embargo on Israel.", "source": "https://abdulforsenate.com/priority/money-out-of-politics/"},
+   "energy": {"score": 90, "evidence": "Calls for 100% renewable energy and codifying EPA greenhouse gas authority.", "source": "https://abdulforsenate.com/priority/money-out-of-politics/"},
+   "tech": {"score": 90, "evidence": "Proposes AI safety testing, liability rules and an FDA-style AI agency, plus stronger antitrust enforcement.", "source": "https://abdulforsenate.com/priority/money-in-your-pocket/"},
+   "education": {"score": 85, "evidence": "Opposes vouchers and privatization, and backs free college and $60,000 minimum teacher pay.", "source": "https://abdulforsenate.com/priority/money-in-your-pocket/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Abdul El-Sayed.jpg", "license": "CC BY-SA 4.0", "author": "Kenneth C. Zirkel"},
+  "campaign_photo": "https://abdulforsenate.com/wp-content/uploads/2025/04/Mask-Group.png",
+  "notes": ""
+ }
+]

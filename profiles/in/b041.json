@@ -1,0 +1,402 @@
+[
+ {
+  "id": "IL-1/jonathan-jackson",
+  "name": "Jonathan Jackson",
+  "party": "Democratic",
+  "race": "IL-1",
+  "race_label": "Illinois · US House IL-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000309",
+   "official_name": "Jonathan L. Jackson",
+   "chamber": "House",
+   "official_site": "https://jonathanjackson.house.gov",
+   "official_social": {
+    "facebook": "repjackson",
+    "instagram": "repjackson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, higher wages and pay equity, eliminating student-debt interest, climate action, and opposing public school closures.",
+   "sources": [
+    "https://www.ontheissues.org/IL/Jonathan_Jackson.htm",
+    "https://en.wikipedia.org/wiki/Jonathan_Jackson_(Illinois_politician)"
+   ],
+   "photo": {
+    "file": "File:Rep. Jonathan Jackson official portrait, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "IL-1/christian-maxwell",
+  "name": "Christian Maxwell",
+  "party": "Republican",
+  "race": "IL-1",
+  "race_label": "Illinois · US House IL-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-2/donna-miller",
+  "name": "Donna Miller",
+  "party": "Democratic",
+  "race": "IL-2",
+  "race_label": "Illinois · US House IL-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+   ],
+   "photo": {
+    "file": "File:Donna Miller in front of Christmas Tree.jpg",
+    "license": "CC0",
+    "author": "MaylenePena"
+   }
+  }
+ },
+ {
+  "id": "IL-2/michael-noack",
+  "name": "Michael Noack",
+  "party": "Republican",
+  "race": "IL-2",
+  "race_label": "Illinois · US House IL-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-3/delia-ramirez",
+  "name": "Delia Ramirez",
+  "party": "Democratic",
+  "race": "IL-3",
+  "race_label": "Illinois · US House IL-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000617",
+   "official_name": "Delia C. Ramirez",
+   "chamber": "House",
+   "official_site": "https://ramirez.house.gov",
+   "official_social": {
+    "twitter": "repdeliaramirez",
+    "facebook": "Repdeliaramirez",
+    "instagram": "repdeliaramirez"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 5,
+    "foreign": 20,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Introduced Melt ICE Act to defund immigrant detention; voted to withdraw troops from Syria and against pro-Israel resolutions.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Delia_Ramirez"
+   ],
+   "photo": {
+    "file": "File:Delia Ramirez, official portrait 2025.jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe, U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "IL-3/angel-oakley",
+  "name": "Angel Oakley",
+  "party": "Republican",
+  "race": "IL-3",
+  "race_label": "Illinois · US House IL-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-4/patty-garcia",
+  "name": "Patty Garcia",
+  "party": "Democratic",
+  "race": "IL-4",
+  "race_label": "Illinois · US House IL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-4/lupe-castillo",
+  "name": "Lupe Castillo",
+  "party": "Republican",
+  "race": "IL-4",
+  "race_label": "Illinois · US House IL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-4/chris-getty",
+  "name": "Chris Getty",
+  "party": "Independent",
+  "race": "IL-4",
+  "race_label": "Illinois · US House IL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign emphasizes cost of living, immigration and public-safety concerns, and independence from parties, without specific proposals; domains unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois",
+    "https://suburbanchicagoland.com/2026/02/27/lyons-mayor-chris-getty-announces-candidacy-for-illinois-4th-congressional-district/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-4/ed-hershey",
+  "name": "Ed Hershey",
+  "party": "Working Class",
+  "race": "IL-4",
+  "race_label": "Illinois · US House IL-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "IL-5/mike-quigley",
+  "name": "Mike Quigley",
+  "party": "Democratic",
+  "race": "IL-5",
+  "race_label": "Illinois · US House IL-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "Q000023",
+   "official_name": "Mike Quigley",
+   "chamber": "House",
+   "official_site": "https://quigley.house.gov",
+   "official_social": {
+    "twitter": "RepMikeQuigley",
+    "facebook": "repmikequigley",
+    "youtube": "RepMikeQuigley",
+    "instagram": "repmikequigley"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 85,
+    "liberty": 30,
+    "security": null,
+    "immigration": null,
+    "foreign": 90,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backed Medicare for All, abortion and LGBTQ rights, gun restrictions (drove liberty), cap-and-trade, and opposed funding bill lacking Ukraine aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Quigley",
+    "https://www.ontheissues.org/IL/Mike_Quigley.htm"
+   ],
+   "photo": {
+    "file": "File:Mike Quigley 2023 Portrait.jpg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "IL-5/tommy-hanson",
+  "name": "Tommy Hanson",
+  "party": "Republican",
+  "race": "IL-5",
+  "race_label": "Illinois · US House IL-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented issue positions found in reviewed sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Illinois"
+   ],
+   "photo": null
+  }
+ }
+]

@@ -1,0 +1,820 @@
+[
+ {
+  "id": "NC-11/jamie-ager",
+  "name": "Jamie Ager",
+  "party": "Democratic",
+  "current_role": "Farmer and co-founder of Hickory Nut Gap Farm",
+  "bio": "Jamie Ager is a western North Carolina farmer and the co-founder and CEO of Hickory Nut Gap Farm near Asheville. He is the Democratic nominee for North Carolina's 11th congressional district in 2026 and has not previously held elected office.",
+  "website": "https://agerforcongress.com",
+  "social": {
+   "x": "https://x.com/jamieagernc",
+   "instagram": "https://www.instagram.com/jamieagernc",
+   "facebook": "https://www.facebook.com/JamieAgerNC/",
+   "tiktok": "https://www.tiktok.com/@jamieagernc",
+   "youtube": "https://www.youtube.com/@AgerForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Disaster recovery",
+    "point": "Make federal funding for Hurricane Helene rebuilding in western North Carolina a top priority.",
+    "source": "https://agerforcongress.com/platform"
+   },
+   {
+    "topic": "Health care",
+    "point": "Add a public option, expand Medicare and Medicaid coverage, and support drug price negotiation and insulin caps.",
+    "source": "https://agerforcongress.com/platform"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Ban stock trading by members of Congress and reduce dark money in politics.",
+    "source": "https://agerforcongress.com/platform"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Expand housing help for first-time buyers and add childcare tax credits and grants.",
+    "source": "https://agerforcongress.com/platform"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Back small and young farmers, strengthen SNAP and WIC, and pass right-to-repair rules.",
+    "source": "https://agerforcongress.com/platform"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pursue comprehensive immigration reform that meets workforce needs while keeping communities safe.",
+    "source": "https://agerforcongress.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Calls for a fairer tax code with the wealthy paying more and action against monopolies in food and utilities.",
+    "source": "https://agerforcongress.com/platform"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Supports a public option and expanding Medicare and Medicaid, including dental and vision.",
+    "source": "https://agerforcongress.com/platform"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 40,
+    "evidence": "Backs comprehensive reform balancing dignity for immigrants with workforce needs and community safety.",
+    "source": "https://agerforcongress.com/platform"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign platform does not address abortion, guns, energy or education."
+ },
+ {
+  "id": "NC-11/travis-groo",
+  "name": "Travis Groo",
+  "party": "Libertarian",
+  "current_role": "Safety specialist",
+  "bio": "Travis Groo is a safety specialist and a former executive committee member of the Wake County Libertarian Party. He has run for office several times before and is the Libertarian nominee for North Carolina's 11th congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue statements were found; biography is from the Wikipedia article on the 2026 North Carolina House elections."
+ },
+ {
+  "id": "NC-12/alma-adams",
+  "name": "Alma Adams",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NC-12",
+  "bio": "Alma Adams has represented North Carolina's 12th congressional district since winning a 2014 special election. She previously served in the North Carolina House of Representatives from 1994 to 2014. A retired art professor and college administrator from Greensboro, she was born in High Point.",
+  "website": "https://almaadamsforcongress.com",
+  "social": {
+   "x": "https://x.com/RepAdams",
+   "instagram": "https://www.instagram.com/repadams",
+   "facebook": "https://www.facebook.com/CongresswomanAdams"
+  },
+  "platform": [
+   {
+    "topic": "Education",
+    "point": "Fund public schools and HBCUs, raise Pell Grants and oppose private school vouchers.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Protect the Affordable Care Act, expand Medicaid and keep insulin capped at $35 a month.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   },
+   {
+    "topic": "Workers",
+    "point": "Raise the minimum wage with inflation indexing and expand paid family leave and childcare.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   },
+   {
+    "topic": "Hunger",
+    "point": "Expand SNAP benefits through bills such as the Closing the Meal Gap Act.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   },
+   {
+    "topic": "Gun violence",
+    "point": "Ban assault weapons, require universal background checks and fund community violence prevention.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Increase affordable housing development and address corporate ownership of single-family homes.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Supports an inflation-indexed minimum wage increase and middle-class tax cuts.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Backs universal access to health care, Medicaid expansion and larger SNAP benefits.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports abortion rights and same-sex marriage (individual choice) while backing an assault weapons ban and background checks (restrictions on guns).",
+    "source": "https://www.ontheissues.org/NC/Alma_Adams.htm"
+   },
+   "security": null,
+   "immigration": {
+    "score": 15,
+    "evidence": "Opposes deporting undocumented immigrants and supports legal status for Dreamers and higher visa caps.",
+    "source": "https://www.ontheissues.org/NC/Alma_Adams.htm"
+   },
+   "foreign": {
+    "score": 45,
+    "evidence": "Voted to support Israel after the October 7 attacks and opposes military force against Iran without congressional approval.",
+    "source": "https://en.wikipedia.org/wiki/Alma_Adams"
+   },
+   "energy": {
+    "score": 95,
+    "evidence": "Supports the Green New Deal and carbon regulation, opposed Keystone XL and offshore drilling, and has a 100 LCV score.",
+    "source": "https://www.ontheissues.org/NC/Alma_Adams.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 95,
+    "evidence": "A retired educator who opposes vouchers and supports more public school funding and free community college.",
+    "source": "https://almaadamsforcongress.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-12/jack-codiga",
+  "name": "Jack Codiga",
+  "party": "Republican",
+  "current_role": "Financial executive",
+  "bio": "Jack Codiga is a financial executive and the Republican nominee for North Carolina's 12th congressional district. He has not previously held elected office.",
+  "website": "https://ihatepolitics.com",
+  "social": {
+   "x": "https://x.com/codiga",
+   "instagram": "https://www.instagram.com/jackcodiga/",
+   "tiktok": "https://www.tiktok.com/@jackcodiga",
+   "youtube": "https://www.youtube.com/@jackcodiga"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Abolish the income and property taxes, repeal the 16th Amendment, and rely on consumption taxes and tariffs.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   {
+    "topic": "Welfare",
+    "point": "Phase out federal welfare programs, including Social Security, in favor of private charity.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   {
+    "topic": "Privacy",
+    "point": "Oppose digital surveillance, let users opt out of data sharing, and require algorithm transparency.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Limit work visas and remove violent offenders, while expecting immigrants to assimilate.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Require congressional authorization for military action and register groups like AIPAC as foreign agents.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   {
+    "topic": "Life",
+    "point": "Protect life from conception and bar gender transition procedures for minors.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 5,
+    "evidence": "Wants to abolish income and property taxes and promote free-market capitalism.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   "welfare": {
+    "score": 5,
+    "evidence": "Calls for phasing out welfare programs, including Social Security and government health care.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   "liberty": {
+    "score": 60,
+    "evidence": "Opposes abortion and gender transition care for minors (community norms) but backs broad gun rights (individual choice).",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   "security": {
+    "score": 10,
+    "evidence": "Opposes digital surveillance and wants to criminalize government collusion with companies over user data.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Wants fewer work visas, removal of violent offenders and people exploiting public programs, and clear assimilation expectations.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Puts U.S. interests first, requires congressional approval for military action, and wants AIPAC registered as a foreign agent.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Supports mandatory algorithm transparency, chronological feed options and data privacy protections.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   },
+   "education": null,
+   "faith": {
+    "score": 80,
+    "evidence": "Says rights come from God and stresses protecting religious liberty.",
+    "source": "https://ihatepolitics.com/pages/platform"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-13/brad-knott",
+  "name": "Brad Knott",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-13",
+  "bio": "Brad Knott has represented North Carolina's 13th congressional district since January 2025. Before that, he was a federal prosecutor in the U.S. Attorney's Office for the Eastern District of North Carolina. A Raleigh native, he is a graduate of Baylor University and Wake Forest University School of Law.",
+  "website": "https://www.bradknott.com",
+  "social": {
+   "x": "https://x.com/RepKnott",
+   "instagram": "https://www.instagram.com/repknott",
+   "facebook": "https://www.facebook.com/61571474013264"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Finish the border wall, enforce immigration law and require felony sentences before deporting some offenders.",
+    "source": "https://www.bradknott.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Cut wasteful federal spending and pass a balanced budget amendment.",
+    "source": "https://www.bradknott.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand school choice and give parents more say over curriculum.",
+    "source": "https://www.bradknott.com/"
+   },
+   {
+    "topic": "Law enforcement",
+    "point": "Cross-deputize more local police to help with deportations of immigrants who commit crimes.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Knott"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Wants to cut federal spending and the federal workforce and supports a balanced budget amendment.",
+    "source": "https://www.bradknott.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "Opposes legal abortion and transgender women in women's sports (community norms) while backing gun rights (individual choice).",
+    "source": "https://en.wikipedia.org/wiki/Brad_Knott"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Wants more local police cross-deputized with federal credentials for immigration enforcement.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Knott"
+   },
+   "immigration": {
+    "score": 85,
+    "evidence": "Supports completing the border wall, opposes sanctuary policies and calls for more deportations.",
+    "source": "https://www.bradknott.com/"
+   },
+   "foreign": {
+    "score": 45,
+    "evidence": "Supports Israel in the Gaza war but opposes aid to Ukraine.",
+    "source": "https://en.wikipedia.org/wiki/Brad_Knott"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 25,
+    "evidence": "Campaign site promotes school choice so children can leave underperforming public schools.",
+    "source": "https://www.bradknott.com/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68dd832801aee3151f380b8c/0279ffc2-c880-417e-bcda-5f0c713ce775/54524385578_3dbd57eb16_o.jpg",
+  "notes": "Added an education score from the campaign's school choice page."
+ },
+ {
+  "id": "NC-13/paul-barringer",
+  "name": "Paul Barringer",
+  "party": "Democratic",
+  "current_role": "Attorney and health care consultant",
+  "bio": "Paul Barringer is an attorney and health care consultant who grew up on a farm in North Carolina. He has taught literacy and led job training programs in the prison system. He is the Democratic nominee for North Carolina's 13th congressional district.",
+  "website": "https://paulbarringer.com",
+  "social": {
+   "x": "https://x.com/PaulBarringerNC",
+   "instagram": "https://www.instagram.com/paulbarringernc/",
+   "facebook": "https://www.facebook.com/paulbarringernc/",
+   "tiktok": "https://www.tiktok.com/@paulbarringernc",
+   "youtube": "https://www.youtube.com/@PaulBarringerforCongress"
+  },
+  "platform": [
+   {
+    "topic": "Budget",
+    "point": "Restrain federal spending and work toward balanced budgets.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   {
+    "topic": "Health care",
+    "point": "Lower costs through market solutions and smart regulation while keeping Medicare and Medicaid.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   {
+    "topic": "Trade",
+    "point": "Oppose broad tariffs and support fair trade that helps farmers.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border and modernize legal immigration to meet workforce needs in farming, health care and tech.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Strengthen alliances with democracies and refuse compromises with authoritarian governments.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Fully fund VA services and protect PACT Act benefits.",
+    "source": "https://paulbarringer.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Prioritizes spending restraint and balanced budgets and prefers market-driven solutions.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   "welfare": {
+    "score": 45,
+    "evidence": "Favors market-driven health care while preserving Medicare and Medicaid for those who rely on them.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   "liberty": {
+    "score": 35,
+    "evidence": "Supports protecting women's health care decisions and contraception access and backs responsible gun ownership.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   "security": {
+    "score": 50,
+    "evidence": "Supports resources for law enforcement alongside rehabilitation and second chances.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   "immigration": {
+    "score": 50,
+    "evidence": "Pairs secure borders with a modernized legal immigration system.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Wants stronger alliances with fellow democracies and no compromise with authoritarian regimes.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "Supports public schools and teachers with parental involvement in curriculum.",
+    "source": "https://paulbarringer.com/priorities"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-13/steven-swinton",
+  "name": "Steven Swinton",
+  "party": "Libertarian",
+  "current_role": "Businessman",
+  "bio": "Steven Swinton is a businessman and the Libertarian nominee for North Carolina's 13th congressional district. He was the Libertarian nominee for North Carolina's 19th Senate district in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue statements were found; biography is from the Wikipedia article on the 2026 North Carolina House elections."
+ },
+ {
+  "id": "NC-14/tim-moore",
+  "name": "Tim Moore",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-14",
+  "bio": "Tim Moore has represented North Carolina's 14th congressional district since 2025. He served in the North Carolina House of Representatives from 2003 to 2025 and was its speaker from 2015 to 2025. An attorney from Kings Mountain, he studied at UNC-Chapel Hill and Oklahoma City University School of Law.",
+  "website": "https://www.timmoore.com",
+  "social": {
+   "x": "https://x.com/RepTimMooreNC",
+   "instagram": "https://www.instagram.com/reptimmoore",
+   "facebook": "https://www.facebook.com/CongressmanTimMoore",
+   "youtube": "https://www.youtube.com/channel/UC8BAImTFHINcN7qSu0qvO1w"
+  },
+  "platform": [
+   {
+    "topic": "Budget",
+    "point": "Bring the balanced-budget approach he says he used as state House speaker to the House Budget Committee.",
+    "source": "https://www.timmoore.com/"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Pursue smarter regulation to help local economies in western North Carolina.",
+    "source": "https://www.timmoore.com/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Make government accountable again to working families.",
+    "source": "https://www.timmoore.com/"
+   },
+   {
+    "topic": "Law enforcement",
+    "point": "Support sheriffs and prosecutors, several of whom have endorsed his campaign.",
+    "source": "https://www.timmoore.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "As state House speaker he helped pass business tax cuts, and his campaign stresses balanced budgets and lighter regulation.",
+    "source": "https://en.wikipedia.org/wiki/Tim_Moore_(North_Carolina_politician)"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Opposed Medicaid expansion under the ACA in 2013 and voted for the 2025 budget law that reduced Medicaid spending.",
+    "source": "https://en.wikipedia.org/wiki/Tim_Moore_(North_Carolina_politician)"
+   },
+   "liberty": {
+    "score": 60,
+    "evidence": "Backed a 24-hour abortion waiting period and a same-sex marriage ban (community norms) and expanded concealed carry (individual choice).",
+    "source": "https://www.ontheissues.org/NC/Tim_Moore.htm"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Voted to require sheriffs to cooperate with ICE and to shield police death investigation records.",
+    "source": "https://www.ontheissues.org/NC/Tim_Moore.htm"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Voted to require sheriffs to cooperate with ICE and opposes a pathway to citizenship.",
+    "source": "https://www.ontheissues.org/NC/Tim_Moore.htm"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Supports hydraulic fracturing for oil and gas.",
+    "source": "https://www.ontheissues.org/NC/Tim_Moore.htm"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://www.timmoore.com/wp-content/uploads/2026/07/Tim-Moore-Portrait.png",
+  "notes": "The 2013 Medicaid stance predates North Carolina's 2023 Medicaid expansion, which passed while he was speaker."
+ },
+ {
+  "id": "NC-14/lakesha-womack",
+  "name": "LaKesha Womack",
+  "party": "Democratic",
+  "current_role": "Business consultant",
+  "bio": "LaKesha Womack is a business consultant and the Democratic nominee for North Carolina's 14th congressional district. She has not previously held federal office.",
+  "website": "https://www.womack4nc14.com",
+  "social": {
+   "x": "https://x.com/lakeshawomack",
+   "instagram": "https://www.instagram.com/lakeshawomack",
+   "facebook": "https://www.facebook.com/lakeshawomack",
+   "tiktok": "https://www.tiktok.com/@lakeshaswomack",
+   "youtube": "https://www.youtube.com/@LaKeshaWomack"
+  },
+  "platform": [
+   {
+    "topic": "Wages",
+    "point": "Raise the federal minimum wage and favor tax policy that helps working and middle-class households.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Protect the ACA, cap drug and out-of-pocket costs, and fund rural hospitals.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   {
+    "topic": "Housing",
+    "point": "Expand affordable housing, protect renters and first-time buyers, and fight predatory lending.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Increase federal investment in public schools and expand apprenticeships and career training.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   {
+    "topic": "Rural areas",
+    "point": "Expand broadband and make sure disaster relief reaches communities quickly.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   {
+    "topic": "Foreign aid",
+    "point": "Support international diplomacy and USAID.",
+    "source": "https://www.womack4nc14.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Supports a higher minimum wage and opposes regressive tax structures.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Wants to strengthen the ACA, cap prescription costs and fund community health centers.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 80,
+    "evidence": "Supports international diplomacy and restoring USAID.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Calls for more federal investment in public schools and student debt relief.",
+    "source": "https://www.womack4nc14.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "ND-AL/julie-fedorchak",
+  "name": "Julie Fedorchak",
+  "party": "Republican",
+  "current_role": "U.S. Representative for North Dakota's at-large district",
+  "bio": "Julie Fedorchak has represented North Dakota's at-large congressional district since 2025 and sits on the Energy and Commerce Committee. She served on the North Dakota Public Service Commission from 2012 to 2025 and earlier was communications director for Governor Ed Schafer. Born in Williston, she is a University of North Dakota graduate.",
+  "website": "https://fedorchaknd.com",
+  "social": {
+   "x": "https://x.com/RepFedorchak",
+   "instagram": "https://www.instagram.com/RepJulieFedorchak",
+   "facebook": "https://www.facebook.com/RepJulieFedorchak",
+   "youtube": "https://www.youtube.com/@JulieFedorchakforUSCongress"
+  },
+  "platform": [
+   {
+    "topic": "Border",
+    "point": "Secure the southern border.",
+    "source": "https://fedorchaknd.com/"
+   },
+   {
+    "topic": "Energy and agriculture",
+    "point": "Expand American energy and agriculture production.",
+    "source": "https://fedorchaknd.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Curb inflation, cut spending and balance the federal budget.",
+    "source": "https://fedorchaknd.com/"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Rein in federal agencies she views as overreaching.",
+    "source": "https://fedorchaknd.com/"
+   },
+   {
+    "topic": "Energy credits",
+    "point": "Repeal Inflation Reduction Act tax credits for new solar and wind projects.",
+    "source": "https://en.wikipedia.org/wiki/Julie_Fedorchak"
+   },
+   {
+    "topic": "Life and guns",
+    "point": "Protect unborn life and defend Second Amendment rights.",
+    "source": "https://fedorchaknd.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Backs a balanced budget, spending cuts and less federal regulation, and supported the 2025 budget law.",
+    "source": "https://fedorchaknd.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 50,
+    "evidence": "Opposes abortion (community norms) while defending gun rights (individual choice).",
+    "source": "https://fedorchaknd.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Lists securing the border as a top campaign priority.",
+    "source": "https://fedorchaknd.com/"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Supported the 2025 U.S. strikes on Iranian nuclear sites and visited Israel with other freshmen.",
+    "source": "https://en.wikipedia.org/wiki/Julie_Fedorchak"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Introduced a bill to end IRA tax credits for solar and wind and wants to expand energy production.",
+    "source": "https://en.wikipedia.org/wiki/Julie_Fedorchak"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "ND-AL/trygve-hammer",
+  "name": "Trygve Hammer",
+  "party": "Democratic-NPL",
+  "current_role": "Teacher and Marine veteran",
+  "bio": "Trygve Hammer is a teacher and Marine Corps veteran based in Minot. He was the Democratic-NPL nominee for North Dakota's at-large House seat in 2024 and is running again in 2026.",
+  "website": "https://www.hammerfornd.com",
+  "social": {
+   "x": "https://x.com/TrygveHammer",
+   "instagram": "https://www.instagram.com/hammer4nd/",
+   "facebook": "https://www.facebook.com/HammerForND/",
+   "tiktok": "https://www.tiktok.com/@hammer.for.nd",
+   "youtube": "https://www.youtube.com/@TrygveHammer"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Lower health care costs so families do not choose between care and basic needs.",
+    "source": "https://www.hammerfornd.com/priorities"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Have corporations and the very wealthy pay their fair share instead of working North Dakotans.",
+    "source": "https://www.hammerfornd.com/priorities"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Oppose raising the retirement age and protect seniors' benefits.",
+    "source": "https://www.hammerfornd.com/priorities"
+   },
+   {
+    "topic": "Rural communities",
+    "point": "Support rural public schools and restore congressional authority over tariffs.",
+    "source": "https://www.hammerfornd.com/priorities"
+   },
+   {
+    "topic": "Democracy",
+    "point": "Strengthen congressional oversight and the separation of powers.",
+    "source": "https://www.hammerfornd.com/priorities"
+   },
+   {
+    "topic": "Tribal sovereignty",
+    "point": "Respect tribal sovereignty and Native communities in North Dakota.",
+    "source": "https://www.hammerfornd.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Wants corporations and the ultra-wealthy to pay a larger share of taxes.",
+    "source": "https://www.hammerfornd.com/priorities"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Opposes raising the retirement age and calls for affordable health care for all families.",
+    "source": "https://www.hammerfornd.com/priorities"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "Describes public schools as anchors of rural communities that deserve support.",
+    "source": "https://www.hammerfornd.com/priorities"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6558f6fd6c5689087a0df141/2ff1d4dc-97a1-4f74-a1a4-c5f59d65bcfd/9.jpg?format=1500w",
+  "notes": "Campaign image URL was identified by page summary and may not be a close-up headshot."
+ },
+ {
+  "id": "ND-AL/helene-neville",
+  "name": "Helene Neville",
+  "party": "Independent",
+  "current_role": "Nurse",
+  "bio": "Helene Neville is a nurse running as an independent for North Dakota's at-large House seat. She has not previously held elected office.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or issue statements were found; heleneneville.com is a speaker and author site that does not mention the campaign, so it was not linked."
+ }
+]

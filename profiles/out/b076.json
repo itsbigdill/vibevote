@@ -1,0 +1,815 @@
+[
+ {
+  "id": "ND-AL/charles-tuttle",
+  "name": "Charles Tuttle",
+  "party": "Independent",
+  "current_role": "Republican activist",
+  "bio": "Charles Tuttle is a North Dakota Republican activist who has run for office several times. He is running as an independent against Rep. Julie Fedorchak for North Dakota's at-large U.S. House seat, a bid he announced in June 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Only brief news mention found (KX News, June 2026, via Wikipedia's 2026 North Dakota House election article); no campaign site or issue statements located."
+ },
+ {
+  "id": "OH-1/greg-landsman",
+  "name": "Greg Landsman",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for OH-1",
+  "bio": "Greg Landsman has represented Ohio's 1st District in the U.S. House since 2023 and sits on the Energy and Commerce Committee. He previously served on Cincinnati City Council from 2018 to 2022, led the StrivePartnership and the Cincinnati Preschool Promise effort, and directed faith-based initiatives for Ohio Governor Ted Strickland. He was born and raised in Cincinnati.",
+  "website": "https://www.landsmanforcongress.com/",
+  "social": {
+   "x": "https://x.com/repgreglandsman",
+   "facebook": "https://www.facebook.com/RepGregLandsman",
+   "instagram": "https://www.instagram.com/repgreglandsman"
+  },
+  "platform": [
+   {
+    "topic": "Energy costs",
+    "point": "Wants tech companies to pay for AI data center infrastructure so household electricity bills do not rise.",
+    "source": "https://landsman.house.gov/issues/energy"
+   },
+   {
+    "topic": "Health care",
+    "point": "Has introduced bills to cap insulin costs for young people and require pharmacy benefit managers to disclose profits.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Landsman"
+   },
+   {
+    "topic": "Education",
+    "point": "Prioritizes expanding preschool access and supporting public education for children and families.",
+    "source": "https://www.landsmanforcongress.com/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Backs federal COPS grants that local police departments can use for recruitment bonuses.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Landsman"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Seeks to improve transit and rebuild roads and bridges in southwest Ohio.",
+    "source": "https://www.landsmanforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Lists jobs and the economy with a focus on relief for working families funded by higher contributions from the wealthiest.",
+    "source": "https://landsman.house.gov/issues"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Introduced bills to cap insulin costs and rein in pharmacy benefit managers, and prioritizes Social Security and Medicare.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Landsman"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports abortion rights as a Pro-Choice Caucus member and lists reproductive rights as an issue area (abortion).",
+    "source": "https://landsman.house.gov/issues"
+   },
+   "security": {
+    "score": 55,
+    "evidence": "Co-introduced a bipartisan bill expanding COPS hiring grants for local police.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Landsman"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Opposed ending Temporary Protected Status for Haitian immigrants.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Landsman"
+   },
+   "foreign": {
+    "score": 80,
+    "evidence": "Lists Israel and foreign affairs as priorities and was one of few Democrats initially backing the 2026 U.S. strikes on Iran.",
+    "source": "https://en.wikipedia.org/wiki/Greg_Landsman"
+   },
+   "energy": {
+    "score": 65,
+    "evidence": "Focuses on energy affordability and has introduced legislation addressing environmental impacts of AI data centers.",
+    "source": "https://landsman.house.gov/issues/energy"
+   },
+   "tech": {
+    "score": 80,
+    "evidence": "Has introduced multiple bills requiring federal oversight of AI data centers and opposing data center non-disclosure agreements.",
+    "source": "https://landsman.house.gov/issues/energy"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Former teacher who led Cincinnati's Preschool Promise and prioritizes expanded public preschool access.",
+    "source": "https://www.landsmanforcongress.com/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6239de64d780c47baed9c689/cc793352-156b-442d-8ad4-fc7f8e62c886/GH24_61262.jpeg",
+  "notes": ""
+ },
+ {
+  "id": "OH-1/eric-conroy",
+  "name": "Eric Conroy",
+  "party": "Republican",
+  "current_role": "Air Force veteran and former CIA officer",
+  "bio": "Eric Conroy is a Republican nominee from Cincinnati's West Side who won the May 2026 primary for Ohio's 1st District. He is a U.S. Air Force Academy graduate who served as a captain in special operations units and later worked as a CIA case officer. He has not previously held elected office.",
+  "website": "https://ericconroy.com/",
+  "social": {
+   "x": "https://x.com/EricConroyOH",
+   "facebook": "https://www.facebook.com/EricConroyforCongress",
+   "instagram": "https://www.instagram.com/ericconroyoh/",
+   "youtube": "https://www.youtube.com/channel/UCvz-apSIJj9rTD_AeyiJJJA"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Aims to lower inflation, reduce regulation and support Ohio workers and small businesses with pro-growth policies.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   {
+    "topic": "Border security",
+    "point": "Wants stronger enforcement and new technology at the southern border to stop illegal immigration.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Supports law enforcement and opposes efforts to defund police.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   {
+    "topic": "Social Security and Medicare",
+    "point": "Pledges to protect Social Security and Medicare and oppose benefit cuts.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   {
+    "topic": "National defense",
+    "point": "Supports investing in next-generation defense and a close alliance with Israel.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   {
+    "topic": "Cryptocurrency",
+    "point": "Favors clear, pro-growth rules for cryptocurrency and blockchain innovation.",
+    "source": "https://ericconroy.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Campaigns on cutting red tape and lowering costs with pro-growth policies.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   "welfare": {
+    "score": 55,
+    "evidence": "Pledges to protect Social Security and Medicare and oppose benefit cuts.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Supports legislation limiting women's sports to biological females (LGBTQ rights); no stated positions on abortion, guns or drugs found.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Pledges to stand with law enforcement and keep violent criminals off the streets.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Calls for stronger border enforcement and technology to stop illegal immigration.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Supports a stronger military, next-generation defense and steadfast support for Israel.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 25,
+    "evidence": "Backs clear, pro-growth policies for cryptocurrency and blockchain.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   "education": {
+    "score": 30,
+    "evidence": "Wants to empower parents and local control and expand career-focused education.",
+    "source": "https://ericconroy.com/issues/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Earlier energy score (30) removed because no energy statement was found on the campaign issues page. The campaign site image found was a logo, not a headshot."
+ },
+ {
+  "id": "OH-1/nathan-weise",
+  "name": "Nathan Weise",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Nathan Weise is the Libertarian Party of Ohio's listed candidate for Ohio's 1st Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Listed by the Libertarian Party of Ohio (https://lpo.org/candidates/); he appears to have replaced withdrawn Libertarian John Hancock, which is unconfirmed."
+ },
+ {
+  "id": "OH-2/david-taylor",
+  "name": "David Taylor",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-2",
+  "bio": "David Taylor has represented Ohio's 2nd District in the U.S. House since January 2025, serving on the Agriculture and Transportation and Infrastructure committees. He previously owned his family's concrete business, Sardinia Ready Mix, and worked as a part-time assistant prosecutor in Clermont County. He holds degrees from Miami University and the University of Dayton School of Law.",
+  "website": "https://davetaylorforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepDaveTaylor",
+   "facebook": "https://www.facebook.com/profile.php?id=61571224837800",
+   "instagram": "https://www.instagram.com/repdavetaylor"
+  },
+  "platform": [
+   {
+    "topic": "Spending",
+    "point": "Wants to rein in wasteful federal spending and use taxpayer dollars responsibly.",
+    "source": "https://taylor.house.gov/issues"
+   },
+   {
+    "topic": "Border security",
+    "point": "Supports giving border officials and law enforcement more tools, technology and support.",
+    "source": "https://taylor.house.gov/issues"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Prioritizes support for farmers and ranchers to secure the food supply chain.",
+    "source": "https://taylor.house.gov/issues"
+   },
+   {
+    "topic": "Broadband",
+    "point": "Calls expanding rural broadband in southern Ohio one of his top priorities.",
+    "source": "https://taylor.house.gov/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants education guided by parents and local communities rather than federal mandates.",
+    "source": "https://taylor.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation tax-cut law and calls for reining in federal spending.",
+    "source": "https://taylor.house.gov/issues"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 reconciliation law that added Medicaid work requirements and spending reductions.",
+    "source": "https://en.wikipedia.org/wiki/One_Big_Beautiful_Bill_Act"
+   },
+   "liberty": {
+    "score": 60,
+    "evidence": "Supports pro-life laws (abortion, community norms) and defends Second Amendment gun rights (guns, individual choice).",
+    "source": "https://taylor.house.gov/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Supports expanded border enforcement tools and technology alongside President Trump.",
+    "source": "https://taylor.house.gov/issues"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Says education should be guided by parents and local communities, not federal curriculum mandates.",
+    "source": "https://taylor.house.gov/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://davetaylorforcongress.com/wp-content/uploads/2023/12/12_11_Cinncinati_OH_BROLL.00_19_41_08.Still039.png",
+  "notes": "The campaign photo is a still frame from a campaign video rather than a posed headshot."
+ },
+ {
+  "id": "OH-2/jen-mazzuckelli",
+  "name": "Jen Mazzuckelli",
+  "party": "Democratic",
+  "current_role": "Former high school English teacher",
+  "bio": "Jen Mazzuckelli is the Democratic nominee for Ohio's 2nd District and ran for Clermont County commissioner in 2024. She grew up partly in Jacksonville, Illinois, and in Clermont County, graduating from Glen Este High School and Illinois College. She holds a master's degree in teaching and worked as a high school English teacher.",
+  "website": "https://www.jen4oh2.com/",
+  "social": {
+   "tiktok": "https://www.tiktok.com/@jen4oh2"
+  },
+  "platform": [
+   {
+    "topic": "Working families",
+    "point": "Says she will represent working people over campaign donors and address families' economic hardship.",
+    "source": "https://www.jen4oh2.com/about"
+   },
+   {
+    "topic": "Domestic violence",
+    "point": "Points to gaps in how the justice system protects domestic violence victims.",
+    "source": "https://www.jen4oh2.com/about"
+   },
+   {
+    "topic": "Political division",
+    "point": "Aims to reduce political division among residents of the district.",
+    "source": "https://www.jen4oh2.com/about"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her campaign site gives no specific policy positions; Ballotpedia could not be reached to confirm her survey answers, so no scores are set."
+ },
+ {
+  "id": "OH-3/joyce-beatty",
+  "name": "Joyce Beatty",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for OH-3",
+  "bio": "Joyce Beatty has represented Columbus-based Ohio's 3rd District since 2013 and chaired the Congressional Black Caucus from 2021 to 2023. She served in the Ohio House from 1999 to 2008, including as minority leader, and was a senior vice president at Ohio State University. Born in Dayton, she earlier directed Montgomery County health and human services.",
+  "website": "https://beattyforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepBeatty",
+   "facebook": "https://www.facebook.com/RepJoyceBeatty",
+   "instagram": "https://www.instagram.com/repbeatty"
+  },
+  "platform": [
+   {
+    "topic": "Voting rights",
+    "point": "Promotes voting access protections, including her Save Voters Act.",
+    "source": "https://beattyforcongress.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Supports the Affordable Care Act and coverage for people with pre-existing conditions.",
+    "source": "https://beatty.house.gov/issues"
+   },
+   {
+    "topic": "Housing",
+    "point": "Treats expanding homeownership and affordable housing as a priority.",
+    "source": "https://beatty.house.gov/issues"
+   },
+   {
+    "topic": "Seniors",
+    "point": "Pledges to protect Social Security, Medicare and Medicaid.",
+    "source": "https://beatty.house.gov/issues"
+   },
+   {
+    "topic": "Civil rights",
+    "point": "Focuses on securing equal rights for all Americans.",
+    "source": "https://beatty.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Opposes cutting corporate taxes.",
+    "source": "https://en.wikipedia.org/wiki/Joyce_Beatty"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Defends the ACA and is a member of the Medicare for All Caucus.",
+    "source": "https://en.wikipedia.org/wiki/Joyce_Beatty"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports abortion rights, voted for the MORE Act to decriminalize cannabis, and is in the Equality Caucus (abortion, drugs, LGBTQ rights).",
+    "source": "https://en.wikipedia.org/wiki/Joyce_Beatty"
+   },
+   "security": null,
+   "immigration": {
+    "score": 40,
+    "evidence": "Voted for a defense bill that included $1.3 billion for border fencing.",
+    "source": "https://en.wikipedia.org/wiki/Joyce_Beatty"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Voted to support Israel after the October 7 attacks and lists defense and national security as priorities.",
+    "source": "https://en.wikipedia.org/wiki/Joyce_Beatty"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Supports parts of the Green New Deal and cites the scientific consensus on climate change.",
+    "source": "https://beatty.house.gov/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://beattyforcongress.com/wp-content/uploads/2020/01/DSC_4049-scaled.jpg",
+  "notes": ""
+ },
+ {
+  "id": "OH-3/cleophus-dulaney",
+  "name": "Cleophus Dulaney",
+  "party": "Republican",
+  "current_role": "Community advocate",
+  "bio": "Cleophus Dulaney is the Republican nominee for Ohio's 3rd District, which he also sought in 2020. His campaign describes long-running community work in the district, including outreach to homeless residents and support for young people.",
+  "website": "https://votedulaney.org/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Wants solutions to the affordable housing crisis and gentrification pressures in the district.",
+    "source": "https://votedulaney.org/issues"
+   },
+   {
+    "topic": "Policing",
+    "point": "Seeks better relationships between the community and law enforcement.",
+    "source": "https://votedulaney.org/issues"
+   },
+   {
+    "topic": "Homelessness and addiction",
+    "point": "Supports rehabilitation services addressing homelessness and opioid addiction.",
+    "source": "https://votedulaney.org/issues"
+   },
+   {
+    "topic": "Property taxes",
+    "point": "Supports property tax relief and expanded home improvement grants for residents.",
+    "source": "https://votedulaney.org/issues"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Backs Medicare drug price negotiation and targeted tax relief for working families.",
+    "source": "https://votedulaney.org/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://content.campaignpartner.net/images/150750/2_20260306_164034_00012.png",
+  "notes": "Ballotpedia could not be reached to confirm his survey answers on abortion and guns, so no liberty score is set."
+ },
+ {
+  "id": "OH-4/jim-jordan",
+  "name": "Jim Jordan",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-4",
+  "bio": "Jim Jordan has represented Ohio's 4th District since 2007 and has chaired the House Judiciary Committee since 2023; he was the first chair of the House Freedom Caucus. He previously served in the Ohio House and Ohio Senate and was an assistant wrestling coach at Ohio State University. A native of Troy, Ohio, he won two NCAA wrestling titles at Wisconsin.",
+  "website": "https://www.jimjordanforcongress.com/",
+  "social": {
+   "x": "https://x.com/Jim_Jordan",
+   "facebook": "https://www.facebook.com/repjimjordan",
+   "youtube": "https://www.youtube.com/user/RepJimJordan"
+  },
+  "platform": [
+   {
+    "topic": "Government accountability",
+    "point": "Campaigns on holding Washington accountable and shrinking the federal government.",
+    "source": "https://www.jimjordanforcongress.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Says federal spending is out of control and Congress must rein it in.",
+    "source": "https://jordan.house.gov/issues"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Wants families to keep more of their earnings through low taxes.",
+    "source": "https://jordan.house.gov/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Opposes amnesty and illegal immigration while supporting border security.",
+    "source": "https://jordan.house.gov/issues"
+   },
+   {
+    "topic": "Life",
+    "point": "Supports constitutional protection for life from conception.",
+    "source": "https://jordan.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Favors low taxes and a smaller government, and backed Ohio's tax limitation amendment.",
+    "source": "https://jordan.house.gov/issues"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Supports repealing the Affordable Care Act.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Jordan"
+   },
+   "liberty": {
+    "score": 85,
+    "evidence": "Opposes abortion, cosponsored a same-sex marriage ban amendment, and opposes marijuana liberalization (abortion, LGBTQ rights, drugs).",
+    "source": "https://en.wikipedia.org/wiki/Jim_Jordan"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Opposes amnesty and illegal immigration and supports stronger border security.",
+    "source": "https://jordan.house.gov/issues"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Voted against most Ukraine military aid bills and supported the Syria troop withdrawal.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Jordan"
+   },
+   "energy": {
+    "score": 5,
+    "evidence": "Signed the No Climate Tax pledge and voted against EPA greenhouse gas rules and renewable incentives.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Jordan"
+   },
+   "tech": {
+    "score": 30,
+    "evidence": "Criticizes Big Tech companies but opposes antitrust breakup proposals.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Jordan"
+   },
+   "education": {
+    "score": 25,
+    "evidence": "Says education works best at the state and local level with parental freedom in schooling choices.",
+    "source": "https://jordan.house.gov/issues"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5cdce6f04d546e1a2eea5361/1559099840632-9B6GOUD3X3XQ2OM7ZH4C/JJ3.jpg",
+  "notes": ""
+ },
+ {
+  "id": "OH-4/joshua-kolasinski",
+  "name": "Joshua Kolasinski",
+  "party": "Democratic",
+  "current_role": "Small-business owner",
+  "bio": "Joshua Kolasinski is the Democratic nominee for Ohio's 4th District and owns a business that installs and repairs biomedical equipment. He has lived in Delaware, Ohio, since 2012 and describes himself as an independent-minded voter who has supported candidates of both parties.",
+  "website": "https://www.joshuaforohio.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=61586747067579"
+  },
+  "platform": [
+   {
+    "topic": "Work and wages",
+    "point": "Wants full-time work to provide economic stability and puts workers ahead of shareholder profits.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Supports Medicare drug price negotiation, price transparency and expanded preventive and mental health care.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   {
+    "topic": "Workforce",
+    "point": "Would expand apprenticeships, trade schools and community colleges and lower student loan interest rates.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Supports overturning Citizens United, banning congressional stock trading and term limits.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   {
+    "topic": "War powers",
+    "point": "Opposes wars of choice and wants Congress to reclaim its war authority.",
+    "source": "https://www.joshuaforohio.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Puts workers' interests over shareholder profits and wants full-time work to guarantee stability.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Supports Medicare drug price negotiation and expanded preventive and mental health care.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Treats addiction as a health issue and backs civil liberties protections and ending for-profit prisons (drugs).",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   "security": {
+    "score": 15,
+    "evidence": "Opposes mass surveillance and backs free speech, privacy and digital rights.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   "immigration": {
+    "score": 40,
+    "evidence": "Calls for oversight and transparency in immigration enforcement.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   "foreign": {
+    "score": 20,
+    "evidence": "Opposes wars of choice and wants Congress to reclaim war authority.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 60,
+    "evidence": "Objects to data centers passing their energy and water costs on to Ohio residents.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   "education": {
+    "score": 80,
+    "evidence": "Says voucher programs fund for-profit schools at the expense of public education, and backs trade schools and community colleges.",
+    "source": "https://www.joshuaforohio.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/46cde1_02e7d32159af4df9ba0ece07f513fa68~mv2.jpg",
+  "notes": "The immigration score rests on a brief call for enforcement oversight and is tentative."
+ },
+ {
+  "id": "OH-4/tracey-tackett",
+  "name": "Tracey Tackett",
+  "party": "Independent",
+  "current_role": "Assistant Mayor of Springfield, Ohio",
+  "bio": "Tracey Tackett is an independent candidate for Ohio's 4th District and serves as assistant mayor of Springfield, Ohio. Her campaign cites more than 20 years of community service, and she has been endorsed by the Forward Party.",
+  "website": "https://www.traceytackett.org/",
+  "social": {
+   "instagram": "https://www.instagram.com/official_tracey_tackett",
+   "facebook": "https://www.facebook.com/Officialtraceytackett",
+   "tiktok": "https://www.tiktok.com/@tracey.tackett"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Wants to end illegal immigration, reform asylum, offer citizenship to some long-present immigrants and expand high-skilled visas.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs an all-of-the-above energy policy favoring the lowest-cost, cleanest sources such as solar and natural gas.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Elections",
+    "point": "Supports independent redistricting, free photo IDs and ending dark money in campaigns.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Congressional reform",
+    "point": "Plans to form an independent caucus and lower discharge petition thresholds to break partisan gridlock.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   {
+    "topic": "Local government",
+    "point": "Wants more federal resources and flexibility for local governments, police and firefighters.",
+    "source": "https://www.traceytackett.org/issues"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 50,
+    "evidence": "Calls for ending illegal immigration and border security alongside a pathway to citizenship and more high-skilled immigration.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 50,
+    "evidence": "Supports an all-of-the-above energy policy prioritizing the cheapest and cleanest options, including solar and natural gas.",
+    "source": "https://www.traceytackett.org/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/62c47551eff9bf4b5711d34e/da9989a8-9758-4c10-a29f-ab6a9c3a4d6e/b7e4b55e-3361-4952-b365-46bdb6089bbb.jpeg",
+  "notes": ""
+ },
+ {
+  "id": "OH-5/bob-latta",
+  "name": "Bob Latta",
+  "party": "Republican",
+  "current_role": "U.S. Representative for OH-5",
+  "bio": "Bob Latta has represented Ohio's 5th District since 2007 and serves on the Energy and Commerce Committee, where he chairs the Energy Subcommittee. He previously served as a Wood County commissioner and in the Ohio Senate and Ohio House, and practiced law. He was born in Bluffton, Ohio, and graduated from Bowling Green State University and the University of Toledo law school.",
+  "website": "https://www.lattaforcongress.com/",
+  "social": {
+   "x": "https://x.com/BobLatta",
+   "facebook": "https://www.facebook.com/boblatta",
+   "instagram": "https://www.instagram.com/boblatta",
+   "youtube": "https://www.youtube.com/user/CongressmanBobLatta"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Supports tax relief, including repeal of the federal estate tax.",
+    "source": "https://latta.house.gov/issues/issue/?IssueID=4926"
+   },
+   {
+    "topic": "Energy",
+    "point": "Promotes bills to increase domestic energy production.",
+    "source": "https://en.wikipedia.org/wiki/Bob_Latta"
+   },
+   {
+    "topic": "Broadband",
+    "point": "Co-chairs the Rural Broadband Caucus and works to expand rural internet access.",
+    "source": "https://en.wikipedia.org/wiki/Bob_Latta"
+   },
+   {
+    "topic": "Fentanyl",
+    "point": "Backed the HALT Fentanyl Act to permanently classify fentanyl-related substances as Schedule I.",
+    "source": "https://latta.house.gov/issues/issue/?IssueID=4924"
+   },
+   {
+    "topic": "Border security",
+    "point": "Lists border security and immigration enforcement among his priorities.",
+    "source": "https://latta.house.gov/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Supports estate tax repeal and voted for the 2025 reconciliation tax law; holds a 90% Americans for Prosperity lifetime rating.",
+    "source": "https://latta.house.gov/issues/issue/?IssueID=4926"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 reconciliation law with Medicaid work requirements and spending reductions.",
+    "source": "https://en.wikipedia.org/wiki/Bob_Latta"
+   },
+   "liberty": {
+    "score": 80,
+    "evidence": "Holds an A+ Susan B. Anthony pro-life rating and cosponsored a same-sex marriage ban amendment (abortion, LGBTQ rights).",
+    "source": "https://en.wikipedia.org/wiki/Bob_Latta"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Supports stronger border security and immigration enforcement.",
+    "source": "https://latta.house.gov/issues/issue/?IssueID=4924"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Chairs the House Energy Subcommittee and co-chairs the Natural Gas and Propane caucuses, backing expanded domestic production.",
+    "source": "https://en.wikipedia.org/wiki/Bob_Latta"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

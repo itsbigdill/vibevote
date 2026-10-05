@@ -1,0 +1,439 @@
+[
+ {
+  "id": "SD-SEN/mike-rounds",
+  "name": "Mike Rounds",
+  "party": "Republican",
+  "race": "SD-SEN",
+  "race_label": "South Dakota · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000605",
+   "official_name": "Mike Rounds",
+   "chamber": "Senate",
+   "official_site": "https://www.rounds.senate.gov",
+   "official_social": {
+    "twitter": "SenatorRounds",
+    "facebook": "SenatorMikeRounds",
+    "instagram": "senatorrounds"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 40,
+    "liberty": 50,
+    "security": 70,
+    "immigration": 80,
+    "foreign": 80,
+    "energy": 20,
+    "tech": 55,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Backs low taxes, abortion restrictions, gun rights, border wall funding, all-of-the-above energy, abolishing Education Department, protecting Social Security; voted for FISA reauthorization, foreign-aid package, KOSA.",
+   "sources": [
+    "https://roundsforsenate.com/issues/",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm"
+   ],
+   "photo": {
+    "file": "File:Mike Rounds official Senate portrait.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "SD-SEN/brian-bengs",
+  "name": "Brian Bengs",
+  "party": "Independent",
+  "race": "SD-SEN",
+  "race_label": "South Dakota · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": 40,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants 1960s-level tax rates on ultra-wealthy, abortion access until viability, reasonable gun safety with gun rights, LGBTQ acceptance, border security plus more legal immigration.",
+   "sources": [
+    "https://bengsforsouthdakota.com/policy-positions/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SD-GOV/larry-rhoden",
+  "name": "Larry Rhoden",
+  "party": "Republican",
+  "race": "SD-GOV",
+  "race_label": "South Dakota · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 60,
+    "security": 80,
+    "immigration": 85,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 30,
+    "faith": 65
+   },
+   "basis": "Cut property taxes, banned sanctuary cities, signed ICE agreements, removed suppressor rules, restricted abortion pills, opposed same-sex marriage in 2014, school choice, faith-based rehabilitation.",
+   "sources": [
+    "https://governorlarryrhoden.com/accomplishments",
+    "https://en.wikipedia.org/wiki/Larry_Rhoden"
+   ],
+   "photo": {
+    "file": "File:Larry Rhoden 2025 (cropped).jpg",
+    "license": "CC BY 2.0",
+    "author": "U.S. Embassy Jerusalem"
+   }
+  }
+ },
+ {
+  "id": "SD-GOV/dan-ahlers",
+  "name": "Dan Ahlers",
+  "party": "Democratic",
+  "race": "SD-GOV",
+  "race_label": "South Dakota · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Pledges higher wages with union workforce partnerships, keeping rural hospitals open, expanded mental health care and childcare, teacher recruitment, stronger rural schools and early education.",
+   "sources": [
+    "https://danahlers.com/about-3"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-SEN/marquita-bradshaw",
+  "name": "Marquita Bradshaw",
+  "party": "Democratic",
+  "race": "TN-SEN",
+  "race_label": "Tennessee · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 80,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 90,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Campaign priorities: healthcare as a right, fair wages, well-funded public schools, clean energy and climate justice; opposed new TVA gas plants.",
+   "sources": [
+    "https://www.marquitabradshaw.com/priorities",
+    "https://en.wikipedia.org/wiki/Marquita_Bradshaw"
+   ],
+   "photo": {
+    "file": "File:Marquita Bradshaw at Morristown (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Walker Kinsler"
+   }
+  }
+ },
+ {
+  "id": "TN-SEN/bill-hagerty",
+  "name": "Bill Hagerty",
+  "party": "Republican",
+  "race": "TN-SEN",
+  "race_label": "Tennessee · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H000601",
+   "official_name": "Bill Hagerty",
+   "chamber": "Senate",
+   "official_site": "https://www.hagerty.senate.gov",
+   "official_social": {
+    "twitter": "SenatorHagerty",
+    "facebook": "SenatorBillHagerty",
+    "instagram": "senatorhagerty",
+    "youtube": "UCqLlLx05ScUwxVHvevyaDFg"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 60,
+    "security": 45,
+    "immigration": 75,
+    "foreign": 40,
+    "energy": 10,
+    "tech": 60,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Votes against Ukraine aid, IRA, Safer Communities Act, Respect for Marriage Act (liberty); for Laken Riley Act, KOSA, 2025 budget law; opposes minimum-wage hike.",
+   "sources": [
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm",
+    "https://en.wikipedia.org/wiki/Bill_Hagerty"
+   ],
+   "photo": {
+    "file": "File:Bill Hagerty senatorial portrait.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "TN-GOV/marsha-blackburn",
+  "name": "Marsha Blackburn",
+  "party": "Republican",
+  "race": "TN-GOV",
+  "race_label": "Tennessee · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "B001243",
+   "official_name": "Marsha Blackburn",
+   "chamber": "Senate",
+   "official_site": "https://www.blackburn.senate.gov",
+   "official_social": {
+    "twitter": "MarshaBlackburn",
+    "facebook": "marshablackburn",
+    "youtube": "RepMarshaBlackburn",
+    "instagram": "marshablackburn"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 70,
+    "security": 50,
+    "immigration": 90,
+    "foreign": 45,
+    "energy": 10,
+    "tech": 70,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "Liberty: opposes abortion, cannabis, same-sex marriage; backs tax cuts, border wall, school choice, KOSA, stripping AI moratorium; voted against Ukraine aid.",
+   "sources": [
+    "https://marshablackburn.com/issues/",
+    "https://en.wikipedia.org/wiki/Marsha_Blackburn",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.htm"
+   ],
+   "photo": {
+    "file": "File:Sen. Marsha Blackburn (R-TN) official headshot - 116th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Senate Photographic Studio"
+   }
+  }
+ },
+ {
+  "id": "TN-GOV/jerri-green",
+  "name": "Jerri Green",
+  "party": "Democratic",
+  "race": "TN-GOV",
+  "race_label": "Tennessee · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 85,
+    "liberty": 20,
+    "security": 20,
+    "immigration": 10,
+    "foreign": null,
+    "energy": 80,
+    "tech": 90,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Platform: repeal abortion ban, legalize marijuana, background checks and red flag laws (liberty); Medicaid expansion, end ICE cooperation, data center moratorium, opposes vouchers.",
+   "sources": [
+    "https://greenforgovernor.com/policy/"
+   ],
+   "photo": {
+    "file": "File:Jerri Green (cropped).3 (cropped).jpg",
+    "license": "CC BY 4.0",
+    "author": "Zach Kinslow"
+   }
+  }
+ },
+ {
+  "id": "TX-SEN/ken-paxton",
+  "name": "Ken Paxton",
+  "party": "Republican",
+  "race": "TX-SEN",
+  "race_label": "Texas · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 15,
+    "liberty": 75,
+    "security": null,
+    "immigration": 95,
+    "foreign": null,
+    "energy": 5,
+    "tech": 70,
+    "education": null,
+    "faith": 90
+   },
+   "basis": "AG record: abortion bans, suits against cannabis decriminalization and gender-affirming care (liberty); DAPA challenge, Clean Power Plan challenge, Google antitrust, school prayer.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ken_Paxton",
+    "https://en.wikipedia.org/wiki/United_States_v._Google_LLC_(2023)"
+   ],
+   "photo": {
+    "file": "File:K Paxton.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "TX-SEN/james-talarico",
+  "name": "James Talarico",
+  "party": "Democratic",
+  "race": "TX-SEN",
+  "race_label": "Texas · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 85,
+    "liberty": 20,
+    "security": 35,
+    "immigration": 30,
+    "foreign": 65,
+    "energy": 50,
+    "tech": 85,
+    "education": 90,
+    "faith": 15
+   },
+   "basis": "Platform: codify Roe, legalize marijuana, background checks (liberty); Medicare buy-in, universal childcare, citizenship pathways, kids online safety rules, opposes vouchers and Ten Commandments posting.",
+   "sources": [
+    "https://jamestalarico.com/issues",
+    "https://jamestalarico.com/issue/freedom-family-faith/",
+    "https://en.wikipedia.org/wiki/James_Talarico"
+   ],
+   "photo": {
+    "file": "File:James Talarico Press Conference (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Antonioaesparza"
+   }
+  }
+ },
+ {
+  "id": "TX-GOV/greg-abbott",
+  "name": "Greg Abbott",
+  "party": "Republican",
+  "race": "TX-GOV",
+  "race_label": "Texas · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 60,
+    "security": 85,
+    "immigration": 95,
+    "foreign": null,
+    "energy": 15,
+    "tech": 65,
+    "education": 10,
+    "faith": 95
+   },
+   "basis": "Record: abortion bans, constitutional carry, minors' gender-care ban (liberty); property tax cuts, state border wall, bail limits, universal ESAs, app parental consent, Ten Commandments law.",
+   "sources": [
+    "https://www.gregabbott.com/issues/",
+    "https://en.wikipedia.org/wiki/Greg_Abbott"
+   ],
+   "photo": {
+    "file": "File:Greg Abbott 2026.jpg",
+    "license": "Public domain",
+    "author": "U.S. Department of Agriculture"
+   }
+  }
+ },
+ {
+  "id": "TX-GOV/gina-hinojosa",
+  "name": "Gina Hinojosa",
+  "party": "Democratic",
+  "race": "TX-GOV",
+  "race_label": "Texas · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 85,
+    "liberty": 10,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 80,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Legislative record and platform: end school vouchers, Fully Fund Our Future Act, Healthy Texas Act, data center moratorium, surveillance-pricing ban; gay-panic-defense ban (liberty).",
+   "sources": [
+    "https://ginafortexas.com/priority/save-texas-public-schools/",
+    "https://ginafortexas.com/priority/data-centers/",
+    "https://en.wikipedia.org/wiki/Gina_Hinojosa"
+   ],
+   "photo": {
+    "file": "File:Gina Hinojosa at the AFL-CIO COPE convention in 2024.jpg",
+    "license": "CC0",
+    "author": "RRC1701"
+   }
+  }
+ }
+]

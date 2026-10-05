@@ -1,0 +1,482 @@
+[
+ {
+  "id": "IL-4/chris-getty",
+  "name": "Chris Getty",
+  "party": "Independent",
+  "current_role": "Mayor of Lyons and Lyons Township supervisor",
+  "bio": "Chris Getty is mayor of the Village of Lyons and has served as Lyons Township supervisor and on the township mental health board. He is president of a family insurance agency founded in 1972 and a graduate of Eastern Illinois University. A registered Democrat, he is running as an independent under the slogan \"People over Party.\"",
+  "website": "https://www.chrisgettyforcongress.com/",
+  "social": {
+   "facebook": "https://facebook.com/chrisgettyforcongress/",
+   "instagram": "https://instagram.com/chrisgettyforcongress/"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Lists cost of living as a top campaign priority.",
+    "source": "https://www.chrisgettyforcongress.com/"
+   },
+   {
+    "topic": "Immigration and public safety",
+    "point": "Says he will advocate for responsible immigration solutions and public safety.",
+    "source": "https://www.chrisgettyforcongress.com/"
+   },
+   {
+    "topic": "Government accountability",
+    "point": "Pledges to restore trust in government and protect election integrity.",
+    "source": "https://www.chrisgettyforcongress.com/"
+   },
+   {
+    "topic": "Open seat",
+    "point": "Argues voters, not a handpicked successor, should choose the district's next representative.",
+    "source": "https://suburbanchicagoland.com/2026/02/27/lyons-mayor-chris-getty-announces-candidacy-for-illinois-4th-congressional-district/"
+   },
+   {
+    "topic": "Bipartisanship",
+    "point": "Says he favors collaboration over partisan conflict and putting people ahead of party.",
+    "source": "https://suburbanchicagoland.com/2026/02/27/lyons-mayor-chris-getty-announces-candidacy-for-illinois-4th-congressional-district/"
+   },
+   {
+    "topic": "Local economy",
+    "point": "Cites economic development and partnerships with local businesses as focuses of his work as mayor.",
+    "source": "https://www.chrisgettyforcongress.com/about"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the campaign home and about pages, his announcement coverage and the Wikipedia race page; all state priorities without a direction or specific proposals, so no topic could be scored. An April 2026 candidate forum exists only as video and could not be reviewed."
+ },
+ {
+  "id": "IN-2/william-henry",
+  "name": "William Henry",
+  "party": "Libertarian",
+  "current_role": "Army veteran and Libertarian Party of Elkhart County treasurer",
+  "bio": "William Henry of Goshen is a U.S. Army and Indiana Army National Guard veteran who served as a military photojournalist, including deployments to Afghanistan and Kuwait, and has worked as a communications consultant. He co-directs the advocacy group Liberty Offense and was the Libertarian nominee for this seat in 2022 and 2024 after a 2020 run for lieutenant governor.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Transparency",
+    "point": "Centres his campaign on government transparency, accountability and answering voters' questions directly.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Lists tax reform as a campaign priority.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Prioritizes care for veterans.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   {
+    "topic": "Privacy and liberties",
+    "point": "Emphasizes privacy protections and constitutional liberties.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   {
+    "topic": "Cannabis",
+    "point": "Supports federal cannabis reform.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 35,
+    "evidence": "General statement only: lists federal cannabis reform and constitutional liberties among his priorities, pointing toward individual choice on drugs.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   "security": {
+    "score": 35,
+    "evidence": "General statement only: names privacy protections as a campaign priority, without specific surveillance or policing proposals.",
+    "source": "https://www.953mnc.com/2026/05/20/libertarian-candidate-william-henry-to-run-for-congress/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Searched Wikipedia race pages for 2022-2026, WISH-TV and Indiana Capital Chronicle convention coverage and likely campaign domains (an old one is now an unrelated site); no issues page or questionnaire answers were found. Liberty Offense pages were not used because they state the group's positions, not his."
+ },
+ {
+  "id": "IN-7/james-sceniak",
+  "name": "James Sceniak",
+  "party": "Libertarian",
+  "current_role": "Autism behavior therapist",
+  "bio": "James Sceniak is a behavior therapist who works with children with autism and holds human services degrees from Ivy Tech Community College and Bethel College. He was the Libertarian nominee for U.S. Senate in Indiana in 2022 and for the 6th congressional district in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Budget",
+    "point": "Pledged in his 2022 Senate run to vote against any bill that requires deficit spending.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   {
+    "topic": "Criminal justice",
+    "point": "Called for ending civil asset forfeiture, no-knock warrants, qualified immunity and mandatory minimum sentences.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   {
+    "topic": "Cannabis",
+    "point": "Backs removing cannabis from federal drug schedules and treating drug abuse as a health matter.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Opposes any new gun restrictions and points to wider mental health access as the answer to violence.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Calls himself personally pro-life but opposes criminal bans, favoring adoption tax breaks, contraception access and support for women.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Favors vetted but broad entry for peaceful migrants through work visas and refugee admissions.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/where-indiana-senate-candidates-stand-on-abortion-the-economy-and-other-issues%ef%bf%bc/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Proposed VetCare, moving VA funds into health-savings-style accounts that veterans use with doctors of their choice.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Said Congress should encourage more oil drilling and refining and repeal the Jones Act.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/where-indiana-senate-candidates-stand-on-abortion-the-economy-and-other-issues%ef%bf%bc/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "In 2022 he pledged to oppose all deficit spending, cut government waste, end corporate welfare and remove taxes and regulations on medical device makers.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "In 2022 he backed entitlement reform along the lines of the Cato Institute's Social Security plan and account-based VetCare in place of direct VA care.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   "liberty": {
+    "score": 10,
+    "evidence": "In 2022 he opposed criminal abortion bans, backed descheduling cannabis, opposed new gun restrictions and supported federal protection for same-sex marriage.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/where-indiana-senate-candidates-stand-on-abortion-the-economy-and-other-issues%ef%bf%bc/"
+   },
+   "security": {
+    "score": 10,
+    "evidence": "In 2022 he called for ending civil asset forfeiture, no-knock warrants and qualified immunity, saying civil liberties should not pay the price for security.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   "immigration": {
+    "score": 20,
+    "evidence": "In a 2022 IndyStar questionnaire he supported work-visa access for peaceful migrants and refugee admissions, alongside a vetting process.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/where-indiana-senate-candidates-stand-on-abortion-the-economy-and-other-issues%ef%bf%bc/"
+   },
+   "foreign": {
+    "score": 20,
+    "evidence": "In 2022 he called for a strong defense with the least possible involvement in foreign conflicts and bringing troops home now.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/priorities/"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "In a 2022 IndyStar questionnaire he said Congress should encourage more oil drilling and refining capacity to lower gas prices.",
+    "source": "https://web.archive.org/web/20221016191526/https://www.sceniakforsenate.com/where-indiana-senate-candidates-stand-on-abortion-the-economy-and-other-issues%ef%bf%bc/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No 2026 campaign site was found; positions come from his archived 2022 Senate campaign site and his IndyStar questionnaire answers reposted there, so they may predate his current run. Tech, education and religion positions remain unknown."
+ },
+ {
+  "id": "IN-9/tonya-hudson",
+  "name": "Tonya Hudson",
+  "party": "Libertarian",
+  "current_role": "Real estate broker",
+  "bio": "Tonya Hudson is a real estate broker in southern Indiana with more than two decades in the field, a former school aide and a past president of the Bedford Board of Realtors. She was the Libertarian nominee for this seat in 2020 and 2022 and the party's lieutenant governor nominee in 2024, and has served as vice chair of the Libertarian Party of Indiana.",
+  "website": "https://tonyaforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Would replace the federal income tax with a FAIR Tax-style sales tax and eliminate the IRS.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Supports a balanced budget, an end to corporate welfare and less foreign aid.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   {
+    "topic": "Cannabis",
+    "point": "Backs federal legalization through the MORE Act and clearing records for small personal possession.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   {
+    "topic": "War powers",
+    "point": "Opposes presidential military action without congressional approval and wants troops brought home from Middle East conflicts.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Proposes removing the payroll tax cap and ending federal income tax on Social Security benefits.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   {
+    "topic": "Education",
+    "point": "Would defund the federal Education Department and supports charter, private and home schooling options.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Opposes Flock cameras and vehicle kill-switch technology as steps toward a surveillance state.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Wants more entry checkpoints, more immigration judges and simpler legal entry for migrant workers.",
+    "source": "https://tonyaforcongress.com/issues-2/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Proposes abolishing the IRS for a national sales tax, rolling back regulations on small businesses and farmers, and a balanced budget, though she would lift the payroll tax cap.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 25,
+    "evidence": "Describes herself as pro-life (abortion) but backs federal cannabis legalization (drugs), unrestricted gun rights and free speech; no stated LGBTQ position.",
+    "source": "https://tonyaforcongress.com/photo-gallery/102-2/bio-tonya-millis/"
+   },
+   "security": {
+    "score": 10,
+    "evidence": "Opposes Flock cameras, vehicle kill switches and storing personal data without consent, calling them steps toward a surveillance and police state.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Calls for a secure border and detention of violent offenders, but also more entry points, more judges and easier legal entry for migrant workers.",
+    "source": "https://tonyaforcongress.com/issues-2/"
+   },
+   "foreign": {
+    "score": 10,
+    "evidence": "Opposes military action without congressional approval, wants troops home from Middle East conflicts and supports reducing foreign aid.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   "energy": {
+    "score": 55,
+    "evidence": "General statement: says she would endorse pro-climate bills that do not raise taxes and supports clean air and water.",
+    "source": "https://tonyaforcongress.com/issues-2/"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Would defund the federal Department of Education, return schooling to the states and supports charter, private and home schooling.",
+    "source": "https://tonyaforcongress.com/rollitback/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://i0.wp.com/tonyaforcongress.com/wp-content/uploads/2025/07/th-headshot.jpg",
+  "notes": "Reviewed her campaign home, issues, Roll It Back and biography pages plus WBIW coverage; welfare was left null because her Social Security and health care remarks point in different directions. Tech and religion positions remain unknown, and her Facebook page is named but not linked on the site."
+ },
+ {
+  "id": "KS-1/steven-jacob",
+  "name": "Steven Jacob",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Steven Jacob, listed by the Libertarian Party of Kansas as Steve Jacob, filed with the FEC as the Libertarian candidate for Kansas's 1st Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=61563223247481"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the Libertarian Party of Kansas candidate page, which links only a Facebook profile that cannot be read without logging in, plus Wikipedia race pages and likely campaign domains. No platform, statements or coverage were found."
+ },
+ {
+  "id": "KS-2/john-hauer",
+  "name": "John Hauer",
+  "party": "Libertarian",
+  "current_role": "Libertarian Party of Kansas District 2 coordinator",
+  "bio": "John Hauer is the Libertarian Party of Kansas nominee for the 2nd Congressional District, chosen at the party's 2026 convention, and serves as the state party's District 2 coordinator. He was also the Libertarian candidate for this seat in 2024, receiving 4.7 percent of the vote.",
+  "website": "https://www.hauerforcongress.com",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Foreign policy",
+    "point": "Calls for no more wars and bringing all U.S. troops home.",
+    "source": "https://www.hauerforcongress.com"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Would eliminate the federal income tax.",
+    "source": "https://www.hauerforcongress.com"
+   },
+   {
+    "topic": "Spending",
+    "point": "Wants drastic federal spending cuts, no corporate bailouts and tax dollars kept in the country.",
+    "source": "https://www.hauerforcongress.com"
+   },
+   {
+    "topic": "Inflation",
+    "point": "Names inflation as a priority, describing it as a hidden tax that puts housing and retirement out of reach.",
+    "source": "https://www.hauerforcongress.com"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Proposes eliminating the federal income tax, drastically cutting federal spending and ending corporate bailouts.",
+    "source": "https://www.hauerforcongress.com"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 5,
+    "evidence": "Calls for no more war, bringing all troops home and keeping tax dollars at home rather than sending them overseas.",
+    "source": "https://www.hauerforcongress.com"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Found his campaign site through the Libertarian Party of Kansas candidate page; it is a single page with no issues or about subpages, and 2024 results came from Wikipedia. Positions on welfare, social issues, immigration, energy, tech, education and religion remain unknown."
+ },
+ {
+  "id": "KS-3/steve-hohe",
+  "name": "Steve Hohe",
+  "party": "Libertarian",
+  "current_role": "Independent courier and Air Force veteran",
+  "bio": "Steve Hohe is an 11-year U.S. Air Force veteran who served during the Desert Shield and Desert Storm buildup and later worked in sales and as an independent contractor courier. He holds a bachelor's degree in business administration and lives in Shawnee. He was the Libertarian nominee for this seat in 2016, 2020 and 2022 and ran for the state legislature in 2024.",
+  "website": "https://stevehoheforkansas.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Regulation",
+    "point": "Campaigns on deregulating and freeing the market, arguing less government control means more individual freedom.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   },
+   {
+    "topic": "National debt",
+    "point": "Calls for sharp spending restraint, recovering fraud losses and curbing lobbyists and appointed bureaucrats.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Would replace the income tax system with a flat tax capped at 10 percent for workers plus a set corporate profit rate.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   },
+   {
+    "topic": "Trade",
+    "point": "Proposes a staged tariff system on imports while inviting foreign firms to manufacture in the U.S.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants parent-controlled education accounts for each child that follow the student to the school the family chooses.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   },
+   {
+    "topic": "Child accounts",
+    "point": "Proposes a tax prebate funding private accounts for children's education, healthcare and nutrition, managed by parents.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Campaigns on deregulation and free markets and would replace the income tax with a flat tax of at most 10 percent, though he also proposes staged import tariffs.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Favors helping the poor out of poverty rather than making it easier, and proposes parent-managed private child accounts for education, healthcare and nutrition.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Proposes an education account for every child, controlled by parents and following the child, to fund school choice.",
+    "source": "https://stevehoheforkansas.wordpress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Found his campaign site (a frame around a WordPress page) through the Libertarian Party of Kansas candidate list and reviewed its platform and about sections. Positions on social issues, security, immigration, foreign policy, energy, tech and religion remain unknown."
+ },
+ {
+  "id": "KY-2/thomas-loecken",
+  "name": "Thomas A. Loecken",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Thomas A. Loecken is an independent candidate on the general election ballot for Kentucky's 2nd congressional district, having filed on May 1, 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked the Kentucky Secretary of State candidate list, Wikipedia race pages and likely campaign domains (a matching domain is a parked page). No website, coverage or stated positions were found."
+ }
+]

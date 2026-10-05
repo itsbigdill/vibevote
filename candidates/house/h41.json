@@ -1,0 +1,713 @@
+[
+  {
+    "state": "Washington",
+    "district": "WA-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Suzan DelBene",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": 25,
+          "security": 40,
+          "immigration": 25,
+          "foreign": 60,
+          "energy": 85,
+          "tech": 65,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Buffett rule, ACA, abortion rights, background checks, end bulk data collection, DREAMers, clean energy, opposes vouchers; liberty driven by abortion and LGBTQ.",
+        "sources": [
+          "https://www.ontheissues.org/House/Suzan_DelBene.htm",
+          "https://en.wikipedia.org/wiki/Suzan_DelBene"
+        ],
+        "photo": {
+          "file": "File:Rep. Suzan DelBene Official Portrait.jpg",
+          "license": "Public domain",
+          "author": "Ian Cunningham"
+        }
+      },
+      {
+        "name": "Mary Silva",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 25,
+          "security": 10,
+          "immigration": 70,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Medical freedom against mandates, ending warrantless mass surveillance, stronger border security and H-1B restructuring; liberty driven by medical choice.",
+        "sources": [
+          "https://www.marysilvaforcongress.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Rick Larsen",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": 25,
+          "security": 30,
+          "immigration": 20,
+          "foreign": 65,
+          "energy": 85,
+          "tech": 70,
+          "education": 90,
+          "faith": 20
+        },
+        "basis": "30% minimum tax on millionaires, drug price negotiation, pro-choice, background checks, FISA warrants, citizenship pathway, 50% clean power, net neutrality, NEA-backed.",
+        "sources": [
+          "https://www.ontheissues.org/House/Rick_Larsen.htm"
+        ],
+        "photo": {
+          "file": "File:Rick Larsen 116th Congress official photo.jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "Edwin H. Feller",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published policy positions found on campaign site.",
+        "sources": [
+          "https://fellerforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Marie Gluesenkamp Perez",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 55,
+          "welfare": null,
+          "liberty": 40,
+          "security": null,
+          "immigration": 60,
+          "foreign": 70,
+          "energy": 45,
+          "tech": 55,
+          "education": 40,
+          "faith": null
+        },
+        "basis": "Reshoring manufacturing, abortion access but opposes assault weapons ban, Laken Riley and SAVE Act votes, Ukraine/Israel aid, right to repair, opposed loan forgiveness.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Marie_Gluesenkamp_Perez",
+          "https://www.ontheissues.org/House/Marie_Gluesenkamp_Perez.htm"
+        ],
+        "photo": {
+          "file": "File:Rep. Marie Gluesenkamp Perez - 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "John Braun",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 45,
+          "security": 70,
+          "immigration": 80,
+          "foreign": 70,
+          "energy": 25,
+          "tech": null,
+          "education": 35,
+          "faith": null
+        },
+        "basis": "Opposes tax hikes, backs gun rights and drug-market crackdowns, pro-police, border barriers, Navy deterrence, all-of-the-above energy, parental rights.",
+        "sources": [
+          "https://votebraun.com/issues",
+          "https://votebraun.com/"
+        ],
+        "photo": {
+          "file": "File:JohnBraun.png",
+          "license": "CC BY 4.0",
+          "author": "Troy Kirby"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Amanda McKinney",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 45,
+          "security": 75,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 20,
+          "tech": 15,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Second Amendment defender, women's sports for biological females, backs law enforcement, secure borders, hydro/nuclear/gas, opposes heavy AI regulation.",
+        "sources": [
+          "https://www.mckinneyforwashington.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "John Duresky",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 85,
+          "liberty": null,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Close carried-interest loopholes, raise minimum wage, expand ACA toward universal coverage, protect Medicare and Medicaid, farm labor access.",
+        "sources": [
+          "https://johnduresky4congress.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Michael Baumgartner",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 60,
+          "security": null,
+          "immigration": 75,
+          "foreign": 35,
+          "energy": 25,
+          "tech": null,
+          "education": 30,
+          "faith": 70
+        },
+        "basis": "Opposes tax hikes and Obamacare, anti-abortion, NRA A rating, opposed same-sex marriage, opposed DREAM Act, climate skeptic, charters, religious exemptions.",
+        "sources": [
+          "https://www.ontheissues.org/House/Michael_Baumgartner.htm",
+          "https://en.wikipedia.org/wiki/Michael_Baumgartner"
+        ],
+        "photo": {
+          "file": "File:Congressman Michael Baumgartner (cropped).png",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Carmela Conroy",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 80,
+          "liberty": 70,
+          "security": null,
+          "immigration": 20,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 85,
+          "faith": 10
+        },
+        "basis": "Indexed minimum wage and paid leave, Medicaid for all children, gun safety (liberty driven by guns only), defund detention, public school funding, church-state separation.",
+        "sources": [
+          "https://conroy4congress.com/priorities"
+        ],
+        "photo": {
+          "file": "File:Carmela Conroy State Department Portrait (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. Department of State"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Emily Randall",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 70,
+          "liberty": 25,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Opposes Medicaid cuts, abortion access, Equality Act, cannabis protections, gun safety endorsements, voted against Laken Riley Act, climate action, opposes vouchers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Emily_Randall",
+          "https://www.ontheissues.org/House/Emily_Randall.htm",
+          "https://electemilyrandall.com/issues/"
+        ],
+        "photo": {
+          "file": "File:Randall Emily 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Teresa Fox",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published policy positions found on campaign site.",
+        "sources": [
+          "https://www.foxforwa.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Pramila Jayapal",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 90,
+          "welfare": 95,
+          "liberty": 20,
+          "security": 15,
+          "immigration": 5,
+          "foreign": 30,
+          "energy": 95,
+          "tech": 75,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Single-payer, opposes deficit tax cuts, abortion and LGBTQ rights, drug decriminalization, police accountability, immigrant integration, Green New Deal, net neutrality.",
+        "sources": [
+          "https://www.ontheissues.org/House/Pramila_Jayapal.htm",
+          "https://en.wikipedia.org/wiki/Pramila_Jayapal"
+        ],
+        "photo": {
+          "file": "File:Pramila Jayapal, official portrait, 116th Congress.jpg",
+          "license": "Public domain",
+          "author": "Nate Gowdy Photography"
+        }
+      },
+      {
+        "name": "Nirav Sheth",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 50,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 35,
+          "faith": null
+        },
+        "basis": "Opposes capital gains, estate and income taxes, more police funding, emphasizes legal immigration, local control and parent involvement in education.",
+        "sources": [
+          "https://shethforcongress.com/",
+          "https://shethforcongress.com/issues/affordability-economy-employment/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Kim Schrier",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 80,
+          "liberty": 25,
+          "security": 35,
+          "immigration": 35,
+          "foreign": 45,
+          "energy": 85,
+          "tech": 65,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Higher taxes on wealthy, Medicare buy-in, pro-choice, Equality Act, assault weapon limits, police accountability, citizenship pathway, war powers votes, 100% clean energy.",
+        "sources": [
+          "https://www.ontheissues.org/House/Kim_Schrier.htm",
+          "https://en.wikipedia.org/wiki/Kim_Schrier"
+        ],
+        "photo": {
+          "file": "File:Kim Schrier Official Portrait 116th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography/House Creative Services"
+        }
+      },
+      {
+        "name": "Spencer Meline",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 60,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "Lists smart and secure immigration as a priority and supports parental rights in education.",
+        "sources": [
+          "https://www.melineforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Adam Smith",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 70,
+          "liberty": null,
+          "security": 65,
+          "immigration": 30,
+          "foreign": 80,
+          "energy": 90,
+          "tech": null,
+          "education": 75,
+          "faith": null
+        },
+        "basis": "Hedge-fund housing divestment bill, ACA support, Patriot Act and FISA votes, comprehensive immigration reform, defense-diplomacy leadership, urgent decarbonization.",
+        "sources": [
+          "https://adamsmith.house.gov/issues",
+          "https://en.wikipedia.org/wiki/Adam_Smith_(Washington_politician)"
+        ],
+        "photo": {
+          "file": "File:Adam Smith official photo.jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "Doug Basler",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 35,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign criticizes rising taxes and regulations and focuses on affordability and public safety.",
+        "sources": [
+          "https://www.dougbasler.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Washington",
+    "district": "WA-10",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Marilyn Strickland",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 75,
+          "liberty": 30,
+          "security": 30,
+          "immigration": 20,
+          "foreign": 50,
+          "energy": 85,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pro-ACA, pro-choice, background check bill, police accountability, citizenship pathways, 2002 AUMF repeal, renewable energy and greenhouse gas limits.",
+        "sources": [
+          "https://www.ontheissues.org/House/Marilyn_Strickland.htm"
+        ],
+        "photo": {
+          "file": "File:Marilyn Strickland 117th U.S Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Committee"
+        }
+      },
+      {
+        "name": "Chris D. Chung",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published policy positions found.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "West Virginia",
+    "district": "WV-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Carol Miller",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 65,
+          "security": 60,
+          "immigration": 90,
+          "foreign": 75,
+          "energy": 10,
+          "tech": null,
+          "education": 25,
+          "faith": 90
+        },
+        "basis": "Permanent tax cuts, Obamacare repeal, anti-abortion, pro-gun, opposed same-sex marriage, border wall, pro-Israel, coal and gas, school prayer.",
+        "sources": [
+          "https://www.ontheissues.org/House/Carol_Miller.htm",
+          "https://www.electcarolmiller.com/"
+        ],
+        "photo": {
+          "file": "File:Carol Miller, official portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Vince George",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 85,
+          "liberty": null,
+          "security": null,
+          "immigration": 35,
+          "foreign": 25,
+          "energy": 55,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Double minimum wage, Medicare-for-All option, due process in immigration enforcement, end forever wars, renewables and coal accountability, data center consent.",
+        "sources": [
+          "https://www.vincegeorgeforcongress.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Belinda Fox-Spencer",
+        "party": "Constitution",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_West_Virginia"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "West Virginia",
+    "district": "WV-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Riley Moore",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 45,
+          "security": null,
+          "immigration": 95,
+          "foreign": null,
+          "energy": 10,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Anti-abortion, opposes gun registries, medical cannabis support, border wall and deportations, pro-coal anti-ESG, Hope Scholarship vouchers.",
+        "sources": [
+          "https://www.mooreforwv.com/issues",
+          "https://www.ontheissues.org/House/Riley_Moore.htm",
+          "https://en.wikipedia.org/wiki/Riley_Moore"
+        ],
+        "photo": {
+          "file": "File:Moore Riley 119th Congress (cropped2).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Ace Parsi",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 85,
+          "liberty": 25,
+          "security": 15,
+          "immigration": null,
+          "foreign": 70,
+          "energy": 70,
+          "tech": 80,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Single-payer public option, LGBTQ protections, opposes AI surveillance, relaunch foreign aid, wind and solar, data center referendums, vouchers money to public schools.",
+        "sources": [
+          "https://www.aceforcongress.com/aceplatform"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

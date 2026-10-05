@@ -1,0 +1,407 @@
+[
+ {
+  "id": "NY-7/claire-valdez",
+  "name": "Claire Valdez",
+  "party": "Democratic",
+  "race": "NY-7",
+  "race_label": "New York · US House NY-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 95,
+    "welfare": 95,
+    "liberty": 15,
+    "security": null,
+    "immigration": 5,
+    "foreign": 15,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, rent control, job guarantee, public renewables, abolishing ICE, trans rights; opposes Iran war and arms to Israel; liberty driven by LGBTQ.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Claire_Valdez"
+   ],
+   "photo": {
+    "file": "File:Queens Bus Network Redesign Claire Valdez (cropped).jpg",
+    "license": "CC BY 4.0",
+    "author": "Metropolitan Transportation Authority"
+   }
+  }
+ },
+ {
+  "id": "NY-7/melvin-rivera",
+  "name": "Melvin Rivera",
+  "party": "Republican",
+  "race": "NY-7",
+  "race_label": "New York · US House NY-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources.",
+   "sources": [
+    "https://melvinforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-7/priscilla-ghaznavi",
+  "name": "Priscilla Ghaznavi",
+  "party": "Our Future",
+  "race": "NY-7",
+  "race_label": "New York · US House NY-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/New_York%27s_7th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-8/hakeem-jeffries",
+  "name": "Hakeem Jeffries",
+  "party": "Democratic",
+  "race": "NY-8",
+  "race_label": "New York · US House NY-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000294",
+   "official_name": "Hakeem S. Jeffries",
+   "chamber": "House",
+   "official_site": "https://jeffries.house.gov",
+   "official_social": {
+    "facebook": "RepHakeemJeffries",
+    "twitter": "RepJeffries",
+    "instagram": "repjeffries"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 60,
+    "immigration": null,
+    "foreign": 85,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposed One Big Beautiful Bill Medicaid cuts, pushed ACA credit extension, backs abortion rights, Equality Act, cannabis reform, assault weapons ban, FISA 702, Ukraine aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hakeem_Jeffries"
+   ],
+   "photo": {
+    "file": "File:Rep-Hakeem-Jeffries-Official-Portrait (cropped).jpg",
+    "license": "Public domain",
+    "author": "Office of Representative Hakeem Jeffries"
+   }
+  }
+ },
+ {
+  "id": "NY-8/lewis-mizrahi",
+  "name": "Lewis Mizrahi",
+  "party": "Republican",
+  "race": "NY-8",
+  "race_label": "New York · US House NY-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources.",
+   "sources": [
+    "https://www.cityandstateny.com/prediction-markets/candidates/lewis-mizrahi"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-9/yvette-clarke",
+  "name": "Yvette Clarke",
+  "party": "Democratic",
+  "race": "NY-9",
+  "race_label": "New York · US House NY-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001067",
+   "official_name": "Yvette D. Clarke",
+   "chamber": "House",
+   "official_site": "https://clarke.house.gov",
+   "official_social": {
+    "twitter": "RepYvetteClarke",
+    "facebook": "repyvettedclarke",
+    "youtube": "repyvetteclarke",
+    "instagram": "repyvettedclarke"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 80,
+    "liberty": 20,
+    "security": 25,
+    "immigration": 15,
+    "foreign": null,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes tax and spending cuts, pro-choice, opposed Patriot Act extensions, backs path to citizenship and DACA, supports climate and energy regulation.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Yvette_Clarke"
+   ],
+   "photo": {
+    "file": "File:2026 Official Portrait of Rep. Clarke (D-NY).jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe"
+   }
+  }
+ },
+ {
+  "id": "NY-9/joel-anabilah-azumah",
+  "name": "Joel Anabilah-Azumah",
+  "party": "Republican",
+  "race": "NY-9",
+  "race_label": "New York · US House NY-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources.",
+   "sources": [
+    "https://ballotpedia.org/Joel_Anabilah-Azumah"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-10/brad-lander",
+  "name": "Brad Lander",
+  "party": "Democratic",
+  "race": "NY-10",
+  "race_label": "New York · US House NY-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 80,
+    "liberty": null,
+    "security": 15,
+    "immigration": null,
+    "foreign": 35,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Sponsored paid sick leave and worker scheduling laws, backed cutting police budget, supports conditioning military aid to Israel.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brad_Lander"
+   ],
+   "photo": {
+    "file": "File:Brad Lander.jpg",
+    "license": "CC BY 4.0",
+    "author": "Tessa Bury"
+   }
+  }
+ },
+ {
+  "id": "NY-10/jennifer-moore",
+  "name": "Jennifer Moore",
+  "party": "Republican",
+  "race": "NY-10",
+  "race_label": "New York · US House NY-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-11/nicole-malliotakis",
+  "name": "Nicole Malliotakis",
+  "party": "Republican",
+  "race": "NY-11",
+  "race_label": "New York · US House NY-11",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M000317",
+   "official_name": "Nicole Malliotakis",
+   "chamber": "House",
+   "official_site": "https://malliotakis.house.gov",
+   "official_social": {
+    "twitter": "RepMalliotakis",
+    "facebook": "RepNicole"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 55,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Seeks property tax cuts, voted against American Rescue Plan, criticized ACA, backs border security, opposes sanctuary cities; liberty mixed on abortion and LGBTQ votes.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nicole_Malliotakis"
+   ],
+   "photo": {
+    "file": "File:Congresswoman Nicole Malliotakis.jpg",
+    "license": "Public domain",
+    "author": "Office of Congresswoman Nicole Malliotakis"
+   }
+  }
+ },
+ {
+  "id": "NY-11/michael-decillis",
+  "name": "Michael DeCillis",
+  "party": "Democratic",
+  "race": "NY-11",
+  "race_label": "New York · US House NY-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NY-12/micah-lasher",
+  "name": "Micah Lasher",
+  "party": "Democratic",
+  "race": "NY-12",
+  "race_label": "New York · US House NY-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": 10,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Proposes raising the federal minimum wage, Medicare for All and abolishing ICE; cosponsored limits on federal immigration arrests.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Micah_Lasher"
+   ],
+   "photo": {
+    "file": "File:FWNY25; U.S. Marines and Sailors hold wreath laying ceremony Micah Lasher (cropped).jpg",
+    "license": "Public domain",
+    "author": "Lance Cpl. Steven Wells, U.S. Marine Corps"
+   }
+  }
+ }
+]

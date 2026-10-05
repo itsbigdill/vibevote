@@ -1,0 +1,850 @@
+[
+  {
+    "state": "Florida",
+    "district": "FL-13",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Anna Paulina Luna",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 35,
+          "welfare": null,
+          "liberty": 50,
+          "security": 65,
+          "immigration": null,
+          "foreign": 10,
+          "energy": 20,
+          "tech": 25,
+          "education": 25,
+          "faith": 65
+        },
+        "basis": "Backs abortion bans but gun rights and anti-mandate stances; opposes NATO and Ukraine aid; pro-oil; backs police immunity; religious liberty; anti-gender-theory schooling.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Anna_Paulina_Luna",
+          "https://www.ontheissues.org/FL/Anna_Paulina_Luna.htm"
+        ],
+        "photo": {
+          "file": "File:Anna Paulina Luna.jpg",
+          "license": "Public domain",
+          "author": "US House of Representatives"
+        }
+      },
+      {
+        "name": "Leela Gray",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 55,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 40,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes Medicaid and SNAP cuts and Trump tariffs; backs middle-class tax cut and action on insurance monopolies; criticizes Iran strikes.",
+        "sources": [
+          "https://www.fox13news.com/news/florida-congressional-race-retired-army-leela-gray-challenges-anna-paulina-luna",
+          "https://www.wusf.org/politics-issues/2026-08-18/pinellas-primary-results-2026-leela-gray-wins-democratic-nomination-13th-congressional-district"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Tony D'Arrigo",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 80,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls health care his top issue: expand coverage, de-privatize hospitals, protect the ACA.",
+        "sources": [
+          "https://www.tampabay28.com/news/election-2026/meet-the-candidates-questionnaire-for-us-district-13"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-14",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Kathy Castor",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 80,
+          "liberty": 30,
+          "security": 30,
+          "immigration": 20,
+          "foreign": 50,
+          "energy": 90,
+          "tech": 65,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Chaired climate crisis committee; backs ACA, Medicaid expansion, abortion rights, gun control, Dreamers, net neutrality; opposes vouchers; repealed Iraq AUMF.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kathy_Castor",
+          "https://www.ontheissues.org/FL/Kathy_Castor.htm"
+        ],
+        "photo": {
+          "file": "File:Kathy Castor 113th Congress.jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Mike Beltran",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 60,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 20,
+          "faith": null
+        },
+        "basis": "State House record: fiscally conservative, sponsored abortion ban and open-carry amendment, minor vaping limits; endorsed by school-choice groups.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mike_Beltran"
+        ],
+        "photo": {
+          "file": "File:Mike Beltran.jpg",
+          "license": "Public domain",
+          "author": "Florida House of Representatives"
+        }
+      },
+      {
+        "name": "Brian Lambert",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-15",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Laurel Lee",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 55,
+          "security": 85,
+          "immigration": 70,
+          "foreign": null,
+          "energy": 20,
+          "tech": 65,
+          "education": null,
+          "faith": 75
+        },
+        "basis": "Led FISA 702 reauthorization, DEFIANCE deepfake bill; lower taxes; abortion limits but gun rights; Mayorkas impeachment manager; pro-fracking; religious liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Laurel_Lee",
+          "https://www.ontheissues.org/FL/Laurel_Lee.htm"
+        ],
+        "photo": {
+          "file": "File:Laurel Lee 118thCong.jpeg",
+          "license": "Public domain",
+          "author": "Brian Thorpe, House Creative Services"
+        }
+      },
+      {
+        "name": "Robert People",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Platform calls for strengthening health care, Social Security and energy-cost assistance, plus affordable housing.",
+        "sources": [
+          "https://www.suncoastnorml.org/post/robert-people-wins-democratic-primary-for-florida-s-15th-congressional-district-after-jumping-in-the"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-16",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Sydney Gruters",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 80,
+          "security": null,
+          "immigration": 80,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pledges to cut taxes and regulations, 'defend the unborn', and work with Trump and ICE on illegal immigration.",
+        "sources": [
+          "https://grutersforcongress.com/",
+          "https://floridapolitics.com/archives/802844-sydney-gruters-earns-faith-based-conservative-backing-in-cd-16-race/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Kelly Kirschner",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 40,
+          "energy": 80,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Close corporate loopholes, restore Medicare and Medicaid cuts, drug price negotiation, ban offshore drilling, limit data centers, no blank checks abroad.",
+        "sources": [
+          "https://kellykirschner.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mark Davis",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-17",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Greg Steube",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 65,
+          "security": 65,
+          "immigration": 90,
+          "foreign": 25,
+          "energy": 10,
+          "tech": null,
+          "education": 20,
+          "faith": 85
+        },
+        "basis": "Repeal ACA, oppose stimulus, pro-life, gun rights, trans sports ban, border wall, Ukraine aid moratorium, anti-climate regulation, vouchers, Judeo-Christian values.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Greg_Steube",
+          "https://www.ontheissues.org/FL/Greg_Steube.htm"
+        ],
+        "photo": {
+          "file": "File:Greg Steube 117th Congress.jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Matthew Montavon",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 90,
+          "liberty": null,
+          "security": null,
+          "immigration": 20,
+          "foreign": 35,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Prefers single-payer health care, protect SNAP and Medicaid, end tax breaks for wealthy, cut military spending, reform or abolish ICE.",
+        "sources": [
+          "https://wslr.org/the-race-for-the-district-17-u-s-house-seat/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Michael Quirk",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-18",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Scott Franklin",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 30,
+          "liberty": 50,
+          "security": null,
+          "immigration": 85,
+          "foreign": 60,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Lower taxes and spending, voted against PACT Act, pro-life but anti-gun control, supports border wall and immigration bans, backed Israel aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Scott_Franklin_(politician)",
+          "https://www.ontheissues.org/FL/Scott_Franklin.htm"
+        ],
+        "photo": {
+          "file": "File:Scott Franklin, 117th Congress portrait.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Curtis Gibson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No concrete policy positions found in available sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Deva Simmons",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-19",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jim Schwartzel",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 85,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Says the government should keep up with deporting people in the country illegally; other stances focus on local infrastructure.",
+        "sources": [
+          "https://www.fortmyersbeachtalk.com/news/community-news/2026/08/arias-schwartzel-win-party-primaries-to-advance-in-district-19-congressional-race/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Victor Arias",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Only broad goals found (raise worker earnings, lower prices, protect clean water); too general to score.",
+        "sources": [
+          "https://www.fortmyersbeachtalk.com/news/community-news/2026/08/arias-schwartzel-win-party-primaries-to-advance-in-district-19-congressional-race/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Seth Haskin",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-20",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Debbie Wasserman Schultz",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 80,
+          "liberty": 40,
+          "security": 55,
+          "immigration": 25,
+          "foreign": 85,
+          "energy": 75,
+          "tech": 65,
+          "education": 85,
+          "faith": 15
+        },
+        "basis": "Abortion rights and gun control but opposed medical marijuana; strong Israel aid; offshore drilling ban; SOPA; opposes vouchers and religion in schools.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz",
+          "https://www.ontheissues.org/FL/Debbie_Wasserman_Schultz.htm"
+        ],
+        "photo": {
+          "file": "File:Debbie Wasserman Schultz official photo.jpg",
+          "license": "Public domain",
+          "author": "U.S. Congress"
+        }
+      },
+      {
+        "name": "Brent Andersen",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Proposes cutting red tape, tort reform and easier reinsurance treaties to lower insurance costs.",
+        "sources": [
+          "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Kedner Maxime",
+        "party": "Independent Party of Florida",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-21",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brian Mast",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 30,
+          "welfare": 25,
+          "liberty": 55,
+          "security": 60,
+          "immigration": 70,
+          "foreign": 60,
+          "energy": 25,
+          "tech": 25,
+          "education": 20,
+          "faith": null
+        },
+        "basis": "Repeal ACA, TCJA; abortion limits, assault weapons ban, cannabis legalization; strong Israel backing but opposed Ukraine aid; vouchers; against net neutrality.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brian_Mast",
+          "https://www.ontheissues.org/FL/Brian_Mast.htm"
+        ],
+        "photo": {
+          "file": "File:Brian Mast official 115th Congress photo.jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "James Martin",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 55,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": 35,
+          "foreign": 70,
+          "energy": 65,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs public health option, opposes tariffs, orderly asylum with more judges, continued Ukraine aid, Everglades and estuary protection.",
+        "sources": [
+          "https://stetnews.org/2026/08/10/2-democrats-vie-to-unseat-brian-mast/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Alexander Cooke",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-22",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Pia Dandiya",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Wealthy pay fair share, end tariffs, reverse Medicaid cuts, protect Social Security, reproductive freedom, universal pre-K, fully fund public schools.",
+        "sources": [
+          "https://piaforcongress.com/priorities"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Casey Askar",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 70,
+          "security": null,
+          "immigration": 80,
+          "foreign": 65,
+          "energy": 15,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Cut taxes and regulation, end Obamacare, deport criminal migrants, peace through strength, expand oil and gas, parental rights, oppose transgender school bathroom policies.",
+        "sources": [
+          "https://www.caseyaskar.com/",
+          "https://www.wlrn.org/government-politics/2026-08-31/battle-lines-drawn-in-floridas-22nd-congressional-district-race-over-affordable-care-act"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-23",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Lois Frankel",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 80,
+          "liberty": 30,
+          "security": 35,
+          "immigration": 25,
+          "foreign": 80,
+          "energy": 75,
+          "tech": 60,
+          "education": 85,
+          "faith": 15
+        },
+        "basis": "Abortion rights, gun control, LGBTQ rights; defends foreign aid and PEPFAR; offshore drilling ban; opposes vouchers and welfare work requirements; DREAM Act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Lois_Frankel",
+          "https://www.ontheissues.org/FL/Lois_Frankel.htm"
+        ],
+        "photo": {
+          "file": "File:Lois Frankel 118th Congress.jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Deborah Adeimy",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No concrete policy positions found in accessible sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Florida",
+    "district": "FL-24",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Oliver Gilbert",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls health care a right, backs stronger unions and worker protections and congressional control over tariffs.",
+        "sources": [
+          "https://www.wlrn.org/government-politics/2026-08-18/oliver-gilbert-prevails-in-crowded-7-way-democratic-primary-to-succeed-rep-frederica-wilson",
+          "https://en.wikipedia.org/wiki/Oliver_Gilbert"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mayonna Te Brown",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports President Trump's policies generally; no concrete scoreable positions found.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,428 @@
+[
+ {
+  "id": "VT-GOV/amanda-janoo",
+  "name": "Amanda Janoo",
+  "party": "Democratic",
+  "race": "VT-GOV",
+  "race_label": "Vermont · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 90,
+    "liberty": 10,
+    "security": 10,
+    "immigration": 25,
+    "foreign": null,
+    "energy": 80,
+    "tech": 95,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Platform: universal free primary care, taxes on top earners and digital ads, AI data center moratorium, Flock camera ban, rural school protection; reproductive freedom (liberty).",
+   "sources": [
+    "https://www.janooforvt.com/platform-page/",
+    "https://vtdigger.org/2026/08/11/amanda-janoo-wins-vermonts-democratic-governor-primary/"
+   ],
+   "photo": {
+    "file": "File:Amanda Janoo at candidate forum in May 2026 (cropped).png",
+    "license": "CC BY 4.0",
+    "author": "Town Meeting TV"
+   }
+  }
+ },
+ {
+  "id": "VT-GOV/phil-scott",
+  "name": "Phil Scott",
+  "party": "Republican",
+  "race": "VT-GOV",
+  "race_label": "Vermont · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 50,
+    "liberty": 30,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 35,
+    "tech": null,
+    "education": 40,
+    "faith": null
+   },
+   "basis": "Record: signed abortion-rights law and gun restrictions, let marijuana legalization pass (liberty); opposes new taxes and carbon tax; backed school choice within Act 46.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Phil_Scott"
+   ],
+   "photo": {
+    "file": "File:Phil Scott 2019 (cropped).jpg",
+    "license": "Public domain",
+    "author": "Master Sgt. Sarah Mattison, U.S. Air National Guard"
+   }
+  }
+ },
+ {
+  "id": "VA-SEN/bert-mizusawa",
+  "name": "Bert Mizusawa",
+  "party": "Republican",
+  "race": "VA-SEN",
+  "race_label": "Virginia · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 45,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign site: balance the budget, lower taxes including on home sales, ban congressional stock trading, new nuclear power, hold insurers accountable.",
+   "sources": [
+    "https://bertforsenate.com/issues"
+   ],
+   "photo": {
+    "file": "File:Mizusawa.jpg",
+    "license": "Public domain",
+    "author": "U.S. Army"
+   }
+  }
+ },
+ {
+  "id": "VA-SEN/mark-warner",
+  "name": "Mark Warner",
+  "party": "Democratic",
+  "race": "VA-SEN",
+  "race_label": "Virginia · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000805",
+   "official_name": "Mark R. Warner",
+   "chamber": "Senate",
+   "official_site": "https://www.warner.senate.gov",
+   "official_social": {
+    "twitter": "MarkWarner",
+    "facebook": "MarkRWarner",
+    "youtube": "SenatorMarkWarner",
+    "instagram": "senatorwarner"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 30,
+    "security": 75,
+    "immigration": 50,
+    "foreign": 85,
+    "energy": 80,
+    "tech": 60,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Votes for IRA, Ukraine aid, FISA 702 reauthorization, Laken Riley Act; against 2025 budget law; backs assault weapons ban, Virginia abortion-rights amendment (liberty), ACA.",
+   "sources": [
+    "https://www.markwarnerva.com/plan/",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"
+   ],
+   "photo": {
+    "file": "File:Mark Warner 2025.jpg",
+    "license": "Public domain",
+    "author": "Ryan Donnell"
+   }
+  }
+ },
+ {
+  "id": "WV-SEN/rachel-fetty-anderson",
+  "name": "Rachel Fetty Anderson",
+  "party": "Democratic",
+  "race": "WV-SEN",
+  "race_label": "West Virginia · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 90,
+    "liberty": 10,
+    "security": 15,
+    "immigration": null,
+    "foreign": 40,
+    "energy": 60,
+    "tech": 85,
+    "education": 65,
+    "faith": 15
+   },
+   "basis": "Campaign issues: Medicare and Medicaid for all, higher taxes above $500,000, marijuana decriminalization and reproductive autonomy (liberty), arms only for self-defense, data center limits.",
+   "sources": [
+    "https://www.fettyandersonforsenate.com/issues",
+    "https://www.fettyandersonforsenate.com/platform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WV-SEN/shelley-moore-capito",
+  "name": "Shelley Moore Capito",
+  "party": "Republican",
+  "race": "WV-SEN",
+  "race_label": "West Virginia · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001047",
+   "official_name": "Shelley Moore Capito",
+   "chamber": "Senate",
+   "official_site": "https://www.capito.senate.gov",
+   "official_social": {
+    "twitter": "SenCapito",
+    "facebook": "senshelley",
+    "instagram": "sencapito"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 20,
+    "liberty": 45,
+    "security": null,
+    "immigration": 75,
+    "foreign": 80,
+    "energy": 10,
+    "tech": 60,
+    "education": 25,
+    "faith": null
+   },
+   "basis": "Votes for Ukraine aid, KOSA, 2025 budget law; against IRA; Coal Caucus founder; liberty: Respect for Marriage Act, 2022 gun law, states may ban abortion.",
+   "sources": [
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1172/vote_117_2_00362.htm",
+    "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm",
+    "https://en.wikipedia.org/wiki/Shelley_Moore_Capito"
+   ],
+   "photo": {
+    "file": "File:Shelley Moore Capito official Senate photo.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "WI-GOV/david-crowley",
+  "name": "David Crowley",
+  "party": "Democratic",
+  "race": "WI-GOV",
+  "race_label": "Wisconsin · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": 10,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Plan and county record: abortion as health care (liberty), childcare subsidies, universal early childhood education, climate action plan cutting emissions, union jobs, affordable housing.",
+   "sources": [
+    "https://www.crowleyforwi.com/Plan",
+    "https://www.crowleyforwi.com/Record"
+   ],
+   "photo": {
+    "file": "File:Milwaukee County Executive David Crowley during Democratic Primary debate on July 28, 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "LaShawnda Jones"
+   }
+  }
+ },
+ {
+  "id": "WI-GOV/tom-tiffany",
+  "name": "Tom Tiffany",
+  "party": "Republican",
+  "race": "WI-GOV",
+  "race_label": "Wisconsin · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 50,
+    "security": 45,
+    "immigration": 90,
+    "foreign": 35,
+    "energy": 15,
+    "tech": 60,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Platform and House votes: 20-week abortion limit, medical marijuana, against 2022 gun law (liberty); income tax cut, welfare work requirements, sanctuary ban, against Ukraine aid.",
+   "sources": [
+    "https://tomtiffany.com/solutions/",
+    "https://clerk.house.gov/Votes/2024151",
+    "https://en.wikipedia.org/wiki/Tom_Tiffany"
+   ],
+   "photo": {
+    "file": "File:Tom Tiffany.jpg",
+    "license": "Public domain",
+    "author": "US House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "WY-SEN/james-w-byrd",
+  "name": "James W. Byrd",
+  "party": "Democratic",
+  "race": "WY-SEN",
+  "race_label": "Wyoming · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 25,
+    "energy": 30,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign site: responsible domestic energy production, cutting red tape, ending wasteful foreign wars, country-of-origin labeling, data centers paying fair share, keep public lands public.",
+   "sources": [
+    "https://byrdforsenate.com/blank",
+    "https://byrdforsenate.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WY-SEN/harriet-hageman",
+  "name": "Harriet Hageman",
+  "party": "Republican",
+  "race": "WY-SEN",
+  "race_label": "Wyoming · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "H001096",
+   "official_name": "Harriet M. Hageman",
+   "chamber": "House",
+   "official_site": "https://hageman.house.gov",
+   "official_social": {
+    "twitter": "RepHageman",
+    "youtube": "@rephageman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 60,
+    "security": 25,
+    "immigration": 85,
+    "foreign": 25,
+    "energy": 5,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "House votes: Born-Alive Act, women's sports bill, pistol-brace repeal (liberty); Secure the Border Act; against Ukraine aid and FISA reauthorization; pro-coal statements.",
+   "sources": [
+    "https://clerk.house.gov/Votes/202329",
+    "https://clerk.house.gov/Votes/2024119",
+    "https://en.wikipedia.org/wiki/Harriet_Hageman"
+   ],
+   "photo": {
+    "file": "File:Official-harriet-hageman-wy00.jpg",
+    "license": "Public domain",
+    "author": "US House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "WY-GOV/eric-barlow",
+  "name": "Eric Barlow",
+  "party": "Republican",
+  "race": "WY-GOV",
+  "race_label": "Wyoming · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": 50,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign positions: firmly pro-life, strengthened concealed carry and restored gun rights (liberty); cash-based budgeting, low fuel taxes; protect coal, oil, gas, uranium.",
+   "sources": [
+    "https://www.barlowforwyo.com/positions",
+    "https://cowboystatedaily.com/2026/08/18/eric-barlow-wins-wyoming-gop-nomination-for-governor/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WY-GOV/kenneth-casner",
+  "name": "Kenneth Casner",
+  "party": "Democratic",
+  "race": "WY-GOV",
+  "race_label": "Wyoming · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No public platform, voting record or issue statements found; all positions left unscored.",
+   "sources": [
+    "https://cowboystatedaily.com/2026/08/18/eric-barlow-wins-wyoming-gop-nomination-for-governor/"
+   ],
+   "photo": null
+  }
+ }
+]

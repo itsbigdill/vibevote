@@ -1,0 +1,447 @@
+[
+ {
+  "id": "AZ-7/adelita-grijalva",
+  "name": "Adelita Grijalva",
+  "party": "Democratic",
+  "race": "AZ-7",
+  "race_label": "Arizona · US House AZ-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000606",
+   "official_name": "Adelita S. Grijalva",
+   "chamber": "House",
+   "official_site": "https://grijalva.house.gov",
+   "official_social": {},
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 95,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 30,
+    "energy": null,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Cosponsors Medicare for All and the Block the Bombs Act; longtime public-school board advocate opposing Education Department cuts.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Adelita_Grijalva"
+   ],
+   "photo": {
+    "file": "File:Rep. Adelita Grijalva Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "Damien Salas, Office of the Clerk U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "AZ-7/daniel-butierez",
+  "name": "Daniel Butierez",
+  "party": "Republican",
+  "race": "AZ-7",
+  "race_label": "Arizona · US House AZ-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "photo": {
+    "file": "File:Daniel Butierez by Gage Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "AZ-8/abraham-hamadeh",
+  "name": "Abraham Hamadeh",
+  "party": "Republican",
+  "race": "AZ-8",
+  "race_label": "Arizona · US House AZ-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001098",
+   "official_name": "Abraham J. Hamadeh",
+   "chamber": "House",
+   "official_site": "https://hamadeh.house.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 65,
+    "security": null,
+    "immigration": 90,
+    "foreign": 70,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports finishing the border wall, ending catch and release; opposes Green New Deal; strong Israel backer; abortion stance drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Abraham_Hamadeh"
+   ],
+   "photo": {
+    "file": "File:Abraham Hamadeh 119th congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Office of Congressman Abraham Hamadeh"
+   }
+  }
+ },
+ {
+  "id": "AZ-8/bernadette-greene-placentia",
+  "name": "Bernadette Greene-Placentia",
+  "party": "Democratic",
+  "race": "AZ-8",
+  "race_label": "Arizona · US House AZ-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-9/paul-gosar",
+  "name": "Paul Gosar",
+  "party": "Republican",
+  "race": "AZ-9",
+  "race_label": "Arizona · US House AZ-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000565",
+   "official_name": "Paul A. Gosar",
+   "chamber": "House",
+   "official_site": "https://gosar.house.gov",
+   "official_social": {
+    "twitter": "RepGosar",
+    "facebook": "repgosar",
+    "youtube": "repgosar",
+    "instagram": "REPGOSAR"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 15,
+    "liberty": 75,
+    "security": null,
+    "immigration": 95,
+    "foreign": 15,
+    "energy": 5,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts, opposes Obamacare, anti-abortion and against Respect for Marriage Act, ending birthright citizenship, rein in wars, 3% LCV score.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Paul_Gosar"
+   ],
+   "photo": {
+    "file": "File:Paul Gosar 118th Congress portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "AZ-9/danielle-sterbinsky",
+  "name": "Danielle Sterbinsky",
+  "party": "Democratic",
+  "race": "AZ-9",
+  "race_label": "Arizona · US House AZ-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AR-1/rick-crawford",
+  "name": "Rick Crawford",
+  "party": "Republican",
+  "race": "AR-1",
+  "race_label": "Arkansas · US House AR-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001087",
+   "official_name": "Eric A. \"Rick\" Crawford",
+   "chamber": "House",
+   "official_site": "https://crawford.house.gov",
+   "official_social": {
+    "twitter": "RepRickCrawford",
+    "facebook": "RepRickCrawford",
+    "youtube": "RepRickCrawford",
+    "instagram": "reprickcrawford"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 80,
+    "security": 70,
+    "immigration": 80,
+    "foreign": 60,
+    "energy": 10,
+    "tech": 30,
+    "education": 20,
+    "faith": 85
+   },
+   "basis": "Voted for 2017 tax cuts; backs ACA repeal, welfare work requirements, abortion limits, school prayer, vouchers, PATRIOT Act; opposes climate taxes.",
+   "sources": [
+    "https://www.ontheissues.org/House/Rick_Crawford.htm",
+    "https://en.wikipedia.org/wiki/Rick_Crawford_(politician)"
+   ],
+   "photo": {
+    "file": "File:Crawford Rick 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AR-1/terri-yarbrough-green",
+  "name": "Terri Yarbrough Green",
+  "party": "Democratic",
+  "race": "AR-1",
+  "race_label": "Arkansas · US House AR-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign backs raising the minimum wage, challenging agricultural monopolies, affordable accessible healthcare and limiting dark money.",
+   "sources": [
+    "https://www.terrigreenforarkansas.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AR-1/steve-parsons",
+  "name": "Steve Parsons",
+  "party": "Libertarian",
+  "race": "AR-1",
+  "race_label": "Arkansas · US House AR-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AR-2/french-hill",
+  "name": "French Hill",
+  "party": "Republican",
+  "race": "AR-2",
+  "race_label": "Arkansas · US House AR-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001072",
+   "official_name": "J. French Hill",
+   "chamber": "House",
+   "official_site": "https://hill.house.gov",
+   "official_social": {
+    "twitter": "RepFrenchHill",
+    "facebook": "RepFrenchHill",
+    "instagram": "repfrenchhill"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 65,
+    "security": null,
+    "immigration": 65,
+    "foreign": 75,
+    "energy": 15,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts and ACA repeal; anti-abortion and pro-gun, reportedly backs same-sex marriage; supports vouchers, offshore drilling, Iran strikes.",
+   "sources": [
+    "https://www.ontheissues.org/House/French_Hill.htm",
+    "https://en.wikipedia.org/wiki/French_Hill_(politician)"
+   ],
+   "photo": {
+    "file": "File:Hill French 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AR-2/chris-jones",
+  "name": "Chris Jones",
+  "party": "Democratic",
+  "race": "AR-2",
+  "race_label": "Arkansas · US House AR-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 60,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 65,
+    "faith": null
+   },
+   "basis": "Campaign centers affordability and ethics; earlier 'PB&J' agenda prioritized preschool, broadband and jobs investment.",
+   "sources": [
+    "https://chrisjonesforcongress.com/priorities/",
+    "https://en.wikipedia.org/wiki/Chris_Jones_(Arkansas_politician)"
+   ],
+   "photo": {
+    "file": "File:Chris Jones, Arkansas gubernatorial candidate.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "BloodshotRollinRed"
+   }
+  }
+ },
+ {
+  "id": "AR-3/steve-womack",
+  "name": "Steve Womack",
+  "party": "Republican",
+  "race": "AR-3",
+  "race_label": "Arkansas · US House AR-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000809",
+   "official_name": "Steve Womack",
+   "chamber": "House",
+   "official_site": "https://womack.house.gov",
+   "official_social": {
+    "twitter": "Rep_SteveWomack",
+    "facebook": "RepSteveWomack",
+    "youtube": "CongressmanWomack",
+    "instagram": "rep_stevewomack"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 80,
+    "security": 70,
+    "immigration": 85,
+    "foreign": 55,
+    "energy": 10,
+    "tech": 30,
+    "education": 20,
+    "faith": 65
+   },
+   "basis": "Opposes tax increases and ACA; pro-life, anti-background-checks; backs border wall, vouchers, PATRIOT Act, religious exemptions; opposes climate taxes.",
+   "sources": [
+    "https://www.ontheissues.org/House/Steve_Womack.htm",
+    "https://en.wikipedia.org/wiki/Steve_Womack"
+   ],
+   "photo": {
+    "file": "File:Steve Womack 118thCongress.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ }
+]

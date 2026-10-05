@@ -1,0 +1,409 @@
+[
+ {
+  "id": "HI-2/jill-tokuda",
+  "name": "Jill Tokuda",
+  "party": "Democratic",
+  "race": "HI-2",
+  "race_label": "Hawaii · US House HI-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000487",
+   "official_name": "Jill N. Tokuda",
+   "chamber": "House",
+   "official_site": "https://tokuda.house.gov",
+   "official_social": {
+    "twitter": "RepJillTokuda",
+    "facebook": "RepJillTokuda",
+    "instagram": "repjilltokuda",
+    "youtube": "UCBXwZrEZWQiSXebInVuYuvw"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": 35,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Abortion-rights advocate; voted to direct withdrawal of US troops from Syria.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jill_Tokuda"
+   ],
+   "photo": {
+    "file": "File:Rep. Jill Tokuda official photo, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "HI-2/brenton-awa",
+  "name": "Brenton Awa",
+  "party": "Republican",
+  "race": "HI-2",
+  "race_label": "Hawaii · US House HI-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Housing platform: limit corporate investors, reclaim federal land, down payment assistance, tax parity for owner-occupants.",
+   "sources": [
+    "https://www.votebrentonawa.com/",
+    "https://en.wikipedia.org/wiki/Brenton_Awa"
+   ],
+   "photo": {
+    "file": "File:Senator Awa Visits Marine Corps Base Hawaii (8) (cropped).jpg",
+    "license": "Public domain",
+    "author": "Sgt. Julian Elliott-Drouin"
+   }
+  }
+ },
+ {
+  "id": "ID-1/russ-fulcher",
+  "name": "Russ Fulcher",
+  "party": "Republican",
+  "race": "ID-1",
+  "race_label": "Idaho · US House ID-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000469",
+   "official_name": "Russ Fulcher",
+   "chamber": "House",
+   "official_site": "https://fulcher.house.gov",
+   "official_social": {
+    "twitter": "RepRussFulcher",
+    "facebook": "RepRussFulcher",
+    "instagram": "RepRussFulcher",
+    "youtube": "UCx2AS0O5frzPB8D6TqJ3Mqg"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 55,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 30,
+    "tech": 55,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No tax on overtime and deeper spending cuts, ending abortion plus gun rights, border security, keep dams, voted for merger antitrust bill.",
+   "sources": [
+    "https://www.russfulcher.com/",
+    "https://en.wikipedia.org/wiki/Russ_Fulcher"
+   ],
+   "photo": {
+    "file": "File:Russ Fulcher, official portrait, 116th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "ID-1/kaylee-peterson",
+  "name": "Kaylee Peterson",
+  "party": "Democratic",
+  "race": "ID-1",
+  "race_label": "Idaho · US House ID-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 10,
+    "security": 25,
+    "immigration": 15,
+    "foreign": null,
+    "energy": 80,
+    "tech": 60,
+    "education": 95,
+    "faith": 20
+   },
+   "basis": "Tax corporations, single-payer healthcare, abortion and equal rights, opposes warrantless ICE arrests and mass deportation, renewables, bans vouchers.",
+   "sources": [
+    "https://kayleeforcongress.com/platform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-1/sarah-zabel",
+  "name": "Sarah Zabel",
+  "party": "Independent",
+  "race": "ID-1",
+  "race_label": "Idaho · US House ID-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": 35,
+    "liberty": null,
+    "security": 30,
+    "immigration": 35,
+    "foreign": 55,
+    "energy": null,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Free markets with monopoly breakups, means-tested Social Security fix, oversight of detention powers, needs-based legal immigration, burden-sharing allies, AI priorities.",
+   "sources": [
+    "https://zabelforcongress.com/"
+   ],
+   "photo": {
+    "file": "File:Maj. Gen. Sarah Zabel discusses the Air Force Journey to Agile Software Acquisition (cropped).jpg",
+    "license": "Public domain",
+    "author": "Todd Maki"
+   }
+  }
+ },
+ {
+  "id": "ID-1/brendan-gomez",
+  "name": "Brendan Gomez",
+  "party": "Constitution",
+  "race": "ID-1",
+  "race_label": "Idaho · US House ID-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-2/mike-simpson",
+  "name": "Mike Simpson",
+  "party": "Republican",
+  "race": "ID-2",
+  "race_label": "Idaho · US House ID-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001148",
+   "official_name": "Michael K. Simpson",
+   "chamber": "House",
+   "official_site": "https://simpson.house.gov",
+   "official_social": {
+    "twitter": "CongMikeSimpson",
+    "facebook": "96007744606",
+    "youtube": "CongMikeSimpson",
+    "instagram": "congressmanmikesimpson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 25,
+    "liberty": 50,
+    "security": null,
+    "immigration": 55,
+    "foreign": 70,
+    "energy": 55,
+    "tech": 60,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts, ACA repeal, anti-abortion but backed Respect for Marriage Act, farmworker legalization and wall, Ukraine aid, nuclear, antitrust.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Simpson",
+    "https://simpsonforcongress.com/"
+   ],
+   "photo": {
+    "file": "File:Mike simpson official portrait (cropped).jpg",
+    "license": "Public domain",
+    "author": "Mike Simpson U.S. House Office"
+   }
+  }
+ },
+ {
+  "id": "ID-2/elinor-gilbreath",
+  "name": "Elinor Gilbreath",
+  "party": "Democratic",
+  "race": "ID-2",
+  "race_label": "Idaho · US House ID-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign site blocked and no policy positions found in sources reviewed.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-2/will-johanson",
+  "name": "Will Johanson",
+  "party": "Libertarian",
+  "race": "ID-2",
+  "race_label": "Idaho · US House ID-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-2/carta-sierra",
+  "name": "Carta Sierra",
+  "party": "Constitution",
+  "race": "ID-2",
+  "race_label": "Idaho · US House ID-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-2/emre-houser",
+  "name": "Emre Houser",
+  "party": "Independent",
+  "race": "ID-2",
+  "race_label": "Idaho · US House ID-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "ID-2/tripp-hutchinson",
+  "name": "Tripp Hutchinson",
+  "party": "Independent",
+  "race": "ID-2",
+  "race_label": "Idaho · US House ID-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Idaho"
+   ],
+   "photo": null
+  }
+ }
+]

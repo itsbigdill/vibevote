@@ -1,0 +1,860 @@
+[
+ {
+  "id": "FL-4/todd-schaefer",
+  "name": "Todd Schaefer",
+  "party": "Independent",
+  "current_role": "Navy veteran",
+  "bio": "Todd Schaefer is an independent candidate for Florida's 4th Congressional District in 2026. He is described in election coverage as a Navy veteran.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Almost no public information found beyond the state candidate list and a one-line description on Wikipedia. Ballot label may appear as No Party Affiliation on Florida ballots."
+ },
+ {
+  "id": "FL-5/john-rutherford",
+  "name": "John Rutherford",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-5",
+  "bio": "John Rutherford has represented northeast Florida in the U.S. House since 2017 and sits on the Appropriations Committee. He spent about four decades with the Jacksonville Sheriff's Office, serving as the elected Sheriff of Jacksonville from 2003 to 2015. Born in Omaha, Nebraska, he grew up in Jacksonville and studied criminology at Florida State University.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepRutherfordFL",
+   "facebook": "https://www.facebook.com/RepRutherfordFL",
+   "instagram": "https://www.instagram.com/reprutherfordfl",
+   "youtube": "https://www.youtube.com/Reprutherfordfl"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Enforce existing immigration laws and back bills funding border walls and closing asylum loopholes.",
+    "source": "https://rutherford.house.gov/issues/immigration"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Push legislation for large tax cuts aimed at middle- and working-class Americans.",
+    "source": "https://rutherford.house.gov/issues/tax-cuts-working-americans"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Draw on his sheriff background to support policies protecting students, families and police officers.",
+    "source": "https://rutherford.house.gov/issues/judiciary"
+   },
+   {
+    "topic": "Military",
+    "point": "Support Northeast Florida's military installations as vital to national security.",
+    "source": "https://rutherford.house.gov/issues/defense"
+   },
+   {
+    "topic": "Environment",
+    "point": "Protect Florida's environment through measured regulation and oppose offshore drilling near Florida's coasts.",
+    "source": "https://rutherford.house.gov/issues/environment"
+   },
+   {
+    "topic": "Hurricanes",
+    "point": "Provide resources to help residents reduce hurricane damage to homes and families.",
+    "source": "https://rutherford.house.gov/issues/hurricane-preparedness"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Voted for the 2017 Tax Cuts and Jobs Act and the 2025 reconciliation tax bill.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Supported the 2017 effort to repeal the Affordable Care Act and voted for the 2025 reconciliation bill.",
+    "source": "https://en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Voted against the Equality Act in 2019 and 2021 and opposes abortion and marijuana legalization; backed a bump-stock ban.",
+    "source": "https://en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)"
+   },
+   "security": {
+    "score": 75,
+    "evidence": "Former sheriff who is skeptical of shorter sentences for nonviolent drug offenses and sponsored the STOP School Violence Act.",
+    "source": "https://en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Voted for the Laken Riley Act and backs the El Chapo Act to fund border walls.",
+    "source": "https://rutherford.house.gov/issues/immigration"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 40,
+    "evidence": "Voted to ban offshore drilling off Florida and other coasts while calling the Green New Deal a socialist manifesto.",
+    "source": "https://en.wikipedia.org/wiki/John_Rutherford_(Florida_politician)"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Campaign website not found."
+ },
+ {
+  "id": "FL-5/rachel-grage",
+  "name": "Rachel Grage",
+  "party": "Democratic",
+  "current_role": "Biomedical engineer",
+  "bio": "Rachel Grage is a biomedical engineer who researched cardiac therapies and treatments for children with cerebral palsy, with engineering degrees from Tulane University. She has served as an elected homeowners' association president and was the Democratic nominee for Florida House District 16 in 2024.",
+  "website": "https://www.rachelgrage.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/profile.php?id=61555168751860",
+   "instagram": "https://www.instagram.com/grageforflorida/",
+   "youtube": "https://youtube.com/@rachelgrageforflorida"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Keep health premiums and drug prices affordable, maintain federal cost-sharing aid and stabilize home insurance.",
+    "source": "https://www.rachelgrage.com/"
+   },
+   {
+    "topic": "Retirement",
+    "point": "Protect Medicare and Social Security benefits and secure their long-term solvency.",
+    "source": "https://www.rachelgrage.com/"
+   },
+   {
+    "topic": "Government accountability",
+    "point": "Increase campaign finance transparency and reduce the influence of big money in politics.",
+    "source": "https://www.rachelgrage.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure borders through efficient enforcement while keeping a humane system that respects due process.",
+    "source": "https://www.rachelgrage.com/"
+   },
+   {
+    "topic": "Individual rights",
+    "point": "Protect personal privacy, access to healthcare and equal treatment under the law.",
+    "source": "https://www.rachelgrage.com/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Defend coastal ecosystems, expand conservation funding and invest in disaster resilience.",
+    "source": "https://www.rachelgrage.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 65,
+    "evidence": "Pledges to maintain federal health cost-sharing supports, expand coverage and protect Medicare and Social Security.",
+    "source": "https://www.rachelgrage.com/"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Campaign site pledges to protect personal privacy, access to healthcare and equality under the law.",
+    "source": "https://www.rachelgrage.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 45,
+    "evidence": "Calls for secure borders through smart enforcement alongside a fair, humane system with due process.",
+    "source": "https://www.rachelgrage.com/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site does not clearly identify a standalone headshot image."
+ },
+ {
+  "id": "FL-6/randy-fine",
+  "name": "Randy Fine",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-6",
+  "bio": "Randy Fine has represented Florida's 6th District in the U.S. House since winning an April 2025 special election. He previously served in the Florida House from 2016 to 2024 and the Florida Senate from 2024 to 2025. Raised in Lexington, Kentucky, he holds degrees from Harvard and worked as a casino industry executive and consultant.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepFine",
+   "facebook": "https://www.facebook.com/CongressmanRandyFine",
+   "instagram": "https://www.instagram.com/repfine/",
+   "youtube": "https://www.youtube.com/@RepFine"
+  },
+  "platform": [
+   {
+    "topic": "Education",
+    "point": "Shrink the federal Department of Education's role, expand school choice and remove DEI programs.",
+    "source": "https://fine.house.gov/issues/issue/?IssueID=73"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue energy independence through domestic production and fewer federal regulations.",
+    "source": "https://fine.house.gov/issues/issue/?IssueID=10177"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Prioritize immigration enforcement and end benefits such as in-state tuition for people in the country illegally.",
+    "source": "https://en.wikipedia.org/wiki/Randy_Fine"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Back Israel strongly, including its strikes on Iran, and proposed legislation to acquire Greenland.",
+    "source": "https://en.wikipedia.org/wiki/Randy_Fine"
+   },
+   {
+    "topic": "Crime",
+    "point": "Support tougher criminal penalties and backing for law enforcement.",
+    "source": "https://fine.house.gov/issues/issue/?IssueID=14967"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation tax bill.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation bill that included Medicaid work requirements.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Backed limits on minors attending drag shows and Florida's Parental Rights in Education Act, while proposing campus concealed carry.",
+    "source": "https://en.wikipedia.org/wiki/Randy_Fine"
+   },
+   "security": {
+    "score": 80,
+    "evidence": "Co-sponsored Florida legislation imposing harsher penalties, including mandatory death sentences for certain crimes.",
+    "source": "https://en.wikipedia.org/wiki/Randy_Fine"
+   },
+   "immigration": {
+    "score": 90,
+    "evidence": "Voted for the Laken Riley Act and sought to end in-state tuition for undocumented students.",
+    "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Strongly supports Israel's military actions against Iran while criticising Ukraine's president and backing a negotiated end to the war.",
+    "source": "https://en.wikipedia.org/wiki/Randy_Fine"
+   },
+   "energy": {
+    "score": 15,
+    "evidence": "Official site prioritises domestic energy production and reduced regulation over climate policy.",
+    "source": "https://fine.house.gov/issues/issue/?IssueID=10177"
+   },
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Supports expanding taxpayer-funded school vouchers and reducing the federal Department of Education's role.",
+    "source": "https://fine.house.gov/issues/issue/?IssueID=73"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Energy score added from his official issues page. No active campaign website found."
+ },
+ {
+  "id": "FL-6/eric-yonce",
+  "name": "Eric Yonce",
+  "party": "Democratic",
+  "current_role": "Small-business owner",
+  "bio": "Eric Yonce was born in Florida and grew up in Citra, graduating from North Marion High School. He managed big-box retail stores in the district for more than twenty years and runs a small business renovating vintage Airstream trailers.",
+  "website": "https://yonceforcongress.com/",
+  "social": {
+   "x": "https://x.com/ericyonceforFL",
+   "facebook": "https://www.facebook.com/ericyonce.congress",
+   "instagram": "https://www.instagram.com/eric_yonce"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Expand affordable and workforce housing and stabilize insurance through resilience investment and federal reinsurance.",
+    "source": "https://yonceforcongress.com/"
+   },
+   {
+    "topic": "Workers",
+    "point": "Protect organizing rights, strengthen unions and add safeguards so AI and automation benefit workers.",
+    "source": "https://yonceforcongress.com/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Ask the wealthiest Americans to pay a fairer share and negotiate prescription drug prices.",
+    "source": "https://yonceforcongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Modernize border security, focus enforcement on public-safety threats and create pathways to citizenship.",
+    "source": "https://yonceforcongress.com/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Require safety training for new gun purchases and strengthen background checks.",
+    "source": "https://yonceforcongress.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Raise teacher pay, support special-needs students and expand vocational and STEM pathways.",
+    "source": "https://yonceforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Calls for higher contributions from the wealthiest, antitrust enforcement, action on price gouging and stronger unions.",
+    "source": "https://yonceforcongress.com/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Pledges to protect Social Security, negotiate drug prices and fund coordinated housing, food and health support for homelessness.",
+    "source": "https://yonceforcongress.com/"
+   },
+   "liberty": {
+    "score": 40,
+    "evidence": "Supports reproductive freedom and freedom from government-imposed religion, while backing gun safety training and background checks.",
+    "source": "https://yonceforcongress.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Backs pathways to citizenship and enforcement focused on public-safety threats, alongside modern border technology.",
+    "source": "https://yonceforcongress.com/"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Prioritizes diplomacy, less military intervention and conditioning foreign aid on human rights.",
+    "source": "https://yonceforcongress.com/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Seeks safeguards so AI and automation strengthen workers and supports antitrust enforcement.",
+    "source": "https://yonceforcongress.com/"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Wants well-funded public schools, higher teacher pay and support for special-needs students.",
+    "source": "https://yonceforcongress.com/"
+   },
+   "faith": {
+    "score": 25,
+    "evidence": "Pledges to defend religious freedom and freedom from government-imposed religion.",
+    "source": "https://yonceforcongress.com/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Wikipedia lists him as a realtor, while his campaign site describes retail management and a trailer-renovation business. Issue text is on the campaign site's Top Issues page."
+ },
+ {
+  "id": "FL-6/andrew-parrott",
+  "name": "Andrew Parrott",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Andrew Parrott is the Libertarian Party nominee for Florida's 6th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public policy statements found."
+ },
+ {
+  "id": "FL-7/ryan-elijah",
+  "name": "Ryan Elijah",
+  "party": "Republican",
+  "current_role": "Former television reporter",
+  "bio": "Ryan Elijah is a former reporter for Orlando's WOFL (Fox 35) who won the 2026 Republican primary in Florida's 7th District against incumbent Cory Mills. He previously ran for Congress in Indiana's 3rd District in 2010. He comes from a military family and is active in his church.",
+  "website": "https://elijahforcongress.com/",
+  "social": {
+   "x": "https://x.com/ryanelijah",
+   "facebook": "https://www.facebook.com/RyanElijahFL",
+   "instagram": "https://instagram.com/ryanelijahfl",
+   "tiktok": "https://www.tiktok.com/@ryan.elijah26"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Lower taxes, cut regulation and rein in government spending to encourage job creation.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Expand Health Savings Accounts and require price transparency from providers.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   {
+    "topic": "Education",
+    "point": "Support parental rights, school choice, local control and curriculum transparency.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   {
+    "topic": "Law enforcement",
+    "point": "Enhance penalties for assaulting officers and defend Second Amendment rights.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Strengthen border enforcement and back legislation requiring proof of citizenship to vote.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   {
+    "topic": "Military",
+    "point": "Maintain advanced military capabilities and comprehensive care for veterans.",
+    "source": "https://elijahforcongress.com/issues.html"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Backs lower taxes, less regulation and reduced federal spending.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Favors patient-centered options such as expanded Health Savings Accounts and price transparency.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Describes himself as pro-life (abortion) while holding an NRA A rating on gun rights.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   "security": {
+    "score": 70,
+    "evidence": "Supports enhanced penalties for assaulting law enforcement officers.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "Supports border enforcement and opposes measures that weaken it, and backs the SAVE Act.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 25,
+    "evidence": "Lists American energy independence among economic priorities.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Champions parental rights and school choice.",
+    "source": "https://elijahforcongress.com/issues.html"
+   },
+   "faith": {
+    "score": 65,
+    "evidence": "Campaigns on faith and family values, calling life a sacred gift from God.",
+    "source": "https://elijahforcongress.com/issues.html"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "https://elijahforcongress.com/assets/img/ryan-cutout.webp",
+  "notes": "Campaign photo URL is inferred from the image filename on the homepage."
+ },
+ {
+  "id": "FL-7/bale-dalton",
+  "name": "Bale Dalton",
+  "party": "Democratic",
+  "current_role": "Navy Reserve pilot and former NASA chief of staff",
+  "bio": "Bale Dalton served as NASA chief of staff from 2024 to 2025. He has spent more than 24 years as a Navy and Navy Reserve pilot, with deployments including Iraq and Afghanistan. He is campaigning in Central Florida's Volusia and Seminole counties.",
+  "website": "https://baledalton.com/",
+  "social": {
+   "x": "https://x.com/BaleDaltonFL",
+   "facebook": "https://www.facebook.com/profile.php?id=61583908350084",
+   "instagram": "https://www.instagram.com/baledalton/",
+   "youtube": "https://www.youtube.com/channel/UCngKoMHts5aftI3sqhC9yjA"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Reverse tariffs and premium hikes, raise the federal minimum wage and pass the PRO Act.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Strengthen the ACA, negotiate drug prices, protect Social Security and codify Roe into federal law.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Ban stock trading by members of Congress and prediction-market betting by federal officials.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Increase housing supply and bar Wall Street firms from buying single-family homes.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue an all-of-the-above energy policy while keeping offshore drilling away from Florida's coasts.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Fund law enforcement and support gun rights while keeping firearms from dangerous criminals.",
+    "source": "https://baledalton.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Supports a higher federal minimum wage, the PRO Act and a tax code that favors working families over the very wealthy.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Wants to restore Medicaid funding, strengthen the ACA and negotiate drug prices.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Supports codifying Roe (abortion) and calls gun ownership a fundamental right.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   "security": {
+    "score": 55,
+    "evidence": "Pledges adequate funding for law enforcement and keeping guns from dangerous criminals.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   "immigration": {
+    "score": 55,
+    "evidence": "Calls for robust border infrastructure that puts American interests first.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   "foreign": {
+    "score": 40,
+    "evidence": "Wants to avoid new Middle East wars and tie overseas spending to U.S. returns, while backing robust national security against China.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   "energy": {
+    "score": 45,
+    "evidence": "Backs an all-of-the-above energy policy including natural gas and solar, and opposes offshore drilling near Florida.",
+    "source": "https://baledalton.com/priorities/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Bale Dalton.webp",
+   "license": "Public domain",
+   "author": "NASA"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "FL-7/christopher-dennison",
+  "name": "Christopher Dennison",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Christopher Dennison is the Libertarian Party nominee for Florida's 7th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public policy statements found."
+ },
+ {
+  "id": "FL-8/mike-haridopolos",
+  "name": "Mike Haridopolos",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-8",
+  "bio": "Mike Haridopolos has represented Florida's Space Coast in the U.S. House since 2025 and chairs the Science Committee's Space and Aeronautics Subcommittee. He served in the Florida House from 2000 to 2003 and the Florida Senate from 2003 to 2012, including two years as Senate President. Born in Huntington, New York, he taught history and political science at Brevard Community College and the University of Florida and has worked as a consultant and lobbyist.",
+  "website": "https://www.mike4congress.com/",
+  "social": {
+   "x": "https://x.com/repharidopolos",
+   "facebook": "https://www.facebook.com/mikeharidopolos",
+   "instagram": "https://www.instagram.com/mikeharidopolos/"
+  },
+  "platform": [
+   {
+    "topic": "Ethics",
+    "point": "Ban stock trading by members of Congress and support congressional term limits.",
+    "source": "https://www.mike4congress.com/issues"
+   },
+   {
+    "topic": "Elections",
+    "point": "Back voter verification measures including the SAVE America Act.",
+    "source": "https://www.mike4congress.com/issues"
+   },
+   {
+    "topic": "Economy",
+    "point": "Cut burdensome regulations and support tax relief for families and small businesses.",
+    "source": "https://www.mike4congress.com/issues"
+   },
+   {
+    "topic": "Space",
+    "point": "Prioritize NASA funding and growth of the space industry for economic and national security.",
+    "source": "https://www.mike4congress.com/issues"
+   },
+   {
+    "topic": "Environment",
+    "point": "Continue securing federal funding for Indian River Lagoon restoration projects.",
+    "source": "https://www.mike4congress.com/issues"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Oppose single-payer healthcare and favor market-based competition.",
+    "source": "https://www.mike4congress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation tax bill and opposes burdensome regulation.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Opposes single-payer healthcare in favor of market competition and voted for the 2025 reconciliation bill.",
+    "source": "https://www.mike4congress.com/issues"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Campaigns on defending Second Amendment rights with an NRA A rating (guns).",
+    "source": "https://www.mike4congress.com/issues"
+   },
+   "security": {
+    "score": 55,
+    "evidence": "Pledges support for law enforcement while opposing politicised use of the justice system.",
+    "source": "https://www.mike4congress.com/issues"
+   },
+   "immigration": {
+    "score": 80,
+    "evidence": "Voted for the Laken Riley Act and supports border security and the SAVE America Act.",
+    "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "FL-8/jennifer-jenkins",
+  "name": "Jennifer Jenkins",
+  "party": "Democratic",
+  "current_role": "Former Brevard County School Board member",
+  "bio": "Jennifer Jenkins served on the Brevard County School Board after defeating an incumbent who co-founded Moms for Liberty. She briefly ran for U.S. Senate and in the 6th District this cycle before running in the 8th District.",
+  "website": "https://jenkinsforfl.com/",
+  "social": {
+   "x": "https://x.com/Jenkins4Florida",
+   "facebook": "https://www.facebook.com/JenniferJenkinsForFlorida",
+   "instagram": "https://www.instagram.com/jenniferjenkinsflorida"
+  },
+  "platform": [
+   {
+    "topic": "Insurance",
+    "point": "Stabilize Florida's property insurance market with federal reinsurance and catastrophe backstops.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Oppose tariffs that raise prices and favor tax policies aimed at working families.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Expand Medicaid, restore ACA subsidies and protect coverage for pre-existing conditions.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Fund first responders and pursue evidence-based strategies to cut violence and recidivism.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   },
+   {
+    "topic": "Education",
+    "point": "Protect the Department of Education, fully fund IDEA and expand Title I.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 80,
+    "evidence": "Wants Medicaid expansion, restored ACA subsidies and protected coverage for pre-existing conditions.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   },
+   "liberty": null,
+   "security": {
+    "score": 40,
+    "evidence": "Backs evidence-based public safety that treats civil liberties and safety as going together.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   },
+   "immigration": {
+    "score": 30,
+    "evidence": "Pledges to protect the constitutional rights of citizens and immigrants alike.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Pledges to protect the Department of Education, fully fund IDEA and expand Title I.",
+    "source": "https://jenkinsforfl.com/priorities/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Jennifer Jenkins.jpg",
+   "license": "Public domain",
+   "author": "Brevard Public Schools"
+  },
+  "campaign_photo": "",
+  "notes": "The Commons photo relies on Florida's public-records public-domain rule rather than a federal or Creative Commons licence."
+ },
+ {
+  "id": "FL-9/darren-soto",
+  "name": "Darren Soto",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for FL-9",
+  "bio": "Darren Soto has represented Central Florida in the U.S. House since 2017 and serves on the Energy and Commerce Committee. He previously served in the Florida House from 2007 to 2012 and the Florida Senate from 2012 to 2016. An attorney born in Ringwood, New Jersey, he studied at Rutgers University and George Washington University law school.",
+  "website": "https://www.darrensoto.com/",
+  "social": {
+   "x": "https://x.com/RepDarrenSoto",
+   "facebook": "https://www.facebook.com/CongressmanDarrenSoto",
+   "instagram": "https://www.instagram.com/RepDarrenSoto",
+   "youtube": "https://www.youtube.com/repdarrensoto"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Stop tariffs and other policies raising grocery, fuel and housing costs, and support local agriculture.",
+    "source": "https://www.darrensoto.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Block Medicaid and ACA cuts and protect Social Security and Medicare.",
+    "source": "https://www.darrensoto.com/"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Fight corruption in Washington.",
+    "source": "https://www.darrensoto.com/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Protect clean air, land and water and address climate change.",
+    "source": "https://www.darrensoto.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Support growers with disaster relief, citrus greening research and livestock disease prevention.",
+    "source": "https://soto.house.gov/issues/agriculture"
+   },
+   {
+    "topic": "Education",
+    "point": "Fund quality public K-12 schools and expand technical education pathways.",
+    "source": "https://soto.house.gov/issues/education"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Voted against the 2025 reconciliation tax bill and backs tax incentives for domestic medical manufacturing.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Campaigns to block Medicaid and ACA cuts and to increase healthcare access for all Americans.",
+    "source": "https://www.darrensoto.com/"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Supports universal background checks, an assault-weapons ban and red-flag laws (guns); other liberty issues not scored.",
+    "source": "https://en.wikipedia.org/wiki/Darren_Soto"
+   },
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Supports the DREAM Act and opposed the separation of migrant families at the border.",
+    "source": "https://en.wikipedia.org/wiki/Darren_Soto"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 85,
+    "evidence": "Earned a 100 score from the League of Conservation Voters and opposed offshore drilling expansion.",
+    "source": "https://en.wikipedia.org/wiki/Darren_Soto"
+   },
+   "tech": {
+    "score": 35,
+    "evidence": "Was among lawmakers who sought to curb SEC investigations into the cryptocurrency market.",
+    "source": "https://en.wikipedia.org/wiki/Darren_Soto"
+   },
+   "education": {
+    "score": 70,
+    "evidence": "Prioritizes federal funding for public K-12 schools while also supporting charter school facilities access.",
+    "source": "https://soto.house.gov/issues/education"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/59fb7374d0e628eae5d6dd07/b9cdafd9-b32e-4fa3-80a5-928ee9ee1b4e/DarrenSoto.JPG",
+  "notes": "Liberty score reflects gun policy evidence only. Education score added from his official issues page."
+ }
+]

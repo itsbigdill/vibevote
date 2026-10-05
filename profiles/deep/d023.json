@@ -1,0 +1,261 @@
+[
+ {
+  "id": "AR-3/bobby-wilson",
+  "name": "Bobby Wilson",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Bobby Wilson is the Libertarian Party nominee for Arkansas's 3rd Congressional District in 2026. His campaign site lists priorities including rolling back federal appliance efficiency rules, separating money and state, local control, using AI at the VA, nuclear power and public spending dashboards. Little other public biographical information is available.",
+  "website": "https://bobbyforcongress.mydurable.com",
+  "social": {
+   "facebook": "https://www.facebook.com/p/Bobby-Wilson-for-Congress-61561046185031/"
+  },
+  "platform": [
+   {"topic": "Regulation", "point": "Wants to end EPA efficiency rules he says make dishwashers and washing machines slower and more chemical-heavy.", "source": "https://bobbyforcongress.mydurable.com"},
+   {"topic": "Monetary policy", "point": "Supports separating money from the state.", "source": "https://bobbyforcongress.mydurable.com"},
+   {"topic": "Federalism", "point": "Favors local control, letting each state set its own course.", "source": "https://bobbyforcongress.mydurable.com"},
+   {"topic": "Veterans", "point": "Proposes using AI tools to help veterans navigate VA bureaucracy.", "source": "https://bobbyforcongress.mydurable.com"},
+   {"topic": "Energy", "point": "Backs nuclear power as a clean energy source to address a warming climate.", "source": "https://bobbyforcongress.mydurable.com"},
+   {"topic": "Government spending", "point": "Pledges data analytics and public dashboards showing how federal money is spent and saved.", "source": "https://bobbyforcongress.mydurable.com"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "General statements opposing EPA appliance efficiency rules and supporting a separation of money and state.", "source": "https://bobbyforcongress.mydurable.com"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 45, "evidence": "General, mixed statements: backs nuclear power as clean energy against warming while opposing EPA appliance efficiency rules.", "source": "https://bobbyforcongress.mydurable.com"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Reviewed the campaign site (single page) and the Libertarian Party of Arkansas candidate list; web search was unavailable and no news coverage, questionnaires or detailed issue pages were found. Positions on welfare, social issues, security, immigration, foreign policy, tech, education and faith remain unknown."
+ },
+ {
+  "id": "AZ-2/curtis-goodwin",
+  "name": "Curtis Goodwin",
+  "party": "Libertarian",
+  "current_role": "Maintenance technician",
+  "bio": "Curtis Goodwin is the Libertarian nominee for Arizona's 2nd Congressional District; he won the July 2026 Libertarian primary with 97 percent of the vote over a write-in candidate. He works as a maintenance technician and industrial painter and has not held public office.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked DecodeTheVote (no cited statements), the Arizona Libertarian Party site, Wikipedia's AZ-2 race page, iVoterGuide and likely campaign domains; the Arizona Secretary of State candidate list blocked access and no campaign site, questionnaire or interview was found. All ten topics remain unknown."
+ },
+ {
+  "id": "AZ-4/tisha-benoit",
+  "name": "Tisha Benoit",
+  "party": "No Labels",
+  "current_role": "Integrative medicine practitioner and small-business owner",
+  "bio": "Tisha Benoit is a Doctor of Chinese Medicine and small-business owner who was clinic supervisor at the Phoenix Institute of Herbal Medicine and Acupuncture from 2008 to 2019. Her campaign biography cites medical missions in India, water-well projects in Cambodia and support for women's shelters. She won the No Labels Party nomination for Arizona's 4th district in July 2026 and campaigns as an independent focused on balancing the federal budget.",
+  "website": "https://tishabenoit.com",
+  "social": {
+   "instagram": "https://www.instagram.com/tisha4congress/"
+  },
+  "platform": [
+   {"topic": "Budget", "point": "Wants a ten-year plan to balance the budget, with both spending cuts and new revenue considered, including defense.", "source": "https://tishabenoit.com"},
+   {"topic": "Social Security", "point": "Would protect Social Security and Medicare for current seniors while reforming the programs for future generations.", "source": "https://tishabenoit.com"},
+   {"topic": "Economy", "point": "Plans to cut unneeded regulations, pursue pro-growth tax policy, expand manufacturing and fight inflation.", "source": "https://tishabenoit.com/issues"},
+   {"topic": "Immigration", "point": "Supports secure border management and structured legal pathways, prioritizing removal of dangerous criminal offenders.", "source": "https://tishabenoit.com/issues"},
+   {"topic": "Ethics", "point": "Supports rules barring members of Congress from trading individual stocks.", "source": "https://tishabenoit.com/issues"},
+   {"topic": "Opioids and homelessness", "point": "Backs federal recovery-center grants, sober living and bridge housing before clearing encampments.", "source": "https://tishabenoit.com/issues"},
+   {"topic": "Data centers", "point": "Wants data centers held to standards on water and energy use, noise, emissions and placement away from homes and schools.", "source": "https://tishabenoit.com/issues"},
+   {"topic": "Education", "point": "Wants more federal vocational education grants, outcome-based school incentives and parental choice.", "source": "https://tishabenoit.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 35, "evidence": "Calls for regulatory cuts and pro-growth tax policy, while saying new revenue must be on the table to balance the budget.", "source": "https://tishabenoit.com"},
+   "welfare": {"score": 40, "evidence": "General statements: protect Social Security and Medicare for current seniors, reform them for the future and avoid unfunded new programs.", "source": "https://tishabenoit.com/budget-plan"},
+   "liberty": null,
+   "security": {"score": 55, "evidence": "General statement backing resources for law enforcement, balanced with transparency and oversight.", "source": "https://tishabenoit.com/issues"},
+   "immigration": {"score": 60, "evidence": "Backs border security and reversing open-border policies with removal of dangerous criminals first, plus structured legal pathways.", "source": "https://tishabenoit.com/issues"},
+   "foreign": null,
+   "energy": {"score": 35, "evidence": "Calls for fully developing domestic oil and natural gas and removing barriers, while also supporting renewable development.", "source": "https://tishabenoit.com/issues"},
+   "tech": {"score": 60, "evidence": "Wants data centers held to clear standards on water, energy, noise, emissions and siting, with more transparency before approval.", "source": "https://tishabenoit.com/issues"},
+   "education": {"score": 40, "evidence": "General statement favoring parental choice and outcome-based incentives alongside vocational grants and teacher support.", "source": "https://tishabenoit.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Reviewed the campaign home, issues and budget pages plus BallotReady; web search was unavailable, so news coverage of her reported law-enforcement and Second Amendment views was not verified. Positions on abortion, guns, foreign policy and faith remain unknown."
+ },
+ {
+  "id": "AZ-6/jereme-peters",
+  "name": "Jereme Peters",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Jereme Peters is the Libertarian nominee for Arizona's 6th Congressional District and was unopposed in the July 2026 Libertarian primary. He has not held public office, and little biographical information is public.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Government", "point": "Aims to reduce government overreach and promote personal freedoms.", "source": "https://www.decodethevote.com/candidate/sos-AZ-us-house-6-jereme-lance-peters"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked DecodeTheVote (all issues unclear), the Arizona Libertarian Party site, Wikipedia's AZ-6 race page and likely campaign domains; the Arizona Secretary of State candidate list blocked access. No campaign site, questionnaire or interview was found, so all ten topics remain unknown."
+ },
+ {
+  "id": "CO-1/critter-milton",
+  "name": "Critter Milton",
+  "party": "Unity",
+  "current_role": "",
+  "bio": "Christopher \"Critter\" Milton is the Unity Party candidate for Colorado's 1st Congressional District in 2026. According to the Unity Party, he is a former financial advisor and was the party's 2022 nominee for Colorado's 7th Congressional District.",
+  "website": "",
+  "social": {
+   "x": "https://www.twitter.com/CritterMilton",
+   "instagram": "https://www.instagram.com/crittermilton/"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Found his Unity Party candidate page (https://unityparty.us/candidates/critter-milton-candidate/) and a Colorado Politics race story, but neither states policy positions; his old campaign site crittermilton.com no longer loads and archived copies could not be fetched. All ten topics remain unknown."
+ },
+ {
+  "id": "CO-1/chad-humphrey",
+  "name": "Chad Humphrey",
+  "party": "Libertarian",
+  "current_role": "Tech entrepreneur and retired Marine officer",
+  "bio": "Chad Humphrey is the Libertarian nominee for Colorado's 1st Congressional District. His campaign describes him as a Denver-based entrepreneur and self-taught programmer who served 20 years in the Marine Corps, including in Iraq, and holds a finance and economics MBA from Pepperdine. He has not held public office.",
+  "website": "https://liberty4the1st.com",
+  "social": {
+   "x": "https://x.com/liberty4the1st"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Wants to abolish the IRS and the Federal Reserve and return money to taxpayers.", "source": "https://liberty4the1st.com/"},
+   {"topic": "Spending", "point": "Pledges not to vote for any bill that increases the deficit and to cut federal programs.", "source": "https://liberty4the1st.com/faq"},
+   {"topic": "Foreign policy", "point": "Opposes new wars and a world-police role, favoring a strong military used only when necessary.", "source": "https://liberty4the1st.com/faq"},
+   {"topic": "Drugs", "point": "Supports legal marijuana, saying adults should make their own decisions.", "source": "https://liberty4the1st.com/faq"},
+   {"topic": "Guns", "point": "Frames the Second Amendment as protecting the rights of a free people.", "source": "https://liberty4the1st.com/faq"},
+   {"topic": "Privacy", "point": "Lists protecting privacy and free speech among his top priorities.", "source": "https://liberty4the1st.com/faq"},
+   {"topic": "Immigration", "point": "Calls for securing the border, enforcing the law and fixing legal immigration.", "source": "https://liberty4the1st.com/faq"},
+   {"topic": "Government", "point": "Supports open-source government and returning power to the states.", "source": "https://liberty4the1st.com/faq"}
+  ],
+  "positions": {
+   "economy": {"score": 5, "evidence": "Calls for abolishing the IRS and the Federal Reserve and refusing any bill that grows the deficit.", "source": "https://liberty4the1st.com/faq"},
+   "welfare": {"score": 35, "evidence": "General statement that he wants to cut spending and delete unnecessary government programs.", "source": "https://liberty4the1st.com/faq"},
+   "liberty": {"score": 10, "evidence": "Supports legal marijuana, strong Second Amendment rights and broad free speech; no abortion or LGBTQ statement found.", "source": "https://liberty4the1st.com/faq"},
+   "security": {"score": 25, "evidence": "Lists protecting privacy as a top priority and says government should stay out of people's phones and bank accounts.", "source": "https://liberty4the1st.com/"},
+   "immigration": {"score": 55, "evidence": "General statement: secure the border, enforce the law and fix legal immigration.", "source": "https://liberty4the1st.com/faq"},
+   "foreign": {"score": 20, "evidence": "Opposes new wars and a world-police role, while wanting the strongest military for use only when necessary.", "source": "https://liberty4the1st.com/faq"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://cdn.watchkeeperholdings.com/Chad%20Humphrey.jpg",
+  "notes": "Found his campaign site via the Libertarian Party of Colorado candidate list and reviewed its home and FAQ pages; no news coverage or questionnaires were found. Positions on energy, tech, education and faith remain unknown."
+ },
+ {
+  "id": "CO-1/shimon-blau",
+  "name": "Shimon Blau",
+  "party": "Independent",
+  "current_role": "Physician (interventional spine and pain management)",
+  "bio": "Shimon Blau is a Denver-born, board-certified physician specializing in interventional spine and pain management and a small-business owner. He qualified in July 2026 as an unaffiliated candidate for Colorado's 1st Congressional District, rejects PAC contributions, and says he would caucus with Democrats and back Hakeem Jeffries for Speaker. Colorado Politics reported he describes himself as socially left-leaning and fiscally right-leaning.",
+  "website": "https://blauforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/blauforcongress/",
+   "facebook": "https://www.facebook.com/blauforcongress/"
+  },
+  "platform": [
+   {"topic": "Abortion", "point": "Supports a woman's right to make her own healthcare decisions without government interference.", "source": "https://blauforcongress.com"},
+   {"topic": "Marriage", "point": "Supports the freedom of consenting adults to marry the person they love.", "source": "https://blauforcongress.com"},
+   {"topic": "Health care", "point": "Wants health care to be more affordable and accessible for every family.", "source": "https://blauforcongress.com"},
+   {"topic": "Immigration", "point": "Calls for securing borders while building a faster, more efficient legal immigration system.", "source": "https://blauforcongress.com"},
+   {"topic": "Childcare", "point": "Supports better childcare options for working families.", "source": "https://blauforcongress.com"},
+   {"topic": "Small business", "point": "Wants a stronger environment for small businesses to invest and create good-paying jobs.", "source": "https://blauforcongress.com"},
+   {"topic": "Campaign finance", "point": "Refuses contributions from PACs and special interest groups.", "source": "https://blauforcongress.com"},
+   {"topic": "Congress", "point": "Would caucus with Democrats and support Hakeem Jeffries for Speaker as a check on the Trump administration.", "source": "https://blauforcongress.com"}
+  ],
+  "positions": {
+   "economy": {"score": 40, "evidence": "General: describes himself as fiscally right-leaning and stresses small-business growth and regulatory burdens.", "source": "https://www.coloradopolitics.com/2026/07/24/surprise-candidate-shimon-blau-cleared-to-face-off-against-melat-kiros-in-november/"},
+   "welfare": {"score": 55, "evidence": "General statements calling for affordable, accessible health care and better childcare options.", "source": "https://blauforcongress.com"},
+   "liberty": {"score": 20, "evidence": "Supports abortion rights and same-sex marriage, opposing government interference; no statements found on guns, drugs or speech.", "source": "https://blauforcongress.com"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "General statement: secure the borders while building a faster, more efficient legal immigration system.", "source": "https://blauforcongress.com"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://blauforcongress.com/__l5e/assets-v1/5ba843a0-7b23-4bf6-bcbe-150ab2a6a596/shimon-portrait-2026.jpg",
+  "notes": "Reviewed his campaign site (about, priorities, FAQ, press) and Colorado Politics; Denverite, Axios, CPR and Colorado Sun interviews were blocked or rate-limited. Reporting says criticism of Israel-related rhetoric motivated his run, but no specific foreign-policy stance was found, and security, energy, tech, education and faith remain unknown."
+ },
+ {
+  "id": "CO-2/gaylon-kent",
+  "name": "Gaylon Kent",
+  "party": "Libertarian",
+  "current_role": "Writer and humorist",
+  "bio": "Gaylon Kent is the Libertarian nominee for Colorado's 2nd Congressional District, campaigning as a peace candidate. He writes a daily column and books on his personal website and runs a self-help project called The Life 101 Project, and he says he has run for office before.",
+  "website": "https://thefreedomtrain.com",
+  "social": {
+   "facebook": "https://www.facebook.com/GaylonKentForCongress"
+  },
+  "platform": [
+   {"topic": "Foreign policy", "point": "Wants an America at peace that stops interfering in other nations' affairs and fights only congressionally declared wars.", "source": "https://www.gaylonkent.net/the-daily-dose-2/2026-the-daily-dose-2/the-daily-dose-tuesday-september-15-2026/"},
+   {"topic": "Iran", "point": "Calls the US war with Iran illegal and immoral.", "source": "https://thefreedomtrain.com/"},
+   {"topic": "Taxes", "point": "Supports a flat tax with a one-page income tax return.", "source": "https://thefreedomtrain.com/"},
+   {"topic": "Economy", "point": "Favors low taxes and free markets and opposes tariffs.", "source": "https://www.gaylonkent.net/the-daily-dose-2/2026-the-daily-dose-2/the-daily-dose-tuesday-september-15-2026/"},
+   {"topic": "Criminal justice", "point": "Wants to abolish the death penalty, citing executions of innocent people.", "source": "https://thefreedomtrain.com/"},
+   {"topic": "Abortion", "point": "Says government should stay out of the abortion debate.", "source": "https://thefreedomtrain.com/"},
+   {"topic": "Drugs", "point": "Supports decriminalizing drugs.", "source": "https://thefreedomtrain.com/"},
+   {"topic": "Health care", "point": "Wants doctors and health insurers returned to the free market.", "source": "https://thefreedomtrain.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Backs a flat tax, low taxes and free markets, and opposes tariffs.", "source": "https://thefreedomtrain.com/"},
+   "welfare": {"score": 20, "evidence": "Wants doctors and health insurers returned to the free market.", "source": "https://thefreedomtrain.com/"},
+   "liberty": {"score": 10, "evidence": "Says government should stay out of abortion decisions and supports decriminalizing drugs; no statements found on guns, LGBTQ rights or speech.", "source": "https://thefreedomtrain.com/"},
+   "security": {"score": 15, "evidence": "Criticizes post-9/11 warrantless surveillance powers and indefinite detention as eroding civil liberties.", "source": "https://www.gaylonkent.net/the-daily-dose-2/2026-the-daily-dose-2/the-daily-dose-saturday-september/"},
+   "immigration": null,
+   "foreign": {"score": 5, "evidence": "Opposes the Iran war and perpetual war, and says the US should stop interfering in other nations and fight only declared wars.", "source": "https://www.gaylonkent.net/the-daily-dose-2/2026-the-daily-dose-2/the-daily-dose-tuesday-september-15-2026/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Found his campaign site via the Libertarian Party of Colorado candidate list and reviewed it along with his September 2026 columns on gaylonkent.net; no news coverage or questionnaires were found. Positions on immigration, energy, tech, education and faith remain unknown."
+ }
+]

@@ -1,0 +1,413 @@
+[
+ {
+  "id": "PA-GOV/josh-shapiro",
+  "name": "Josh Shapiro",
+  "party": "Democratic",
+  "current_role": "Governor of Pennsylvania",
+  "bio": "Josh Shapiro has been Governor of Pennsylvania since January 2023 and is seeking a second term. He was previously Pennsylvania Attorney General (2017-2023), chair of the Montgomery County Board of Commissioners and a member of the state House (2005-2012). Raised in Montgomery County, he earlier worked as a congressional staffer and a corporate lawyer.",
+  "website": "https://joshshapiro.org",
+  "social": {
+   "x": "https://x.com/joshshapiropa",
+   "instagram": "https://www.instagram.com/joshshapiropa/",
+   "facebook": "https://www.facebook.com/JoshShapiroPA/",
+   "youtube": "https://www.youtube.com/channel/UC_6gZyhRgtaQoBW7_JRcPIA"
+  },
+  "platform": [
+   {"topic": "Wages", "point": "Has pushed to raise Pennsylvania's minimum wage above the federal $7.25 level.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"},
+   {"topic": "Marijuana", "point": "Includes legalizing recreational marijuana in budget proposals, with revenue aimed at health care and education.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"},
+   {"topic": "Energy", "point": "Takes an all-of-the-above approach combining clean energy with oil and gas, including federal hydrogen hub funding.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"},
+   {"topic": "Education", "point": "Prioritizes increasing funding for public schools.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"},
+   {"topic": "Abortion", "point": "Pledges to keep abortion legal and to veto bills restricting access.", "source": "https://en.wikipedia.org/wiki/Josh_Shapiro"},
+   {"topic": "Data centers", "point": "Has adopted stricter environmental and transparency standards for data center development.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Supports a $15 minimum wage while also proposing to cut the corporate net income tax from 8.99% to 4.99%.", "source": "https://en.wikipedia.org/wiki/Josh_Shapiro"},
+   "welfare": null,
+   "liberty": {"score": 25, "evidence": "Supports abortion access, recreational marijuana legalization and LGBTQ rights, while seeking stricter gun laws.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"},
+   "security": {"score": 65, "evidence": "Supports hiring 2,000 additional police officers alongside police reform.", "source": "https://en.wikipedia.org/wiki/Josh_Shapiro"},
+   "immigration": {"score": 35, "evidence": "Declined to send the National Guard to the southern border and has criticized ICE tactics.", "source": "https://en.wikipedia.org/wiki/Josh_Shapiro"},
+   "foreign": {"score": 55, "evidence": "Strong supporter of Israel and opponent of the BDS movement, while criticizing Netanyahu's leadership.", "source": "https://en.wikipedia.org/wiki/Josh_Shapiro"},
+   "energy": {"score": 55, "evidence": "Backs an all-of-the-above energy policy mixing clean energy with oil and gas, and rolled back his predecessor's carbon emissions program.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"},
+   "tech": {"score": 55, "evidence": "Tightened environmental and transparency standards for data centers after initially courting Amazon's investment.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"},
+   "education": {"score": 50, "evidence": "Prioritizes public school funding but has also supported the Lifeline Scholarship voucher program.", "source": "https://en.wikipedia.org/wiki/Josh_Shapiro"},
+   "faith": null
+  },
+  "photo": {"file": "File:Gov. Shapiro.jpg", "license": "CC BY 2.0", "author": "Maryland GovPics"},
+  "campaign_photo": "https://joshshapiro.org/wp-content/uploads/2026/01/f60b0fa4355657a9cc9dc1fb37e23a541bf8325d.jpg",
+  "notes": "The Commons photo is a crop from a 2023 Maryland Preakness event photo used as his Wikipedia infobox image."
+ },
+ {
+  "id": "PA-GOV/stacy-garrity",
+  "name": "Stacy Garrity",
+  "party": "Republican",
+  "current_role": "Pennsylvania State Treasurer",
+  "bio": "Stacy Garrity has served as Pennsylvania State Treasurer since January 2021 and won the 2026 Republican nomination for governor unopposed. She served 30 years in the U.S. Army Reserve, retiring as a colonel after three deployments, and worked for decades at Global Tungsten & Powders, rising to vice president for government affairs. She is from Bradford County.",
+  "website": "https://garrityforpa.com",
+  "social": {
+   "x": "https://x.com/GarrityForPA",
+   "instagram": "https://www.instagram.com/stacyforpa/",
+   "facebook": "https://www.facebook.com/GarrityForPA"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Lift limits on new drilling sites and speed permits for gas wells, pipelines and power plants.", "source": "https://garrityforpa.com/turnaroundpa/"},
+   {"topic": "Utility costs", "point": "Eliminate the gross receipts tax on utilities and lower utility bills through more energy infrastructure.", "source": "https://garrityforpa.com/turnaroundpa/"},
+   {"topic": "Property taxes", "point": "Cut the property tax burden by one-third within two years and help first-time homebuyers with mortgage interest.", "source": "https://garrityforpa.com/turnaroundpa/"},
+   {"topic": "Education", "point": "Redirect education spending toward scholarships and parental choice programs.", "source": "https://garrityforpa.com/turnaroundpa/"},
+   {"topic": "Elections", "point": "Require voter identification.", "source": "https://garrityforpa.com/turnaroundpa/"},
+   {"topic": "Government spending", "point": "Conduct comprehensive audits to root out fraud and waste.", "source": "https://garrityforpa.com/turnaroundpa/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Proposes cutting taxes, including eliminating the utility gross receipts tax, and reducing property taxes by redirecting spending.", "source": "https://garrityforpa.com/turnaroundpa/"},
+   "welfare": {"score": 25, "evidence": "Publicly supported the 2025 federal budget law that reduced SNAP and Medicaid spending.", "source": "https://en.wikipedia.org/wiki/Stacy_Garrity"},
+   "liberty": {"score": 75, "evidence": "Pro-life with exceptions for rape, incest and the mother's life; would veto marijuana legalization; opposes transgender girls in girls' sports.", "source": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 5, "evidence": "Would lift the ban on new drilling sites and fast-track permits for gas production, pipelines and power plants.", "source": "https://garrityforpa.com/turnaroundpa/"},
+   "tech": null,
+   "education": {"score": 10, "evidence": "Proposes redirecting education spending toward scholarships and parental choice programs.", "source": "https://garrityforpa.com/turnaroundpa/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://garrityforpa.com/wp-content/uploads/2026/05/Mask-group-1.png",
+  "notes": "The Wikipedia infobox photo was not used because it comes from a senator's X post with no named photographer."
+ },
+ {
+  "id": "RI-SEN/jack-reed",
+  "name": "Jack Reed",
+  "party": "Democratic",
+  "current_role": "U.S. Senator from Rhode Island",
+  "bio": "Jack Reed has represented Rhode Island in the U.S. Senate since 1997 and is the ranking member of the Armed Services Committee, which he chaired from 2021 to 2025. He previously served in the U.S. House (1991-1997) and the Rhode Island Senate. A Providence native and West Point graduate, he served as an Army officer in the 82nd Airborne Division and later practiced law.",
+  "website": "https://jackreed.com",
+  "social": {
+   "x": "https://x.com/SenJackReed",
+   "facebook": "https://www.facebook.com/SenJackReed",
+   "youtube": "https://www.youtube.com/user/SenatorReed"
+  },
+  "platform": [
+   {"topic": "Education", "point": "Expand and permanently protect Pell Grants and defend federal funding for literacy and school libraries.", "source": "https://www.reed.senate.gov/issues/education"},
+   {"topic": "Energy", "point": "Invest in clean energy while pursuing energy independence.", "source": "https://www.reed.senate.gov/issues/energy"},
+   {"topic": "Health care", "point": "Lower health costs through Medicare drug price negotiation and a public Medicare option.", "source": "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)"},
+   {"topic": "Defense", "point": "Strengthen the military and Rhode Island's role in national defense.", "source": "https://www.reed.senate.gov/issues/defense-and-foreign-affairs"},
+   {"topic": "Housing", "point": "Support affordable housing and community development.", "source": "https://www.reed.senate.gov/issues/housing"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Supports minimum wage increases and unions, and voted against several free-trade agreements.", "source": "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)"},
+   "welfare": {"score": 65, "evidence": "Proposed the Choose Medicare Act and supports drug price negotiation, but does not back Medicare for All.", "source": "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)"},
+   "liberty": {"score": 35, "evidence": "Supports abortion rights, same-sex marriage and LGBTQ protections, alongside a national assault weapons ban.", "source": "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)"},
+   "security": {"score": 65, "evidence": "Voted for the 2024 reauthorization of FISA Section 702 surveillance authority.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00150.htm"},
+   "immigration": {"score": 20, "evidence": "Co-sponsored the DREAM Act and supports a path to citizenship and guest worker programs.", "source": "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)"},
+   "foreign": {"score": 80, "evidence": "Voted for the 2024 foreign aid package for Ukraine, Israel and Taiwan.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 80, "evidence": "Opposes Arctic drilling and oil subsidies and supports clean energy investment.", "source": "https://www.reed.senate.gov/issues/energy"},
+   "tech": {"score": 80, "evidence": "Co-proposed a 2024 framework to mitigate extreme risks from advanced AI.", "source": "https://en.wikipedia.org/wiki/Jack_Reed_(Rhode_Island_politician)"},
+   "education": {"score": 75, "evidence": "Defends federal funding for literacy and school libraries and introduced legislation to expand Pell Grants.", "source": "https://www.reed.senate.gov/issues/education"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Education score added from his official issues page; no stated position on school vouchers was found."
+ },
+ {
+  "id": "RI-SEN/raymond-mckay",
+  "name": "Raymond McKay",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Raymond (Ray) McKay is the Republican nominee for U.S. Senate in Rhode Island in 2026. A Providence native, he lives in Warwick.",
+  "website": "https://www.mckayforussenate.com",
+  "social": {
+   "x": "https://x.com/McKay_Senate",
+   "instagram": "https://www.instagram.com/mckay_senate",
+   "facebook": "https://www.facebook.com/mckayforsenate"
+  },
+  "platform": [
+   {"topic": "Budget", "point": "Cut wasteful federal spending, reduce deficits and balance the budget.", "source": "https://www.mckayforussenate.com/right-direction/"},
+   {"topic": "Social Security and Medicare", "point": "Stop fraud in Social Security and Medicare and prosecute those who steal from taxpayers.", "source": "https://www.mckayforussenate.com/right-direction/"},
+   {"topic": "Energy", "point": "Pursue energy independence and support nuclear and fossil fuel industries to lower electric bills.", "source": "https://www.mckayforussenate.com/right-direction/"},
+   {"topic": "Immigration", "point": "Secure the border and adopt enforcement policies that put Americans first.", "source": "https://www.mckayforussenate.com/right-direction/"},
+   {"topic": "Civil liberties", "point": "Repeal laws he sees as limiting personal and parental freedoms and protect free markets.", "source": "https://www.mckayforussenate.com/right-direction/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for balancing the budget, cutting spending and protecting free markets.", "source": "https://www.mckayforussenate.com/right-direction/"},
+   "welfare": {"score": 30, "evidence": "Focuses on cutting waste and fraud in Social Security and Medicare.", "source": "https://www.mckayforussenate.com/right-direction/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 70, "evidence": "Calls for secure borders and enforcement policies prioritizing American interests.", "source": "https://www.mckayforussenate.com/right-direction/"},
+   "foreign": null,
+   "energy": {"score": 20, "evidence": "Backs the long-term strength of nuclear and fossil fuel industries and criticizes current clean-energy policy as premature.", "source": "https://www.mckayforussenate.com/right-direction/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.mckayforussenate.com/wp-content/uploads/2024/03/CzRSQw74Avh6oCI7hGf-0algtz7iBYgXUfkkrpviPsOKfUMK2htEpSV3obQHsiCFXbpyMI1xf_7I1y9d9sEgcHYw16383.jpg",
+  "notes": "No verified information on his career or prior offices was found; Ballotpedia returned no content."
+ },
+ {
+  "id": "RI-GOV/helena-foulkes",
+  "name": "Helena Foulkes",
+  "party": "Democratic",
+  "current_role": "Former CEO of Hudson's Bay Company",
+  "bio": "Helena Foulkes won the 2026 Democratic nomination for Governor of Rhode Island, defeating incumbent Dan McKee after narrowly losing to him in 2022. She spent over 25 years at CVS Health, rising to president of CVS Pharmacy, and was CEO of Hudson's Bay Company from 2018 to 2020. She was born in Providence.",
+  "website": "https://helenafoulkes.com",
+  "social": {
+   "x": "https://x.com/HelenaBFoulkes",
+   "instagram": "https://www.instagram.com/helenabfoulkes/",
+   "facebook": "https://www.facebook.com/helena4RI"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Add a 3% tax bracket on income over $1 million to fund a housing construction program.", "source": "https://helenafoulkes.com/rhodehome"},
+   {"topic": "Energy", "point": "Audit Rhode Island Energy, speed grid connections for renewables and put solar on 250 public buildings.", "source": "https://helenafoulkes.com/nofalsechoices"},
+   {"topic": "Data centers", "point": "Require large energy users such as data centers to pay their own way so households avoid higher bills.", "source": "https://helenafoulkes.com/nofalsechoices"},
+   {"topic": "Childcare", "point": "Create an employer-matched childcare fund, expand childcare tax credits and ensure pre-K access for every family.", "source": "https://helenafoulkes.com/wp-content/uploads/2026/05/Childcare-Transportation.pdf"},
+   {"topic": "Health care", "point": "Address primary care shortages through payment reform and a proposed URI medical school.", "source": "https://helenafoulkes.com/wp-content/uploads/2026/07/Reimagining-Rhode-Island-Healthcare.pdf"},
+   {"topic": "Workforce", "point": "Invest $100 million in career and technical education.", "source": "https://helenafoulkes.com/plans/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Proposes a millionaire's tax, an added 3% bracket on income over $1 million, to finance housing.", "source": "https://helenafoulkes.com/rhodehome"},
+   "welfare": {"score": 75, "evidence": "Pledges pre-K access for every family and expanded state childcare assistance.", "source": "https://helenafoulkes.com/wp-content/uploads/2026/05/Childcare-Transportation.pdf"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Criticizes efforts to end Temporary Protected Status and visa barriers, calling for protection of immigrant health workers.", "source": "https://helenafoulkes.com/wp-content/uploads/2026/07/Reimagining-Rhode-Island-Healthcare.pdf"},
+   "foreign": null,
+   "energy": {"score": 85, "evidence": "Plans to expand solar, batteries and wind, and opposes rolling back the state's Renewable Energy Standard.", "source": "https://helenafoulkes.com/nofalsechoices"},
+   "tech": {"score": 60, "evidence": "Wants rules requiring large energy users such as data centers to cover their own power costs.", "source": "https://helenafoulkes.com/nofalsechoices"},
+   "education": {"score": 70, "evidence": "Proposes universal pre-K access and a $100 million career and technical education plan.", "source": "https://helenafoulkes.com/wp-content/uploads/2026/05/Childcare-Transportation.pdf"},
+   "faith": null
+  },
+  "photo": {"file": "File:HelenaFoulkes CROP.jpg", "license": "CC BY 2.0", "author": "Pablo Corradi/DigitasLBi"},
+  "campaign_photo": "https://helenafoulkes.com/wp-content/uploads/2025/09/Helena-Candid-1.webp",
+  "notes": "Her campaign also uses her middle name, Buonanno; confirm the ballot form of her name against the certified ballot."
+ },
+ {
+  "id": "RI-GOV/aaron-guckian",
+  "name": "Aaron Guckian",
+  "party": "Republican",
+  "current_role": "Former executive director of the Rhode Island Dental Association",
+  "bio": "Aaron Guckian narrowly leads Elaine Pelino in the 2026 Republican primary for Governor of Rhode Island, with a recount pending, and was endorsed by the state Republican Party. He previously served as director of advance for Governor Donald Carcieri, worked as a development officer at the Rhode Island Foundation and led the Rhode Island Dental Association until November 2025.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "He describes himself as a compassionate conservative, but no specific policy positions or campaign website could be verified. The Republican nomination is subject to a pending recount."
+ },
+ {
+  "id": "RI-GOV/elaine-pelino",
+  "name": "Elaine Pelino",
+  "party": "Republican",
+  "current_role": "Magazine publisher and former entertainer",
+  "bio": "Elaine Pelino is a candidate for Governor of Rhode Island who trails Aaron Guckian by a narrow margin in the 2026 Republican primary, with a recount pending. A former model, actress and Houston Oilers cheerleader, she publishes Tigress Magazine and is aligned with President Trump.",
+  "website": "https://www.elainepelino4governor.com",
+  "social": {
+   "instagram": "https://www.instagram.com/elaine.pelino",
+   "facebook": "https://www.facebook.com/elaine.pelino"
+  },
+  "platform": [
+   {"topic": "Accountability", "point": "Create a Governor's Office of Accountability to audit spending, and back an independent inspector general.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   {"topic": "Public safety", "point": "Give law enforcement resources to fight violent and gang-related crime.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   {"topic": "Immigration", "point": "Cooperate with federal authorities to remove undocumented people convicted of serious crimes.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   {"topic": "Economy", "point": "Press the General Assembly to lower costs and reduce regulation to support business growth.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   {"topic": "Education", "point": "Expand school choice and access to trade and technical programs.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   {"topic": "Guns", "point": "Preserve Second Amendment rights while supporting responsible gun ownership.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Pledges to lower costs and reduce regulation to support business growth.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   "welfare": null,
+   "liberty": {"score": 25, "evidence": "Based on guns only: pledges to preserve Second Amendment rights.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   "security": {"score": 70, "evidence": "Promises more law-enforcement resources against violent and gang-related crime.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   "immigration": {"score": 60, "evidence": "Would work with federal authorities to remove undocumented people convicted of serious crimes and prioritize resources for residents.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 25, "evidence": "Supports education reform that expands school choice.", "source": "https://www.elainepelino4governor.com/my-plan-rhode-island"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/563b45_e75d1985e9894cd8bceccc29529548f4~mv2.png",
+  "notes": "Her place on the general-election ballot depends on the pending Republican primary recount."
+ },
+ {
+  "id": "RI-GOV/ken-block",
+  "name": "Ken Block",
+  "party": "Independent",
+  "current_role": "Software engineer and businessman",
+  "bio": "Ken Block is running for Governor of Rhode Island as an independent in 2026, his third bid for the office. He founded the Moderate Party of Rhode Island and was its 2010 nominee, then lost the 2014 Republican primary. A software engineer with a Dartmouth computer science degree, he founded companies that analyze government waste and fraud; he was born in Milford, Connecticut, and lives in Barrington.",
+  "website": "https://blockforgovernor.com",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Veto a millionaires tax and lower state fees and taxes to reduce living costs.", "source": "https://blockforgovernor.com/issues.php"},
+   {"topic": "Tolls", "point": "Suspend the truck toll program and oppose tolls on cars.", "source": "https://blockforgovernor.com/issues.php"},
+   {"topic": "Spending", "point": "Review every state agency and end spending on poorly managed projects.", "source": "https://blockforgovernor.com/issues.php"},
+   {"topic": "Housing", "point": "Use state-owned property for affordable housing and require a housing impact note on legislation.", "source": "https://blockforgovernor.com/issues.php"},
+   {"topic": "Transportation", "point": "Overhaul RIDOT management and award contracts on merit.", "source": "https://blockforgovernor.com/issues.php"},
+   {"topic": "Courts", "point": "Base judicial appointments on merit and take magistrate picks away from the General Assembly.", "source": "https://blockforgovernor.com/issues.php"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Would veto a millionaires tax and focus on cutting spending, fees and taxes.", "source": "https://blockforgovernor.com/issues.php"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://blockforgovernor.com/assets/ken.png",
+  "notes": "He says he will not prioritize social issues as governor, so no liberty score was assigned."
+ },
+ {
+  "id": "SC-SEN/darline-graham",
+  "name": "Darline Graham",
+  "party": "Republican",
+  "current_role": "U.S. Senator from South Carolina",
+  "bio": "Darline Graham was appointed to the U.S. Senate by Governor Henry McMaster in July 2026 to fill the seat left vacant by the death of her brother, Senator Lindsey Graham, and is the first woman to represent South Carolina in the Senate. She previously worked at the South Carolina Vocational Rehabilitation Department and served as Commissioner of the South Carolina Commission for the Blind from 2019. A native of Central, South Carolina, she holds degrees from the College of Charleston and South Carolina State University.",
+  "website": "https://darlinegraham.com",
+  "social": {
+   "x": "https://x.com/DarlineGrahamSC",
+   "instagram": "https://www.instagram.com/darlinegrahamsc",
+   "facebook": "https://www.facebook.com/DarlineGrahamSC"
+  },
+  "platform": [
+   {"topic": "Israel", "point": "Cosponsors bills expanding U.S.-Israel defense cooperation and countering campus antisemitism.", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-doubles-down-on-support-for-israel"},
+   {"topic": "Sanctions", "point": "Backs the Sanctioning Russia and Iran Act of 2026.", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-applauds-senate-passage-of-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026"},
+   {"topic": "Immigration", "point": "Cosponsors bills on mandatory E-Verify, ending sanctuary cities and limiting birthright citizenship.", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-stands-firm-on-illegal-immigration"},
+   {"topic": "Abortion", "point": "Cosponsors bills restricting abortion medication and permanently barring federal abortion funding.", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-proudly-stands-for-life"},
+   {"topic": "Guns", "point": "Backs national concealed-carry reciprocity and removing suppressors from National Firearms Act rules.", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-vows-to-protect-second-amendment-rights"},
+   {"topic": "Women's sports", "point": "Pledges to defend women's and girls' sports under Title IX.", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-vows-to-defend-womens-and-girls-sports"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 60, "evidence": "Cosponsors abortion restrictions and backs limits on transgender athletes, while supporting looser gun regulation.", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-proudly-stands-for-life"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Cosponsors bills limiting birthright citizenship, mandating E-Verify, defunding sanctuary cities and expanding 287(g).", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-stands-firm-on-illegal-immigration"},
+   "foreign": {"score": 85, "evidence": "Cosponsors bills deepening U.S.-Israel defense cooperation and introduced Russia sanctions legislation.", "source": "https://www.dgraham.senate.gov/press-releases/senator-darline-graham-doubles-down-on-support-for-israel"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Official portrait of Darline Graham, member of the United States Senate from South Carolina (2026).jpg", "license": "Public domain", "author": "Rosa Pineda, United States Senate"},
+  "campaign_photo": "https://darlinegraham.com/hero-mobile.webp",
+  "notes": "Input lists no member_of_congress record although she is a sitting appointed senator, so the Commons official portrait (U.S. Congress public domain) was used. Liberty score is new, from her official releases on abortion, guns and women's sports."
+ },
+ {
+  "id": "SC-SEN/annie-andrews",
+  "name": "Annie Andrews",
+  "party": "Democratic",
+  "current_role": "Pediatrician",
+  "bio": "Annie Andrews is a pediatrician and the 2026 Democratic nominee for U.S. Senate in South Carolina. She practiced pediatric hospital medicine at MUSC Children's Hospital for 14 years and was the 2022 Democratic nominee in South Carolina's 1st Congressional District. Born in Kentucky and raised in Indianapolis, she lives in Charleston.",
+  "website": "https://drannieandrews.com",
+  "social": {},
+  "platform": [
+   {"topic": "Health care", "point": "Treats health care as a right, backing a public option and Medicaid expansion.", "source": "https://drannieandrews.com/issue/healthcare-is-a-right-not-a-privilege/"},
+   {"topic": "Education", "point": "Fully fund public schools and special education and expand affordable child care and early learning.", "source": "https://drannieandrews.com/issue/strong-schools-affordable-child-care/"},
+   {"topic": "Technology", "point": "Rein in misuse of personal data, protect kids from social media harms, and regulate AI and facial recognition.", "source": "https://drannieandrews.com/issue/protecting-kids-not-big-tech/"},
+   {"topic": "Immigration", "point": "Strengthen border security while creating a path to citizenship and keeping families together.", "source": "https://drannieandrews.com/issue/immigration-security-with-dignity/"},
+   {"topic": "Foreign policy", "point": "Require congressional approval for military force and put diplomacy first.", "source": "https://drannieandrews.com/issue/no-more-endless-wars/"},
+   {"topic": "Gun violence", "point": "Reduce gun violence through measures such as background checks.", "source": "https://drannieandrews.com/issue/an-end-to-gun-violence/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Calls for ending tax breaks for the wealthy and opposes budgets that squeeze public services.", "source": "https://drannieandrews.com/issue/an-economy-that-works-for-working-people/"},
+   "welfare": {"score": 75, "evidence": "Supports a public health insurance option and Medicaid expansion, framing health care as a right.", "source": "https://drannieandrews.com/issue/healthcare-is-a-right-not-a-privilege/"},
+   "liberty": {"score": 30, "evidence": "Supports abortion rights and gender-affirming care with parental consent, while backing gun background checks.", "source": "https://drannieandrews.com/issue/reproductive-freedom-trust-women/"},
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Pairs stronger border security with a path to citizenship and due process protections.", "source": "https://drannieandrews.com/issue/immigration-security-with-dignity/"},
+   "foreign": {"score": 30, "evidence": "Wants Congress to approve uses of military force and to end open-ended wars.", "source": "https://drannieandrews.com/issue/no-more-endless-wars/"},
+   "energy": null,
+   "tech": {"score": 90, "evidence": "Proposes regulating AI and facial recognition, data privacy protections and social media safeguards for kids.", "source": "https://drannieandrews.com/issue/protecting-kids-not-big-tech/"},
+   "education": {"score": 80, "evidence": "Commits to fully funding public schools and special education.", "source": "https://drannieandrews.com/issue/strong-schools-affordable-child-care/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Annie Andrews Greenville (cropped 2).jpg", "license": "CC0", "author": "Stimpus1"},
+  "campaign_photo": "",
+  "notes": "Photo updated to the current Wikipedia infobox crop from the same CC0 original. Campaign social accounts exist but their URLs could not be confirmed."
+ },
+ {
+  "id": "SC-GOV/alan-wilson",
+  "name": "Alan Wilson",
+  "party": "Republican",
+  "current_role": "Attorney General of South Carolina",
+  "bio": "Alan Wilson has been South Carolina's Attorney General since 2011 and won the 2026 Republican nomination for governor in a runoff against Lt. Gov. Pamela Evette. A West Columbia native, he is a colonel in the South Carolina Army National Guard's JAG Corps and served in Iraq. He earlier worked as an assistant solicitor and in private law practice.",
+  "website": "https://wilsonforsc.com",
+  "social": {
+   "x": "https://x.com/agalanwilson",
+   "facebook": "https://www.facebook.com/WilsonforSC"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Eliminate the state income tax and car property taxes for seniors and veterans.", "source": "https://wilsonforsc.com/priorities/"},
+   {"topic": "Crime", "point": "Toughen penalties for fentanyl and violent offenders and dismantle criminal networks.", "source": "https://wilsonforsc.com/priorities/"},
+   {"topic": "Immigration", "point": "Deny state benefits to people here illegally and support 287(g) enforcement partnerships.", "source": "https://wilsonforsc.com/priorities/"},
+   {"topic": "Education", "point": "Fully fund public schools while expanding school choice and vocational training.", "source": "https://wilsonforsc.com/priorities/"},
+   {"topic": "Health care", "point": "Support rural clinics, expand telemedicine and draw providers to underserved areas.", "source": "https://wilsonforsc.com/priorities/"},
+   {"topic": "Abortion", "point": "Support laws protecting the unborn and promote adoption.", "source": "https://wilsonforsc.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Proposes eliminating the state income tax and auditing government to cut waste.", "source": "https://wilsonforsc.com/priorities/"},
+   "welfare": {"score": 20, "evidence": "Joined lawsuits seeking to invalidate the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Alan_Wilson_(politician)"},
+   "liberty": {"score": 70, "evidence": "Opposes abortion and cannabis legalization and fought same-sex marriage licenses, while defending gun rights.", "source": "https://en.wikipedia.org/wiki/Alan_Wilson_(politician)"},
+   "security": {"score": 80, "evidence": "Calls for tougher penalties for fentanyl and violent crime and more school resource officers.", "source": "https://wilsonforsc.com/priorities/"},
+   "immigration": {"score": 85, "evidence": "Would deny state benefits to undocumented residents and backs 287(g) enforcement.", "source": "https://wilsonforsc.com/priorities/"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Challenged federal climate cost rules in court and the revocation of the Keystone XL permit, and opposes ESG mandates.", "source": "https://en.wikipedia.org/wiki/Alan_Wilson_(politician)"},
+   "tech": null,
+   "education": {"score": 40, "evidence": "Pledges to fully fund public schools while also expanding school choice.", "source": "https://wilsonforsc.com/priorities/"},
+   "faith": {"score": 65, "evidence": "Lists protecting religious liberty among his campaign priorities.", "source": "https://wilsonforsc.com/priorities/"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Faith score rests on a single platform line about religious liberty, and the X account listed is his Attorney General account. The Commons photo was not used because it comes from a congressman's X post with no named photographer."
+ },
+ {
+  "id": "SC-GOV/jermaine-johnson",
+  "name": "Jermaine Johnson",
+  "party": "Democratic",
+  "current_role": "South Carolina State Representative, District 52",
+  "bio": "Jermaine Johnson is a member of the South Carolina House of Representatives, serving District 52 since 2024 after earlier representing Districts 80 and 70, and is the 2026 Democratic nominee for governor. He played basketball at the College of Charleston and professionally overseas from 2009 to 2015. He was born in Los Angeles.",
+  "website": "https://johnsonforsc.com",
+  "social": {
+   "x": "https://x.com/Dr_JLJohnson",
+   "instagram": "https://www.instagram.com/drjermainejohnson",
+   "facebook": "https://www.facebook.com/JohnsonforSC",
+   "tiktok": "https://www.tiktok.com/@dr_jljohnson"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Cut income taxes so the lowest-earning 70% of families pay no state income tax.", "source": "https://johnsonforsc.com/policies"},
+   {"topic": "Housing", "point": "Create an affordable housing grant program for municipalities.", "source": "https://johnsonforsc.com/policies"},
+   {"topic": "Public safety", "point": "Raise police pay, hire more officers and add mental health crisis response teams.", "source": "https://johnsonforsc.com/policies"},
+   {"topic": "Health care", "point": "Build hospitals in rural areas.", "source": "https://johnsonforsc.com/policies"},
+   {"topic": "Cannabis", "point": "Legalize medical marijuana, commute non-violent marijuana sentences and hold a recreational cannabis referendum.", "source": "https://johnsonforsc.com/policies"},
+   {"topic": "Families", "point": "Protect reproductive rights and encourage paid family leave for fathers.", "source": "https://johnsonforsc.com/policies"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Proposes income tax relief for lower earners, a labor council on minimum wage and wage theft, and a state production mandate.", "source": "https://johnsonforsc.com/policies"},
+   "welfare": {"score": 65, "evidence": "Proposes rural hospital construction and incentives for paid family leave.", "source": "https://johnsonforsc.com/policies"},
+   "liberty": {"score": 15, "evidence": "Supports reproductive rights, medical marijuana legalization and a state hate crimes law.", "source": "https://johnsonforsc.com/policies"},
+   "security": {"score": 50, "evidence": "Pairs hiring more police and raising their pay with mental health crisis teams for de-escalation.", "source": "https://johnsonforsc.com/policies"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No freely licensed Commons portrait was confirmed; the campaign site shows a collage rather than a single headshot."
+ }
+]

@@ -1,0 +1,235 @@
+[
+ {
+  "id": "TN-4/clay-faircloth",
+  "name": "Clay Faircloth",
+  "party": "Independent",
+  "current_role": "Pastor",
+  "bio": "Clay Faircloth is a pastor running as an independent candidate for Tennessee's 4th Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Only a candidate-list entry (occupation: pastor) was found; no campaign website or policy statements located."
+ },
+ {
+  "id": "TN-5/charlie-hatcher",
+  "name": "Charlie Hatcher",
+  "party": "Republican",
+  "current_role": "Former Tennessee Commissioner of Agriculture",
+  "bio": "Charlie Hatcher is a dairy farmer and livestock veterinarian who served as Tennessee's Commissioner of Agriculture from 2019 to 2025 under Governor Bill Lee. He holds an animal science degree from Middle Tennessee State University and a veterinary degree from the University of Tennessee, and has founded several businesses. He won the 2026 Republican primary for the 5th District, defeating incumbent Andy Ogles.",
+  "website": "https://charliehatcher.com/",
+  "social": {"x": "https://x.com/HatcherforTN", "instagram": "https://www.instagram.com/hatcherforcongress/", "facebook": "https://www.facebook.com/profile.php?id=61581980624788"},
+  "platform": [
+   {"topic": "Guns", "point": "Describes himself as a pro-gun candidate who will defend Second Amendment rights.", "source": "https://charliehatcher.com/"},
+   {"topic": "Abortion", "point": "Campaigns as a pro-life candidate.", "source": "https://charliehatcher.com/"},
+   {"topic": "Trump agenda", "point": "Pledges to back President Trump, whom he calls the most consequential president of his lifetime.", "source": "https://charliehatcher.com/"},
+   {"topic": "Government", "point": "Says he will bring a farmer's work ethic and common sense to Washington.", "source": "https://en.wikipedia.org/wiki/Charlie_Hatcher"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 55, "evidence": "Campaign identifies him as pro-life (abortion) and pro-gun (guns), leaning toward community norms on abortion and individual choice on guns.", "source": "https://charliehatcher.com/"},
+   "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site offers only brief themes and no detailed issues page."
+ },
+ {
+  "id": "TN-5/chaz-molder",
+  "name": "Chaz Molder",
+  "party": "Democratic",
+  "current_role": "Mayor of Columbia, Tennessee",
+  "bio": "Chaz Molder has been mayor of Columbia, Tennessee, since 2018, when he became the youngest mayor in the city's history; he was re-elected in 2022. His campaign highlights balanced city budgets and infrastructure and education investments during his tenure. He is the Democratic nominee for Tennessee's 5th District.",
+  "website": "https://chazmolder.com/",
+  "social": {"x": "https://x.com/chazmolder", "instagram": "https://www.instagram.com/chazmolder", "facebook": "https://www.facebook.com/profile.php?id=61586827373227", "tiktok": "https://www.tiktok.com/@chazmolder"},
+  "platform": [
+   {"topic": "Ethics", "point": "Supports banning members of Congress from trading individual stocks.", "source": "https://chazmolder.com/issues/"},
+   {"topic": "Cost of living", "point": "Pledges to make healthcare, housing and groceries more affordable for Tennessee families.", "source": "https://chazmolder.com/issues/"},
+   {"topic": "Labor", "point": "Backs workers' right to organize and stronger labor protections.", "source": "https://chazmolder.com/issues/"},
+   {"topic": "Healthcare", "point": "Wants to lower healthcare costs, expand coverage, invest in preventive care and keep rural hospitals open.", "source": "https://chazmolder.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Supports workers' organizing rights, stronger labor protections and action on the cost of housing, groceries and healthcare.", "source": "https://chazmolder.com/issues/"},
+   "welfare": {"score": 60, "evidence": "Calls for broadening health insurance coverage, lowering costs and supporting rural hospitals.", "source": "https://chazmolder.com/issues/"},
+   "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": {"file": "File:Mayor Chaz Molder (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Hmil6 (cropped by Fad8229)"},
+  "campaign_photo": "https://chazmolder.com/wp-content/uploads/2025/08/chaz-headshot@2x.png",
+  "notes": ""
+ },
+ {
+  "id": "TN-5/james-johnson",
+  "name": "James A. Johnson",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "James A. Johnson is an independent candidate for Tennessee's 5th Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Listed as James A. Johnson in the candidate list; no campaign website or policy statements found."
+ },
+ {
+  "id": "TN-5/micheal-o-leary",
+  "name": "Micheál O'Leary",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Micheál O'Leary is an independent candidate for Tennessee's 5th Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Only a candidate-list entry was found; no campaign website or policy statements located."
+ },
+ {
+  "id": "TN-6/johnny-garrett",
+  "name": "Johnny Garrett",
+  "party": "Republican",
+  "current_role": "Tennessee State Representative for District 45",
+  "bio": "Johnny Garrett has represented the 45th District in the Tennessee House of Representatives since 2019 and has served as majority whip. He is an attorney who has practiced business law in Sumner County since 2006, with degrees from the University of Tennessee and the Nashville School of Law. He is from Goodlettsville, Tennessee.",
+  "website": "https://johnnygarrettforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Wants the 2017 tax cuts made permanent and opposes taxing Social Security, tips and overtime.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   {"topic": "Border security", "point": "Supports a border wall, military deployment at the border and detention for deportations, citing his state Border Czar legislation.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   {"topic": "Abortion", "point": "Describes himself as fully pro-life, holding that life begins at conception.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   {"topic": "Guns", "point": "Lifetime NRA member who pledges to defend the right to bear arms.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   {"topic": "Israel", "point": "Backs Israel's right to defend itself against Hamas, Hezbollah and Iran.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   {"topic": "Artificial intelligence", "point": "Wants the US to lead AI development through federal-industry partnerships while guarding intellectual property from China and Russia.", "source": "https://johnnygarrettforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Calls for permanent tax cuts and no taxes on Social Security, tips or overtime.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   "welfare": null,
+   "liberty": {"score": 65, "evidence": "Pro-life on abortion and supports restrictions on transgender athletes, while backing broad gun rights.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   "security": {"score": 65, "evidence": "Backs law enforcement and sponsored a state law classifying the murder of police officers as terrorism.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   "immigration": {"score": 95, "evidence": "Supports a border wall, military at the border and detention of deportees at Guantanamo Bay.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   "foreign": {"score": 75, "evidence": "Supports Israel against Hamas, Hezbollah and Iran and the embassy move to Jerusalem.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   "energy": null,
+   "tech": {"score": 20, "evidence": "Frames AI policy around US leadership and industry partnership rather than new regulation.", "source": "https://johnnygarrettforcongress.com/issues/"},
+   "education": null,
+   "faith": {"score": 75, "evidence": "Campaign presents him as a Christian conservative whose faith informs his pro-life stance.", "source": "https://johnnygarrettforcongress.com/issues/"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TN-6/mike-croley",
+  "name": "Mike Croley",
+  "party": "Democratic",
+  "current_role": "Former park ranger",
+  "bio": "Mike Croley is a former park ranger and the Democratic nominee for Tennessee's 6th Congressional District in 2026. No further public biographical information was confirmed.",
+  "website": "https://www.mikefortn6.com/",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign website did not load during research, so no platform could be recorded; occupation comes from Tennessee Lookout coverage cited on Wikipedia."
+ },
+ {
+  "id": "TN-6/chris-monday",
+  "name": "Chris Monday",
+  "party": "Independent",
+  "current_role": "Graphic designer",
+  "bio": "Chris Monday is a graphic designer running as an independent for Tennessee's 6th Congressional District. He previously sought this seat as a Republican in 2018 and as an independent in 2020.",
+  "website": "https://cmondayforliberty.com/",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign website blocked automated access, so no platform could be recorded."
+ },
+ {
+  "id": "TN-6/angus-purdy",
+  "name": "Angus Purdy",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Angus Purdy is an independent candidate for Tennessee's 6th Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Only a candidate-list entry was found; no campaign website or policy statements located."
+ },
+ {
+  "id": "TN-7/matt-van-epps",
+  "name": "Matt Van Epps",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TN-7",
+  "bio": "Matt Van Epps has represented Tennessee's 7th District since winning a December 2025 special election. A West Point graduate, he spent ten years as an Army aviation officer with combat deployments and is a lieutenant colonel in the Tennessee Army National Guard. He served as Tennessee Commissioner of General Services in 2024-2025; he grew up in Ohio and lives in Nashville.",
+  "website": "https://www.mattfortn.com/",
+  "social": {"x": "https://x.com/MattForTN", "facebook": "https://www.facebook.com/p/Matt-Van-Epps-for-Congress-61576937085790/"},
+  "platform": [
+   {"topic": "Border security", "point": "Wants to finish the border wall and give Border Patrol more resources.", "source": "https://www.mattfortn.com/issues"},
+   {"topic": "Economy", "point": "Aims to cut red tape and waste, bring manufacturing back and expand American energy production.", "source": "https://www.mattfortn.com/issues"},
+   {"topic": "Guns", "point": "Pledges to protect law-abiding Americans' Second Amendment rights.", "source": "https://www.mattfortn.com/issues"},
+   {"topic": "Veterans and healthcare", "point": "Supports VA reform and wider rural healthcare access in Tennessee.", "source": "https://www.mattfortn.com/issues"},
+   {"topic": "Israel and Iran", "point": "Backs Israel as a close ally and opposes Iranian aggression.", "source": "https://www.mattfortn.com/issues"},
+   {"topic": "Technology", "point": "Supports legislation that both regulates and encourages innovation in crypto and AI while protecting privacy.", "source": "https://www.mattfortn.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Supports the One Big Beautiful Bill Act's tax-cut extensions, deregulation and cutting federal waste.", "source": "https://en.wikipedia.org/wiki/Matt_Van_Epps"},
+   "welfare": {"score": 20, "evidence": "Favours market-driven drug-cost solutions and state-level Medicaid reforms.", "source": "https://en.wikipedia.org/wiki/Matt_Van_Epps"},
+   "liberty": {"score": 55, "evidence": "Opposes abortion and gender surgeries for minors (community norms) while opposing federal gun control (individual choice).", "source": "https://www.mattfortn.com/issues"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Supports completing the border wall and deporting undocumented immigrants with criminal records.", "source": "https://en.wikipedia.org/wiki/Matt_Van_Epps"},
+   "foreign": {"score": 70, "evidence": "Endorses 'peace through strength', robust defense spending and strong support for Israel.", "source": "https://en.wikipedia.org/wiki/Matt_Van_Epps"},
+   "energy": {"score": 20, "evidence": "Campaign calls for unleashing American energy production as part of economic growth.", "source": "https://www.mattfortn.com/issues"},
+   "tech": null,
+   "education": {"score": 10, "evidence": "Backs school choice so education funding follows students to private or charter schools.", "source": "https://en.wikipedia.org/wiki/Matt_Van_Epps"},
+   "faith": null
+  },
+  "photo": {"file": "File:Rep Matt Van Epps, 119th Congress (cropped).jpg", "license": "Public domain", "author": "House Creative Services"},
+  "campaign_photo": "https://www.mattfortn.com/mve-headshot-new.jpg",
+  "notes": "Liberty changed from 15 to 55 because his campaign opposes abortion and gender surgeries for minors while supporting gun rights, which averages near the middle. The campaign headshot URL was derived from the site's image-optimizer path."
+ },
+ {
+  "id": "TN-7/darden-copeland",
+  "name": "Darden Copeland",
+  "party": "Democratic",
+  "current_role": "Business owner and consultant",
+  "bio": "Darden Copeland is a consultant and business owner who presents himself as a first-time candidate from a working-class background whose only elected role has been church elder. He ran in the Democratic primary for the 2025 special election in Tennessee's 7th District and is the 2026 Democratic nominee.",
+  "website": "https://dardenforcongress.com/",
+  "social": {"x": "https://x.com/dardenfortn", "instagram": "https://www.instagram.com/dardenfortn", "facebook": "https://www.facebook.com/DardenForTN/"},
+  "platform": [
+   {"topic": "Healthcare", "point": "Wants to protect Medicaid, keep premiums affordable, lower prescription drug prices and keep rural hospitals open.", "source": "https://dardenforcongress.com/home-2"},
+   {"topic": "Ethics", "point": "Supports a full congressional stock-trading ban, term limits and refusing corporate PAC money.", "source": "https://dardenforcongress.com/home-2"},
+   {"topic": "Social Security and Medicare", "point": "Opposes benefit cuts, privatization or raising the retirement age.", "source": "https://dardenforcongress.com/home-2"},
+   {"topic": "Affordability", "point": "Targets housing, grocery and childcare costs through price-gouging oversight and making corporations pay their fair share.", "source": "https://dardenforcongress.com/home-2"},
+   {"topic": "Checks and balances", "point": "Pledges to act as an independent check on any president rather than a rubber stamp.", "source": "https://dardenforcongress.com/home-2"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Wants corporations and the wealthy to pay a fair share and supports price-gouging oversight.", "source": "https://dardenforcongress.com/home-2"},
+   "welfare": {"score": 70, "evidence": "Opposes cuts to Medicaid, Medicare and Social Security and supports lower drug costs.", "source": "https://dardenforcongress.com/home-2"},
+   "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/687e6330ebf9f85569e4386e/5f06b0d9-85f6-4c4f-b25b-2027ce526b5f/3V8A9507-Edit_websize.jpg",
+  "notes": ""
+ },
+ {
+  "id": "TN-7/andrew-koontz",
+  "name": "Andrew J. Koontz",
+  "party": "Independent",
+  "current_role": "Real estate agent",
+  "bio": "Andrew J. Koontz is a real estate agent running as an independent for Tennessee's 7th Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Only candidate-list entries were found; no campaign website or policy statements located."
+ }
+]

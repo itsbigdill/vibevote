@@ -1,0 +1,429 @@
+[
+ {
+  "id": "CA-5/tom-mcclintock",
+  "name": "Tom McClintock",
+  "party": "Republican",
+  "current_role": "U.S. Representative for CA-5",
+  "bio": "Tom McClintock has represented California in the U.S. House since 2009, first for the 4th District and since 2023 for the 5th. He previously served in the California State Assembly (1982-1992 and 1996-2000) and the State Senate (2000-2008). Earlier he was chief of staff to a state senator and chaired the Ventura County Republican Party.",
+  "website": "https://tommcclintock.com",
+  "social": {
+   "x": "https://twitter.com/tommcclintock",
+   "facebook": "https://www.facebook.com/jointom",
+   "youtube": "https://www.youtube.com/user/votemcclintock",
+   "instagram": "https://www.instagram.com/repmcclintock"
+  },
+  "platform": [
+   {"topic": "Fiscal policy", "point": "Pursue fiscal reform to rein in federal spending and the national debt.", "source": "https://tommcclintock.com/"},
+   {"topic": "Health care", "point": "Opposes the Affordable Care Act and favors market-based alternatives.", "source": "https://tommcclintock.com/"},
+   {"topic": "Forests and wildfire", "point": "Change federal forest management to reduce overgrown forests and wildfire risk in the Sierra Nevada.", "source": "https://tommcclintock.com/"},
+   {"topic": "Water", "point": "Expand water storage and supply for the region.", "source": "https://tommcclintock.com/"},
+   {"topic": "Taxes", "point": "Opposes tax increases and supports keeping tax cuts permanent.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Opposes higher taxes on the wealthy, backed the 2017 tax law and favors replacing the income tax with a FairTax.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"},
+   "welfare": {"score": 10, "evidence": "Supports privatizing Social Security and opposes the Affordable Care Act.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"},
+   "liberty": {"score": 65, "evidence": "Backs abortion limits and opposes recognizing same-sex marriage, while supporting broad gun rights and cannabis legalization.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"},
+   "security": {"score": 25, "evidence": "Opposes bulk data collection and roving wiretaps, and cosponsored the Ending Qualified Immunity Act.", "source": "https://en.wikipedia.org/wiki/Tom_McClintock"},
+   "immigration": {"score": 90, "evidence": "Opposes a path to citizenship, supports completing border fencing and ending birthright citizenship.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"},
+   "foreign": {"score": 25, "evidence": "Favors withholding UN funding and has voted to repeal the Iraq war authorization and limit foreign entanglements.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"},
+   "energy": {"score": 5, "evidence": "Opposes climate regulations and renewable energy tax credits and questions human-caused climate change.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"},
+   "tech": {"score": 20, "evidence": "Opposes net neutrality regulation.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"},
+   "education": {"score": 15, "evidence": "Strongly supports school vouchers.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"},
+   "faith": {"score": 70, "evidence": "Supports keeping religious expression in public and civic life.", "source": "https://www.ontheissues.org/CA/Tom_McClintock.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://www.tommcclintock.com/wp-content/uploads/2021/09/main-image-1.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-5/michael-masuda",
+  "name": "Michael Masuda",
+  "party": "Democratic",
+  "current_role": "Engineer and former State Department foreign affairs officer",
+  "bio": "Michael Masuda grew up in Amador County, California, and earned an electrical engineering degree from Cal Poly San Luis Obispo. He worked as an engineer developing defense technology at the Johns Hopkins University Applied Physics Laboratory. After a 2021 AAAS Science and Technology Policy Fellowship, he served as a Foreign Affairs Officer at the U.S. Department of State.",
+  "website": "https://www.votemasuda.com",
+  "social": {
+   "x": "https://x.com/VoteMasuda",
+   "instagram": "https://www.instagram.com/VoteMasuda",
+   "facebook": "https://www.facebook.com/votemasuda",
+   "tiktok": "https://www.tiktok.com/@votemasuda.com"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Lower prescription drug costs, protect rural hospitals and expand telehealth and mental health services.", "source": "https://www.votemasuda.com/issues"},
+   {"topic": "Wildfire and insurance", "point": "Improve forest management, support firefighters and address the wildfire insurance availability crisis.", "source": "https://www.votemasuda.com/issues"},
+   {"topic": "Jobs", "point": "Create wildfire-resilience jobs, expand workforce training and invest in local infrastructure.", "source": "https://www.votemasuda.com/issues"},
+   {"topic": "Immigration", "point": "Secure the border with modern technology, target trafficking and cartels, and modernize legal pathways for workers and families.", "source": "https://www.votemasuda.com/issues"},
+   {"topic": "Education", "point": "Increase classroom funding, recruit rural teachers and expand career and technical education.", "source": "https://www.votemasuda.com/issues"},
+   {"topic": "Housing", "point": "Increase affordable housing supply, cut federal delays and support first-time rural homebuyers.", "source": "https://www.votemasuda.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Backs lowering drug costs, infrastructure investment and workforce training with local hiring priorities.", "source": "https://www.votemasuda.com/issues"},
+   "welfare": {"score": 60, "evidence": "Prioritizes lowering health costs, protecting rural hospitals and expanding mental health services.", "source": "https://www.votemasuda.com/issues"},
+   "liberty": {"score": 25, "evidence": "Supports equal-rights protections for LGBTQ people and patient access to medically appropriate care.", "source": "https://www.votemasuda.com/issues"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Pairs border technology and anti-cartel enforcement with expanded legal pathways and farm labor programs.", "source": "https://www.votemasuda.com/issues"},
+   "foreign": {"score": 70, "evidence": "Emphasizes diplomacy, strengthening alliances and investing in critical technologies.", "source": "https://www.votemasuda.com/issues"},
+   "energy": {"score": 55, "evidence": "Focuses on wildfire resilience and infrastructure investment, including grid modernization.", "source": "https://www.votemasuda.com/issues"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Calls for more classroom funding and rural teacher recruitment in public schools.", "source": "https://www.votemasuda.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6836a2cbf97e66194f7e1ba3/0edbad4d-7afd-423e-a61a-71f4d0161980/masudasonora-06363.jpg",
+  "notes": "The energy score rests on general infrastructure and grid statements rather than a detailed climate plan."
+ },
+ {
+  "id": "CA-6/kevin-kiley",
+  "name": "Kevin Kiley",
+  "party": "No party preference",
+  "current_role": "U.S. Representative for CA-3",
+  "bio": "Kevin Kiley has served in the U.S. House since 2023, representing California's 3rd District, and is running in the redrawn 6th District in 2026. He served in the California State Assembly from 2016 to 2022 and was a candidate in the 2021 gubernatorial recall election. A former high school English teacher, he left the Republican Party in 2026 to run as an independent while remaining in the House Republican Conference.",
+  "website": "https://electkevinkiley.com",
+  "social": {
+   "x": "https://x.com/KevinKileyCA",
+   "instagram": "https://www.instagram.com/kevinpkiley",
+   "facebook": "https://www.facebook.com/KevinKileyCA",
+   "youtube": "https://www.youtube.com/@repkevinkiley"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower costs of gas, electricity, water, housing and groceries.", "source": "https://electkevinkiley.com/"},
+   {"topic": "Education", "point": "Invest in K-12 schools so every child can get a good education.", "source": "https://electkevinkiley.com/"},
+   {"topic": "Health care", "point": "Reduce family health care costs through the bipartisan Fix It Act.", "source": "https://electkevinkiley.com/"},
+   {"topic": "Public safety", "point": "Hold offenders accountable, building on Proposition 36, and secure law enforcement funding.", "source": "https://electkevinkiley.com/"},
+   {"topic": "Bipartisanship", "point": "Set partisanship aside to focus on constituent concerns.", "source": "https://electkevinkiley.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for reining in government spending and suspending the gas tax.", "source": "https://www.ontheissues.org/CA/Kevin_Kiley.htm"},
+   "welfare": {"score": 35, "evidence": "Proposes auditing homelessness spending while backing a bipartisan bill to lower family health costs.", "source": "https://www.ontheissues.org/CA/Kevin_Kiley.htm"},
+   "liberty": {"score": 55, "evidence": "Opposes new gun laws and vaccine mandates and considers abortion a state issue.", "source": "https://www.ontheissues.org/CA/Kevin_Kiley.htm"},
+   "security": {"score": 60, "evidence": "Supports tougher sentences for violent crime and led efforts on Proposition 36.", "source": "https://www.ontheissues.org/CA/Kevin_Kiley.htm"},
+   "immigration": {"score": 75, "evidence": "Opposes sanctuary laws and a path to citizenship for undocumented immigrants.", "source": "https://www.ontheissues.org/CA/Kevin_Kiley.htm"},
+   "foreign": {"score": 60, "evidence": "Treats Russia and China as adversaries and backs Israel as a strategic ally.", "source": "https://www.ontheissues.org/CA/Kevin_Kiley.htm"},
+   "energy": {"score": 25, "evidence": "Opposed California's 2035 zero-emission vehicle mandate and 2045 oil-drilling phase-out.", "source": "https://en.wikipedia.org/wiki/Kevin_Kiley_(politician)"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Supports charter schools and school choice.", "source": "https://en.wikipedia.org/wiki/Kevin_Kiley_(politician)"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Kiley left the Republican Party in March 2026 and appears on the ballot with no party preference."
+ },
+ {
+  "id": "CA-6/richard-pan",
+  "name": "Richard Pan",
+  "party": "Democratic",
+  "current_role": "Pediatrician and former California state senator",
+  "bio": "Richard Pan is a pediatrician and UC Davis professor who served in the California State Assembly from 2010 to 2014 and the State Senate from 2014 to 2022. In the Senate he authored SB 277, which ended personal-belief exemptions from school vaccine requirements. Born in Yonkers, New York, and raised in Pittsburgh, he holds degrees from Johns Hopkins, the University of Pittsburgh and Harvard.",
+  "website": "https://drpanforcongress.com",
+  "social": {
+   "x": "https://x.com/DrPanMD",
+   "instagram": "https://www.instagram.com/DrPanMD",
+   "facebook": "https://www.facebook.com/RichardPanMD",
+   "youtube": "https://www.youtube.com/@DrPanForCongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Protect the Affordable Care Act and Medicare and lower prescription drug costs.", "source": "https://drpanforcongress.com/"},
+   {"topic": "Cost of living", "point": "Oppose tariffs, improve housing affordability and ease grocery costs and education debt.", "source": "https://drpanforcongress.com/"},
+   {"topic": "Gun safety", "point": "Support universal background checks, an assault weapons ban, secure storage and firearm research.", "source": "https://drpanforcongress.com/"},
+   {"topic": "Immigration", "point": "Create a path to citizenship and overhaul ICE to protect constitutional rights.", "source": "https://drpanforcongress.com/"},
+   {"topic": "Abortion", "point": "Codify the protections of Roe v. Wade into federal law.", "source": "https://drpanforcongress.com/"},
+   {"topic": "Small business", "point": "Reduce regulatory burdens and expand access to affordable capital.", "source": "https://drpanforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Opposes tariffs while backing drug-price legislation and housing affordability measures.", "source": "https://drpanforcongress.com/"},
+   "welfare": {"score": 70, "evidence": "Pledges to protect the Affordable Care Act and Medicare and expanded children's health coverage as a legislator.", "source": "https://drpanforcongress.com/"},
+   "liberty": {"score": 40, "evidence": "Backs codifying Roe (abortion) but supports an assault weapons ban (guns) and ended non-medical vaccine exemptions.", "source": "https://drpanforcongress.com/"},
+   "security": {"score": 45, "evidence": "Supports funding first responders and violence prevention while seeking ICE reforms to protect constitutional rights.", "source": "https://drpanforcongress.com/"},
+   "immigration": {"score": 20, "evidence": "Supports a path to citizenship and an overhaul of ICE.", "source": "https://drpanforcongress.com/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 15, "evidence": "Authored SB 277, removing religious and personal-belief exemptions from school vaccine requirements.", "source": "https://en.wikipedia.org/wiki/Richard_Pan"}
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68d7146ae935ff5e7be4c604/d509f8b0-cba1-4c10-b41d-13c02d742553/DrPan_eleakis208596_0185.png",
+  "notes": "The earlier photo was a California Senate work without a named licence, and the CC BY-SA infobox image came from a campaign Flickr account, so no photo is recorded."
+ },
+ {
+  "id": "CA-7/doris-matsui",
+  "name": "Doris Matsui",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-7",
+  "bio": "Doris Matsui has represented Sacramento in the U.S. House since 2005 and is ranking member of the Communications and Technology Subcommittee. She previously served as a deputy assistant to President Clinton from 1993 to 1998 and later worked as a government affairs consultant. She co-chairs the Congressional High-Tech and Spectrum caucuses.",
+  "website": "https://matsuiforcongress.com",
+  "social": {
+   "x": "https://x.com/matsui4congress",
+   "instagram": "https://www.instagram.com/matsuiforcongress/",
+   "facebook": "https://www.facebook.com/Matsui4Congress/",
+   "youtube": "https://www.youtube.com/user/RepDorisMatsui"
+  },
+  "platform": [
+   {"topic": "Flood protection", "point": "Continue federal investment in levees, Folsom Dam upgrades and Sacramento flood protection.", "source": "https://matsuiforcongress.com/"},
+   {"topic": "Health care", "point": "Defend the Affordable Care Act, lower drug prices and expand mental health and telehealth access.", "source": "https://matsuiforcongress.com/"},
+   {"topic": "Infrastructure", "point": "Bring federal funds for light rail, transportation projects and union jobs to the district.", "source": "https://matsuiforcongress.com/"},
+   {"topic": "Climate", "point": "Invest in clean energy jobs and climate resilience.", "source": "https://matsuiforcongress.com/"},
+   {"topic": "Technology", "point": "Shape federal policy on emerging technologies from her Energy and Commerce role.", "source": "https://matsuiforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports a progressive tax system and closing offshore business loopholes.", "source": "https://en.wikipedia.org/wiki/Doris_Matsui"},
+   "welfare": {"score": 80, "evidence": "Defends the Affordable Care Act and opposes privatizing Medicare and Medicaid.", "source": "https://en.wikipedia.org/wiki/Doris_Matsui"},
+   "liberty": {"score": 25, "evidence": "Rated 100% by HRC (LGBTQ rights), backs abortion access without restrictions (abortion) and background checks on all gun sales (guns).", "source": "https://www.ontheissues.org/CA/Doris_Matsui.htm"},
+   "security": {"score": 30, "evidence": "Has opposed bulk surveillance programs.", "source": "https://www.ontheissues.org/CA/Doris_Matsui.htm"},
+   "immigration": {"score": 20, "evidence": "Supports a path to citizenship for undocumented immigrants.", "source": "https://www.ontheissues.org/CA/Doris_Matsui.htm"},
+   "foreign": {"score": 60, "evidence": "Supports military and economic aid to Ukraine, while voting in 2026 to cut some Israel aid.", "source": "https://en.wikipedia.org/wiki/Doris_Matsui"},
+   "energy": {"score": 85, "evidence": "Backs renewable energy targets and opposes offshore drilling and oil and gas subsidies.", "source": "https://en.wikipedia.org/wiki/Doris_Matsui"},
+   "tech": {"score": 70, "evidence": "Supports net neutrality and leads Democrats on the House communications and technology subcommittee.", "source": "https://www.ontheissues.org/CA/Doris_Matsui.htm"},
+   "education": {"score": 85, "evidence": "Supports public school funding and opposes vouchers.", "source": "https://www.ontheissues.org/CA/Doris_Matsui.htm"},
+   "faith": {"score": 25, "evidence": "Voted in 2006 to let courts rule on 'God' in the Pledge of Allegiance and opposes a religious registry.", "source": "https://www.ontheissues.org/CA/Doris_Matsui.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://matsuiforcongress.com/wp-content/uploads/2020/09/Matsui-Headshot-e1769455742167.jpg",
+  "notes": ""
+ },
+ {
+  "id": "CA-7/mai-vang",
+  "name": "Mai Vang",
+  "party": "Democratic",
+  "current_role": "Sacramento City Councilmember, District 8",
+  "bio": "Mai Vang has served on the Sacramento City Council for District 8 since December 2020, after serving on the Sacramento City Unified School District board from 2016 to 2020. Born in Sacramento to Hmong refugee parents, she lectures in ethnic studies at California State University, Sacramento, and co-founded the organizing group Hmong Innovating Politics. She placed first in the June 2026 top-two primary for CA-7.",
+  "website": "https://www.maiforus.com",
+  "social": {
+   "x": "https://twitter.com/maiforus",
+   "instagram": "https://www.instagram.com/maiforus/",
+   "facebook": "https://www.facebook.com/MaiForUs",
+   "tiktok": "https://www.tiktok.com/@maiforus",
+   "youtube": "https://www.youtube.com/channel/UCnQC62sw1r3U1XF74j1nKfA"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Pass Medicare for All, cancel medical debt and cut prescription drug prices.", "source": "https://www.maiforus.com/platform"},
+   {"topic": "Workers and economy", "point": "Tax billionaires, index the minimum wage to inflation and guarantee paid family and sick leave.", "source": "https://www.maiforus.com/platform"},
+   {"topic": "Child care", "point": "Create universal child care with capped family costs and living wages for care workers.", "source": "https://www.maiforus.com/platform"},
+   {"topic": "Immigration", "point": "Abolish ICE, close for-profit detention centers and create a path to citizenship.", "source": "https://www.maiforus.com/platform"},
+   {"topic": "Climate", "point": "Pursue a Green New Deal transition, make polluters pay and expand public transit.", "source": "https://www.maiforus.com/platform"},
+   {"topic": "Technology", "point": "End data-center tax breaks, adopt AI safety rules and give workers a say before AI is deployed.", "source": "https://www.maiforus.com/platform"}
+  ],
+  "positions": {
+   "economy": {"score": 90, "evidence": "Backs taxing billionaires, an inflation-indexed minimum wage and mandated paid leave.", "source": "https://www.maiforus.com/platform"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and universal child care.", "source": "https://www.maiforus.com/platform"},
+   "liberty": {"score": 15, "evidence": "Supports codifying abortion rights, the Equality Act and access to gender-affirming care.", "source": "https://www.maiforus.com/platform"},
+   "security": {"score": 5, "evidence": "Opposes Flock surveillance cameras and calls for protecting privacy from government surveillance.", "source": "https://www.maiforus.com/platform"},
+   "immigration": {"score": 0, "evidence": "Calls for abolishing ICE, closing for-profit detention and a comprehensive path to citizenship.", "source": "https://www.maiforus.com/platform"},
+   "foreign": {"score": 10, "evidence": "Opposes military aid to Israel and supports repealing the 2001 war authorization.", "source": "https://www.maiforus.com/platform"},
+   "energy": {"score": 95, "evidence": "Champions a Green New Deal clean-energy transition and making polluters pay.", "source": "https://www.maiforus.com/platform"},
+   "tech": {"score": 95, "evidence": "Signed an AI safety pledge, opposes data-center tax breaks and wants worker input before AI adoption.", "source": "https://www.maiforus.com/platform"},
+   "education": {"score": 95, "evidence": "Supports free public college and protecting public school funding from charters and vouchers.", "source": "https://www.maiforus.com/platform"},
+   "faith": null
+  },
+  "photo": {"file": "File:Sacramento City Councilmember Mai Vang.jpg", "license": "Public domain", "author": "Sacramento City Council"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68bc52ce7988d151252ce1c4/f1de09d7-49a2-45ea-97cd-3b25617b1faa/IMG_9947.jpg",
+  "notes": "The photo is a City of Sacramento work that Commons marks public domain under the California Public Records Act template; the energy score was newly added from her platform."
+ },
+ {
+  "id": "CA-8/john-garamendi",
+  "name": "John Garamendi",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-8",
+  "bio": "John Garamendi has served in the U.S. House since 2009 and has represented the 8th District since 2023. He previously served as California Lieutenant Governor (2007-2009), two terms as state Insurance Commissioner, and U.S. Deputy Secretary of the Interior (1995-1998). He began his career in the California State Assembly and State Senate, where he was Majority Leader.",
+  "website": "https://garamendi.org",
+  "social": {
+   "x": "https://twitter.com/JohnGaramendi",
+   "facebook": "https://www.facebook.com/johngaramendi",
+   "youtube": "https://www.youtube.com/user/JohnGaramendi",
+   "instagram": "https://www.instagram.com/repgaramendi"
+  },
+  "platform": [
+   {"topic": "Manufacturing", "point": "Restore domestic manufacturing jobs through Make It In America policies.", "source": "https://garamendi.org/"},
+   {"topic": "Water and the Delta", "point": "Block the Delta tunnels and fund water infrastructure for drought preparedness and species protection.", "source": "https://garamendi.org/"},
+   {"topic": "Health care", "point": "Improve care delivery and increase incentives for hospitals and clinics in underserved areas.", "source": "https://garamendi.org/"},
+   {"topic": "Ukraine", "point": "Co-chairs the Congressional Ukraine Caucus supporting Ukraine.", "source": "https://en.wikipedia.org/wiki/John_Garamendi"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Criticized the 2017 tax law as favoring the wealthy and backs Make It In America industrial policy.", "source": "https://en.wikipedia.org/wiki/John_Garamendi"},
+   "welfare": {"score": 90, "evidence": "Cosponsored the Medicare for All Act in 2021.", "source": "https://en.wikipedia.org/wiki/John_Garamendi"},
+   "liberty": {"score": 20, "evidence": "Calls abortion access a fundamental right and supports gun limits.", "source": "https://en.wikipedia.org/wiki/John_Garamendi"},
+   "security": {"score": 20, "evidence": "Voted against extending the PATRIOT Act and sponsored a bill barring indefinite military detention of citizens.", "source": "https://en.wikipedia.org/wiki/John_Garamendi"},
+   "immigration": {"score": 30, "evidence": "Supports pathways for undocumented immigrants and raised concerns about E-Verify enforcement.", "source": "https://en.wikipedia.org/wiki/John_Garamendi"},
+   "foreign": {"score": 40, "evidence": "Co-chairs the Ukraine Caucus but has voted against large military spending bills.", "source": "https://en.wikipedia.org/wiki/John_Garamendi"},
+   "energy": {"score": 90, "evidence": "Cosponsored the Green New Deal resolution and pushed offshore wind legislation.", "source": "https://en.wikipedia.org/wiki/John_Garamendi"},
+   "tech": {"score": 60, "evidence": "Sponsored the 2019 net neutrality bill.", "source": "https://www.ontheissues.org/CA/John_Garamendi.htm"},
+   "education": {"score": 85, "evidence": "Opposes private and religious school voucher programs.", "source": "https://www.ontheissues.org/CA/John_Garamendi.htm"},
+   "faith": {"score": 15, "evidence": "Opposes a religious registry and strongly opposes keeping God in the public sphere, per OnTheIssues.", "source": "https://www.ontheissues.org/CA/John_Garamendi.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Foreign score may understate his Ukraine support."
+ },
+ {
+  "id": "CA-8/rudy-recile",
+  "name": "Rudy Recile",
+  "party": "Republican",
+  "current_role": "Retired U.S. Army major and small-business owner",
+  "bio": "Rudy Recile is a retired U.S. Army major who served more than 26 years, with postings in Illinois, South Korea and Washington, D.C., before retiring at his final station in Fairfield, California, in 2014. He has worked for the U.S. Department of Agriculture and runs a small business. He lives in Fairfield and hosts a podcast on veterans and politics.",
+  "website": "https://rudyforuscongress.com",
+  "social": {
+   "x": "https://twitter.com/Rudy4USCongress",
+   "facebook": "https://www.facebook.com/rudyforuscongress/"
+  },
+  "platform": [
+   {"topic": "Veterans", "point": "Speed veterans' access to the benefits they earned.", "source": "https://rudyforuscongress.com/index.php/issues/"},
+   {"topic": "Education", "point": "Expand school choice and improve low student proficiency in core subjects.", "source": "https://rudyforuscongress.com/index.php/issues/"},
+   {"topic": "Energy", "point": "Increase domestic energy production and oppose closing power plants over climate concerns.", "source": "https://rudyforuscongress.com/index.php/issues/"},
+   {"topic": "Government spending", "point": "Cut excessive federal spending that he says fuels inflation.", "source": "https://rudyforuscongress.com/index.php/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for cutting federal spending and money creation to curb inflation.", "source": "https://rudyforuscongress.com/index.php/issues/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 10, "evidence": "Backs domestic energy production and opposes shutting power plants for climate reasons.", "source": "https://rudyforuscongress.com/index.php/issues/"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supports school choice.", "source": "https://rudyforuscongress.com/index.php/issues/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://rudyforuscongress.com/wp-content/uploads/2025/05/cropped-web.png",
+  "notes": "The campaign image URL may be a site logo rather than a headshot."
+ },
+ {
+  "id": "CA-9/josh-harder",
+  "name": "Josh Harder",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-9",
+  "bio": "Josh Harder was born in Turlock, California, and has served in the U.S. House since 2019, representing the 10th District and, since 2023, the 9th. Before Congress he was a venture capitalist at Bessemer Venture Partners and taught business at Modesto Junior College. He sits on the House Appropriations Committee and belongs to the New Democrat Coalition and Problem Solvers Caucus.",
+  "website": "https://harderforcongress.com",
+  "social": {
+   "x": "https://twitter.com/joshharder",
+   "facebook": "https://www.facebook.com/harderforcongress"
+  },
+  "platform": [
+   {"topic": "Costs", "point": "Lower prescription drug prices, including a $35 monthly insulin cap, and repeal gas taxes.", "source": "https://harderforcongress.com/issues"},
+   {"topic": "Public safety", "point": "Fund law enforcement task forces targeting methamphetamine and fentanyl trafficking.", "source": "https://harderforcongress.com/issues"},
+   {"topic": "Water", "point": "Oppose the Delta Tunnel and invest in water storage.", "source": "https://harderforcongress.com/issues"},
+   {"topic": "Jobs", "point": "Bring higher-paying jobs in agricultural technology, IT and clean energy to the Valley.", "source": "https://harderforcongress.com/issues"},
+   {"topic": "Campaign finance", "point": "Ban corporate PAC contributions through his Ban Corporate PACs Act.", "source": "https://harderforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Backs an insulin price cap and drug-cost limits alongside gas-tax repeal.", "source": "https://harderforcongress.com/issues"},
+   "welfare": {"score": 55, "evidence": "Focuses on affordable care access and lowering insurance costs rather than a single-payer system.", "source": "https://harderforcongress.com/issues"},
+   "liberty": {"score": 25, "evidence": "Supports legal access to abortion.", "source": "https://en.wikipedia.org/wiki/Josh_Harder"},
+   "security": {"score": 60, "evidence": "Opposes defunding police and introduced a bill funding police recruitment, while backing chokehold bans.", "source": "https://en.wikipedia.org/wiki/Josh_Harder"},
+   "immigration": {"score": 30, "evidence": "Supports the DREAM Act and comprehensive reform with border security; voted for the Laken Riley Act in 2025.", "source": "https://harderforcongress.com/issues"},
+   "foreign": null,
+   "energy": {"score": 60, "evidence": "Introduced the FARM Act addressing climate change in agriculture and promotes clean-energy jobs.", "source": "https://harderforcongress.com/issues"},
+   "tech": null,
+   "education": {"score": 65, "evidence": "Emphasizes funding for school mental health services and trade education.", "source": "https://harderforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "His Laken Riley Act vote suggests a somewhat firmer enforcement stance than the immigration score alone implies."
+ },
+ {
+  "id": "CA-9/john-mcbride",
+  "name": "John McBride",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "John McBride is the Republican nominee for California's 9th Congressional District. His campaign focuses on lower taxes, public safety, agriculture and water. Little additional biographical information is publicly available.",
+  "website": "https://www.johnmcbrideforcongress.com",
+  "social": {},
+  "platform": [
+   {"topic": "Economy", "point": "Cut taxes, shrink government, support small businesses and exempt Social Security from taxation.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   {"topic": "Public safety", "point": "Back law enforcement, expand mental health and youth programs and strengthen border security.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   {"topic": "Agriculture", "point": "Expand water supply and limit government interference with small family farms.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   {"topic": "Health", "point": "Remove harmful chemicals from food and water and protect medical autonomy.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   {"topic": "Liberty", "point": "Oppose a central bank digital currency and protect voting rights.", "source": "https://www.johnmcbrideforcongress.com/priorities"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for tax cuts and downsizing government.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   "welfare": {"score": 30, "evidence": "Pairs smaller government with protecting Social Security benefits from taxation.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Backs law enforcement and criminal accountability measures.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   "immigration": {"score": 75, "evidence": "Calls for enhanced border security.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   "foreign": null,
+   "energy": {"score": 30, "evidence": "Supports domestic energy self-sufficiency.", "source": "https://www.johnmcbrideforcongress.com/priorities"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.cdn-files-a.com/uploads/8710352/400_655e686a994df.png",
+  "notes": "Occupation and background could not be confirmed; his campaign site links social accounts but the URLs were not captured."
+ },
+ {
+  "id": "CA-10/mark-desaulnier",
+  "name": "Mark DeSaulnier",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-10",
+  "bio": "Mark DeSaulnier has served in the U.S. House since 2015, representing the 11th District and, since 2023, the 10th; he is ranking member of the House Ethics Committee. He previously served in the California State Senate (2008-2015) and Assembly (2006-2008), on the Contra Costa County Board of Supervisors, and as mayor of Concord. He also served on the California Air Resources Board from 1997 to 2006.",
+  "website": "https://desaulnierforcongress.com",
+  "social": {
+   "x": "https://twitter.com/MarkDeSaulnier",
+   "facebook": "https://www.facebook.com/MarkDeSaulnier",
+   "instagram": "https://www.instagram.com/repdesaulnier"
+  },
+  "platform": [
+   {"topic": "Workers", "point": "Protect workers in an AI-driven economy through his Future of Work policy recommendations.", "source": "https://desaulnierforcongress.com/issues"},
+   {"topic": "Health research", "point": "Increase federal medical research funding and improve cancer patient support.", "source": "https://desaulnierforcongress.com/issues"},
+   {"topic": "Climate", "point": "Expand EV charging through the Clean Corridors Act and protect state emission standards.", "source": "https://desaulnierforcongress.com/issues"},
+   {"topic": "Immigration", "point": "Pursue humane reform and oppose mass deportations that separate families.", "source": "https://desaulnierforcongress.com/issues"},
+   {"topic": "Local news", "point": "Let news outlets negotiate compensation from large tech platforms.", "source": "https://desaulnierforcongress.com/issues"},
+   {"topic": "Gun safety", "point": "Advance evidence-based gun safety research and technology.", "source": "https://desaulnierforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Authored a tax on excessive CEO pay and legislation for dislocated workers.", "source": "https://desaulnierforcongress.com/issues"},
+   "welfare": {"score": 70, "evidence": "Voted against the 2023 Fiscal Responsibility Act and backs expanded federal health research funding.", "source": "https://en.wikipedia.org/wiki/Mark_DeSaulnier"},
+   "liberty": {"score": 20, "evidence": "Voted for the Women's Health Protection Act on abortion and backs gun safety laws.", "source": "https://desaulnierforcongress.com/issues"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Opposes mass deportation and authored a bill granting permanent status in extraordinary circumstances.", "source": "https://desaulnierforcongress.com/issues"},
+   "foreign": {"score": 45, "evidence": "Voted for 2024 Ukraine and Taiwan aid but against Israel aid and for withdrawing troops from Syria.", "source": "https://en.wikipedia.org/wiki/Mark_DeSaulnier"},
+   "energy": {"score": 85, "evidence": "Authored the Clean Corridors Act for EV charging and defends state emission standards.", "source": "https://desaulnierforcongress.com/issues"},
+   "tech": {"score": 75, "evidence": "Pushes legislation letting news organizations bargain collectively with tech platforms.", "source": "https://desaulnierforcongress.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://desaulnierforcongress.com/wp-content/uploads/2018/10/20180704_122243-e1619208021718-768x893.jpg",
+  "notes": "The immigration score was newly added from his campaign issues page."
+ },
+ {
+  "id": "CA-10/jeff-frese",
+  "name": "Jeff Frese",
+  "party": "Republican",
+  "current_role": "Small-business owner",
+  "bio": "Jeff Frese is a businessman from Moraga, California, who built a national snack brand, sold it and has since run consumer products companies. He is running for Congress for the first time as the Republican nominee in the 10th District.",
+  "website": "https://freseforcongress.com",
+  "social": {
+   "x": "https://x.com/VoteFrese",
+   "instagram": "https://www.instagram.com/freseforcongress",
+   "facebook": "https://www.facebook.com/freseforcongress",
+   "tiktok": "https://www.tiktok.com/@votefrese",
+   "youtube": "https://www.youtube.com/@freseforcongress"
+  },
+  "platform": [
+   {"topic": "Congressional reform", "point": "Set 8-year term limits, ban stock trading by members and tie congressional pay to passing a budget.", "source": "https://freseforcongress.com/"},
+   {"topic": "Affordability", "point": "Cut deficit spending, reduce building red tape and bar hedge funds from buying single-family homes.", "source": "https://freseforcongress.com/"},
+   {"topic": "Public safety", "point": "Support police, end cashless bail and toughen consequences for fentanyl trafficking.", "source": "https://freseforcongress.com/"},
+   {"topic": "Elections", "point": "Require voter ID for federal elections, make Election Day a holiday and use audited paper ballots.", "source": "https://freseforcongress.com/"},
+   {"topic": "Education", "point": "Exempt teachers from federal income tax and shift funds from bureaucracy to classrooms.", "source": "https://freseforcongress.com/"},
+   {"topic": "Social Security", "point": "No benefit cuts or retirement-age increase, with part of the trust fund invested in the S&P 500.", "source": "https://freseforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Calls for cutting deficit spending and red tape, while backing limits on hedge-fund home purchases.", "source": "https://freseforcongress.com/"},
+   "welfare": {"score": 45, "evidence": "Opposes Social Security cuts or raising the retirement age but proposes investing part of the trust fund in stocks.", "source": "https://freseforcongress.com/"},
+   "liberty": null,
+   "security": {"score": 75, "evidence": "Supports police and prosecution, ending cashless bail and keeping repeat offenders jailed.", "source": "https://freseforcongress.com/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The earlier education score of 35 was removed because his current site stresses classroom funding and teacher tax relief rather than parental choice."
+ }
+]

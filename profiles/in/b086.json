@@ -1,0 +1,389 @@
+[
+ {
+  "id": "SC-7/john-vincent",
+  "name": "John Vincent",
+  "party": "Democratic",
+  "race": "SC-7",
+  "race_label": "South Carolina · US House SC-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 60,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants to end tariffs, ban congressional stock trading, raise wages, keep health care tax credits and protect rural hospitals.",
+   "sources": [
+    "http://www.vincentforcongress.com/policy"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "SD-AL/marty-jackley",
+  "name": "Marty Jackley",
+  "party": "Republican",
+  "race": "SD-AL",
+  "race_label": "South Dakota · US House SD-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": 50,
+    "security": 75,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs tax cuts, finishing the wall, more police and prosecutor tools; NRA A+ gun stance offset by aggressive marijuana prosecution.",
+   "sources": [
+    "https://martyjackley.com/issues",
+    "https://en.wikipedia.org/wiki/Marty_Jackley"
+   ],
+   "photo": {
+    "file": "File:US District Attorney Marty Jackley.png",
+    "license": "Public domain",
+    "author": "US District of South Dakota"
+   }
+  }
+ },
+ {
+  "id": "SD-AL/nikki-gronli",
+  "name": "Nikki Gronli",
+  "party": "Democratic",
+  "race": "SD-AL",
+  "race_label": "South Dakota · US House SD-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 45,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes Trump tariffs and wants Congress to reclaim tariff power; seeks expanded, lower-cost health coverage; says government should be better, not bigger.",
+   "sources": [
+    "https://southdakotasearchlight.com/2025/09/10/tariffs-trade-policy-at-top-of-mind-for-democratic-congressional-candidate/",
+    "https://www.nikkigforsd.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-1/diana-harshbarger",
+  "name": "Diana Harshbarger",
+  "party": "Republican",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001086",
+   "official_name": "Diana Harshbarger",
+   "chamber": "House",
+   "official_site": "https://harshbarger.house.gov",
+   "official_social": {
+    "twitter": "RepHarshbarger",
+    "facebook": "RepDianaHarshbarger"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 55,
+    "security": null,
+    "immigration": 90,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Anti-tax and anti-ACA stances, opposed ARPA and Medicaid obesity-drug coverage, pro-life but against gun control, supports border wall.",
+   "sources": [
+    "https://www.ontheissues.org/House/Diana_Harshbarger.htm",
+    "https://en.wikipedia.org/wiki/Diana_Harshbarger"
+   ],
+   "photo": {
+    "file": "File:Diana Harshbarger official photo (cropped).jpg",
+    "license": "Public domain",
+    "author": "Office of Congresswoman Diana Harshbarger"
+   }
+  }
+ },
+ {
+  "id": "TN-1/kristi-burke",
+  "name": "Kristi Burke",
+  "party": "Democratic",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 95,
+    "liberty": 15,
+    "security": null,
+    "immigration": 10,
+    "foreign": 30,
+    "energy": 80,
+    "tech": 70,
+    "education": 95,
+    "faith": 5
+   },
+   "basis": "Backs Medicare for All, higher taxes on the wealthy, abortion and LGBTQ rights, no mass deportations, diplomacy first, public schools over vouchers, church-state separation.",
+   "sources": [
+    "https://www.votekristiburke.com/non-negotiables"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-1/joshua-ray-ashburn",
+  "name": "Joshua Ray Ashburn",
+  "party": "Independent",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-1/richard-baker",
+  "name": "Richard Baker",
+  "party": "Independent",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-1/chris-campbell",
+  "name": "Chris Campbell",
+  "party": "Independent",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-1/billy-cody",
+  "name": "Billy Cody",
+  "party": "Independent",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-1/tyler-mcclain",
+  "name": "Tyler McClain",
+  "party": "Independent",
+  "race": "TN-1",
+  "race_label": "Tennessee · US House TN-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee",
+    "https://ballotpedia.org/Tennessee's_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TN-2/tim-burchett",
+  "name": "Tim Burchett",
+  "party": "Republican",
+  "race": "TN-2",
+  "race_label": "Tennessee · US House TN-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001309",
+   "official_name": "Tim Burchett",
+   "chamber": "House",
+   "official_site": "https://burchett.house.gov",
+   "official_social": {
+    "twitter": "RepTimBurchett"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": 80,
+    "foreign": 30,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Fiscal hawk who opposed debt-limit deals, voted for OBBBA, opposed H-2B visa expansion, voted to repeal Iraq AUMF and opposed Iran intervention.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Tim_Burchett"
+   ],
+   "photo": {
+    "file": "File:Rep Tim Burchett, 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "TN-2/michaela-barnett",
+  "name": "Michaela Barnett",
+  "party": "Democratic",
+  "race": "TN-2",
+  "race_label": "Tennessee · US House TN-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": 65,
+    "tech": 80,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Pro-worker economics, reproductive freedom and LGBTQ rights with responsible gun ownership, dignified immigration system, environmental protection, regulating AI and data centers.",
+   "sources": [
+    "https://michaelafortennessee.com/issues"
+   ],
+   "photo": null
+  }
+ }
+]

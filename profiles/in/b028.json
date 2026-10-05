@@ -1,0 +1,396 @@
+[
+ {
+  "id": "CO-4/lauren-boebert",
+  "name": "Lauren Boebert",
+  "party": "Republican",
+  "race": "CO-4",
+  "race_label": "Colorado · US House CO-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B000825",
+   "official_name": "Lauren Boebert",
+   "chamber": "House",
+   "official_site": "https://boebert.house.gov",
+   "official_social": {
+    "twitter": "RepBoebert",
+    "facebook": "RepBoebert"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 65,
+    "security": 20,
+    "immigration": 95,
+    "foreign": 40,
+    "energy": 10,
+    "tech": null,
+    "education": 5,
+    "faith": 95
+   },
+   "basis": "Opposes tax increases, ACA; opposes abortion and same-sex marriage, strong gun rights; FISA warrant push; border wall; AUMF repeal; opposes Green New Deal; abolish Education Department; rejects church-state separation.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lauren_Boebert"
+   ],
+   "photo": {
+    "file": "File:Lauren Boebert 117th U.S Congress (3x4 cropped) (2).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CO-4/eileen-laubacher",
+  "name": "Eileen Laubacher",
+  "party": "Democratic",
+  "race": "CO-4",
+  "race_label": "Colorado · US House CO-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 60,
+    "liberty": null,
+    "security": null,
+    "immigration": 45,
+    "foreign": null,
+    "energy": 50,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs middle-class tax cuts, ending corporate and billionaire breaks, insulin cap, Medicaid drug negotiation, secure border with legal citizenship path, all-of-the-above energy.",
+   "sources": [
+    "https://eileenforcolorado.com/platform"
+   ],
+   "photo": {
+    "file": "File:Eileen H. Laubacher (3).jpg",
+    "license": "Public domain",
+    "author": "U.S. Navy"
+   }
+  }
+ },
+ {
+  "id": "CO-4/douglas-mangeris",
+  "name": "Douglas Mangeris",
+  "party": "Libertarian",
+  "race": "CO-4",
+  "race_label": "Colorado · US House CO-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-5/jeff-crank",
+  "name": "Jeff Crank",
+  "party": "Republican",
+  "race": "CO-5",
+  "race_label": "Colorado · US House CO-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001137",
+   "official_name": "Jeff Crank",
+   "chamber": "House",
+   "official_site": "https://crank.house.gov",
+   "official_social": {
+    "twitter": "RepJeffCrank",
+    "facebook": "RepJeffCrank",
+    "instagram": "repjeffcrank"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Former Americans for Prosperity state director and anti-tax activist; voted for 2025 reconciliation tax cuts with Medicaid work requirements; backed resolution condemning socialism.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jeff_Crank",
+    "https://crank.house.gov/"
+   ],
+   "photo": {
+    "file": "File:Jeff Crank 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CO-5/jessica-killin",
+  "name": "Jessica Killin",
+  "party": "Democratic",
+  "race": "CO-5",
+  "race_label": "Colorado · US House CO-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 65,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants tariffs ended, wealthy and corporations taxed more, anti-price-gouging, Medicaid cuts repealed, Medicare drug negotiation, insulin cap, AI standards and oversight.",
+   "sources": [
+    "https://www.killinforcolorado.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-5/christopher-mitchell",
+  "name": "Christopher Mitchell",
+  "party": "American Constitution",
+  "race": "CO-5",
+  "race_label": "Colorado · US House CO-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-5/mark-elworth",
+  "name": "Mark Elworth",
+  "party": "Libertarian",
+  "race": "CO-5",
+  "race_label": "Colorado · US House CO-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-6/jason-crow",
+  "name": "Jason Crow",
+  "party": "Democratic",
+  "race": "CO-6",
+  "race_label": "Colorado · US House CO-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001121",
+   "official_name": "Jason Crow",
+   "chamber": "House",
+   "official_site": "https://crow.house.gov",
+   "official_social": {
+    "twitter": "RepJasonCrow",
+    "facebook": "RepJasonCrow"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 30,
+    "security": null,
+    "immigration": null,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports abortion rights, same-sex marriage and gun background checks (liberty); backed F-16s for Ukraine but voted in 2026 to eliminate regular Israel aid.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jason_Crow"
+   ],
+   "photo": {
+    "file": "File:Rep. Jason Crow (D-CO), 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CO-6/jason-clark",
+  "name": "Jason Clark",
+  "party": "Republican",
+  "race": "CO-6",
+  "race_label": "Colorado · US House CO-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found in reliable sources; all domains left unscored.",
+   "sources": [],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-6/patty-mcmahon",
+  "name": "Patty McMahon",
+  "party": "Libertarian",
+  "race": "CO-6",
+  "race_label": "Colorado · US House CO-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-6/meredith-ryan",
+  "name": "Meredith Ryan",
+  "party": "Unity",
+  "race": "CO-6",
+  "race_label": "Colorado · US House CO-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-6/samir-witta",
+  "name": "Samir Witta",
+  "party": "Independent",
+  "race": "CO-6",
+  "race_label": "Colorado · US House CO-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ }
+]

@@ -1,0 +1,392 @@
+[
+ {
+  "id": "CA-41/linda-sanchez",
+  "name": "Linda Sánchez",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-38",
+  "bio": "Linda Sánchez has served in the U.S. House since 2003, first for the 39th and then the 38th district, and sits on the Ways and Means Committee. Before Congress she worked as a labor and employment attorney and as an Orange County AFL-CIO officer. She was born in Orange, California.",
+  "website": "https://voteforlinda.com",
+  "social": {
+   "x": "https://x.com/RepLindaSanchez",
+   "instagram": "https://www.instagram.com/replindasanchez",
+   "facebook": "https://www.facebook.com/CongresswomanLindaSanchez",
+   "youtube": "https://www.youtube.com/user/LindaTSanchez"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Supports a progressive tax system and opposes lowering capital gains tax rates.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   {"topic": "Health care", "point": "Opposes privatizing Medicare and backs expanding federal health coverage.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   {"topic": "Energy", "point": "Opposes new oil drilling and refineries and supports renewable energy tax credits and emissions rules.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   {"topic": "Immigration", "point": "Backs comprehensive immigration reform that includes family reunification.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   {"topic": "Criminal justice", "point": "Supports drug-sentencing reform and rehabilitation opportunities for offenders.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Advocates progressive taxation and opposes reduced capital gains rates.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   "welfare": {"score": 70, "evidence": "Opposes Medicare privatization and supports expanded federal health coverage.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   "liberty": {"score": 20, "evidence": "Pro-choice on abortion, supports marriage equality and LGBTQ workplace protections, and backs drug-sentencing reform.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Opposed Arizona SB 1070 and supports comprehensive reform with family reunification.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   "foreign": null,
+   "energy": {"score": 85, "evidence": "Opposes new oil drilling and refineries; supports renewable energy credits and emissions regulation.", "source": "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "She currently represents CA-38 and is seeking the redrawn CA-41 seat in 2026."
+ },
+ {
+  "id": "CA-41/mitch-clemmons",
+  "name": "Mitch Clemmons",
+  "party": "Republican",
+  "current_role": "Plumber and small-business owner",
+  "bio": "Mitch Clemmons is a plumber and small-business owner running for Congress in California's 41st district. His campaign is based in Whittier and centers on affordability, small business and public safety.",
+  "website": "https://electmitchclemmons.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/clemmonsmitch",
+   "facebook": "https://www.facebook.com/mitchforcongress"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Lower barriers so working families can buy homes.", "source": "https://electmitchclemmons.com/"},
+   {"topic": "Small business", "point": "Cut regulatory red tape to help local businesses grow and hire.", "source": "https://electmitchclemmons.com/"},
+   {"topic": "Public safety", "point": "Back law enforcement and first responders.", "source": "https://electmitchclemmons.com/"},
+   {"topic": "Immigration", "point": "Support border security.", "source": "https://electmitchclemmons.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaign calls for cutting regulatory red tape on small businesses.", "source": "https://electmitchclemmons.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Campaign pledges support for law enforcement and public safety policies.", "source": "https://electmitchclemmons.com/"},
+   "immigration": {"score": 70, "evidence": "Campaign lists border security as a priority.", "source": "https://electmitchclemmons.com/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site gives few specifics beyond broad priorities."
+ },
+ {
+  "id": "CA-42/robert-garcia",
+  "name": "Robert Garcia",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-42",
+  "bio": "Robert Garcia has represented California's 42nd district since 2023 and became ranking member of the House Oversight Committee in 2025. He previously served as mayor of Long Beach from 2014 to 2022 and on its city council. He was born in Lima, Peru, and came to the U.S. as a child.",
+  "website": "https://robertgarcia.com",
+  "social": {
+   "x": "https://x.com/RepRobertGarcia",
+   "instagram": "https://www.instagram.com/RepRobertGarcia",
+   "facebook": "https://www.facebook.com/reprobertgarcia"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Supports Medicare for All and co-founded the Mayors 4 Medicare coalition.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   {"topic": "Climate", "point": "Champions climate action plans, building on his Long Beach record.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   {"topic": "LGBTQ rights", "point": "Co-chairs the Equality Caucus and sponsored a bill for a U.S. envoy on international LGBTQ rights.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   {"topic": "Immigration", "point": "Advocates immigrant protections and has called for abolishing ICE.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   {"topic": "Government ethics", "point": "Co-sponsored the Stop Ballroom Bribery Act.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Progressive Caucus member who supports organized labor.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   "liberty": {"score": 15, "evidence": "On LGBTQ rights, co-chairs the Congressional Equality Caucus and sponsored an international LGBTQ rights envoy bill.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   "security": null,
+   "immigration": {"score": 10, "evidence": "Called for abolishing ICE in January 2026 and advocates immigrant protections.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   "foreign": {"score": 65, "evidence": "Voted for the April 2024 military aid packages for Ukraine, Israel and Taiwan.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   "energy": {"score": 85, "evidence": "Led Long Beach climate action plans and signed the Global Covenant of Mayors.", "source": "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-42/brian-burley",
+  "name": "Brian Burley",
+  "party": "Republican",
+  "current_role": "School board member",
+  "bio": "Brian Burley is a school board member running for Congress in California's 42nd district. His campaign highlights experience in education leadership and community service.",
+  "website": "https://www.burley4congress.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/Burley4HB/"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Push for tax relief for families and business owners.", "source": "https://www.burley4congress.com/"},
+   {"topic": "Immigration", "point": "Oppose illegal immigration.", "source": "https://www.burley4congress.com/"},
+   {"topic": "Public safety", "point": "Give full support to law enforcement and the military.", "source": "https://www.burley4congress.com/"},
+   {"topic": "Family values", "point": "Fight to restore American family values.", "source": "https://www.burley4congress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Campaign calls for tax relief for families and business owners.", "source": "https://www.burley4congress.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Campaign pledges full support for law enforcement.", "source": "https://www.burley4congress.com/"},
+   "immigration": {"score": 80, "evidence": "Campaign pledges to take a stand against illegal immigration.", "source": "https://www.burley4congress.com/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 20, "evidence": "Says that as a school board member he worked to protect parents' voices in schools.", "source": "https://www.burley4congress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/a86008_695773585da14371ab38bd4ec9820404~mv2.png",
+  "notes": "Which school board he serves on was not confirmed from the campaign homepage."
+ },
+ {
+  "id": "CA-43/maxine-waters",
+  "name": "Maxine Waters",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-43",
+  "bio": "Maxine Waters has served in the U.S. House since 1991 and is ranking member of the Financial Services Committee, which she chaired from 2019 to 2023. She served in the California State Assembly from 1976 to 1990 and chaired the Congressional Black Caucus in the late 1990s. She was born in St. Louis, Missouri.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepMaxineWaters",
+   "instagram": "https://www.instagram.com/repmaxinewaters",
+   "facebook": "https://www.facebook.com/MaxineWaters",
+   "youtube": "https://www.youtube.com/user/MaxineWaters"
+  },
+  "platform": [
+   {"topic": "Financial regulation", "point": "Pushes for oversight of Wall Street and cryptocurrency, including pressing Facebook to halt its Libra currency.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   {"topic": "Housing", "point": "Introduced legislation to fund affordable housing.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   {"topic": "Health care", "point": "Member of the Medicare for All Caucus.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   {"topic": "Abortion", "point": "Supports abortion rights and opposed overturning Roe v. Wade.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Leads Democratic efforts on Wall Street regulation and affordable housing funding.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   "welfare": {"score": 90, "evidence": "Member of the Medicare for All Caucus.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   "liberty": {"score": 15, "evidence": "Abortion: 100% NARAL rating; drugs: opposes mandatory minimum sentences.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   "security": {"score": 30, "evidence": "Opposes mandatory minimum sentencing and called for probing alleged CIA links to the crack epidemic.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   "immigration": null,
+   "foreign": {"score": 30, "evidence": "Founded the Out of Iraq Caucus, opposes the Cuba embargo and criticized the 2004 Haiti intervention.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Urged Facebook to halt Libra over regulatory, privacy and security concerns and pushed crypto oversight.", "source": "https://en.wikipedia.org/wiki/Maxine_Waters"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No separate campaign website was confirmed."
+ },
+ {
+  "id": "CA-43/cristian-morales",
+  "name": "Cristian Morales",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Cristian Morales is the Republican nominee for California's 43rd congressional district. Little public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or published issue positions were found."
+ },
+ {
+  "id": "CA-44/nanette-barragan",
+  "name": "Nanette Barragán",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-44",
+  "bio": "Nanette Barragán has represented California's 44th district since 2017 and chaired the Congressional Hispanic Caucus from 2023 to 2025. She previously served on the Hermosa Beach City Council and worked as an attorney at Latham & Watkins and in the Clinton White House. She was born in Harbor City, Los Angeles, to Mexican immigrant parents.",
+  "website": "http://barraganforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepBarragan",
+   "instagram": "https://www.instagram.com/repbarragan",
+   "facebook": "https://www.facebook.com/CongresswomanBarragan"
+  },
+  "platform": [
+   {"topic": "Environment", "point": "Seeks a ban on hydrofluoric acid at oil refineries near populated areas.", "source": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"},
+   {"topic": "Abortion", "point": "Supports abortion rights and opposed the Dobbs decision.", "source": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"},
+   {"topic": "Climate", "point": "Voted for the Inflation Reduction Act's clean-energy investments.", "source": "https://barragan.house.gov"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Voted for the Inflation Reduction Act.", "source": "https://barragan.house.gov"},
+   "welfare": null,
+   "liberty": {"score": 20, "evidence": "Abortion: 100% NARAL rating and opposed the Dobbs ruling.", "source": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 85, "evidence": "Pushes refinery hydrofluoric-acid ban and environmental rules; voted for the Inflation Reduction Act.", "source": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-44/genevieve-angel",
+  "name": "Genevieve Angel",
+  "party": "Republican",
+  "current_role": "Family nurse practitioner and small-business owner",
+  "bio": "Genevieve Angel is a family nurse practitioner, healthcare executive and small-business owner who has lived in California's 44th district for about 30 years. She describes herself as a first-time candidate rather than a career politician.",
+  "website": "https://www.angelforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower costs and expand economic opportunity.", "source": "https://www.angelforcongress.com/"},
+   {"topic": "Public safety", "point": "Keep communities safe with accountability.", "source": "https://www.angelforcongress.com/"},
+   {"topic": "Health care", "point": "Make health care more affordable and accessible.", "source": "https://www.angelforcongress.com/"},
+   {"topic": "Immigration", "point": "Pursue secure, fair and practical immigration solutions.", "source": "https://www.angelforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign lists only general goals, so no positions could be scored."
+ },
+ {
+  "id": "CA-45/derek-tran",
+  "name": "Derek Tran",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-45",
+  "bio": "Derek Tran has represented California's 45th district since January 2025 after narrowly defeating incumbent Michelle Steel. He is an attorney who founded a consumer law firm and co-owns a pharmacy in Anaheim. The son of Vietnamese refugees, he was born in Los Angeles County and grew up in the San Gabriel Valley.",
+  "website": "https://derektranforcongress.com",
+  "social": {},
+  "platform": [
+   {"topic": "Housing", "point": "Expand the Low-Income Housing Tax Credit.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   {"topic": "Retirement security", "point": "Protect Social Security and Medicare.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   {"topic": "Immigration", "point": "Opposes mass deportation and backs reform pairing border technology with a path to citizenship.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   {"topic": "Reproductive rights", "point": "Supports federal abortion protections and nationwide fertility-treatment access.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   {"topic": "National security", "point": "Prioritizes Taiwan's security and countering Chinese Communist Party influence.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Backs expanding the Low-Income Housing Tax Credit.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   "welfare": {"score": 65, "evidence": "Pledges to protect Social Security and Medicare.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   "liberty": {"score": 25, "evidence": "Abortion: supports federal protections and Planned Parenthood funding; guns: backs gun violence prevention.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   "security": {"score": 55, "evidence": "Voted for the Laken Riley Act detaining immigrants accused of theft crimes.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   "immigration": {"score": 35, "evidence": "Opposes mass deportations and backs a path to citizenship, but voted for the Laken Riley Act.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   "foreign": {"score": 75, "evidence": "Co-chairs a Democratic national security task force and prioritizes Taiwan's security.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   "energy": {"score": 70, "evidence": "Member of the Sustainable Energy & Environment Coalition and the Fusion Energy Caucus.", "source": "https://en.wikipedia.org/wiki/Derek_Tran"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score rests on caucus memberships rather than specific votes or statements."
+ },
+ {
+  "id": "CA-45/chuong-vo",
+  "name": "Chuong Vo",
+  "party": "Republican",
+  "current_role": "Former Mayor of Cerritos",
+  "bio": "Chuong Vo is a retired law enforcement officer with 28 years of service and a former mayor and city council member of Cerritos. He also served on the executive board of the California Joint Powers Insurance Authority. He comes from an immigrant family and is running in California's 45th district.",
+  "website": "https://www.vo4congress.com/",
+  "social": {
+   "x": "https://twitter.com/chuongvoca",
+   "instagram": "https://www.instagram.com/chuongvoca/",
+   "facebook": "https://www.facebook.com/chuongvoca"
+  },
+  "platform": [
+   {"topic": "Public safety", "point": "Strengthen policing with body cameras and de-escalation training while targeting fentanyl trafficking and organized retail theft.", "source": "https://www.vo4congress.com/"},
+   {"topic": "Cost of living", "point": "Cut wasteful spending, audit agencies for fraud, and protect Social Security and Medicare.", "source": "https://www.vo4congress.com/"},
+   {"topic": "Immigration", "point": "Secure the border, speed asylum processing and modernize legal immigration pathways.", "source": "https://www.vo4congress.com/"},
+   {"topic": "Education", "point": "Expand career-technical and STEM programs and evidence-based literacy teaching, with parental involvement.", "source": "https://www.vo4congress.com/"},
+   {"topic": "Ethics", "point": "Ban stock trading by members of Congress and strengthen ethics enforcement.", "source": "https://www.vo4congress.com/"},
+   {"topic": "Foreign policy", "point": "Support allies, especially Taiwan, through technology and training while avoiding endless military interventions.", "source": "https://www.vo4congress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 35, "evidence": "Campaign calls for cutting wasteful federal spending.", "source": "https://www.vo4congress.com/"},
+   "welfare": {"score": 45, "evidence": "Pledges to protect Social Security and Medicare while auditing programs for fraud.", "source": "https://www.vo4congress.com/"},
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Former officer who backs stronger law enforcement and tougher action on fentanyl trafficking.", "source": "https://www.vo4congress.com/"},
+   "immigration": {"score": 65, "evidence": "Supports border security alongside faster asylum processing and modernized legal pathways.", "source": "https://www.vo4congress.com/"},
+   "foreign": {"score": 60, "evidence": "Backs supporting allies such as Taiwan but opposes endless military interventions.", "source": "https://www.vo4congress.com/"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 50, "evidence": "Backs CTE, STEM and literacy programs while advocating parental involvement.", "source": "https://www.vo4congress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://irp.cdn-website.com/e9944fa7/dms3rep/multi/opt/Vo_Header-231w.PNG",
+  "notes": "The earlier Commons photo was credited to the City of Cerritos without a specific free licence, so it was dropped. The campaign image appears to be a header graphic and may not be a pure headshot."
+ },
+ {
+  "id": "CA-46/lou-correa",
+  "name": "Lou Correa",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for CA-46",
+  "bio": "Lou Correa has represented California's 46th district since 2017 and serves on the House Judiciary Committee. He previously served in the California State Assembly, on the Orange County Board of Supervisors and in the California State Senate. Born in East Los Angeles and raised in Anaheim, he holds economics, law and business degrees.",
+  "website": "https://loucorrea.com",
+  "social": {
+   "x": "https://x.com/RepLouCorrea",
+   "instagram": "https://www.instagram.com/reploucorrea",
+   "facebook": "https://www.facebook.com/RepLouCorrea"
+  },
+  "platform": [
+   {"topic": "Abortion", "point": "Believes abortion decisions belong to a woman and her doctor, and opposed overturning Roe.", "source": "https://en.wikipedia.org/wiki/Lou_Correa"},
+   {"topic": "Immigration", "point": "Works on immigration policy through the Judiciary immigration subcommittee and the Hispanic Caucus.", "source": "https://en.wikipedia.org/wiki/Lou_Correa"},
+   {"topic": "Privacy", "point": "Voted to block funding for vehicle kill-switch technology.", "source": "https://en.wikipedia.org/wiki/Lou_Correa"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 20, "evidence": "Abortion: 100% NARAL rating and opposed overturning Roe v. Wade.", "source": "https://en.wikipedia.org/wiki/Lou_Correa"},
+   "security": {"score": 40, "evidence": "One of four Democrats who voted to block funding for vehicle kill-switch technology.", "source": "https://en.wikipedia.org/wiki/Lou_Correa"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 35, "evidence": "Voted against the 2022 antitrust merger filing fee bill.", "source": "https://en.wikipedia.org/wiki/Lou_Correa"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "CA-46/david-pan",
+  "name": "David Pan",
+  "party": "Republican",
+  "current_role": "Professor at UC Irvine",
+  "bio": "David Pan is a professor at the University of California, Irvine, and the Republican nominee for California's 46th district. He is challenging incumbent Democrat Lou Correa.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Welfare", "point": "Replace existing welfare with a $16,000 yearly basic income for citizens 21 and older plus health care vouchers.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   {"topic": "Immigration", "point": "Close the border and add stronger background and health screening for asylum seekers and visa holders.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   {"topic": "Energy", "point": "Adopt a carbon tax instead of subsidies and let markets pick winners.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   {"topic": "Drugs", "point": "Impose severe penalties on drug dealers while treating addiction as a public health emergency.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   {"topic": "Higher education", "point": "Withhold federal funds from universities that do not follow the Supreme Court's affirmative action ruling.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"}
+  ],
+  "positions": {
+   "economy": {"score": 35, "evidence": "Favors smaller government and market-driven outcomes over company subsidies.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   "welfare": {"score": 50, "evidence": "Would replace means-tested welfare with a universal basic income plus private health care vouchers.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   "liberty": {"score": 65, "evidence": "Drugs: supports severe penalties for drug dealers.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   "security": {"score": 65, "evidence": "Backs harsher criminal penalties for drug dealing.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   "immigration": {"score": 80, "evidence": "Calls for closing the border and tighter screening of asylum seekers and visa holders.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   "foreign": null,
+   "energy": {"score": 55, "evidence": "Proposes a carbon tax in place of clean-energy subsidies.", "source": "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The earlier education score of 30 (school choice) was removed because the cited interview only discusses affirmative action in universities. No campaign website was confirmed."
+ }
+]

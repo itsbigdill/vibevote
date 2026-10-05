@@ -1,0 +1,523 @@
+[
+ {
+  "id": "UT-3/cassie-easley",
+  "name": "Cassie Easley",
+  "party": "Constitution",
+  "current_role": "",
+  "bio": "Cassie Easley is the Constitution Party nominee for Utah's 3rd Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public issue statements were found; only the state candidate filing is available."
+ },
+ {
+  "id": "UT-3/adonis-hooslyn",
+  "name": "Adonis Hooslyn",
+  "party": "Unaffiliated",
+  "current_role": "",
+  "bio": "Adonis Hooslyn is an unaffiliated candidate for Utah's 3rd Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The state filing lists him as unaffiliated; no campaign website or public issue statements were found."
+ },
+ {
+  "id": "UT-3/michael-stoddard",
+  "name": "Michael R. Stoddard",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Michael R. Stoddard is the Libertarian Party nominee for Utah's 3rd Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public issue statements were found; the state filing lists him as Michael R. Stoddard."
+ },
+ {
+  "id": "UT-3/ayden-scott",
+  "name": "Ayden Scott",
+  "party": "Unaffiliated",
+  "current_role": "",
+  "bio": "Ayden Scott is an unaffiliated candidate for Utah's 3rd Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The state filing lists him as unaffiliated; no campaign website or public issue statements were found."
+ },
+ {
+  "id": "UT-4/mike-kennedy",
+  "name": "Mike Kennedy",
+  "party": "Republican",
+  "current_role": "U.S. Representative for UT-3",
+  "bio": "Mike Kennedy is a family physician and attorney who has represented Utah in the U.S. House since 2025. He previously served in the Utah House of Representatives (2013-2019) and the Utah Senate (2021-2025), and sought the Republican nomination for U.S. Senate in 2018. Born in Michigan, he earned degrees from Brigham Young University and Michigan State University.",
+  "website": "https://www.mikekennedyforutah.com/",
+  "social": {
+   "x": "https://x.com/repmikekennedy",
+   "facebook": "https://www.facebook.com/RepMikeKennedy",
+   "instagram": "https://www.instagram.com/repmikekennedy"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Shrink the federal government's role, cut red tape for small businesses and return decisions to states and families.",
+    "source": "https://mikekennedy.house.gov/issues/economy"
+   },
+   {
+    "topic": "Border security",
+    "point": "End catch-and-release, equip law enforcement, deport repeat felons and modernize legal immigration.",
+    "source": "https://mikekennedy.house.gov/issues/border-security"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue an all-of-the-above energy strategy with faster permitting and more domestic oil, gas, nuclear and geothermal output.",
+    "source": "https://mikekennedy.house.gov/issues/energy"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand health savings accounts and price transparency, and cut prior-authorization delays for patients.",
+    "source": "https://mikekennedy.house.gov/issues/healthcare"
+   },
+   {
+    "topic": "Education",
+    "point": "Support technical schools, rural STEM teacher recruitment and community college completion transparency.",
+    "source": "https://mikekennedy.house.gov/issues/education"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Says the federal government should get out of the way, cut regulations and return dollars and decisions to states and families.",
+    "source": "https://mikekennedy.house.gov/issues/economy"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Criticizes the Affordable Care Act and favors market-based options such as health savings accounts and price transparency.",
+    "source": "https://mikekennedy.house.gov/issues/healthcare"
+   },
+   "liberty": {
+    "score": 50,
+    "evidence": "Mixes an anti-abortion stance with strong gun-rights support, including permitless carry, per his record.",
+    "source": "https://www.ontheissues.org/House/Mike_Kennedy.htm"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "Calls border security national security and backs equipping law enforcement and tougher detention standards.",
+    "source": "https://mikekennedy.house.gov/issues/border-security"
+   },
+   "immigration": {
+    "score": 65,
+    "evidence": "Backs ending catch-and-release and deporting repeat felons while modernizing legal immigration and curbing H-1B abuse.",
+    "source": "https://mikekennedy.house.gov/issues/border-security"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Supports expanded oil and gas production, deregulation and faster permitting under an all-of-the-above approach.",
+    "source": "https://mikekennedy.house.gov/issues/energy"
+   },
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 70,
+    "evidence": "His record, as compiled by OnTheIssues, supports religious values in public policy.",
+    "source": "https://www.ontheissues.org/House/Mike_Kennedy.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "He currently represents Utah's 3rd district and is the Republican nominee in the redrawn 4th district per the state filing list. Liberty and faith scores rest on earlier OnTheIssues research that could not be re-fetched."
+ },
+ {
+  "id": "UT-4/jonny-larsen",
+  "name": "Jonny Larsen",
+  "party": "Democratic",
+  "current_role": "Former U.S. Marine Corps sergeant",
+  "bio": "Jonny Larsen is a former U.S. Marine Corps sergeant and the Democratic nominee for Utah's 4th Congressional District. He describes himself as a Blue Dog Democrat focused on working families and bipartisan cooperation.",
+  "website": "https://jonnyutah4congress.com/",
+  "social": {
+   "x": "https://x.com/vote4jonnyutah",
+   "instagram": "https://www.instagram.com/jonnyutah4congress",
+   "facebook": "https://www.facebook.com/jonnyutah4congress",
+   "tiktok": "https://www.tiktok.com/@jonnyutah4congress",
+   "youtube": "https://www.youtube.com/@jonnyutah4congress"
+  },
+  "platform": [
+   {
+    "topic": "Childcare",
+    "point": "Make childcare affordable for single parents and working families.",
+    "source": "https://jonnyutah4congress.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Ensure seniors and working families can afford health coverage.",
+    "source": "https://jonnyutah4congress.com/"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Keep public lands under public stewardship.",
+    "source": "https://jonnyutah4congress.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Support Utah farmers and ranchers.",
+    "source": "https://jonnyutah4congress.com/"
+   },
+   {
+    "topic": "Bipartisanship",
+    "point": "Work across party lines on the issues most Americans agree on.",
+    "source": "https://jonnyutah4congress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 60,
+    "evidence": "Calls for affordable childcare and health coverage that seniors and working families can afford.",
+    "source": "https://jonnyutah4congress.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://jonnyutah4congress.com/images/hero/jonny-landing-page-image.webp?v=1",
+  "notes": ""
+ },
+ {
+  "id": "UT-4/taylor-wright",
+  "name": "Taylor Wright",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Taylor Wright is the Libertarian Party nominee for Utah's 4th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public issue statements were found; only the state candidate filing is available."
+ },
+ {
+  "id": "UT-4/steven-burt",
+  "name": "Steven Burt",
+  "party": "Unaffiliated",
+  "current_role": "",
+  "bio": "Steven Burt is an unaffiliated candidate for Utah's 4th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The state filing lists him as unaffiliated; no campaign website or public issue statements were found."
+ },
+ {
+  "id": "VT-AL/becca-balint",
+  "name": "Becca Balint",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for VT-AL",
+  "bio": "Becca Balint has represented Vermont's at-large district in the U.S. House since 2023. She served in the Vermont Senate from 2015 to 2023, including as majority leader and president pro tempore. A former teacher and columnist, she was raised in New York and moved to Vermont in 1994.",
+  "website": "https://balint.house.gov",
+  "social": {
+   "x": "https://x.com/RepBeccaB",
+   "facebook": "https://www.facebook.com/repbeccab",
+   "instagram": "https://www.instagram.com/repbeccab"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Supports the Medicare for All Act and extending Affordable Care Act premium tax credits.",
+    "source": "https://balint.house.gov/Issues/Issue/?IssueID=14939"
+   },
+   {
+    "topic": "Education",
+    "point": "Seeks robust, equitable K-12 public school funding and affordable early childhood education.",
+    "source": "https://balint.house.gov/Issues/Issue/?IssueID=14901"
+   },
+   {
+    "topic": "Higher education",
+    "point": "Works to lower college costs and eliminate student debt.",
+    "source": "https://balint.house.gov/Issues/Issue/?IssueID=14901"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Backs comprehensive immigration reform and more resources to speed refugee and asylum processing.",
+    "source": "https://balint.house.gov/Issues/Issue/?IssueID=14914"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Called for a Gaza ceasefire and supported blocking offensive weapons sales to Israel.",
+    "source": "https://en.wikipedia.org/wiki/Becca_Balint"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 90,
+    "evidence": "Says she is a proud supporter of the Medicare for All Act.",
+    "source": "https://balint.house.gov/Issues/Issue/?IssueID=14939"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Supports abortion rights, LGBTQ protections such as a conversion therapy ban, and expanded gun background checks.",
+    "source": "https://en.wikipedia.org/wiki/Becca_Balint"
+   },
+   "security": {
+    "score": 20,
+    "evidence": "Opposes ICE raids and detention practices she views as violating constitutional rights, and backed limiting police roles in immigration enforcement.",
+    "source": "https://balint.house.gov/Issues/Issue/?IssueID=14914"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Supports comprehensive reform, faster asylum processing and opposes aggressive ICE enforcement.",
+    "source": "https://balint.house.gov/Issues/Issue/?IssueID=14914"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Voted for Syria withdrawal and supports blocking offensive weapons sales to Israel.",
+    "source": "https://en.wikipedia.org/wiki/Becca_Balint"
+   },
+   "energy": {
+    "score": 90,
+    "evidence": "Holds a 100% lifetime score from Vermont Conservation Voters.",
+    "source": "https://en.wikipedia.org/wiki/Becca_Balint"
+   },
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Calls for robust and equitable funding for K-12 public schools.",
+    "source": "https://balint.house.gov/Issues/Issue/?IssueID=14901"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Welfare and education scores were added from her official issue pages."
+ },
+ {
+  "id": "VT-AL/gerald-malloy",
+  "name": "Gerald Malloy",
+  "party": "Republican",
+  "current_role": "Retired U.S. Army officer",
+  "bio": "Gerald Malloy is a West Point graduate who served 22 years on active duty in the U.S. Army and later worked in government and in technology and service businesses. He lives in Vermont and was the Republican nominee for U.S. Senate in 2022 and 2024.",
+  "website": "https://www.deploymalloy.com/",
+  "social": {
+   "facebook": "https://www.facebook.com/geraldmalloyvt"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Bring high-paying jobs back to Vermont and reduce federal regulation on businesses.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   {
+    "topic": "Fiscal policy",
+    "point": "Balance the budget while protecting Social Security and Medicare benefits.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue a diverse energy strategy to lower heating and electricity costs.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   {
+    "topic": "Education",
+    "point": "Empower parents and local school boards and support school choice.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   {
+    "topic": "Public safety and defense",
+    "point": "Fully support law enforcement and keep the military strong with spending accountability.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   {
+    "topic": "Constitution",
+    "point": "Limit federal overreach and support congressional term limits.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Opposes tax increases and calls for reducing federal regulations on businesses.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Favors market-based health care reform while pledging to protect Social Security and Medicare.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   "liberty": null,
+   "security": {
+    "score": 65,
+    "evidence": "Pledges full support for law enforcement.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   "immigration": {
+    "score": 65,
+    "evidence": "Pledges to strengthen border and national security.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Calls for maintaining a strong national defense.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   "energy": {
+    "score": 40,
+    "evidence": "Supports a diverse energy strategy focused on affordability rather than mandates.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   "tech": null,
+   "education": {
+    "score": 25,
+    "evidence": "Supports school choice and a larger role for parents and local school boards.",
+    "source": "https://www.deploymalloy.com/landing/positions/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Commons portrait (CC BY-SA 4.0) was uploaded by a campaign volunteer account, so it was treated as a campaign photo and not used. The immigration score rests on a brief border-security pledge without further detail."
+ },
+ {
+  "id": "VT-AL/phoenix-altair",
+  "name": "Phoenix Altair",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Phoenix Altair is an independent candidate for Vermont's at-large U.S. House seat in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public issue statements were found."
+ },
+ {
+  "id": "VT-AL/adam-ortiz",
+  "name": "Adam Ortiz",
+  "party": "Independent",
+  "current_role": "Window installation contractor",
+  "bio": "Adam Ortiz is a window installation contractor running as an independent for Vermont's at-large U.S. House seat. He previously ran for the seat in 2022 and 2024, receiving about 5.5% of the vote in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public issue statements were found."
+ }
+]

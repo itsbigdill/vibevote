@@ -1,0 +1,454 @@
+[
+ {
+  "id": "TX-12/craig-goldman",
+  "name": "Craig Goldman",
+  "party": "Republican",
+  "race": "TX-12",
+  "race_label": "Texas · US House TX-12",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000601",
+   "official_name": "Craig A. Goldman",
+   "chamber": "House",
+   "official_site": "https://craiggoldman.house.gov",
+   "official_social": {
+    "twitter": "RepCraigGoldman",
+    "facebook": "61571449239416",
+    "instagram": "repcraiggoldman"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Priorities include reducing taxes and securing the border.",
+   "sources": [
+    "https://www.mccaininstitute.org/the-sedona-forum/speaker/rep-craig-goldman/"
+   ],
+   "photo": {
+    "file": "File:Craig Goldman, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "Nate Payne"
+   }
+  }
+ },
+ {
+  "id": "TX-12/angela-rodriguez-prilliman",
+  "name": "Angela Rodriguez Prilliman",
+  "party": "Democratic",
+  "race": "TX-12",
+  "race_label": "Texas · US House TX-12",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 100,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Campaigns for universal health care and universal child care and fully funding public schools.",
+   "sources": [
+    "https://www.helifortexas.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-13/ronny-jackson",
+  "name": "Ronny Jackson",
+  "party": "Republican",
+  "race": "TX-13",
+  "race_label": "Texas · US House TX-13",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "J000304",
+   "official_name": "Ronny Jackson",
+   "chamber": "House",
+   "official_site": "https://jackson.house.gov",
+   "official_social": {
+    "twitter": "RepRonnyJackson",
+    "facebook": "RepRonnyJackson",
+    "instagram": "RepRonnyJackson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 65,
+    "security": 65,
+    "immigration": 90,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Opposed American Rescue Plan and 'socialist healthcare', backs border wall, public carry, keeping police rules; called transgender people a cancer (liberty: LGBTQ, guns).",
+   "sources": [
+    "https://www.ontheissues.org/TX/Ronny_Jackson.htm",
+    "https://en.wikipedia.org/wiki/Ronny_Jackson"
+   ],
+   "photo": {
+    "file": "File:Ronny Jackson, official portrait, 117th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "TX-13/mark-nair",
+  "name": "Mark Nair",
+  "party": "Democratic",
+  "race": "TX-13",
+  "race_label": "Texas · US House TX-13",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 95,
+    "liberty": null,
+    "security": 20,
+    "immigration": 20,
+    "foreign": null,
+    "energy": null,
+    "tech": 85,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, path to citizenship and DREAMer protections, AI safeguards, facial-recognition surveillance ban, free community college.",
+   "sources": [
+    "https://www.marknair.com/platform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-14/randy-weber",
+  "name": "Randy Weber",
+  "party": "Republican",
+  "race": "TX-14",
+  "race_label": "Texas · US House TX-14",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000814",
+   "official_name": "Randy K. Weber, Sr.",
+   "chamber": "House",
+   "official_site": "https://weber.house.gov",
+   "official_social": {
+    "twitter": "TXRandy14",
+    "facebook": "TXRandy14",
+    "youtube": "TXRandy14",
+    "instagram": "TXRandy14"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 10,
+    "liberty": 75,
+    "security": 50,
+    "immigration": 90,
+    "foreign": 65,
+    "energy": 10,
+    "tech": null,
+    "education": 15,
+    "faith": 85
+   },
+   "basis": "Flat tax, ACA repeal, welfare work requirements, abortion bans and same-sex marriage opposition (liberty), ending birthright citizenship, offshore drilling, vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/TX/Randy_Weber.htm",
+    "https://en.wikipedia.org/wiki/Randy_Weber"
+   ],
+   "photo": {
+    "file": "File:Randy Weber 118th cong (cropped).jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "TX-14/thurman-bartie",
+  "name": "Thurman Bartie",
+  "party": "Democratic",
+  "race": "TX-14",
+  "race_label": "Texas · US House TX-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 80,
+    "liberty": null,
+    "security": 50,
+    "immigration": 25,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Supports universal healthcare and restoring the ACA, rolling back tariffs, humane immigration reform over mass deportation, investing in teachers.",
+   "sources": [
+    "https://votebartie.org/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-15/monica-de-la-cruz",
+  "name": "Monica De La Cruz",
+  "party": "Republican",
+  "race": "TX-15",
+  "race_label": "Texas · US House TX-15",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000594",
+   "official_name": "Monica De La Cruz",
+   "chamber": "House",
+   "official_site": "https://delacruz.house.gov",
+   "official_social": {
+    "twitter": "RepMonicaDLC",
+    "facebook": "RepMonicaDLC",
+    "instagram": "RepMonicaDLC",
+    "youtube": "@RepMonicaDLC"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 65,
+    "security": 65,
+    "immigration": 55,
+    "foreign": 65,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Lower taxes and spending, abortion ban with life exception and gun rights (liberty), qualified immunity, DIGNIDAD Act legal-status cosponsor, Israel support, fracking.",
+   "sources": [
+    "https://www.ontheissues.org/TX/Monica_De_La_Cruz.htm",
+    "https://en.wikipedia.org/wiki/Monica_De_La_Cruz"
+   ],
+   "photo": {
+    "file": "File:Monica De La Cruz, official portrait, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "TX-15/bobby-pulido",
+  "name": "Bobby Pulido",
+  "party": "Democratic",
+  "race": "TX-15",
+  "race_label": "Texas · US House TX-15",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": 45,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Wants stronger Medicare and Medicaid, less small-business red tape, border security plus a path to legalization, and opposes school vouchers.",
+   "sources": [
+    "https://www.bobbypulidofortexas.com/issues/"
+   ],
+   "photo": {
+    "file": "File:Bobby23 (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Mezquitic"
+   }
+  }
+ },
+ {
+  "id": "TX-16/veronica-escobar",
+  "name": "Veronica Escobar",
+  "party": "Democratic",
+  "race": "TX-16",
+  "race_label": "Texas · US House TX-16",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "E000299",
+   "official_name": "Veronica Escobar",
+   "chamber": "House",
+   "official_site": "https://escobar.house.gov",
+   "official_social": {
+    "twitter": "RepEscobar",
+    "facebook": "RepEscobar",
+    "instagram": "repescobar",
+    "youtube": "UC46TX2P8K0CA_4gZv8_R2Og"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": 25,
+    "security": 30,
+    "immigration": 15,
+    "foreign": 45,
+    "energy": 90,
+    "tech": 65,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Single-payer healthcare, higher minimum wage, abortion rights and marijuana legalization (liberty), police accountability, citizenship path, Green New Deal, net neutrality.",
+   "sources": [
+    "https://www.ontheissues.org/TX/Veronica_Escobar.htm",
+    "https://en.wikipedia.org/wiki/Veronica_Escobar"
+   ],
+   "photo": {
+    "file": "File:Veronica Escobar official portrait, 116th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "TX-16/adam-bauman",
+  "name": "Adam Bauman",
+  "party": "Republican",
+  "race": "TX-16",
+  "race_label": "Texas · US House TX-16",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-17/pete-sessions",
+  "name": "Pete Sessions",
+  "party": "Republican",
+  "race": "TX-17",
+  "race_label": "Texas · US House TX-17",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S000250",
+   "official_name": "Pete Sessions",
+   "chamber": "House",
+   "official_site": "https://sessions.house.gov",
+   "official_social": {
+    "twitter": "PeteSessions",
+    "facebook": "petesessions",
+    "instagram": "congressmanpetesessions",
+    "youtube": "@congressmanpetesessions"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 80,
+    "security": 80,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 5,
+    "tech": 55,
+    "education": 10,
+    "faith": 90
+   },
+   "basis": "ACA repeal, pro-life votes and marriage amendment (liberty), permanent PATRIOT Act, border enforcement, offshore drilling, merger antitrust vote, vouchers, school prayer.",
+   "sources": [
+    "https://www.ontheissues.org/TX/Pete_Sessions.htm",
+    "https://sessions.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Pete_Sessions"
+   ],
+   "photo": {
+    "file": "File:Pete Sessions, official portrait, 117th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "TX-17/casey-shepard",
+  "name": "Casey Shepard",
+  "party": "Democratic",
+  "race": "TX-17",
+  "race_label": "Texas · US House TX-17",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "photo": null
+  }
+ }
+]

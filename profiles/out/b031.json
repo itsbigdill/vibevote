@@ -1,0 +1,287 @@
+[
+ {
+  "id": "DC-DEL/kymone-freeman",
+  "name": "Kymone Freeman",
+  "party": "DC Statehood Green",
+  "current_role": "Radio host",
+  "bio": "Kymone Freeman is a Washington, D.C. radio host. He is the D.C. Statehood Green Party nominee for Delegate in 2026, having also run for the seat in 2024.",
+  "website": "https://freeman4congress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "DC statehood", "point": "Campaigns on the slogan \"No Representation, No Taxes,\" objecting to District residents paying federal taxes without voting representation.", "source": "https://freeman4congress.com/"}
+  ],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site has almost no policy detail and Ballotpedia could not be reached, so no positions could be scored."
+ },
+ {
+  "id": "FL-1/jimmy-patronis",
+  "name": "Jimmy Patronis",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-1",
+  "bio": "Jimmy Patronis has represented Florida's 1st District since winning an April 2025 special election to succeed Matt Gaetz. He was previously Florida's Chief Financial Officer (2017-2025), a member of the Florida Public Service Commission and a state representative (2006-2014). A Panama City native, he is a partner in a family-run seafood restaurant.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Voted for the 2025 reconciliation law extending tax cuts and adding Medicaid work requirements.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   {"topic": "Veterans", "point": "Lists veterans' issues as a main focus of his congressional office.", "source": "https://patronis.house.gov/issues"},
+   {"topic": "Small business", "point": "Highlights small-business and economic initiatives among his priority issue areas.", "source": "https://patronis.house.gov/issues"},
+   {"topic": "Infrastructure", "point": "Lists transportation and infrastructure as a priority issue for the district.", "source": "https://patronis.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2025 One Big Beautiful Bill Act, which extended and expanded tax cuts.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 reconciliation law that added Medicaid work requirements and program cuts.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website could not be loaded (certificate error), so platform items draw on his official House site and votes."
+ },
+ {
+  "id": "FL-1/gay-valimont",
+  "name": "Gay Valimont",
+  "party": "Democratic",
+  "current_role": "Gun-safety advocate",
+  "bio": "Gay Valimont is a Gulf Breeze-area gun-safety advocate who was the Democratic nominee for Florida's 1st District in 2024 and in the April 2025 special election, losing to Jimmy Patronis. She is the Democratic nominee again in 2026.",
+  "website": "https://www.gayforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Healthcare", "point": "Wants every person able to see a doctor affordably, protect Social Security and Medicare, and cap insulin and drug costs.", "source": "https://www.gayforcongress.com/issues"},
+   {"topic": "Cost of living", "point": "Aims to cut homeowners insurance costs by 25%, curb shrinkflation and expand affordable housing.", "source": "https://www.gayforcongress.com/issues"},
+   {"topic": "Veterans", "point": "Seeks a full-service VA hospital for the district and a smaller VA claims backlog.", "source": "https://www.gayforcongress.com/issues"},
+   {"topic": "Immigration", "point": "Backs border technology and more immigration judges alongside citizenship paths for Dreamers and refugees.", "source": "https://www.gayforcongress.com/issues"},
+   {"topic": "Guns", "point": "Supports responsible ownership with universal background checks and red flag laws.", "source": "https://www.gayforcongress.com/issues"},
+   {"topic": "Voting rights", "point": "Supports the John Lewis Voting Rights Act and campaign finance reform.", "source": "https://www.gayforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Campaigns against corporate price increases and shrinkflation while backing unions, fair wages and small-business tax incentives.", "source": "https://www.gayforcongress.com/issues"},
+   "welfare": {"score": 85, "evidence": "Supports health care access for everyone, protecting Social Security and Medicare, and capping drug costs.", "source": "https://www.gayforcongress.com/issues"},
+   "liberty": {"score": 70, "evidence": "On guns, supports universal background checks and red flag laws; no stated positions found on other liberty issues.", "source": "https://www.gayforcongress.com/issues"},
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Pairs border technology and judges with due process and citizenship pathways for Dreamers and refugees.", "source": "https://www.gayforcongress.com/issues"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 80, "evidence": "Calls for higher teacher pay and protecting federal education grants and funding for schools.", "source": "https://www.gayforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site links to X, Instagram, Facebook and TikTok but the exact account URLs could not be confirmed."
+ },
+ {
+  "id": "FL-1/tyler-davis",
+  "name": "Tyler Davis",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Tyler Davis is an independent candidate for Florida's 1st Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public statements were found beyond the state candidate list."
+ },
+ {
+  "id": "FL-2/austin-rogers",
+  "name": "Austin Rogers",
+  "party": "Republican",
+  "current_role": "Attorney",
+  "bio": "Austin Rogers is a Panama City attorney who previously served as general counsel to U.S. Senator Rick Scott. He is a graduate of Duke Law School and is the Republican nominee for Florida's 2nd District.",
+  "website": "https://rogersforflorida.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Border security", "point": "Pledges to secure the border as part of an America First agenda.", "source": "https://rogersforflorida.com/"},
+   {"topic": "Law enforcement and military", "point": "Promises to back police and the military.", "source": "https://rogersforflorida.com/"},
+   {"topic": "Trump agenda", "point": "Says he will support President Trump's America First policies in Congress.", "source": "https://rogersforflorida.com/"},
+   {"topic": "Local economy", "point": "Highlights support for local industries such as shipbuilding and for small businesses.", "source": "https://rogersforflorida.com/"}
+  ],
+  "positions": {
+   "economy": null, "welfare": null, "liberty": null, "security": null,
+   "immigration": {"score": 75, "evidence": "Campaign lists securing the border as a top pledge under an America First agenda.", "source": "https://rogersforflorida.com/"},
+   "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "FL-2/amanda-green",
+  "name": "Amanda Green",
+  "party": "Democratic",
+  "current_role": "Operations manager",
+  "bio": "Amanda Green, an operations manager, is the Democratic nominee for Florida's 2nd Congressional District; her campaign is based in Tallahassee and uses the name Amanda Marie Green. Her campaign centers on accountability in Congress and regular public town halls.",
+  "website": "https://www.amgforcongress.com/",
+  "social": {
+   "x": "https://x.com/AMGforCongress",
+   "instagram": "https://www.instagram.com/amgforcongress",
+   "facebook": "https://www.facebook.com/profile.php?id=61581474694195",
+   "tiktok": "https://www.tiktok.com/@amgforcongress"
+  },
+  "platform": [
+   {"topic": "Congressional ethics", "point": "Would ban individual stock trading by members of Congress.", "source": "https://www.amgforcongress.com/"},
+   {"topic": "Term limits", "point": "Supports term limits for members of Congress.", "source": "https://www.amgforcongress.com/"},
+   {"topic": "Campaign finance", "point": "Refuses billionaire donations and wants to reduce money's role in politics.", "source": "https://www.amgforcongress.com/"},
+   {"topic": "Constituent access", "point": "Promises regular in-person and virtual town halls.", "source": "https://www.amgforcongress.com/"}
+  ],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Name kept as listed in the input and on Wikipedia; her campaign uses Amanda Marie Green. Occupation comes from Wikipedia's race page."
+ },
+ {
+  "id": "FL-3/kat-cammack",
+  "name": "Kat Cammack",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-3",
+  "bio": "Kat Cammack has represented Florida's 3rd District since 2021. Before that she was deputy chief of staff to Rep. Ted Yoho and ran a political consulting firm. Born in Denver and raised on a Colorado cattle ranch, she holds a master's degree from the Naval War College.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepKatCammack",
+   "facebook": "https://www.facebook.com/RepKatCammack",
+   "instagram": "https://www.instagram.com/repkatcammack"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Voted for the 2025 reconciliation law extending tax cuts.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   {"topic": "Border", "point": "Supports building a border wall and voted for the Laken Riley Act on detaining migrants charged with crimes.", "source": "https://en.wikipedia.org/wiki/Kat_Cammack"},
+   {"topic": "Energy", "point": "Calls for more U.S. oil production while cosponsoring a ban on drilling off Florida until 2032.", "source": "https://en.wikipedia.org/wiki/Kat_Cammack"},
+   {"topic": "Abortion", "point": "Co-chairs the Pro-Life Caucus and favors leaving abortion law to the states with limited exceptions.", "source": "https://en.wikipedia.org/wiki/Kat_Cammack"},
+   {"topic": "Priorities", "point": "Official site lists the economy, education, energy, health and veterans as focus areas.", "source": "https://cammack.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2025 One Big Beautiful Bill Act and its tax cuts.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "welfare": {"score": 20, "evidence": "Voted for the 2025 reconciliation law adding Medicaid work requirements.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "liberty": {"score": 60, "evidence": "Abortion: co-chairs the Pro-Life Caucus and backs limits with narrow exceptions; guns: opposes universal background checks.", "source": "https://en.wikipedia.org/wiki/Kat_Cammack"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Supports a border wall and voted for the Laken Riley Act.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "foreign": {"score": 50, "evidence": "Voted for the 2022 Ukraine Lend-Lease Act but has a mixed record on later foreign aid votes.", "source": "https://en.wikipedia.org/wiki/Kat_Cammack"},
+   "energy": {"score": 30, "evidence": "Says the U.S. needs more oil production, while backing an offshore drilling ban near Florida.", "source": "https://en.wikipedia.org/wiki/Kat_Cammack"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Faith score of 70 was cleared because no cited statement or vote on religion in public life was found. Campaign website could not be reached."
+ },
+ {
+  "id": "FL-3/seth-harp",
+  "name": "Seth Harp",
+  "party": "Democratic",
+  "current_role": "Middle school civics teacher",
+  "bio": "Seth Harp is a Gainesville civics teacher at Lincoln Middle School. He spent more than 25 years in radio, managing stations in six states including ESPN Gainesville, and taught as an adjunct at the University of Florida's journalism college.",
+  "website": "https://www.sethharpforcongress.com/",
+  "social": {
+   "x": "https://x.com/harpforcongress",
+   "instagram": "https://www.instagram.com/harpforcongress",
+   "facebook": "https://www.facebook.com/HarpForCongress"
+  },
+  "platform": [
+   {"topic": "Social Security", "point": "Would raise the payroll tax cap to $250,000 to shore up benefits without cutting payments.", "source": "https://www.sethharpforcongress.com/issues"},
+   {"topic": "Healthcare", "point": "Aims to guarantee affordable health care so no family goes bankrupt from illness.", "source": "https://www.sethharpforcongress.com/issues"},
+   {"topic": "Child care", "point": "Proposes the C.U.B.S. Act with sliding-scale child care subsidies for working families.", "source": "https://www.sethharpforcongress.com/issues"},
+   {"topic": "Housing", "point": "Would tax corporate home purchases at rising rates and encourage starter-home construction.", "source": "https://www.sethharpforcongress.com/issues"},
+   {"topic": "Corporate taxes", "point": "Would set the corporate tax rate at 26% and cap CEO pay at 150 times median worker pay.", "source": "https://www.sethharpforcongress.com/issues"},
+   {"topic": "Student loans", "point": "Would cap federal student loan interest at 3.1% and tie repayment to income.", "source": "https://www.sethharpforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Proposes a 26% corporate tax rate, a CEO pay cap and escalating taxes on corporate home buying.", "source": "https://www.sethharpforcongress.com/issues"},
+   "welfare": {"score": 85, "evidence": "Backs guaranteed affordable health care, universal school lunch and expanded child care subsidies.", "source": "https://www.sethharpforcongress.com/issues"},
+   "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/1389e5_6c0caf1acc5f4e59a7f3a07eb740d298~mv2.jpg",
+  "notes": "Not the same person as former Georgia state senator Seth Harp or the journalist of the same name. Campaign photo URL is taken from the About page and was not visually checked."
+ },
+ {
+  "id": "FL-3/mike-klein",
+  "name": "Mike Klein",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Mike Klein is an independent candidate for Florida's 3rd Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public statements were found beyond the state candidate list."
+ },
+ {
+  "id": "FL-4/aaron-bean",
+  "name": "Aaron Bean",
+  "party": "Republican",
+  "current_role": "U.S. Representative for FL-4",
+  "bio": "Aaron Bean has represented Florida's 4th District, covering Clay, Duval and Nassau counties, since 2023. He previously served in the Florida House (2000-2008) and the Florida Senate (2012-2022), where he was president pro tempore. He is from Fernandina Beach and describes himself as a conservative businessman.",
+  "website": "https://www.aaronbean.com/",
+  "social": {
+   "x": "https://x.com/RepAaronBean",
+   "facebook": "https://www.facebook.com/100089355874563",
+   "instagram": "https://www.instagram.com/RepAaronBean",
+   "youtube": "https://www.youtube.com/channel/UCRUXWEoksCyUZA8Ua7XVjCg"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Promotes the Working Families Tax Cut and defends its Medicaid changes as improving accountability.", "source": "https://bean.house.gov/issues"},
+   {"topic": "Benefits for non-citizens", "point": "Opposes extending public benefits to non-citizens.", "source": "https://en.wikipedia.org/wiki/Aaron_Bean"},
+   {"topic": "Housing", "point": "Opposed the 2026 ROAD to Housing Act, citing concerns about institutional investors buying homes.", "source": "https://en.wikipedia.org/wiki/Aaron_Bean"},
+   {"topic": "Israel and Iran", "point": "Voted for Israel aid after October 2023 and against limiting war powers on Iran.", "source": "https://en.wikipedia.org/wiki/Aaron_Bean"},
+   {"topic": "Priorities", "point": "Official site lists economy, education, energy, health and veterans as focus areas.", "source": "https://bean.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2025 One Big Beautiful Bill Act tax cuts, which he promotes as the Working Families Tax Cut.", "source": "https://clerk.house.gov/evs/2025/roll190.xml"},
+   "welfare": {"score": 20, "evidence": "Defends the 2025 law's Medicaid changes and opposed Medicaid expansion in Florida.", "source": "https://bean.house.gov/issues"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Voted for the Laken Riley Act and opposes public benefits for non-citizens.", "source": "https://clerk.house.gov/evs/2025/roll023.xml"},
+   "foreign": {"score": 75, "evidence": "Voted for Israel aid and against war powers limits on U.S. operations against Iran.", "source": "https://en.wikipedia.org/wiki/Aaron_Bean"},
+   "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "FL-4/lashonda-holloway",
+  "name": "LaShonda Holloway",
+  "party": "Democratic",
+  "current_role": "Attorney",
+  "bio": "LaShonda \"L.J.\" Holloway is an attorney with a law degree from the University of Florida who previously worked for the EPA and AT&T. She was recognized as a youth civil rights advocate by the Southern Christian Leadership Conference and is the Democratic nominee for Florida's 4th District.",
+  "website": "https://www.hollowayforcongress.com/",
+  "social": {
+   "x": "https://x.com/lj4congress",
+   "instagram": "https://www.instagram.com/lj4congress",
+   "facebook": "https://www.facebook.com/LJHollowayforCongress"
+  },
+  "platform": [
+   {"topic": "Healthcare", "point": "Wants broader coverage, more preventive care and better access to mental health services.", "source": "https://www.hollowayforcongress.com/"},
+   {"topic": "Education", "point": "Aims to lower college costs and invest in quality learning resources.", "source": "https://www.hollowayforcongress.com/"},
+   {"topic": "Communities", "point": "Seeks access to food, jobs, health care and affordable housing for local communities.", "source": "https://www.hollowayforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 80, "evidence": "Treats health care as a basic right regardless of income and calls for expanded coverage.", "source": "https://www.hollowayforcongress.com/"},
+   "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null,
+   "education": {"score": 70, "evidence": "Supports investing in education resources and reducing higher education costs.", "source": "https://www.hollowayforcongress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/65fa4ec138b7f05f249ede0d/eb27a424-8789-40c6-9ffb-fb2082c198e8/headshot+%28trp%29.png",
+  "notes": ""
+ },
+ {
+  "id": "FL-4/mike-sell",
+  "name": "Mike Sell",
+  "party": "Forward",
+  "current_role": "",
+  "bio": "Mike Sell is the Forward Party candidate for Florida's 4th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public statements were found beyond the state candidate list."
+ }
+]

@@ -1,0 +1,411 @@
+[
+ {
+  "id": "TX-6/danny-minton",
+  "name": "Danny Minton",
+  "party": "Democratic",
+  "current_role": "Healthcare professional",
+  "bio": "Danny Minton is a healthcare professional from Arlington, Texas, with a zoology degree and advanced study in epidemiology. He was raised in Oklahoma and says he was once a Republican before joining the Democratic Party. He is the Democratic nominee for Texas's 6th Congressional District.",
+  "website": "https://www.dannyfortexas.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/dannyfortexas/",
+   "facebook": "https://www.facebook.com/profile.php?id=61579091540344",
+   "tiktok": "https://www.tiktok.com/@dannyfortexas",
+   "youtube": "https://www.youtube.com/@Dannyfortexas"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Pursue universal, affordable health care modeled on programs like Medicare and the VA, with lower costs and less paperwork.", "source": "https://www.dannyfortexas.com/priorities"},
+   {"topic": "Education", "point": "Protect the Department of Education, fund strong public schools and ban school vouchers nationwide.", "source": "https://www.dannyfortexas.com/priorities"},
+   {"topic": "Wages and taxes", "point": "Raise the federal minimum wage to $17 indexed to inflation, raise taxes on billionaires and expand the Child Tax Credit.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton"},
+   {"topic": "Small business", "point": "Support tax and trade policies that favor small Main Street businesses over large corporate monopolies.", "source": "https://www.dannyfortexas.com/priorities"},
+   {"topic": "Immigration", "point": "Secure the border while ending family separation and detention camps and limiting federal involvement in local policing.", "source": "https://www.dannyfortexas.com/priorities"},
+   {"topic": "Voting rights", "point": "Back the John Lewis Voting Rights Act, fair district maps and broader voting access.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports a $17 indexed minimum wage and higher taxes on billionaires and large corporations.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton"},
+   "welfare": {"score": 80, "evidence": "Calls for universal, affordable health care and an expanded Child Tax Credit.", "source": "https://www.dannyfortexas.com/priorities"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Pairs border security with opposition to family separation and detention camps, and backs sharply reducing or abolishing ICE.", "source": "https://www.dannyfortexas.com/priorities"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Supports the Green New Deal and solar incentives.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton"},
+   "tech": null,
+   "education": {"score": 90, "evidence": "Wants to protect the Department of Education and ban school vouchers nationwide.", "source": "https://www.dannyfortexas.com/priorities"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/a3dbba_e2942e6b99464eb6add8d862253adb45~mv2.png",
+  "notes": "Welfare raised from 65 to 80 and education from 75 to 90 based on his universal health care and nationwide voucher ban positions on the campaign site."
+ },
+ {
+  "id": "TX-7/lizzie-fletcher",
+  "name": "Lizzie Fletcher",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for TX-7",
+  "bio": "Lizzie Fletcher has represented Texas's 7th Congressional District in the U.S. House since 2019 and serves on the Energy and Commerce Committee. Before Congress she was an attorney at Vinson & Elkins and later became the first woman partner at the Houston firm Ahmad, Zavitsanos. She was born and raised in Houston.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepFletcher",
+   "instagram": "https://www.instagram.com/repfletcher",
+   "facebook": "https://www.facebook.com/RepFletcher",
+   "youtube": "https://www.youtube.com/channel/UCIWDLoDPvawP118TNWi-9rg"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Streamline LNG permitting, support Gulf Coast hydrogen incentives and fund clean transportation such as electric school buses.", "source": "https://fletcher.house.gov/Issues/Issue/?IssueID=14892"},
+   {"topic": "Immigration", "point": "Conduct oversight of ICE detention conditions and use-of-force policies and oppose added ICE funding.", "source": "https://fletcher.house.gov/Issues/Issue/?IssueID=14893"},
+   {"topic": "Reproductive health", "point": "Protect access to reproductive care, including opposing Planned Parenthood defunding and defending IVF access.", "source": "https://fletcher.house.gov/Issues/Issue/?IssueID=14894"},
+   {"topic": "Gun safety", "point": "Advance gun violence prevention measures as co-chair of the House Gun Violence Prevention Task Force.", "source": "https://en.wikipedia.org/wiki/Lizzie_Fletcher"},
+   {"topic": "Coastal resilience", "point": "Share offshore wind revenue with coastal states for shoreline protection through the bipartisan RISEE Act.", "source": "https://en.wikipedia.org/wiki/Lizzie_Fletcher"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 30, "evidence": "Pro-Choice Caucus member and gun violence prevention task force co-chair; abortion rights drive the score toward individual choice.", "source": "https://en.wikipedia.org/wiki/Lizzie_Fletcher"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Voted against a 2023 border security bill and increased ICE funding and conducts detention oversight.", "source": "https://fletcher.house.gov/Issues/Issue/?IssueID=14893"},
+   "foreign": null,
+   "energy": {"score": 55, "evidence": "Backs clean transportation and offshore wind revenue sharing while co-chairing the Natural Gas Caucus and supporting faster LNG permitting.", "source": "https://fletcher.house.gov/Issues/Issue/?IssueID=14892"},
+   "tech": {"score": 40, "evidence": "Voted against the 2022 Merger Filing Fee Modernization Act antitrust measure.", "source": "https://en.wikipedia.org/wiki/Lizzie_Fletcher"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy lowered from 65 to 55 because her official energy page emphasizes LNG permitting and she co-chairs the Natural Gas Caucus. Campaign website not confirmed."
+ },
+ {
+  "id": "TX-7/alexander-hale",
+  "name": "Alexander Hale",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Alexander Hale is the Republican nominee for Texas's 7th Congressional District in Houston. His campaign describes him as a devout Christian running on constitutional principles, limited government and market-based solutions.",
+  "website": "https://www.halefortexas.com/",
+  "social": {
+   "x": "https://x.com/halefortexas",
+   "instagram": "https://www.instagram.com/halefortexas",
+   "facebook": "https://www.facebook.com/share/1BAo9UPeDN/",
+   "tiktok": "https://www.tiktok.com/@halefortexas"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Defend Houston's energy industry and the families and jobs that depend on it.", "source": "https://www.halefortexas.com/"},
+   {"topic": "Affordability", "point": "Bring down costs of housing, insurance, health care and electricity.", "source": "https://www.halefortexas.com/"},
+   {"topic": "Health care", "point": "Give patients more control over health care pricing decisions.", "source": "https://www.halefortexas.com/"},
+   {"topic": "Public safety", "point": "Secure more federal resources to fight crime in Houston.", "source": "https://www.halefortexas.com/"},
+   {"topic": "Spending", "point": "Cut wasteful federal spending to reduce inflation.", "source": "https://www.halefortexas.com/"},
+   {"topic": "Local control", "point": "Shift decisions from federal agencies to state and local authorities.", "source": "https://www.halefortexas.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Campaigns on limited government, market-based solutions and spending cuts.", "source": "https://www.halefortexas.com/"},
+   "welfare": {"score": 25, "evidence": "Favors patient-driven, market-based health care and reduced federal spending.", "source": "https://www.halefortexas.com/"},
+   "liberty": null,
+   "security": {"score": 65, "evidence": "Seeks more federal resources for fighting crime in Houston.", "source": "https://www.halefortexas.com/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Makes defending Houston's oil and gas industry a top priority.", "source": "https://www.halefortexas.com/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.halefortexas.com/site/HaleForCongressPhoto.jpeg",
+  "notes": "His campaign site gives little career background. The campaign photo URL was built from the site's image-optimizer path and may need checking."
+ },
+ {
+  "id": "TX-7/espoir-ngabo",
+  "name": "Espoir Ngabo",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Espoir Ngabo is the Green Party nominee for Texas's 7th Congressional District in the Houston area.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue statements were found."
+ },
+ {
+  "id": "TX-8/jessica-steinmann",
+  "name": "Jessica Steinmann",
+  "party": "Republican",
+  "current_role": "Attorney; former director of the DOJ Office for Victims of Crime",
+  "bio": "Jessica Steinmann led the U.S. Justice Department's Office for Victims of Crime during the first Trump administration and later served as executive general counsel at the America First Policy Institute. She previously worked for Senator Ted Cruz and helped draft Texas's election integrity law. She lives in Montgomery County, Texas.",
+  "website": "https://www.jessicasteinmann.com/",
+  "social": {
+   "x": "https://x.com/TeamSteinmann"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Secure the border and end catch-and-release.", "source": "https://www.jessicasteinmann.com/"},
+   {"topic": "Girls' sports", "point": "Keep transgender girls out of girls' athletics, building on legal challenges she has led.", "source": "https://www.jessicasteinmann.com/about"},
+   {"topic": "Energy", "point": "Expand American oil and natural gas production.", "source": "https://www.jessicasteinmann.com/"},
+   {"topic": "Elections", "point": "Strengthen election integrity and fight voter fraud.", "source": "https://www.jessicasteinmann.com/"},
+   {"topic": "Economy", "point": "Reduce regulation and support job creators and a strong business climate.", "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-jessica-steinmann-for-texas-8th-congressional-district"},
+   {"topic": "Technology", "point": "Keep U.S. AI leadership ahead of China and support crypto and digital assets.", "source": "https://www.jessicasteinmann.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Backs reducing regulatory burdens and pro-business growth policies.", "source": "https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-jessica-steinmann-for-texas-8th-congressional-district"},
+   "welfare": null,
+   "liberty": {"score": 80, "evidence": "On LGBTQ issues, opposes transgender girls in girls' sports and campaigns against what she calls woke ideology affecting children.", "source": "https://www.jessicasteinmann.com/about"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Calls for finishing border security and ending catch-and-release.", "source": "https://www.jessicasteinmann.com/"},
+   "foreign": null,
+   "energy": {"score": 20, "evidence": "Wants to expand U.S. oil and natural gas production.", "source": "https://www.jessicasteinmann.com/"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Campaigns on defending parental rights over children's education.", "source": "https://www.jessicasteinmann.com/"},
+   "faith": {"score": 80, "evidence": "Presents herself as a Christian conservative and cites religious-liberty legal work on behalf of service members.", "source": "https://www.jessicasteinmann.com/"}
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/690c2088b272a652a90d7a58/56a756d8-bb3a-45cc-adbd-42820d478621/Screenshot+2025-11-07+at+7.47.22%E2%80%AFAM.png",
+  "notes": "The military religious-liberty lawsuit behind the faith score comes from earlier research and was not re-confirmed on the current campaign pages."
+ },
+ {
+  "id": "TX-8/laura-jones",
+  "name": "Laura Jones",
+  "party": "Democratic",
+  "current_role": "Small-business owner",
+  "bio": "Laura Jones is a Houston-born small-business owner and Army mother. She has chaired the San Jacinto County Democrats and served as a field director for the Texas Democratic Party's Rural Caucus. This is her third run for Texas's 8th Congressional District.",
+  "website": "https://www.laura4tx.com/",
+  "social": {
+   "x": "https://x.com/CongressLaura",
+   "instagram": "https://www.instagram.com/laurajonesforcongress",
+   "facebook": "https://www.facebook.com/LauraJonesforCongress",
+   "tiktok": "https://www.tiktok.com/@laurajonesforcongress",
+   "youtube": "https://www.youtube.com/channel/UCSPDn0eP30v7lpZCs4jolpA"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Enact Medicare for All, remove insurance middlemen and let government negotiate drug and care prices.", "source": "https://www.laura4tx.com/"},
+   {"topic": "Taxes", "point": "Cut taxes for most households while raising them on billionaires and corporations to fund housing, schools and infrastructure.", "source": "https://www.laura4tx.com/"},
+   {"topic": "Wages", "point": "Raise the federal minimum wage and index it to the cost of living.", "source": "https://www.laura4tx.com/"},
+   {"topic": "Education", "point": "Cancel federal student debt and make education free from early childhood through trade school or community college.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-laura-jones-for"},
+   {"topic": "Climate", "point": "Make large federal climate investments with protections for workers and farmers during the energy transition.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-laura-jones-for"},
+   {"topic": "Foreign aid", "point": "Stop military aid to governments that commit human rights abuses, including Israel and Egypt.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-laura-jones-for"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Wants higher taxes on billionaires and corporations and an indexed minimum wage increase.", "source": "https://www.laura4tx.com/"},
+   "welfare": {"score": 100, "evidence": "Supports Medicare for All.", "source": "https://www.laura4tx.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 25, "evidence": "Opposes military aid to countries with human rights abuses, including Israel and Egypt.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-laura-jones-for"},
+   "energy": {"score": 90, "evidence": "Backs large federal climate investment in line with the Green New Deal.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-laura-jones-for"},
+   "tech": null,
+   "education": {"score": 95, "evidence": "Supports tuition-free public college and free public education from early childhood onward.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-laura-jones-for"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Immigration score removed because the cited source does not address ICE or immigration."
+ },
+ {
+  "id": "TX-9/leticia-gutierrez",
+  "name": "Leticia Gutierrez",
+  "party": "Democratic",
+  "current_role": "Community organizer",
+  "bio": "Leticia Gutierrez is a Houston advocate and organizer with about 15 years of experience on community issues. Her work has focused on environmental justice and immigrant rights. She is the Democratic nominee for Texas's 9th Congressional District.",
+  "website": "https://www.leticiaforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/leticiaforcongress",
+   "facebook": "https://www.facebook.com/people/Leticia-for-Congress/61584859186530/"
+  },
+  "platform": [
+   {"topic": "Environmental justice", "point": "Fight industrial pollution that harms children's health in Houston neighborhoods.", "source": "https://www.leticiaforcongress.com/"},
+   {"topic": "Immigrant rights", "point": "Protect the safety and dignity of immigrant communities.", "source": "https://www.leticiaforcongress.com/"},
+   {"topic": "Accountability", "point": "Demand answers and justice in cases such as deaths involving ICE.", "source": "https://www.leticiaforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Advocates for immigrant community safety and accountability for ICE.", "source": "https://www.leticiaforcongress.com/"},
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Campaigns against industrial pollution as an environmental-justice advocate.", "source": "https://www.leticiaforcongress.com/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/4d72b752-79c6-4861-b1de-7b514e4e8935/f3c8e6db-4983-4928-8071-f72e0117bba7/f3c8e6db-4983-4928-8071-f72e0117bba7.jpg",
+  "notes": ""
+ },
+ {
+  "id": "TX-9/alex-mealer",
+  "name": "Alex Mealer",
+  "party": "Republican",
+  "current_role": "Small-business owner and Army veteran",
+  "bio": "Alex Mealer is a West Point graduate who served as an Army explosive ordnance disposal officer, including a deployment to Afghanistan, and later earned law and business degrees from Harvard. She worked as an oil and gas investment banker, was the 2022 Republican nominee for Harris County Judge and served on the Houston METRO board. She was born in Sacramento, California.",
+  "website": "https://alexandramealer.com/",
+  "social": {
+   "x": "https://x.com/AlexMealerTX",
+   "instagram": "https://www.instagram.com/AlexMealerTX",
+   "facebook": "https://www.facebook.com/AlexMealerTX"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Cut taxes and regulations to make living more affordable and create jobs.", "source": "https://alexandramealer.com/"},
+   {"topic": "Border security", "point": "Enforce immigration law and fund law enforcement against cartels and human trafficking.", "source": "https://alexandramealer.com/"},
+   {"topic": "Energy", "point": "Expand domestic oil and gas production to lower prices and secure U.S. energy.", "source": "https://alexandramealer.com/"},
+   {"topic": "Public safety", "point": "Fully back law enforcement to make cities safer.", "source": "https://alexandramealer.com/"},
+   {"topic": "Infrastructure", "point": "Push flood mitigation around Lake Houston and protect the Houston Ship Channel.", "source": "https://alexandramealer.com/"},
+   {"topic": "Congressional reform", "point": "Ban stock trading by members of Congress and impose term limits.", "source": "https://alexandramealer.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Calls for cutting taxes and regulations.", "source": "https://alexandramealer.com/"},
+   "welfare": null,
+   "liberty": {"score": 75, "evidence": "On LGBTQ issues, wants to keep transgender women out of women's sports and locker rooms.", "source": "https://alexandramealer.com/"},
+   "security": {"score": 70, "evidence": "Pledges full support for law enforcement and federal resources for police.", "source": "https://alexandramealer.com/"},
+   "immigration": {"score": 80, "evidence": "Wants to restore order at the border and enforce immigration laws.", "source": "https://alexandramealer.com/"},
+   "foreign": null,
+   "energy": {"score": 25, "evidence": "Champions expanded domestic oil and gas production.", "source": "https://alexandramealer.com/"},
+   "tech": {"score": 55, "evidence": "Wants U.S. AI leadership over China alongside AI safety safeguards and data protection.", "source": "https://alexandramealer.com/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "TX-10/chris-gober",
+  "name": "Chris Gober",
+  "party": "Republican",
+  "current_role": "Attorney and law firm founder",
+  "bio": "Chris Gober is an Austin-based election and political law attorney who founded a conservative law firm and in 2024 directed Elon Musk's America PAC. He is a graduate of Texas A&M University and Harvard Law School and grew up in Throckmorton and Graham, Texas. He won the Republican nomination for Texas's 10th Congressional District with President Trump's endorsement.",
+  "website": "https://www.chrisgober.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Border security", "point": "Secure the southern border and help Texas law enforcement fight cartels, drug trafficking and gangs.", "source": "https://www.chrisgober.com/"},
+   {"topic": "Government accountability", "point": "Stop what he describes as the weaponization of government against conservatives.", "source": "https://www.chrisgober.com/"},
+   {"topic": "Defense and technology", "point": "Highlights Texas A&M's RELLIS campus as a key national defense asset for the district.", "source": "https://www.kbtx.com/2026/03/03/republican-chris-gober-seeks-us-house-district-10-seat/"},
+   {"topic": "Rural Texas", "point": "Cut taxes, lower input costs for farmers and ranchers and protect agriculture from foreign interests.", "source": "https://www.kbtx.com/2026/03/03/republican-chris-gober-seeks-us-house-district-10-seat/"},
+   {"topic": "AI", "point": "Pursue AI development that shields rural communities from infrastructure burdens.", "source": "https://www.chrisgober.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Wants to cut taxes and lower farm input costs, paired with protecting agriculture from foreign interests.", "source": "https://www.kbtx.com/2026/03/03/republican-chris-gober-seeks-us-house-district-10-seat/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Pledges to secure the southern border and crack down on cartels.", "source": "https://www.chrisgober.com/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 25, "evidence": "Campaign site opposes what he calls woke ideologies in classrooms.", "source": "https://www.chrisgober.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No specific school-choice or tax proposals were found on his campaign site; the education score rests on his opposition to classroom ideology."
+ },
+ {
+  "id": "TX-10/caitlin-rourk",
+  "name": "Caitlin Rourk",
+  "party": "Democratic",
+  "current_role": "Army officer and former Dell communications lead",
+  "bio": "Caitlin Rourk is a military intelligence officer who served full-time in the Texas Army National Guard and in the Army Reserve, including disaster and border mobilizations. She previously led communications at Dell Technologies and worked in public policy. She holds degrees from the University of Chicago and UT Austin's McCombs School and has lived in Central Texas for over a decade.",
+  "website": "https://caitlinrourk.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/caitlinrourk",
+   "facebook": "https://www.facebook.com/caitlinrourkforcongress"
+  },
+  "platform": [
+   {"topic": "Wages and taxes", "point": "Phase in a $17 indexed minimum wage and close loopholes to raise taxes on billionaires and large corporations.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk"},
+   {"topic": "Health care", "point": "Lower health care costs and expand access.", "source": "https://caitlinrourk.com/issues"},
+   {"topic": "Education and child care", "point": "Strengthen public schools and child care.", "source": "https://caitlinrourk.com/issues"},
+   {"topic": "Foreign policy", "point": "Condition U.S. military aid on humanitarian law, withholding offensive weapons from Israel while keeping defensive aid.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk"},
+   {"topic": "Government reform", "point": "Ban corporate PACs and congressional stock trading and create public campaign financing.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk"},
+   {"topic": "AI", "point": "Protect communities from harms in the age of artificial intelligence.", "source": "https://caitlinrourk.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports a $17 indexed minimum wage and higher taxes on billionaires and large corporations.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 45, "evidence": "Would condition military aid on humanitarian law and keep only defensive aid for Israel.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 75, "evidence": "Lists strengthening public schools and child care as a campaign priority.", "source": "https://caitlinrourk.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/d2032033-f888-404d-91e5-f846bf22a031/0d00ce19-d24f-4dab-ada9-ae7e63c12958/0d00ce19-d24f-4dab-ada9-ae7e63c12958.png",
+  "notes": "Her issues page lists immigration and AI as priorities but the fetched version gave no details."
+ },
+ {
+  "id": "TX-11/august-pfluger",
+  "name": "August Pfluger",
+  "party": "Republican",
+  "current_role": "U.S. Representative for TX-11",
+  "bio": "August Pfluger has represented Texas's 11th Congressional District since 2021 and has chaired the Republican Study Committee since 2025. He served 20 years as an Air Force fighter pilot and commander, remains a colonel in the Air Force Reserve, and briefly served on the National Security Council. He is a U.S. Air Force Academy graduate born in Harris County, Texas.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepPfluger",
+   "instagram": "https://www.instagram.com/repaugustpfluger",
+   "facebook": "https://www.facebook.com/RepAugustPfluger",
+   "youtube": "https://www.youtube.com/channel/UC8bJT16wpa7co50ELvpMTTg"
+  },
+  "platform": [
+   {"topic": "Energy", "point": "Expand domestic energy and LNG exports, and follow up on his law repealing the natural gas fee.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14890"},
+   {"topic": "Border", "point": "Maintain strong border protection and enforcement.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14897"},
+   {"topic": "Life and guns", "point": "Protect unborn life and treat the right to bear arms as absolute.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14897"},
+   {"topic": "Agriculture", "point": "Support farming and ranching as vital to national security.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14897"},
+   {"topic": "Israel", "point": "Oppose conditioning U.S. aid to Israel.", "source": "https://en.wikipedia.org/wiki/August_Pfluger"},
+   {"topic": "Regulation", "point": "Roll back Biden-era endangered species listings that affect energy-producing regions.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14890"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 25, "evidence": "Argues domestic energy jobs reduce poverty more effectively than government assistance.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14897"},
+   "liberty": {"score": 65, "evidence": "Strongly pro-life on abortion but calls gun rights absolute, which pulls the average toward individual choice.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14897"},
+   "security": {"score": 65, "evidence": "Lists backing law enforcement among his core principles.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14897"},
+   "immigration": {"score": 80, "evidence": "Calls for strong border protection and enforcement.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14897"},
+   "foreign": {"score": 75, "evidence": "Ukraine Caucus member and strong Israel supporter who opposes conditioning aid.", "source": "https://en.wikipedia.org/wiki/August_Pfluger"},
+   "energy": {"score": 15, "evidence": "Led the repeal of the natural gas fee, advanced an LNG export bill and challenged endangered species listings.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14890"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 85, "evidence": "Says the nation rests on Judeo-Christian principles and reliance on God.", "source": "https://pfluger.house.gov/Issues/Issue/?IssueID=14897"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not confirmed."
+ },
+ {
+  "id": "TX-11/claire-reynolds",
+  "name": "Claire Reynolds",
+  "party": "Democratic",
+  "current_role": "Attorney",
+  "bio": "Claire Reynolds is an attorney and former journalist with degrees from Northwestern University's Medill School and the University of San Diego School of Law. She was born in Indiana, raised in central Illinois and has lived in Texas since 2007. She is the Democratic nominee for Texas's 11th Congressional District.",
+  "website": "https://www.clairereynoldsforcongress.org/",
+  "social": {},
+  "platform": [
+   {"topic": "Wages", "point": "Raise the federal minimum wage to at least $17, indexed to inflation, with $25 as a longer-term goal.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"},
+   {"topic": "Education", "point": "Cancel federal student debt and make public college tuition-free.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"},
+   {"topic": "Policing", "point": "End qualified immunity and set federal police accountability standards.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"},
+   {"topic": "Immigration", "point": "Replace a militarized border and ICE funding with funded asylum review and guest worker pathways.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"},
+   {"topic": "Campaign finance", "point": "Ban corporate PACs and create public campaign financing.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Supports a $17 to $25 federal minimum wage indexed to inflation.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 15, "evidence": "Wants to end qualified immunity and impose federal police accountability standards.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"},
+   "immigration": {"score": 15, "evidence": "Opposes a militarized border, supports abolishing ICE and favors asylum and guest worker pathways.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 80, "evidence": "Backs tuition-free public college and federal student debt cancellation.", "source": "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her campaign website did not resolve during research. Welfare and liberty scores were removed because the cited source does not cover health care or abortion."
+ }
+]

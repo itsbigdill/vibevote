@@ -1,0 +1,651 @@
+[
+ {
+  "id": "NE-1/chris-backemeyer",
+  "name": "Chris Backemeyer",
+  "party": "Democratic",
+  "race": "NE-1",
+  "race_label": "Nebraska · US House NE-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NE-1/chris-backemeyer",
+   "name": "Chris Backemeyer",
+   "party": "Democratic",
+   "current_role": "Former Deputy Assistant Secretary of State",
+   "bio": "Chris Backemeyer is the Democratic nominee for Nebraska's 1st congressional district, born and raised in Lincoln. He joined the State Department after 9/11 and worked on counterterrorism, economic policy and the Middle East under administrations of both parties, rising to deputy assistant secretary. He also served on the White House National Security Council and advised the Office of the Vice President.",
+   "website": "https://backnebraska.com/",
+   "social": {
+    "x": "https://x.com/ChrisBackemeyer",
+    "facebook": "https://www.facebook.com/chrisbackemeyerNE",
+    "instagram": "https://www.instagram.com/chrisbackemeyerne/",
+    "youtube": "https://www.youtube.com/channel/UCNfOaZcAMuM7es-ibhf7tXA"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Lower costs and restore the middle class.",
+     "source": "https://backnebraska.com/priorities/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Make health care affordable and accessible.",
+     "source": "https://backnebraska.com/priorities/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Pair fair immigration policy with a secure border.",
+     "source": "https://backnebraska.com/priorities/"
+    },
+    {
+     "topic": "National security",
+     "point": "Restore American leadership against China, Russia and Iran.",
+     "source": "https://backnebraska.com/priorities/"
+    },
+    {
+     "topic": "Budget",
+     "point": "Rein in the national debt and end dysfunction in Washington.",
+     "source": "https://backnebraska.com/priorities/"
+    },
+    {
+     "topic": "Agriculture",
+     "point": "Support agriculture and rural communities.",
+     "source": "https://backnebraska.com/priorities/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 55,
+     "evidence": "Calls for smart, fair immigration together with a secure border.",
+     "source": "https://backnebraska.com/priorities/"
+    },
+    "foreign": {
+     "score": 75,
+     "evidence": "Campaigns on restoring American leadership and confronting China, Russia and Iran.",
+     "source": "https://backnebraska.com/priorities/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Christopher Backemyer DOS (cropped).jpg",
+    "license": "Public domain",
+    "author": "US Department of State"
+   },
+   "campaign_photo": "",
+   "notes": "The Commons file title misspells the surname as Backemyer, but its source is his State Department biography."
+  }
+ },
+ {
+  "id": "NJ-10/carmen-bucco",
+  "name": "Carmen Bucco",
+  "party": "Republican",
+  "race": "NJ-10",
+  "race_label": "New Jersey · US House NJ-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NJ-10/carmen-bucco",
+   "name": "Carmen Bucco",
+   "party": "Republican",
+   "current_role": "Small-business owner",
+   "bio": "Carmen Bucco is a small-business owner and founder of the charitable foundation Bucco's Rising Stars. She was the Republican nominee for New Jersey's 10th district in both the 2024 special and regular elections. Her campaign biography describes a childhood that included foster care and homelessness.",
+   "website": "https://carmenbucco.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/buccofornewjersey",
+    "facebook": "https://www.facebook.com/Buccofornewjersey"
+   },
+   "platform": [
+    {
+     "topic": "Public safety",
+     "point": "Supports police and first responders and opposes restrictions that limit law enforcement.",
+     "source": "https://carmenbucco.com/issues/"
+    },
+    {
+     "topic": "Taxes",
+     "point": "Wants to control government spending, cut waste and ease the cost of living.",
+     "source": "https://carmenbucco.com/issues/"
+    },
+    {
+     "topic": "Small business",
+     "point": "Proposes reducing regulatory burdens and loan barriers for small businesses.",
+     "source": "https://carmenbucco.com/issues/"
+    },
+    {
+     "topic": "Corruption",
+     "point": "Pledges to hold public officials accountable and root out political corruption.",
+     "source": "https://carmenbucco.com/issues/"
+    },
+    {
+     "topic": "Education",
+     "point": "Calls for a return to academic fundamentals, safer schools and more trade education.",
+     "source": "https://carmenbucco.com/issues/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Calls for controlling spending, eliminating waste and reducing regulations on small businesses.",
+     "source": "https://carmenbucco.com/issues/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 15,
+     "evidence": "On guns, backs Second Amendment rights for self-protection; no positions found on abortion, drugs, LGBTQ rights or speech.",
+     "source": "https://carmenbucco.com/issues/"
+    },
+    "security": {
+     "score": 75,
+     "evidence": "Opposes restrictions on police and supports a tough-on-crime approach.",
+     "source": "https://carmenbucco.com/issues/"
+    },
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "NJ-3/michael-mcguire",
+  "name": "Michael McGuire",
+  "party": "Republican",
+  "race": "NJ-3",
+  "race_label": "New Jersey · US House NJ-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NJ-3/michael-mcguire",
+   "name": "Michael McGuire",
+   "party": "Republican",
+   "current_role": "Family law attorney and Marine Corps veteran",
+   "bio": "Michael McGuire is a family law attorney from Freehold Township and the Republican nominee for New Jersey's 3rd District. He is a U.S. Marine Corps veteran serving in the Navy Reserve and previously worked as a New York City police officer. He has not held elected office and earlier ran for a local school board.",
+   "website": "https://michaelmcguireforcongress.com/",
+   "social": {
+    "x": "https://x.com/MikeMcGuireNJ",
+    "instagram": "https://www.instagram.com/michaelmcguireforcongressnj03/",
+    "facebook": "https://www.facebook.com/profile.php?id=61585312319321"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Cut wasteful federal spending and lower taxes on middle- and working-class families.",
+     "source": "https://michaelmcguireforcongress.com/issues/"
+    },
+    {
+     "topic": "Term limits",
+     "point": "Supports term limits for members of Congress to increase accountability.",
+     "source": "https://michaelmcguireforcongress.com/issues/"
+    },
+    {
+     "topic": "National defense",
+     "point": "Prioritize military readiness, training and modernization.",
+     "source": "https://michaelmcguireforcongress.com/issues/"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Improve the VA and ensure veterans can access health care, including mental health services.",
+     "source": "https://michaelmcguireforcongress.com/issues/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Calls for cutting wasteful spending and lowering taxes on middle-class families.",
+     "source": "https://michaelmcguireforcongress.com/issues/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 60,
+     "evidence": "Prioritizes military readiness, training and modernization.",
+     "source": "https://michaelmcguireforcongress.com/issues/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://michaelmcguireforcongress.com/wp-content/uploads/2025/08/McGuire_1920-x-1135-2C-ALT.png",
+   "notes": "Campaign lists an endorsement from New Jersey Right to Life PAC but publishes no abortion position of its own. The campaign image is a wide banner rather than a tight headshot."
+  }
+ },
+ {
+  "id": "NJ-5/sean-kirrane",
+  "name": "Sean Kirrane",
+  "party": "Republican",
+  "race": "NJ-5",
+  "race_label": "New Jersey · US House NJ-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NJ-5/sean-kirrane",
+   "name": "Sean Kirrane",
+   "party": "Republican",
+   "current_role": "Corporate consultant and AI entrepreneur",
+   "bio": "Sean Kirrane is a corporate consultant and artificial intelligence entrepreneur from River Vale and the Republican nominee in New Jersey's 5th District. He moved to New Jersey from Oklahoma and has not held elected office. He describes himself as a socially moderate, fiscally responsible Republican.",
+   "website": "https://www.seankirrane.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Create a universal, market-based health plan funded through income-based taxes with cost-sharing, not single-payer.",
+     "source": "https://newjerseyglobe.com/congress/socially-moderate-republican-will-challenge-josh-gottheimer-in-nj-5/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Pass sweeping affordable housing legislation driven by the private market.",
+     "source": "https://newjerseyglobe.com/congress/socially-moderate-republican-will-challenge-josh-gottheimer-in-nj-5/"
+    },
+    {
+     "topic": "Ethics",
+     "point": "Impose lifetime lobbying bans on former members of Congress.",
+     "source": "https://newjerseyglobe.com/tag/sean-kirrane/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 70,
+     "evidence": "Proposes a universal health care system funded through the tax system on an income basis, though market-run.",
+     "source": "https://newjerseyglobe.com/congress/socially-moderate-republican-will-challenge-josh-gottheimer-in-nj-5/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Campaign website renders only client-side and no issue content could be read; positions come from news coverage."
+  }
+ },
+ {
+  "id": "NJ-7/rebecca-bennett",
+  "name": "Rebecca Bennett",
+  "party": "Democratic",
+  "race": "NJ-7",
+  "race_label": "New Jersey · US House NJ-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "security",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NJ-7/rebecca-bennett",
+   "name": "Rebecca Bennett",
+   "party": "Democratic",
+   "current_role": "Healthcare executive and Air National Guard officer",
+   "bio": "Rebecca Bennett is a healthcare business executive and the Democratic nominee in New Jersey's 7th District. She flew helicopters in the U.S. Navy for over a decade as an aircraft commander and now serves as an officer in the Air National Guard. She holds an MBA from the Wharton School and has worked with startups and Fortune 50 companies.",
+   "website": "https://rebeccabennettforcongress.com/",
+   "social": {
+    "x": "https://x.com/rebeccafornj07",
+    "instagram": "https://www.instagram.com/rebeccafornj07",
+    "facebook": "https://www.facebook.com/p/Rebecca-Bennett-for-Congress-61572992483996/",
+    "youtube": "https://www.youtube.com/@RebeccaBennettforCongress"
+   },
+   "platform": [
+    {
+     "topic": "Affordability",
+     "point": "Tackle inflation and the rising cost of living in New Jersey.",
+     "source": "https://rebeccabennettforcongress.com/priorities/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Lower health care costs and protect families' coverage.",
+     "source": "https://rebeccabennettforcongress.com/priorities/"
+    },
+    {
+     "topic": "Gun safety",
+     "point": "Keep guns from dangerous people, restore gun violence research funding and expand mental health services.",
+     "source": "https://giffords.org/candidates/rebecca-bennett/"
+    },
+    {
+     "topic": "National security",
+     "point": "Apply her military leadership experience to protecting national security.",
+     "source": "https://rebeccabennettforcongress.com/priorities/"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Advocate for veterans and military families.",
+     "source": "https://rebeccabennettforcongress.com/priorities/"
+    },
+    {
+     "topic": "Environment",
+     "point": "Invest in renewable energy and act on climate change.",
+     "source": "https://rebeccabennettforcongress.com/priorities/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 60,
+     "evidence": "Pledges to lower health care costs and protect access to coverage.",
+     "source": "https://rebeccabennettforcongress.com/priorities/"
+    },
+    "liberty": {
+     "score": 65,
+     "evidence": "Guns only: backs steps to keep firearms from dangerous people while respecting responsible owners.",
+     "source": "https://giffords.org/candidates/rebecca-bennett/"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 80,
+     "evidence": "Calls for investing in renewable energy to address climate change.",
+     "source": "https://rebeccabennettforcongress.com/priorities/"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://rebeccabennettforcongress.com/wp-content/uploads/2026/06/Screenshot-2026-06-02-at-10.27.51-PM-1008x1024.png",
+   "notes": "Liberty score reflects gun policy only; her site's 'Defending Our Freedoms' priority gave no retrievable specifics. Campaign image is a screenshot file that may not be a formal headshot."
+  }
+ },
+ {
+  "id": "NJ-9/nellie-pou",
+  "name": "Nellie Pou",
+  "party": "Democratic",
+  "race": "NJ-9",
+  "race_label": "New Jersey · US House NJ-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000621",
+   "official_name": "Nellie Pou",
+   "chamber": "House",
+   "official_site": "https://pou.house.gov",
+   "official_social": {
+    "twitter": "caohouse",
+    "facebook": "CAOHouseofReps",
+    "instagram": "housecreativeservices"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NJ-9/nellie-pou",
+   "name": "Nellie Pou",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for NJ-9",
+   "bio": "Nellie Pou has represented New Jersey's 9th congressional district since January 2025 and serves on the House Homeland Security and Transportation and Infrastructure committees. She previously served in the New Jersey General Assembly from 1997 to 2012 and the State Senate from 2012 to 2025. She was born in Paterson.",
+   "website": "https://www.nelliepoufornewjersey.com/",
+   "social": {
+    "x": "https://x.com/NelliePou",
+    "instagram": "https://www.instagram.com/nelliepounj",
+    "facebook": "https://www.facebook.com/senatornelliepou"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Focuses on lowering housing, grocery, childcare and healthcare costs for New Jersey families.",
+     "source": "https://nelliepoufornewjersey.com/nellies-priorities/"
+    },
+    {
+     "topic": "Healthcare",
+     "point": "Wants to protect the ACA, extend its tax credits, lower drug prices and safeguard Medicaid coverage.",
+     "source": "https://nelliepoufornewjersey.com/nellies-priorities/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Supports law enforcement funding and is working on security planning for World Cup matches at MetLife Stadium.",
+     "source": "https://nelliepoufornewjersey.com/nellies-priorities/"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Pledges full care and benefits for veterans returning home.",
+     "source": "https://nelliepoufornewjersey.com/nellies-priorities/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 70,
+     "evidence": "Backs protecting the ACA and Medicaid and extending ACA premium tax credits.",
+     "source": "https://nelliepoufornewjersey.com/nellies-priorities/"
+    },
+    "liberty": null,
+    "security": {
+     "score": 60,
+     "evidence": "Supports funding for law enforcement and community safety as a Homeland Security Committee member.",
+     "source": "https://nelliepoufornewjersey.com/nellies-priorities/"
+    },
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "",
+   "notes": "The official social accounts listed in the input appear to belong to House administrative offices, so only campaign accounts are recorded."
+  }
+ },
+ {
+  "id": "NM-1/didi-okpareke",
+  "name": "Didi Okpareke",
+  "party": "Republican",
+  "race": "NM-1",
+  "race_label": "New Mexico · US House NM-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NM-1/didi-okpareke",
+   "name": "Didi Okpareke",
+   "party": "Republican",
+   "current_role": "Pharmacist and pharmacy owner",
+   "bio": "Ndidiamaka \"Didi\" Okpareke is a Rio Rancho pharmacist who owns Olive Tree Compounding Pharmacy. She earned her pharmacy degree at UNM after attending Sandia High School. She is the 2026 Republican nominee in NM-1.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Increase the number of health providers and keep rural pharmacies open.",
+     "source": "https://nmpoliticalreport.com/2025/07/25/rio-rancho-pharmacist-running-for-house/"
+    },
+    {
+     "topic": "Economy",
+     "point": "Encourage entrepreneurship, investment and less state reliance on federal aid.",
+     "source": "https://nmpoliticalreport.com/2025/07/25/rio-rancho-pharmacist-running-for-house/"
+    },
+    {
+     "topic": "Crime and education",
+     "point": "Address the state's low education rankings and high crime.",
+     "source": "https://nmpoliticalreport.com/2025/07/25/rio-rancho-pharmacist-running-for-house/"
+    },
+    {
+     "topic": "Bipartisanship",
+     "point": "Willing to work with members across the aisle on solutions.",
+     "source": "https://nmpoliticalreport.com/2025/07/25/rio-rancho-pharmacist-running-for-house/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Earlier economy and immigration scores citing Ballotpedia were removed because the page could not be loaded to confirm them. No campaign website found."
+  }
+ },
+ {
+  "id": "NM-2/greg-cunningham",
+  "name": "Greg Cunningham",
+  "party": "Republican",
+  "race": "NM-2",
+  "race_label": "New Mexico · US House NM-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NM-2/greg-cunningham",
+   "name": "Greg Cunningham",
+   "party": "Republican",
+   "current_role": "Retired police detective and business owner",
+   "bio": "Greg Cunningham is a lifelong New Mexican and Marine Corps reconnaissance veteran. He worked as an Albuquerque Police Department detective and later owned a private investigations business. He ran for the New Mexico House in 2022 and 2024 and is the 2026 Republican nominee in NM-2.",
+   "website": "https://www.cunninghamfornm.com",
+   "social": {
+    "x": "https://x.com/cunninghamfornm",
+    "facebook": "https://www.facebook.com/cunninghamfornm/"
+   },
+   "platform": [
+    {
+     "topic": "Public safety",
+     "point": "Emphasizes law and order and holding people accountable for crimes.",
+     "source": "https://searchlightnm.org/vasquez-cunningham-contrast-on-immigration-medicaid-and-more-at-nmsu-conference/"
+    },
+    {
+     "topic": "Medicaid",
+     "point": "Defends the One Big Beautiful Bill Act's Medicaid changes and wants to root out ineligible enrollment.",
+     "source": "https://searchlightnm.org/vasquez-cunningham-contrast-on-immigration-medicaid-and-more-at-nmsu-conference/"
+    },
+    {
+     "topic": "Approach",
+     "point": "Promises commonsense, conservative-guided solutions that put people over politics.",
+     "source": "https://news.ballotpedia.org/2026/08/03/vasquez-d-cunningham-r-running-in-new-mexicos-2nd-district-one-of-23-trump-won-seats-democrats-are-defending/"
+    },
+    {
+     "topic": "Issues",
+     "point": "Lists the economy, public safety, health care, education, energy and border security as focus areas.",
+     "source": "https://www.cunninghamfornm.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 35,
+     "evidence": "Defends Medicaid changes in the One Big Beautiful Bill Act and stresses eligibility checks.",
+     "source": "https://searchlightnm.org/vasquez-cunningham-contrast-on-immigration-medicaid-and-more-at-nmsu-conference/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/3c3128_2b6f70a07bc34d64a24c026c61db48db~mv2.jpg",
+   "notes": "Campaign site lists issue areas without detailed proposals."
+  }
+ }
+]

@@ -1,0 +1,328 @@
+[
+  {
+    "state": "Texas",
+    "district": "TX-37",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Greg Casar",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {"economy": 90, "welfare": null, "liberty": 15, "security": 10, "immigration": 5, "foreign": 15, "energy": 90, "tech": 75, "education": 85, "faith": 15},
+        "basis": "Taxing the wealthy, Green New Deal cosponsor, police budget cuts, fighting SB4, Syria withdrawal vote, surveillance-pricing ban, school funding; liberty from LGBTQ and justice reform.",
+        "sources": ["https://en.wikipedia.org/wiki/Greg_Casar", "https://casar.house.gov/issues"],
+        "photo": {"file": "File:Rep. Greg Casar - 118th Congress (3x4 cropped).jpg", "license": "Public domain", "author": "U.S. House of Representatives"}
+      },
+      {
+        "name": "Lauren Peña",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "No published issue positions were found on her campaign site.",
+        "sources": ["https://www.lauren4congress.com/"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Texas",
+    "district": "TX-38",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jon Bonck",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": 60, "security": null, "immigration": 95, "foreign": 15, "energy": null, "tech": null, "education": 10, "faith": 90},
+        "basis": "Finish the wall, no blank checks for foreign wars, parents first; liberty mixes no-compromise abortion stance with gun rights and anti-mandate views.",
+        "sources": ["https://www.jonbonck.com/"],
+        "photo": null
+      },
+      {
+        "name": "Melissa McDonough",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 55, "welfare": 90, "liberty": 25, "security": null, "immigration": 30, "foreign": 70, "energy": 65, "tech": null, "education": 90, "faith": null},
+        "basis": "Medicare for All, Medicaid expansion, Ukraine aid, renewables alongside fossil fuels, opposes vouchers; liberty from abortion rights and gun safety measures.",
+        "sources": ["https://melissaforcongress.com/platform/"],
+        "photo": null
+      },
+      {
+        "name": "Alex McMenemy",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://ballotpedia.org/Texas%27_38th_Congressional_District_election,_2026"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "district": "UT-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ben McAdams",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 55, "welfare": 55, "liberty": 30, "security": null, "immigration": 30, "foreign": null, "energy": 70, "tech": null, "education": null, "faith": null},
+        "basis": "Opposed 2017 tax cuts, backs balanced budget, fix ACA, DACA and opposing wall, Paris vote; liberty from codifying Roe, Equality Act, universal background checks.",
+        "sources": ["https://en.wikipedia.org/wiki/Ben_McAdams", "https://www.ontheissues.org/House/Ben_McAdams.htm"],
+        "photo": {"file": "File:Ben McAdams, official portrait, 116th Congress.jpg", "license": "Public domain", "author": "United States Congress"}
+      },
+      {
+        "name": "Riley Owen",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "No published issue positions were found.",
+        "sources": ["https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah"],
+        "photo": null
+      },
+      {
+        "name": "Jesse West",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      },
+      {
+        "name": "Elias Montgomery",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "district": "UT-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Blake Moore",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {"economy": 25, "welfare": 20, "liberty": 50, "security": 65, "immigration": 70, "foreign": null, "energy": 30, "tech": null, "education": 35, "faith": null},
+        "basis": "Opposed ARPA, market-driven ACA replacement, border-first immigration, state-led environmental policy, local school control; liberty mixes pro-life and gun-rights votes.",
+        "sources": ["https://www.ontheissues.org/House/Blake_Moore.htm", "https://en.wikipedia.org/wiki/Blake_Moore"],
+        "photo": {"file": "File:Rep. Blake Moore official photo, 2022.jpg", "license": "Public domain", "author": "United States Congress"}
+      },
+      {
+        "name": "Peter Crosby",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 70, "welfare": 80, "liberty": null, "security": 25, "immigration": null, "foreign": null, "energy": 60, "tech": 75, "education": null, "faith": null},
+        "basis": "Closing corporate tax loopholes, expanding single-payer Medicare, opposing Medicaid cuts, Great Salt Lake restoration, data ownership and opposing surveillance algorithms.",
+        "sources": ["https://www.petercrosbyforcongress.org/policies"],
+        "photo": null
+      },
+      {
+        "name": "Carlton Bowen",
+        "party": "Independent American",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      },
+      {
+        "name": "Daniel Cottam",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      },
+      {
+        "name": "Robert Moesinger",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "district": "UT-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Celeste Maloy",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {"economy": 20, "welfare": null, "liberty": 20, "security": null, "immigration": 85, "foreign": 75, "energy": 15, "tech": null, "education": null, "faith": 75},
+        "basis": "Smaller government and deregulation, border wall and Remain in Mexico, strong military, more fossil fuels, public religious practice; liberty from gun rights.",
+        "sources": ["https://maloy.house.gov/Issues/Issue/?IssueID=15136", "https://maloy.house.gov/Issues/Issue/?IssueID=10177", "https://maloy.house.gov/Issues/Issue/?IssueID=15138"],
+        "photo": {"file": "File:Celeste Maloy 118th Congress.jpeg", "license": "Public domain", "author": "Brendan O'Hara, House Creative Services"}
+      },
+      {
+        "name": "Kent Udell",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": 65, "liberty": 60, "security": null, "immigration": 35, "foreign": null, "energy": 55, "tech": 75, "education": null, "faith": null},
+        "basis": "Expanding Medicare access, humane workable immigration, science-based all-of-the-above energy, AI labeling rules; liberty from red flag laws and safe storage.",
+        "sources": ["https://www.kentudellforcongress.com/"],
+        "photo": null
+      },
+      {
+        "name": "Cassie Easley",
+        "party": "Constitution",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      },
+      {
+        "name": "Adonis Hooslyn",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      },
+      {
+        "name": "Michael Stoddard",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      },
+      {
+        "name": "Ayden Scott",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Utah",
+    "district": "UT-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Kennedy",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {"economy": 30, "welfare": 25, "liberty": 50, "security": 65, "immigration": 65, "foreign": null, "energy": 15, "tech": null, "education": null, "faith": 70},
+        "basis": "Cutting regulations, restricting Medicaid expansion, ending catch and release while modernizing legal immigration, fossil energy expansion; liberty mixes abortion limits and permitless carry.",
+        "sources": ["https://mikekennedy.house.gov/issues/border-security", "https://mikekennedy.house.gov/issues/energy", "https://www.ontheissues.org/House/Mike_Kennedy.htm"],
+        "photo": {"file": "File:Kennedy Mike 119th Congress 2.jpg", "license": "Public domain", "author": "Brendan O'Hara, House Creative Services"}
+      },
+      {
+        "name": "Jonny Larsen",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": 60, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "Affordable childcare and affordable healthcare for everyone; keeping public lands public.",
+        "sources": ["https://jonnyutah4congress.com/"],
+        "photo": null
+      },
+      {
+        "name": "Taylor Wright",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      },
+      {
+        "name": "Steven Burt",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://vote.utah.gov/2026-candidate-filings/"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Vermont",
+    "district": "VT-AL",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Becca Balint",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {"economy": null, "welfare": null, "liberty": 25, "security": 20, "immigration": 15, "foreign": 25, "energy": 90, "tech": null, "education": null, "faith": null},
+        "basis": "Limiting police role in immigration enforcement, Syria withdrawal vote, Block the Bombs Act, 100% conservation score; liberty from abortion rights, LGBTQ protections, gun waiting periods.",
+        "sources": ["https://en.wikipedia.org/wiki/Becca_Balint", "https://www.ontheissues.org/House/Becca_Balint.htm"],
+        "photo": {"file": "File:Rep. Becca Balint - 118th Congress.jpg", "license": "Public domain", "author": "U.S. House of Representatives"}
+      },
+      {
+        "name": "Gerald Malloy",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 25, "welfare": 30, "liberty": null, "security": 65, "immigration": 65, "foreign": 65, "energy": 40, "tech": null, "education": 25, "faith": null},
+        "basis": "Opposes tax increases, market-based healthcare reform, full law-enforcement support, border security, strongest military, energy without mandates, school choice.",
+        "sources": ["https://www.deploymalloy.com/landing/positions/"],
+        "photo": null
+      },
+      {
+        "name": "Phoenix Altair",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://sos.vermont.gov/elections/election-info-resources/candidates/"],
+        "photo": null
+      },
+      {
+        "name": "Adam Ortiz",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://sos.vermont.gov/elections/election-info-resources/candidates/"],
+        "photo": null
+      },
+      {
+        "name": "Suzanne \"Suz\" Seymour",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://sos.vermont.gov/elections/election-info-resources/candidates/"],
+        "photo": null
+      },
+      {
+        "name": "Ryan Walton",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "",
+        "sources": ["https://sos.vermont.gov/elections/election-info-resources/candidates/"],
+        "photo": null
+      }
+    ]
+  }
+]

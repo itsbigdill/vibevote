@@ -1,0 +1,1230 @@
+[
+  {
+    "state": "Kentucky",
+    "district": "KY-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "James Comer",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 70,
+          "security": null,
+          "immigration": 85,
+          "foreign": null,
+          "energy": 10,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts, opposes ACA and federal paid parental leave, backs border wall, anti-abortion and opposes same-sex marriage; climate skeptic.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/James_Comer"
+        ],
+        "photo": {
+          "file": "File:James Comer (54346937894)(cropped).jpg",
+          "license": "CC BY 2.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Drew Williams",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "district": "KY-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brett Guthrie",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": null,
+          "security": 65,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts, supports ACA repeal, sought to end Public Service Loan Forgiveness, voted for NDAA detention and against defunding NSA.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brett_Guthrie"
+        ],
+        "photo": {
+          "file": "File:Brett Guthrie, Official Photo.jpg",
+          "license": "Public domain",
+          "author": "United States House of Representatives"
+        }
+      },
+      {
+        "name": "Megan Wingfield",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Thomas Loecken",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "district": "KY-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Morgan McGarvey",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 75,
+          "liberty": 35,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 70,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposed 2025 budget bill over Medicaid cuts, supports abortion access, cosponsored gun-safety bills, touts federal CO2-reduction funding; abortion rights drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Morgan_McGarvey",
+          "https://mcgarvey.house.gov/issues/health",
+          "https://mcgarvey.house.gov/issues/gun-violence-prevention"
+        ],
+        "photo": {
+          "file": "File:Rep. Morgan McGarvey - 118th Congress (1).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Maria Rodriguez",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "district": "KY-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ed Gallrein",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 30,
+          "security": null,
+          "immigration": 90,
+          "foreign": 75,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs tax, regulation and spending cuts, completing the border wall and full ICE funding, gun rights, and 2026 Venezuela and Iran strikes; guns drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ed_Gallrein"
+        ],
+        "photo": {
+          "file": "File:Ed Gallrein (55505179851) (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Melissa Strange",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jeremy Todd",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "district": "KY-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Hal Rogers",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 80,
+          "security": 65,
+          "immigration": 75,
+          "foreign": 65,
+          "energy": null,
+          "tech": 25,
+          "education": null,
+          "faith": 70
+        },
+        "basis": "Tax cuts and balanced budget amendment, anti-abortion and opposes same-sex marriage, border fence, Ukraine loan guarantees, opposes net neutrality; abortion drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Hal_Rogers"
+        ],
+        "photo": {
+          "file": "File:Harold Rogers 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Ned Pillersdorf",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Gerardo Serrano",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mikel Wein",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Kentucky",
+    "district": "KY-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ralph Alvarado",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 35,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Sponsored medical malpractice tort reform as a state senator; campaigns as a MAHA doctor; few other documented federal positions.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ralph_Alvarado"
+        ],
+        "photo": {
+          "file": "File:Ralph Alvarado by Gage Skidmore.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Zach Dembo",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 40,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 45,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign calls for ending the tariff trade war and opposes endless Middle East wars while stressing alliances.",
+        "sources": [
+          "https://www.zachdembo.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Pete Lynch",
+        "party": "Kentucky Party",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jay Bowman",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "district": "LA-1",
+    "office": "US House",
+    "status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+    "candidates": [
+      {
+        "name": "Steve Scalise",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 65,
+          "security": null,
+          "immigration": 80,
+          "foreign": 70,
+          "energy": 10,
+          "tech": 55,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 and 2025 tax cuts, against PRO Act and Equality Act, opposes ACA, backed travel ban and Israel, rejects climate consensus, voted TikTok bill.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Steve_Scalise"
+        ],
+        "photo": {
+          "file": "File:Steve Scalise 116th Congress official photo.jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "Lauren Jewett",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Randall Arrington",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "district": "LA-2",
+    "office": "US House",
+    "status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+    "candidates": [
+      {
+        "name": "Troy Carter",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": null,
+          "liberty": 30,
+          "security": null,
+          "immigration": null,
+          "foreign": 65,
+          "energy": 70,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pushed minimum wage increase, voted for Inflation Reduction Act and Israel aid, opposes abortion restrictions and gun-rights expansion; abortion drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Troy_Carter_(politician)"
+        ],
+        "photo": {
+          "file": "File:Rep. Troy Carter - 117th Congress Official Portrait.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Renada Collins",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Lisa Ballay",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "district": "LA-3",
+    "office": "US House",
+    "status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+    "candidates": [
+      {
+        "name": "Clay Higgins",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 20,
+          "liberty": 55,
+          "security": null,
+          "immigration": 80,
+          "foreign": 25,
+          "energy": 5,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts and ACA repeal, anti-abortion, opposes same-sex marriage but strongly pro-gun, backs ICE, opposed ATACMS for Ukraine, bill to abolish EPA.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Clay_Higgins"
+        ],
+        "photo": {
+          "file": "File:Clay Higgins 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe, House Creative Services"
+        }
+      },
+      {
+        "name": "John Day",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Tia LeBrun",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Caleb Walker",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "district": "LA-4",
+    "office": "US House",
+    "status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+    "candidates": [
+      {
+        "name": "Mike Johnson",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 90,
+          "security": 70,
+          "immigration": 80,
+          "foreign": 75,
+          "energy": 25,
+          "tech": null,
+          "education": null,
+          "faith": 95
+        },
+        "basis": "Tax cuts, opposed $15 wage, ACA repeal, abortion bans, anti-LGBTQ bills, opposed FISA warrants, asylum limits, Ukraine and Israel aid, backs school prayer; abortion drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mike_Johnson"
+        ],
+        "photo": {
+          "file": "File:Speaker Mike Johnson Official Portrait (cropped)(b).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Mike Nichols",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Conrad Cable",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Matt Gromlich",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "district": "LA-5",
+    "office": "US House",
+    "status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+    "candidates": [
+      {
+        "name": "Michael Echols",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Michael_Echols"
+        ],
+        "photo": {
+          "file": "File:Michael Echols.jpg",
+          "license": "CC BY 4.0",
+          "author": "Timothy Holdiness"
+        }
+      },
+      {
+        "name": "Stewart Cathey Jr.",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Stewart_Cathey_Jr."
+        ],
+        "photo": {
+          "file": "File:Stewart Cathey Jr.jpg",
+          "license": "CC BY 4.0",
+          "author": "Timothy Holdiness"
+        }
+      },
+      {
+        "name": "Gabe Firment",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gabe_Firment"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Pat Moore",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 60,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "As a state representative, voted to advance a bill removing obscenity-law protections for teachers and librarians; speech drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Pat_Moore_(Louisiana_politician)"
+        ],
+        "photo": {
+          "file": "File:Pat Moore.jpg",
+          "license": "CC BY 4.0",
+          "author": "Timothy Holdiness"
+        }
+      },
+      {
+        "name": "Misti Cordell",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Austin Magee",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Oscar Dantzler",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Dan McKay",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Antonio Wilson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "district": "LA-6",
+    "office": "US House",
+    "status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+    "candidates": [
+      {
+        "name": "Chauna Banks",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Rick Edmonds",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Rick_Edmonds"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Blake Miguez",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 75,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supported Louisiana \"Don't Say Gay\" legislation; member of Louisiana Freedom Caucus; LGBTQ issues drove liberty.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Blake_Miguez"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Pat Forbes",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No documented issue positions found in reliable sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Monique Appeaning",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Larry Davis",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Michael Mebruer",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Lindsay Garcia",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

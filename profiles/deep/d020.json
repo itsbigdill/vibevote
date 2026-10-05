@@ -1,0 +1,576 @@
+[
+ {
+  "id": "TN-6/mike-croley",
+  "name": "Mike Croley",
+  "party": "Democratic",
+  "current_role": "Former park ranger",
+  "bio": "Mike Croley is a former park ranger and the Democratic nominee for Tennessee's 6th Congressional District in 2026. No further public biographical information was confirmed.",
+  "website": "https://www.mikefortn6.com/",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site (mikefortn6.com) failed to connect, Tennessee Lookout blocked automated access and web search was unavailable, so no issue positions could be verified. He won the August 2026 Democratic primary with about 29% of the vote; all ten topics remain unknown."
+ },
+ {
+  "id": "TN-7/darden-copeland",
+  "name": "Darden Copeland",
+  "party": "Democratic",
+  "current_role": "Business owner and consultant",
+  "bio": "Darden Copeland is a Nashville businessman who founded the public affairs firm Calvert Street Group after early work on Democratic campaigns. A University of Richmond graduate, he describes this as his first run for office, noting his only elected role has been church elder. He ran in the Democratic primary for the 2025 special election in Tennessee's 7th District and is the 2026 Democratic nominee.",
+  "website": "https://dardenforcongress.com/",
+  "social": {
+   "x": "https://x.com/dardenfortn",
+   "instagram": "https://www.instagram.com/dardenfortn",
+   "facebook": "https://www.facebook.com/DardenForTN/"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Wants to protect Medicaid, keep premiums affordable, lower prescription drug prices and keep rural hospitals open.",
+    "source": "https://dardenforcongress.com/home-2"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Supports a full congressional stock-trading ban, term limits and refusing corporate PAC money.",
+    "source": "https://dardenforcongress.com/home-2"
+   },
+   {
+    "topic": "Social Security and Medicare",
+    "point": "Opposes benefit cuts, privatization or raising the retirement age.",
+    "source": "https://dardenforcongress.com/home-2"
+   },
+   {
+    "topic": "Affordability",
+    "point": "Targets housing, grocery and childcare costs through price-gouging oversight and making corporations pay their fair share.",
+    "source": "https://dardenforcongress.com/home-2"
+   },
+   {
+    "topic": "Checks and balances",
+    "point": "Pledges to act as an independent check on any president rather than a rubber stamp.",
+    "source": "https://dardenforcongress.com/home-2"
+   },
+   {
+    "topic": "Ukraine",
+    "point": "Says the U.S. is not spending enough to support Ukraine against Russian aggression.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs an all-of-the-above energy approach, including more utility-scale solar in the TVA system.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   {
+    "topic": "Tariffs",
+    "point": "Opposes the administration's tariff strategy, calling tariffs a consumer tax that hurts farmers and inflates prices.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Opposed the 2025 tax-and-spending law's tax cuts for the very wealthy and wants more IRS enforcement against tax avoidance, while also opposing tariffs.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Wants Congress to restore Medicaid and SNAP funding and opposes Social Security cuts, while calling for stronger oversight so programs reach the truly needy.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Opposes a federal abortion ban (abortion); supports moving cannabis to Schedule III and ending prosecution for minor possession but not yet full recreational legalization (drugs).",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Opposes deploying troops against protests, says local police should not join enforcement based on racial profiling, and says privacy laws need updating for surveillance cameras and license plate readers.",
+    "source": "https://clarksvillenow.com/local/3-democratic-candidates-for-congress-discuss-data-centers-workers-rights-immigration-at-clarksville-forum/"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports fully funded but fair enforcement and bipartisan reform like the Lankford bill, and called Florida's 'Alligator Alcatraz' detention center political theater.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Says the U.S. is not spending enough on military aid to Ukraine and that long-standing support for Israel should continue, while preferring diplomacy over war with Iran.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   "energy": {
+    "score": 65,
+    "evidence": "Supports expanding renewable energy, including utility-scale solar through TVA, within an all-of-the-above approach.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "General statement: says AI data centers should be regulated the right way in partnership with localities.",
+    "source": "https://clarksvillenow.com/local/3-democratic-candidates-for-congress-discuss-data-centers-workers-rights-immigration-at-clarksville-forum/"
+   },
+   "education": {
+    "score": 70,
+    "evidence": "Opposes dismantling the Education Department and does not support the new federal school voucher/tax credit program, saying such choices belong to states.",
+    "source": "https://nashvillebanner.com/2025/09/10/darden-copeland-democrat-district7/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/687e6330ebf9f85569e4386e/5f06b0d9-85f6-4c4f-b25b-2027ce526b5f/3V8A9507-Edit_websize.jpg",
+  "notes": "Scores draw on his Nashville Banner candidate questionnaire, a Clarksville forum report and his campaign site. No statements were found on religion in public life."
+ },
+ {
+  "id": "TN-9/brent-taylor",
+  "name": "Brent Taylor",
+  "party": "Republican",
+  "current_role": "Tennessee State Senator for District 31",
+  "bio": "Brent Taylor has represented District 31 in the Tennessee Senate since 2023. He served 12 years on the Memphis City Council starting in 1995 and later on the Shelby County Commission and election commission. He is a funeral director who co-founded a family-owned funeral business in the Memphis area.",
+  "website": "https://brenttaylorforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Public safety",
+    "point": "Makes crime reduction in Shelby County his central focus, including work with the Memphis Safe Task Force.",
+    "source": "https://brenttaylorforcongress.com/about/"
+   },
+   {
+    "topic": "Bail",
+    "point": "Backs a state constitutional amendment to deny bail for the most serious violent crimes.",
+    "source": "https://en.wikipedia.org/wiki/Brent_Taylor_(Tennessee_politician)"
+   },
+   {
+    "topic": "Memphis",
+    "point": "Campaigns on making Memphis matter in Washington.",
+    "source": "https://brenttaylorforcongress.com/"
+   },
+   {
+    "topic": "Trump agenda",
+    "point": "Says he supports President Trump's agenda.",
+    "source": "https://brenttaylorforcongress.com/about/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Says he has repeatedly defended the constitutional right to bear arms.",
+    "source": "https://brenttaylorforcongress.com/about/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Highlights that he never voted for a tax increase on the city council and backs small-business legislation.",
+    "source": "https://brenttaylorforcongress.com/about/"
+   },
+   {
+    "topic": "Schools",
+    "point": "Co-led the 2026 push for state intervention in Memphis-Shelby County Schools and sponsored a bill limiting districts' lawsuits against state accountability steps.",
+    "source": "https://mlk50.com/2026/03/27/ahead-of-memphis-schools-takeover-republicans-move-to-block-districts-legal-pushback/"
+   },
+   {
+    "topic": "Bail funds",
+    "point": "Sponsored a 2026 bill to limit how many people a group can bail out each year.",
+    "source": "https://mlk50.com/2026/04/22/a-new-bill-would-limit-bail-funds-leaving-fewer-defendants-in-memphis-with-access-to-community-support/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Says he never voted to raise taxes and has supported business-friendly legislation.",
+    "source": "https://brenttaylorforcongress.com/about/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 35,
+    "evidence": "General statement: says he has repeatedly defended the right to keep and bear firearms (guns); no positions found on abortion, drugs, LGBTQ issues or speech.",
+    "source": "https://brenttaylorforcongress.com/about/"
+   },
+   "security": {
+    "score": 85,
+    "evidence": "Sponsored juvenile-crime bills and a 2026 bill limiting community bail funds, and backed a constitutional amendment to deny bail for the most serious violent crimes.",
+    "source": "https://mlk50.com/2026/04/22/a-new-bill-would-limit-bail-funds-leaving-fewer-defendants-in-memphis-with-access-to-community-support/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Brent Taylor (Tennessee politician).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "GatewayPolitics"
+  },
+  "campaign_photo": "",
+  "notes": "Checked his campaign site, Wikipedia, MLK50/Chalkbeat, Fox13 and U.S. Chamber coverage; the Tennessee legislature bill search, Tennessee Lookout and WREG blocked automated access. His push for state control of Memphis schools does not map onto the voucher scale, so education and seven other topics remain unscored."
+ },
+ {
+  "id": "TX-12/angela-rodriguez-prilliman",
+  "name": "Angela Rodriguez Prilliman",
+  "party": "Democratic",
+  "current_role": "Technology entrepreneur and educator",
+  "bio": "Angela \"Heli\" Rodriguez Prilliman is the Democratic nominee for Texas's 12th congressional district and lives in Fort Worth. She grew up in Stephenville, graduated from Texas A&M University, and spent more than ten years in tech startups, founding the Lacquerbar nail salon and beauty-education business. She ran in the 2024 Democratic primary for U.S. Senate in Texas.",
+  "website": "https://www.helifortexas.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/helifortexas"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Calls for universal health care coverage.",
+    "source": "https://www.helifortexas.com/"
+   },
+   {
+    "topic": "Child care",
+    "point": "Supports universal access to child care.",
+    "source": "https://www.helifortexas.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Pledges to fully fund public schools.",
+    "source": "https://www.helifortexas.com/"
+   },
+   {
+    "topic": "Voting rights",
+    "point": "Says she will work to protect voting rights.",
+    "source": "https://www.helifortexas.com/"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Wants to reduce the influence of billionaire money in politics.",
+    "source": "https://www.helifortexas.com/"
+   },
+   {
+    "topic": "AI",
+    "point": "Wants AI whistleblower protections, basic AI liability laws, mandatory testing and transparency, and limits on AI companions for kids.",
+    "source": "https://www.helifortexas.com/issues"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Proposes taxing billionaires to fund universal health care and a child care system with a $10-a-day cap.",
+    "source": "https://www.helifortexas.com/issues"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Backs Ukraine against Russia, including reparations, and opposes military intervention in Venezuela in favor of diplomacy.",
+    "source": "https://www.helifortexas.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Proposes taxing billionaires to fund universal health care and child care and shifting spending away from wars toward domestic needs.",
+    "source": "https://www.helifortexas.com/issues"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Calls for universal health care not tied to an employer and a universal child care system with a $10-a-day cap.",
+    "source": "https://www.helifortexas.com/issues"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "General statement: criticizes what she calls a lawless ICE under the current administration, without a detailed immigration plan.",
+    "source": "https://www.helifortexas.com/issues"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Says she would support Ukraine and require Russian reparations, but opposes intervention in Venezuela and wants money shifted from never-ending wars.",
+    "source": "https://www.helifortexas.com/issues"
+   },
+   "energy": null,
+   "tech": {
+    "score": 85,
+    "evidence": "Supports AI liability laws, whistleblower protections, mandatory AI testing and transparency, and restrictions on AI companions for children.",
+    "source": "https://www.helifortexas.com/issues"
+   },
+   "education": {
+    "score": 70,
+    "evidence": "General statement: lists fully funding public schools among her campaign priorities.",
+    "source": "https://www.helifortexas.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/618da2bf3c685a0c65a42914/b96bb98d-9b66-46e2-ab00-de1ff426ec09/12.20.2023_Heli-Website-Hero-Portrait.png",
+  "notes": "Scores come from her campaign issues questionnaire page. No statements were found on abortion, guns, policing, energy or religion."
+ },
+ {
+  "id": "TX-16/adam-bauman",
+  "name": "Adam Bauman",
+  "party": "Republican",
+  "current_role": "Canine drug-detection business owner and former Border Patrol agent",
+  "bio": "Adam Bauman is the Republican nominee for Texas's 16th congressional district, having won the May 2026 primary runoff with about 69% of the vote. He is a U.S. Navy veteran who served as a Special Warfare Combatant Crewman and a former U.S. Border Patrol agent with the Border Patrol Tactical Team who came to El Paso in 2001. He has run Bauman Tactical Canine, a drug-detection dog business, since 2020 and hosts a podcast.",
+  "website": "https://www.adambaumanforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/adambaumanforcongress2026/"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Calls for a secure border to curb crime and drug trafficking in El Paso.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   {
+    "topic": "Property taxes",
+    "point": "Wants to work with local leaders to lower El Paso property taxes.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Pledges to speed up veterans' benefits and expand job training.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Opposes raising the retirement age and wants changes to keep the program solvent past 2034.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Seeks lower insurance premiums without additional federal subsidies.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   {
+    "topic": "Women's sports",
+    "point": "Supports women-only sports competitions and facilities.",
+    "source": "https://www.adambaumanforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "General statement: wants more affordable property taxes, help for small businesses, and lower insurance premiums without federal subsidies.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   "welfare": {
+    "score": 40,
+    "evidence": "Mixed: opposes federal subsidies for insurance premiums but also opposes raising the Social Security retirement age.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Supports women-only sports and facilities (LGBTQ); no stated positions found on abortion, drugs, guns or speech.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "General statement: said in a 2025 podcast that he supports law enforcement; no specific policing or surveillance proposals found.",
+    "source": "https://elpasomatters.org/2026/02/16/march-3-2026-primary-election-republican-congress-district-16-candidates-el-paso/"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "General statement: backs Customs and Border Protection's mission to secure the border and keep El Paso safe from crime and drug trafficking.",
+    "source": "https://www.adambaumanforcongress.com/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "He did not answer El Paso Matters questionnaires and declined its interview requests; his one-page campaign site is the main source. Nothing was found on foreign policy, energy, tech, education or religion."
+ },
+ {
+  "id": "TX-17/casey-shepard",
+  "name": "Casey Shepard",
+  "party": "Democratic",
+  "current_role": "Criminal defense attorney in Waco",
+  "bio": "Casey Shepard is the Democratic nominee for Texas's 17th congressional district. A seventh-generation Texan who graduated from Midway High School near Waco, he went to college in California on a policy debate scholarship, earned a law degree from the UC Davis School of Law, and returned to Waco in 2010. He has practiced indigent criminal defense in Central Texas since 2011.",
+  "website": "https://caseyshepardforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Democracy",
+    "point": "Wants stronger congressional oversight of the executive branch and protection of judicial independence.",
+    "source": "https://caseyshepardforcongress.com/caseys-vision"
+   },
+   {
+    "topic": "Food access",
+    "point": "Proposes fully funding SNAP and school meals and restoring international food aid.",
+    "source": "https://caseyshepardforcongress.com/caseys-vision"
+   },
+   {
+    "topic": "Health care",
+    "point": "Restore support for Medicaid and Medicare and widen the medical workforce, including trained immigrant professionals.",
+    "source": "https://caseyshepardforcongress.com/caseys-vision"
+   },
+   {
+    "topic": "Housing",
+    "point": "Supports tax incentives for affordable housing, full rental assistance funding and ending tariffs on building materials.",
+    "source": "https://caseyshepardforcongress.com/caseys-vision"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports abolishing ICE and updating immigration rules for trained medical and construction workers.",
+    "source": "https://baylorlariat.com/2026/02/11/democrats-clash-in-bid-to-flip-texas-17th-congressional-district-seat/"
+   },
+   {
+    "topic": "Civil liberties",
+    "point": "Pledges to defend civil liberties and challenge government overreach, including treatment of protesters.",
+    "source": "https://caseyshepardforcongress.com/why-casey"
+   },
+   {
+    "topic": "Foreign aid",
+    "point": "Wants the USAID food program restored to rebuild global food stability.",
+    "source": "https://caseyshepardforcongress.com/caseys-vision"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 75,
+    "evidence": "Calls for fully funded SNAP and school meals, full rental assistance and restored Medicaid and Medicare support.",
+    "source": "https://caseyshepardforcongress.com/caseys-vision"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports abortion rights (abortion) and criticized a primary opponent's past support for book bans (speech).",
+    "source": "https://baylorlariat.com/2026/02/11/democrats-clash-in-bid-to-flip-texas-17th-congressional-district-seat/"
+   },
+   "security": {
+    "score": 35,
+    "evidence": "General statement: pledges to defend civil liberties and challenge government overreach, citing how people who protest are treated.",
+    "source": "https://caseyshepardforcongress.com/caseys-vision"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Supports abolishing ICE and immigration reform to admit more medical and construction workers.",
+    "source": "https://baylorlariat.com/2026/02/11/democrats-clash-in-bid-to-flip-texas-17th-congressional-district-seat/"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Calls for restoring the USAID food program to rebuild global food stability.",
+    "source": "https://caseyshepardforcongress.com/caseys-vision"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Scores draw on his campaign site and Baylor Lariat debate coverage. His economic plan mixes tax incentives and ending tariffs with full rental-assistance funding, so economy is left unscored; nothing was found on energy, tech, education or religion."
+ },
+ {
+  "id": "TX-18/ronald-whitfield",
+  "name": "Ronald Whitfield",
+  "party": "Republican",
+  "current_role": "Landscaping contractor",
+  "bio": "Ronald Dwayne Whitfield is a landscaping contractor and the Republican nominee for Texas's 18th congressional district, having won the March 2026 primary with about 55% of the vote. He also ran in the 2025–26 special election for the seat.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website was found (likely domain names are parked), Houston Public Media and Wikipedia list only his name and occupation, and web search was unavailable. All ten topics remain unknown."
+ },
+ {
+  "id": "TX-22/marquette-greene-scott",
+  "name": "Marquette Greene-Scott",
+  "party": "Democratic",
+  "current_role": "Iowa Colony mayor pro tem and attorney",
+  "bio": "Marquette Greene-Scott is mayor pro tem of Iowa Colony, Texas, and an attorney in Texas and Louisiana who taught high school and college mathematics for 14 years. She holds math degrees from Southern University and a law degree from LSU's Paul M. Hebert Law Center, and moved to Texas in 2010. She was the Democratic nominee for this district in 2024.",
+  "website": "https://marquettegreenescott.com",
+  "social": {
+   "instagram": "https://www.instagram.com/mgreenescott/",
+   "facebook": "https://www.facebook.com/mgreenescott",
+   "youtube": "https://www.youtube.com/@MarquetteGreene-Scott"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Pass universal healthcare and protect the Affordable Care Act.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Fund the VA fully, strengthen oversight and expand mental health support for military families.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pair more border security resources and faster case processing with a path to citizenship for people brought as children.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   {
+    "topic": "Voting",
+    "point": "Protect voting rights, end partisan gerrymandering and tighten campaign finance rules.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Restore abortion rights after the overturning of Roe v. Wade.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Supports a $15 minimum wage, antitrust enforcement, wider child care access and investment in U.S. manufacturing and job training.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   {
+    "topic": "Israel and Gaza",
+    "point": "Calls for an immediate ceasefire, return of all hostages, humanitarian aid and a diplomatic settlement.",
+    "source": "https://marquettegreenescott.com/2024/07/25/position-on-the-israeli-palestinian-conflict/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Supports raising the minimum wage to $15, antitrust enforcement, a fairer tax policy and public investment in manufacturing and job training.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Calls for universal healthcare not tied to employment.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports federal legislation to restore nationwide abortion rights and wider access to contraception (abortion); no positions found on other liberty issues.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Supports a path to citizenship alongside increased border security resources.",
+    "source": "https://marquettegreenescott.com/marquette-position-provocative-issues-facts/"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Favors active diplomacy and humanitarian aid in the Israel-Gaza war and urged conditioning U.S. cooperation with Pakistan on democratic standards.",
+    "source": "https://marquettegreenescott.com/2024/10/08/us-pakistan-relationship/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://marquettegreenescott.com/wp-content/uploads/2025/07/profile-pic.png",
+  "notes": "Scores come from her campaign issues page and posted statements. No positions were found on policing, energy, tech, education or religion."
+ }
+]

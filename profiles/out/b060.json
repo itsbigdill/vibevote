@@ -1,0 +1,833 @@
+[
+ {
+  "id": "MO-2/fred-wellman",
+  "name": "Fred Wellman",
+  "party": "Democratic",
+  "current_role": "Army veteran and veterans advocate",
+  "bio": "Fred Wellman is a West Point graduate and retired Army aviator who served 22 years, including Desert Storm and three tours in Iraq. He later spent about a decade working as a veterans advocate in Washington, D.C., and hosts a podcast. He is the Democratic nominee for Missouri's 2nd District.",
+  "website": "https://www.wellmanformo.com/",
+  "social": {
+   "x": "https://x.com/wellmanformo",
+   "instagram": "https://www.instagram.com/wellmanformo",
+   "facebook": "https://www.facebook.com/wellmanformo",
+   "tiktok": "https://www.tiktok.com/@wellmanformo"
+  },
+  "platform": [
+   {
+    "topic": "Wages",
+    "point": "Raise the federal minimum wage right away and strengthen workers' rights and labor unions.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   {
+    "topic": "Health care",
+    "point": "Work toward universal coverage while restoring ACA subsidies, reversing Medicaid cuts and adding a public option.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Lower housing, health care and child care costs so wages keep up with living expenses.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Keep medical decisions with patients and doctors and oppose government tracking of medical records.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Continue military aid to Ukraine, keep NATO deterrence strong, and require congressional approval for war with Iran.",
+    "source": "https://www.wellmanformo.com/policy"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Calls for an immediate federal minimum wage increase and stronger union protections.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Backs universal coverage as a goal, plus a public option, restored ACA subsidies and a lower Medicare age.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Abortion: says reproductive decisions belong to patients and doctors, not politicians.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports a fair, commonsense immigration system with secure borders and says immigrants strengthen Missouri.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   "foreign": {
+    "score": 85,
+    "evidence": "Supports continued military assistance to Ukraine and strong NATO deterrence against Russia.",
+    "source": "https://www.wellmanformo.com/policy"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Earlier faith score (20) was dropped because the current policy page no longer shows a statement on religion."
+ },
+ {
+  "id": "MO-2/brandon-coulter-daugherty",
+  "name": "Brandon Coulter Daugherty",
+  "party": "Libertarian",
+  "current_role": "Libertarian nominee for MO-2",
+  "bio": "Brandon Coulter Daugherty is the Libertarian Party nominee for Missouri's 2nd Congressional District in 2026. His campaign presents him as an alternative to career politicians.",
+  "website": "https://bcd4mo.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Foreign aid",
+    "point": "End U.S. funding for Israel, Ukraine and other allies and put domestic needs first.",
+    "source": "https://bcd4mo.com/"
+   },
+   {
+    "topic": "Transparency",
+    "point": "Release the full Epstein files and hold federal agencies accountable for alleged corruption.",
+    "source": "https://bcd4mo.com/"
+   },
+   {
+    "topic": "Debt",
+    "point": "Reduce federal debt, which he links to inflation and higher prices.",
+    "source": "https://bcd4mo.com/"
+   },
+   {
+    "topic": "Government size",
+    "point": "Eliminate federal agencies including the FBI, Department of Education and EPA.",
+    "source": "https://bcd4mo.com/"
+   },
+   {
+    "topic": "Civil liberties",
+    "point": "Protect gun rights without exceptions and oppose government censorship.",
+    "source": "https://bcd4mo.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Wants to cut federal debt and eliminate agencies such as the EPA, citing overregulation.",
+    "source": "https://bcd4mo.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 10,
+    "evidence": "Guns: backs Second Amendment rights with no exceptions; speech: opposes government censorship.",
+    "source": "https://bcd4mo.com/"
+   },
+   "security": {
+    "score": 10,
+    "evidence": "Proposes abolishing the FBI.",
+    "source": "https://bcd4mo.com/"
+   },
+   "immigration": null,
+   "foreign": {
+    "score": 5,
+    "evidence": "Opposes any further money for Israel, Ukraine or other allies.",
+    "source": "https://bcd4mo.com/"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Proposes eliminating the EPA.",
+    "source": "https://bcd4mo.com/"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Proposes eliminating the federal Department of Education.",
+    "source": "https://bcd4mo.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MO-3/bob-onder",
+  "name": "Bob Onder",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MO-3",
+  "bio": "Bob Onder has represented Missouri's 3rd District in the U.S. House since 2025. A St. Louis native, he is an allergy and asthma physician and attorney who served in the Missouri House (2007-2009) and the Missouri Senate (2015-2023).",
+  "website": "https://www.bobondermo.com/",
+  "social": {
+   "x": "https://x.com/RepBobOnder",
+   "instagram": "https://www.instagram.com/repbobonder",
+   "facebook": "https://www.facebook.com/RepBobOnder"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Fight illegal immigration, building on his state law banning sanctuary cities and penalizing employers of undocumented workers.",
+    "source": "https://onder.house.gov/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Back anti-abortion legislation, including cosponsoring the Born-Alive Abortion Survivors Protection Act.",
+    "source": "https://onder.house.gov/issues"
+   },
+   {
+    "topic": "Gun rights",
+    "point": "Defend the Second Amendment, citing his role in Missouri's constitutional carry law.",
+    "source": "https://onder.house.gov/issues"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Remove unnecessary and duplicative federal regulations that burden Missouri farmers.",
+    "source": "https://onder.house.gov/issues"
+   },
+   {
+    "topic": "Elections",
+    "point": "Make election security a campaign priority.",
+    "source": "https://www.bobondermo.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 reconciliation law extending the 2017 tax cuts.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 reconciliation law that added Medicaid work requirements and spending cuts.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "liberty": {
+    "score": 60,
+    "evidence": "Abortion: cosponsors Born-Alive bill and backed Missouri's 8-week ban; guns: led constitutional carry.",
+    "source": "https://onder.house.gov/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 90,
+    "evidence": "Sponsored a Missouri law banning sanctuary cities and penalizing employers who hire undocumented workers.",
+    "source": "https://onder.house.gov/issues"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Earlier education (20) and faith (70) scores were dropped because no supporting statement could be confirmed on his issue pages."
+ },
+ {
+  "id": "MO-3/bethany-mann",
+  "name": "Bethany Mann",
+  "party": "Democratic",
+  "current_role": "Environmental chemist",
+  "bio": "Bethany Mann is an environmental chemist from Foristell, Missouri, who works in energy and water infrastructure testing for contaminants such as lead and PFAS. She earlier tested crops for farmers. She was the Democratic nominee for Missouri's 3rd District in 2022 and 2024.",
+  "website": "https://www.bethanymannforcongress.com/",
+  "social": {
+   "x": "https://x.com/Mann4Congress",
+   "tiktok": "https://www.tiktok.com/@bethanymannforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Support Medicare for All, expanded telehealth and more mental health services.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   {
+    "topic": "Reproductive rights",
+    "point": "Treat abortion as health care and pass the Women's Health Protection Act and Equal Rights Amendment.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   {
+    "topic": "Education",
+    "point": "Fund public schools equitably rather than directing public money to private schools.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   {
+    "topic": "Environment",
+    "point": "Move to renewable energy to create jobs and reduce climate effects on farmers.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Invest federal money in roads, bridges, water and electric grids, especially in rural areas.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   {
+    "topic": "Voting rights",
+    "point": "Expand in-person, mail-in and drop box voting options.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Calls for large federal investment in roads, bridges, water systems and the power grid.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Supports Medicare for All.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Abortion: calls abortion health care and backs the Women's Health Protection Act.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 80,
+    "evidence": "Supports a transition to renewable energy, citing climate impacts on farmers.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Backs equitable public school funding and objects to public money going to private schools.",
+    "source": "https://www.bethanymannforcongress.com/platform"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Wikipedia describes her as a technology specialist while her campaign site calls her an environmental chemist; the economy score's earlier labor basis is no longer shown on her platform page."
+ },
+ {
+  "id": "MO-3/jim-higgins",
+  "name": "Jim Higgins",
+  "party": "Libertarian",
+  "current_role": "Computer systems analyst",
+  "bio": "Jim Higgins is a computer systems analyst and the Libertarian nominee for Missouri's 3rd Congressional District in 2026. He has run for office several times before.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MO-4/mark-alford",
+  "name": "Mark Alford",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MO-4",
+  "bio": "Mark Alford has represented Missouri's 4th District in the U.S. House since 2023 and serves on the Appropriations and Small Business committees. Born in Baytown, Texas, he was a television news anchor at WDAF-TV in Kansas City for 23 years and a small-business owner.",
+  "website": "https://alfordforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepMarkAlford",
+   "instagram": "https://www.instagram.com/RepMarkAlford",
+   "facebook": "https://www.facebook.com/100089595940547",
+   "youtube": "https://www.youtube.com/@RepAlford"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Secure the border by completing the border wall.",
+    "source": "https://alfordforcongress.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Cut federal spending, remove regulations and lower taxes.",
+    "source": "https://alfordforcongress.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Support Missouri farmers against federal overregulation.",
+    "source": "https://alfordforcongress.com/"
+   },
+   {
+    "topic": "Law enforcement",
+    "point": "Oppose efforts to defund the police.",
+    "source": "https://alfordforcongress.com/"
+   },
+   {
+    "topic": "National defense",
+    "point": "Strengthen military capabilities and deterrence.",
+    "source": "https://alfordforcongress.com/"
+   },
+   {
+    "topic": "Term limits",
+    "point": "Support legislation setting congressional term limits.",
+    "source": "https://alfordforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Campaigns on reining in federal spending, cutting regulations and lowering taxes.",
+    "source": "https://alfordforcongress.com/"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 reconciliation law that added Medicaid work requirements and spending cuts.",
+    "source": "https://clerk.house.gov/Votes/2025190"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Abortion: says he is pro-life; guns: campaigns on protecting Second Amendment rights.",
+    "source": "https://alfordforcongress.com/"
+   },
+   "security": {
+    "score": 60,
+    "evidence": "Campaign opposes efforts to defund the police.",
+    "source": "https://alfordforcongress.com/"
+   },
+   "immigration": {
+    "score": 95,
+    "evidence": "Has called for finishing the border wall and deporting people in the country illegally.",
+    "source": "https://www.ontheissues.org/House/Mark_Alford.htm"
+   },
+   "foreign": {
+    "score": 65,
+    "evidence": "Supported aid to Israel after the 2023 Hamas attack and campaigns on stronger military deterrence.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Alford"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Criticized EPA endangered-species actions as harming farmers and campaigns against agricultural overregulation.",
+    "source": "https://www.ontheissues.org/House/Mark_Alford.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Campaign calls for limiting federal involvement in schools.",
+    "source": "https://alfordforcongress.com/"
+   },
+   "faith": {
+    "score": 80,
+    "evidence": "Frames his agenda in religious terms, speaking of a country blessed by God.",
+    "source": "https://www.ontheissues.org/House/Mark_Alford.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://alfordforcongress.com/wp-content/uploads/2023/08/AFC-–-Header-headshot.png",
+  "notes": "Security, foreign and education scores are new and based on campaign-site statements."
+ },
+ {
+  "id": "MO-4/jordan-herrera",
+  "name": "Jordan Herrera",
+  "party": "Democratic",
+  "current_role": "Air Force veteran and clinical engineer",
+  "bio": "Jordan Herrera is a U.S. Air Force veteran of about 16 years who deployed to Iraq and Afghanistan. He works as a clinical engineer and biomedical specialist at Whiteman Air Force Base and has managed federal contracts. He is the Democratic nominee for Missouri's 4th District.",
+  "website": "https://jordanjherrera.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/jordanherreraforcongress",
+   "facebook": "https://www.facebook.com/jordanherreraforcongress",
+   "tiktok": "https://www.tiktok.com/@jordanherreraforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Close corporate tax loopholes, have top earners pay a fair share and cut wasteful spending.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Strengthen the ACA with a public option now, with Medicare for All as the long-term goal.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Use technology at ports of entry and create an earned citizenship path for long-term residents.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue an all-of-the-above mix including advanced nuclear, solar, wind and geothermal while modernizing the grid.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   {
+    "topic": "Technology",
+    "point": "Protect workers from AI disruption, set biometric data rights and require impact studies for data centers.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Defend public school funding, cap student loan interest and expand trade schools.",
+    "source": "https://jordanjherrera.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Wants to close corporate loopholes and have top earners pay more.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Sets Medicare for All as the long-term goal, with a public option and expanded ACA coverage now.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Abortion: protects access as a medical decision; LGBTQ: defends marriage equality and opposes conversion therapy.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 35,
+    "evidence": "Backs an earned path to citizenship for 10+ year residents, DACA protection and more H-2A/H-2B visas.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Opposes endless wars, requires congressional authorization and limits Israel aid to defensive weapons.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   "energy": {
+    "score": 60,
+    "evidence": "Supports an all-of-the-above approach with nuclear and renewables and holding polluters accountable.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   "tech": {
+    "score": 75,
+    "evidence": "Calls for worker protections from AI, biometric data rights and regulation of data centers.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Commits to defending public school funding and treating higher education as a public good.",
+    "source": "https://jordanjherrera.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Wikipedia lists his occupation as attorney, while his campaign describes a military and clinical engineering career."
+ },
+ {
+  "id": "MO-4/thomas-holbrook",
+  "name": "Thomas Holbrook",
+  "party": "Libertarian",
+  "current_role": "Document imaging specialist",
+  "bio": "Thomas Holbrook is a document imaging specialist and the Libertarian nominee for Missouri's 4th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The Missouri Libertarian Party lists him as Thomas Holbrook II; the exact ballot form of his name was not confirmed."
+ },
+ {
+  "id": "MO-5/emanuel-cleaver",
+  "name": "Emanuel Cleaver",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MO-5",
+  "bio": "Emanuel Cleaver II has represented Missouri's 5th District in the U.S. House since 2005 and chaired the Congressional Black Caucus from 2011 to 2013. A United Methodist pastor born in Waxahachie, Texas, he served on the Kansas City Council and was Kansas City's mayor from 1991 to 1999.",
+  "website": "http://www.cleaverforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepCleaver",
+   "facebook": "https://www.facebook.com/emanuelcleaverii",
+   "youtube": "https://www.youtube.com/repcleaver",
+   "instagram": "https://www.instagram.com/repcleaver"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Treat health care as a right rather than a privilege.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   {
+    "topic": "Wages",
+    "point": "Raise the federal minimum wage.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   {
+    "topic": "Gun safety",
+    "point": "Require a background check for every firearm sale and transfer.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Raise high-skill and family-based visa caps and protect DREAMers.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   {
+    "topic": "Education",
+    "point": "Oppose private and religious school voucher programs.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Rated 100% by Citizens for Tax Justice and has backed several minimum wage increases.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Says health care should be a right; voted to expand the Children's Health Insurance Program in 2009.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   "liberty": {
+    "score": 30,
+    "evidence": "Abortion: supports legal access; LGBTQ: opposed a marriage amendment; guns: backs universal background checks.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Voted against warrantless electronic surveillance (2006) and extending PATRIOT Act roving wiretaps (2011).",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Supports legalizing DREAMers and raising family-based and high-skill visa caps.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Voted to support Israel after October 7 while having backed repeal of the 2002 Iraq war authorization.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   "energy": {
+    "score": 80,
+    "evidence": "Voted to keep the offshore drilling moratorium and to remove oil and gas subsidies.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 90,
+    "evidence": "Opposes private and religious school voucher programs.",
+    "source": "https://www.ontheissues.org/House/Emanuel_Cleaver.htm"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "His campaign website could not be loaded for this review."
+ },
+ {
+  "id": "MO-5/rick-brattin",
+  "name": "Rick Brattin",
+  "party": "Republican",
+  "current_role": "Missouri State Senator, 31st District",
+  "bio": "Rick Brattin has served in the Missouri Senate since 2021 and chairs its Education Committee; before that he served in the Missouri House from 2011 to 2019. Born in Greenwood, Missouri, he served six years in the Marine Corps after the 9/11 attacks.",
+  "website": "https://rickbrattin.com/",
+  "social": {
+   "x": "https://x.com/RickBrattin",
+   "facebook": "https://www.facebook.com/ElectRickBrattin"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Cut taxes and regulations and keep property tax limits in place.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border, enforce immigration law and ban sanctuary cities.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Oppose abortion, as endorsed by Missouri Right to Life.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   {
+    "topic": "Gun rights",
+    "point": "Protect Second Amendment rights as an NRA member.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   {
+    "topic": "China",
+    "point": "Ban foreign land ownership near military bases and oppose subsidies for Chinese ventures.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand parental oversight of schooling and remove inappropriate library materials.",
+    "source": "https://rickbrattin.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Campaigns on cutting taxes and regulations and opposed tax increases in the legislature.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Proposed state legislation restricting what can be bought with SNAP benefits.",
+    "source": "https://en.wikipedia.org/wiki/Rick_Brattin"
+   },
+   "liberty": {
+    "score": 55,
+    "evidence": "Abortion: describes himself as fully pro-life and backs defunding Planned Parenthood; guns: NRA member who helped write state gun-rights protections.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   "security": {
+    "score": 65,
+    "evidence": "Sponsored state bills responding to protests, including stripping scholarships from protesting athletes.",
+    "source": "https://en.wikipedia.org/wiki/Rick_Brattin"
+   },
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports border security, penalties on employers of undocumented workers and sanctuary city bans.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 20,
+    "evidence": "Campaigns on unleashing American energy to lower costs.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Supports parental oversight of education and opposes 'woke programs' in schools.",
+    "source": "https://rickbrattin.com/issues"
+   },
+   "faith": {
+    "score": 90,
+    "evidence": "Sponsored bills to teach intelligent design alongside evolution in schools.",
+    "source": "https://en.wikipedia.org/wiki/Rick_Brattin"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MO-5/randy-langkraehr",
+  "name": "Randy Langkraehr",
+  "party": "Libertarian",
+  "current_role": "Business owner",
+  "bio": "Randall \"Randy\" Langkraehr is a business owner and the Libertarian nominee for Missouri's 5th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His ballot name may appear as Randall \"Randy\" Langkraehr."
+ },
+ {
+  "id": "MO-6/chris-stigall",
+  "name": "Chris Stigall",
+  "party": "Republican",
+  "current_role": "Radio talk show host",
+  "bio": "Chris Stigall is a conservative radio host from Richmond, Missouri, who hosts a Philadelphia morning show and, since 2025, a nationally syndicated program on Salem Radio Network. He previously hosted radio shows in Kansas City. He won the 2026 Republican primary for Missouri's 6th District, an open seat.",
+  "website": "https://www.stigallforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Make the Trump tax cuts permanent and oppose tax increases.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Expand rural health care access and address workforce shortages without federal mandates.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   {
+    "topic": "Border security",
+    "point": "Finish the border wall, deport criminal undocumented immigrants and pass the SAVE Act.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Oppose taxpayer funding of abortion.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   {
+    "topic": "Crypto",
+    "point": "Keep crypto innovation in the U.S. with lighter federal regulation.",
+    "source": "https://www.stigallforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Wants the Trump tax cuts made permanent and opposes raising taxes.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Focuses on rural health access while opposing federal health care mandates.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   "liberty": {
+    "score": 50,
+    "evidence": "Abortion: pro-life and against taxpayer funding; guns: calls Second Amendment rights non-negotiable.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 90,
+    "evidence": "Supports finishing the wall and deporting criminal undocumented immigrants.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 15,
+    "evidence": "Favors reduced federal regulation of cryptocurrency.",
+    "source": "https://www.stigallforcongress.com/issues"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Chris Stigall 2017 (cropped).jpg",
+   "license": "CC BY-SA 4.0",
+   "author": "Jared Hart"
+  },
+  "campaign_photo": "",
+  "notes": "Earlier education score (20, school choice) was dropped because his issues page does not address education."
+ }
+]

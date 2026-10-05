@@ -1,0 +1,35 @@
+[
+ {
+  "id": "WY-AL/shawn-johnson",
+  "name": "Shawn Johnson",
+  "party": "Libertarian",
+  "current_role": "Attorney; former Casper City Council member and vice mayor",
+  "bio": "Shawn Johnson is the Libertarian nominee for Wyoming's at-large U.S. House seat in 2026. He served 21 years as an Army combat medic in the Wyoming National Guard, including a 2003-2004 Iraq deployment, then 13 years with the Natrona County Sheriff's Office. He sat on the Casper City Council from 2014 to 2022, including a year as vice mayor, chaired the Libertarian Party of Wyoming, and now practices family law and criminal defense.",
+  "website": "https://www.shawnforwyoming.com/",
+  "social": {},
+  "platform": [
+    {"topic": "Government", "point": "Says he questioned unnecessary regulation and government spending during eight years on the Casper City Council.", "source": "https://www.shawnforwyoming.com/"},
+    {"topic": "Liberty", "point": "Wants people free to own property, run businesses, defend themselves and make personal choices without needless government interference.", "source": "https://www.shawnforwyoming.com/"},
+    {"topic": "Spending", "point": "Says public officials must be careful with taxpayer money and accountable for their decisions.", "source": "https://www.shawnforwyoming.com/"},
+    {"topic": "Foreign policy", "point": "As an Iraq veteran, says sending Americans into harm's way should be a last resort.", "source": "https://www.shawnforwyoming.com/"},
+    {"topic": "Congress", "point": "Says Wyoming's current delegation has handed too much legislative power to the executive branch.", "source": "https://county17.com/2026/03/20/former-casper-vice-mayor-shawn-johnson-seeks-libertarian-nod-for-u-s-house/"},
+    {"topic": "Independence", "point": "Pitches himself as an independent voice willing to vote against bad ideas regardless of which party proposes them.", "source": "https://www.shawnforwyoming.com/"},
+    {"topic": "Cannabis", "point": "As state Libertarian chair, helped launch a Wyoming medical cannabis ballot initiative.", "source": "https://oilcity.news/community/elections/2026/08/18/2026-primary-election-gops-gray-to-face-dem-kinney-for-wyomings-lone-u-s-house-of-representatives-seat/"}
+  ],
+  "positions": {
+    "economy": {"score": 35, "evidence": "General statement: his campaign site says he questioned unnecessary regulation and government spending and stresses care with taxpayer money.", "source": "https://www.shawnforwyoming.com/"},
+    "welfare": null,
+    "liberty": {"score": 30, "evidence": "Helped launch a medical cannabis initiative as state party chair (drugs), and his site generally backs self-defense (guns) and personal choice free of government interference.", "source": "https://oilcity.news/community/elections/2026/08/18/2026-primary-election-gops-gray-to-face-dem-kinney-for-wyomings-lone-u-s-house-of-representatives-seat/"},
+    "security": null,
+    "immigration": null,
+    "foreign": {"score": 40, "evidence": "General statement: his campaign site says sending Americans into harm's way should be a last resort, citing his Iraq service.", "source": "https://www.shawnforwyoming.com/"},
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6a8624f7b18b812f8912419d/941a410c-bafe-4717-9a12-115145e1f629/IMG_3930.jpeg?format=1500w",
+  "notes": "Searched the campaign site shawnforwyoming.com (single page, no issues section or social links), County 17 (announcement; he is not among the questionnaire responses in its voter guide), Oil City News, WyoFile, Cowboy State Daily, Wyoming Public Media, Vote411 and Wikipedia; web search was unavailable and the Casper Star-Tribune is paywalled. No stated positions were found on welfare, security, immigration, energy, tech, education or faith; he told County 17 he would release platform details after the nomination."
+ }
+]

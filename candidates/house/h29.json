@@ -1,0 +1,588 @@
+[
+  {
+    "state": "North Carolina",
+    "district": "NC-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mark Harris",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 15,
+          "liberty": 75,
+          "security": null,
+          "immigration": 85,
+          "foreign": 60,
+          "energy": 10,
+          "tech": 25,
+          "education": 10,
+          "faith": 95
+        },
+        "basis": "Backs lower taxes, market-based health reform, abortion ban without exceptions, opposes same-sex marriage and gun laws, wants border wall, vouchers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)",
+          "https://www.ontheissues.org/NC/Mark_Harris.htm"
+        ],
+        "photo": {
+          "file": "File:Harris Mark 119th Congress (crop2).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Colby Watson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 50,
+          "welfare": 60,
+          "liberty": 20,
+          "security": 55,
+          "immigration": 50,
+          "foreign": 50,
+          "energy": null,
+          "tech": 75,
+          "education": 60,
+          "faith": null
+        },
+        "basis": "Backs Second Amendment and LGBTQ equality, police funding, border security plus legal immigration reform, banning data collection on minors, public schools.",
+        "sources": [
+          "https://www.colbyforcongress.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Bo Whitehead",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "district": "NC-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Richard Hudson",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 10,
+          "liberty": 70,
+          "security": null,
+          "immigration": 85,
+          "foreign": 70,
+          "energy": 10,
+          "tech": null,
+          "education": 5,
+          "faith": 85
+        },
+        "basis": "Opposes tax hikes and ACA, pro-life, opposed same-sex marriage protections, gun-rights sponsor, border fence, supports Israel, fossil fuels, vouchers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Richard_Hudson_(American_politician)",
+          "https://www.ontheissues.org/NC/Richard_Hudson.htm"
+        ],
+        "photo": {
+          "file": "File:Richard Hudson, official portrait, 115th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Richard Ojeda",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 80,
+          "welfare": 85,
+          "liberty": 25,
+          "security": null,
+          "immigration": 30,
+          "foreign": 30,
+          "energy": 55,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants higher taxes on corporations and rich, universal coverage, abortion rights, cannabis legalization, stricter guns, DACA pathway, no Iran war.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Richard_Ojeda"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "district": "NC-10",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Pat Harrigan",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 70,
+          "foreign": 60,
+          "energy": 35,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs cutting red tape, stronger border enforcement, a stronger military, and an all-of-the-above energy strategy including fossil fuels and nuclear.",
+        "sources": [
+          "https://harrigan.house.gov/issues",
+          "https://en.wikipedia.org/wiki/Pat_Harrigan"
+        ],
+        "photo": {
+          "file": "File:CongressmanPatHarriganPortrait.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Ashley Bell",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 90,
+          "liberty": 20,
+          "security": null,
+          "immigration": 10,
+          "foreign": 25,
+          "energy": 95,
+          "tech": 85,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Supports universal healthcare, paid leave, reproductive and LGBTQ rights, gun reform, abolishing ICE, ending Israel funding, Green New Deal, AI regulation.",
+        "sources": [
+          "https://www.ashleybellforcongress.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Steven Feldman",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "district": "NC-11",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jennifer Balkcom",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 65,
+          "security": 60,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 25,
+          "tech": null,
+          "education": 10,
+          "faith": null
+        },
+        "basis": "Backed income tax cuts, opposed Medicaid expansion, 12-week abortion ban, transgender sports ban, gun rights, immigration status checks, vouchers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+        ],
+        "photo": {
+          "file": "File:Rep. Jennifer Balkcom.jpg",
+          "license": "Public domain",
+          "author": "NC House"
+        }
+      },
+      {
+        "name": "Jamie Ager",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 75,
+          "liberty": null,
+          "security": null,
+          "immigration": 40,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants the wealthy to pay their fair share, a public option and robust Medicaid and Social Security, and immigration reform meeting workforce needs.",
+        "sources": [
+          "https://agerforcongress.com/platform"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Travis Groo",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "district": "NC-12",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Alma Adams",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 85,
+          "liberty": 20,
+          "security": null,
+          "immigration": 15,
+          "foreign": 45,
+          "energy": 95,
+          "tech": null,
+          "education": 95,
+          "faith": null
+        },
+        "basis": "Supports minimum wage hike, ACA and Medicaid expansion, abortion rights, assault weapons ban, Equality Act, Dreamers, Green New Deal, opposes vouchers.",
+        "sources": [
+          "https://almaadamsforcongress.com/issues/",
+          "https://www.ontheissues.org/NC/Alma_Adams.htm"
+        ],
+        "photo": {
+          "file": "File:Alma Adams official portrait (3x4 cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Jack Codiga",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 5,
+          "welfare": 5,
+          "liberty": 60,
+          "security": 10,
+          "immigration": 75,
+          "foreign": 35,
+          "energy": null,
+          "tech": 70,
+          "education": null,
+          "faith": 80
+        },
+        "basis": "Wants to abolish income tax and phase out welfare, pro-life, permitless carry, warrants for data sharing, fewer work visas, algorithm transparency.",
+        "sources": [
+          "https://ihatepolitics.com/pages/platform"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "district": "NC-13",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brad Knott",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 65,
+          "security": 70,
+          "immigration": 85,
+          "foreign": 45,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pro-life, backs gun rights, opposes transgender women in women's sports, wants more deportations and police cross-deputization, backs Israel, opposes Ukraine aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brad_Knott"
+        ],
+        "photo": {
+          "file": "File:Rep. Brad Knott official photo, 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Paul Barringer",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 35,
+          "welfare": 45,
+          "liberty": 35,
+          "security": 50,
+          "immigration": 50,
+          "foreign": 70,
+          "energy": null,
+          "tech": null,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Backs balanced budget, market-driven health care with Medicare and Medicaid, abortion access, Second Amendment, secure border with legal immigration, alliances, public schools.",
+        "sources": [
+          "https://paulbarringer.com/priorities"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Steven Swinton",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "North Carolina",
+    "district": "NC-14",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Tim Moore",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 60,
+          "security": 60,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Passed state income tax cut, opposed Medicaid expansion, backed abortion waiting period and concealed carry expansion, required ICE cooperation, supports fracking.",
+        "sources": [
+          "https://www.ontheissues.org/NC/Tim_Moore.htm",
+          "https://www.timmoore.com/"
+        ],
+        "photo": {
+          "file": "File:Moore Tim 119th Congress (cropped2).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "LaKesha Womack",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 80,
+          "energy": null,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Supports a higher minimum wage, pro-worker tax policy, protecting the ACA, capping drug costs, restoring USAID, and more federal public school funding.",
+        "sources": [
+          "https://www.womack4nc14.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "North Dakota",
+    "district": "ND-AL",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Julie Fedorchak",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 50,
+          "security": null,
+          "immigration": 70,
+          "foreign": 65,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs balanced budget and the 2025 tax bill, pro-life and pro-gun (both drive liberty), border security, Iran strikes, repealing solar and wind credits.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Julie_Fedorchak",
+          "https://fedorchaknd.com/"
+        ],
+        "photo": {
+          "file": "File:Julie Fedorchak, official portrait (119th Congress) (cropped 2).jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe"
+        }
+      },
+      {
+        "name": "Trygve Hammer",
+        "party": "Democratic-NPL",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Wants corporations and the ultra wealthy to pay their fair share, opposes raising the retirement age, backs affordable healthcare and rural public schools.",
+        "sources": [
+          "https://www.hammerfornd.com/priorities"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Helene Neville",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Charles Tuttle",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://vip.sos.nd.gov/candidatelist.aspx?eid=348"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

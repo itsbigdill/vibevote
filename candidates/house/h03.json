@@ -1,0 +1,754 @@
+[
+  {
+    "state": "Arkansas",
+    "district": "AR-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Rick Crawford",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 80,
+          "security": 70,
+          "immigration": 80,
+          "foreign": 60,
+          "energy": 10,
+          "tech": 30,
+          "education": 20,
+          "faith": 85
+        },
+        "basis": "Voted for 2017 tax cuts; backs ACA repeal, welfare work requirements, abortion limits, school prayer, vouchers, PATRIOT Act; opposes climate taxes.",
+        "sources": [
+          "https://www.ontheissues.org/House/Rick_Crawford.htm",
+          "https://en.wikipedia.org/wiki/Rick_Crawford_(politician)"
+        ],
+        "photo": {
+          "file": "File:Crawford Rick 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "Brendan O'Hara, House Creative Services"
+        }
+      },
+      {
+        "name": "Terri Yarbrough Green",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign backs raising the minimum wage, challenging agricultural monopolies, affordable accessible healthcare and limiting dark money.",
+        "sources": [
+          "https://www.terrigreenforarkansas.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Steve Parsons",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arkansas",
+    "district": "AR-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "French Hill",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 65,
+          "security": null,
+          "immigration": 65,
+          "foreign": 75,
+          "energy": 15,
+          "tech": null,
+          "education": 20,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts and ACA repeal; anti-abortion and pro-gun, reportedly backs same-sex marriage; supports vouchers, offshore drilling, Iran strikes.",
+        "sources": [
+          "https://www.ontheissues.org/House/French_Hill.htm",
+          "https://en.wikipedia.org/wiki/French_Hill_(politician)"
+        ],
+        "photo": {
+          "file": "File:Hill French 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe, House Creative Services"
+        }
+      },
+      {
+        "name": "Chris Jones",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 60,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 65,
+          "faith": null
+        },
+        "basis": "Campaign centers affordability and ethics; earlier 'PB&J' agenda prioritized preschool, broadband and jobs investment.",
+        "sources": [
+          "https://chrisjonesforcongress.com/priorities/",
+          "https://en.wikipedia.org/wiki/Chris_Jones_(Arkansas_politician)"
+        ],
+        "photo": {
+          "file": "File:Chris Jones, Arkansas gubernatorial candidate.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "BloodshotRollinRed"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Arkansas",
+    "district": "AR-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Steve Womack",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 80,
+          "security": 70,
+          "immigration": 85,
+          "foreign": 55,
+          "energy": 10,
+          "tech": 30,
+          "education": 20,
+          "faith": 65
+        },
+        "basis": "Opposes tax increases and ACA; pro-life, anti-background-checks; backs border wall, vouchers, PATRIOT Act, religious exemptions; opposes climate taxes.",
+        "sources": [
+          "https://www.ontheissues.org/House/Steve_Womack.htm",
+          "https://en.wikipedia.org/wiki/Steve_Womack"
+        ],
+        "photo": {
+          "file": "File:Steve Womack 118thCongress.jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Robb Ryerse",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 90,
+          "liberty": 25,
+          "security": 25,
+          "immigration": 5,
+          "foreign": 30,
+          "energy": 80,
+          "tech": null,
+          "education": 85,
+          "faith": 30
+        },
+        "basis": "Backs Medicare for All, higher wages, abortion rights, LGBTQ protections, gun safety laws, amnesty, abolishing ICE, clean energy, public schools.",
+        "sources": [
+          "https://www.robbforcongress.com/our-values"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Bobby Wilson",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Arkansas",
+    "district": "AR-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Bruce Westerman",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 85,
+          "security": null,
+          "immigration": 75,
+          "foreign": null,
+          "energy": 15,
+          "tech": null,
+          "education": 20,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts; opposes ACA, abortion and same-sex marriage; NRA A-rated; wants border control first; 4% LCV score; backs vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/House/Bruce_Westerman.htm",
+          "https://en.wikipedia.org/wiki/Bruce_Westerman"
+        ],
+        "photo": {
+          "file": "File:Bruce Westerman 118th Congress.jpeg",
+          "license": "Public domain",
+          "author": "Brian Thorpe, House Creative Services"
+        }
+      },
+      {
+        "name": "James Russell",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 70,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Supports higher minimum wage, a tax on the top 0.1%, healthcare for everyone, bodily autonomy, free college and a clean energy future.",
+        "sources": [
+          "https://russellforar.com/on-the-issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "James Gallagher",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 70,
+          "foreign": 55,
+          "energy": null,
+          "tech": 30,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Official site backs cutting taxes and regulations, secure borders, strong defense with an America First approach, and light-touch tech rules.",
+        "sources": [
+          "https://gallagher.house.gov/issues/jobs-and-economic-growth",
+          "https://gallagher.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:James Gallagher, official portrait (119th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Mike McGuire",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 90,
+          "liberty": 20,
+          "security": null,
+          "immigration": 25,
+          "foreign": 35,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign backs Medicare for All, taxing billionaires, abortion rights, holding ICE accountable, bold climate action and ending the Iran war.",
+        "sources": [
+          "https://www.votemikemcguire.com/issues",
+          "https://en.wikipedia.org/wiki/Mike_McGuire_(politician)"
+        ],
+        "photo": {
+          "file": "File:State Senator Mike McGuire.jpg",
+          "license": "Public domain",
+          "author": "State of California"
+        }
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jared Huffman",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 80,
+          "liberty": 15,
+          "security": 20,
+          "immigration": 20,
+          "foreign": 35,
+          "energy": 95,
+          "tech": null,
+          "education": 85,
+          "faith": 5
+        },
+        "basis": "Backs higher estate taxes, ACA expansion, abortion rights, gun limits, DREAM Act, Green New Deal; opposes bulk surveillance and vouchers; co-founded Freethought Caucus.",
+        "sources": [
+          "https://www.ontheissues.org/CA/Jared_Huffman.htm",
+          "https://en.wikipedia.org/wiki/Jared_Huffman"
+        ],
+        "photo": {
+          "file": "File:Jared Huffman Portrait 117.jpeg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Robin Littau",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No public platform or voting record found; all positions left blank.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ami Bera",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": 15,
+          "security": 50,
+          "immigration": 30,
+          "foreign": 75,
+          "energy": 80,
+          "tech": 35,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Opposed 2017 tax cuts; backs ACA, abortion rights, gun checks, citizenship path, climate rules, India and Israel ties; voted against 2022 antitrust package.",
+        "sources": [
+          "https://www.ontheissues.org/CA/Ami_Bera.htm",
+          "https://en.wikipedia.org/wiki/Ami_Bera"
+        ],
+        "photo": {
+          "file": "File:Ami Bera 117th Congress.jpeg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Robb Tucker",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 35,
+          "liberty": 70,
+          "security": 45,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 40,
+          "tech": null,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "Platform backs deregulation, a balanced budget amendment, concealed-carry reciprocity, parental rights, border barriers, ending sanctuary policies and limits on warrantless surveillance.",
+        "sources": [
+          "https://robbtucker.com/platform/"
+        ],
+        "photo": {
+          "file": "File:Robb Tucker, 2025 (cropped).jpg",
+          "license": "Public domain",
+          "author": "Nevada County Board of Supervisors"
+        }
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Thompson",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": 25,
+          "security": 30,
+          "immigration": 20,
+          "foreign": 50,
+          "energy": 85,
+          "tech": 60,
+          "education": 85,
+          "faith": 20
+        },
+        "basis": "Backs progressive taxes, public option, abortion rights, universal background checks, citizenship path, clean energy, net neutrality; opposes vouchers and warrantless wiretaps.",
+        "sources": [
+          "https://www.ontheissues.org/CA/Mike_Thompson.htm",
+          "https://mikethompson.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:Mike Thompson, official portrait, 116th Congress (3x4 cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography/House Creative Services"
+        }
+      },
+      {
+        "name": "Eric Jones",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": null,
+          "security": 20,
+          "immigration": 40,
+          "foreign": 35,
+          "energy": null,
+          "tech": 80,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Platform: corporate taxes, antitrust, expanded Medicare, farm workforce, no blank checks for war, Big Tech and kids-online rules, ending Flock surveillance.",
+        "sources": [
+          "https://www.ericjones.us/priorities"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Tom McClintock",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 10,
+          "welfare": 10,
+          "liberty": 65,
+          "security": 25,
+          "immigration": 90,
+          "foreign": 25,
+          "energy": 5,
+          "tech": 20,
+          "education": 15,
+          "faith": 70
+        },
+        "basis": "Backs tax cuts, entitlement privatization, abortion limits, gun rights but cannabis legalization, border fence, vouchers; opposes PATRIOT surveillance, foreign deployments, climate rules.",
+        "sources": [
+          "https://www.ontheissues.org/CA/Tom_McClintock.htm",
+          "https://en.wikipedia.org/wiki/Tom_McClintock"
+        ],
+        "photo": {
+          "file": "File:Tom McClintock portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Michael Masuda",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 55,
+          "welfare": 60,
+          "liberty": 25,
+          "security": null,
+          "immigration": 45,
+          "foreign": 70,
+          "energy": 55,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Platform backs lower drug costs, protecting Medicare, LGBTQ rights, border security plus an earned path, NATO alliances, grid modernization and public schools.",
+        "sources": [
+          "https://www.votemasuda.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Kevin Kiley",
+        "party": "No party preference",
+        "incumbent": true,
+        "positions": {
+          "economy": 25,
+          "welfare": 35,
+          "liberty": 55,
+          "security": 60,
+          "immigration": 75,
+          "foreign": 60,
+          "energy": 25,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "Opposes sanctuary laws, new gun laws, vaccine mandates and California's gas-car ban; calls abortion a state issue; backs charter schools, tougher sentences.",
+        "sources": [
+          "https://www.ontheissues.org/CA/Kevin_Kiley.htm",
+          "https://en.wikipedia.org/wiki/Kevin_Kiley_(politician)"
+        ],
+        "photo": {
+          "file": "File:Rep. Kevin Kiley official photo, 118th Congress 2.jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Richard Pan",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 55,
+          "welfare": 70,
+          "liberty": 40,
+          "security": 45,
+          "immigration": 20,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 15
+        },
+        "basis": "Backs codifying Roe, assault weapons ban, ending vaccine religious exemptions, ACA protection, citizenship path, replacing ICE and ending tariffs.",
+        "sources": [
+          "https://drpanforcongress.com/",
+          "https://en.wikipedia.org/wiki/Richard_Pan"
+        ],
+        "photo": {
+          "file": "File:Richard Pan (cropped).jpg",
+          "license": "Public domain",
+          "author": "California Senate"
+        }
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Doris Matsui",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 80,
+          "liberty": 25,
+          "security": 30,
+          "immigration": 20,
+          "foreign": 60,
+          "energy": 85,
+          "tech": 70,
+          "education": 85,
+          "faith": 25
+        },
+        "basis": "Backs progressive taxes, ACA, abortion and LGBTQ rights, gun control, citizenship path, Ukraine aid, renewables, net neutrality; opposes vouchers and bulk surveillance.",
+        "sources": [
+          "https://www.ontheissues.org/CA/Doris_Matsui.htm",
+          "https://en.wikipedia.org/wiki/Doris_Matsui"
+        ],
+        "photo": {
+          "file": "File:Doris Matsui portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives — Office of the Clerk"
+        }
+      },
+      {
+        "name": "Mai Vang",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 90,
+          "welfare": 95,
+          "liberty": 15,
+          "security": 5,
+          "immigration": 0,
+          "foreign": 10,
+          "energy": null,
+          "tech": 95,
+          "education": 95,
+          "faith": null
+        },
+        "basis": "Backs taxing billionaires, Medicare for All, universal child care, abolishing ICE, ending Israel military aid, AI safety rules, data-center moratorium; opposes vouchers, Flock.",
+        "sources": [
+          "https://www.maiforus.com/platform",
+          "https://en.wikipedia.org/wiki/Mai_Vang"
+        ],
+        "photo": {
+          "file": "File:Sacramento City Councilmember Mai Vang.jpg",
+          "license": "Public domain",
+          "author": "Sacramento City Council"
+        }
+      }
+    ]
+  },
+  {
+    "state": "California",
+    "district": "CA-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "John Garamendi",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 90,
+          "liberty": 20,
+          "security": 20,
+          "immigration": 30,
+          "foreign": 40,
+          "energy": 90,
+          "tech": 60,
+          "education": 85,
+          "faith": 15
+        },
+        "basis": "Cosponsored Medicare for All and Green New Deal; called 2017 tax law a scam; backs abortion rights, gun limits, citizenship path; opposed PATRIOT extension.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/John_Garamendi",
+          "https://www.ontheissues.org/CA/John_Garamendi.htm"
+        ],
+        "photo": {
+          "file": "File:John Garamendi portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives — Office of the Clerk"
+        }
+      },
+      {
+        "name": "Rudy Recile",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 10,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Campaign backs cutting government spending, expanded fossil-fuel energy production and school choice.",
+        "sources": [
+          "https://rudyforuscongress.com/index.php/issues/"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

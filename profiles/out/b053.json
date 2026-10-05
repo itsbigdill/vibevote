@@ -1,0 +1,411 @@
+[
+ {
+  "id": "MD-6/april-mcclain-delaney",
+  "name": "April McClain Delaney",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MD-6",
+  "bio": "April McClain Delaney has represented Maryland's 6th District since 2025 and sits on the Agriculture and Science, Space, and Technology committees. A media and communications lawyer, she founded the Washington office of Common Sense Media and served as Deputy Administrator of the National Telecommunications and Information Administration from 2022 to 2023. She grew up on a farm in Buhl, Idaho.",
+  "website": "https://aprilmcclaindelaneyforcongress.com",
+  "social": {
+   "x": "https://x.com/RepAprilDelaney",
+   "instagram": "https://www.instagram.com/repaprildelaney",
+   "facebook": "https://www.facebook.com/RepAprilDelaney",
+   "youtube": "https://www.youtube.com/@AprilForCongress"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants to lower household costs, oppose new tariffs and restore funding cut from SNAP, Medicaid and ACA tax credits.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Federal workforce", "point": "Co-leads a bill barring agencies from cutting more than 5% of staff without an impact analysis.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Immigration", "point": "Backs the American Dream and Promise Act, giving Dreamers and long-term residents a path to citizenship.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Infrastructure", "point": "Seeks full federal funding to rebuild the Key Bridge and new federal resilience standards for infrastructure.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Crypto", "point": "Supports a digital-asset market framework with consumer protections and anti-fraud safeguards.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "War powers", "point": "Wants Congress, not the president alone, to authorize military action.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Supports antitrust enforcement against monopolies and opposes tariffs, while also backing small-business deregulation and deficit reduction.", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "welfare": {"score": 65, "evidence": "Backs Medicare drug price negotiation and federal universal coverage short of Medicare for All, and opposes cuts to Medicaid, SNAP and ACA credits.", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "liberty": {"score": 45, "evidence": "Supports codifying Roe v. Wade (abortion) alongside an assault weapons ban, universal background checks and red flag laws (guns).", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "security": {"score": 50, "evidence": "Supports added funding and training for effective, accountable policing; no surveillance record found.", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "immigration": {"score": 40, "evidence": "Voted for the Laken Riley Act (a vote she later said she regretted) and backed the 2024 bipartisan border bill, while supporting a citizenship path for Dreamers.", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "foreign": {"score": 75, "evidence": "Supports aid to Ukraine and strengthening NATO.", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "energy": {"score": 75, "evidence": "Backs decarbonization tax incentives, a green economy transition and science-based Chesapeake Bay regulation.", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "tech": {"score": 55, "evidence": "Advocates updating communications law to protect children's online privacy and supports a regulated crypto market framework.", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "education": {"score": 85, "evidence": "Supports universal pre-K and free community college.", "source": "https://en.wikipedia.org/wiki/April_McClain_Delaney"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The campaign website appears dated and lists no issue pages, so the platform draws on Baltimore Sun questionnaire coverage."
+ },
+ {
+  "id": "MD-6/robin-ficker",
+  "name": "Robin Ficker",
+  "party": "Republican",
+  "current_role": "Real estate broker",
+  "bio": "Robin Ficker is a real estate broker and longtime Maryland political activist who served one term in the Maryland House of Delegates from 1979 to 1983. He practiced law from 1973 until his disbarment in 2022 and led several tax-limitation and term-limit ballot initiatives in Montgomery County. He previously ran for Montgomery County Executive in 2018 and U.S. Senate in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Shutdowns", "point": "Pledges never to vote for a government shutdown, citing the impact on federal employees and contractors.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Budget", "point": "Supports a balanced budget and opposes new programs unless offset by cuts elsewhere.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Transportation", "point": "Prioritizes improving I-270 between Montgomery and Frederick counties.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Immigration", "point": "Wants immigration to follow established legal channels and opposes open-border policies.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Education", "point": "Wants schools to focus on core academics with greater parental oversight of curriculum.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   {"topic": "Environment", "point": "Favors enforcing existing Chesapeake Bay rules rather than adding new regulatory layers.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Backs a balanced budget with no new unfunded programs and has led tax-limitation ballot initiatives.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 60, "evidence": "Calls for immigration through established legal channels and opposes open-border policies.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 35, "evidence": "Says schools should focus on reading, writing and arithmetic and leave social topics to parents.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-6th-congressional-district-candidates-2026-election/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Robin Ficker (35598540490).jpg", "license": "CC BY 2.0", "author": "Maryland GovPics"},
+  "campaign_photo": "",
+  "notes": "Education score added from a brief questionnaire answer and is tentative; no campaign website was found."
+ },
+ {
+  "id": "MD-7/kweisi-mfume",
+  "name": "Kweisi Mfume",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MD-7",
+  "bio": "Kweisi Mfume, a Baltimore native, has represented Maryland's 7th District since a 2020 special election and serves on the Oversight and Foreign Affairs committees. He previously served on the Baltimore City Council, represented the same district from 1987 to 1996 and chaired the Congressional Black Caucus. From 1996 to 2004 he was president and CEO of the NAACP.",
+  "website": "https://mfumeforcongress.com",
+  "social": {
+   "x": "https://x.com/RepKweisiMfume",
+   "instagram": "https://www.instagram.com/repkweisimfume",
+   "facebook": "https://www.facebook.com/RepKweisiMfume",
+   "youtube": "https://www.youtube.com/channel/UCbE6PJy-4U0DxosEW2TBQRA"
+  },
+  "platform": [
+   {"topic": "Immigration", "point": "Seeks to protect district families from immigration enforcement actions.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-7th-congressional-district-candidates-2026-election/"},
+   {"topic": "Infrastructure", "point": "Secures federal project funding for the district, including full federal funding for the Key Bridge rebuild.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-7th-congressional-district-candidates-2026-election/"},
+   {"topic": "Defense oversight", "point": "Focuses on oversight of Pentagon spending and accountability for defense contractors.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-7th-congressional-district-candidates-2026-election/"},
+   {"topic": "Environment", "point": "Supports science-based regulation to protect the Chesapeake Bay.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-7th-congressional-district-candidates-2026-election/"},
+   {"topic": "Federal budget", "point": "Opposes binding budget caps and wants Congress to reassert authority over the executive branch.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-7th-congressional-district-candidates-2026-election/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Criticized the 2017 tax cuts as favoring the wealthy and favors higher taxes to balance the budget.", "source": "https://www.ontheissues.org/House/Kweisi_Mfume.htm"},
+   "welfare": {"score": 90, "evidence": "Cosponsored the 2025 Medicare for All Act and opposes budget caps that would cut programs.", "source": "https://jayapal.house.gov/2025/04/29/jayapal-sanders-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/"},
+   "liberty": {"score": 45, "evidence": "Pro-choice on abortion but supports assault weapons bans and expanded background checks on guns.", "source": "https://www.ontheissues.org/House/Kweisi_Mfume.htm"},
+   "security": {"score": 30, "evidence": "Sponsored stricter police accountability rules and opposes harsher punishment as the main crime remedy.", "source": "https://www.ontheissues.org/House/Kweisi_Mfume.htm"},
+   "immigration": {"score": 15, "evidence": "Supports a path to citizenship and Dreamers, opposes a border wall and religion-based bans.", "source": "https://www.ontheissues.org/House/Kweisi_Mfume.htm"},
+   "foreign": {"score": 40, "evidence": "Opposes military force without UN cooperation, wants the 2002 Iraq authorization repealed and presses Pentagon spending oversight.", "source": "https://www.ontheissues.org/House/Kweisi_Mfume.htm"},
+   "energy": {"score": 80, "evidence": "Supports building a green economy and enforcing federal environmental law.", "source": "https://www.ontheissues.org/House/Kweisi_Mfume.htm"},
+   "tech": null,
+   "education": {"score": 90, "evidence": "Opposes school vouchers and secured federal early-childhood education funding.", "source": "https://www.ontheissues.org/House/Kweisi_Mfume.htm"},
+   "faith": {"score": 15, "evidence": "Opposes tying federal aid to voluntary school prayer.", "source": "https://www.ontheissues.org/House/Kweisi_Mfume.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MD-7/scott-collier",
+  "name": "Scott M. Collier",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Scott M. Collier is the Republican nominee for Maryland's 7th Congressional District in 2026. No further public biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Did not answer the Baltimore Sun questionnaire, and no campaign site or Ballotpedia profile could be retrieved."
+ },
+ {
+  "id": "MD-8/jamie-raskin",
+  "name": "Jamie Raskin",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MD-8",
+  "bio": "Jamie Raskin has represented Maryland's 8th District in Montgomery County since 2017 and became ranking member of the House Judiciary Committee in 2025, after serving as ranking member of the Oversight Committee. A constitutional law professor, he served in the Maryland State Senate from 2007 to 2016. He was lead manager in the second Trump impeachment and served on the January 6 select committee.",
+  "website": "https://www.jamieraskin.com",
+  "social": {
+   "x": "https://x.com/RepRaskin",
+   "instagram": "https://www.instagram.com/repraskin",
+   "facebook": "https://www.facebook.com/repraskin"
+  },
+  "platform": [
+   {"topic": "Democracy", "point": "Centers his campaign on defending constitutional democracy and expanding voter engagement.", "source": "https://www.jamieraskin.com/"},
+   {"topic": "Health care", "point": "Longtime supporter of single-payer health care and opposes repeal of the Affordable Care Act.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   {"topic": "Guns", "point": "Supports an assault weapons ban and universal background checks.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   {"topic": "Climate", "point": "Backs clean energy investment, greenhouse gas regulation and Green New Deal mobilization.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   {"topic": "Immigration", "point": "Supports comprehensive reform with a path to citizenship.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports raising taxes on the wealthy to balance budgets.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   "welfare": {"score": 90, "evidence": "Longtime champion of single-payer health care and Medicare for All.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   "liberty": {"score": 30, "evidence": "Pro-choice on abortion, co-chairs the LGBTQ Equality Caucus and backs lighter drug penalties, but supports assault weapons bans (guns).", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   "security": {"score": 20, "evidence": "Sponsored stricter police accountability rules.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   "immigration": {"score": 15, "evidence": "Supports a path to citizenship and in-state tuition for undocumented immigrants and opposes deportations.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   "foreign": {"score": 45, "evidence": "Cautious on military intervention; supported the Iran nuclear deal and ending U.S. involvement in Yemen.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   "energy": {"score": 90, "evidence": "Backs greenhouse gas regulation, clean energy investment and the Green New Deal.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   "tech": {"score": 60, "evidence": "Supports net neutrality rules.", "source": "https://www.ontheissues.org/House/Jamie_Raskin.htm"},
+   "education": null,
+   "faith": {"score": 15, "evidence": "Co-founded the Congressional Freethought Caucus, which promotes separation of church and state.", "source": "https://en.wikipedia.org/wiki/Jamie_Raskin"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Faith score newly added from his Freethought Caucus role."
+ },
+ {
+  "id": "MD-8/cheryl-riley",
+  "name": "Cheryl Riley",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Cheryl Riley is a Montgomery County conservative running as the Republican nominee for Maryland's 8th Congressional District. Her campaign describes her as a Christian and constitutional conservative.",
+  "website": "https://www.cheryl4maryland.com",
+  "social": {
+   "x": "https://twitter.com/cheryl4moco",
+   "facebook": "https://www.facebook.com/cheryl4maryland"
+  },
+  "platform": [
+   {"topic": "Public safety", "point": "Wants a justice system that keeps repeat criminals off the streets and protects vulnerable residents.", "source": "https://www.cheryl4maryland.com/"},
+   {"topic": "Economy", "point": "Supports pro-growth policies and lower taxes, fees and regulations on businesses.", "source": "https://www.cheryl4maryland.com/"},
+   {"topic": "Limited government", "point": "Emphasizes limited government, personal choice and personal responsibility, opposing democratic socialism.", "source": "https://www.cheryl4maryland.com/"},
+   {"topic": "Border", "point": "Calls for sealing the southern border.", "source": "https://www.cheryl4maryland.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Calls for reducing taxes, fees and regulation on businesses.", "source": "https://www.cheryl4maryland.com/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 65, "evidence": "Prioritizes a justice system that keeps criminals off the streets.", "source": "https://www.cheryl4maryland.com/"},
+   "immigration": {"score": 90, "evidence": "Campaign calls for sealed borders.", "source": "https://www.cheryl4maryland.com/"},
+   "foreign": {"score": 30, "evidence": "Campaign promotes an America First foreign policy.", "source": "https://www.cheryl4maryland.com/"},
+   "energy": {"score": 15, "evidence": "Campaign calls for unleashing domestic energy production.", "source": "https://www.cheryl4maryland.com/"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Campaign supports parents' rights in education.", "source": "https://www.cheryl4maryland.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Border, energy, foreign, education and security scores rest on short slogans on her campaign homepage rather than detailed policy."
+ },
+ {
+  "id": "MA-1/richard-neal",
+  "name": "Richard E. Neal",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MA-1",
+  "bio": "Richard Neal has served in the U.S. House since 1989, representing Massachusetts's 1st District since 2013, and is ranking member of the Ways and Means Committee, which he chaired from 2019 to 2023. Raised in Springfield, he served on the Springfield City Council and as mayor of Springfield from 1983 to 1989.",
+  "website": "https://www.nealforcongress.com",
+  "social": {
+   "x": "https://x.com/RepRichardNeal",
+   "facebook": "https://www.facebook.com/reprichardneal",
+   "youtube": "https://www.youtube.com/user/RepRichardENeal"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Favors middle-class tax cuts over tax cuts for the wealthy.", "source": "https://www.nealforcongress.com/"},
+   {"topic": "Trade", "point": "Wants tariffs removed to bring down consumer prices.", "source": "https://www.nealforcongress.com/"},
+   {"topic": "Retirement", "point": "Pledges to protect Social Security and Medicare.", "source": "https://www.nealforcongress.com/"},
+   {"topic": "Health care", "point": "Aims to lower health care and prescription drug costs.", "source": "https://www.nealforcongress.com/"},
+   {"topic": "Regional funding", "point": "Seeks federal resources for Western and Central Massachusetts.", "source": "https://www.nealforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Opposes tax cuts for the wealthy and tariffs and seeks to close high-earner loopholes.", "source": "https://www.nealforcongress.com/"},
+   "welfare": {"score": 55, "evidence": "Helped write the ACA but opposed Medicare for All in favor of incremental reform.", "source": "https://en.wikipedia.org/wiki/Richard_Neal"},
+   "liberty": {"score": 35, "evidence": "Mixed abortion record (voted for the 2003 partial-birth ban, cosponsored the Women's Health Protection Act) and opposed the Federal Marriage Amendment (LGBTQ).", "source": "https://en.wikipedia.org/wiki/Richard_Neal"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/5adfeca775f9ee833929da41/1595894799544-C7Z4WU4R6TP4KEIPKRTJ/Official+Campaign+Headshot.jpg",
+  "notes": ""
+ },
+ {
+  "id": "MA-1/nadia-milleron",
+  "name": "Nadia Milleron",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Nadia Milleron is a Lebanese American running as an independent for Massachusetts's 1st Congressional District. Her campaign focuses on reducing corporate influence in politics and pledges she will serve no more than three terms.",
+  "website": "https://nadiaforcongress.com",
+  "social": {
+   "x": "https://x.com/NadiaMilleron",
+   "instagram": "https://www.instagram.com/nadiaforcongress",
+   "facebook": "https://www.facebook.com/nadiamilleronforcongress"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Proposes ending federal income tax on earnings below $100,000 and closing corporate tax loopholes.", "source": "https://nadiaforcongress.com/fight/"},
+   {"topic": "Health care", "point": "Wants to remove private insurers from health care and expand residencies and mental health staffing.", "source": "https://nadiaforcongress.com/fight/"},
+   {"topic": "Housing", "point": "Supports capping rent increases and limiting corporate purchases of neighborhood housing.", "source": "https://nadiaforcongress.com/fight/"},
+   {"topic": "Manufacturing", "point": "Proposes a federal medical manufacturing zone in the district to restore domestic drug and supply production.", "source": "https://nadiaforcongress.com/fight/"},
+   {"topic": "Military spending", "point": "Wants to stop funding foreign wars and shift money to health, housing and infrastructure.", "source": "https://nadiaforcongress.com/fight/"},
+   {"topic": "Corporate power", "point": "Seeks a federal corporate charter requiring transparency and limits on corporate election spending.", "source": "https://nadiaforcongress.com/fight/"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Backs rent caps, a federal jobs guarantee, action on price gouging and closing corporate loopholes.", "source": "https://nadiaforcongress.com/fight/"},
+   "welfare": {"score": 90, "evidence": "Supports health care without private insurers and a living-wage job guarantee.", "source": "https://nadiaforcongress.com/fight/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 10, "evidence": "Opposes funding foreign wars and wants military spending redirected to domestic needs.", "source": "https://nadiaforcongress.com/fight/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://nadiaforcongress.com/wp-content/uploads/2024/07/nadia-400px.png",
+  "notes": ""
+ },
+ {
+  "id": "MA-2/jim-mcgovern",
+  "name": "Jim McGovern",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MA-2",
+  "bio": "Jim McGovern, a Worcester native, has served in the U.S. House since 1997 and represents Massachusetts's 2nd District. He is ranking member of the House Rules Committee, which he chaired from 2019 to 2023, and co-chairs the Tom Lantos Human Rights Commission. Before Congress he worked as a staffer for Senator George McGovern and Representative Joe Moakley.",
+  "website": "https://www.jimmcgovern.com",
+  "social": {
+   "x": "https://x.com/RepMcGovern",
+   "instagram": "https://www.instagram.com/repmcgovern",
+   "facebook": "https://www.facebook.com/RepJimMcGovern",
+   "youtube": "https://www.youtube.com/user/repjimmcgovern"
+  },
+  "platform": [
+   {"topic": "Hunger", "point": "Works to end food insecurity at home and abroad, including defending nutrition programs.", "source": "https://www.jimmcgovern.com/"},
+   {"topic": "Health care", "point": "Supports Medicare for All and treats health care as a human right.", "source": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"},
+   {"topic": "Human rights", "point": "Advocates for human rights abroad through the Tom Lantos Human Rights Commission.", "source": "https://www.jimmcgovern.com/"},
+   {"topic": "Campaign finance", "point": "Supports campaign finance reform to limit money in politics.", "source": "https://www.jimmcgovern.com/"},
+   {"topic": "Economy", "point": "Calls for an economy that works for working families.", "source": "https://www.jimmcgovern.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Supports progressive taxation and voted against the 2023 Fiscal Responsibility Act.", "source": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All and leads on expanding anti-hunger programs.", "source": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"},
+   "liberty": {"score": 15, "evidence": "Pro-choice record on abortion and cosponsored the Respect for Marriage Act and ENDA (LGBTQ rights).", "source": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Voted against the REAL ID Act, the Border Protection Act and the Secure Fence Act.", "source": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"},
+   "foreign": {"score": 35, "evidence": "Opposed the Iraq War and backs normalizing relations with Cuba while emphasizing human rights diplomacy.", "source": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"},
+   "energy": null,
+   "tech": {"score": 35, "evidence": "Opposed banning TikTok.", "source": "https://en.wikipedia.org/wiki/Jim_McGovern_(American_politician)"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MA-3/lori-trahan",
+  "name": "Lori Trahan",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MA-3",
+  "bio": "Lori Trahan has represented Massachusetts's 3rd District since 2019 and serves on the Energy and Commerce Committee. Born in Lowell, she was chief of staff to Representative Marty Meehan and later worked in business, including at ChoiceStream and the Concire Leadership Institute.",
+  "website": "https://loritrahan.com",
+  "social": {
+   "x": "https://x.com/RepLoriTrahan",
+   "instagram": "https://www.instagram.com/reploritrahan",
+   "facebook": "https://www.facebook.com/reploritrahan",
+   "youtube": "https://www.youtube.com/channel/UCsRXg0BmoS4Rkjz-pqX1PmQ"
+  },
+  "platform": [
+   {"topic": "Education", "point": "Wants higher teacher pay, more Title I money and full federal funding for special education.", "source": "https://loritrahan.com/education/"},
+   {"topic": "College costs", "point": "Supports expanded grants and help for employers paying down workers' student loans.", "source": "https://loritrahan.com/education/"},
+   {"topic": "Health care", "point": "Treats health care as a right and supports expanding the Affordable Care Act.", "source": "https://loritrahan.com/healthcare/"},
+   {"topic": "Immigration", "point": "Supports a path to citizenship and opposes a border wall.", "source": "https://loritrahan.com/immigration/"},
+   {"topic": "AI safety", "point": "Leads a bill requiring independent verification of safety protocols at frontier AI developers.", "source": "https://en.wikipedia.org/wiki/Lori_Trahan"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 70, "evidence": "Calls health care a right and supports expanding the ACA.", "source": "https://loritrahan.com/healthcare/"},
+   "liberty": {"score": 20, "evidence": "Supports abortion rights and co-chairs the Equality Caucus (LGBTQ rights), and lists gun reform as a priority.", "source": "https://en.wikipedia.org/wiki/Lori_Trahan"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Supports a path to citizenship and opposes building a wall.", "source": "https://loritrahan.com/immigration/"},
+   "foreign": null,
+   "energy": {"score": 90, "evidence": "Cosponsored the Green New Deal and holds a 97% League of Conservation Voters score.", "source": "https://en.wikipedia.org/wiki/Lori_Trahan"},
+   "tech": {"score": 85, "evidence": "Leads the FRONTIER AI safety act and introduced legislation against online suicide forums.", "source": "https://en.wikipedia.org/wiki/Lori_Trahan"},
+   "education": {"score": 80, "evidence": "Calls for more K-12 funding, teacher pay and bargaining rights, and full special-education funding.", "source": "https://loritrahan.com/education/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://loritrahan.com/wp-content/uploads/2018/09/unnamed.png",
+  "notes": "Education score newly added from her campaign education page, which does not mention vouchers."
+ },
+ {
+  "id": "MA-3/gary-grossi",
+  "name": "Gary Grossi",
+  "party": "Republican",
+  "current_role": "Retired U.S. Army colonel",
+  "bio": "Gary Grossi is a retired U.S. Army colonel with 29 years of service, including a deployment to Iraq, who also worked as a nurse in VA hospitals. He grew up in public housing in Cambridge, Massachusetts, and is the Republican nominee for Massachusetts's 3rd District.",
+  "website": "https://www.votegarygrossi.com",
+  "social": {},
+  "platform": [
+   {"topic": "Energy costs", "point": "Wants energy policies that lower heating and utility bills right away.", "source": "https://www.votegarygrossi.com/issues"},
+   {"topic": "Housing", "point": "Seeks to reduce regulations that raise housing costs and make homeownership attainable.", "source": "https://www.votegarygrossi.com/issues"},
+   {"topic": "Health care", "point": "Proposes cutting bureaucracy and malpractice costs in health care.", "source": "https://www.votegarygrossi.com/issues"},
+   {"topic": "Public safety", "point": "Supports police-community partnerships and community-based addiction and mental health treatment.", "source": "https://www.votegarygrossi.com/issues"},
+   {"topic": "Government", "point": "Pledges to cut waste and fraud and supports term limits with mandatory audits.", "source": "https://www.votegarygrossi.com/issues"},
+   {"topic": "Rights", "point": "Pledges to defend free speech and Second Amendment gun rights.", "source": "https://www.votegarygrossi.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 35, "evidence": "Calls for cutting government waste and housing regulations and backs Economic Opportunity Zones.", "source": "https://www.votegarygrossi.com/issues"},
+   "welfare": null,
+   "liberty": {"score": 25, "evidence": "Strong Second Amendment (guns) and anti-censorship (speech) stances.", "source": "https://www.votegarygrossi.com/issues"},
+   "security": {"score": 60, "evidence": "Backs law enforcement partnerships with communities to improve safety.", "source": "https://www.votegarygrossi.com/issues"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 35, "evidence": "Prioritizes energy solutions that lower bills immediately.", "source": "https://www.votegarygrossi.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://www.votegarygrossi.com/images/gary-grossi.jpg",
+  "notes": ""
+ },
+ {
+  "id": "MA-4/jake-auchincloss",
+  "name": "Jake Auchincloss",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MA-4",
+  "bio": "Jake Auchincloss has represented Massachusetts's 4th District since 2021 and serves on the Energy and Commerce Committee. A Marine Corps veteran, he commanded infantry in Afghanistan and served on the Newton City Council from 2015 to 2021.",
+  "website": "https://www.jakeforma.com",
+  "social": {
+   "x": "https://x.com/RepAuchincloss",
+   "instagram": "https://www.instagram.com/jakeauchincloss/",
+   "facebook": "https://www.facebook.com/RepAuchincloss",
+   "youtube": "https://www.youtube.com/RepAuchincloss"
+  },
+  "platform": [
+   {"topic": "Drug prices", "point": "Aims to lower prescription drug prices for seniors and middle-class families.", "source": "https://www.jakeforma.com/"},
+   {"topic": "Immigration enforcement", "point": "Wants reform of ICE practices and rapid-response support for affected communities.", "source": "https://www.jakeforma.com/"},
+   {"topic": "Housing", "point": "Promotes an abundance agenda to build more housing.", "source": "https://en.wikipedia.org/wiki/Jake_Auchincloss"},
+   {"topic": "Online safety", "point": "Authored legislation raising the internet age of adulthood to 16.", "source": "https://en.wikipedia.org/wiki/Jake_Auchincloss"},
+   {"topic": "War powers", "point": "Opposes military conflicts not authorized by Congress.", "source": "https://www.jakeforma.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 35, "evidence": "Advocates balanced budgets, free trade and supply-side abundance policies and opposed international reference drug pricing.", "source": "https://en.wikipedia.org/wiki/Jake_Auchincloss"},
+   "welfare": null,
+   "liberty": {"score": 20, "evidence": "Supports marijuana legalization (drugs) and LGBTQ equality.", "source": "https://en.wikipedia.org/wiki/Jake_Auchincloss"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Supported immigrant-friendly policies on the Newton council and calls for reform of ICE enforcement.", "source": "https://www.jakeforma.com/"},
+   "foreign": {"score": 75, "evidence": "Strongly supports Ukraine and Israel and opposes conditioning military aid to Israel.", "source": "https://en.wikipedia.org/wiki/Jake_Auchincloss"},
+   "energy": null,
+   "tech": {"score": 85, "evidence": "Wrote a bill raising the online adulthood age to 16 and cosponsored the TikTok divestiture bill.", "source": "https://en.wikipedia.org/wiki/Jake_Auchincloss"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

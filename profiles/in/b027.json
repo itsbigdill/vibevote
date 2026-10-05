@@ -1,0 +1,381 @@
+[
+ {
+  "id": "CO-1/melat-kiros",
+  "name": "Melat Kiros",
+  "party": "Democratic",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 95,
+    "welfare": 95,
+    "liberty": null,
+    "security": null,
+    "immigration": 5,
+    "foreign": 15,
+    "energy": 95,
+    "tech": 85,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports Medicare for All, rent control, higher taxes on ultra-wealthy, abolishing ICE, Green New Deal, data-center moratorium, Pentagon cuts, Israel arms embargo.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Melat_Kiros"
+   ],
+   "photo": {
+    "file": "File:Melat Kiros Portrait (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Andra Turner"
+   }
+  }
+ },
+ {
+  "id": "CO-1/christy-peterson",
+  "name": "Christy Peterson",
+  "party": "Republican",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found in reliable sources; all domains left unscored.",
+   "sources": [],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-1/critter-milton",
+  "name": "Critter Milton",
+  "party": "Unity",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-1/chad-humphrey",
+  "name": "Chad Humphrey",
+  "party": "Libertarian",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-1/shimon-blau",
+  "name": "Shimon Blau",
+  "party": "Independent",
+  "race": "CO-1",
+  "race_label": "Colorado · US House CO-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-2/joe-neguse",
+  "name": "Joe Neguse",
+  "party": "Democratic",
+  "race": "CO-2",
+  "race_label": "Colorado · US House CO-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "N000191",
+   "official_name": "Joe Neguse",
+   "chamber": "House",
+   "official_site": "https://neguse.house.gov",
+   "official_social": {
+    "twitter": "RepJoeNeguse",
+    "facebook": "RepJoeNeguse"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": 25,
+    "security": 30,
+    "immigration": 20,
+    "foreign": null,
+    "energy": 90,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposed 2017 tax cuts; backs Medicare for All, Equality Act, cannabis legalization, background checks, police reform, citizenship pathway, Green New Deal. Liberty driven by LGBTQ/cannabis.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Joe_Neguse"
+   ],
+   "photo": {
+    "file": "File:Joe Neguse, official portrait, 116th Congress.jpg",
+    "license": "Public domain",
+    "author": "Franmarie Metzler (U.S. House)"
+   }
+  }
+ },
+ {
+  "id": "CO-2/kelley-dennison",
+  "name": "Kelley Dennison",
+  "party": "Republican",
+  "race": "CO-2",
+  "race_label": "Colorado · US House CO-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found in reliable sources; all domains left unscored.",
+   "sources": [],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-2/gaylon-kent",
+  "name": "Gaylon Kent",
+  "party": "Libertarian",
+  "race": "CO-2",
+  "race_label": "Colorado · US House CO-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-3/jeff-hurd",
+  "name": "Jeff Hurd",
+  "party": "Republican",
+  "race": "CO-3",
+  "race_label": "Colorado · US House CO-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001100",
+   "official_name": "Jeff Hurd",
+   "chamber": "House",
+   "official_site": "https://hurd.house.gov",
+   "official_social": {
+    "twitter": "RepJeffHurd",
+    "facebook": "61571570223582",
+    "instagram": "repjeffhurd",
+    "youtube": "@RepJeffHurd03"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": 45,
+    "liberty": null,
+    "security": null,
+    "immigration": 65,
+    "foreign": null,
+    "energy": 30,
+    "tech": 30,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Targets regulations, voted to rescind Canada tariffs; defended Medicaid and child tax credit; prioritizes border security; all-of-the-above energy with oil and gas; backed FIT21 crypto bill.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jeff_Hurd",
+    "https://jeffhurdforcolorado.com/issues"
+   ],
+   "photo": {
+    "file": "File:RepJeffHurd.jpg",
+    "license": "Public domain",
+    "author": "Clerk of the U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CO-3/dwayne-romero",
+  "name": "Dwayne Romero",
+  "party": "Democratic",
+  "race": "CO-3",
+  "race_label": "Colorado · US House CO-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 60,
+    "liberty": 30,
+    "security": null,
+    "immigration": 40,
+    "foreign": null,
+    "energy": 45,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Wants tariff repeal, expanded family tax credits, Medicare drug negotiation, reproductive care access (drove liberty), border security plus citizenship path, all-of-the-above energy.",
+   "sources": [
+    "https://romeroforcolorado.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-3/cory-robertson",
+  "name": "Cory Robertson",
+  "party": "Libertarian",
+  "race": "CO-3",
+  "race_label": "Colorado · US House CO-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CO-3/clifton-brown",
+  "name": "Clifton Brown",
+  "party": "Independent",
+  "race": "CO-3",
+  "race_label": "Colorado · US House CO-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+   ],
+   "photo": null
+  }
+ }
+]

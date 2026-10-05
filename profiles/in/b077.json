@@ -1,0 +1,438 @@
+[
+ {
+  "id": "OH-5/brian-shaver",
+  "name": "Brian Shaver",
+  "party": "Democratic",
+  "race": "OH-5",
+  "race_label": "Ohio · US House OH-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 35,
+    "security": null,
+    "immigration": null,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": 15
+   },
+   "basis": "Wealthy pay same rate without loopholes, healthcare as a right, abortion and gender-care access plus gun safeguards, opposes foreign-aid cuts, public schools, church-state separation.",
+   "sources": [
+    "https://ballotpedia.org/Brian_Shaver",
+    "https://www.brianshaverforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-5/michael-veloff",
+  "name": "Michael Veloff",
+  "party": "Libertarian",
+  "race": "OH-5",
+  "race_label": "Ohio · US House OH-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Ohio%27s_5th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-6/michael-rulli",
+  "name": "Michael Rulli",
+  "party": "Republican",
+  "race": "OH-6",
+  "race_label": "Ohio · US House OH-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "R000619",
+   "official_name": "Michael A. Rulli",
+   "chamber": "House",
+   "official_site": "https://rulli.house.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 25,
+    "liberty": 70,
+    "security": null,
+    "immigration": 85,
+    "foreign": 25,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "DOGE Caucus and 2025 reconciliation vote; heartbeat-bill cosponsor but backed Ohio Fairness Act; ending illegal immigration; opposes endless wars; oil, gas, coal.",
+   "sources": [
+    "https://rulli.house.gov/issues/america-first/",
+    "https://rulli.house.gov/issues/energy/",
+    "https://en.wikipedia.org/wiki/Michael_Rulli"
+   ],
+   "photo": {
+    "file": "File:Michael Rulli 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "OH-6/elizabeth-kirtley",
+  "name": "Elizabeth Kirtley",
+  "party": "Democratic",
+  "race": "OH-6",
+  "race_label": "Ohio · US House OH-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 90,
+    "liberty": 15,
+    "security": 25,
+    "immigration": 5,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign calls to abolish ICE, codify Roe, enact universal healthcare, and protect due process and protest rights.",
+   "sources": [
+    "https://www.elizabethforus.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-7/max-miller",
+  "name": "Max Miller",
+  "party": "Republican",
+  "race": "OH-7",
+  "race_label": "Ohio · US House OH-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001222",
+   "official_name": "Max L. Miller",
+   "chamber": "House",
+   "official_site": "https://maxmiller.house.gov",
+   "official_social": {
+    "twitter": "repmaxmiller",
+    "facebook": "CongressmanMaxMiller",
+    "instagram": "repmaxmiller",
+    "youtube": "@RepMaxMiller"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": null,
+    "security": 70,
+    "immigration": 80,
+    "foreign": 65,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Permanent tax cuts, no tax on tips or overtime, more police funding, border security, self-described defender of Israel, Trump energy-independence policies.",
+   "sources": [
+    "https://www.votemaxmiller.com/priorities",
+    "https://en.wikipedia.org/wiki/Max_Miller_(politician)"
+   ],
+   "photo": {
+    "file": "File:Max Miller, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe"
+   }
+  }
+ },
+ {
+  "id": "OH-7/brian-poindexter",
+  "name": "Brian Poindexter",
+  "party": "Democratic",
+  "race": "OH-7",
+  "race_label": "Ohio · US House OH-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 70,
+    "liberty": 60,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Union ironworker backing organizing rights, taxes off working families, penalizing offshoring, portable healthcare; Moms Demand Action gun-sense candidate.",
+   "sources": [
+    "https://poindexterforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-8/warren-davidson",
+  "name": "Warren Davidson",
+  "party": "Republican",
+  "race": "OH-8",
+  "race_label": "Ohio · US House OH-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000626",
+   "official_name": "Warren Davidson",
+   "chamber": "House",
+   "official_site": "https://davidson.house.gov",
+   "official_social": {
+    "facebook": "CongressmanWarrenDavidson",
+    "twitter": "WarrenDavidson",
+    "instagram": "instawarrendavidson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 80,
+    "security": 10,
+    "immigration": 85,
+    "foreign": 25,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Opposes income tax, block-grant Medicaid, anti-abortion, opposes gun control, FISA warrant reforms, ending mass migration, opposed Ukraine aid, religious-exercise defense.",
+   "sources": [
+    "https://www.davidsonforcongress.com/issues/",
+    "https://en.wikipedia.org/wiki/Warren_Davidson"
+   ],
+   "photo": {
+    "file": "File:Warren Davidson 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "OH-8/vanessa-enoch",
+  "name": "Vanessa Enoch",
+  "party": "Democratic",
+  "race": "OH-8",
+  "race_label": "Ohio · US House OH-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 75,
+    "liberty": 35,
+    "security": 25,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Reproductive freedom and sensible gun laws, public Medicare option, ending mass incarceration, renewable energy, equitable public school funding.",
+   "sources": [
+    "https://ballotpedia.org/Vanessa_Enoch",
+    "https://enochforcongress.com/issue/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "OH-9/marcy-kaptur",
+  "name": "Marcy Kaptur",
+  "party": "Democratic",
+  "race": "OH-9",
+  "race_label": "Ohio · US House OH-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000009",
+   "official_name": "Marcy Kaptur",
+   "chamber": "House",
+   "official_site": "https://kaptur.house.gov",
+   "official_social": {
+    "twitter": "RepMarcyKaptur",
+    "facebook": "RepresentativeMarcyKaptur",
+    "youtube": "USRepMarcyKaptur",
+    "instagram": "repmarcykaptur"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 70,
+    "liberty": 45,
+    "security": null,
+    "immigration": 45,
+    "foreign": 85,
+    "energy": 60,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Protective tariffs, protect Social Security and Medicare; mixed abortion record and anti-trans school vote; border agents plus reform; Ukraine Caucus co-chair; all-of-the-above energy.",
+   "sources": [
+    "https://marcykaptur.com/priorities/",
+    "https://en.wikipedia.org/wiki/Marcy_Kaptur"
+   ],
+   "photo": {
+    "file": "File:Marcy Kaptur portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "OH-9/derek-merrin",
+  "name": "Derek Merrin",
+  "party": "Republican",
+  "race": "OH-9",
+  "race_label": "Ohio · US House OH-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 80,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "As Ohio legislator led income-tax cuts and deregulation, constitutional carry and voter ID, and expanded school choice.",
+   "sources": [
+    "https://www.derekmerrin.com/",
+    "https://en.wikipedia.org/wiki/Derek_Merrin"
+   ],
+   "photo": {
+    "file": "File:Derek Merrin jpeg (cropped).jpg",
+    "license": "CC BY 4.0",
+    "author": "SchOg"
+   }
+  }
+ },
+ {
+  "id": "OH-10/mike-turner",
+  "name": "Mike Turner",
+  "party": "Republican",
+  "race": "OH-10",
+  "race_label": "Ohio · US House OH-10",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000463",
+   "official_name": "Michael R. Turner",
+   "chamber": "House",
+   "official_site": "https://turner.house.gov",
+   "official_social": {
+    "twitter": "RepMikeTurner",
+    "facebook": "RepMikeTurner",
+    "youtube": "CongressmanTurner",
+    "instagram": "repmiketurner"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 30,
+    "liberty": 55,
+    "security": 80,
+    "immigration": null,
+    "foreign": 95,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Deficit reduction; repeated ACA repeal votes; backed assault-weapon limits after Dayton shooting; former Intelligence chair; NATO assembly president, Ukraine backer; all-of-the-above energy.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mike_Turner",
+    "https://turner.house.gov/issues"
+   ],
+   "photo": {
+    "file": "File:Mike Turner 118th Congress.jpeg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "OH-10/kristina-knickerbocker",
+  "name": "Kristina Knickerbocker",
+  "party": "Democratic",
+  "race": "OH-10",
+  "race_label": "Ohio · US House OH-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 55,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Billionaires pay fair share, repeal tariffs, cap childcare; universal coverage and public option; reproductive care; fund police; AI and tech regulation priority.",
+   "sources": [
+    "https://kristinaknickerbocker.com/my-priorities/",
+    "https://ballotpedia.org/Kristina_Knickerbocker"
+   ],
+   "photo": null
+  }
+ }
+]

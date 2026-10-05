@@ -1,0 +1,485 @@
+[
+ {
+  "id": "TX-28/marlon-duran",
+  "name": "Marlon Duran",
+  "party": "Green",
+  "race": "TX-28",
+  "race_label": "Texas · US House TX-28",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TX-28/marlon-duran",
+   "name": "Marlon Duran",
+   "party": "Green",
+   "current_role": "Community organizer and translator",
+   "bio": "Marlon Duran is a community organizer from McAllen, Texas, who works as an English-Spanish translator. He says he grew up undocumented in South Texas. He is the Green Party of Texas nominee for the 28th Congressional District.",
+   "website": "https://marlonduran.com/",
+   "social": {
+    "x": "https://x.com/Marlon4TX",
+    "instagram": "https://www.instagram.com/marlon4tx",
+    "facebook": "https://www.facebook.com/marlon4tx",
+    "tiktok": "https://www.tiktok.com/@marlon4tx"
+   },
+   "platform": [
+    {
+     "topic": "Immigration",
+     "point": "Opposes ICE, DHS and CBP enforcement operations, which he says separate families in South Texas communities.",
+     "source": "https://marlonduran.com/"
+    },
+    {
+     "topic": "Campaign finance",
+     "point": "Runs without corporate PAC money and campaigns against the influence of corporate donors and AIPAC.",
+     "source": "https://www.txgreens.org/2026_nominated_candidates"
+    },
+    {
+     "topic": "Foreign policy",
+     "point": "Backs Palestinian rights and calls for a change in U.S. policy toward Israel and Gaza.",
+     "source": "https://marlonduran.com/"
+    },
+    {
+     "topic": "Indigenous rights",
+     "point": "Calls for justice for Indigenous peoples.",
+     "source": "https://marlonduran.com/"
+    },
+    {
+     "topic": "Representation",
+     "point": "Aims to give South Texas working people a voice outside the two major parties.",
+     "source": "https://www.txgreens.org/2026_nominated_candidates"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 5,
+     "evidence": "His campaign site opposes ICE, DHS and CBP operations as harmful to immigrant families.",
+     "source": "https://marlonduran.com/"
+    },
+    "foreign": {
+     "score": 25,
+     "evidence": "Campaigns under a Free Palestine and anti-AIPAC message, opposing current U.S. support for Israel.",
+     "source": "https://marlonduran.com/"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://marlonduran.com/wp-content/uploads/2026/03/marlon-campaign-portrait.jpg",
+   "notes": "Little public detail on his economic or social policy views was found; Ballotpedia and Vote-USA list no survey answers."
+  }
+ },
+ {
+  "id": "TX-31/greg-stoker",
+  "name": "Greg Stoker",
+  "party": "Green",
+  "race": "TX-31",
+  "race_label": "Texas · US House TX-31",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TX-31/greg-stoker",
+   "name": "Greg Stoker",
+   "party": "Green",
+   "current_role": "Anti-war activist and podcaster",
+   "bio": "Greg Stoker is a former U.S. Army Ranger with four combat deployments to Afghanistan who now works as an anti-war activist, writer and co-host of the Colonial Outcasts podcast. He was detained by Israeli forces in 2025 while travelling with the Global Sumud Flotilla to Gaza. He is the Green Party nominee for Texas's 31st District.",
+   "website": "https://www.stokerfortexas.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Campaign finance",
+     "point": "Refuses PAC donations, including from military contractors, and opposes AIPAC and special-interest influence.",
+     "source": "https://www.stokerfortexas.com/"
+    },
+    {
+     "topic": "Foreign policy",
+     "point": "Opposes U.S. wars and military-contractor lobbying, drawing on his combat experience.",
+     "source": "https://www.gp.org/veteran_anti_war_activist_greg_stoker_running_for_congress_in_texas"
+    },
+    {
+     "topic": "Data centers",
+     "point": "Opposes data-center expansion that he says takes Texas land and water for corporate benefit.",
+     "source": "https://www.sacurrent.com/news/texas-news/pro-palestinian-activist-veteran-greg-stoker-running-against-shamwow-guy-for-congress-in-austin/"
+    },
+    {
+     "topic": "Affordability",
+     "point": "Redirect public resources toward affordability for working Texans and hold officials accountable.",
+     "source": "https://www.txgreens.org/2026_nominated_candidates"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": {
+     "score": 15,
+     "evidence": "Runs an anti-war campaign against military interventions, military-contractor influence and AIPAC.",
+     "source": "https://www.gp.org/veteran_anti_war_activist_greg_stoker_running_for_congress_in_texas"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://assets.nationbuilder.com/themes/69d46ee99be3286671f3d5a8/attachments/original/1776834373/Group_306.png?1776834373",
+   "notes": "The flotilla detention is dated October 2025 based on coverage; one source said 2024. The campaign image URL may be a graphic rather than a plain headshot."
+  }
+ },
+ {
+  "id": "TX-34/chris-royal",
+  "name": "Chris Royal",
+  "party": "Libertarian",
+  "race": "TX-34",
+  "race_label": "Texas · US House TX-34",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TX-34/chris-royal",
+   "name": "Chris Royal",
+   "party": "Libertarian",
+   "current_role": "Retired teacher and attorney",
+   "bio": "Chris Royal is a Harlingen resident who moved to the Rio Grande Valley in 1993 and has worked in law, the title business and teaching. He earned a law degree from the Kansas City School of Law in 1990. He ran for this seat in 2022 and is the Libertarian nominee in 2026.",
+   "website": "https://chriscongress.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Constitution",
+     "point": "Hold the federal government to the Constitution and Bill of Rights as originally intended.",
+     "source": "https://chriscongress.com/"
+    },
+    {
+     "topic": "Balanced budget",
+     "point": "Require the federal government to balance its budget, as Texas does.",
+     "source": "https://chriscongress.com/"
+    },
+    {
+     "topic": "Federal debt",
+     "point": "Rein in federal overspending and the growing national debt.",
+     "source": "https://chriscongress.com/"
+    },
+    {
+     "topic": "Limited government",
+     "point": "Limit Washington to a few core duties such as defense, postal service and interstate commerce.",
+     "source": "https://chriscongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 10,
+     "evidence": "Campaign calls for a balanced budget and a federal government confined to a few constitutional functions.",
+     "source": "https://chriscongress.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "His campaign site does not state the election year, and biographical details come from search-result summaries of Ballotpedia, which could not be opened directly."
+  }
+ },
+ {
+  "id": "TX-7/espoir-ngabo",
+  "name": "Espoir Ngabo",
+  "party": "Green",
+  "race": "TX-7",
+  "race_label": "Texas · US House TX-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "TX-7/espoir-ngabo",
+   "name": "Espoir Ngabo",
+   "party": "Green",
+   "current_role": "",
+   "bio": "Espoir Ngabo is the Green Party nominee for Texas's 7th Congressional District in the Houston area.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website, biography or issue statements were found."
+  }
+ },
+ {
+  "id": "UT-2/daniel-cottam",
+  "name": "Daniel Cottam",
+  "party": "Libertarian",
+  "race": "UT-2",
+  "race_label": "Utah · US House UT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "UT-2/daniel-cottam",
+   "name": "Daniel Cottam",
+   "party": "Libertarian",
+   "current_role": "Bariatric surgeon",
+   "bio": "Daniel Cottam is a bariatric surgeon, business owner and medical device consultant who studied at Brigham Young University and earned his medical degree from the University of Texas. He ran for the Utah House in 2022 and for Congress in Utah's 1st District in 2024, and he has also run for governor. He has previously been registered as both a Republican and a Democrat.",
+   "website": "",
+   "social": {
+    "facebook": "https://www.facebook.com/CottamForCongress"
+   },
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or published 2026 issue positions were found."
+  }
+ },
+ {
+  "id": "UT-2/robert-moesinger",
+  "name": "Robert Moesinger",
+  "party": "Independent",
+  "race": "UT-2",
+  "race_label": "Utah · US House UT-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "UT-2/robert-moesinger",
+   "name": "Robert Moesinger",
+   "party": "Independent",
+   "current_role": "Automation engineer",
+   "bio": "Robert Moesinger is an automation engineer running as an independent in Utah's 2nd Congressional District. His campaign centers on electoral reform to reduce partisan gridlock.",
+   "website": "https://www.improveourelections.org/",
+   "social": {
+    "instagram": "https://www.instagram.com/improve.our.elections",
+    "facebook": "https://www.facebook.com/share/DWDnWS3oy/",
+    "youtube": "https://www.youtube.com/@ImproveOurElections"
+   },
+   "platform": [
+    {
+     "topic": "Multi-party democracy",
+     "point": "Move beyond the two-party system so more viewpoints are represented.",
+     "source": "https://www.improveourelections.org/"
+    },
+    {
+     "topic": "Partisanship",
+     "point": "Adopt institutional reforms that reduce partisan gridlock.",
+     "source": "https://www.improveourelections.org/"
+    },
+    {
+     "topic": "Election reform",
+     "point": "Change election rules so that more than two parties can be viable.",
+     "source": "https://www.improveourelections.org/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "The campaign site covers only electoral reform; his occupation comes from Politics1."
+  }
+ },
+ {
+  "id": "UT-3/cassie-easley",
+  "name": "Cassie Easley",
+  "party": "Constitution",
+  "race": "UT-3",
+  "race_label": "Utah · US House UT-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "UT-3/cassie-easley",
+   "name": "Cassie Easley",
+   "party": "Constitution",
+   "current_role": "",
+   "bio": "Cassie Easley is the Constitution Party nominee for Utah's 3rd Congressional District in 2026.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or public issue statements were found; only the state candidate filing is available."
+  }
+ },
+ {
+  "id": "UT-3/adonis-hooslyn",
+  "name": "Adonis Hooslyn",
+  "party": "Unaffiliated",
+  "race": "UT-3",
+  "race_label": "Utah · US House UT-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "UT-3/adonis-hooslyn",
+   "name": "Adonis Hooslyn",
+   "party": "Unaffiliated",
+   "current_role": "",
+   "bio": "Adonis Hooslyn is an unaffiliated candidate for Utah's 3rd Congressional District in 2026.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "The state filing lists him as unaffiliated; no campaign website or public issue statements were found."
+  }
+ }
+]

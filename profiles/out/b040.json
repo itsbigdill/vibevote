@@ -1,0 +1,724 @@
+[
+ {
+  "id": "HI-2/jill-tokuda",
+  "name": "Jill Tokuda",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for HI-2",
+  "bio": "Jill Tokuda has represented Hawaii's 2nd congressional district in the U.S. House since 2023. She previously served in the Hawaii State Senate from 2006 to 2018. She grew up in Kaneohe on Oahu and studied international relations at George Washington University.",
+  "website": "https://tokudaforhawaii.com",
+  "social": {
+   "x": "https://x.com/RepJillTokuda",
+   "instagram": "https://www.instagram.com/repjilltokuda",
+   "facebook": "https://www.facebook.com/RepJillTokuda",
+   "youtube": "https://www.youtube.com/channel/UCBXwZrEZWQiSXebInVuYuvw"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Lists addressing Hawaii's affordability crisis as a top campaign priority.",
+    "source": "https://tokudaforhawaii.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Aims to expand access to healthcare and mental health services across the district.",
+    "source": "https://tokudaforhawaii.com/"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Introduced the Grow Your Own Food Act to boost local food production and food security in Hawaii.",
+    "source": "https://en.wikipedia.org/wiki/Jill_Tokuda"
+   },
+   {
+    "topic": "Military oversight",
+    "point": "Presses the military on the Red Hill fuel facility cleanup and use of the Pohakuloa Training Area.",
+    "source": "https://tokuda.house.gov/"
+   },
+   {
+    "topic": "Rural health",
+    "point": "Co-chairs the Bipartisan Rural Health Caucus.",
+    "source": "https://tokuda.house.gov/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports abortion rights and testified for protections for doctors providing abortions to out-of-state patients.",
+    "source": "https://en.wikipedia.org/wiki/Jill_Tokuda"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 35,
+    "evidence": "Voted in 2023 for H.Con.Res. 21 directing withdrawal of U.S. troops from Syria.",
+    "source": "https://en.wikipedia.org/wiki/Jill_Tokuda"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://www.tokudaforhawaii.com/wp-content/uploads/jill-tokuda-hero.png",
+  "notes": "Official House issues page returned an error, so platform relies on the campaign homepage, House homepage and Wikipedia."
+ },
+ {
+  "id": "HI-2/brenton-awa",
+  "name": "Brenton Awa",
+  "party": "Republican",
+  "current_role": "Hawaii State Senator and Senate Minority Leader",
+  "bio": "Brenton Awa has represented District 23 in the Hawaii State Senate since 2022 and became Senate Minority Leader in 2024. Before office he was a KITV television news anchor and later a substitute teacher. He was born in Kaaawa and raised in Kahaluu on Oahu.",
+  "website": "https://www.votebrentonawa.com",
+  "social": {
+   "x": "https://x.com/brentonawa",
+   "instagram": "https://www.instagram.com/brentonawa",
+   "facebook": "https://www.facebook.com/brentonawa",
+   "tiktok": "https://www.tiktok.com/@brentonawa",
+   "youtube": "https://www.youtube.com/user/awabrenton"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Restrict corporate buying of single-family homes and give local owner-occupants a priority window to buy.",
+    "source": "https://www.votebrentonawa.com/"
+   },
+   {
+    "topic": "Federal land",
+    "point": "Open federally controlled land in Hawaii for workforce housing.",
+    "source": "https://www.votebrentonawa.com/"
+   },
+   {
+    "topic": "Homeownership",
+    "point": "Offer down payment assistance to first-time buyers and adjust the tax code to cut costs for owner-occupants.",
+    "source": "https://www.votebrentonawa.com/"
+   },
+   {
+    "topic": "Hawaiian Home Lands",
+    "point": "Lower blood quantum requirements for Hawaiian Homes programs.",
+    "source": "https://www.votebrentonawa.com/"
+   },
+   {
+    "topic": "Land ownership",
+    "point": "Restrict land purchases by non-citizens to ease the housing crisis.",
+    "source": "https://en.wikipedia.org/wiki/Brenton_Awa"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Pledges to refuse corporate donations and gifts.",
+    "source": "https://www.votebrentonawa.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Proposes limits on corporate home purchases, down payment assistance and tax changes favoring owner-occupants.",
+    "source": "https://www.votebrentonawa.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Senator Awa Visits Marine Corps Base Hawaii (8) (cropped).jpg",
+   "license": "Public domain",
+   "author": "Sgt. Julian Elliott-Drouin, U.S. Marine Corps"
+  },
+  "campaign_photo": "https://static.wixstatic.com/media/f27991_2e83689b337342598df6b9a57939cb39~mv2.png",
+  "notes": ""
+ },
+ {
+  "id": "ID-1/russ-fulcher",
+  "name": "Russ Fulcher",
+  "party": "Republican",
+  "current_role": "U.S. Representative for ID-1",
+  "bio": "Russ Fulcher has represented Idaho's 1st congressional district since 2019 and belongs to the House Freedom Caucus. He served in the Idaho Senate from 2005 to 2014, including as Majority Caucus Leader. A Boise native raised on a Meridian dairy farm, he worked at Micron Technology and in commercial real estate.",
+  "website": "https://www.russfulcher.com",
+  "social": {
+   "x": "https://twitter.com/russfulcher",
+   "instagram": "https://www.instagram.com/russfulcher/",
+   "facebook": "https://www.facebook.com/fulcherforidaho/",
+   "youtube": "https://www.youtube.com/channel/UCnLLpKTTkFpmWg5lzk-NOjA"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Treats securing the southern border as a core duty of Congress.",
+    "source": "https://fulcher.house.gov/legislation/key-issues-2/border-security-and-immigration/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Pledges to protect Second Amendment rights.",
+    "source": "https://www.russfulcher.com/"
+   },
+   {
+    "topic": "Dams and natural resources",
+    "point": "Opposes removing Snake River dams and wants less federal control over Idaho's land and resources.",
+    "source": "https://fulcher.house.gov/legislation/key-issues-2/natural-resources/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Describes himself as consistently pro-life and campaigns to end abortion.",
+    "source": "https://fulcher.house.gov/legislation/key-issues-2/abortion/"
+   },
+   {
+    "topic": "Federal spending",
+    "point": "Calls the national debt unsustainable and pushes for fiscal restraint.",
+    "source": "https://fulcher.house.gov/legislation/key-issues-2/economy-debt-and-deficits/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Led an effort to end federal income tax on overtime pay.",
+    "source": "https://en.wikipedia.org/wiki/Russ_Fulcher"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Pushed to eliminate income tax on overtime and voted against the 2023 debt deal seeking deeper spending cuts.",
+    "source": "https://en.wikipedia.org/wiki/Russ_Fulcher"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 55,
+    "evidence": "Seeks to end abortion while strongly backing gun rights, averaging to a mid-range score.",
+    "source": "https://www.russfulcher.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Makes securing the border a top campaign and legislative priority.",
+    "source": "https://fulcher.house.gov/legislation/key-issues-2/border-security-and-immigration/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 30,
+    "evidence": "Campaigns to keep Snake River dams and expand local resource management over federal control.",
+    "source": "https://www.russfulcher.com/"
+   },
+   "tech": {
+    "score": 55,
+    "evidence": "Was one of 39 Republicans voting for the 2022 Merger Filing Fee Modernization Act and backs data privacy legislation.",
+    "source": "https://en.wikipedia.org/wiki/Russ_Fulcher"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "ID-1/kaylee-peterson",
+  "name": "Kaylee Peterson",
+  "party": "Democratic",
+  "current_role": "Artisan jeweler",
+  "bio": "Kaylee Peterson is an artisan jeweler from Idaho. She was the Democratic nominee for Idaho's 1st congressional district in 2022 and 2024. She describes her campaign as labor-first and union-first.",
+  "website": "https://kayleeforcongress.com",
+  "social": {
+   "x": "https://twitter.com/kaylee4congress"
+  },
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Replace private insurance with a universal single-payer health system.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Cut taxes for middle-class families and local businesses while raising corporate rates and ending corporate subsidies.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   {
+    "topic": "Labor",
+    "point": "Repeal right-to-work laws, protect collective bargaining and raise the minimum wage.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   {
+    "topic": "Government accountability",
+    "point": "Ban congressional stock trading, set term limits and overturn Citizens United.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pass the Farm Workforce Modernization Act, add immigration judges and close for-profit detention centers.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   {
+    "topic": "Education",
+    "point": "Fully fund public education from pre-K through college and end public funding of private schools.",
+    "source": "https://kayleeforcongress.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Proposes higher corporate taxes, ending corporate subsidies, a higher minimum wage and breaking up monopolies.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports a universal single-payer health system replacing private insurance.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   "liberty": {
+    "score": 10,
+    "evidence": "Opposes abortion restrictions and says government should not police personal and social choices.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   "security": {
+    "score": 25,
+    "evidence": "Opposes warrantless immigration arrests and calls digital privacy a constitutional right.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   "immigration": {
+    "score": 15,
+    "evidence": "Opposes warrantless immigration arrests and private detention, and supports legal pathways for farmworkers.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 80,
+    "evidence": "Wants to end fossil fuel subsidies and expand renewable energy under strict public oversight.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Calls digital privacy a constitutional right and opposes tech monopolies' broad access to personal data.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   "education": {
+    "score": 95,
+    "evidence": "Calls for full federal public education funding and removing funding for private schools.",
+    "source": "https://kayleeforcongress.com/platform"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Earlier faith score of 20 was removed because the platform page states no position on religion in public life."
+ },
+ {
+  "id": "ID-1/sarah-zabel",
+  "name": "Sarah Zabel",
+  "party": "Independent",
+  "current_role": "Author and retired U.S. Air Force major general",
+  "bio": "Sarah Zabel is a retired U.S. Air Force major general who served for 31 years and is now an author. She lives in northern Idaho and is running as an independent for Idaho's 1st congressional district.",
+  "website": "https://zabelforcongress.com",
+  "social": {
+   "x": "https://x.com/zabelforcongress",
+   "instagram": "https://www.instagram.com/zabelforcongress",
+   "facebook": "https://www.facebook.com/zabelforcongress",
+   "youtube": "https://www.youtube.com/@zabelforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Favors free markets and breaking up monopolies so small businesses can compete on merit.",
+    "source": "https://zabelforcongress.com/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Shore up Social Security with added revenue and lower payouts for the highest earners.",
+    "source": "https://zabelforcongress.com/"
+   },
+   {
+    "topic": "National debt",
+    "point": "Combine revenue increases, spending cuts and economic growth to reduce the debt.",
+    "source": "https://zabelforcongress.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "End broad tariffs to lower building costs and grow the construction workforce.",
+    "source": "https://zabelforcongress.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Match legal immigration pathways to economic needs and deal fairly with people already here.",
+    "source": "https://zabelforcongress.com/"
+   },
+   {
+    "topic": "War powers",
+    "point": "Restore Congress's role in decisions on detention, use of force and military commitments.",
+    "source": "https://zabelforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 45,
+    "evidence": "Backs free markets but supports antimonopoly regulation and a mix of revenue increases and spending cuts.",
+    "source": "https://zabelforcongress.com/"
+   },
+   "welfare": {
+    "score": 35,
+    "evidence": "Proposes reducing Social Security payouts for the highest earners as part of a solvency fix.",
+    "source": "https://zabelforcongress.com/"
+   },
+   "liberty": null,
+   "security": {
+    "score": 30,
+    "evidence": "Calls for congressional oversight of executive detention and use-of-force powers.",
+    "source": "https://zabelforcongress.com/"
+   },
+   "immigration": {
+    "score": 35,
+    "evidence": "Supports legal pathways matched to economic need and fair treatment of people already here.",
+    "source": "https://zabelforcongress.com/"
+   },
+   "foreign": {
+    "score": 55,
+    "evidence": "Supports alliances with shared defense burdens and international market access.",
+    "source": "https://zabelforcongress.com/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Lists addressing AI and disinformation threats to institutions as a priority.",
+    "source": "https://zabelforcongress.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "File:Maj. Gen. Sarah Zabel discusses the Air Force Journey to Agile Software Acquisition (cropped).jpg",
+   "license": "Public domain",
+   "author": "Todd Maki, U.S. Air Force"
+  },
+  "campaign_photo": "",
+  "notes": "Social handles are listed on the campaign site as @zabelforcongress; exact profile URLs were not individually verified."
+ },
+ {
+  "id": "ID-1/brendan-gomez",
+  "name": "Brendan Gomez",
+  "party": "Constitution",
+  "current_role": "",
+  "bio": "Brendan Gomez is the Constitution Party nominee for Idaho's 1st congressional district. He was also the party's nominee for the seat in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public policy statements were found; Ballotpedia could not be retrieved."
+ },
+ {
+  "id": "ID-2/mike-simpson",
+  "name": "Mike Simpson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for ID-2",
+  "bio": "Mike Simpson has represented Idaho's 2nd congressional district since 1999. He served in the Idaho House of Representatives from 1984 to 1998, including six years as Speaker, after a term on the Blackfoot City Council. Born in Burley and raised in Blackfoot, he practiced dentistry before entering Congress.",
+  "website": "https://simpsonforcongress.com",
+  "social": {
+   "x": "https://twitter.com/mikesimpson4id",
+   "facebook": "https://www.facebook.com/Mike-Simpson-For-US-Congress-114477275237474/",
+   "youtube": "https://www.youtube.com/channel/UCxkYHwrSWGrgEK4gWe-nslA"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Calls stopping illegal immigration the top national issue and supports building the border wall.",
+    "source": "https://simpsonforcongress.com/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Campaigns on protecting Second Amendment rights and cites NRA endorsement.",
+    "source": "https://simpsonforcongress.com/"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Opposes abortion and federal funding for it, with National Right to Life endorsement.",
+    "source": "https://simpsonforcongress.com/"
+   },
+   {
+    "topic": "Farm labor",
+    "point": "Backed the Farm Workforce Modernization Act and more H-2B visas for seasonal workers.",
+    "source": "https://en.wikipedia.org/wiki/Mike_Simpson"
+   },
+   {
+    "topic": "Conservation",
+    "point": "Links climate change to Idaho salmon recovery and championed Sawtooth-area wilderness legislation.",
+    "source": "https://en.wikipedia.org/wiki/Mike_Simpson"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Voted for the 2017 Tax Cuts and Jobs Act.",
+    "source": "https://en.wikipedia.org/wiki/Mike_Simpson"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Supports repealing the Affordable Care Act and voted for the 2017 American Health Care Act.",
+    "source": "https://en.wikipedia.org/wiki/Mike_Simpson"
+   },
+   "liberty": {
+    "score": 50,
+    "evidence": "Opposes abortion and backs gun rights, but voted for the Respect for Marriage Act on LGBTQ rights.",
+    "source": "https://en.wikipedia.org/wiki/Mike_Simpson"
+   },
+   "security": null,
+   "immigration": {
+    "score": 55,
+    "evidence": "Backs the border wall while supporting legal status for farmworkers and more H-2B visas.",
+    "source": "https://en.wikipedia.org/wiki/Mike_Simpson"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Voted in 2022 for roughly $14 billion in aid to Ukraine.",
+    "source": "https://en.wikipedia.org/wiki/Mike_Simpson"
+   },
+   "energy": {
+    "score": 55,
+    "evidence": "Has said climate change is real and tied it to salmon survival in Idaho.",
+    "source": "https://en.wikipedia.org/wiki/Mike_Simpson"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://simpsonforcongress.com/wp-content/uploads/2021/03/Home-Page.jpg",
+  "notes": "Earlier tech score of 60 (antitrust) was cleared because no supporting vote could be confirmed in the sources reviewed."
+ },
+ {
+  "id": "ID-2/elinor-gilbreath",
+  "name": "Elinor Gilbreath",
+  "party": "Democratic",
+  "current_role": "Lawyer",
+  "bio": "Elinor Gilbreath is a lawyer and the Democratic nominee for Idaho's 2nd congressional district.",
+  "website": "https://ellieforidaho.com",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Campaign site and Ballotpedia blocked automated access, so no policy positions could be reviewed."
+ },
+ {
+  "id": "ID-2/will-johanson",
+  "name": "Will Johanson",
+  "party": "Libertarian",
+  "current_role": "Semiconductor engineer",
+  "bio": "Will Johanson is an engineer in Idaho's semiconductor industry and a U.S. Navy veteran who served as a nuclear machinist's mate aboard the USS Georgia until 2020. He holds bachelor's and master's degrees in materials science and engineering from Boise State University. He was raised in California's Central Valley and is based in Boise.",
+  "website": "https://johansonforidaho.com",
+  "social": {
+   "x": "https://x.com/Johanson4Idaho"
+  },
+  "platform": [
+   {
+    "topic": "Limited government",
+    "point": "Argues government overreach and red tape hurt working families and slow innovation.",
+    "source": "https://johansonforidaho.com/about"
+   },
+   {
+    "topic": "Fiscal policy",
+    "point": "Prioritizes fiscal responsibility and reducing the national debt.",
+    "source": "https://johansonforidaho.com/"
+   },
+   {
+    "topic": "Defense",
+    "point": "Supports a strong national defense.",
+    "source": "https://johansonforidaho.com/about"
+   },
+   {
+    "topic": "Energy costs",
+    "point": "Highlights energy and gas prices as a campaign focus.",
+    "source": "https://johansonforidaho.com/"
+   },
+   {
+    "topic": "Individual liberty",
+    "point": "Pledges to defend constitutional rights and individual liberties.",
+    "source": "https://johansonforidaho.com/about"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Campaigns on limited government, fiscal responsibility and cutting bureaucratic red tape.",
+    "source": "https://johansonforidaho.com/about"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/69f80aa09037aa4bff48c160/95b1511a-158a-411c-a0c1-69625f9fe67c/213177368_10161184777479899_3607741733808054659_n.jpg",
+  "notes": "Campaign site lists broad themes without detailed policy proposals."
+ },
+ {
+  "id": "ID-2/carta-sierra",
+  "name": "Carta Sierra",
+  "party": "Constitution",
+  "current_role": "",
+  "bio": "Carta Sierra is the Constitution Party nominee for Idaho's 2nd congressional district. Sierra was also the party's nominee for the seat in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or public policy statements were found; Ballotpedia could not be retrieved."
+ },
+ {
+  "id": "ID-2/emre-houser",
+  "name": "Emre Houser",
+  "party": "Independent",
+  "current_role": "Small-business owner and Idaho National Guard member",
+  "bio": "Emre Houser is an Idaho small-business owner of more than 15 years with over 27 years of military service. He served in the Air Force from 1995 to 1999, including at Mountain Home Air Force Base, and has served in the Idaho National Guard since 1999, deploying to Iraq in 2003. He has lived in Idaho for nearly 30 years.",
+  "website": "https://houserforidaho.com",
+  "social": {
+   "instagram": "https://www.instagram.com/houserforidaho",
+   "facebook": "https://www.facebook.com/houserforidaho"
+  },
+  "platform": [
+   {
+    "topic": "Constitution",
+    "point": "Pledges to defend constitutional principles and answer only to Idaho voters.",
+    "source": "https://houserforidaho.com/"
+   },
+   {
+    "topic": "Public lands",
+    "point": "Aims to protect Idaho's public lands.",
+    "source": "https://houserforidaho.com/"
+   },
+   {
+    "topic": "Money in politics",
+    "point": "Campaigns against the influence of billionaires in politics.",
+    "source": "https://houserforidaho.com/"
+   },
+   {
+    "topic": "Governance",
+    "point": "Wants to move past culture wars and refocus government on helping citizens.",
+    "source": "https://houserforidaho.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://i0.wp.com/www.houserforidaho.com/wp-content/uploads/2026/01/Emre-Houser46.jpg",
+  "notes": "Social handles are listed on the campaign site as @houserforidaho; exact profile URLs were not individually verified."
+ },
+ {
+  "id": "ID-2/tripp-hutchinson",
+  "name": "Tripp Hutchinson",
+  "party": "Independent",
+  "current_role": "Ketchum City Council member",
+  "bio": "Tripp Hutchinson is a member of the Ketchum City Council. He was born and raised in Idaho and is running as an independent for Idaho's 2nd congressional district.",
+  "website": "https://votefortripp.com",
+  "social": {
+   "x": "https://x.com/vote4tripp",
+   "instagram": "https://www.instagram.com/trippchutchinson",
+   "tiktok": "https://www.tiktok.com/@vote4tripp",
+   "youtube": "https://www.youtube.com/@TrippHutchinsonforIdaho"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Wants Idaho families to be able to live comfortably on a single household income.",
+    "source": "https://votefortripp.com/"
+   },
+   {
+    "topic": "Small business",
+    "point": "Supports independent local businesses.",
+    "source": "https://votefortripp.com/"
+   },
+   {
+    "topic": "Rural land",
+    "point": "Aims to preserve Idaho's rural land.",
+    "source": "https://votefortripp.com/"
+   },
+   {
+    "topic": "Concentrated power",
+    "point": "Opposes consolidation of corporate and government power and advocates citizen self-determination.",
+    "source": "https://votefortripp.com/"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Refuses money from billionaires and corporate PACs.",
+    "source": "https://votefortripp.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://votefortripp.com/wp-content/uploads/2026/04/tripp-cropped.webp",
+  "notes": "Campaign themes are broad and do not support scoring specific policy domains."
+ }
+]

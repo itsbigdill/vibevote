@@ -1,0 +1,132 @@
+[
+  {
+    "state": "Illinois",
+    "district": "IL-13",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Nikki Budzinski",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {"economy": 60, "welfare": 55, "liberty": 20, "security": null, "immigration": 50, "foreign": 75, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "Cosponsors PRO Act; opposes Medicare for All but defends ACA credits, Medicaid, SNAP; backs abortion rights; voted for Laken Riley Act and Israel aid.",
+        "sources": ["https://en.wikipedia.org/wiki/Nikki_Budzinski", "https://nikkiforcongress.com/"],
+        "photo": {"file": "File:Rep Nikki Budzinski, 119th Congress.jpg", "license": "Public domain", "author": "U.S. House of Representatives"}
+      },
+      {
+        "name": "Jeff Wilson",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 25, "welfare": null, "liberty": 85, "security": 70, "immigration": 85, "foreign": null, "energy": 15, "tech": null, "education": 15, "faith": 85},
+        "basis": "Platform: cut regulation, expand oil, gas and nuclear, secure border, back police, parental rights, anti-DEI, Second Amendment and pro-life; liberty driven by guns and abortion.",
+        "sources": ["https://www.wilsonforcongress.com/issues"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-14",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Lauren Underwood",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {"economy": 70, "welfare": 80, "liberty": 15, "security": 30, "immigration": 20, "foreign": null, "energy": 80, "tech": null, "education": 85, "faith": null},
+        "basis": "Calls healthcare a human right, backs ACA expansion, abortion access, universal background checks, police accountability, citizenship pathways, renewable energy; opposes vouchers.",
+        "sources": ["https://www.ontheissues.org/IL/Lauren_Underwood.htm", "https://en.wikipedia.org/wiki/Lauren_Underwood"],
+        "photo": {"file": "File:Lauren Underwood official portrait.jpg", "license": "Public domain", "author": "U.S. House of Representatives"}
+      },
+      {
+        "name": "James Marter",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 15, "welfare": 20, "liberty": 75, "security": null, "immigration": 80, "foreign": 55, "energy": 25, "tech": null, "education": 15, "faith": 70},
+        "basis": "Platform: cut spending and taxes, repeal ACA, reform Social Security, pro-life, pro-gun, secure border, energy independence, strong military, shrink federal education role.",
+        "sources": ["https://marter4congress.us/issues/"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-15",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mary Miller",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {"economy": 25, "welfare": null, "liberty": 90, "security": null, "immigration": 95, "foreign": 10, "energy": 5, "tech": 55, "education": null, "faith": 95},
+        "basis": "Opposed Ukraine aid and NATO expansion; backs ending birthright citizenship; opposed Respect for Marriage Act; calls climate change a scam; wants God in schools.",
+        "sources": ["https://en.wikipedia.org/wiki/Mary_Miller_(politician)", "https://www.marymillerforcongress.com/"],
+        "photo": {"file": "File:Mary Miller 117th U.S Congress.jpg", "license": "Public domain", "author": "House Creative Committee"}
+      },
+      {
+        "name": "Jennifer Todd",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 70, "welfare": 75, "liberty": 15, "security": null, "immigration": 40, "foreign": null, "energy": null, "tech": null, "education": 90, "faith": null},
+        "basis": "Platform: healthcare as a right, childcare and paid leave, union rights, anti-price-gouging, full public school funding, healthcare freedom, border security with due process.",
+        "sources": ["https://www.jentodd2026.us/issues"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-16",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Darin LaHood",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {"economy": 30, "welfare": 20, "liberty": null, "security": null, "immigration": 50, "foreign": null, "energy": 15, "tech": 30, "education": null, "faith": null},
+        "basis": "Voted for 2017 tax cuts and One Big Beautiful Bill; backs Medicaid work limits, ACA repeal; opposes net neutrality; 0% LCV; favors more legal immigration plus ICE funding.",
+        "sources": ["https://en.wikipedia.org/wiki/Darin_LaHood", "https://lahoodforcongress.com/"],
+        "photo": {"file": "File:Darin LaHood official photo.jpg", "license": "Public domain", "author": "U.S. House of Representatives Office of Photography"}
+      },
+      {
+        "name": "Paul Nolley",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 80, "welfare": 95, "liberty": 15, "security": 20, "immigration": null, "foreign": null, "energy": 75, "tech": 65, "education": null, "faith": null},
+        "basis": "Platform: Medicare for all, paid leave and childcare, union rights, clean-energy jobs, right-to-repair and anti-consolidation, no government surveillance, women's and LGBTQ+ rights.",
+        "sources": ["https://www.nolleyforcongress.com/issues"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Illinois",
+    "district": "IL-17",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Eric Sorensen",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {"economy": null, "welfare": 65, "liberty": 15, "security": 55, "immigration": 50, "foreign": null, "energy": 75, "tech": null, "education": null, "faith": null},
+        "basis": "Supports codifying Roe and LGBTQ+ protections, affordable care for all, no Social Security cuts, law enforcement; voted for Laken Riley Act; prioritizes climate action.",
+        "sources": ["https://www.ericforillinois.com/issues", "https://en.wikipedia.org/wiki/Eric_Sorensen_(politician)", "https://www.ontheissues.org/IL/Eric_Sorensen.htm"],
+        "photo": {"file": "File:Sorensen House Photo.jpg", "license": "Public domain", "author": "U.S. House of Representatives"}
+      },
+      {
+        "name": "Dillan Vancil",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "Campaign site offers biography only (railroad union official, coffee business owner, school board); no published policy stances found.",
+        "sources": ["https://www.vancilforcongress.com/about-dillan"],
+        "photo": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,407 @@
+[
+ {
+  "id": "MT-2/troy-downing",
+  "name": "Troy Downing",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MT-2",
+  "bio": "Troy Downing has represented Montana's 2nd congressional district since 2025 and sits on the Financial Services and Small Business committees. He served as Montana State Auditor from 2021 to 2025. An Air Force veteran who deployed twice to Afghanistan in combat search and rescue, he founded technology, insurance, real estate and self-storage businesses.",
+  "website": "https://www.troydowning.com/",
+  "social": {
+   "x": "https://x.com/reptroydowning",
+   "facebook": "https://www.facebook.com/reptroydowning",
+   "instagram": "https://www.instagram.com/reptroydowning"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Make the 2017 Tax Cuts and Jobs Act permanent and repeal the federal estate tax through the Death Tax Repeal Act.", "source": "https://downing.house.gov/issues"},
+   {"topic": "Energy", "point": "Pursue an all-of-the-above energy approach centred on fossil fuels, including Montana coal mining, and streamline permitting.", "source": "https://downing.house.gov/issues"},
+   {"topic": "Small business", "point": "Expand access to capital for rural job creators and strengthen financial markets.", "source": "https://www.troydowning.com/"},
+   {"topic": "Veterans", "point": "Broaden VA care options, including through the Veterans' Access Act of 2025.", "source": "https://downing.house.gov/issues"},
+   {"topic": "Health care", "point": "Expand rural telemedicine and support most-favored-nation prescription drug pricing.", "source": "https://downing.house.gov/issues"},
+   {"topic": "Education", "point": "Keep control of education with states and local communities rather than Washington.", "source": "https://downing.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Backs a permanent TCJA, repeal of the estate tax and eliminating the Federal Insurance Office.", "source": "https://downing.house.gov/issues"},
+   "welfare": {"score": 30, "evidence": "Describes his health policy as individual choice and market-based reform, alongside telemedicine and drug-price measures.", "source": "https://downing.house.gov/issues"},
+   "liberty": {"score": 25, "evidence": "On vaccine mandates and health choices he stresses individual choice, cosponsoring the AMERICANS Act to reinstate service members discharged over COVID vaccination.", "source": "https://downing.house.gov/issues"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 10, "evidence": "Supports coal mine expansion, the Lower Energy Costs Act against fracking bans, and opposes EPA rules such as MATS.", "source": "https://downing.house.gov/issues"},
+   "tech": null,
+   "education": {"score": 35, "evidence": "Says education should be run by states and localities, not the federal government.", "source": "https://downing.house.gov/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Liberty score rests on limited evidence (vaccine mandates); the earlier gun-rights basis could not be confirmed on the current issues page."
+ },
+ {
+  "id": "MT-2/brian-miller",
+  "name": "Brian Miller",
+  "party": "Democratic",
+  "current_role": "Attorney",
+  "bio": "Brian Miller is an attorney running as the Democratic nominee for Montana's 2nd congressional district. His campaign is based in Helena.",
+  "website": "https://www.miller4congress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Health care", "point": "Seek health care coverage for all Americans and protect Social Security.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   {"topic": "Economy", "point": "Address affordability and income inequality, oppose tariffs and defend workers' right to unionize.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   {"topic": "Foreign policy", "point": "End prolonged military conflicts and end U.S. support for Israel.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   {"topic": "Climate", "point": "Take action on climate change.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   {"topic": "Civil rights", "point": "Lists women's issues, LGBTQ issues and respect for tribal nations among his campaign priorities.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   {"topic": "Campaign finance", "point": "Pursue campaign finance reform.", "source": "https://www.miller4congress.com/copy-of-main-page-1"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Campaigns against income inequality and for labor unions, while opposing tariffs.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   "welfare": {"score": 85, "evidence": "Calls for health care for all Americans and protecting Social Security.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 20, "evidence": "Opposes endless wars and calls for ending U.S. support for Israel.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   "energy": {"score": 75, "evidence": "Commits to action on climate change.", "source": "https://www.miller4congress.com/copy-of-main-page-1"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/a3c153_2f61fe4fd792438eb2f9ace35012851b~mv2.jpg",
+  "notes": "Little biographical detail is published; occupation comes from Wikipedia's 2026 Montana House elections article."
+ },
+ {
+  "id": "MT-2/patrick-mccracken",
+  "name": "Patrick McCracken",
+  "party": "Libertarian",
+  "current_role": "Financial advisor",
+  "bio": "Patrick McCracken is the Libertarian nominee for Montana's 2nd congressional district. A lifelong Montanan from Columbia Falls, he has worked for about ten years as a financial advisor.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "War powers", "point": "Proposes the Send Baron Act to draft children of the president, cabinet and Congress first in any war.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"},
+   {"topic": "Rural health care", "point": "Keep Medicaid expansion to sustain rural hospitals and pass the PRICE Transparency Act.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"},
+   {"topic": "Housing", "point": "Treats housing costs as a monetary problem and backs breaking up private equity ownership of single-family homes.", "source": "https://www.mtpr.org/montana-news/2026-04-17/patrick-mccracken-interview"},
+   {"topic": "Agriculture", "point": "Co-sponsor the American Beef Labeling Act for country-of-origin labeling.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"},
+   {"topic": "Utilities", "point": "Codify a ratepayer protection pledge for data center energy agreements and pursue cannabis banking reform.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Opposes institutional investors buying single-family homes and backs mandatory beef origin labeling and ratepayer protections.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"},
+   "welfare": {"score": 65, "evidence": "Calls Medicaid expansion essential to keeping rural Montana health care open.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/patrick-mccracken/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website was found; positions come from Montana Free Press and Montana Public Radio questionnaires."
+ },
+ {
+  "id": "MT-2/michael-eisenhauer",
+  "name": "Michael Eisenhauer",
+  "party": "Independent",
+  "current_role": "Interventional cardiologist",
+  "bio": "Michael Eisenhauer is an independent candidate for Montana's 2nd congressional district from Great Falls. He is a practicing interventional cardiologist and a retired Army colonel who served 25 years and received the Bronze Star. He qualified for the ballot by petition.",
+  "website": "https://eisenhauerforcongress.com/",
+  "social": {
+   "x": "https://x.com/EisenhauerMT2",
+   "facebook": "https://www.facebook.com/eisenhauerforcongress",
+   "instagram": "https://www.instagram.com/eisenhauer.for.congress/",
+   "tiktok": "https://www.tiktok.com/@eisenhauerforcongress"
+  },
+  "platform": [
+   {"topic": "War powers", "point": "Enforce and strengthen the War Powers Resolution so no branch acts alone on war.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"},
+   {"topic": "Health care", "point": "Stabilise rural and critical-access hospitals, protect pre-existing condition coverage and patient choice without single-payer.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"},
+   {"topic": "Housing", "point": "Transferable mortgages, development tax incentives, down-payment help, property tax relief and lower tariffs on building materials.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"},
+   {"topic": "Agriculture", "point": "Enforce antitrust law, limit foreign corporate land purchases and return tariff authority to Congress.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"},
+   {"topic": "Elections", "point": "Back the Transparent Election Initiative to curb dark money.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Mixes antitrust enforcement and foreign land limits with tax incentives and lower tariffs.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"},
+   "welfare": {"score": 40, "evidence": "Opposes single-payer health care while protecting pre-existing condition coverage and rural hospitals.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/michael-d-eisenhauer/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://eisenhauerforcongress.com/wp-content/uploads/2025/12/Headshot2.jpg",
+  "notes": "Campaign materials also use the name Mike Eisenhauer."
+ },
+ {
+  "id": "NE-1/mike-flood",
+  "name": "Mike Flood",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NE-1",
+  "bio": "Mike Flood has represented Nebraska's 1st congressional district since 2022 and chairs the Financial Services Subcommittee on Housing and Insurance. He served in the Nebraska Legislature, including as Speaker from 2007 to 2013. Raised in Norfolk, he is a lawyer who founded a group of Nebraska radio and TV stations and News Channel Nebraska.",
+  "website": "https://mikefloodfornebraska.com/",
+  "social": {
+   "x": "https://x.com/USRepMikeFlood",
+   "facebook": "https://www.facebook.com/FloodforCongress"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Keep the Trump tax cuts and end taxes on tips, overtime and Social Security.", "source": "https://mikefloodfornebraska.com/"},
+   {"topic": "Border security", "point": "Continue border measures he credits with record-low illegal crossings.", "source": "https://mikefloodfornebraska.com/"},
+   {"topic": "Spending", "point": "Cut wasteful federal spending and reduce the deficit.", "source": "https://mikefloodfornebraska.com/"},
+   {"topic": "Housing", "point": "Advance bipartisan legislation to make housing more affordable for Nebraska families.", "source": "https://mikefloodfornebraska.com/"},
+   {"topic": "National security", "point": "Stand firm against adversaries such as China.", "source": "https://mikefloodfornebraska.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Supports protecting the Trump tax cuts and opposes higher taxes on the wealthy.", "source": "https://www.ontheissues.org/House/Mike_Flood.htm"},
+   "welfare": null,
+   "liberty": {"score": 55, "evidence": "Seeks to ban abortion while strongly backing gun rights and opposing COVID vaccine mandates.", "source": "https://www.ontheissues.org/House/Mike_Flood.htm"},
+   "security": {"score": 65, "evidence": "Pledges that police be defended, not defunded.", "source": "https://www.ontheissues.org/House/Mike_Flood.htm"},
+   "immigration": {"score": 80, "evidence": "Opposes any pathway to citizenship for people in the country illegally.", "source": "https://www.ontheissues.org/House/Mike_Flood.htm"},
+   "foreign": {"score": 70, "evidence": "Member of the Congressional Ukraine Caucus and campaigns on confronting China.", "source": "https://en.wikipedia.org/wiki/Mike_Flood_(politician)"},
+   "energy": {"score": 25, "evidence": "Opposes the Green New Deal and supports ethanol, coal and natural gas.", "source": "https://www.ontheissues.org/House/Mike_Flood.htm"},
+   "tech": {"score": 20, "evidence": "Opposes burdensome regulation of the technology sector.", "source": "https://www.ontheissues.org/House/Mike_Flood.htm"},
+   "education": null,
+   "faith": {"score": 70, "evidence": "Favors keeping God in public life and allowing college funding of religious groups.", "source": "https://www.ontheissues.org/House/Mike_Flood.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Foreign score newly added from Ukraine Caucus membership, which is limited evidence."
+ },
+ {
+  "id": "NE-1/chris-backemeyer",
+  "name": "Chris Backemeyer",
+  "party": "Democratic",
+  "current_role": "Former Deputy Assistant Secretary of State",
+  "bio": "Chris Backemeyer is the Democratic nominee for Nebraska's 1st congressional district, born and raised in Lincoln. He joined the State Department after 9/11 and worked on counterterrorism, economic policy and the Middle East under administrations of both parties, rising to deputy assistant secretary. He also served on the White House National Security Council and advised the Office of the Vice President.",
+  "website": "https://backnebraska.com/",
+  "social": {
+   "x": "https://x.com/ChrisBackemeyer",
+   "facebook": "https://www.facebook.com/chrisbackemeyerNE",
+   "instagram": "https://www.instagram.com/chrisbackemeyerne/",
+   "youtube": "https://www.youtube.com/channel/UCNfOaZcAMuM7es-ibhf7tXA"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Lower costs and restore the middle class.", "source": "https://backnebraska.com/priorities/"},
+   {"topic": "Health care", "point": "Make health care affordable and accessible.", "source": "https://backnebraska.com/priorities/"},
+   {"topic": "Immigration", "point": "Pair fair immigration policy with a secure border.", "source": "https://backnebraska.com/priorities/"},
+   {"topic": "National security", "point": "Restore American leadership against China, Russia and Iran.", "source": "https://backnebraska.com/priorities/"},
+   {"topic": "Budget", "point": "Rein in the national debt and end dysfunction in Washington.", "source": "https://backnebraska.com/priorities/"},
+   {"topic": "Agriculture", "point": "Support agriculture and rural communities.", "source": "https://backnebraska.com/priorities/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 55, "evidence": "Calls for smart, fair immigration together with a secure border.", "source": "https://backnebraska.com/priorities/"},
+   "foreign": {"score": 75, "evidence": "Campaigns on restoring American leadership and confronting China, Russia and Iran.", "source": "https://backnebraska.com/priorities/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Christopher Backemyer DOS (cropped).jpg", "license": "Public domain", "author": "US Department of State"},
+  "campaign_photo": "",
+  "notes": "The Commons file title misspells the surname as Backemyer, but its source is his State Department biography."
+ },
+ {
+  "id": "NE-1/nik-sandman",
+  "name": "Nik Sandman",
+  "party": "Libertarian",
+  "current_role": "Retired farmer",
+  "bio": "Nik Sandman is the Libertarian nominee for Nebraska's 1st congressional district. A fifth-generation farmer from the Stratton and Wauneta area, he farmed for 26 years and worked 15 years as a rural mail carrier before moving to Lincoln. He holds a philosophy degree from the University of Nebraska-Lincoln.",
+  "website": "https://picknikforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Agriculture", "point": "Replace subsidies with parity pricing that covers production costs plus fair profit, and break up agricultural monopolies.", "source": "https://picknikforcongress.com/"},
+   {"topic": "Health care", "point": "Enact Medicare for All covering prescriptions, dental, vision and mental health.", "source": "https://picknikforcongress.com/"},
+   {"topic": "Civil liberties", "point": "End warrantless surveillance, civil asset forfeiture without conviction and detention without due process.", "source": "https://picknikforcongress.com/"},
+   {"topic": "Spending", "point": "Cut defense spending and corporate welfare and balance the budget.", "source": "https://picknikforcongress.com/"},
+   {"topic": "Campaign finance", "point": "Accept no corporate PAC money.", "source": "https://picknikforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Proposes federal parity pricing for farm goods and breaking up agricultural monopolies.", "source": "https://picknikforcongress.com/"},
+   "welfare": {"score": 95, "evidence": "Supports Medicare for All with comprehensive coverage.", "source": "https://picknikforcongress.com/"},
+   "liberty": null,
+   "security": {"score": 15, "evidence": "Opposes warrantless surveillance, civil asset forfeiture and detention without due process.", "source": "https://picknikforcongress.com/"},
+   "immigration": null,
+   "foreign": {"score": 30, "evidence": "Makes cutting defense spending a budget priority.", "source": "https://picknikforcongress.com/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Background details come from the Nebraska Examiner primary voter guide as reported in search results."
+ },
+ {
+  "id": "NE-1/daniel-hartong",
+  "name": "Daniel Hartong",
+  "party": "America First",
+  "current_role": "",
+  "bio": "Daniel (Dan) Hartong is the America First Party of Nebraska's nominee for the state's 1st congressional district, announced in September 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No personal background or positions found; the party platform stresses limited government, less spending and debt, and opposing new wars (https://klin.com/2026/09/01/america-first-party-of-nebraska-announces-2026-statewide-and-congressional-ticket/)."
+ },
+ {
+  "id": "NE-2/brinker-harding",
+  "name": "Brinker Harding",
+  "party": "Republican",
+  "current_role": "Omaha City Council member, District 6",
+  "bio": "Brinker Harding has represented the 6th district on the Omaha City Council since 2017. A fourth-generation Omahan, he was chief of staff and economic development director to Omaha Mayor Hal Daub from 1995 to 2000 and has worked as a business leader.",
+  "website": "https://www.brinkerharding.com/",
+  "social": {
+   "x": "https://x.com/brinkerharding",
+   "facebook": "https://www.facebook.com/brinkerhardingNE02",
+   "instagram": "https://www.instagram.com/brinkerharding",
+   "youtube": "https://www.youtube.com/@Brinker.Harding"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Grow the economy to raise wages and curb inflation, and allow year-round E15 to lower fuel prices.", "source": "https://www.brinkerharding.com/vision"},
+   {"topic": "Health care", "point": "Align drug prices with other countries, protect entitlements and expand access including reproductive care such as IVF.", "source": "https://www.brinkerharding.com/vision"},
+   {"topic": "Congressional reform", "point": "Impose congressional term limits and ban stock trading by members.", "source": "https://www.brinkerharding.com/vision"},
+   {"topic": "Immigration enforcement", "point": "Deport violent criminal offenders and require body cameras and identifiable uniforms for immigration agents.", "source": "https://www.brinkerharding.com/vision"},
+   {"topic": "Elections", "point": "Require voter identification.", "source": "https://www.brinkerharding.com/vision"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 55, "evidence": "Pledges to protect entitlements and negotiate drug prices to match other countries.", "source": "https://www.brinkerharding.com/vision"},
+   "liberty": null,
+   "security": {"score": 35, "evidence": "Calls for body cameras and identifiable uniforms for law enforcement, including immigration agents.", "source": "https://www.brinkerharding.com/vision"},
+   "immigration": {"score": 65, "evidence": "Supports enforcing deportation of violent criminal offenders.", "source": "https://www.brinkerharding.com/vision"},
+   "foreign": null,
+   "energy": {"score": 35, "evidence": "Backs year-round E15 ethanol blends to lower gas prices and help farmers.", "source": "https://www.brinkerharding.com/vision"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/686220fecacd134503b4365c/ad1c74a1-fae7-4c06-8247-688e088d63f4/HEADSHOT_BRINKER_NOBG_2_Compressed.png",
+  "notes": ""
+ },
+ {
+  "id": "NE-2/denise-powell",
+  "name": "Denise Powell",
+  "party": "Democratic",
+  "current_role": "Small-business owner and candidate training group co-founder",
+  "bio": "Denise Powell is the Democratic nominee for Nebraska's 2nd congressional district, based in Omaha. A former corporate executive and small-business owner, she founded an organization after 2016 that has helped Nebraskans run for local office. She describes herself as a public school advocate and the daughter of immigrants.",
+  "website": "https://deniseforcongress.org/",
+  "social": {
+   "x": "https://x.com/DeniseForNE",
+   "facebook": "https://www.facebook.com/deniseforcongress",
+   "instagram": "https://www.instagram.com/deniseforcongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Create a Medicare-like public option, negotiate drug prices and cap insulin at $35 a month.", "source": "https://deniseforcongress.org/priorities/"},
+   {"topic": "Reproductive rights", "point": "Restore Roe v. Wade nationally and protect contraception and IVF access.", "source": "https://deniseforcongress.org/priorities/"},
+   {"topic": "Economy", "point": "Fund small businesses and research, expand job training and challenge monopolies and price gouging.", "source": "https://deniseforcongress.org/priorities/"},
+   {"topic": "Public safety", "point": "Fully fund police, add universal background checks and red flag laws, and reauthorize VAWA.", "source": "https://deniseforcongress.org/priorities/"},
+   {"topic": "Immigration", "point": "Secure the border while offering a path to citizenship for long-term taxpaying immigrants.", "source": "https://deniseforcongress.org/priorities/"},
+   {"topic": "AI and jobs", "point": "Set guardrails on artificial intelligence to protect American jobs.", "source": "https://deniseforcongress.org/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Opposes monopolies and corporate price gouging and supports public investment in small business and research.", "source": "https://deniseforcongress.org/priorities/"},
+   "welfare": {"score": 75, "evidence": "Proposes a Medicare-like public option available to every American.", "source": "https://deniseforcongress.org/priorities/"},
+   "liberty": {"score": 40, "evidence": "Would restore Roe (abortion) but supports universal background checks and red flag laws (guns).", "source": "https://deniseforcongress.org/priorities/"},
+   "security": {"score": 50, "evidence": "Wants police fully funded alongside investment in social workers and officer mental health.", "source": "https://deniseforcongress.org/priorities/"},
+   "immigration": {"score": 35, "evidence": "Supports a path to citizenship for long-term immigrants along with border security.", "source": "https://deniseforcongress.org/priorities/"},
+   "foreign": {"score": 75, "evidence": "Calls for rebuilding alliances and restoring USAID, with congressional oversight of military action.", "source": "https://deniseforcongress.org/priorities/"},
+   "energy": {"score": 70, "evidence": "Supports expanding clean energy production.", "source": "https://deniseforcongress.org/priorities/"},
+   "tech": {"score": 70, "evidence": "Supports regulatory guardrails on artificial intelligence.", "source": "https://deniseforcongress.org/priorities/"},
+   "education": {"score": 70, "evidence": "Describes herself as a public school advocate who organized to protect public schools.", "source": "https://deniseforcongress.org/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://deniseforcongress.org/wp-content/uploads/2025/04/APC-Powell-2025-2-copy-832x1024.webp",
+  "notes": ""
+ },
+ {
+  "id": "NE-2/eric-foreman",
+  "name": "Eric Foreman",
+  "party": "Libertarian",
+  "current_role": "Property management and maintenance worker",
+  "bio": "Eric Michael Foreman is the Libertarian nominee for Nebraska's 2nd congressional district. Raised in Lincoln and now living in Omaha, he works in property management and maintenance and has studied culinary arts, trade skills and applied sciences.",
+  "website": "https://foremantakebackourhouse.com/",
+  "social": {
+   "x": "https://x.com/the1knocking",
+   "facebook": "https://www.facebook.com/Foreman4Congress",
+   "instagram": "https://www.instagram.com/Foreman4congress"
+  },
+  "platform": [
+   {"topic": "Criminal justice", "point": "Restore impartial justice and impose harsher mandatory sentences for crimes against children.", "source": "https://foremantakebackourhouse.com/"},
+   {"topic": "Law enforcement", "point": "Empower county sheriffs within their constitutional authority.", "source": "https://foremantakebackourhouse.com/"},
+   {"topic": "Borders and elections", "point": "Secure elections and the border.", "source": "https://foremantakebackourhouse.com/"},
+   {"topic": "Spending", "point": "Cut federal spending while investing in communities.", "source": "https://foremantakebackourhouse.com/"},
+   {"topic": "Foreign policy", "point": "Stop open-ended funding for foreign wars.", "source": "https://nebraskaexaminer.com/voter-guides/contests/2026-primary-u-s-house-district-2/"},
+   {"topic": "Taxes", "point": "Lower taxes for Americans earning under $200,000 a year.", "source": "https://nebraskaexaminer.com/voter-guides/contests/2026-primary-u-s-house-district-2/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Calls for lower taxes, limited government and spending cuts.", "source": "https://nebraskaexaminer.com/voter-guides/contests/2026-primary-u-s-house-district-2/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 70, "evidence": "Wants stronger county sheriff authority and harsher mandatory sentences for crimes against children.", "source": "https://foremantakebackourhouse.com/"},
+   "immigration": {"score": 70, "evidence": "Lists securing the border and strong borders among his priorities.", "source": "https://foremantakebackourhouse.com/"},
+   "foreign": {"score": 25, "evidence": "Opposes blank checks for endless wars and favors peace over foreign entanglements.", "source": "https://nebraskaexaminer.com/voter-guides/contests/2026-primary-u-s-house-district-2/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://img1.wsimg.com/isteam/ip/c109992d-676c-4d2d-8c14-d79584f8502f/1000004884-8a1ddb7.jpg",
+  "notes": "The Nebraska Examiner guide returned 403 on direct fetch; its content was seen via search results. The campaign-site image is not clearly labeled as a headshot."
+ },
+ {
+  "id": "NE-3/adrian-smith",
+  "name": "Adrian Smith",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NE-3",
+  "bio": "Adrian Smith has represented Nebraska's 3rd congressional district since 2007 and chairs the Ways and Means Subcommittee on Trade. Born in Scottsbluff, he served on the Gering City Council and in the Nebraska Legislature from 1999 to 2007, and worked as a realtor and housing marketing specialist.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepAdrianSmith",
+   "facebook": "https://www.facebook.com/repadriansmith",
+   "instagram": "https://www.instagram.com/RepAdrianSmith",
+   "youtube": "https://www.youtube.com/RepAdrianSmith"
+  },
+  "platform": [
+   {"topic": "Trade", "point": "Secure foreign market access for farm products, back USMCA and reauthorize AGOA.", "source": "https://adriansmith.house.gov/issues/trade"},
+   {"topic": "Agriculture", "point": "Protect ranchers, including urging reconsideration of increased foreign beef imports.", "source": "https://adriansmith.house.gov/issues/trade"},
+   {"topic": "Energy", "point": "Support the Renewable Fuel Standard and simpler E15 rules while reducing federal regulation.", "source": "https://adriansmith.house.gov/issues/energy"},
+   {"topic": "Taxes", "point": "Repeal the estate tax and keep lower corporate tax rates.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Signed the Taxpayer Protection Pledge, backs estate tax repeal and the 21% corporate rate.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "welfare": {"score": 20, "evidence": "Voted to repeal the ACA and against expanding children's health insurance.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "liberty": {"score": 50, "evidence": "Supports abortion restrictions such as a 20-week ban while opposing universal background checks for guns.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "security": {"score": 70, "evidence": "Voted to extend PATRIOT Act roving wiretaps and loosen FISA warrant rules.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "immigration": {"score": 85, "evidence": "Supports ending birthright citizenship and opposes pathways for DREAMers.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "foreign": {"score": 70, "evidence": "Opposed troop withdrawals from Afghanistan and Iraq and supports Iran sanctions and Israel.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "energy": {"score": 15, "evidence": "Opposes climate taxes, voted against renewable incentives and supports offshore drilling.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "tech": {"score": 30, "evidence": "Opposed net neutrality regulation.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "education": {"score": 20, "evidence": "Supports school vouchers and opposed Common Core.", "source": "https://www.ontheissues.org/House/Adrian_Smith.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "No campaign website was found. His official energy page backs ethanol and the Renewable Fuel Standard, so he is not purely a fossil-fuel candidate."
+ }
+]

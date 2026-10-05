@@ -1,0 +1,509 @@
+[
+  {
+    "state": "Alabama",
+    "district": "AL-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jerry Carl",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 85,
+          "security": null,
+          "immigration": 90,
+          "foreign": 70,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "As House member opposed American Rescue Plan, infrastructure and CHIPS bills; anti-abortion, NRA-backed; 'build the wall'; calls Israel key ally; opposed drilling moratorium.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jerry_Carl"
+        ],
+        "photo": {
+          "file": "File:Rep. Jerry Carl official photo.jpg",
+          "license": "Public domain",
+          "author": "Franmarie Metzler, House Creative Services"
+        }
+      },
+      {
+        "name": "Clyde Jones",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": null,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs higher minimum wage and insurance regulation, restoring ACA subsidies and Medicaid expansion; opposes quota-driven family separation in immigration enforcement.",
+        "sources": [
+          "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Alabama",
+    "district": "AL-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Shomari Figures",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 80,
+          "liberty": null,
+          "security": null,
+          "immigration": 50,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports Medicaid expansion and co-sponsored Bridge to Medicaid Act and rural hospital grants; voted for the Laken Riley Act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Shomari_Figures",
+          "https://yellowhammernews.com/alabama-lawmakers-including-figures-and-sewell-vote-to-pass-britts-criminal-immigrant-crackdown-bill/"
+        ],
+        "photo": {
+          "file": "File:Figures Shomari 119th Congress 2 (4x5 cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Rhett Marques",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 85,
+          "security": null,
+          "immigration": 85,
+          "foreign": 65,
+          "energy": null,
+          "tech": 25,
+          "education": 30,
+          "faith": 85
+        },
+        "basis": "Campaigns on tax and regulation cuts, strict pro-life and Second Amendment stances, 'detain and deport', support for Israel, pro-crypto, anti-CRT/DEI, Christian values.",
+        "sources": [
+          "https://www.rhettforalabama.com/",
+          "https://www.alreporter.com/2026/08/10/alabama-agc-pac-endorses-rhett-marques-congressional-campaign/"
+        ],
+        "photo": {
+          "file": "File:Rhett Marques.png",
+          "license": "Public domain",
+          "author": "Alabama Legislature"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Alabama",
+    "district": "AL-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Rogers",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 85,
+          "security": 75,
+          "immigration": null,
+          "foreign": 55,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 85
+        },
+        "basis": "Voted for 2017 tax cuts and Patriot Act; anti-abortion and opposed LGBTQ protections; backed Ukraine arms but sought UN withdrawal; supports public-property prayer amendment.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"
+        ],
+        "photo": {
+          "file": "File:Mike Rogers 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Lee McInnis",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 85,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Says the ultra-rich must pay fair share of taxes, calls for healthcare for all, and criticizes SNAP and health cuts in the 2025 budget law.",
+        "sources": [
+          "https://leemcinnis4alabama.com/",
+          "https://www.alreporter.com/2025/12/01/democratic-congressional-aspirant-lee-mcinnis-explains-his-candidacy/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Alabama",
+    "district": "AL-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Robert Aderholt",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 85,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts, signed tax pledge; anti-abortion, opposes same-sex marriage, NRA-backed; opposed carbon taxes and greenhouse gas regulation.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Robert_Aderholt"
+        ],
+        "photo": {
+          "file": "File:Robert Aderholt official photo.jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "Amanda Pusczek",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 85,
+          "welfare": 90,
+          "liberty": 15,
+          "security": 15,
+          "immigration": null,
+          "foreign": 35,
+          "energy": null,
+          "tech": 70,
+          "education": 95,
+          "faith": null
+        },
+        "basis": "Platform: PRO Act, offshoring exit tax, universal child care, abortion rights, Equality Act, end qualified immunity, anti-voucher, repeal war authorizations, ban AI coverage denials.",
+        "sources": [
+          "https://www.amandaforalabama.com/policy"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Alabama",
+    "district": "AL-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Dale Strong",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 80,
+          "security": null,
+          "immigration": 80,
+          "foreign": 35,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 75
+        },
+        "basis": "Cosponsored conception personhood bill; prioritizes border security and deporting noncitizen voters; voted against 2024 Ukraine aid; pledges to defend right to worship.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Dale_Strong",
+          "https://strong.house.gov/issues/securing-our-homeland",
+          "https://strong.house.gov/issues/conservative-family-values"
+        ],
+        "photo": {
+          "file": "File:Dale Strong official House portrait.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Andrew Sneed",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": null,
+          "security": 20,
+          "immigration": 15,
+          "foreign": null,
+          "energy": 70,
+          "tech": 85,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Backs Medicaid expansion, drug price negotiation, rental aid, path to citizenship, ICE accountability, clean-energy funding, data center moratorium, limits on Flock cameras; opposes vouchers.",
+        "sources": [
+          "https://www.sneedforcongress.com/immigration",
+          "https://www.sneedforcongress.com/data-centers",
+          "https://www.sneedforcongress.com/ed-op"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Alabama",
+    "district": "AL-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Gary Palmer",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 10,
+          "welfare": 15,
+          "liberty": 85,
+          "security": null,
+          "immigration": 85,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2017 tax cuts, against American Rescue Plan; seeks ACA repeal; opposes abortion, same-sex marriage, marijuana legalization; backs gun rights and deportation.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gary_Palmer"
+        ],
+        "photo": {
+          "file": "File:Gary Palmer - 2018.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Maurice Mercer",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaigns on lowering family costs, healthcare affordability, and continued federal infrastructure investment including rail projects.",
+        "sources": [
+          "https://www.shelbycountyreporter.com/news/pelhams-maurice-mercer-enters-race-for-alabamas-6th-congressional-district-da3c6c14/",
+          "https://www.clantonadvertiser.com/news/mercer-palmer-win-6th-congressional-nominations-in-special-primary-election-eec73fdb"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Alabama",
+    "district": "AL-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Terri Sewell",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 70,
+          "welfare": 80,
+          "liberty": 25,
+          "security": 60,
+          "immigration": 45,
+          "foreign": 65,
+          "energy": 50,
+          "tech": null,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Backs $15 wage, ACA, Medicaid expansion; supports abortion rights, background checks; backed Patriot Act wiretaps; opposed wall funding but voted for Laken Riley Act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Terri_Sewell"
+        ],
+        "photo": {
+          "file": "File:Terri Sewell official photo.jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Ammie Akin",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": null,
+          "security": 60,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaigns on cutting red tape and wasteful federal spending, and giving law enforcement and the military the resources they need.",
+        "sources": [
+          "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Alaska",
+    "district": "AK-AL",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Nick Begich III",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 70,
+          "energy": 10,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2025 tax-and-spending law with Medicaid cuts and against extending ACA subsidies; secured ANWR oil lease sales; backed Iran war, opposing war powers limits.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Nick_Begich_III",
+          "https://thealaskacurrent.com/2026/04/24/alaska-us-house-race-2026-nick-begich-matt-schultz-bill-hill/",
+          "https://begich.house.gov/issues/economy"
+        ],
+        "photo": {
+          "file": "File:Nick Begich III 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Bill Hill",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 40,
+          "tech": null,
+          "education": 65,
+          "faith": null
+        },
+        "basis": "Wants billionaires to pay fair share, Medicaid expansion, drug price caps; defends abortion and gun rights; backs oil, gas and renewable credits; community schools.",
+        "sources": [
+          "https://billhillforalaskans.com/bills-platform/",
+          "https://www.adn.com/politics/2026/01/21/bill-hill-bristol-bay-fisherman-and-educator-enters-alaska-us-house-race-as-independent/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Eric Hafner",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No public policy platform found; federal prisoner who advanced from the top-four primary after withdrawals.",
+        "sources": [
+          "https://alaskapublic.org/news/politics/elections/2026-08-27/a-federal-prisoner-with-no-clear-ties-to-alaska-advances-in-primary-for-the-states-u-s-house-seat"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jim McDermott",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": 35,
+          "energy": null,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
+        "basis": "Official statement: personal liberties focus, small government and free markets, supports defense but opposes nation building, backs parental involvement in schools.",
+        "sources": [
+          "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

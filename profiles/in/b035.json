@@ -1,0 +1,385 @@
+[
+ {
+  "id": "FL-18/deva-simmons",
+  "name": "Deva Simmons",
+  "party": "Independent",
+  "race": "FL-18",
+  "race_label": "Florida · US House FL-18",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-19/jim-schwartzel",
+  "name": "Jim Schwartzel",
+  "party": "Republican",
+  "race": "FL-19",
+  "race_label": "Florida · US House FL-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Says the government should keep up with deporting people in the country illegally; other stances focus on local infrastructure.",
+   "sources": [
+    "https://www.fortmyersbeachtalk.com/news/community-news/2026/08/arias-schwartzel-win-party-primaries-to-advance-in-district-19-congressional-race/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-19/victor-arias",
+  "name": "Victor Arias",
+  "party": "Democratic",
+  "race": "FL-19",
+  "race_label": "Florida · US House FL-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Only broad goals found (raise worker earnings, lower prices, protect clean water); too general to score.",
+   "sources": [
+    "https://www.fortmyersbeachtalk.com/news/community-news/2026/08/arias-schwartzel-win-party-primaries-to-advance-in-district-19-congressional-race/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-19/seth-haskin",
+  "name": "Seth Haskin",
+  "party": "Independent",
+  "race": "FL-19",
+  "race_label": "Florida · US House FL-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-20/debbie-wasserman-schultz",
+  "name": "Debbie Wasserman Schultz",
+  "party": "Democratic",
+  "race": "FL-20",
+  "race_label": "Florida · US House FL-20",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000797",
+   "official_name": "Debbie Wasserman Schultz",
+   "chamber": "House",
+   "official_site": "https://wassermanschultz.house.gov",
+   "official_social": {
+    "twitter": "RepDWStweets",
+    "facebook": "RepDWS",
+    "youtube": "RepWassermanSchultz",
+    "instagram": "RepDWSTweets"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 80,
+    "liberty": 40,
+    "security": 55,
+    "immigration": 25,
+    "foreign": 85,
+    "energy": 75,
+    "tech": 65,
+    "education": 85,
+    "faith": 15
+   },
+   "basis": "Abortion rights and gun control but opposed medical marijuana; strong Israel aid; offshore drilling ban; SOPA; opposes vouchers and religion in schools.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Debbie_Wasserman_Schultz",
+    "https://www.ontheissues.org/FL/Debbie_Wasserman_Schultz.htm"
+   ],
+   "photo": {
+    "file": "File:Debbie Wasserman Schultz official photo.jpg",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   }
+  }
+ },
+ {
+  "id": "FL-20/brent-andersen",
+  "name": "Brent Andersen",
+  "party": "Republican",
+  "race": "FL-20",
+  "race_label": "Florida · US House FL-20",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Proposes cutting red tape, tort reform and easier reinsurance treaties to lower insurance costs.",
+   "sources": [
+    "https://www.cbsnews.com/miami/news/2026-florida-primary-district-20-republican-brent-andersen/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-20/kedner-maxime",
+  "name": "Kedner Maxime",
+  "party": "Independent Party of Florida",
+  "race": "FL-20",
+  "race_label": "Florida · US House FL-20",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-21/brian-mast",
+  "name": "Brian Mast",
+  "party": "Republican",
+  "race": "FL-21",
+  "race_label": "Florida · US House FL-21",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001199",
+   "official_name": "Brian J. Mast",
+   "chamber": "House",
+   "official_site": "https://mast.house.gov",
+   "official_social": {
+    "facebook": "repbrianmast",
+    "twitter": "RepBrianMast",
+    "youtube": "repbrianmast",
+    "instagram": "RepBrianMast"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 25,
+    "liberty": 55,
+    "security": 60,
+    "immigration": 70,
+    "foreign": 60,
+    "energy": 25,
+    "tech": 25,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Repeal ACA, TCJA; abortion limits, assault weapons ban, cannabis legalization; strong Israel backing but opposed Ukraine aid; vouchers; against net neutrality.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brian_Mast",
+    "https://www.ontheissues.org/FL/Brian_Mast.htm"
+   ],
+   "photo": {
+    "file": "File:Brian Mast official 115th Congress photo.jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "FL-21/james-martin",
+  "name": "James Martin",
+  "party": "Democratic",
+  "race": "FL-21",
+  "race_label": "Florida · US House FL-21",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": 70,
+    "energy": 65,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs public health option, opposes tariffs, orderly asylum with more judges, continued Ukraine aid, Everglades and estuary protection.",
+   "sources": [
+    "https://stetnews.org/2026/08/10/2-democrats-vie-to-unseat-brian-mast/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-21/alexander-cooke",
+  "name": "Alexander Cooke",
+  "party": "Independent",
+  "race": "FL-21",
+  "race_label": "Florida · US House FL-21",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN&OfficeCode=USR"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-22/pia-dandiya",
+  "name": "Pia Dandiya",
+  "party": "Democratic",
+  "race": "FL-22",
+  "race_label": "Florida · US House FL-22",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Wealthy pay fair share, end tariffs, reverse Medicaid cuts, protect Social Security, reproductive freedom, universal pre-K, fully fund public schools.",
+   "sources": [
+    "https://piaforcongress.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "FL-22/casey-askar",
+  "name": "Casey Askar",
+  "party": "Republican",
+  "race": "FL-22",
+  "race_label": "Florida · US House FL-22",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 70,
+    "security": null,
+    "immigration": 80,
+    "foreign": 65,
+    "energy": 15,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Cut taxes and regulation, end Obamacare, deport criminal migrants, peace through strength, expand oil and gas, parental rights, oppose transgender school bathroom policies.",
+   "sources": [
+    "https://www.caseyaskar.com/",
+    "https://www.wlrn.org/government-politics/2026-08-31/battle-lines-drawn-in-floridas-22nd-congressional-district-race-over-affordable-care-act"
+   ],
+   "photo": null
+  }
+ }
+]

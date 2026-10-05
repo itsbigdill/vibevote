@@ -1,0 +1,161 @@
+{
+  "baseline": {
+    "cd119_boundaries": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_cd119_500k.zip",
+    "zcta_cd119_relationship": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/cd-sld/tab20_cd11920_zcta520_natl.txt",
+    "zcta_boundaries": "https://www2.census.gov/geo/tiger/GENZ2020/shp/cb_2020_us_zcta520_500k.zip"
+  },
+  "redrawn": [
+    {
+      "state": "Texas",
+      "districts": 38,
+      "plan_name": "PLANC2333 (HB 4, 89th Legislature, 2nd Called Session)",
+      "enacted": "2025-08-29",
+      "legal_status": "A federal district court blocked the map on 2025-11-18, but the U.S. Supreme Court stayed that order on 2025-12-04, so PLANC2333 is in force for 2026 while the LULAC v. Abbott case continues.",
+      "files": [
+        {"url": "https://data.capitol.texas.gov/dataset/748c952b-e926-4f44-8d01-a738884b3ec8/resource/5712ebe1-d777-4d4a-b836-0534e17bca01/download/planc2333.zip", "format": "shapefile", "notes": "Texas Legislative Council Capitol Data Portal; dataset labeled 'Enacted by 89th Leg., 2nd C.S., 2025'; zip contains PLANC2333.shp/dbf/prj."},
+        {"url": "https://data.capitol.texas.gov/dataset/748c952b-e926-4f44-8d01-a738884b3ec8/resource/bc1ad997-3d59-40f7-8d7f-72a74bb4a5e4/download/planc2333_blk.zip", "format": "block-assignment", "notes": "PLANC2333.csv, columns SCTBKEY (2020 block GEOID), DISTRICT; checked: 38 districts."}
+      ],
+      "sources": [
+        "https://data.capitol.texas.gov/dataset/planc2333",
+        "https://redistricting.lls.edu/state/texas/",
+        "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+      ]
+    },
+    {
+      "state": "California",
+      "districts": 52,
+      "plan_name": "AB 604 (Election Rigging Response Act map, adopted by Proposition 50)",
+      "enacted": "2025-11-04",
+      "legal_status": "Voters approved Proposition 50 on 2025-11-04; a three-judge federal court upheld the map in January 2026 and the U.S. Supreme Court denied relief on 2026-02-04, so the AB 604 map is in force for 2026.",
+      "files": [
+        {"url": "https://selc.senate.ca.gov/system/files/2025-08/ab604.zip", "format": "shapefile", "notes": "CA Senate Elections & Constitutional Amendments Committee (the selc.senate.ca.gov/media/603 link redirects here); zip contains AB604.shp/dbf/prj plus __MACOSX junk entries."},
+        {"url": "https://selc.senate.ca.gov/system/files/2025-08/ab604.csv", "format": "block-assignment", "notes": "No header; columns are 2020 block GEOID and district; checked: 52 districts."},
+        {"url": "https://statewidedatabase.org/pub/data/d25/AB604%202025-08-16.zip", "format": "shapefile", "notes": "Mirror from the UC Berkeley Statewide Database, the Legislature's official redistricting database."},
+        {"url": "https://statewidedatabase.org/pub/data/d25/AB604.zip", "format": "block-assignment", "notes": "Statewide Database copy of the AB 604 block equivalency file (AB604.csv)."}
+      ],
+      "sources": [
+        "https://sdmg.senate.ca.gov/committeehome/2025-congressional-districts",
+        "https://statewidedatabase.org/",
+        "https://redistricting.lls.edu/state/california/",
+        "https://en.wikipedia.org/wiki/2025_California_Proposition_50"
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "districts": 14,
+      "plan_name": "S.L. 2025-95 (Senate Bill 249, 'Realign Congressional Districts 2025')",
+      "enacted": "2025-10-22",
+      "legal_status": "A three-judge federal court denied a preliminary injunction on 2025-11-26 (Williams v. Hall), so the S.L. 2025-95 map is in force for 2026.",
+      "files": [
+        {"url": "https://webservices.ncleg.gov/ViewBillDocument/2025/7667/0/SL%202025-95%20-%20Shapefile", "format": "shapefile", "notes": "NC General Assembly; zip contains 'SL 2025-95.shp' and related files. HEAD requests return 405; use GET."},
+        {"url": "https://webservices.ncleg.gov/ViewBillDocument/2025/7669/0/SL%202025-95%20-%20Block%20Assignment%20File", "format": "block-assignment", "notes": "Zip with 'SL 2025-95.csv' (Block, District); checked: 14 districts. Use GET."}
+      ],
+      "sources": [
+        "https://www.ncleg.gov/Redistricting",
+        "https://www.ncleg.gov/BillLookup/2025/S249",
+        "https://redistricting.lls.edu/state/north-carolina/"
+      ]
+    },
+    {
+      "state": "Ohio",
+      "districts": 15,
+      "plan_name": "Ohio Redistricting Commission Congressional District Plan (U.S. Congressional Districts 2026-2032)",
+      "enacted": "2025-10-31",
+      "legal_status": "The Ohio Redistricting Commission adopted the plan unanimously on 2025-10-31, replacing the 2022 plan that expired under the state constitution. The plan is not in litigation and applies from 2026.",
+      "files": [
+        {"url": "https://maps.ohio.gov/arcgis/rest/services/Hosted/Districts_2025_11_03_SHP/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=geojson", "format": "geojson", "notes": "State OGRIP layer 'Federal Congressional Districts (Ohio) 2026-2032', described as adopted by the Ohio Redistricting Commission in October 2025 (item https://www.arcgis.com/home/item.html?id=a1c97514126540a182851ce914396f5c); checked: 15 features, field 'district'. The Secretary of State's shapefile and block-assignment files at ohiosos.gov sit behind a Cloudflare bot challenge and could not be checked."},
+        {"url": "https://www2.census.gov/programs-surveys/decennial/rdo/mapping-files/2027/120-congressional-district-befs/cd120.zip", "format": "block-assignment", "notes": "Census Bureau 120th Congress block equivalency files submitted by the states (57 MB); use CD120_39.txt for Ohio."}
+      ],
+      "sources": [
+        "https://www.arcgis.com/sharing/rest/content/items/a1c97514126540a182851ce914396f5c?f=json",
+        "https://redistricting.lls.edu/state/ohio/",
+        "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio"
+      ]
+    },
+    {
+      "state": "Utah",
+      "districts": 4,
+      "plan_name": "Court-adopted Plaintiffs' Map 1 as adjusted ('Map 1A'), League of Women Voters v. Utah State Legislature",
+      "enacted": "2025-11-10",
+      "legal_status": "On 2025-11-10 Third District Judge Dianna Gibson blocked the Legislature's SB 1012 map and adopted the plaintiffs' map. The Republicans' state and federal appeals failed, so this map is in force for 2026.",
+      "files": [
+        {"url": "https://services1.arcgis.com/99lidPhWCzftIe9K/ArcGIS/rest/services/political_us_congress_districts_2026_to_2032/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=geojson", "format": "geojson", "notes": "Utah Geospatial Resource Center (SGID) layer 'Utah US Congress Districts 2026 to 2032', made from the court-provided Map 1A; checked: 4 features, field DISTRICT."}
+      ],
+      "sources": [
+        "https://gis.utah.gov/products/sgid/political/us-congressional-districts/",
+        "https://redistricting.lls.edu/state/utah/",
+        "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Utah"
+      ]
+    },
+    {
+      "state": "Florida",
+      "districts": 28,
+      "plan_name": "EOGPCRP2026 (HB 1-D, Special Session 2026-D)",
+      "enacted": "2026-05-04",
+      "legal_status": "The Legislature passed HB 1-D on 2026-04-29 and the governor signed it on 2026-05-04. A state-court Fair Districts challenge is pending, but a judge ruled on 2026-05-26 that the map stays in effect for 2026.",
+      "files": [
+        {"url": "https://edr.state.fl.us/content/redistricting/2026redistricting/EOGPCRP2026.zip", "format": "shapefile", "notes": "Office of Economic and Demographic Research official posting under HB 1-D (per the 2026-05-04 Senate President and House Speaker memo); zip contains EOGPCRP2026.shp/dbf/prj."},
+        {"url": "https://edr.state.fl.us/content/redistricting/2026redistricting/EOGPCRP2026.txt", "format": "block-assignment", "notes": "DOJ-format block equivalency file (GEOID,district), no header; checked: 28 districts."},
+        {"url": "https://www.flsenate.gov/PublishedContent/Session/Congressional/EOGPCRP2026.kmz", "format": "kml", "notes": "Florida Senate KMZ (zipped KML) for the same plan; the identical .zip and .txt are also at flsenate.gov/PublishedContent/Session/Congressional/."}
+      ],
+      "sources": [
+        "https://edr.state.fl.us/content/redistricting/index.cfm",
+        "https://edr.state.fl.us/content/redistricting/2026redistricting/5.4.26JointMemotoEDRReCongressionalPlan.pdf",
+        "https://www.flsenate.gov/Session/Redistricting/Congressional",
+        "https://redistricting.lls.edu/state/florida/"
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "districts": 9,
+      "plan_name": "HB 7003 (114th General Assembly, 2nd Extraordinary Session), U.S. Congress Districts adopted May 7, 2026",
+      "enacted": "2026-05-07",
+      "legal_status": "Signed on 2026-05-07. On 2026-05-26 a federal judge declined to temporarily block the map in the ACLU challenge, which is still pending, so the map is in force for 2026.",
+      "files": [
+        {"url": "https://comptroller.tn.gov/content/dam/cot/pa/documents/district-maps/congress-districts/NewCongressional26.zip", "format": "shapefile", "notes": "TN Comptroller (the state's redistricting GIS office); this is the target of the 'Download Shape Files' link on comptroller.tn.gov/maps/u-s--congress-districts.html; zip contains NewCongressional26.shp/dbf/prj."},
+        {"url": "https://www2.census.gov/programs-surveys/decennial/rdo/mapping-files/2027/120-congressional-district-befs/cd120.zip", "format": "block-assignment", "notes": "Census 120th Congress block equivalency files; use CD120_47.txt for Tennessee."}
+      ],
+      "sources": [
+        "https://comptroller.tn.gov/maps/u-s--congress-districts.html",
+        "https://comptroller.tn.gov/content/dam/cot/pa/documents/district-maps/statewide/USCongress2026New.pdf",
+        "https://redistricting.lls.edu/state/tennessee/",
+        "https://en.wikipedia.org/wiki/2026_Tennessee_redistricting"
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "districts": 6,
+      "plan_name": "Act 2 of the 2026 Regular Session (SB 121)",
+      "enacted": "2026-05-29",
+      "legal_status": "Enacted after Louisiana v. Callais (2026-04-29) struck the 2024 SB 8 map. Challenges in state and federal court are pending but have not blocked the map. Under it, U.S. House races hold an open primary on 2026-11-03 and a runoff on 2026-12-12.",
+      "files": [
+        {"url": "https://redist.legis.la.gov/2026_Files/Act2Congress/Shapefile/Shapefile%20-%20Act_2_(2026_RS).zip", "format": "shapefile", "notes": "Louisiana Legislature redistricting site; zip contains Act_2_(2026_RS).shp/dbf/prj."},
+        {"url": "https://redist.legis.la.gov/2026_Files/Act2Congress/Block%20Equivalency%20File/Block%20Equlivancy%20File%20-%20Act%202%20(2026%20RS%20-%20Congress).txt", "format": "block-assignment", "notes": "Whitespace-delimited GEOID and district; checked: 6 districts. The Legislature says it uses Senate-modified 2020 blocks that may not exactly match Census blocks. The Census CD120_22.txt in cd120.zip is an alternative on standard blocks."}
+      ],
+      "sources": [
+        "https://redist.legis.la.gov/",
+        "https://redist.legis.la.gov/2026_Files/2026CONGRESSACT2.aspx",
+        "https://redistricting.lls.edu/state/louisiana/",
+        "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Louisiana"
+      ]
+    },
+    {
+      "state": "Alabama",
+      "districts": 7,
+      "plan_name": "Livingston Congressional Plan 3-2023 (2023 SB 5 legislative plan), reinstated in place of the court's 2023 special master map used in 2024",
+      "enacted": "2023-07-21",
+      "legal_status": "The 2023 legislative plan had been enjoined under Allen v. Milligan. The U.S. Supreme Court vacated that injunction on 2026-05-11 and, on 2026-06-02, stayed the district court's renewed 2026-05-26 block, so the plan governs the 2026-08-11 special primaries (districts 1, 2, 6 and 7) and the November election while litigation continues.",
+      "files": [
+        {"url": "https://www.sos.alabama.gov/sites/default/files/06-03-2026/2023_CONGRESSIONAL_PLAN.zip", "format": "shapefile", "notes": "Alabama Secretary of State, State District Maps page; zip contains 2023_CONG_LEGISLATIVE_PLAN.shp/dbf/prj."},
+        {"url": "https://www2.census.gov/programs-surveys/decennial/rdo/mapping-files/2027/120-congressional-district-befs/cd120.zip", "format": "block-assignment", "notes": "Census 120th Congress block equivalency files; use CD120_01.txt for Alabama."}
+      ],
+      "sources": [
+        "https://www.sos.alabama.gov/alabama-votes/state-district-maps",
+        "https://www.sos.alabama.gov/sites/default/files/2026-5-14/Livingston%20Congressional%20Plan%203-2023%20Legal%20Description.pdf",
+        "https://redistricting.lls.edu/state/alabama/",
+        "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama"
+      ]
+    }
+  ],
+  "checked_unchanged": "The Census Bureau's 120th Congress page (https://www.census.gov/programs-surveys/decennial-census/about/rdo/congressional-districts.html) says only AL, CA, FL, LA, MO, NC, OH, TN, TX and UT submitted new lines and every other state kept its 2024 districts; I cross-checked this against the Loyola 'All About Redistricting' state data (updated 2026-09-10) and Wikipedia's 2025-2026 redistricting pages. Those sources also confirm that Missouri's 2025 HB 1 map was suspended for 2026 (state supreme court 2026-09-03, U.S. Supreme Court stay 2026-09-10), so Missouri uses its 2022 map even though Census products carry the 2025 plan. They also confirm that the Virginia referendum map was struck (2026-05-08), New York's NY-11 redraw was blocked (2026-03-02), Georgia keeps its 2023 map (used in 2024) through November 2026, and Maryland, Indiana, Kansas, South Carolina and Wisconsin did not change their maps."
+}

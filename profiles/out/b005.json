@@ -1,0 +1,431 @@
+[
+ {
+  "id": "IA-SEN/ashley-hinson",
+  "name": "Ashley Hinson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IA-2",
+  "bio": "Ashley Hinson has represented Iowa in the U.S. House since 2021, first the 1st district and since 2023 the 2nd district. She served in the Iowa House of Representatives from 2017 to 2021. Before politics she was a television news reporter and anchor, including more than a decade at KCRG-TV in Cedar Rapids.",
+  "website": "https://www.ashleyhinson.com",
+  "social": {
+   "x": "https://x.com/hinsonashley",
+   "instagram": "https://www.instagram.com/hinsonforhouse/",
+   "facebook": "https://www.facebook.com/AshleyHinsonIowa/",
+   "youtube": "https://www.youtube.com/channel/UCaPhZwEDLgaDU-Q4ehMSvHA"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Makes securing the U.S. border a lead priority of her Senate campaign.", "source": "https://www.ashleyhinson.com/"},
+   {"topic": "Government spending", "point": "Pledges to cut wasteful federal spending and run Washington more like Iowa.", "source": "https://www.ashleyhinson.com/"},
+   {"topic": "Taxes", "point": "Supports extending the 2017 tax cuts, including no tax on tips and overtime.", "source": "https://hinson.house.gov/issues"},
+   {"topic": "Education", "point": "Backs expanding school choice so families can pick schools regardless of zip code.", "source": "https://hinson.house.gov/issues"},
+   {"topic": "Child care", "point": "Seeks more affordable and accessible child care options for working families.", "source": "https://hinson.house.gov/issues"},
+   {"topic": "National security", "point": "Supports a peace-through-strength approach and military readiness against China, Russia and Iran.", "source": "https://hinson.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Voted against the American Rescue Plan and for the 2025 One Big Beautiful Bill Act extending tax cuts.", "source": "https://en.wikipedia.org/wiki/Ashley_Hinson"},
+   "welfare": {"score": 30, "evidence": "Voted for the 2025 reconciliation bill with Medicaid changes and has voiced openness to raising the Social Security retirement age.", "source": "https://en.wikipedia.org/wiki/Ashley_Hinson"},
+   "liberty": {"score": 45, "evidence": "Opposes abortion and voted for the Born-Alive act and against background-check bills, but co-sponsored the Respect for Marriage Act (abortion, guns, LGBTQ rights).", "source": "https://ballotpedia.org/Ashley_Hinson"},
+   "security": {"score": 80, "evidence": "Voted to extend FISA Section 702 surveillance authority in 2024.", "source": "https://clerk.house.gov/Votes/2024151"},
+   "immigration": {"score": 80, "evidence": "Voted for the Laken Riley Act and names border security as a top campaign priority.", "source": "https://www.ashleyhinson.com/"},
+   "foreign": {"score": 70, "evidence": "Voted for 2024 Ukraine aid and backs peace through strength against China, Russia and Iran.", "source": "https://hinson.house.gov/issues"},
+   "energy": {"score": 30, "evidence": "Supports year-round E15 biofuel sales and an all-of-the-above domestic energy approach.", "source": "https://ballotpedia.org/Ashley_Hinson"},
+   "tech": {"score": 60, "evidence": "Voted for the 2024 law requiring TikTok's divestment from its Chinese owner.", "source": "https://ballotpedia.org/Ashley_Hinson"},
+   "education": {"score": 30, "evidence": "Official site promotes expanding school choice for families.", "source": "https://hinson.house.gov/issues"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://ashleyhinson.com/wp-content/uploads/2025/07/S2920067.jpg",
+  "notes": ""
+ },
+ {
+  "id": "IA-SEN/josh-turek",
+  "name": "Josh Turek",
+  "party": "Democratic",
+  "current_role": "Iowa State Representative, 20th District",
+  "bio": "Josh Turek has represented the 20th district in the Iowa House of Representatives since 2023. He played professional wheelchair basketball in Europe for many years and won Paralympic gold medals with the U.S. team in 2016 and 2020. He is from Council Bluffs, Iowa.",
+  "website": "https://turek4iowa.com",
+  "social": {
+   "x": "https://x.com/Turek4Iowa",
+   "instagram": "https://www.instagram.com/joshturek4iowa",
+   "facebook": "https://www.facebook.com/Turek4Iowa",
+   "tiktok": "https://www.tiktok.com/@turek4iowa",
+   "youtube": "https://www.youtube.com/@JoshTurek4Iowa"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Restore Medicaid funding and ACA subsidies, cap drug costs and create a public option.", "source": "https://turek4iowa.com/platform"},
+   {"topic": "Labor", "point": "Index the minimum wage to inflation and pass the PRO Act to strengthen unions.", "source": "https://turek4iowa.com/platform"},
+   {"topic": "Cost of living", "point": "Cut middle-class taxes, close billionaire loopholes and ban food price gouging.", "source": "https://turek4iowa.com/platform"},
+   {"topic": "Housing and farmland", "point": "Bar private equity from buying single-family homes and farmland.", "source": "https://turek4iowa.com/platform"},
+   {"topic": "Education", "point": "End school vouchers and increase funding for public schools and Area Education Agencies.", "source": "https://turek4iowa.com/platform"},
+   {"topic": "Immigration", "point": "Pass bipartisan legislation pairing border enforcement with a simpler earned path to citizenship.", "source": "https://turek4iowa.com/platform"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Backs an inflation-indexed minimum wage, the PRO Act, closing billionaire tax loopholes and a food price-gouging ban.", "source": "https://turek4iowa.com/platform"},
+   "welfare": {"score": 80, "evidence": "Calls health care a human right and supports a public option and restored Medicaid funding.", "source": "https://turek4iowa.com/platform"},
+   "liberty": {"score": 5, "evidence": "Supports restoring Roe v. Wade and protecting contraception and IVF access (abortion); platform backs marriage equality (LGBTQ rights).", "source": "https://turek4iowa.com/platform"},
+   "security": null,
+   "immigration": {"score": 30, "evidence": "Pairs border enforcement with a simpler earned pathway to citizenship and ICE accountability.", "source": "https://turek4iowa.com/platform"},
+   "foreign": {"score": 30, "evidence": "Pledges to end unnecessary wars, called the 2026 Iran war unnecessary and criticized the scale of aid to Israel.", "source": "https://en.wikipedia.org/wiki/Josh_Turek"},
+   "energy": null,
+   "tech": null,
+   "education": {"score": 95, "evidence": "Wants to end school vouchers and raise public school and Education Department funding.", "source": "https://turek4iowa.com/platform"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://turek4iowa.com/images/JT-10.jpg",
+  "notes": "The Wikipedia portrait comes from the Iowa General Assembly under a 'copyrighted free use' permission, not an accepted licence, so no photo is set. The campaign image URL was taken from the platform page and may not be a tight headshot."
+ },
+ {
+  "id": "IA-GOV/rob-sand",
+  "name": "Rob Sand",
+  "party": "Democratic",
+  "current_role": "Iowa State Auditor",
+  "bio": "Rob Sand has served as Auditor of Iowa since 2019. He was previously an assistant attorney general from 2010 to 2017, prosecuting financial crimes including the Hot Lotto fraud case. He is from Decorah and holds degrees from Brown University and the University of Iowa College of Law.",
+  "website": "https://robsand.com",
+  "social": {
+   "x": "https://x.com/robsandia",
+   "instagram": "https://www.instagram.com/robsandia/",
+   "facebook": "https://www.facebook.com/robsandia",
+   "tiktok": "https://www.tiktok.com/@robsandiowa",
+   "youtube": "https://www.youtube.com/@robsandia"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Focus on economic development to lift Iowa's low rankings in growth and personal income.", "source": "https://robsand.com/priorities"},
+   {"topic": "Education", "point": "Invest in universal pre-K and scale back voucher program funding.", "source": "https://robsand.com/priorities"},
+   {"topic": "Health costs", "point": "Lower out-of-pocket health costs by reversing Medicaid privatization.", "source": "https://robsand.com/priorities"},
+   {"topic": "Public health", "point": "Address Iowa's fast-rising cancer rates and improve residents' overall health.", "source": "https://robsand.com/priorities"},
+   {"topic": "Kids online", "point": "Ban social media for children under 16 and require parental consent for ages 16-17.", "source": "https://robsand.com/issues/keep-iowa-kids-safe-online"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Proposes a higher minimum wage and data center rules as part of his affordability plan.", "source": "https://robsand.com/issues/making-life-more-affordable"},
+   "welfare": {"score": 70, "evidence": "Wants to end Medicaid privatization and create universal pre-K.", "source": "https://robsand.com/priorities"},
+   "liberty": {"score": 15, "evidence": "Supports legal cannabis and abortion rights (drugs, abortion).", "source": "https://robsand.com/priorities"},
+   "security": {"score": 60, "evidence": "Calls for tougher penalties for online predators and prison time for theft of taxpayer money.", "source": "https://robsand.com/issues/keep-iowa-kids-safe-online"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Campaign priorities include expanding renewable energy.", "source": "https://robsand.com/priorities"},
+   "tech": {"score": 90, "evidence": "Proposes an under-16 social media ban, algorithm audits and a ban on surveillance ads aimed at minors.", "source": "https://robsand.com/issues/keep-iowa-kids-safe-online"},
+   "education": {"score": 80, "evidence": "Plans universal pre-K and reduced funding for the state voucher program.", "source": "https://robsand.com/priorities"},
+   "faith": null
+  },
+  "photo": {"file": "File:Rob sand IA.png", "license": "CC BY-SA 4.0", "author": "Williamskt"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IA-GOV/zach-lahn",
+  "name": "Zach Lahn",
+  "party": "Republican",
+  "current_role": "Real estate and agriculture investor",
+  "bio": "Zach Lahn is a businessman who founded the real estate and farm investment firm Homeplace Ventures in 2016 and a Montessori-style private school in Wichita, Kansas. He previously managed Republican congressional campaigns and was Montana state director for Americans for Prosperity. He grew up in Hinton, near Sioux City, and won the June 2026 Republican primary for governor.",
+  "website": "https://www.zachlahn.com",
+  "social": {
+   "x": "https://x.com/ZachLahn",
+   "instagram": "https://www.instagram.com/zachlahnforiowa/",
+   "facebook": "https://www.facebook.com/ZachLahn"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Lower Iowans' tax burden while raising property taxes on Wall Street institutional investors.", "source": "https://www.zachlahn.com/policy/"},
+   {"topic": "Young Iowans", "point": "Offer tax rebates to young people who stay in or return to Iowa.", "source": "https://www.zachlahn.com/policy/"},
+   {"topic": "Education", "point": "Cut standardized testing, create innovation zones and revoke licences of teachers found pushing a political agenda in class.", "source": "https://www.zachlahn.com/policy/"},
+   {"topic": "Immigration", "point": "Bar benefits for people in the country illegally and limit H-1B hiring in state government and universities.", "source": "https://www.zachlahn.com/policy/"},
+   {"topic": "Abortion", "point": "Protect life before birth and address chronic health problems affecting children.", "source": "https://www.zachlahn.com/policy/"},
+   {"topic": "Data centers", "point": "Called for a moratorium on new AI data centers and a large tax increase on them.", "source": "https://en.wikipedia.org/wiki/Zach_Lahn"}
+  ],
+  "positions": {
+   "economy": {"score": 45, "evidence": "Seeks lower taxes overall but higher property taxes on institutional investors and antitrust action against large agribusiness.", "source": "https://www.zachlahn.com/policy/"},
+   "welfare": {"score": 25, "evidence": "Supports keeping Iowa's privatized Medicaid management.", "source": "https://en.wikipedia.org/wiki/Zach_Lahn"},
+   "liberty": {"score": 60, "evidence": "Opposes abortion but backs constitutional carry and guns on school property (abortion, guns).", "source": "https://en.wikipedia.org/wiki/Zach_Lahn"},
+   "security": null,
+   "immigration": {"score": 80, "evidence": "Would ban benefits for unauthorized immigrants and halt some H-1B hiring.", "source": "https://www.zachlahn.com/policy/"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Proposed a moratorium on new AI data centers and a steep tax increase on them.", "source": "https://en.wikipedia.org/wiki/Zach_Lahn"},
+   "education": {"score": 25, "evidence": "Founded a private school and backs expanding Iowa's education savings account voucher program.", "source": "https://en.wikipedia.org/wiki/Zach_Lahn"},
+   "faith": null
+  },
+  "photo": {"file": "File:Zach Lahn IA State Fair 2026.jog (cropped).jpg", "license": "CC0", "author": "Aunger67 (cropped by Raydo)"},
+  "campaign_photo": "",
+  "notes": "The liberty score averages his support for a total abortion ban with his support for constitutional carry."
+ },
+ {
+  "id": "KS-SEN/roger-marshall",
+  "name": "Roger Marshall",
+  "party": "Republican",
+  "current_role": "U.S. Senator from Kansas",
+  "bio": "Roger Marshall has represented Kansas in the U.S. Senate since 2021 after serving in the U.S. House for Kansas's 1st district from 2017 to 2021. Before Congress he practiced for decades as an obstetrician-gynecologist in Great Bend, Kansas.",
+  "website": "https://kansansformarshall.com",
+  "social": {
+   "x": "https://x.com/SenatorMarshall",
+   "instagram": "https://www.instagram.com/rogermarshallmd",
+   "facebook": "https://www.facebook.com/drrogermarshall",
+   "youtube": "https://www.youtube.com/channel/UCR3nOFMqBB-kRpKFwgapMaQ"
+  },
+  "platform": [
+   {"topic": "Agriculture", "point": "Pass a farm bill and seek fertilizer and diesel cost relief for farmers.", "source": "https://kansansformarshall.com/record"},
+   {"topic": "Rural health", "point": "Protect critical access hospitals and push Medicare prior-authorization and price transparency reforms.", "source": "https://kansansformarshall.com/record"},
+   {"topic": "Border", "point": "Continue enforcement efforts to secure the southern border.", "source": "https://kansansformarshall.com/record"},
+   {"topic": "Energy", "point": "Support oil, gas, wind and ethanol, including year-round E15 sales.", "source": "https://kansansformarshall.com/record"},
+   {"topic": "Cost of living", "point": "Make tax cuts permanent and work to bring down inflation.", "source": "https://kansansformarshall.com/record"},
+   {"topic": "Water", "point": "Promote conservation of the Ogallala Aquifer in western Kansas.", "source": "https://kansansformarshall.com/record"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Voted for the 2025 One Big Beautiful Bill Act and campaigns on permanent tax cuts.", "source": "https://kansansformarshall.com/record"},
+   "welfare": {"score": 15, "evidence": "Voted for the 2025 reconciliation law that cut Medicaid spending and added work requirements.", "source": "https://en.wikipedia.org/wiki/Roger_Marshall"},
+   "liberty": {"score": 65, "evidence": "Opposes abortion, voted against the 2022 gun-safety law and the Respect for Marriage Act (abortion, guns, LGBTQ rights).", "source": "https://en.wikipedia.org/wiki/Roger_Marshall"},
+   "security": {"score": 50, "evidence": "Supports law enforcement and border enforcement but voted against the 2024 FISA reauthorization.", "source": "https://en.wikipedia.org/wiki/Roger_Marshall"},
+   "immigration": {"score": 80, "evidence": "Voted for the Laken Riley Act and backs border wall construction and enforcement.", "source": "https://kansansformarshall.com/record"},
+   "foreign": {"score": 35, "evidence": "Voted against the 2024 $95 billion foreign aid package including Ukraine aid.", "source": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"},
+   "energy": {"score": 15, "evidence": "Backs oil and gas production and has questioned climate change.", "source": "https://en.wikipedia.org/wiki/Roger_Marshall"},
+   "tech": {"score": 60, "evidence": "Voted for the Kids Online Safety Act in 2024.", "source": "https://en.wikipedia.org/wiki/Roger_Marshall"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "An earlier education score was removed because the cited campaign record page does not mention education."
+ },
+ {
+  "id": "KS-SEN/adam-hamilton",
+  "name": "Adam Hamilton",
+  "party": "Democratic",
+  "current_role": "Pastor, Church of the Resurrection",
+  "bio": "Adam Hamilton founded the United Methodist Church of the Resurrection in Leawood, Kansas, in 1990 and led it as senior pastor for 36 years. He grew up in Prairie Village and studied at Oral Roberts University and Southern Methodist University's Perkins School of Theology. He describes himself as a centrist and is making his first run for office.",
+  "website": "https://hamiltonforkansas.com",
+  "social": {},
+  "platform": [
+   {"topic": "Health care", "point": "Reverse Medicaid cuts, restore ACA subsidies and extend Medicare drug price negotiation to private insurance.", "source": "https://hamiltonforkansas.com/issues"},
+   {"topic": "Trade", "point": "End current tariffs and require a congressional vote before new ones.", "source": "https://hamiltonforkansas.com/issues"},
+   {"topic": "Housing", "point": "Offer first-time buyer tax credits and bar institutional investors from buying single-family homes.", "source": "https://hamiltonforkansas.com/issues"},
+   {"topic": "Energy", "point": "Support domestic energy projects and restore energy production tax credits.", "source": "https://hamiltonforkansas.com/issues"},
+   {"topic": "Government reform", "point": "Ban stock trading by members of Congress and pass a constitutional amendment setting congressional term limits.", "source": "https://hamiltonforkansas.com/issues"},
+   {"topic": "Workers", "point": "Strengthen the right to organize, fight wage theft and prohibit AI-only hiring decisions.", "source": "https://hamiltonforkansas.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Backs union bargaining, junk-fee bans, ending tariffs and a ban on algorithmic grocery price-fixing.", "source": "https://hamiltonforkansas.com/issues"},
+   "welfare": {"score": 70, "evidence": "Wants Medicaid cuts reversed, ACA credits restored and Medicare expanded to vision and dental.", "source": "https://hamiltonforkansas.com/issues"},
+   "liberty": {"score": 10, "evidence": "Abortion: supports a woman's right to choose and opposes government interference in personal decisions.", "source": "https://hamiltonforkansas.com/issues"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 50, "evidence": "Backs domestic energy projects alongside restoring energy production tax credits.", "source": "https://hamiltonforkansas.com/issues"},
+   "tech": {"score": 70, "evidence": "Would prohibit employment decisions made solely by AI and ban algorithmic price-fixing.", "source": "https://hamiltonforkansas.com/issues"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Adam Hamilton on the Courage to Preach (cropped).png", "license": "CC BY 4.0", "author": "Working Preacher"},
+  "campaign_photo": "",
+  "notes": "The earlier photo carried only a Public Domain Mark from a church Flickr account, so it was replaced with the CC BY 4.0 Wikipedia infobox image. An earlier foreign-policy score was removed because no statement calling for an end to the Iran war could be confirmed."
+ },
+ {
+  "id": "KS-GOV/cindy-holscher",
+  "name": "Cindy Holscher",
+  "party": "Democratic",
+  "current_role": "Kansas State Senator, 8th District",
+  "bio": "Cindy Holscher has represented the 8th district in the Kansas Senate since 2021 after serving in the Kansas House from 2017 to 2021. She worked in corporate management at Sprint and as a substitute teacher in Johnson County. She grew up on a farm near Slater, Missouri, and graduated from the University of Missouri.",
+  "website": "https://www.cindyforkansas.com",
+  "social": {
+   "x": "https://x.com/cindy4kansas",
+   "instagram": "https://www.instagram.com/cindyforkansas/",
+   "facebook": "https://www.facebook.com/cindyforkansas/"
+  },
+  "platform": [
+   {"topic": "Property taxes", "point": "Cut property taxes so rising bills do not force people from their homes.", "source": "https://www.cindyforkansas.com/issues"},
+   {"topic": "Health care", "point": "Make health care accessible and affordable, including Medicaid expansion.", "source": "https://www.cindyforkansas.com/issues"},
+   {"topic": "Data centers", "point": "Pause approvals of new data centers until safeguards are in place.", "source": "https://www.cindyforkansas.com/issues"},
+   {"topic": "Corruption", "point": "End special deals for billionaire executives.", "source": "https://www.cindyforkansas.com/issues"},
+   {"topic": "Education", "point": "Invest in Kansas children and fully fund public schools.", "source": "https://www.cindyforkansas.com/issues"},
+   {"topic": "Cannabis", "point": "Legalize recreational and medical cannabis.", "source": "https://www.cindyforkansas.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Introduced a bill raising the state minimum wage to $16 and campaigns against special deals for billionaire executives.", "source": "https://www.kwch.com/2026/02/04/candidate-kansas-governor-proposes-bill-raise-minimum-wage/"},
+   "welfare": {"score": 80, "evidence": "Supports Medicaid expansion and protecting Social Security, Medicare and Medicaid.", "source": "https://www.cindyforkansas.com/issues"},
+   "liberty": {"score": 10, "evidence": "Supports cannabis legalization and reproductive health care access (drugs, abortion).", "source": "https://www.democracynow.org/2026/8/7/cindy_holscher"},
+   "security": null,
+   "immigration": {"score": 15, "evidence": "Opposed reopening the Leavenworth immigrant detention facility and pledged to resist federal enforcement policies.", "source": "https://www.democracynow.org/2026/8/7/cindy_holscher"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Proposes a statewide moratorium on new hyperscale data centers.", "source": "https://www.cindyforkansas.com/issues"},
+   "education": {"score": 95, "evidence": "Prioritizes public school funding and opposes measures she says threaten it.", "source": "https://www.cindyforkansas.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "KS-GOV/ty-masterson",
+  "name": "Ty Masterson",
+  "party": "Republican",
+  "current_role": "President of the Kansas Senate",
+  "bio": "Ty Masterson has been President of the Kansas Senate since 2021 and has represented the 16th Senate district since 2009, after serving in the Kansas House from 2005 to 2009. He was a construction business owner and served as mayor of Andover. He was born in El Dorado and raised in Butler County.",
+  "website": "https://www.mastersonforgovernor.com",
+  "social": {},
+  "platform": [
+   {"topic": "Property taxes", "point": "Pass a Homeowners Bill of Rights to rein in rising property taxes.", "source": "https://www.mastersonforgovernor.com"},
+   {"topic": "Utility costs", "point": "Adopt a ratepayer protection pledge to shield families, farms and businesses from higher costs.", "source": "https://www.mastersonforgovernor.com"},
+   {"topic": "Taxes and spending", "point": "Lower taxes and reduce state government spending.", "source": "https://www.mastersonforgovernor.com"},
+   {"topic": "Public safety", "point": "Strengthen public safety and support communities.", "source": "https://www.mastersonforgovernor.com"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Led a $2 billion state tax cut as Senate President and campaigns on lower taxes and spending.", "source": "https://www.mastersonforgovernor.com"},
+   "welfare": null,
+   "liberty": {"score": 80, "evidence": "Abortion: backed a court amendment he said could let abortion rights be revisited and opposes taxpayer-funded abortion; LGBTQ: opposes gender procedures for minors without parental knowledge.", "source": "https://lawrencekstimes.com/2026/09/12/kr-gov-candidate-debate-fair-26/"},
+   "security": {"score": 65, "evidence": "Campaign lists safer streets among the results of his legislative leadership.", "source": "https://www.mastersonforgovernor.com"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 25, "evidence": "Supports data center development and voted for a tax exemption for large data center projects.", "source": "https://lawrencekstimes.com/2026/09/12/kr-gov-candidate-debate-fair-26/"},
+   "education": {"score": 15, "evidence": "Defended school vouchers in a September debate as an option for students in struggling schools.", "source": "https://lawrencekstimes.com/2026/09/12/kr-gov-candidate-debate-fair-26/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/6a8d9f76c88ab841162aae2c/9b315f67-9da2-4ce9-90a6-40000d7aed55/037_%C2%A9chelseamitchellphoto_DSC_5292.jpg",
+  "notes": "An earlier immigration score was removed because no immigration statement could be confirmed. No campaign social accounts or free-licence portrait were found."
+ },
+ {
+  "id": "KY-SEN/charles-booker",
+  "name": "Charles Booker",
+  "party": "Democratic",
+  "current_role": "Former Kentucky State Representative",
+  "bio": "Charles Booker represented Louisville's 43rd district in the Kentucky House from 2019 to 2021 and later led the Governor's Office of Faith-Based Initiatives from 2023 to 2025. He previously worked for the Legislative Research Commission and state agencies. He is from Louisville and was the Democratic nominee for U.S. Senate in 2022.",
+  "website": "https://charlesbookerky.org",
+  "social": {
+   "x": "https://x.com/Booker4KY",
+   "instagram": "https://www.instagram.com/booker4ky/",
+   "facebook": "https://www.facebook.com/Booker4KY/",
+   "youtube": "https://www.youtube.com/channel/UCtw_5pir8O7aY9ZFePWCIgg"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Treat health care as a human right, including affordable prescriptions.", "source": "https://charlesbookerky.org/why-im-running"},
+   {"topic": "Jobs", "point": "Bring union jobs with fair wages to every Kentucky county.", "source": "https://charlesbookerky.org/why-im-running"},
+   {"topic": "Poverty", "point": "End poverty through housing, childcare and food security policy.", "source": "https://charlesbookerky.org/why-im-running"},
+   {"topic": "Environment", "point": "Protect clean water and air and build flood-resistant homes.", "source": "https://charlesbookerky.org/why-im-running"},
+   {"topic": "Justice and voting", "point": "Pursue criminal justice reform and protect voting rights.", "source": "https://charlesbookerky.org/why-im-running"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Proposes a $45,000 minimum income plan and union jobs in every county.", "source": "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"},
+   "welfare": {"score": 95, "evidence": "Supports single-payer Medicare for All and universal basic income.", "source": "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"},
+   "liberty": {"score": 15, "evidence": "Opposes Kentucky's abortion ban and supports legal protections for abortion (abortion).", "source": "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"},
+   "security": {"score": 20, "evidence": "Led the push for Breonna's Law banning no-knock warrants and opposes larger police budgets.", "source": "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"},
+   "immigration": {"score": 10, "evidence": "Has called for abolishing ICE.", "source": "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"},
+   "foreign": {"score": 25, "evidence": "Describes Israel's actions in Gaza as genocide.", "source": "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"},
+   "energy": {"score": 95, "evidence": "Supports the Green New Deal.", "source": "https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Charles solar panels (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Breadwin"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "KY-SEN/andy-barr",
+  "name": "Andy Barr",
+  "party": "Republican",
+  "current_role": "U.S. Representative for KY-6",
+  "bio": "Andy Barr has represented Kentucky's 6th congressional district in the U.S. House since 2013. An attorney, he previously served as deputy general counsel in the administration of Governor Ernie Fletcher. He was born in Lexington, Kentucky.",
+  "website": "https://barrforsenate.com",
+  "social": {
+   "x": "https://x.com/RepAndyBarr",
+   "instagram": "https://www.instagram.com/RepAndyBarr",
+   "facebook": "https://www.facebook.com/RepAndyBarr",
+   "youtube": "https://www.youtube.com/RepAndyBarr"
+  },
+  "platform": [
+   {"topic": "Border security", "point": "Lists border security as a leading campaign issue.", "source": "https://barrforsenate.com/"},
+   {"topic": "Taxes", "point": "Defend and extend the Trump tax cuts.", "source": "https://barrforsenate.com/"},
+   {"topic": "Energy", "point": "Support Kentucky energy production, including coal.", "source": "https://barrforsenate.com/"},
+   {"topic": "Guns", "point": "Protect Second Amendment rights.", "source": "https://barrforsenate.com/"},
+   {"topic": "China", "point": "Confront China economically and strategically.", "source": "https://barrforsenate.com/"},
+   {"topic": "Women's sports", "point": "Keep girls' sports limited to biological females.", "source": "https://barrforsenate.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2017 Tax Cuts and Jobs Act and campaigns on the Trump tax cuts.", "source": "https://en.wikipedia.org/wiki/Andy_Barr"},
+   "welfare": {"score": 20, "evidence": "Supports repealing the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Andy_Barr"},
+   "liberty": {"score": 90, "evidence": "Opposes abortion funding, opposed the Obergefell ruling and campaigns on gun rights (abortion, LGBTQ rights, guns).", "source": "https://en.wikipedia.org/wiki/Andy_Barr"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Seeks to end birthright citizenship and campaigns on border security.", "source": "https://www.wuky.org/wuky-news/2025-06-27/barr-seeks-to-undo-birthright-citizenship-and-put-an-end-to-this-debate"},
+   "foreign": {"score": 80, "evidence": "Strongly supports Israel and campaigns on confronting China.", "source": "https://en.wikipedia.org/wiki/Andy_Barr"},
+   "energy": {"score": 15, "evidence": "Opposes a carbon tax, defends the coal industry and questions climate science consensus.", "source": "https://en.wikipedia.org/wiki/Andy_Barr"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Social links are his official House accounts; no campaign accounts were listed on the campaign site."
+ },
+ {
+  "id": "LA-SEN/jamie-davis",
+  "name": "Jamie Davis",
+  "party": "Democratic",
+  "current_role": "Farmer and business owner",
+  "bio": "Jamie Davis is a farmer who runs Davis Farms in Tensas Parish, growing crops on Delta land his grandfather worked. He is a business owner and has served on the Tensas Parish Police Jury. He won the 2026 Democratic Senate primary in all 64 Louisiana parishes.",
+  "website": "https://jamieforlouisiana.com",
+  "social": {
+   "instagram": "https://www.instagram.com/jamieforlouisiana",
+   "facebook": "https://www.facebook.com/jamieforlouisiana",
+   "tiktok": "https://www.tiktok.com/@jamieforlouisiana"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Raise the federal minimum wage and roll back 2025 tax provisions that benefit billionaires.", "source": "https://jamieforlouisiana.com/issues"},
+   {"topic": "Insurance", "point": "Require insurers to justify rates, add a federal backstop and strengthen flood insurance.", "source": "https://jamieforlouisiana.com/issues"},
+   {"topic": "Health care", "point": "Protect at-risk rural hospitals and negotiate drug prices through Medicare.", "source": "https://jamieforlouisiana.com/issues"},
+   {"topic": "Farms", "point": "Pass a farm bill with reference pricing and control diesel and fertilizer costs.", "source": "https://jamieforlouisiana.com/issues"},
+   {"topic": "Clean air", "point": "Enforce the Clean Air Act and require independent pollution monitoring in the industrial corridor.", "source": "https://jamieforlouisiana.com/issues"},
+   {"topic": "AI and data centers", "point": "Make data centers pay for their own power and set AI guardrails against scams and deepfakes.", "source": "https://jamieforlouisiana.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Backs a higher minimum wage, reversing 2025 billionaire tax cuts and action against price gouging.", "source": "https://jamieforlouisiana.com/issues"},
+   "welfare": {"score": 80, "evidence": "Supports expanding health coverage and lowering premiums and drug prices.", "source": "https://jamieforlouisiana.com/issues"},
+   "liberty": {"score": 40, "evidence": "Pledges to defend the Second Amendment while backing background checks (guns).", "source": "https://jamieforlouisiana.com/issues"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 65, "evidence": "Supports energy transition jobs and stricter Clean Air Act enforcement.", "source": "https://jamieforlouisiana.com/issues"},
+   "tech": {"score": 70, "evidence": "Calls for AI guardrails on privacy, scams and deepfakes and community say over data centers.", "source": "https://jamieforlouisiana.com/issues"},
+   "education": {"score": 75, "evidence": "Wants stronger public school funding, higher teacher pay and special education support.", "source": "https://jamieforlouisiana.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site places him in both Ferriday and Waterproof in Tensas Parish area; no Wikipedia article or free-licence portrait was found."
+ },
+ {
+  "id": "LA-SEN/julia-letlow",
+  "name": "Julia Letlow",
+  "party": "Republican",
+  "current_role": "U.S. Representative for LA-5",
+  "bio": "Julia Letlow has represented Louisiana's 5th congressional district since 2021 and sits on the Appropriations and Education and the Workforce committees. She previously held administrative roles at Tulane University School of Medicine and the University of Louisiana at Monroe. She is from Monroe and holds a PhD in communications from the University of South Florida.",
+  "website": "https://www.julialetlow.com",
+  "social": {
+   "x": "https://twitter.com/jbletlow",
+   "instagram": "https://www.instagram.com/julialetlowla05/",
+   "facebook": "https://www.facebook.com/julialetlow/",
+   "youtube": "https://www.youtube.com/channel/UCOwFFI7RR__hc67BdW6gUMA"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Finish the border wall, deport criminal migrants and require nationwide E-Verify.", "source": "https://www.julialetlow.com/policyplan"},
+   {"topic": "Cost of living", "point": "Make the Trump tax cuts permanent and expand the Child Tax Credit for working families.", "source": "https://www.julialetlow.com/policyplan"},
+   {"topic": "Parents' rights", "point": "Pass a national Parents' Bill of Rights and expand school choice.", "source": "https://www.julialetlow.com/policyplan"},
+   {"topic": "Energy", "point": "Expand oil and gas production, speed LNG export approvals and open more Gulf development.", "source": "https://www.julialetlow.com/policyplan"},
+   {"topic": "Elections", "point": "Pass the SAVE America Act requiring proof of citizenship to vote.", "source": "https://www.julialetlow.com/policyplan"},
+   {"topic": "Flood insurance", "point": "Reform the National Flood Insurance Program and roll back premium increases.", "source": "https://www.julialetlow.com/policyplan"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Plans to make the Trump tax cuts permanent, cut regulations and reduce spending.", "source": "https://www.julialetlow.com/policyplan"},
+   "welfare": {"score": 25, "evidence": "Emphasizes spending cuts while backing an expanded Child Tax Credit for working families.", "source": "https://www.julialetlow.com/policyplan"},
+   "liberty": {"score": 60, "evidence": "Opposes abortion, defends gun rights and would ban gender transition care for minors (abortion, guns, LGBTQ rights).", "source": "https://en.wikipedia.org/wiki/Julia_Letlow"},
+   "security": {"score": 70, "evidence": "Plan calls for designating Mexican cartels as terrorist organizations and raising fentanyl trafficking penalties.", "source": "https://www.julialetlow.com/policyplan"},
+   "immigration": {"score": 90, "evidence": "Calls for finishing the wall, deporting criminal migrants, defunding sanctuary cities and national E-Verify.", "source": "https://www.julialetlow.com/policyplan"},
+   "foreign": {"score": 70, "evidence": "Opposed 2026 Iran war powers resolutions and backs more Navy and Coast Guard procurement.", "source": "https://en.wikipedia.org/wiki/Julia_Letlow"},
+   "energy": {"score": 15, "evidence": "Wants expanded oil, gas and offshore production and rollback of energy regulations.", "source": "https://www.julialetlow.com/policyplan"},
+   "tech": null,
+   "education": {"score": 10, "evidence": "Authored the House-passed Parents Bill of Rights and supports expanding school choice.", "source": "https://en.wikipedia.org/wiki/Julia_Letlow"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

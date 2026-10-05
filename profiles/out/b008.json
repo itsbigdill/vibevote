@@ -1,0 +1,431 @@
+[
+ {
+  "id": "MT-SEN/alani-bankhead",
+  "name": "Alani Bankhead",
+  "party": "Democratic",
+  "current_role": "Retired U.S. Air Force lieutenant colonel",
+  "bio": "Alani Bankhead is a retired Air Force lieutenant colonel and former federal supervisory special agent who worked in counterintelligence and on child sex crime cases. She served about 20 years in the military and federal government, including as a senior Pentagon protective agent, before relocating to Montana. She is the Democratic nominee for U.S. Senate in Montana.",
+  "website": "https://www.alaniformt.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Health care", "point": "Proposes a Medicaid for All program and more rural hospital funding, paid for by redirecting unspent military funds.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"},
+   {"topic": "Housing", "point": "Offer tax breaks to builders whose projects include at least 30% affordable units.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"},
+   {"topic": "Human trafficking", "point": "Seeks federal legislation to strengthen enforcement, align statutes of limitations across states and add training and resources for prosecutors.", "source": "https://www.ktvq.com/news/montana-politics/democrat-alani-bankhead-focuses-on-housing-trafficking-and-accountability-in-montana-u-s-senate-race"},
+   {"topic": "War powers", "point": "Supports enforcing the War Powers Resolution and says the Iran conflict lacked congressional approval.", "source": "https://www.ktvq.com/news/montana-politics/democrat-alani-bankhead-focuses-on-housing-trafficking-and-accountability-in-montana-u-s-senate-race"},
+   {"topic": "Public lands", "point": "Pledges to protect Montana public lands from exploitation and development.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"},
+   {"topic": "Education", "point": "Wants to fund teacher salaries and schools as a route out of poverty.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Proposes builder tax breaks tied to affordable-unit requirements and redirecting unspent military funds to health care.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"},
+   "welfare": {"score": 90, "evidence": "Supports Medicaid for All funded through Pentagon budget changes.", "source": "https://www.ktvq.com/news/montana-politics/democrat-alani-bankhead-focuses-on-housing-trafficking-and-accountability-in-montana-u-s-senate-race"},
+   "liberty": null,
+   "security": {"score": 55, "evidence": "Calls for stronger trafficking enforcement and more law enforcement resources and prosecutor training.", "source": "https://www.ktvq.com/news/montana-politics/democrat-alani-bankhead-focuses-on-housing-trafficking-and-accountability-in-montana-u-s-senate-race"},
+   "immigration": null,
+   "foreign": {"score": 25, "evidence": "Would shift military spending to domestic needs and opposes the Iran conflict as lacking congressional approval.", "source": "https://www.ktvq.com/news/montana-politics/democrat-alani-bankhead-focuses-on-housing-trafficking-and-accountability-in-montana-u-s-senate-race"},
+   "energy": {"score": 65, "evidence": "Commits to protecting public lands from exploitation or development.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"},
+   "tech": null,
+   "education": {"score": 70, "evidence": "Prioritizes funding teacher salaries and public education.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/"},
+   "faith": null
+  },
+  "photo": {"file": "File:Alani Bankhead USAF 2021.png", "license": "Public domain", "author": "Technical Sergeant Nicholas Brown, U.S. Air Force"},
+  "campaign_photo": "https://www.alaniformt.com/assets/alani-cutout-trim.png",
+  "notes": "The earlier tech score (AI data protections) could not be confirmed in the sources reviewed, so it was set to null."
+ },
+ {
+  "id": "MT-SEN/kyle-austin",
+  "name": "Kyle Austin",
+  "party": "Libertarian",
+  "current_role": "Pharmacist and pharmacy owner",
+  "bio": "Kyle Austin is a fourth-generation Montanan who grew up on a family farm on the Hi-Line and holds a Doctor of Pharmacy degree. He has worked as a pharmacist for about 18 years, founded an independent pharmacy in Billings and hosts a weekly community broadcast. He is the Libertarian nominee for U.S. Senate in Montana.",
+  "website": "https://www.kyleaustinmt.com",
+  "social": {
+   "x": "https://x.com/austin4senatemt",
+   "instagram": "https://www.instagram.com/austin4senatemt",
+   "facebook": "https://www.facebook.com/profile.php?id=61556644971084",
+   "tiktok": "https://www.tiktok.com/@austin4senatemt",
+   "youtube": "https://www.youtube.com/@MyFellowMontanans"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Proposes a Healthcare 2.0 overhaul with lower premiums and no annual deductibles, without added taxpayer cost.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/"},
+   {"topic": "Government spending", "point": "Pledges to cut government overreach and wasteful spending.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/"},
+   {"topic": "Agriculture", "point": "Would overhaul the USDA, keep farmers out of trade wars, offer 0% USDA financing and back domestic fertilizer production.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/"},
+   {"topic": "Housing", "point": "Seeks lower interest rates, fewer construction barriers, zero tariffs on building materials and support for logging.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/"},
+   {"topic": "Gun rights", "point": "Supports unrestricted access to firearms for Americans.", "source": "https://www.kyleaustinmt.com"},
+   {"topic": "War powers", "point": "Supports enforcing the War Powers Resolution's requirement for congressional authorization.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Calls for cutting spending and regulatory overreach and for zero tariffs.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/"},
+   "welfare": {"score": 35, "evidence": "Proposes a health care overhaul lowering premiums without added taxpayer cost rather than expanding public programs.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/"},
+   "liberty": {"score": 15, "evidence": "Guns: supports unrestricted access to bear arms; no stated positions found on abortion, drugs, LGBTQ rights or speech.", "source": "https://www.kyleaustinmt.com"},
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 40, "evidence": "Supports enforcing the War Powers Resolution to require congressional authorization for military action.", "source": "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The liberty score rests only on his gun-rights position. No other stated positions on abortion, drugs, LGBTQ rights or speech were found."
+ },
+ {
+  "id": "NE-SEN/pete-ricketts",
+  "name": "Pete Ricketts",
+  "party": "Republican",
+  "current_role": "U.S. Senator for Nebraska",
+  "bio": "Pete Ricketts is a U.S. Senator from Nebraska, appointed in January 2023 and elected in the 2024 special election. He served as Nebraska's 40th governor from 2015 to 2023 and earlier was chief operating officer at Ameritrade. He is from Nebraska City, Nebraska.",
+  "website": "https://petericketts.com/",
+  "social": {
+   "x": "https://x.com/PeteRicketts",
+   "facebook": "https://www.facebook.com/PeteRickettsNE",
+   "instagram": "https://www.instagram.com/SenatorRicketts",
+   "youtube": "https://www.youtube.com/@rickettsforsenate"
+  },
+  "platform": [
+   {"topic": "Agriculture", "point": "Supports Nebraska farmers and ranchers, including expanding a federal program for small rural businesses.", "source": "https://petericketts.com/ricketts-wants-to-beef-up-federal-program-that-grows-small-rural-businesses/"},
+   {"topic": "Government spending", "point": "Aims to rein in the size and spending of the federal government.", "source": "https://www.ricketts.senate.gov/"},
+   {"topic": "Border security", "point": "Lists securing the southern border as a top priority.", "source": "https://www.ricketts.senate.gov/"},
+   {"topic": "Energy", "point": "Promotes domestic energy production for energy independence.", "source": "https://www.ricketts.senate.gov/"},
+   {"topic": "China", "point": "Works to counter Chinese threats to U.S. farming and opposes selling advanced AI chips to China.", "source": "https://petericketts.com/fetterman-ricketts-join-forces-to-counter-chinas-threat-to-us-farming/"},
+   {"topic": "Defense", "point": "Backs a peace-through-strength approach to national defense.", "source": "https://www.ricketts.senate.gov/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Signed $12.7 billion in tax cuts as governor and backed the 2025 tax-cut legislation.", "source": "https://en.wikipedia.org/wiki/Pete_Ricketts"},
+   "welfare": {"score": 15, "evidence": "Opposed Medicaid expansion under the Affordable Care Act as governor.", "source": "https://en.wikipedia.org/wiki/Pete_Ricketts"},
+   "liberty": {"score": 70, "evidence": "Abortion: supports a total ban; drugs: opposes marijuana legalization; guns: declared Nebraska a Second Amendment sanctuary.", "source": "https://en.wikipedia.org/wiki/Pete_Ricketts"},
+   "security": {"score": 70, "evidence": "Strong death penalty supporter who funded the 2016 referendum to reinstate it.", "source": "https://en.wikipedia.org/wiki/Pete_Ricketts"},
+   "immigration": {"score": 85, "evidence": "Lists securing the border as a core Senate priority and opposed DACA driver's licenses as governor.", "source": "https://www.ricketts.senate.gov/"},
+   "foreign": {"score": 80, "evidence": "Supports Israel, backed the 2026 Iran military action and advocates peace through strength against China.", "source": "https://en.wikipedia.org/wiki/Pete_Ricketts"},
+   "energy": {"score": 20, "evidence": "Opposed the Clean Power Plan and supported the Keystone XL pipeline.", "source": "https://en.wikipedia.org/wiki/Pete_Ricketts"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://petericketts.com/wp-content/uploads/2025/08/D232837-1.jpeg",
+  "notes": "Liberty lowered from 95 to 70 because his gun-rights record offsets his abortion and cannabis positions in the average. The earlier education score of 30 was set to null because no school-choice evidence was confirmed in the sources reviewed."
+ },
+ {
+  "id": "NE-SEN/dan-osborn",
+  "name": "Dan Osborn",
+  "party": "Independent",
+  "current_role": "Union leader and industrial mechanic",
+  "bio": "Dan Osborn is an Omaha labor leader and Navy and Army National Guard veteran who worked as an industrial mechanic at Kellogg's Omaha plant. As president of BCTGM Local 50G he led the 2021 Kellogg's strike, and he now works in boiler maintenance at Boys Town. He ran as an independent for U.S. Senate in 2024, losing 53% to 47%, and is running again in 2026.",
+  "website": "https://osbornforsenate.com/",
+  "social": {
+   "x": "https://x.com/OsbornForNE",
+   "instagram": "https://www.instagram.com/osbornforne/",
+   "facebook": "https://www.facebook.com/osbornforne",
+   "tiktok": "https://www.tiktok.com/@osbornforne"
+  },
+  "platform": [
+   {"topic": "Anti-corruption", "point": "Pledges a strong anti-corruption platform aimed at corporate influence and lobbying.", "source": "https://osbornforsenate.com/plans"},
+   {"topic": "Workers", "point": "Supports raising the minimum wage and making union organizing easier.", "source": "https://en.wikipedia.org/wiki/Dan_Osborn"},
+   {"topic": "Agriculture", "point": "Targets corporate monopolies in agriculture to restore competitive markets for family farms and ranches.", "source": "https://osbornforsenate.com/plans"},
+   {"topic": "Social Security", "point": "Would raise the payroll tax cap on high earners and return full retirement age to 65.", "source": "https://en.wikipedia.org/wiki/Dan_Osborn"},
+   {"topic": "Federal budget", "point": "Proposes cutting waste and corporate subsidies to address the national debt.", "source": "https://osbornforsenate.com/plans"},
+   {"topic": "Immigration", "point": "Backs border wall construction while exploring legal status for long-term, non-criminal undocumented workers.", "source": "https://en.wikipedia.org/wiki/Dan_Osborn"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports raising the minimum wage, opposing monopolies and easier union organizing.", "source": "https://en.wikipedia.org/wiki/Dan_Osborn"},
+   "welfare": {"score": 65, "evidence": "Would raise the Social Security contribution cap and lower full retirement age to 65.", "source": "https://en.wikipedia.org/wiki/Dan_Osborn"},
+   "liberty": {"score": 20, "evidence": "Drugs: backs cannabis legalization; guns: supports Second Amendment; abortion: supports access within Roe limits, opposes national ban.", "source": "https://en.wikipedia.org/wiki/Dan_Osborn"},
+   "security": {"score": 45, "evidence": "Says ICE should follow the same standards as other law enforcement.", "source": "https://www.ontheissues.org/Senate/Dan_Osborn.htm"},
+   "immigration": {"score": 60, "evidence": "Supports a border wall alongside legalization for long-term non-criminal workers.", "source": "https://en.wikipedia.org/wiki/Dan_Osborn"},
+   "foreign": {"score": 25, "evidence": "Criticized the 2026 Iran operation, opposes forever wars and would limit Israel funding to defensive purposes.", "source": "https://en.wikipedia.org/wiki/Dan_Osborn"},
+   "energy": {"score": 55, "evidence": "Supports solar on private land and keeping air, water and land clean.", "source": "https://www.ontheissues.org/Senate/Dan_Osborn.htm"},
+   "tech": {"score": 65, "evidence": "Champions right-to-repair rules and opposes corporate monopolies.", "source": "https://www.ontheissues.org/Senate/Dan_Osborn.htm"},
+   "education": {"score": 80, "evidence": "Opposes voucher programs for private schools.", "source": "https://www.ontheissues.org/Senate/Dan_Osborn.htm"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/680ed99393a4d37d929c3cdd/0dc1f3b5-dba8-4108-aae1-1f4f451e0972/OsbornforSenate_HeroPhoto.jpg",
+  "notes": "The Commons file 'Osborn Headshot 2' is a campaign-style headshot claimed as an uploader's own work with no permission record, so it was not used."
+ },
+ {
+  "id": "NE-GOV/jim-pillen",
+  "name": "Jim Pillen",
+  "party": "Republican",
+  "current_role": "Governor of Nebraska",
+  "bio": "Jim Pillen has been Governor of Nebraska since 2023. A veterinarian from Columbus, he chairs the livestock business Pillen Family Farms and served on the University of Nebraska Board of Regents from 2012 to 2023. He is seeking a second term in 2026.",
+  "website": "https://jimpillen.com/",
+  "social": {
+   "x": "https://x.com/jim_pillen",
+   "facebook": "https://www.facebook.com/JimPillenforGovernor",
+   "youtube": "https://www.youtube.com/channel/UCIzKXspR05a-D5QwX75C8Fw"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Aims to lower the overall tax burden, especially property taxes for homeowners and families.", "source": "https://jimpillen.com/"},
+   {"topic": "Kids and phones", "point": "Supports banning phones in classrooms to limit social media's effect on children.", "source": "https://jimpillen.com/"},
+   {"topic": "Women's sports", "point": "Promotes the Stand with Women Act on sex-based protections.", "source": "https://jimpillen.com/"},
+   {"topic": "Elections", "point": "Backs winner-take-all allocation of Nebraska's electoral votes.", "source": "https://jimpillen.com/"},
+   {"topic": "Agriculture", "point": "Supports Nebraska farmers and ranchers and opposes alternative meat products.", "source": "https://jimpillen.com/"},
+   {"topic": "Government efficiency", "point": "Seeks to streamline state government by eliminating redundancies.", "source": "https://jimpillen.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Says Nebraskans are overtaxed and wants a low-tax state; opposes higher taxes on the wealthy.", "source": "https://www.ontheissues.org/Jim_Pillen.htm"},
+   "welfare": null,
+   "liberty": {"score": 65, "evidence": "Abortion: says life begins at conception; LGBTQ: backs sex-based sports rules; guns: opposes restrictions on Second Amendment rights.", "source": "https://www.ontheissues.org/Jim_Pillen.htm"},
+   "security": {"score": 75, "evidence": "Calls defunding police dangerous and supports stricter penalties.", "source": "https://www.ontheissues.org/Jim_Pillen.htm"},
+   "immigration": {"score": 90, "evidence": "Opposes a citizenship pathway and opened a 280-bed immigration detention facility in McCook.", "source": "https://en.wikipedia.org/wiki/Jim_Pillen"},
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 75, "evidence": "Wants to protect children from social media and ban phones in classrooms.", "source": "https://www.ontheissues.org/Jim_Pillen.htm"},
+   "education": {"score": 15, "evidence": "Supports parental school choice options and adopted the federal scholarship tax credit program.", "source": "https://www.ontheissues.org/Jim_Pillen.htm"},
+   "faith": {"score": 90, "evidence": "Strongly supports returning prayer to schools.", "source": "https://www.ontheissues.org/Jim_Pillen.htm"}
+  },
+  "photo": {"file": "File:Jim Pillen SelectUSA (55251574792).jpg", "license": "CC BY 4.0", "author": "Polly Irungu (Maryland GovPics)"},
+  "campaign_photo": "",
+  "notes": "The photo author was corrected to the photographer credited on the Commons file page."
+ },
+ {
+  "id": "NE-GOV/lynne-walz",
+  "name": "Lynne Walz",
+  "party": "Democratic",
+  "current_role": "Former Nebraska state senator",
+  "bio": "Lynne Walz represented District 15 in the Nebraska Legislature from 2017 to 2025 and chaired its Education Committee from 2021. A Fremont native, she worked as a teacher and later as a realtor, and was the 2018 Democratic nominee for lieutenant governor. She is the 2026 Democratic nominee for governor.",
+  "website": "https://lynnewalz.com/",
+  "social": {
+   "x": "https://x.com/lynnewalz",
+   "instagram": "https://www.instagram.com/lynne_walz/",
+   "facebook": "https://www.facebook.com/lynnewalzfornebraska/"
+  },
+  "platform": [
+   {"topic": "Medical cannabis", "point": "Would legalize medical cannabis by executive order with physician prescription.", "source": "https://www.omahadailyrecord.com/content/walz-skips-specifics-new-%E2%80%98lynne%E2%80%99s-commitment-nebraskans%E2%80%99-platform-governor%E2%80%99s-race"},
+   {"topic": "Education", "point": "Rejects all state and federal school voucher programs.", "source": "https://www.omahadailyrecord.com/content/walz-skips-specifics-new-%E2%80%98lynne%E2%80%99s-commitment-nebraskans%E2%80%99-platform-governor%E2%80%99s-race"},
+   {"topic": "Taxes", "point": "Wants to cut property taxes while protecting core services, and opposes expanding the sales tax.", "source": "https://www.omahadailyrecord.com/content/walz-skips-specifics-new-%E2%80%98lynne%E2%80%99s-commitment-nebraskans%E2%80%99-platform-governor%E2%80%99s-race"},
+   {"topic": "Affordability", "point": "Focuses on housing, child care, health care and grocery costs.", "source": "https://lynnewalz.com/"},
+   {"topic": "Ballot initiatives", "point": "Pledges to honor voter-passed measures on medical marijuana, paid sick leave and minimum wage.", "source": "https://lynnewalz.com/"},
+   {"topic": "Veterans", "point": "Would restore $3 million cut from the Veterans' Aid Fund.", "source": "https://www.omahadailyrecord.com/content/walz-skips-specifics-new-%E2%80%98lynne%E2%80%99s-commitment-nebraskans%E2%80%99-platform-governor%E2%80%99s-race"}
+  ],
+  "positions": {
+   "economy": {"score": 50, "evidence": "Opposes sales-tax expansion and favors property tax cuts paired with economic growth.", "source": "https://www.omahadailyrecord.com/content/walz-skips-specifics-new-%E2%80%98lynne%E2%80%99s-commitment-nebraskans%E2%80%99-platform-governor%E2%80%99s-race"},
+   "welfare": {"score": 60, "evidence": "Prioritizes child care and health care affordability and honoring the paid leave initiative.", "source": "https://lynnewalz.com/"},
+   "liberty": {"score": 35, "evidence": "Drugs: would legalize medical cannabis; also pledges to limit government intrusion in personal life decisions.", "source": "https://lynnewalz.com/"},
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 90, "evidence": "Opposes every type of voucher, state or federal, for private school costs.", "source": "https://www.omahadailyrecord.com/content/walz-skips-specifics-new-%E2%80%98lynne%E2%80%99s-commitment-nebraskans%E2%80%99-platform-governor%E2%80%99s-race"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://lynnewalz.com/wp-content/uploads/2026/07/home_hero_july-1024x794.png",
+  "notes": "No sourced statement on abortion was found, so the liberty score rests on her cannabis and personal-freedom statements. The campaign image is a homepage hero picture and may not be a tight headshot."
+ },
+ {
+  "id": "NE-GOV/brett-lindstrom",
+  "name": "Brett Lindstrom",
+  "party": "America First",
+  "current_role": "Former Nebraska state senator",
+  "bio": "Brett Lindstrom represented Omaha's 18th District in the Nebraska Legislature from 2015 to 2023. Born in Lincoln and raised in Omaha, he ran unsuccessfully in the 2012 Republican congressional primary and for governor in 2022. He is running for governor in 2026 on the America First Party line after his independent petition fell short.",
+  "website": "https://votelindstrom.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Property taxes", "point": "Proposes rolling valuation averages and lowering school levy authority to 50 cents, with more state school aid.", "source": "https://www.yahoo.com/news/politics/articles/lindstrom-turns-signatures-releases-nebraska-222019470.html"},
+   {"topic": "Agricultural land", "point": "Would value farmland more on productive income than market price.", "source": "https://www.yahoo.com/news/politics/articles/lindstrom-turns-signatures-releases-nebraska-222019470.html"},
+   {"topic": "Economic development", "point": "Wants to recruit former Nebraskans and target agriculture, manufacturing, logistics, insurance, energy and defense industries.", "source": "https://www.yahoo.com/news/politics/articles/lindstrom-turns-signatures-releases-nebraska-222019470.html"},
+   {"topic": "Infrastructure", "point": "Prioritizes protecting public power, rural broadband and grid development.", "source": "https://www.yahoo.com/news/politics/articles/lindstrom-turns-signatures-releases-nebraska-222019470.html"},
+   {"topic": "Housing", "point": "Supports building housing near existing job centers.", "source": "https://www.yahoo.com/news/politics/articles/lindstrom-turns-signatures-releases-nebraska-222019470.html"}
+  ],
+  "positions": {
+   "economy": {"score": 45, "evidence": "Pairs property tax cuts and past support for ending income and inheritance taxes with more state school aid and public power protection.", "source": "https://www.yahoo.com/news/politics/articles/lindstrom-turns-signatures-releases-nebraska-222019470.html"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Brett Lindstrom.jpg", "license": "CC BY 2.0", "author": "Matt Johnson"},
+  "campaign_photo": "",
+  "notes": "The earlier tech score (AI transparency rules) was set to null because it was not confirmed in the sources reviewed. His 2022 run for governor was in the Republican primary."
+ },
+ {
+  "id": "NE-GOV/rick-beard",
+  "name": "Rick Beard",
+  "party": "Legal Marijuana NOW",
+  "current_role": "Entrepreneur and founder of Omaha Wine Company",
+  "bio": "Rick Beard is an Omaha entrepreneur who has worked in the food, wine and cannabis industries and founded the Omaha Wine Company in 1995. He has lived in Nebraska since 1972 and has followed cannabis legalization efforts in California, Oklahoma and Nebraska. He is the Legal Marijuana NOW Party nominee for governor.",
+  "website": "https://www.rickforgov.org/",
+  "social": {},
+  "platform": [
+   {"topic": "Cannabis", "point": "Proposes a state-operated cannabis business with profits returned to Nebraska.", "source": "https://www.rickforgov.org/"},
+   {"topic": "Property taxes", "point": "Would use an estimated $300 million-plus in yearly cannabis revenue to reduce property taxes.", "source": "https://www.rickforgov.org/"},
+   {"topic": "Criminal justice", "point": "Wants to shift law enforcement away from cannabis arrests toward serious drugs.", "source": "https://www.rickforgov.org/"},
+   {"topic": "Campaign finance", "point": "Supports a constitutional ballot amendment modeled on the Montana Plan to remove PAC money.", "source": "https://www.rickforgov.org/"},
+   {"topic": "Data centers", "point": "Would impose a moratorium on data centers by executive order.", "source": "https://www.rickforgov.org/"},
+   {"topic": "Roads", "point": "Plans to repair deteriorating state highways.", "source": "https://www.rickforgov.org/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Proposes a state-run cannabis enterprise funding property tax relief.", "source": "https://www.rickforgov.org/"},
+   "welfare": null,
+   "liberty": {"score": 10, "evidence": "Drugs: supports full-access cannabis legalization, including medical use for veterans.", "source": "https://www.rickforgov.org/"},
+   "security": {"score": 25, "evidence": "Would end cannabis arrests and reform jails and prisons.", "source": "https://www.rickforgov.org/"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Proposes a moratorium on data centers by executive order.", "source": "https://www.rickforgov.org/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Tech score added from his data center moratorium proposal. Biographical details come from his campaign team page."
+ },
+ {
+  "id": "NV-GOV/joe-lombardo",
+  "name": "Joe Lombardo",
+  "party": "Republican",
+  "current_role": "Governor of Nevada",
+  "bio": "Joe Lombardo has been Governor of Nevada since 2023. He served in the U.S. Army from 1980 to 1986, joined the Las Vegas Metropolitan Police Department in 1988 and was Clark County Sheriff from 2015 to 2023. Born in Japan, he moved to Las Vegas in 1976.",
+  "website": "https://www.joelombardofornv.com/",
+  "social": {
+   "x": "https://x.com/JoeLombardoNV",
+   "instagram": "https://www.instagram.com/JoeLombardoNV",
+   "facebook": "https://www.facebook.com/JoeLombardoNV/",
+   "youtube": "https://www.youtube.com/channel/UCQ52JaFDe77QrU5OTMWiemw"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Pledges to veto any new tax increase and favors reducing the Commerce Tax.", "source": "https://www.ontheissues.org/Joe_Lombardo.htm"},
+   {"topic": "School choice", "point": "Supports Opportunity Scholarships, charter schools and open enrollment.", "source": "https://www.ontheissues.org/Joe_Lombardo.htm"},
+   {"topic": "Immigration", "point": "Backs jail-based 287(g) cooperation with federal immigration authorities.", "source": "https://www.nvgov2026.org/compare/issues/immigration.html"},
+   {"topic": "Data centers", "point": "Supports data center tax abatements and wants resulting revenue directed to K-12 schools.", "source": "https://www.nvgov2026.org/compare/issues/technology.html"},
+   {"topic": "Public safety", "point": "Supports police use of license plate reader technology with safeguards.", "source": "https://www.nvgov2026.org/compare/issues/technology.html"},
+   {"topic": "Education funding", "point": "Pledged $2 billion per biennium in added K-12 funding.", "source": "https://en.wikipedia.org/wiki/Joe_Lombardo"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Pledges to veto tax increases and favors light-touch business regulation.", "source": "https://www.ontheissues.org/Joe_Lombardo.htm"},
+   "welfare": {"score": 50, "evidence": "Initially opposed Nevada's public health option but accepted it while seeking modifications.", "source": "https://en.wikipedia.org/wiki/Joe_Lombardo"},
+   "liberty": {"score": 45, "evidence": "Abortion: personally pro-life but signed provider protections; guns: eliminated county registry; drugs: signed marijuana possession-limit increase.", "source": "https://www.ontheissues.org/Joe_Lombardo.htm"},
+   "security": {"score": 80, "evidence": "Started Metro's license plate reader program and opposes bans on police surveillance tools.", "source": "https://www.nvgov2026.org/compare/issues/technology.html"},
+   "immigration": {"score": 80, "evidence": "Supports 287(g), removed Nevada from the federal sanctuary list and assigned National Guard to support ICE.", "source": "https://www.nvgov2026.org/compare/issues/immigration.html"},
+   "foreign": null,
+   "energy": {"score": 30, "evidence": "Withdrew Nevada from the U.S. Climate Alliance and favors natural gas alongside renewables.", "source": "https://www.nvgov2026.org/compare/issues/environment.html"},
+   "tech": {"score": 25, "evidence": "Favors market-driven, light-touch regulation of privacy and AI.", "source": "https://www.nvgov2026.org/compare/issues/technology.html"},
+   "education": {"score": 25, "evidence": "Supports Opportunity Scholarships, charter schools and an Office of School Choice.", "source": "https://www.ontheissues.org/Joe_Lombardo.htm"},
+   "faith": {"score": 65, "evidence": "Describes faith leaders as central to communities and agrees that America was founded on Christian values.", "source": "https://www.ontheissues.org/Joe_Lombardo.htm"}
+  },
+  "photo": {"file": "File:Joe Lombardo (55512849370)(cropped).jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"},
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/60ad0ae7891ab27dda14edd4/e85ccba0-e86c-4b3d-9bb2-1b6b2fc3d3b1/23efc0c6217bf6e79731064a0f2ccde015c5021e+%283%29.jpg",
+  "notes": "Tech and faith scores were added from new evidence. The nvgov2026.org comparison site is a third-party summary rather than a campaign source."
+ },
+ {
+  "id": "NV-GOV/aaron-ford",
+  "name": "Aaron Ford",
+  "party": "Democratic",
+  "current_role": "Attorney General of Nevada",
+  "bio": "Aaron Ford has been Nevada's Attorney General since 2019 and served in the Nevada Senate from 2013 to 2018, including as majority leader. Born in Dallas, he worked as a public school teacher and a lawyer before entering politics. He is the 2026 Democratic nominee for governor.",
+  "website": "https://www.fordfornevada.com/",
+  "social": {
+   "x": "https://x.com/teamfordnv",
+   "instagram": "https://instagram.com/teamfordnv",
+   "facebook": "https://facebook.com/teamfordnv",
+   "tiktok": "https://tiktok.com/@teamfordnv"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Lists housing affordability as a top campaign priority.", "source": "https://www.fordfornevada.com/"},
+   {"topic": "Data centers", "point": "Calls for a moratorium on new data center tax abatements and a ban on evaporative cooling.", "source": "https://www.nvgov2026.org/compare/issues/technology.html"},
+   {"topic": "Surveillance", "point": "Plans 2027 legislation capping license plate reader data retention at 30 days and requiring public audits.", "source": "https://www.nvgov2026.org/compare/issues/technology.html"},
+   {"topic": "Kids online", "point": "Has sued social media and gaming platforms over protections for minors.", "source": "https://en.wikipedia.org/wiki/Aaron_Ford_(Nevada_politician)"},
+   {"topic": "Cost of living", "point": "Emphasizes cost of living, jobs and the economy as campaign priorities.", "source": "https://www.fordfornevada.com/"},
+   {"topic": "Education", "point": "Opposes school vouchers and federal education funding cuts.", "source": "https://www.ontheissues.org/Aaron_Ford.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Supports public investment in housing and infrastructure and price regulation on essential goods.", "source": "https://www.ontheissues.org/Aaron_Ford.htm"},
+   "welfare": {"score": 75, "evidence": "Favors a Medicaid-like health plan available to all.", "source": "https://www.ontheissues.org/Aaron_Ford.htm"},
+   "liberty": {"score": 30, "evidence": "Abortion: protect access; LGBTQ: strong supporter; drugs: expand medical cannabis; guns: supports background checks.", "source": "https://www.ontheissues.org/Aaron_Ford.htm"},
+   "security": {"score": 25, "evidence": "Wants strict limits on license plate reader cameras, including a pause and 30-day data retention.", "source": "https://www.nvgov2026.org/compare/issues/technology.html"},
+   "immigration": {"score": 35, "evidence": "Advises local agencies against acting as federal immigration agents while saying he opposes sanctuary policies.", "source": "https://www.nvgov2026.org/compare/issues/immigration.html"},
+   "foreign": null,
+   "energy": {"score": 85, "evidence": "Had a 100% Nevada Conservation League score and sued to recover Solar for All funds.", "source": "https://www.nvgov2026.org/compare/issues/environment.html"},
+   "tech": {"score": 90, "evidence": "Sued Meta, TikTok, Snapchat and Roblox over minors' safety and seeks data center abatement moratorium.", "source": "https://www.nvgov2026.org/compare/issues/technology.html"},
+   "education": {"score": 80, "evidence": "Opposes school voucher programs.", "source": "https://www.ontheissues.org/Aaron_Ford.htm"},
+   "faith": null
+  },
+  "photo": {"file": "File:Nevada Attorney General Aaron Ford addresses the United Nations Human Rights Committee, October 17-18, 2023 1 (cropped).jpg", "license": "Public domain", "author": "United States Mission to Geneva, U.S. Department of State"},
+  "campaign_photo": "https://run.imgix.net/0673dc2a-efb3-406b-8853-c586c6af7981/a73532c8-7d71-476a-b652-5c1f021d9b0b/a73532c8-7d71-476a-b652-5c1f021d9b0b.jpeg",
+  "notes": ""
+ },
+ {
+  "id": "NH-SEN/john-e-sununu",
+  "name": "John E. Sununu",
+  "party": "Republican",
+  "current_role": "Former U.S. Senator for New Hampshire",
+  "bio": "John E. Sununu represented New Hampshire in the U.S. House from 1997 to 2003 and in the U.S. Senate from 2003 to 2009. An MIT-trained engineer with a Harvard MBA, he worked in technology and consulting before Congress and later in lobbying and on corporate boards. He lives in Hampton and is the 2026 Republican nominee for Senate.",
+  "website": "https://www.sununusenator.com/",
+  "social": {
+   "x": "https://x.com/sununusenator",
+   "instagram": "https://instagram.com/sununusenator",
+   "facebook": "https://www.facebook.com/SununuSenator/",
+   "tiktok": "https://tiktok.com/@sununusenator",
+   "youtube": "https://youtube.com/@sununusenator"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Supports extending the 2017 Trump tax cuts and opposes tax increases to cut deficits.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   {"topic": "Medicaid", "point": "Backs work requirements for able-bodied Medicaid recipients.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   {"topic": "Energy", "point": "Supports domestic oil and gas production and pipeline infrastructure to lower energy costs.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   {"topic": "Elections", "point": "Supports voter ID and proof of citizenship to vote.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   {"topic": "China", "point": "Supports military aid to Taiwan and tariffs aimed at China.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   {"topic": "Government", "point": "Promises a common-sense approach focused on reducing waste and protecting individual rights.", "source": "https://www.sununusenator.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Supports extending the Trump tax cuts and opposes tax increases.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   "welfare": {"score": 25, "evidence": "Supports Medicaid work requirements for able-bodied adults.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   "liberty": {"score": 50, "evidence": "Abortion: pro-life voting record; guns: NRA A rating; LGBTQ: opposed Federal Marriage Amendment but backs sex-based sports rules.", "source": "https://www.ontheissues.org/Senate/John_Sununu.htm"},
+   "security": {"score": 55, "evidence": "Supported the PATRIOT Act with added civil-liberties safeguards.", "source": "https://www.ontheissues.org/Senate/John_Sununu.htm"},
+   "immigration": {"score": 75, "evidence": "Backs limiting birthright citizenship through a constitutional amendment.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   "foreign": {"score": 65, "evidence": "Supports military aid to Taiwan and conditionally backs action against Iran's nuclear program.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   "energy": {"score": 30, "evidence": "Supports expanded domestic oil and gas production and pipelines.", "source": "https://www.citizenscount.org/candidate/john-e-sununu"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Has supported private-school vouchers and charter schools.", "source": "https://www.ontheissues.org/Senate/John_Sununu.htm"},
+   "faith": {"score": 70, "evidence": "Supported requiring schools to allow prayer; 100% Christian Coalition rating.", "source": "https://www.ontheissues.org/Senate/John_Sununu.htm"}
+  },
+  "photo": {"file": "File:John E. Sununu.jpg", "license": "Public domain", "author": "Office of U.S. Senator John E. Sununu"},
+  "campaign_photo": "https://static.wixstatic.com/media/f28da3_2b522f593d584d4a9d296d5beb786b97~mv2.png",
+  "notes": "Education, faith and liberty evidence draws largely on his 1997-2009 congressional record."
+ },
+ {
+  "id": "NH-SEN/chris-pappas",
+  "name": "Chris Pappas",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for NH-1",
+  "bio": "Chris Pappas has represented New Hampshire's 1st Congressional District since 2019. He previously served on the New Hampshire Executive Council, in the state House and as Hillsborough County treasurer, and co-owns the Puritan Backroom restaurant in Manchester. He is the 2026 Democratic nominee for U.S. Senate.",
+  "website": "https://chrispappas.org/",
+  "social": {
+   "x": "https://x.com/chrispappasnh",
+   "instagram": "https://www.instagram.com/pappasfornh/",
+   "facebook": "https://www.facebook.com/pappasfornh/",
+   "tiktok": "https://www.tiktok.com/@chrispappasnh",
+   "youtube": "https://www.youtube.com/@ChrisPappasNH"
+  },
+  "platform": [
+   {"topic": "Energy costs", "point": "Would suspend the federal gas tax, protect heating aid and defend clean energy tax credits.", "source": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"},
+   {"topic": "Health care", "point": "Supports capping insulin costs, Medicare drug price negotiation and strengthening the ACA.", "source": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"},
+   {"topic": "Groceries", "point": "Targets corporate price gouging, AI-driven price discrimination and tariffs on food.", "source": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"},
+   {"topic": "Child care", "point": "Would strengthen the Child Tax Credit and help providers expand hours and staffing.", "source": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"},
+   {"topic": "Housing", "point": "Seeks to curb Wall Street homebuying, cut building red tape and help first-time buyers.", "source": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"},
+   {"topic": "Anti-corruption", "point": "Promotes an anti-corruption agenda for Congress.", "source": "https://chrispappas.org/priority/anti-corruption-agenda/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Says millionaires should pay more, backs a minimum corporate tax and an inflation-indexed minimum wage.", "source": "https://www.citizenscount.org/candidate/christopher-pappas"},
+   "welfare": {"score": 70, "evidence": "Supports a public option and lowering the Medicare eligibility age, but not automatic Medicare for All.", "source": "https://www.citizenscount.org/candidate/christopher-pappas"},
+   "liberty": {"score": 30, "evidence": "Abortion: opposes federal bans; guns: backs assault weapons ban and red flag laws.", "source": "https://www.citizenscount.org/candidate/christopher-pappas"},
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Supports DACA and citizenship for Dreamers and opposes birthright citizenship limits.", "source": "https://www.citizenscount.org/candidate/christopher-pappas"},
+   "foreign": {"score": 65, "evidence": "Supports military aid to Ukraine, Taiwan and Israel; opposes Iran war without congressional approval.", "source": "https://www.citizenscount.org/candidate/christopher-pappas"},
+   "energy": {"score": 80, "evidence": "Opposes fossil fuel subsidies, defends clean energy tax credits and opposed Keystone XL.", "source": "https://www.citizenscount.org/candidate/christopher-pappas"},
+   "tech": {"score": 70, "evidence": "Calls for cracking down on AI-driven price discrimination.", "source": "https://chrispappas.org/priority/tax-cuts-lower-costs-blueprint/"},
+   "education": {"score": 85, "evidence": "Supports public school funding and opposes school vouchers.", "source": "https://www.citizenscount.org/candidate/christopher-pappas"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "The earlier security score of 35 was set to null because no supporting evidence was found in the sources reviewed."
+ }
+]

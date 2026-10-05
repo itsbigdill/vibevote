@@ -1,0 +1,412 @@
+[
+ {
+  "id": "AL-7/terri-sewell",
+  "name": "Terri Sewell",
+  "party": "Democratic",
+  "race": "AL-7",
+  "race_label": "Alabama · US House AL-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001185",
+   "official_name": "Terri A. Sewell",
+   "chamber": "House",
+   "official_site": "https://sewell.house.gov",
+   "official_social": {
+    "twitter": "RepTerriSewell",
+    "facebook": "RepSewell",
+    "youtube": "RepSewell",
+    "instagram": "repterriasewell"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 60,
+    "immigration": 45,
+    "foreign": 65,
+    "energy": 50,
+    "tech": null,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Backs $15 wage, ACA, Medicaid expansion; supports abortion rights, background checks; backed Patriot Act wiretaps; opposed wall funding but voted for Laken Riley Act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Terri_Sewell"
+   ],
+   "photo": {
+    "file": "File:Terri Sewell official photo.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "AL-7/ammie-akin",
+  "name": "Ammie Akin",
+  "party": "Republican",
+  "race": "AL-7",
+  "race_label": "Alabama · US House AL-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 60,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaigns on cutting red tape and wasteful federal spending, and giving law enforcement and the military the resources they need.",
+   "sources": [
+    "https://1819news.com/news/item/birminghams-ammie-akin-launches-congressional-campaign-to-challenge-democrat-incumbent-terri-sewell"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AK-AL/nick-begich-iii",
+  "name": "Nick Begich III",
+  "party": "Republican",
+  "race": "AK-AL",
+  "race_label": "Alaska · US House AK-AL",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001323",
+   "official_name": "Nicholas J. Begich III",
+   "chamber": "House",
+   "official_site": "https://begich.house.gov",
+   "official_social": {
+    "twitter": "repnickbegich",
+    "facebook": "RepNickBegich",
+    "instagram": "RepNickBegich"
+   },
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 70,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 tax-and-spending law with Medicaid cuts and against extending ACA subsidies; secured ANWR oil lease sales; backed Iran war, opposing war powers limits.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nick_Begich_III",
+    "https://thealaskacurrent.com/2026/04/24/alaska-us-house-race-2026-nick-begich-matt-schultz-bill-hill/",
+    "https://begich.house.gov/issues/economy"
+   ],
+   "photo": {
+    "file": "File:Nick Begich III 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AK-AL/bill-hill",
+  "name": "Bill Hill",
+  "party": "Independent",
+  "race": "AK-AL",
+  "race_label": "Alaska · US House AK-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 75,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 40,
+    "tech": null,
+    "education": 65,
+    "faith": null
+   },
+   "basis": "Wants billionaires to pay fair share, Medicaid expansion, drug price caps; defends abortion and gun rights; backs oil, gas and renewable credits; community schools.",
+   "sources": [
+    "https://billhillforalaskans.com/bills-platform/",
+    "https://www.adn.com/politics/2026/01/21/bill-hill-bristol-bay-fisherman-and-educator-enters-alaska-us-house-race-as-independent/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AK-AL/eric-hafner",
+  "name": "Eric Hafner",
+  "party": "Democratic",
+  "race": "AK-AL",
+  "race_label": "Alaska · US House AK-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No public policy platform found; federal prisoner who advanced from the top-four primary after withdrawals.",
+   "sources": [
+    "https://alaskapublic.org/news/politics/elections/2026-08-27/a-federal-prisoner-with-no-clear-ties-to-alaska-advances-in-primary-for-the-states-u-s-house-seat"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AK-AL/jim-mcdermott",
+  "name": "Jim McDermott",
+  "party": "Libertarian",
+  "race": "AK-AL",
+  "race_label": "Alaska · US House AK-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": null,
+    "foreign": 35,
+    "energy": null,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Official statement: personal liberties focus, small government and free markets, supports defense but opposes nation building, backs parental involvement in schools.",
+   "sources": [
+    "https://www.elections.alaska.gov/doc/oep/2026/Mcdermott,%20James%20C_%20USRep_Eng_06.07.26-PWEB.pdf"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-1/jay-feely",
+  "name": "Jay Feely",
+  "party": "Republican",
+  "race": "AZ-1",
+  "race_label": "Arizona · US House AZ-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 70,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Describes himself as a fiscal conservative, social conservative and pro-business; social conservatism drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jay_Feely"
+   ],
+   "photo": {
+    "file": "File:Jay Feely 2026 (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "AZ-1/amish-shah",
+  "name": "Amish Shah",
+  "party": "Democratic",
+  "race": "AZ-1",
+  "race_label": "Arizona · US House AZ-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Amish_Shah"
+   ],
+   "photo": {
+    "file": "File:Amish Shah by Gage Skidmore 2 (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "AZ-1/monica-alponte",
+  "name": "Monica Alponte",
+  "party": "Libertarian",
+  "race": "AZ-1",
+  "race_label": "Arizona · US House AZ-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Arizona%27s_1st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-2/eli-crane",
+  "name": "Eli Crane",
+  "party": "Republican",
+  "race": "AZ-2",
+  "race_label": "Arizona · US House AZ-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001132",
+   "official_name": "Elijah Crane",
+   "chamber": "House",
+   "official_site": "https://crane.house.gov",
+   "official_social": {
+    "twitter": "RepEliCrane",
+    "facebook": "100088851021670",
+    "youtube": "@rep.elicrane"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 15,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted against the 2023 debt-limit deal citing deficits; voted to cut Ukraine aid and withdraw troops from Syria.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Eli_Crane"
+   ],
+   "photo": {
+    "file": "File:Rep. Eli Crane official photo, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "AZ-2/jonathan-nez",
+  "name": "Jonathan Nez",
+  "party": "Democratic",
+  "race": "AZ-2",
+  "race_label": "Arizona · US House AZ-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No documented policy positions found in reliable sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jonathan_Nez",
+    "https://www.jonathannezforaz.com/"
+   ],
+   "photo": {
+    "file": "File:Jonathan Nez (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Wikiuser159597"
+   }
+  }
+ },
+ {
+  "id": "AZ-2/curtis-goodwin",
+  "name": "Curtis Goodwin",
+  "party": "Libertarian",
+  "race": "AZ-2",
+  "race_label": "Arizona · US House AZ-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Arizona%27s_2nd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ }
+]

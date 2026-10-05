@@ -1,0 +1,115 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+
+  // The top level is LOCAL DEVELOPMENT only (`node dev/local.mjs`). It has no routes and is never deployed.
+  // Deploys always name an environment: `npm run deploy:staging`, `npm run release:upload` (see RELEASE.md).
+  // Bindings and vars are not inherited, so each environment lists its own.
+  "name": "vibevote-dev",
+  "main": "src/worker.ts",
+  "compatibility_date": "2026-09-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "account_id": "f12343f4f5f0d268f6c7df8d23a15859",
+  "workers_dev": false,
+  "preview_urls": false,
+  "assets": {
+    "directory": "./public/",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*", "/r/*"],
+    "not_found_handling": "single-page-application"
+  },
+  "observability": { "enabled": true },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Budget"] }],
+
+  "vars": {
+    "ENVIRONMENT": "dev",
+    "MODEL": "gemini-3.8-flash",
+    "REVIEW_MODEL": "gemini-3.8-flash",
+    "ALLOWED_COUNTRIES": "US,UA",
+    "ALLOWED_ORIGINS": "",
+    // "dev" skips the Turnstile widget; any other value is a real or test sitekey
+    "TURNSTILE_SITEKEY": "dev",
+    "AI_GATEWAY_URL": "",
+    "DAILY_AI_CALLS": "3000",
+    "DAILY_AI_USD": "25"
+  },
+  // local simulation keeps its data under these ids, so they match production to keep the local copies
+  "kv_namespaces": [{ "binding": "RESULTS", "id": "a812e322b9df474aac89f9168e72d4ed" }],
+  "d1_databases": [
+    { "binding": "DB", "database_name": "vibevote", "database_id": "ae70deb7-36c2-4b06-8012-bf5867893da9", "migrations_dir": "migrations" }
+  ],
+  "durable_objects": { "bindings": [{ "name": "BUDGET", "class_name": "Budget" }] },
+  "ratelimits": [
+    { "name": "AI_LIMIT", "namespace_id": "3001", "simple": { "limit": 12, "period": 60 } },
+    { "name": "IP_LIMIT", "namespace_id": "3002", "simple": { "limit": 40, "period": 60 } },
+    { "name": "SAVE_LIMIT", "namespace_id": "3003", "simple": { "limit": 10, "period": 60 } },
+    { "name": "SESSION_LIMIT", "namespace_id": "3004", "simple": { "limit": 10, "period": 60 } }
+  ],
+
+  "env": {
+    "staging": {
+      "name": "vibevote-staging",
+      "routes": [{ "pattern": "staging.vibevote.us", "custom_domain": true }],
+      "vars": {
+        "ENVIRONMENT": "staging",
+        "MODEL": "gemini-3.8-flash",
+        "REVIEW_MODEL": "gemini-3.8-flash",
+        "ALLOWED_COUNTRIES": "US,UA",
+        "ALLOWED_ORIGINS": "https://staging.vibevote.us",
+        // Cloudflare's published test keys: the invisible widget always passes and only a dummy token verifies.
+        // They keep staging scriptable for the synthetic interviews; they are not secrets.
+        "TURNSTILE_SITEKEY": "1x00000000000000000000BB",
+        "TURNSTILE_SECRET": "1x0000000000000000000000000000000AA",
+        "AI_GATEWAY_URL": "",
+        "DAILY_AI_CALLS": "6000",
+        "DAILY_AI_USD": "40"
+      },
+      // staging's own KV namespace ("vibevote-staging-results") and D1 database, created on 2026-09-19
+      "kv_namespaces": [{ "binding": "RESULTS", "id": "1284eb3b012c4d8589df23e485481495" }],
+      "d1_databases": [{ "binding": "DB", "database_name": "vibevote-staging", "database_id": "0459e38e-d646-41b9-bc71-4487ff32866f", "migrations_dir": "migrations" }],
+      "durable_objects": { "bindings": [{ "name": "BUDGET", "class_name": "Budget" }] },
+      "ratelimits": [
+        { "name": "AI_LIMIT", "namespace_id": "2001", "simple": { "limit": 30, "period": 60 } },
+        { "name": "IP_LIMIT", "namespace_id": "2002", "simple": { "limit": 120, "period": 60 } },
+        { "name": "SAVE_LIMIT", "namespace_id": "2003", "simple": { "limit": 10, "period": 60 } },
+        { "name": "SESSION_LIMIT", "namespace_id": "2004", "simple": { "limit": 30, "period": 60 } }
+      ],
+      // the AI key (GEMINI_API_KEY) is left out here so staging can be deployed before the key exists: without it the site works and
+      // the interview answers 500, and `npm run smoke` reports `configured.anthropic: false`. Production keeps the hard check.
+      "secrets": { "required": ["SESSION_SECRET"] }
+    },
+
+    "production": {
+      "name": "vibevote",
+      "routes": [
+        { "pattern": "vibevote.us", "custom_domain": true },
+        { "pattern": "www.vibevote.us", "custom_domain": true }
+      ],
+      "vars": {
+        "ENVIRONMENT": "production",
+        "MODEL": "gemini-3.8-flash",
+        "REVIEW_MODEL": "gemini-3.8-flash",
+        "ALLOWED_COUNTRIES": "US",
+        "ALLOWED_ORIGINS": "https://vibevote.us,https://www.vibevote.us",
+        // the public sitekey of the "VibeVote production" Turnstile widget (managed mode, vibevote.us + www);
+        // its secret is the TURNSTILE_SECRET secret. Manage it with `npx wrangler turnstile widget list`.
+        "TURNSTILE_SITEKEY": "0x4AAAAAAE782GvQI6RO2A42",
+        // https://gateway.ai.cloudflare.com/v1/<account id>/<gateway id>/anthropic once the gateway exists
+        "AI_GATEWAY_URL": "",
+        "DAILY_AI_CALLS": "20000",
+        "DAILY_AI_USD": "150"
+      },
+      "kv_namespaces": [{ "binding": "RESULTS", "id": "a812e322b9df474aac89f9168e72d4ed" }],
+      "d1_databases": [
+        { "binding": "DB", "database_name": "vibevote", "database_id": "ae70deb7-36c2-4b06-8012-bf5867893da9", "migrations_dir": "migrations" }
+      ],
+      "durable_objects": { "bindings": [{ "name": "BUDGET", "class_name": "Budget" }] },
+      "ratelimits": [
+        { "name": "AI_LIMIT", "namespace_id": "1001", "simple": { "limit": 12, "period": 60 } },
+        { "name": "IP_LIMIT", "namespace_id": "1003", "simple": { "limit": 40, "period": 60 } },
+        { "name": "SAVE_LIMIT", "namespace_id": "1002", "simple": { "limit": 10, "period": 60 } },
+        { "name": "SESSION_LIMIT", "namespace_id": "1004", "simple": { "limit": 10, "period": 60 } }
+      ],
+      "secrets": { "required": ["GEMINI_API_KEY", "SESSION_SECRET", "TURNSTILE_SECRET"] }
+    }
+  }
+}

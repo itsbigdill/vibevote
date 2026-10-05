@@ -1,0 +1,448 @@
+[
+ {
+  "id": "AL-SEN/barry-moore",
+  "name": "Barry Moore",
+  "party": "Republican",
+  "race": "AL-SEN",
+  "race_label": "Alabama · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "M001212",
+   "official_name": "Barry Moore",
+   "chamber": "House",
+   "official_site": "https://barrymoore.house.gov",
+   "official_social": {
+    "twitter": "RepBarryMoore",
+    "facebook": "RepBarryMoore"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 60,
+    "security": 75,
+    "immigration": 95,
+    "foreign": 30,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 90
+   },
+   "basis": "Backs tax cuts, gun rights, mass deportation, barring transgender athletes; praised Roe reversal; opposed Ukraine aid; sponsored CRUSADE Act citing Christian foundations.",
+   "sources": [
+    "https://barrymooreforalabama.com/issues/",
+    "https://en.wikipedia.org/wiki/Barry_Moore_(American_politician)"
+   ],
+   "photo": {
+    "file": "File:Rep. Barry Moore official photo.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "AL-SEN/everett-wess",
+  "name": "Everett Wess",
+  "party": "Democratic",
+  "race": "AL-SEN",
+  "race_label": "Alabama · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 60,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Campaign site backs affordable healthcare with funding for rural Alabama providers and quality public education; no stated positions on most other issues.",
+   "sources": [
+    "https://wessforsenate.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AL-GOV/tommy-tuberville",
+  "name": "Tommy Tuberville",
+  "party": "Republican",
+  "race": "AL-GOV",
+  "race_label": "Alabama · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "T000278",
+   "official_name": "Tommy Tuberville",
+   "chamber": "Senate",
+   "official_site": "https://www.tuberville.senate.gov",
+   "official_social": {
+    "twitter": "SenTuberville",
+    "facebook": "SenatorTuberville",
+    "instagram": "sentuberville"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 30,
+    "liberty": 70,
+    "security": 75,
+    "immigration": 95,
+    "foreign": 30,
+    "energy": 5,
+    "tech": 20,
+    "education": 10,
+    "faith": 95
+   },
+   "basis": "Backs tax cuts, tariffs, school choice, deportations, gun rights; opposes abortion, marijuana legalization, transgender athletes; dismissed climate change; lamented school prayer removal.",
+   "sources": [
+    "https://www.coachforgovernor.com/issues",
+    "https://www.ontheissues.org/Senate/Tommy_Tuberville.htm",
+    "https://tuscaloosathread.com/alabama-governor-race-2026/"
+   ],
+   "photo": {
+    "file": "File:Sen. Tommy Tuberville Official Portrait, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Senate"
+   }
+  }
+ },
+ {
+  "id": "AL-GOV/doug-jones",
+  "name": "Doug Jones",
+  "party": "Democratic",
+  "race": "AL-GOV",
+  "race_label": "Alabama · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 30,
+    "security": 35,
+    "immigration": 30,
+    "foreign": 70,
+    "energy": 50,
+    "tech": 80,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Proposes Medicaid expansion, higher minimum wage, IVF and contraception protections, data-center moratorium; supports same-sex marriage, gun background checks, DACA pathway, First Step Act.",
+   "sources": [
+    "https://www.dougjones.com/priorities",
+    "https://www.alreporter.com/2026/07/27/jones-lays-out-governing-agenda-calls-for-one-year-data-center-pause/",
+    "https://en.wikipedia.org/wiki/Doug_Jones_(politician)"
+   ],
+   "photo": {
+    "file": "File:Senator Doug Jones official photo (1).jpg",
+    "license": "Public domain",
+    "author": "U.S. Senate Photographic Studio-Renee Bouchard"
+   }
+  }
+ },
+ {
+  "id": "AK-SEN/dan-s-sullivan",
+  "name": "Dan S. Sullivan",
+  "party": "Republican",
+  "race": "AK-SEN",
+  "race_label": "Alaska · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001198",
+   "official_name": "Dan Sullivan",
+   "chamber": "Senate",
+   "official_site": "https://www.sullivan.senate.gov",
+   "official_social": {
+    "twitter": "SenDanSullivan",
+    "instagram": "sen_dansullivan",
+    "facebook": "SenDanSullivan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 35,
+    "liberty": 45,
+    "security": null,
+    "immigration": 90,
+    "foreign": 85,
+    "energy": 5,
+    "tech": null,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Voted for 2025 tax law and ACA repeal; backs border wall, ANWR/NPR-A drilling, 20-week abortion ban, gun rights, state marijuana choice; opposed Iran war-powers limits.",
+   "sources": [
+    "https://www.ontheissues.org/Senate/Dan_Sullivan.htm",
+    "https://en.wikipedia.org/wiki/Dan_Sullivan_(U.S._senator)",
+    "https://www.adn.com/politics/2026/08/27/sullivan-peltola-debate-energy-issues-in-closely-watched-us-senate-race/"
+   ],
+   "photo": {
+    "file": "File:Senator Dan Sullivan official.jpg",
+    "license": "Public domain",
+    "author": "United States Senate"
+   }
+  }
+ },
+ {
+  "id": "AK-SEN/mary-peltola",
+  "name": "Mary Peltola",
+  "party": "Democratic",
+  "race": "AK-SEN",
+  "race_label": "Alaska · US Senate",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": 20,
+    "security": null,
+    "immigration": 55,
+    "foreign": 55,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports abortion rights, gun rights, same-sex marriage law, Medicaid expansion, Ukraine aid, Iran war-powers limits, ANWR drilling, trawler limits; backed deporting migrants assaulting police.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mary_Peltola",
+    "https://www.adn.com/politics/2026/08/27/sullivan-peltola-debate-energy-issues-in-closely-watched-us-senate-race/",
+    "https://www.adn.com/politics/2026/09/14/sullivan-peltola-trade-barbs-over-high-fuel-costs-and-wasteful-bycatch-at-kodiak-fisheries-debate/"
+   ],
+   "photo": {
+    "file": "File:Mary Peltola Congressional Member Portrait (2).jpeg",
+    "license": "Public domain",
+    "author": "Leah Herman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "AK-GOV/jonathan-kreiss-tomkins",
+  "name": "Jonathan Kreiss-Tomkins",
+  "party": "Democratic",
+  "race": "AK-GOV",
+  "race_label": "Alaska · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 80,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Says broad-based taxes likely necessary; backs higher oil taxes, the minimum wage and paid leave law, public money only for public schools, data-center moratorium.",
+   "sources": [
+    "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle",
+    "https://www.adn.com/politics/2026/08/26/alaska-gubernatorial-candidates-lay-out-competing-visions-as-ballots-are-counted/"
+   ],
+   "photo": {
+    "file": "File:Jonathan Kreiss-Tomkins 2013 (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "RadioKAOS"
+   }
+  }
+ },
+ {
+  "id": "AK-GOV/bernadette-wilson",
+  "name": "Bernadette Wilson",
+  "party": "Republican",
+  "race": "AK-GOV",
+  "race_label": "Alaska · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 5,
+    "tech": null,
+    "education": 5,
+    "faith": null
+   },
+   "basis": "Wants drastically smaller state government, opposes new oil or broad-based taxes, backs full statutory PFD, education savings accounts, ANWR and Willow development.",
+   "sources": [
+    "https://bernadetteforgovernor.com/on-the-issues/",
+    "https://bernadetteforgovernor.com/",
+    "https://www.adn.com/politics/2026/08/26/alaska-gubernatorial-candidates-lay-out-competing-visions-as-ballots-are-counted/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AK-GOV/dave-bronson",
+  "name": "Dave Bronson",
+  "party": "Republican",
+  "race": "AK-GOV",
+  "race_label": "Alaska · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 10,
+    "tech": 20,
+    "education": 5,
+    "faith": null
+   },
+   "basis": "Opposes new oil or broad-based taxes; backs oil, gas and mining development, school choice amendment with backpack funding, and AI data-center growth.",
+   "sources": [
+    "https://davebronson.com/",
+    "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle",
+    "https://www.adn.com/politics/2026/08/26/alaska-gubernatorial-candidates-lay-out-competing-visions-as-ballots-are-counted/"
+   ],
+   "photo": {
+    "file": "File:Dave bronson (cropped).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "RadioKAOS"
+   }
+  }
+ },
+ {
+  "id": "AK-GOV/treg-taylor",
+  "name": "Treg Taylor",
+  "party": "Republican",
+  "race": "AK-GOV",
+  "race_label": "Alaska · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": null,
+    "liberty": 55,
+    "security": 65,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 5,
+    "tech": 60,
+    "education": 5,
+    "faith": null
+   },
+   "basis": "As attorney general sued ATF over gun rules and Google over tracking, challenged Title IX transgender rules; backs vouchers, Willow, fentanyl-dealer murder charges.",
+   "sources": [
+    "https://tregforak.com/",
+    "https://alaskapublic.org/news/politics/elections/2026-09-10/alaska-gubernatorial-candidates-participate-in-first-forum-since-a-post-primary-ballot-shuffle",
+    "https://en.wikipedia.org/wiki/Treg_Taylor"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "AZ-GOV/katie-hobbs",
+  "name": "Katie Hobbs",
+  "party": "Democratic",
+  "race": "AZ-GOV",
+  "race_label": "Arizona · Governor",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": null,
+    "liberty": 25,
+    "security": 40,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Signed 1864 abortion-ban repeal, LGBTQ nondiscrimination orders; vetoed state immigration enforcement, concealed-carry expansion, GOP tax conformity, tax-credit scholarships; deployed Guard to border.",
+   "sources": [
+    "https://www.kjzz.org/politics/2026-02-26/arizona-gov-katie-hobbs-vetoed-these-bills-in-2026",
+    "https://en.wikipedia.org/wiki/Katie_Hobbs"
+   ],
+   "photo": {
+    "file": "File:Katie Hobbs 2026.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "AZ-GOV/andy-biggs",
+  "name": "Andy Biggs",
+  "party": "Republican",
+  "race": "AZ-GOV",
+  "race_label": "Arizona · Governor",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": {
+   "bioguide": "B001302",
+   "official_name": "Andy Biggs",
+   "chamber": "House",
+   "official_site": "https://biggs.house.gov",
+   "official_social": {
+    "facebook": "RepAndyBiggs",
+    "twitter": "RepAndyBiggsAZ",
+    "instagram": "repandybiggs"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 15,
+    "liberty": 90,
+    "security": 40,
+    "immigration": 95,
+    "foreign": 15,
+    "energy": 5,
+    "tech": 20,
+    "education": 5,
+    "faith": null
+   },
+   "basis": "Backs lower taxes, deregulation, school choice, border security; opposes elective abortion, Obergefell, Paris climate deal, FISA reauthorization; voted against Ukraine aid, NATO expansion.",
+   "sources": [
+    "https://biggsforarizona.com/issues/",
+    "https://en.wikipedia.org/wiki/Andy_Biggs",
+    "https://ktar.com/arizona-politics-news/election/andy-biggs-issues"
+   ],
+   "photo": {
+    "file": "File:Andy Biggs official portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   }
+  }
+ }
+]

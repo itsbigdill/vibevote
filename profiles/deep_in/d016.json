@@ -1,0 +1,643 @@
+[
+ {
+  "id": "NY-18/jackie-auringer",
+  "name": "Jackie Auringer",
+  "party": "Republican",
+  "race": "NY-18",
+  "race_label": "New York · US House NY-18",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-18/jackie-auringer",
+   "name": "Jackie Auringer",
+   "party": "Republican",
+   "current_role": "Construction project manager and marketing professional",
+   "bio": "Jackie Auringer was born and raised in Kingston, New York. She works as a project manager and managerial accountant in her family's construction business and also works in marketing and branding. She holds a marketing degree and has been active in civic and grassroots political organizing.",
+   "website": "https://winwithjackie.com/",
+   "social": {
+    "x": "https://x.com/winwithjackie",
+    "instagram": "https://instagram.com/jackieforcongress",
+    "facebook": "https://www.facebook.com/jackie4congress",
+    "tiktok": "https://www.tiktok.com/@winwithjackie"
+   },
+   "platform": [
+    {
+     "topic": "Affordability",
+     "point": "Lower taxes, energy costs and health care costs for families.",
+     "source": "https://winwithjackie.com/"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Promote job growth, small businesses, skilled trades and career-connected education.",
+     "source": "https://winwithjackie.com/"
+    },
+    {
+     "topic": "Accountability",
+     "point": "Strengthen congressional ethics, government transparency and cut wasteful spending.",
+     "source": "https://winwithjackie.com/about"
+    },
+    {
+     "topic": "Workers and AI",
+     "point": "Protect workers in sectors affected by artificial intelligence.",
+     "source": "https://winwithjackie.com/about"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Calls for lower taxes, less wasteful spending and relief from regulation and costs on small businesses.",
+     "source": "https://winwithjackie.com/about"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://winwithjackie.com/images/jackie-headshot.png",
+   "notes": "The ballot lists her as Jacqueline Auringer; she campaigns as Jackie. Her site gives few specific policy details."
+  }
+ },
+ {
+  "id": "NY-19/peter-oberacker",
+  "name": "Peter Oberacker",
+  "party": "Republican",
+  "race": "NY-19",
+  "race_label": "New York · US House NY-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-19/peter-oberacker",
+   "name": "Peter Oberacker",
+   "party": "Republican",
+   "current_role": "New York State Senator, 51st District",
+   "bio": "Peter Oberacker has served in the New York State Senate since 2021. He was earlier a Maryland town board member, town supervisor and Otsego County legislator. A food scientist from Schenevus, he founded the food company FormTech Solutions and has been a longtime volunteer firefighter and EMT.",
+   "website": "https://www.peterforny19.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "Keep taxes low, citing a record of never passing a budget that raised them.",
+     "source": "https://www.peterforny19.com/blank-1"
+    },
+    {
+     "topic": "Utilities",
+     "point": "Investigate utility company practices and enact a ratepayer bill of rights.",
+     "source": "https://en.wikipedia.org/wiki/Peter_Oberacker"
+    },
+    {
+     "topic": "Food safety",
+     "point": "Ban certain food additives such as Red No. 3 and potassium bromate.",
+     "source": "https://en.wikipedia.org/wiki/Peter_Oberacker"
+    },
+    {
+     "topic": "Economy",
+     "point": "Expand economic opportunity so young people can stay in upstate New York.",
+     "source": "https://www.peterforny19.com/blank-1"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Campaigns on keeping taxes low and never raising them in local budgets.",
+     "source": "https://www.peterforny19.com/blank-1"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 65,
+     "evidence": "Drugs: voted against New York's 2021 recreational marijuana legalization; no other liberty issues found.",
+     "source": "https://en.wikipedia.org/wiki/Peter_Oberacker"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:(05-12-25) NYS Senator Peter Oberacker (cropped).jpg",
+    "license": "CC BY 2.0",
+    "author": "NY Senate Photo"
+   },
+   "campaign_photo": "",
+   "notes": "His campaign site lists no detailed issue platform; the liberty score rests on a single marijuana vote."
+  }
+ },
+ {
+  "id": "NY-2/andrew-garbarino",
+  "name": "Andrew Garbarino",
+  "party": "Republican",
+  "race": "NY-2",
+  "race_label": "New York · US House NY-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000597",
+   "official_name": "Andrew R. Garbarino",
+   "chamber": "House",
+   "official_site": "https://garbarino.house.gov",
+   "official_social": {
+    "twitter": "RepGarbarino",
+    "facebook": "RepAndrewGarbarino"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-2/andrew-garbarino",
+   "name": "Andrew Garbarino",
+   "party": "Republican",
+   "current_role": "U.S. Representative for NY-2",
+   "bio": "Andrew Garbarino has represented New York's 2nd District since 2021 and has chaired the House Homeland Security Committee since July 2025. He previously served in the New York State Assembly from 2013 to 2020. He is from Sayville, New York, and is a member of the Republican Governance Group.",
+   "website": "https://garbarinoforny.com/",
+   "social": {
+    "x": "https://x.com/RepGarbarino",
+    "facebook": "https://www.facebook.com/RepAndrewGarbarino",
+    "instagram": "https://www.instagram.com/garbarinoforcongress",
+    "youtube": "https://www.youtube.com/channel/UCJrGd8qJE_pNc0s0EYb1AFQ"
+   },
+   "platform": [
+    {
+     "topic": "Homeland security",
+     "point": "Leads House Homeland Security Committee work on cybersecurity and infrastructure protection.",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Garbarino"
+    },
+    {
+     "topic": "Law enforcement",
+     "point": "Lists standing with law enforcement as an official priority.",
+     "source": "https://garbarino.house.gov/issues"
+    },
+    {
+     "topic": "Second Amendment",
+     "point": "Says he works to safeguard constituents' Second Amendment rights.",
+     "source": "https://garbarino.house.gov/issues"
+    },
+    {
+     "topic": "Opioids",
+     "point": "Names the opioid epidemic as an issue area for his office.",
+     "source": "https://garbarino.house.gov/issues"
+    },
+    {
+     "topic": "Animal welfare",
+     "point": "Opposes federal preemption of state animal welfare laws.",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Garbarino"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": {
+     "score": 35,
+     "evidence": "Voted for the 2021 background checks bill (guns) and the Respect for Marriage Act (LGBTQ rights).",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Garbarino"
+    },
+    "security": null,
+    "immigration": {
+     "score": 50,
+     "evidence": "Voted for the Farm Workforce Modernization Act, which offers farmworkers a path to legal status.",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Garbarino"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "NY-2/patrick-halpin",
+  "name": "Patrick Halpin",
+  "party": "Democratic",
+  "race": "NY-2",
+  "race_label": "New York · US House NY-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-2/patrick-halpin",
+   "name": "Patrick Halpin",
+   "party": "Democratic",
+   "current_role": "Former Suffolk County Executive",
+   "bio": "Patrick Halpin served in the Suffolk County Legislature from 1979 and in the New York State Assembly from 1982, then was Suffolk County Executive from 1988 to 1991. He later worked in education nonprofits and served on the Suffolk County Water Authority from 2006, becoming its chair in 2018. He is from Long Island's South Shore.",
+   "website": "https://www.halpinforcongress.com/",
+   "social": {
+    "x": "https://x.com/Pat_Halpin",
+    "instagram": "https://www.instagram.com/pat_halpin_ny/",
+    "facebook": "https://www.facebook.com/HalpinforCongress",
+    "tiktok": "https://www.tiktok.com/@pat_halpin",
+    "youtube": "https://www.youtube.com/@PatHalpinforCongress"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Lower costs for families, from rent and childcare to medical bills.",
+     "source": "https://www.halpinforcongress.com/"
+    },
+    {
+     "topic": "Taxes",
+     "point": "Oppose tax breaks for billionaires and special interests to help bring costs down.",
+     "source": "https://www.halpinforcongress.com/about"
+    },
+    {
+     "topic": "Housing",
+     "point": "Expand housing options so young people, families and seniors can stay on Long Island.",
+     "source": "https://www.halpinforcongress.com/"
+    },
+    {
+     "topic": "Environment",
+     "point": "Protect drinking water and preserve parks and beaches.",
+     "source": "https://www.halpinforcongress.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Make community safety a priority, building on his community policing record.",
+     "source": "https://www.halpinforcongress.com/about"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 65,
+     "evidence": "Says he will fight billionaire tax breaks and special interests to lower costs.",
+     "source": "https://www.halpinforcongress.com/about"
+    },
+    "welfare": {
+     "score": 70,
+     "evidence": "Campaign prioritises lowering rent, childcare and medical costs for families.",
+     "source": "https://www.halpinforcongress.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://run.imgix.net/c4b5920c-d331-4f80-99ec-b442234934ad/c717da3b-5bbc-4444-8474-8a53c3713db9/c717da3b-5bbc-4444-8474-8a53c3713db9.jpg",
+   "notes": "An immigration score was removed because the campaign's ICE material criticises his opponent without stating a policy. The Wikipedia portrait is credited to the Suffolk County Water Authority without a specific free licence, so it was not used."
+  }
+ },
+ {
+  "id": "NY-24/alissa-ellman",
+  "name": "Alissa Ellman",
+  "party": "Democratic",
+  "race": "NY-24",
+  "race_label": "New York · US House NY-24",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-24/alissa-ellman",
+   "name": "Alissa Ellman",
+   "party": "Democratic",
+   "current_role": "Former U.S. Department of Veterans Affairs program support assistant",
+   "bio": "Alissa Ellman is the Democratic nominee for New York's 24th District. She previously worked as a program support assistant at the U.S. Department of Veterans Affairs before being laid off in 2025. She has not held elected office and has also been endorsed by the Forward Party.",
+   "website": "https://www.ellmanforcongress.com/",
+   "social": {
+    "instagram": "https://www.instagram.com/alissaellman4congress/",
+    "facebook": "https://www.facebook.com/EllmanforCongress"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Protect and expand Medicaid to keep coverage affordable.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Expand child care, fund home repair programs and low-income housing tax credits, and support small businesses.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Extend bus service to rural areas and secure federal funding for water systems and repairs.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    },
+    {
+     "topic": "Labor",
+     "point": "Pass the PRO Act, end right-to-work laws and address misclassification of contractors.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    },
+    {
+     "topic": "Rights",
+     "point": "Defend LGBTQ rights, marriage equality and reproductive choice.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    },
+    {
+     "topic": "Campaign finance",
+     "point": "Reject corporate donations and run a grassroots-funded campaign.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 75,
+     "evidence": "Supports the PRO Act and ending right-to-work laws.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    },
+    "welfare": {
+     "score": 75,
+     "evidence": "Wants to protect and expand Medicaid and expand child care access.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    },
+    "liberty": {
+     "score": 15,
+     "evidence": "LGBTQ: supports LGBTQ rights and marriage equality; abortion: defends reproductive choice.",
+     "source": "https://www.ellmanforcongress.com/issues"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "An immigration score was removed because her issues page states no immigration position."
+  }
+ },
+ {
+  "id": "NY-25/virginia-mcintyre",
+  "name": "Virginia McIntyre",
+  "party": "Republican",
+  "race": "NY-25",
+  "race_label": "New York · US House NY-25",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-25/virginia-mcintyre",
+   "name": "Virginia McIntyre",
+   "party": "Republican",
+   "current_role": "Monroe County Legislator",
+   "bio": "Virginia McIntyre has served in the Monroe County Legislature since 2024 and is the Republican nominee for New York's 25th District. Born and raised in Gates, she has worked as an entrepreneur, language professor and interpreter, including in Italy. She is a graduate of SUNY Purchase College.",
+   "website": "https://virginiamcintyreforcongress.com/",
+   "social": {
+    "x": "https://x.com/VirginiaforNY25",
+    "instagram": "https://www.instagram.com/virginiamcintyreforcongress/",
+    "facebook": "https://www.facebook.com/profile.php?id=61588353574507"
+   },
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "End taxes on Social Security, tips and overtime, simplify filing and expand child tax credits.",
+     "source": "https://virginiamcintyreforcongress.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Back community policing and prevention programs and target trafficking and fentanyl.",
+     "source": "https://virginiamcintyreforcongress.com/"
+    },
+    {
+     "topic": "Education",
+     "point": "Expand vocational and technical education and hold schools accountable.",
+     "source": "https://virginiamcintyreforcongress.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Require price transparency and protect families from unfair medical billing.",
+     "source": "https://virginiamcintyreforcongress.com/"
+    },
+    {
+     "topic": "Government reform",
+     "point": "Support congressional term limits, a No Budget, No Pay rule and cutting wasteful spending.",
+     "source": "https://virginiamcintyreforcongress.com/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Repair roads and bridges and expand broadband with oversight.",
+     "source": "https://virginiamcintyreforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Backs the 2025 tax law's cuts for seniors and working families, no tax on tips or overtime, and small-business relief.",
+     "source": "https://virginiamcintyreforcongress.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://media.virginiamcintyreforcongress.com/BioPHOTO-2026-06-18-22-17-26.png",
+   "notes": "Economy score is new, based on her campaign site's tax positions; most other issue positions are too general to score."
+  }
+ },
+ {
+  "id": "NY-4/jeanine-driscoll",
+  "name": "Jeanine Driscoll",
+  "party": "Republican",
+  "race": "NY-4",
+  "race_label": "New York · US House NY-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-4/jeanine-driscoll",
+   "name": "Jeanine Driscoll",
+   "party": "Republican",
+   "current_role": "Hempstead Town Receiver of Taxes",
+   "bio": "Jeanine Driscoll has been Hempstead Town Receiver of Taxes since 2019 and was re-elected in 2023. She practised aviation law for over two decades and was appointed an associate village justice in Bellerose in 2015. She holds degrees from Catholic University of America and Fordham Law School and lives in Bellerose Village in Nassau County.",
+   "website": "https://driscoll4congress.com/",
+   "social": {
+    "x": "https://x.com/driscoll4ny",
+    "facebook": "https://www.facebook.com/driscoll4ny"
+   },
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "Restore the full SALT deduction and ease tax burdens on families, seniors and small businesses.",
+     "source": "https://driscoll4congress.com/"
+    },
+    {
+     "topic": "Border security",
+     "point": "Keep the southern border closed and support record border funding.",
+     "source": "https://driscoll4congress.com/"
+    },
+    {
+     "topic": "Law enforcement",
+     "point": "Pledges to back law enforcement.",
+     "source": "https://driscoll4congress.com/"
+    },
+    {
+     "topic": "Water",
+     "point": "Protect Long Island's aquifer and win federal funding to clean up the Bethpage Plume.",
+     "source": "https://patch.com/new-york/longisland/new-york-primary-previews-meet-jeanine-driscoll-candidate-new-york-s-4th"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Secure Long Island's share of federal infrastructure money without raising local taxes.",
+     "source": "https://patch.com/new-york/longisland/new-york-primary-previews-meet-jeanine-driscoll-candidate-new-york-s-4th"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Calls for lower federal taxes on families and small businesses and backs no tax on tips and overtime.",
+     "source": "https://driscoll4congress.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 65,
+     "evidence": "Says the southern border must never be opened again and supports record border funding.",
+     "source": "https://driscoll4congress.com/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://driscoll4congress.com/wp-content/uploads/2026/04/4-2026_NCRP_J_Driscoll_-_57_cleaned-683x1024.jpg",
+   "notes": ""
+  }
+ },
+ {
+  "id": "NY-5/george-marsh",
+  "name": "George Marsh",
+  "party": "Republican",
+  "race": "NY-5",
+  "race_label": "New York · US House NY-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "NY-5/george-marsh",
+   "name": "George Marsh",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "George Marsh is the Republican nominee for New York's 5th Congressional District in 2026. No further biographical details were found in the sources checked.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign site was found, and FEC filings reported no fundraising as of June 2026."
+  }
+ }
+]

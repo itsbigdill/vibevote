@@ -1,0 +1,443 @@
+[
+ {
+  "id": "CA-17/ro-khanna",
+  "name": "Ro Khanna",
+  "party": "Democratic",
+  "race": "CA-17",
+  "race_label": "California · US House CA-17",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000389",
+   "official_name": "Ro Khanna",
+   "chamber": "House",
+   "official_site": "https://khanna.house.gov",
+   "official_social": {
+    "facebook": "RepRoKhanna",
+    "twitter": "RepRoKhanna",
+    "instagram": "reprokhanna"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": 20,
+    "energy": 75,
+    "tech": 80,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Billionaire taxes, $17 minimum wage; Medicare for All, universal childcare; LGBT rights; non-interventionist; Green New Deal; Internet Bill of Rights, antitrust; free college.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ro_Khanna",
+    "https://www.rokhanna.com/"
+   ],
+   "photo": {
+    "file": "File:Ro Khanna, official portrait, 115th Congress (crop).jpg",
+    "license": "Public domain",
+    "author": "U.S. Congress/Eric Connolly"
+   }
+  }
+ },
+ {
+  "id": "CA-17/ritesh-tandon",
+  "name": "Ritesh Tandon",
+  "party": "Republican",
+  "race": "CA-17",
+  "race_label": "California · US House CA-17",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 45,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 40,
+    "tech": 25,
+    "education": 55,
+    "faith": null
+   },
+   "basis": "Opposes wealth and mileage taxes, cut regulation; affordable childcare access; all-of-the-above energy; startup-friendly policy; higher teacher pay.",
+   "sources": [
+    "https://www.tandonforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-18/zoe-lofgren",
+  "name": "Zoe Lofgren",
+  "party": "Democratic",
+  "race": "CA-18",
+  "race_label": "California · US House CA-18",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "L000397",
+   "official_name": "Zoe Lofgren",
+   "chamber": "House",
+   "official_site": "https://lofgren.house.gov",
+   "official_social": {
+    "twitter": "RepZoeLofgren",
+    "facebook": "zoelofgren",
+    "youtube": "RepZoeLofgren"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 80,
+    "liberty": 10,
+    "security": 25,
+    "immigration": null,
+    "foreign": null,
+    "energy": 85,
+    "tech": 30,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Medicare for All caucus, public option; 100% NARAL rating; opposed data retention and SOPA; Green New Deal; opposed Big Tech antitrust package.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Zoe_Lofgren"
+   ],
+   "photo": {
+    "file": "File:Zoe Lofgren Official Portrait 2024 (cropped).jpeg",
+    "license": "Public domain",
+    "author": "Brian Thorpe, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-18/shane-lewis",
+  "name": "Shane Lewis",
+  "party": "Republican",
+  "race": "CA-18",
+  "race_label": "California · US House CA-18",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 55,
+    "foreign": null,
+    "energy": 50,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "7% flat wage tax and deficit cuts; expand H-2A while counting only citizens; all-of-the-above energy; student-linked funding and parental rights.",
+   "sources": [
+    "https://www.shanelewisforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-19/jimmy-panetta",
+  "name": "Jimmy Panetta",
+  "party": "Democratic",
+  "race": "CA-19",
+  "race_label": "California · US House CA-19",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000613",
+   "official_name": "Jimmy Panetta",
+   "chamber": "House",
+   "official_site": "https://panetta.house.gov",
+   "official_social": {
+    "facebook": "RepJimmyPanetta",
+    "twitter": "RepJimmyPanetta",
+    "instagram": "repjimmypanetta"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 75,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": 80,
+    "energy": 80,
+    "tech": 30,
+    "education": 70,
+    "faith": null
+   },
+   "basis": "Public investment; supports universal health care and childcare; 100% NARAL; F-16s for Ukraine, Taiwan support; blocks offshore drilling; voted against antitrust fees bill; Pre-K.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jimmy_Panetta",
+    "https://www.jimmypanetta.com/issues"
+   ],
+   "photo": {
+    "file": "File:Jimmy Panetta official portrait (cropped).jpg",
+    "license": "Public domain",
+    "author": "Eric Connolly, U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "CA-19/peter-verbica",
+  "name": "Peter Verbica",
+  "party": "Republican",
+  "race": "CA-19",
+  "race_label": "California · US House CA-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cut taxes and business regulation, oppose PAGA and contractor rules; end gas taxes and reformulated fuel blends.",
+   "sources": [
+    "https://peterverbica.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-20/vince-fong",
+  "name": "Vince Fong",
+  "party": "Republican",
+  "race": "CA-20",
+  "race_label": "California · US House CA-20",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000480",
+   "official_name": "Vince Fong",
+   "chamber": "House",
+   "official_site": "https://fong.house.gov",
+   "official_social": {
+    "twitter": "RepVinceFong",
+    "instagram": "repvincefong"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 25,
+    "security": null,
+    "immigration": 75,
+    "foreign": 70,
+    "energy": 20,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Protects gun rights (liberty); border security and enforcement; strong defense and deterrence; expand domestic energy production.",
+   "sources": [
+    "https://vincefong.com/issues"
+   ],
+   "photo": {
+    "file": "File:Vince Fong official congressional photograph 118th congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Nate Payne, United States House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-20/sandra-van-scotter",
+  "name": "Sandra Van Scotter",
+  "party": "Democratic",
+  "race": "CA-20",
+  "race_label": "California · US House CA-20",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 100,
+    "liberty": null,
+    "security": null,
+    "immigration": 20,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Medicare for All as a constitutional right; pathway to legal status for undocumented workers.",
+   "sources": [
+    "https://www.sandravanscotterforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-21/jim-costa",
+  "name": "Jim Costa",
+  "party": "Democratic",
+  "race": "CA-21",
+  "race_label": "California · US House CA-21",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001059",
+   "official_name": "Jim Costa",
+   "chamber": "House",
+   "official_site": "https://costa.house.gov",
+   "official_social": {
+    "twitter": "RepJimCosta",
+    "facebook": "RepJimCosta",
+    "youtube": "RepJimCostaCA20"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 40,
+    "security": 60,
+    "immigration": 35,
+    "foreign": 80,
+    "energy": 50,
+    "tech": 60,
+    "education": 80,
+    "faith": 30
+   },
+   "basis": "Backs minimum wage hike, ACA, Ukraine F-16s and Israel aid, farmworker legalization; voted for Keystone XL; pro-choice with background checks drove liberty.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jim_Costa",
+    "https://www.ontheissues.org/CA/Jim_Costa.htm"
+   ],
+   "photo": {
+    "file": "File:Rep Costa Headshot 2 (cropped).jpg",
+    "license": "Public domain",
+    "author": "Jim Costa's Congressional Office"
+   }
+  }
+ },
+ {
+  "id": "CA-21/kyle-kirkland",
+  "name": "Kyle Kirkland",
+  "party": "Republican",
+  "race": "CA-21",
+  "race_label": "California · US House CA-21",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": 60,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Campaign pledges to end over-regulation, back police, stop cartels while respecting legal immigration, and empower parents in schools.",
+   "sources": [
+    "https://kirkland2026.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-22/david-valadao",
+  "name": "David Valadao",
+  "party": "Republican",
+  "race": "CA-22",
+  "race_label": "California · US House CA-22",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "V000129",
+   "official_name": "David G. Valadao",
+   "chamber": "House",
+   "official_site": "https://valadao.house.gov",
+   "official_social": {
+    "twitter": "RepDavidValadao",
+    "facebook": "CongressmanDavidValadao"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 35,
+    "liberty": 55,
+    "security": 65,
+    "immigration": 45,
+    "foreign": 70,
+    "energy": 25,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Voted for 2017 tax cuts and 2025 megabill, backs pathway plus border wall, Iran strikes; pro-life, pro-gun, yet voted Respect for Marriage Act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/David_Valadao",
+    "https://www.ontheissues.org/CA/David_Valadao.htm"
+   ],
+   "photo": {
+    "file": "File:David Valadao 117th U.S Congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Committee"
+   }
+  }
+ },
+ {
+  "id": "CA-22/randy-villegas",
+  "name": "Randy Villegas",
+  "party": "Democratic",
+  "race": "CA-22",
+  "race_label": "California · US House CA-22",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 95,
+    "liberty": null,
+    "security": null,
+    "immigration": 25,
+    "foreign": 30,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports Medicare for All, opposes SNAP and Medicaid cuts, targets price gouging and monopolies, criticizes ICE, called for Gaza ceasefire.",
+   "sources": [
+    "https://platform.anewpolicypac.org/candidates/randy-villegas-ca",
+    "https://www.nationalnursesunited.org/press/national-nurses-united-endorses-randy-villegas-for-californias-22nd-district"
+   ],
+   "photo": null
+  }
+ }
+]

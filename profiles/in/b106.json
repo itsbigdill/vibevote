@@ -1,0 +1,122 @@
+[
+ {
+  "id": "WY-AL/chuck-gray",
+  "name": "Chuck Gray",
+  "party": "Republican",
+  "race": "WY-AL",
+  "race_label": "Wyoming · US House WY-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": 80,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Blames costs on regulation and deficit spending; backed abortion ultrasound and reporting requirements as legislator; liberty based on abortion.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Chuck_Gray_(Wyoming_politician)"
+   ],
+   "photo": {
+    "file": "File:Chuck Gray in 2025 (cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "WY-AL/lisa-kinney",
+  "name": "Lisa Kinney",
+  "party": "Democratic",
+  "race": "WY-AL",
+  "race_label": "Wyoming · US House WY-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": 30,
+    "foreign": 40,
+    "energy": null,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Close billionaire loopholes, oppose tariffs, keep ACA subsidies, reform ICE, end Iran intervention but keep NATO, restore Education Department and school meals.",
+   "sources": [
+    "https://lisakinneyforcongress.com/news/r-e-a-l/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WY-AL/shawn-johnson",
+  "name": "Shawn Johnson",
+  "party": "Libertarian",
+  "race": "WY-AL",
+  "race_label": "Wyoming · US House WY-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Wyoming%27s_At-Large_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "WY-AL/jeff-haggit",
+  "name": "Jeff Haggit",
+  "party": "Constitution",
+  "race": "WY-AL",
+  "race_label": "Wyoming · US House WY-AL",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Wyoming%27s_At-Large_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ }
+]

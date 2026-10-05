@@ -1,0 +1,926 @@
+[
+  {
+    "state": "New Jersey",
+    "district": "NJ-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Donald Norcross",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 70,
+          "liberty": 30,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 75,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Backs raising wages and estate tax, Medicare drug negotiation, abortion rights, gun restrictions; opposes offshore drilling and school vouchers.",
+        "sources": [
+          "https://www.donaldnorcrossforcongress.com/issue/improving-health-care/",
+          "https://www.donaldnorcrossforcongress.com/issue/protecting-the-environment/",
+          "https://www.ontheissues.org/NJ/Donald_Norcross.htm"
+        ],
+        "photo": {
+          "file": "File:Donald Norcross official portrait (alt crop).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Damon Galdo",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 30,
+          "liberty": 65,
+          "security": 70,
+          "immigration": 70,
+          "foreign": null,
+          "energy": 35,
+          "tech": null,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "Wants spending and regulation cuts, HSAs, tougher drug and violent-crime penalties, secure borders, and parental rights in schools; liberty from drug penalties.",
+        "sources": [
+          "https://votedamongaldo.com/platform"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jeff Van Drew",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 35,
+          "welfare": 35,
+          "liberty": 50,
+          "security": 65,
+          "immigration": 75,
+          "foreign": 30,
+          "energy": 20,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for 2025 tax-and-Medicaid bill, against Ukraine aid and NATO expansion; opposes offshore wind; mixed LGBTQ votes, against background checks.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jeff_Van_Drew",
+          "https://www.ontheissues.org/NJ/Jeff_Van_Drew.htm"
+        ],
+        "photo": {
+          "file": "File:Jeff Van Drew Official Portrait 116th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography/House Creative Services"
+        }
+      },
+      {
+        "name": "Zack Mullock",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 90,
+          "welfare": 95,
+          "liberty": 30,
+          "security": null,
+          "immigration": null,
+          "foreign": 75,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Proposes billionaire wealth tax and Medicare for All, abortion rights and gun safety, full NATO/UN funding, rapid solar expansion.",
+        "sources": [
+          "https://mullockforcongress.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Ramon Mora Jr.",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Herb Conaway",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 60,
+          "welfare": 70,
+          "liberty": 30,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 70,
+          "tech": 75,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs expanded child tax credit and SALT, drug-price caps, codifying Roe, Paris goals, limits on social media harms and AI insurance denials.",
+        "sources": [
+          "https://www.herbforcongress.com/issues",
+          "https://en.wikipedia.org/wiki/Herb_Conaway"
+        ],
+        "photo": {
+          "file": "File:Conaway Herb 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Michael McGuire",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 60,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls for cutting wasteful spending, lower middle-class taxes, and strong military funding and modernization.",
+        "sources": [
+          "https://michaelmcguireforcongress.com/issues/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Ryan Michael Kelly",
+        "party": "Affordability, Accountability, People",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Steven Welzer",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Chris Smith",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 50,
+          "welfare": 50,
+          "liberty": 85,
+          "security": null,
+          "immigration": 40,
+          "foreign": 75,
+          "energy": 65,
+          "tech": null,
+          "education": null,
+          "faith": 75
+        },
+        "basis": "Strongly anti-abortion, voted against Respect for Marriage Act, backs gun restrictions and unions, climate action, farmworker legalization, international religious-freedom work.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Chris_Smith_(New_Jersey_politician)"
+        ],
+        "photo": {
+          "file": "File:Chris Smith official photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Rachel Peace",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions could be retrieved from her campaign site or other sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Josh Gottheimer",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 40,
+          "welfare": 45,
+          "liberty": 30,
+          "security": 65,
+          "immigration": 50,
+          "foreign": 90,
+          "energy": 60,
+          "tech": 40,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Centrist: SALT restoration, opposes single-payer, abortion rights and gun control, police funding, Laken Riley Act, strong Israel/Ukraine support, light-touch AI.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Josh_Gottheimer"
+        ],
+        "photo": {
+          "file": "File:Josh Gottheimer Photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "Kristie Boyd; U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Sean Kirrane",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions could be retrieved from his campaign site or other sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Adam Rueda",
+        "party": "Humane Sustainable Future",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Frank Pallone",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 85,
+          "liberty": 30,
+          "security": 25,
+          "immigration": 20,
+          "foreign": 60,
+          "energy": 90,
+          "tech": 80,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "ACA defender, backs higher wages, abortion and LGBTQ rights, background checks, police accountability, data-privacy law, clean energy; opposes vouchers.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Frank_Pallone",
+          "https://pallone.house.gov/issues",
+          "https://www.ontheissues.org/NJ/Frank_Pallone.htm"
+        ],
+        "photo": {
+          "file": "File:Frank Pallone Photo.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Hillary Herzig",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 40,
+          "welfare": 30,
+          "liberty": 25,
+          "security": 20,
+          "immigration": 60,
+          "foreign": null,
+          "energy": 50,
+          "tech": null,
+          "education": 20,
+          "faith": null
+        },
+        "basis": "Backs lower taxes and breaking up monopolies, federal cannabis legalization, limits on police surveillance, legal immigration, and school choice.",
+        "sources": [
+          "https://www.herzigforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Thomas Kean Jr.",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 40,
+          "welfare": 45,
+          "liberty": 55,
+          "security": null,
+          "immigration": 70,
+          "foreign": 70,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Seeks full SALT deduction, voted to extend ACA credits, voted against abortion-rights bill, backs border security and Iran strikes.",
+        "sources": [
+          "https://kean.house.gov/issues",
+          "https://en.wikipedia.org/wiki/Thomas_Kean_Jr."
+        ],
+        "photo": {
+          "file": "File:Rep. Tom Kean official photo, 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Office of Congressman Tom Kean"
+        }
+      },
+      {
+        "name": "Rebecca Bennett",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 60,
+          "liberty": 65,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Pledges to protect health coverage, keep weapons off streets, and invest in renewable energy to address climate change; liberty from guns only.",
+        "sources": [
+          "https://rebeccabennettforcongress.com/priorities/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Seamus Patrick O'Toole",
+        "party": "Stop Israel's Genocide",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Rob Menendez",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 80,
+          "liberty": 30,
+          "security": null,
+          "immigration": 5,
+          "foreign": null,
+          "energy": 90,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Calls healthcare a human right, backs codifying Roe and an assault weapons ban, abolishing ICE, and halving emissions by 2030.",
+        "sources": [
+          "https://www.robmenendez.com/issues/immigration/",
+          "https://www.robmenendez.com/issues/healthcare/",
+          "https://www.robmenendez.com/issues/climate-change/"
+        ],
+        "photo": {
+          "file": "File:Rep. Rob Menendez Jr. - 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Aristotle Eliopoulos",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 70,
+          "faith": null
+        },
+        "basis": "Teacher and union representative running as a Republican-backed independent; cites underfunded classrooms but publishes few other positions.",
+        "sources": [
+          "https://arieliopoulosforcongress.com/",
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Craig Honts",
+        "party": "Socialist Workers",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Da'Shone Hughey",
+        "party": "We The People",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Nellie Pou",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 70,
+          "liberty": null,
+          "security": 60,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs protecting the ACA and Medicaid, extending ACA tax credits, lowering drug costs, and more police funding.",
+        "sources": [
+          "https://nelliepoufornewjersey.com/nellies-priorities/"
+        ],
+        "photo": {
+          "file": "File:Pou Nellie 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Rosie Pino",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": 30,
+          "liberty": 75,
+          "security": 75,
+          "immigration": 70,
+          "foreign": null,
+          "energy": 25,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Supports Trump tax cuts, HSAs, pro-life with exceptions, full police funding, ICE deportations of criminals, energy independence, education savings accounts.",
+        "sources": [
+          "https://rosiepinofornj.com/issues/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Terrisa Bukovinac",
+        "party": "Save Our Babies",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-10",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "LaMonica McIver",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": 90,
+          "liberty": 35,
+          "security": null,
+          "immigration": 5,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs universal healthcare, paid family leave, federal abortion protections, assault weapons ban, abolishing ICE, and renewable investment.",
+        "sources": [
+          "https://www.lamonicaforcongress.com/providing-equitable-access-to-high-quali",
+          "https://www.lamonicaforcongress.com/safeguarding-our-communities",
+          "https://en.wikipedia.org/wiki/LaMonica_McIver"
+        ],
+        "photo": {
+          "file": "File:Representative LaMonica McIver 119th congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Carmen Bucco",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": 15,
+          "security": 75,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants lower taxes and spending cuts, says gun rights should never be infringed, and opposes limits on law enforcement.",
+        "sources": [
+          "https://carmenbucco.com/issues/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-11",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Analilia Mejia",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 95,
+          "welfare": 100,
+          "liberty": null,
+          "security": null,
+          "immigration": 5,
+          "foreign": null,
+          "energy": 75,
+          "tech": 90,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Backs $25 minimum wage, billionaire tax, Medicare for All, $10-a-day childcare, abolishing ICE, AI data center moratorium, tuition-free college.",
+        "sources": [
+          "https://www.analiliafornj.com/economy-for-everyone",
+          "https://en.wikipedia.org/wiki/Analilia_Mejia"
+        ],
+        "photo": {
+          "file": "File:Analilia Mejia, official portrait (119th Congress) (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Joe Hathaway",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 40,
+          "welfare": 35,
+          "liberty": null,
+          "security": 70,
+          "immigration": 65,
+          "foreign": 85,
+          "energy": 35,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs child tax credit expansion, HSAs, police funding, border security, support for Israel and Ukraine, all-of-the-above energy, kids online protections.",
+        "sources": [
+          "https://www.joehathawayforcongress.com/platform"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Alan B. Bond",
+        "party": "Hope for Tomorrow",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "New Jersey",
+    "district": "NJ-12",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Adam Hamawy",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 100,
+          "liberty": 10,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports single-payer Medicare for All, medical debt cancellation, breaking up pharmacy middlemen, and codifying abortion rights.",
+        "sources": [
+          "https://hamawyfornj.com/priorities",
+          "https://en.wikipedia.org/wiki/Adam_Hamawy"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Gregg Mele",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions could be retrieved from campaign or other sources.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Andres Jinete",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Winston Jordan",
+        "party": "Get Money Out",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-official-general-candidates-us-house-0904.pdf"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

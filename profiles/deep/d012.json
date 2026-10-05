@@ -1,0 +1,278 @@
+[
+ {
+  "id": "MD-4/george-mcdermott",
+  "name": "George McDermott",
+  "party": "Republican",
+  "current_role": "Contractor and court-watch activist",
+  "bio": "George McDermott is the Republican nominee for Maryland's 4th Congressional District in 2026 and was the party's nominee for the seat in 2020 and 2024, losing in 2024 to Rep. Glenn Ivey. He describes himself as a contractor and developer who has spent about two decades campaigning against what he calls corruption in the courts, including reporting for court-watch websites.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Courts", "point": "Would first push legislation requiring the Supreme Court and House to answer questions about federal laws he views as lacking constitutional basis.", "source": "https://www.thebanner.com/voter-guide-2024/races/2024-election-maryland-4th-congressional-district-TRA44PJO7VCZ7OFCJ6GI3UAKZM/"},
+   {"topic": "Abortion", "point": "Opposed national abortion bans and backed legal abortion nationwide and protected IVF access in his 2024 questionnaire.", "source": "https://www.thebanner.com/voter-guide-2024/races/2024-election-maryland-4th-congressional-district-TRA44PJO7VCZ7OFCJ6GI3UAKZM/"},
+   {"topic": "Guns", "point": "Supported federal background checks, registration and storage affidavits for military-style rifles.", "source": "https://www.thebanner.com/voter-guide-2024/races/2024-election-maryland-4th-congressional-district-TRA44PJO7VCZ7OFCJ6GI3UAKZM/"},
+   {"topic": "Health care", "point": "Wants to target waste and fraud by hospitals, providers and drug companies rather than repeal the Affordable Care Act.", "source": "https://www.thebanner.com/voter-guide-2024/races/2024-election-maryland-4th-congressional-district-TRA44PJO7VCZ7OFCJ6GI3UAKZM/"},
+   {"topic": "Marijuana", "point": "Strongly agreed with legalizing marijuana in an earlier iVoterGuide questionnaire.", "source": "https://ivoterguide.com/candidate/19510/race/2054/election/485?culture=en-us"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 60, "evidence": "In an earlier iVoterGuide questionnaire he strongly opposed repealing the Affordable Care Act; this is a single general answer.", "source": "https://ivoterguide.com/candidate/19510/race/2054/election/485?culture=en-us"},
+   "liberty": {"score": 35, "evidence": "Backed legal abortion nationwide and marijuana legalization (individual choice) but supported registration and background checks for military-style rifles (community rules).", "source": "https://www.thebanner.com/voter-guide-2024/races/2024-election-maryland-4th-congressional-district-TRA44PJO7VCZ7OFCJ6GI3UAKZM/"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "In an earlier questionnaire he disagreed with building a border wall but also opposed resettling refugees without vetting.", "source": "https://ivoterguide.com/candidate/19510/race/2054/election/485?culture=en-us"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 70, "evidence": "In his iVoterGuide values statement he cites his Christian faith and describes the Ten Commandments as a foundation of U.S. law.", "source": "https://ivoterguide.com/candidate/19510/race/2054/election/485?culture=en-us"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions come from his 2024 Baltimore Banner questionnaire and an older, undated iVoterGuide questionnaire; no 2026 campaign site was found and some older answers (e.g. on abortion) differ from his 2024 answers. Economy, security, foreign policy, energy, tech and education remain unknown."
+ },
+ {
+  "id": "MD-5/chris-chaffee",
+  "name": "Chris Chaffee",
+  "party": "Republican",
+  "current_role": "Home builder and farmer",
+  "bio": "Chris Chaffee is the Republican nominee for Maryland's 5th Congressional District, the seat being vacated by Rep. Steny Hoyer. He trained as an electrician, attended the University of Maryland and has run a home building and renovation business since 1991; he was the 2022 Republican nominee for U.S. Senate, losing to Chris Van Hollen. He pledges to limit himself to three House terms.",
+  "website": "https://www.chaffeeamericafirst.com/",
+  "social": {"facebook": "https://www.facebook.com/ChrisChaffeeforSENATE/"},
+  "platform": [
+   {"topic": "Infrastructure", "point": "Rebuild Baltimore's Key Bridge faster and study a new Calvert-to-St. Mary's bridge serving Patuxent River Naval Air Station.", "source": "https://www.chaffeeamericafirst.com/"},
+   {"topic": "Housing", "point": "Shorten permit processes for residential and commercial construction to address high home and rent costs.", "source": "https://www.chaffeeamericafirst.com/"},
+   {"topic": "Budget", "point": "Stop legislators' pay when budgets are not balanced or the government shuts down.", "source": "https://www.chaffeeamericafirst.com/"},
+   {"topic": "Term limits", "point": "Limit himself to three terms and push for congressional term limits.", "source": "https://www.chaffeeamericafirst.com/"},
+   {"topic": "Iran", "point": "Opposes ground troops; wants inspectors to remove Iran's nuclear fuel and the war with Iran ended.", "source": "https://www.chaffeeamericafirst.com/"},
+   {"topic": "Fuel prices", "point": "Suspend federal and state fuel taxes for 30 days to lower prices.", "source": "https://www.chaffeeamericafirst.com/"},
+   {"topic": "Local industry", "point": "Protect Southern Maryland farmers and Chesapeake Bay watermen.", "source": "https://www.chaffeeamericafirst.com/"},
+   {"topic": "Transit", "point": "Wants federal funding revived for Baltimore's Red Line transit project.", "source": "https://www.yahoo.com/news/politics/articles/chris-chaffee-wins-maryland-5th-030302341.html"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Backs President Trump's economic plan and faster permitting; a general statement with few specifics.", "source": "https://www.chaffeeamericafirst.com/"},
+   "welfare": null,
+   "liberty": {"score": 50, "evidence": "General pledge to protect the Second Amendment, while AP reporting says he has opposed congressional support for abortion rights.", "source": "https://www.yahoo.com/news/politics/articles/chris-chaffee-wins-maryland-5th-030302341.html"},
+   "security": {"score": 60, "evidence": "General pledges to support first responders, fully fund homeland security and end human and drug trafficking.", "source": "https://www.chaffeeamericafirst.com/"},
+   "immigration": {"score": 65, "evidence": "General pledge to secure the border and fund border security.", "source": "https://www.chaffeeamericafirst.com/"},
+   "foreign": {"score": 55, "evidence": "Supports military funding and leading through strength, but opposes ground troops and wants the Iran war ended.", "source": "https://www.chaffeeamericafirst.com/"},
+   "energy": {"score": 30, "evidence": "General call for American energy independence and more domestic energy and mineral production.", "source": "https://www.chaffeeamericafirst.com/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions come from his campaign home page (chaffeeamericafirst.com) and AP race coverage; news reports differ on his hometown (Bowie vs. Calvert County). Welfare, tech, education and faith policy remain unknown."
+ },
+ {
+  "id": "MD-7/scott-collier",
+  "name": "Scott M. Collier",
+  "party": "Republican",
+  "current_role": "Community and disability advocate; founder of DundalkTV",
+  "bio": "Scott M. Collier is the Republican nominee for Maryland's 7th Congressional District, a seat he also sought as the nominee in 2022 and 2024, losing in 2024 to Rep. Kweisi Mfume. He runs the local media outlet DundalkTV, founded the Global Brain Injury Association, and previously ran for state senate as an independent. He says he does not accept campaign contributions.",
+  "website": "http://www.scottcollier.org/",
+  "social": {"facebook": "https://www.facebook.com/scott.collier.543"},
+  "platform": [
+   {"topic": "Crime", "point": "Make crime prevention a top priority and give Baltimore's state's attorney more resources to fight violent crime.", "source": "http://www.scottcollier.org/scott-collier-for-congress-the-issues"},
+   {"topic": "Food access", "point": "End food deserts in District 7 communities.", "source": "http://www.scottcollier.org/scott-collier-for-congress-the-issues"},
+   {"topic": "Ukraine", "point": "Opposed additional military aid to Ukraine and wants to avoid costly foreign wars.", "source": "http://www.scottcollier.org/scott-collier-for-congress-the-issues"},
+   {"topic": "Abortion", "point": "Agrees with the Dobbs decision, calls abortion a state issue and says life begins at conception.", "source": "http://www.scottcollier.org/scott-collier-for-congress-the-issues"},
+   {"topic": "Campaign finance", "point": "Takes no campaign donations and calls money in elections a major problem.", "source": "http://www.scottcollier.org/"},
+   {"topic": "Priorities", "point": "Says his priorities remain the economy, crime and education.", "source": "http://www.scottcollier.org/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 70, "evidence": "On abortion, the only liberty issue he addressed, he backs Dobbs, says life begins at conception and leaves the issue to states.", "source": "http://www.scottcollier.org/scott-collier-for-congress-the-issues"},
+   "security": {"score": 65, "evidence": "Calls for more resources for Baltimore prosecutors and closer work with law enforcement against gangs and drugs.", "source": "http://www.scottcollier.org/scott-collier-for-congress-the-issues"},
+   "immigration": {"score": 65, "evidence": "General statements naming illegal immigration as a growing problem and border security as a domestic priority.", "source": "http://www.scottcollier.org/scott-collier-for-congress-the-issues"},
+   "foreign": {"score": 30, "evidence": "Opposed more military aid to Ukraine and wars he calls costly, while voicing support for Israel's conduct in Gaza.", "source": "http://www.scottcollier.org/scott-collier-for-congress-the-issues"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "His issues page still shows his 2024 Baltimore Sun questionnaire answers; his 2026 home page says his priorities are unchanged. Economy, welfare, energy, tech, education and faith policy remain unknown."
+ },
+ {
+  "id": "ME-1/ronald-russell",
+  "name": "Ron Russell",
+  "party": "Republican",
+  "current_role": "Retired Army officer and former defense contractor",
+  "bio": "Ron Russell is a West Point graduate who served 30 years in the U.S. Army, including as a Ranger and Special Forces officer, retiring in 2006. He then founded the defense contracting firm Far Ridgeline Engagements and returned to Maine in 2021, living in Kennebunkport. He was the 2024 Republican nominee against Rep. Chellie Pingree and won the 2026 primary to face her again.",
+  "website": "https://ronrussellforcongress.com/",
+  "social": {
+   "x": "https://x.com/RussellForHouse/",
+   "instagram": "https://www.instagram.com/ronrussellforcongress/",
+   "facebook": "https://www.facebook.com/RonRussellforCongress/"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Make the 'Big Beautiful Bill' tax cuts permanent and expand work-linked credits such as the EITC instead of welfare programs.", "source": "https://ronrussellforcongress.com/project/taxes/"},
+   {"topic": "Energy", "point": "Pursue energy independence; back renewables where cost-effective but oppose mandates on how Mainers heat homes or fuel vehicles.", "source": "https://ronrussellforcongress.com/project/energy-and-the-economy/"},
+   {"topic": "Immigration", "point": "Secure the border, tighten asylum screening, and keep welcoming vetted legal immigrants.", "source": "https://ronrussellforcongress.com/project/immigration/"},
+   {"topic": "Guns", "point": "Oppose new gun restrictions; improve background-check data sharing and mental health services after Lewiston.", "source": "https://ronrussellforcongress.com/project/gun-control/"},
+   {"topic": "Education", "point": "Focus on core subjects, give parents a stronger voice and embrace reforms like school choice.", "source": "https://ronrussellforcongress.com/project/education/"},
+   {"topic": "Public safety", "point": "Give police more funding and training and ensure violent criminals serve their sentences.", "source": "https://ronrussellforcongress.com/project/reducing-crime-supporting-first-responders/"},
+   {"topic": "Elections", "point": "Require voter photo ID.", "source": "https://ronrussellforcongress.com/project/election-integrity/"},
+   {"topic": "Social Security", "point": "Explore alternative retirement programs while protecting current beneficiaries.", "source": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-ron-russell-republican-for-1st-district"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Wants federal tax cuts made permanent, lower taxes for families and small businesses, and less regulation.", "source": "https://ronrussellforcongress.com/project/taxes/"},
+   "welfare": {"score": 30, "evidence": "Prefers work-linked tax credits over growing welfare, wants MaineCare coverage of undocumented immigrants ended, and would explore Social Security alternatives.", "source": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-ron-russell-republican-for-1st-district"},
+   "liberty": {"score": 35, "evidence": "Opposes abortion rights (but no federal ban) and opposes assault weapon bans, while backing LGBTQ+ protections and press freedom.", "source": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-ron-russell-republican-for-1st-district"},
+   "security": {"score": 70, "evidence": "Calls for more police funding and training and for violent criminals to serve full sentences.", "source": "https://ronrussellforcongress.com/project/reducing-crime-supporting-first-responders/"},
+   "immigration": {"score": 70, "evidence": "Would stop illegal crossings at the border and tighten asylum screening, while supporting vetted legal immigration and faster processing.", "source": "https://ronrussellforcongress.com/project/immigration/"},
+   "foreign": {"score": 60, "evidence": "Would back U.S. military defense of Taiwan and the Iran war, but opposes indefinite aid to Ukraine without oversight.", "source": "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-ron-russell-republican-for-1st-district"},
+   "energy": {"score": 25, "evidence": "Says fossil fuels cannot yet be replaced and he will not support mandates on energy sources.", "source": "https://ronrussellforcongress.com/project/energy-and-the-economy/"},
+   "tech": null,
+   "education": {"score": 30, "evidence": "Backs school choice and a stronger parental voice, and opposes adding money without measured results.", "source": "https://ronrussellforcongress.com/project/education/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://ronrussellforcongress.com/wp-content/uploads/2024/08/ron-russell-img-1-263x300.png",
+  "notes": "The ballot may list him as Ronald Russell; positions come from his campaign issue pages, the Maine Public 2026 candidate profile and WABI 2024 coverage. Tech regulation and religion in public life remain unknown."
+ },
+ {
+  "id": "MI-1/callie-barr",
+  "name": "Callie Barr",
+  "party": "Democratic",
+  "current_role": "Attorney and veterans advocate",
+  "bio": "Callie Barr is the Democratic nominee for Michigan's 1st district, a rematch of her 2024 race against Rep. Jack Bergman. She grew up in Traverse City and Cheboygan, taught high school English, and later earned a law degree from the University of Michigan and worked as a business attorney. Her campaign biography describes her as a Marine Corps spouse and caregiver who has helped veterans file disability claims for free.",
+  "website": "https://callieforcongress.com/",
+  "social": {"facebook": "https://www.facebook.com/Callie4Congress/"},
+  "platform": [
+   {"topic": "Housing", "point": "Unlock federal funding for local affordable homebuilding, reform zoning and balance short-term rentals with year-round housing.", "source": "https://callieforcongress.com/platform/"},
+   {"topic": "Income", "point": "Make the wealthy pay their fair share, remove the Social Security tax cap and pass the PRO Act.", "source": "https://callieforcongress.com/platform/"},
+   {"topic": "Food", "point": "End tariffs that hurt farmers, support food banks and reverse SNAP cuts.", "source": "https://callieforcongress.com/platform/"},
+   {"topic": "Health care", "point": "Protect rural hospitals and Medicaid, extend ACA subsidies, add a public option and lower drug costs.", "source": "https://callieforcongress.com/platform/"},
+   {"topic": "Veterans", "point": "Fully fund the VA and protect veterans from paid claim-filing companies.", "source": "https://callieforcongress.com/media-center/"},
+   {"topic": "Energy", "point": "Move toward cleaner energy while keeping power reliable and affordable for rural residents.", "source": "https://wzmq19.com/news/366327/meet-callie-barr/"},
+   {"topic": "War powers", "point": "Says the war with Iran required congressional approval that Congress never gave.", "source": "https://www.interlochenpublicradio.org/2026-07-18/callie-barr-runs-on-affordability-in-second-bid-for-bergmans-seat"},
+   {"topic": "Data centers", "point": "Regulate data centers to protect the Great Lakes and require transparency.", "source": "https://wzmq19.com/news/366327/meet-callie-barr/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Calls for higher taxes on the wealthy, lifting the Social Security cap and passing the PRO Act.", "source": "https://callieforcongress.com/platform/"},
+   "welfare": {"score": 80, "evidence": "Wants to protect Medicaid, extend ACA subsidies, add a public option, and reverse SNAP cuts.", "source": "https://callieforcongress.com/platform/"},
+   "liberty": {"score": 30, "evidence": "On abortion, the only liberty issue found, she criticized her opponent for co-sponsoring federal abortion legislation with no life-of-the-mother exception.", "source": "https://glenarborsun.com/congressional-candidate-callie-barr-district-1-maverick/"},
+   "security": {"score": 35, "evidence": "Warned that FISA surveillance and government data power could be misused in the AI era; a general concern.", "source": "https://www.interlochenpublicradio.org/2026-07-18/callie-barr-runs-on-affordability-in-second-bid-for-bergmans-seat"},
+   "immigration": null,
+   "foreign": {"score": 40, "evidence": "Opposes the Iran war as unauthorized by Congress and says war decisions must never be taken lightly; a general statement.", "source": "https://www.interlochenpublicradio.org/2026-07-18/callie-barr-runs-on-affordability-in-second-bid-for-bergmans-seat"},
+   "energy": {"score": 60, "evidence": "Supports a transition to cleaner energy with federal incentives while stressing reliability for rural areas; she left Line 5 to the courts.", "source": "https://wzmq19.com/news/366327/meet-callie-barr/"},
+   "tech": {"score": 65, "evidence": "Wants data centers regulated and transparent, and raised data privacy concerns about corporate use of personal data.", "source": "https://wzmq19.com/news/366327/meet-callie-barr/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://callieforcongress.com/wp-content/uploads/2026/05/1-Callie-Barr-4-27-26-692-web_300x375.png",
+  "notes": "Added positions from Interlochen Public Radio, WZMQ and Glen Arbor Sun coverage; she did not answer the 2024 iVoterGuide questionnaire. Her own words on immigration, education and faith were not found in a primary source."
+ },
+ {
+  "id": "MI-11/ethan-baker",
+  "name": "Ethan Baker",
+  "party": "Republican",
+  "current_role": "Mayor of Troy, Michigan",
+  "bio": "Ethan Baker has been mayor of Troy, Michigan, since 2019, after being elected to the Troy City Council in 2015, and owns a law practice in Troy. Earlier he worked for more than four years as a special assistant in Ronald Reagan's post-presidential office. He chairs the Great Lakes Fishery Commission as a presidentially appointed U.S. commissioner.",
+  "website": "https://www.bakerforcongress.com/",
+  "social": {
+   "x": "https://x.com/EthanBakerMI",
+   "instagram": "https://instagram.com/EthanBakerMI",
+   "facebook": "https://facebook.com/EthanBakerMI"
+  },
+  "platform": [
+   {"topic": "Unity", "point": "Reduce national division by listening and engaging across differences.", "source": "https://www.bakerforcongress.com/why-im-running"},
+   {"topic": "Trust in government", "point": "Rebuild public confidence in how government institutions work, as he says he did in Troy.", "source": "https://www.bakerforcongress.com/about-ethan"},
+   {"topic": "Priorities", "point": "Names cost of living, economic uncertainty, jobs, infrastructure, health and safety at home and abroad as urgent issues.", "source": "https://www.bakerforcongress.com/why-im-running"},
+   {"topic": "Great Lakes", "point": "Points to his work restoring U.S.-Canada cooperation on protecting the Great Lakes ecosystem and economy.", "source": "https://www.bakerforcongress.com/about-ethan"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Checked every campaign page (home, about, why I'm running), CBS Detroit and Detroit News announcement coverage and debate searches; he has published no specific policy positions. All ten topics remain unknown."
+ },
+ {
+  "id": "MI-13/t-p-nykoriak",
+  "name": "T.P. Nykoriak",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "T.P. (Taras) Nykoriak is the Republican nominee for Michigan's 13th congressional district and has run several times for Wayne County sheriff and other local offices. In 2016 he was sentenced to 16 months in federal prison after pleading guilty to illegally redeeming U.S. savings bonds belonging to a Detroit-area church. His campaign says he traveled to Ukraine in 2022 and 2023.",
+  "website": "https://tp313.org/",
+  "social": {},
+  "platform": [
+   {"topic": "Marijuana", "point": "Remove marijuana from federal controlled-substance lists and offer relief for low-level federal possession convictions.", "source": "https://tp313.org/"},
+   {"topic": "Qualified immunity", "point": "Limit qualified immunity for federal officers, including ICE and Border Patrol, who knowingly violate constitutional rights.", "source": "https://tp313.org/"},
+   {"topic": "Foreign aid oversight", "point": "Investigate and audit U.S. aid to Ukraine and other conflicts, with independent inspectors general.", "source": "https://tp313.org/"},
+   {"topic": "Health care", "point": "Protect Medicare and Medicaid for lawful beneficiaries while cutting fraud and lowering drug prices through competition.", "source": "https://tp313.org/"},
+   {"topic": "Veterans", "point": "Cut VA claim delays and expand PTSD, brain injury and homelessness services for veterans.", "source": "https://tp313.org/"},
+   {"topic": "Border", "point": "Support strong border security and enforce existing immigration laws while keeping legal immigration orderly.", "source": "https://tp313.org/"},
+   {"topic": "Spending", "point": "Reduce the national debt and eliminate unnecessary federal programs.", "source": "https://tp313.org/"},
+   {"topic": "Second Amendment", "point": "Protect gun rights of law-abiding citizens while enforcing laws against violent criminals.", "source": "https://tp313.org/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "General pledges to cut unnecessary regulations, reduce the debt and eliminate unnecessary programs.", "source": "https://tp313.org/"},
+   "welfare": {"score": 45, "evidence": "Pledges to protect Medicare and Medicaid for lawful beneficiaries while cutting fraud and unnecessary programs; a general statement.", "source": "https://tp313.org/"},
+   "liberty": {"score": 20, "evidence": "Supports federal marijuana decriminalization, gun rights and free speech and worship without censorship.", "source": "https://tp313.org/"},
+   "security": {"score": 40, "evidence": "Would curb qualified immunity for federal officers, including ICE, while also pledging support for police.", "source": "https://tp313.org/"},
+   "immigration": {"score": 60, "evidence": "General pledge of strong border security and enforcing existing law, alongside accountability for ICE officers.", "source": "https://tp313.org/"},
+   "foreign": {"score": 40, "evidence": "Wants investigations and stricter audits of U.S. aid to Ukraine, citing what he says he saw there.", "source": "https://tp313.org/"},
+   "energy": {"score": 30, "evidence": "General pledge to promote domestic energy production and lower energy costs.", "source": "https://tp313.org/"},
+   "tech": null,
+   "education": {"score": 35, "evidence": "General statement that parents are the primary decision-makers in their children's education.", "source": "https://tp313.org/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://tp313.org/images/tp-portrait.png",
+  "notes": "Found his campaign site tp313.org, which lists detailed proposals; the Michigan Advance voter guide blocked access. Tech policy and religion in public life remain unknown."
+ },
+ {
+  "id": "MI-2/benjamin-ambrose",
+  "name": "Benjamin Ambrose",
+  "party": "Democratic",
+  "current_role": "Marine Corps veteran and federal program manager",
+  "bio": "Ben Ambrose won the Democratic nomination for Michigan's 2nd Congressional District in August 2026 and faces Rep. John Moolenaar. He grew up on a farm in Hesperia and served nearly 20 years as a Marine Corps infantryman, retiring as a staff sergeant, then led innovation projects for the VA and Defense Department. He holds degrees from Georgetown and Johns Hopkins.",
+  "website": "https://ambrose4congress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/ben_ambrose2026/",
+   "facebook": "https://www.facebook.com/profile.php?id=61585151168182",
+   "tiktok": "https://www.tiktok.com/@ambrose4congress",
+   "youtube": "https://www.youtube.com/@Ambrose4Congress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Create Medicare for All, a single-payer system, and negotiate lower drug prices such as insulin.", "source": "https://www.9and10news.com/2026/07/22/meet-the-democrats-running-in-michigans-2nd-congressional-district/"},
+   {"topic": "Housing", "point": "Streamline construction rules and stop corporate concentration of housing and land ownership.", "source": "https://www.9and10news.com/2026/07/22/meet-the-democrats-running-in-michigans-2nd-congressional-district/"},
+   {"topic": "AI and data centers", "point": "Set rules for AI and keep data centers out of sensitive areas like the Great Lakes and Manistee National Forest.", "source": "https://www.9and10news.com/2026/07/22/meet-the-democrats-running-in-michigans-2nd-congressional-district/"},
+   {"topic": "Accountability", "point": "Require transparency in federal contracting, including for-profit prisons.", "source": "https://www.9and10news.com/2026/07/22/meet-the-democrats-running-in-michigans-2nd-congressional-district/"},
+   {"topic": "Education", "point": "Ensure access to quality schools and affordable higher education.", "source": "https://ambrose4congress.com/"},
+   {"topic": "Veterans", "point": "Support military veterans and families in returning to civilian life.", "source": "https://ambrose4congress.com/"},
+   {"topic": "Environment", "point": "Protect Michigan's natural resources while building the economy.", "source": "https://ambrose4congress.com/"},
+   {"topic": "Jobs", "point": "Create good-paying jobs and a sustainable economy.", "source": "https://ambrose4congress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Local coverage reports that taxing upper-income earners headlined his Manton town hall; details were not available.", "source": "https://www.cadillacnews.com/news/moolenaar-competitor-visits-manton/article_e330d653-a097-439d-9052-ad68612662d8.html"},
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All, a single-payer health system.", "source": "https://www.9and10news.com/2026/07/22/meet-the-democrats-running-in-michigans-2nd-congressional-district/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Voiced concern about federal threats to defund sanctuary cities; a general statement.", "source": "https://www.9and10news.com/2026/07/22/meet-the-democrats-running-in-michigans-2nd-congressional-district/"},
+   "foreign": {"score": 40, "evidence": "Called the war with Iran needless; a general statement.", "source": "https://www.9and10news.com/2026/07/22/meet-the-democrats-running-in-michigans-2nd-congressional-district/"},
+   "energy": {"score": 60, "evidence": "General pledge to protect Michigan's natural environment while growing a sustainable economy.", "source": "https://ambrose4congress.com/"},
+   "tech": {"score": 65, "evidence": "Wants rules for AI development and limits on where data centers are built.", "source": "https://www.9and10news.com/2026/07/22/meet-the-democrats-running-in-michigans-2nd-congressional-district/"},
+   "education": {"score": 65, "evidence": "General pledge to strengthen local schools and make higher education affordable.", "source": "https://ambrose4congress.com/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Used his campaign site, 9&10 News candidate coverage and WCMU; Manistee News, Cadillac News and Detroit News articles could not be opened in full. Positions on abortion, guns, policing and religion remain unknown."
+ }
+]

@@ -1,0 +1,635 @@
+[
+  {
+    "state": "Pennsylvania",
+    "district": "PA-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ryan Mackenzie",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": 80,
+          "security": null,
+          "immigration": 80,
+          "foreign": 40,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Tax relief pledge; abortion restrictions, gun rights, opposed medical marijuana drove liberty; immigration a top priority; opposed further Ukraine aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ryan_Mackenzie",
+          "https://www.ontheissues.org/PA/Ryan_Mackenzie.htm",
+          "https://mackenzie.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:Rep. Ryan Mackenzie official photo, 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Bob Brooks",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 15,
+          "security": null,
+          "immigration": 40,
+          "foreign": 55,
+          "energy": 55,
+          "tech": 70,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Billionaire minimum tax, higher minimum wage, Medicare for All, codify Roe, background checks, earned citizenship, backs Ukraine/NATO, opposes vouchers and AI preemption.",
+        "sources": [
+          "https://brooksforcongress.com/issues/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Rob Bresnahan",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 45,
+          "welfare": 30,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted for the One Big Beautiful Bill Act with its tax and Medicaid changes; cosponsored a regional cost-of-living minimum wage bill.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Rob_Bresnahan",
+          "https://www.wnep.com/article/news/state/congressman-rob-bresnahan-faces-scrutiny-over-medicaid-vote-and-stock-trades-one-big-beautiful-bill-donald-trump-republican/523-aa17ec3f-6cff-4c45-99f1-05b9f03e9234"
+        ],
+        "photo": {
+          "file": "File:Rep. Rob Bresnahan official photo, 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Paige Cognetti",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 70,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 70,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Cap credit card fees, break up monopolies, no corporate tax breaks, paid family leave and childcare, strict data center transparency rules.",
+        "sources": [
+          "https://paigeforpa.com/priorities/",
+          "https://paigeforpa.com/"
+        ],
+        "photo": {
+          "file": "File:Paige Cognetti (52165104986) (3x4a).jpg",
+          "license": "CC BY 2.0",
+          "author": "US Department of Labor"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-9",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Dan Meuser",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 70,
+          "security": null,
+          "immigration": 85,
+          "foreign": 35,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Taxpayer Protection Pledge; opposes abortion, backs gun rights but voted for Respect for Marriage Act; border wall, end DACA; voted for Ukraine aid moratorium.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Dan_Meuser"
+        ],
+        "photo": {
+          "file": "File:Meuser Dan 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Rachel Wallace",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaign lists only broad priorities (lower costs, raise wages, health care, farmers); no concrete stances found to score.",
+        "sources": [
+          "https://www.wallaceforcongress.com/priorities"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-10",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Scott Perry",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 55,
+          "security": null,
+          "immigration": 90,
+          "foreign": 30,
+          "energy": 5,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted against American Rescue Plan; opposes federal abortion ban, voted for Respect for Marriage Act; hardline immigration remarks; opposed 2024 foreign aid; opposes climate policies.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Scott_Perry"
+        ],
+        "photo": {
+          "file": "File:Rep. Scott Perry, official portrait, 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Janelle Stelson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 65,
+          "liberty": 20,
+          "security": 35,
+          "immigration": 55,
+          "foreign": 35,
+          "energy": null,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Middle-class tax cuts not billionaires, drug price negotiation, restore Roe, unmasked badged agents, deport violent migrants, opposes Iran war, backs public schools.",
+        "sources": [
+          "https://janellestelson.com/priorities/",
+          "https://en.wikipedia.org/wiki/Janelle_Stelson"
+        ],
+        "photo": {
+          "file": "File:Janelle Stelson 08-29-2026.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "James Newton"
+        }
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-11",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Lloyd Smucker",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 85,
+          "security": null,
+          "immigration": 55,
+          "foreign": 75,
+          "energy": 10,
+          "tech": 20,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "Tax cuts, ACA repeal, Social Security private accounts; opposes abortion, same-sex marriage protections, gun control; cosponsored DIGNIDAD Act; backed Iran war; opposes net neutrality.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Lloyd_Smucker"
+        ],
+        "photo": {
+          "file": "File:Lloyd Smucker Official Congressional Photo.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Smucker"
+        }
+      },
+      {
+        "name": "Nancy Mannion",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": 20,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
+        "basis": "Reverse corporate tax cut, raise minimum wage, healthcare for all, free school meals, abortion choice, school gun rules, Dreamers pathway, more work visas.",
+        "sources": [
+          "https://www.nancymannion.com/Priorities/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-12",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Summer Lee",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 85,
+          "welfare": null,
+          "liberty": 10,
+          "security": null,
+          "immigration": 15,
+          "foreign": 15,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted against Fiscal Responsibility Act; supports abortion rights and gun control; condemned ICE over asylum seeker death; opposed Israel resolutions, backed Syria withdrawal.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Summer_Lee"
+        ],
+        "photo": {
+          "file": "File:Rep. Summer Lee - 118th Congress (3x4 cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "James Hayes",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": 45,
+          "security": 70,
+          "immigration": null,
+          "foreign": 70,
+          "energy": 15,
+          "tech": null,
+          "education": 10,
+          "faith": null
+        },
+        "basis": "Cut wasteful spending, opposes energy restrictions, no national abortion ban, more police resources and juvenile detention, strong Israel support, money follows the child.",
+        "sources": [
+          "https://jewishchronicle.timesofisrael.com/republican-james-hayes-looks-to-unseat-rep-summer-lee-this-november/",
+          "https://www.monvalleyindependent.com/2026/09/02/summer-lee-james-hayes-set-for-rematch-in-pa-s-12th-congressional-district/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-13",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "John Joyce",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 75,
+          "foreign": 25,
+          "energy": 25,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted against expanding H-2B and high-skill visas; voted for Syria and Somalia troop withdrawal and against Ukraine aid; favors rolling back energy regulations.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/John_Joyce_(American_politician)",
+          "https://johnjoyce.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:John Joyce 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Beth Farnham",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 95,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "National healthcare program covering all care, codify reproductive freedom, universal background checks and red-flag orders, defend public education.",
+        "sources": [
+          "https://bethfarnhamforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-14",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Guy Reschenthaler",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": null,
+          "liberty": 85,
+          "security": 65,
+          "immigration": 90,
+          "foreign": 75,
+          "energy": 20,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Permanent tax cuts, opposed $2,000 checks; anti-abortion, against background checks; opposed police accountability changes; border wall; pro-Israel; opposed renewable aid.",
+        "sources": [
+          "https://www.ontheissues.org/PA/Guy_Reschenthaler.htm",
+          "https://en.wikipedia.org/wiki/Guy_Reschenthaler"
+        ],
+        "photo": {
+          "file": "File:Guy Reschenthaler Official Portrait 2022 (cropped2).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Alan Bradstock",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": 85,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Lists universal healthcare and ending medical debt as priorities; no other concrete stances found.",
+        "sources": [
+          "https://www.bradstockforcongress.com/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-15",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Glenn Thompson",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 65,
+          "security": null,
+          "immigration": 55,
+          "foreign": null,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Voted against Respect for Marriage Act, opposed arming teachers; voted for Farm Workforce Modernization Act; unsure of human role in climate change.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Glenn_Thompson_(politician)"
+        ],
+        "photo": {
+          "file": "File:Glenn Thompson portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Ray Bilger",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 55,
+          "welfare": 70,
+          "liberty": 20,
+          "security": 35,
+          "immigration": 40,
+          "foreign": 30,
+          "energy": 50,
+          "tech": 70,
+          "education": 75,
+          "faith": null
+        },
+        "basis": "Anti-monopoly, defend Medicaid and ACA credits, codify abortion, background checks, ICE oversight, opposes Iran war, gas plus clean energy, data center rules.",
+        "sources": [
+          "https://bilgerforcongress.com/priorities/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-16",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Kelly",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 80,
+          "security": null,
+          "immigration": 55,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 80
+        },
+        "basis": "Voted against American Rescue Plan; cosponsored Federal Marriage Amendment; called contraceptive mandate an attack on religious freedom; cosponsored DIGNIDAD Act.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mike_Kelly_(Pennsylvania_politician)"
+        ],
+        "photo": {
+          "file": "File:Mike Kelly, official portrait, 112th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "US House of Representatives"
+        }
+      },
+      {
+        "name": "Justin Wagner",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": 25,
+          "foreign": 30,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes Trump administration anti-immigration operations and Middle East military activity; otherwise campaigns broadly on affordability and money out of politics.",
+        "sources": [
+          "https://www.butlereagle.com/20260521/matchup-set-for-16th-district-race-between-kelly-and-wagner/",
+          "https://justinwagnerforcongress.com"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Pennsylvania",
+    "district": "PA-17",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Chris Deluzio",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 95,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": 60,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Cosponsored Medicare for All and PRO Act, shrinkflation bill; supports abortion rights; supported Israel aid after October 7 and cluster munitions for Ukraine.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Chris_Deluzio"
+        ],
+        "photo": {
+          "file": "File:Chris Deluzio 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Tony Guy",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 80,
+          "security": 80,
+          "immigration": 90,
+          "foreign": null,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Cut regulation, protect Second Amendment, back the blue, finish the wall and deport criminal migrants, Remain in Mexico, energy dominance.",
+        "sources": [
+          "https://tonyguyforcongress.com/issues/"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

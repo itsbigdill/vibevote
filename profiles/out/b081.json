@@ -1,0 +1,406 @@
+[
+ {
+  "id": "OR-5/janelle-bynum",
+  "name": "Janelle Bynum",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for OR-5",
+  "bio": "Janelle Bynum has represented Oregon's 5th District in the U.S. House since January 2025. She previously served in the Oregon House of Representatives from 2017 to 2025. An engineer by training, she co-owns McDonald's franchises in the Portland area and lives in Happy Valley.",
+  "website": "https://www.janellebynum.com",
+  "social": {
+   "x": "https://x.com/RepBynum",
+   "instagram": "https://www.instagram.com/repbynum",
+   "facebook": "https://www.facebook.com/repbynum"
+  },
+  "platform": [
+   {"topic": "Housing", "point": "Lower housing costs for Oregon families and work toward ending homelessness.", "source": "https://www.janellebynum.com/issues"},
+   {"topic": "Health care", "point": "Bring down what families pay for health care.", "source": "https://www.janellebynum.com/issues"},
+   {"topic": "Economy", "point": "Grow the district's economy and create jobs, building on federal funding she has brought home.", "source": "https://www.janellebynum.com/issues"},
+   {"topic": "Climate", "point": "Take action on climate change.", "source": "https://www.janellebynum.com/issues"},
+   {"topic": "Reproductive rights", "point": "Protect access to reproductive health care, including abortion.", "source": "https://www.janellebynum.com/issues"},
+   {"topic": "Checks on the administration", "point": "Push back against White House policies she opposes.", "source": "https://www.janellebynum.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Chief sponsor of Oregon's $210 million semiconductor incentive package offering grants, loans and land development.", "source": "https://en.wikipedia.org/wiki/Janelle_Bynum"},
+   "welfare": {"score": 60, "evidence": "Campaign lists lowering health care costs as a core priority and backs expanded affordable coverage.", "source": "https://www.janellebynum.com/issues"},
+   "liberty": {"score": 25, "evidence": "Abortion: campaign pledges to protect reproductive rights.", "source": "https://www.janellebynum.com/issues"},
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Voted for the Laken Riley Act while criticizing the administration's deportation tactics.", "source": "https://www.koin.com/news/politics/congresswoman-janelle-bynum-questioned-at-town-hall-after-thank-ice-vote/"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Campaign lists taking climate action among its eight priorities.", "source": "https://www.janellebynum.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score is based on a campaign priority heading without detailed policy; the KOIN source for the immigration vote could not be re-opened (403)."
+ },
+ {
+  "id": "OR-5/patti-adair",
+  "name": "Patti Adair",
+  "party": "Republican",
+  "current_role": "Deschutes County Commissioner",
+  "bio": "Patti Adair has served as a Deschutes County commissioner since 2019 and is in her second term. She is a certified public accountant who grew up on a ranch in Heppner, Oregon, and returned to the state from California in 2014.",
+  "website": "https://www.pattiforcongress.com",
+  "social": {
+   "x": "https://x.com/pattiadairor",
+   "instagram": "https://www.instagram.com/pattiadairor",
+   "facebook": "https://www.facebook.com/profile.php?id=61583499556979"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Reduce the cost of living for working Oregonians and extend tax cuts on tips, overtime and Social Security.", "source": "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/"},
+   {"topic": "Public safety", "point": "Back law enforcement fully so local communities stay safe.", "source": "https://www.pattiforcongress.com/priorities"},
+   {"topic": "Natural resources", "point": "Manage natural resources through responsible stewardship.", "source": "https://www.pattiforcongress.com/priorities"},
+   {"topic": "Economic development", "point": "Support business growth and entrepreneurs.", "source": "https://www.pattiforcongress.com/priorities"},
+   {"topic": "Ethics", "point": "Prohibit insider trading by members of Congress.", "source": "https://www.pattiforcongress.com/priorities"},
+   {"topic": "Federal spending", "point": "Watch federal debt closely and keep spending accountable.", "source": "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Says Oregon taxes are among the highest and wants tip, overtime and Social Security tax cuts extended.", "source": "https://www.opb.org/article/2026/04/22/republicans-lockwood-adair-oregon-5th-congressional-district/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 60, "evidence": "Pledges full support for law enforcement and cites increasing law enforcement funding as a commissioner.", "source": "https://www.pattiforcongress.com/priorities"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Liberty left unscored because the cited priorities page does not address abortion or other social issues."
+ },
+ {
+  "id": "OR-5/andrea-townsend",
+  "name": "Andrea Townsend",
+  "party": "Pacific Green",
+  "current_role": "",
+  "bio": "Andrea Townsend is the Pacific Green Party nominee for Oregon's 5th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue statements could be found."
+ },
+ {
+  "id": "OR-6/andrea-salinas",
+  "name": "Andrea Salinas",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for OR-6",
+  "bio": "Andrea Salinas has represented Oregon's 6th District in the U.S. House since January 2023. She served in the Oregon House of Representatives from 2017 to 2023 after working as a congressional aide, legislative director for the Oregon Environmental Council and a policy consultant. She was born in San Mateo, California.",
+  "website": "https://www.andreasalinasfororegon.com",
+  "social": {
+   "x": "https://x.com/repsalinas",
+   "instagram": "https://www.instagram.com/repsalinas",
+   "facebook": "https://www.facebook.com/RepSalinas"
+  },
+  "platform": [
+   {"topic": "Economy", "point": "Raise the minimum wage, expand paid leave and strengthen worker protections.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   {"topic": "Health care", "point": "Cap prescription drug prices, require hospital price transparency and let Medicare negotiate drug prices.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   {"topic": "Mental health", "point": "Offer free behavioral health visits and expand peer support for mental health and addiction.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   {"topic": "Abortion", "point": "Write the right to abortion into federal law.", "source": "https://salinas.house.gov/issues/reproductive-freedom"},
+   {"topic": "Housing", "point": "Back legislation to build two million affordable homes.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   {"topic": "Guns", "point": "Support background checks, red flag laws and regulation of assault weapons.", "source": "https://www.andreasalinasfororegon.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Campaign backs minimum wage increases, paid leave and green-economy jobs.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   "welfare": {"score": 70, "evidence": "Backs Medicare drug price negotiation and bills providing free behavioral health visits.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   "liberty": {"score": 20, "evidence": "Abortion: wants it codified; guns: supports assault weapon rules; drugs: backs interstate marijuana trade.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   "security": {"score": 25, "evidence": "Supported banning police chokeholds with few exceptions.", "source": "https://www.ontheissues.org/House/Andrea_Salinas.htm"},
+   "immigration": {"score": 25, "evidence": "Calls for protections for immigrants already living in the US alongside border investment and faster immigration courts.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Advocates moving to 100% clean energy while creating living-wage jobs.", "source": "https://www.andreasalinasfororegon.com/issues/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Earlier faith score of 20 (Freethought Caucus membership) was removed because it could not be verified; Wikipedia lists her as Roman Catholic."
+ },
+ {
+  "id": "OR-6/david-russ",
+  "name": "David Russ",
+  "party": "Republican",
+  "current_role": "Former Mayor of Dundee",
+  "bio": "David Russ is a former mayor of Dundee, Oregon, who also served on the Parkway Committee and the local public safety coordinating council. He has a background in business leadership and was a candidate for this district in 2022 and 2024.",
+  "website": "https://www.russisforus.com",
+  "social": {
+   "x": "https://x.com/realRUSSISFORUS",
+   "instagram": "https://www.instagram.com/russisforus",
+   "facebook": "https://www.facebook.com/russisforus",
+   "youtube": "https://www.youtube.com/@russisforus-virtualrally9186"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Bring manufacturing back to America and pass a Minimum Employment Act.", "source": "https://www.russisforus.com/"},
+   {"topic": "Small business", "point": "Remove burdensome regulations, end subsidies for large corporations and stop IRS targeting of 1099 workers.", "source": "https://www.russisforus.com/"},
+   {"topic": "States' rights", "point": "Transfer federal public lands to state and local control and end federal oversight of schools and utilities.", "source": "https://www.russisforus.com/"},
+   {"topic": "Immigration", "point": "Make aiding illegal border crossings a crime.", "source": "https://www.russisforus.com/"},
+   {"topic": "Constitution", "point": "End congressional violations of the 10th Amendment and restore morality to the nation.", "source": "https://www.russisforus.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Wants burdensome regulations eliminated and corporate subsidies ended.", "source": "https://www.russisforus.com/"},
+   "welfare": {"score": 25, "evidence": "Voter guide answers favor smaller government and limited federal programs.", "source": "https://ivoterguide.com/candidate/59448/race/13079/election/1105?culture=en-us"},
+   "liberty": {"score": 65, "evidence": "Abortion: opposes public funding of abortion per his voter guide answers.", "source": "https://ivoterguide.com/candidate/59448/race/13079/election/1105?culture=en-us"},
+   "security": null,
+   "immigration": {"score": 95, "evidence": "Wants aiding illegal crossings criminalized; voter guide answers back finishing the border wall and near-zero immigration for several years.", "source": "https://ivoterguide.com/candidate/59448/race/13079/election/1105?culture=en-us"},
+   "foreign": {"score": 25, "evidence": "Voter guide answers lean against foreign commitments.", "source": "https://ivoterguide.com/candidate/59448/race/13079/election/1105?culture=en-us"},
+   "energy": {"score": 20, "evidence": "Voter guide answers reject climate change as a threat requiring regulation.", "source": "https://ivoterguide.com/candidate/59448/race/13079/election/1105?culture=en-us"},
+   "tech": null,
+   "education": {"score": 10, "evidence": "Wants federal oversight of schools ended; voter guide answers back school choice.", "source": "https://www.russisforus.com/"},
+   "faith": {"score": 70, "evidence": "Voter guide answers oppose requiring people to provide services that conflict with their religious beliefs; campaign calls for restoring morality.", "source": "https://ivoterguide.com/candidate/59448/race/13079/election/1105?culture=en-us"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Several scores rest on his iVoterGuide answers from the 2024 primary, which may not reflect his 2026 platform."
+ },
+ {
+  "id": "PA-1/brian-fitzpatrick",
+  "name": "Brian Fitzpatrick",
+  "party": "Republican",
+  "current_role": "U.S. Representative for PA-1",
+  "bio": "Brian Fitzpatrick has served in the U.S. House since 2017, representing Pennsylvania's 8th District and then the 1st District from 2019. Before Congress he was an FBI supervisory special agent and a special assistant U.S. attorney, with assignments in Kyiv and Iraq. He was born in Philadelphia and raised in Levittown.",
+  "website": "https://www.brianfitzpatrick.com",
+  "social": {
+   "x": "https://x.com/RepBrianFitz",
+   "instagram": "https://www.instagram.com/repbrianfitz",
+   "facebook": "https://www.facebook.com/repbrianfitzpatrick"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Extend Affordable Care Act premium subsidies, including through discharge petitions.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   {"topic": "Immigration", "point": "Pair border enforcement with a legal status path through the DIGNIDAD Act he cosponsored.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   {"topic": "Ukraine", "point": "Co-chairs the Ukraine Caucus and pushed for a House vote on Ukraine aid.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   {"topic": "Guns", "point": "Supports expanded background checks and limits on assault weapons.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   {"topic": "Climate", "point": "Member of the Climate Solutions Caucus who has backed carbon pricing legislation.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"}
+  ],
+  "positions": {
+   "economy": {"score": 45, "evidence": "Voted for the 2017 tax cuts but against the final One Big Beautiful Bill over safety-net cuts.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   "welfare": {"score": 55, "evidence": "Filed discharge petitions to extend ACA subsidies and opposed SNAP and Medicaid cuts.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   "liberty": {"score": 35, "evidence": "Guns: backed background checks; LGBTQ: voted for Equality Act; abortion: mixed record including a 20-week ban vote.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   "security": null,
+   "immigration": {"score": 40, "evidence": "Supports a DACA citizenship path and cosponsored the DIGNIDAD Act with border enforcement.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   "foreign": {"score": 80, "evidence": "Co-chairs the Ukraine Caucus and led a discharge petition for Ukraine aid.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   "energy": {"score": 70, "evidence": "Climate Solutions Caucus member with a 74% lifetime LCV score; co-introduced a carbon tax bill.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   "tech": {"score": 60, "evidence": "Voted for the Merger Filing Fee Modernization Act in the 2022 antitrust package.", "source": "https://en.wikipedia.org/wiki/Brian_Fitzpatrick_(American_politician)"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "PA-1/bob-harvie",
+  "name": "Bob Harvie",
+  "party": "Democratic",
+  "current_role": "Chair of the Bucks County Board of Commissioners",
+  "bio": "Bob Harvie was elected to the Bucks County Board of Commissioners in 2019 and re-elected in 2023. He has chaired the board since January 2022. His campaign is based in Langhorne, Pennsylvania.",
+  "website": "https://bobharvieforcongress.com",
+  "social": {},
+  "platform": [
+   {"topic": "Health care", "point": "Expand ACA tax credits and lower the Medicare eligibility age to 55.", "source": "https://bobharvieforcongress.com/priorities/"},
+   {"topic": "Taxes", "point": "Cut taxes for the middle class while corporations and the wealthy pay more.", "source": "https://bobharvieforcongress.com/priorities/"},
+   {"topic": "Wages and trade", "point": "Roll back tariffs and raise the minimum wage to $15 an hour.", "source": "https://bobharvieforcongress.com/priorities/"},
+   {"topic": "Ethics", "point": "Ban congressional stock trading, impose a lifetime lobbying ban and set an age limit of 80.", "source": "https://bobharvieforcongress.com/priorities/"},
+   {"topic": "AI and data centers", "point": "Ban AI-driven price manipulation and pause data center development pending impact reviews.", "source": "https://bobharvieforcongress.com/priorities/"},
+   {"topic": "Energy", "point": "Invest in renewable energy, grid upgrades and housing.", "source": "https://bobharvieforcongress.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Wants the wealthy and corporations taxed more and a $15 federal minimum wage.", "source": "https://bobharvieforcongress.com/priorities/"},
+   "welfare": {"score": 75, "evidence": "Proposes lowering Medicare eligibility to 55 and expanding ACA tax credits.", "source": "https://bobharvieforcongress.com/priorities/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Calls for investment in renewable energy and grid modernization.", "source": "https://bobharvieforcongress.com/priorities/"},
+   "tech": {"score": 70, "evidence": "Backs a ban on AI price manipulation and a data center moratorium.", "source": "https://bobharvieforcongress.com/priorities/"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://bobharvieforcongress.com/wp-content/uploads/2026/08/Headshot-Woodshed-hero-crop-2.jpg",
+  "notes": "No campaign social media links were found on the campaign site."
+ },
+ {
+  "id": "PA-2/brendan-boyle",
+  "name": "Brendan Boyle",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for PA-2",
+  "bio": "Brendan Boyle has served in the U.S. House since 2015, first for Pennsylvania's 13th District and since 2019 for the 2nd District, and has been ranking member of the House Budget Committee since 2023. He served in the Pennsylvania House from 2009 to 2015. He grew up in Philadelphia's Olney neighborhood.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/CongBoyle",
+   "facebook": "https://www.facebook.com/CongressmanBoyle"
+  },
+  "platform": [
+   {"topic": "Health care and safety net", "point": "Oppose Medicaid and SNAP cuts, including through his Hands Off Medicaid and SNAP Act.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   {"topic": "Manufacturing jobs", "point": "Co-chairs the Blue Collar Caucus focused on wages, job security, trade and offshoring.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   {"topic": "Foreign policy", "point": "Support military aid to Ukraine, Israel and Taiwan.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   {"topic": "Infrastructure", "point": "Advocate federal funding for transportation infrastructure.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Co-chairs the Blue Collar Caucus on trade and offshoring and backed infrastructure spending.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   "welfare": {"score": 65, "evidence": "Introduced the Hands Off Medicaid and SNAP Act of 2025.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   "liberty": {"score": 25, "evidence": "Abortion: 100% Planned Parenthood rating; LGBTQ: founding LGBT Equality Caucus member with 100% HRC rating.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Voted for the Laken Riley Act in 2025 and the 2023 POLICE Act on deportability.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   "foreign": {"score": 85, "evidence": "Voted for the April 2024 military aid to Ukraine, Israel and Taiwan.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   "energy": {"score": 80, "evidence": "Holds a 100% League of Conservation Voters rating.", "source": "https://en.wikipedia.org/wiki/Brendan_Boyle"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Supports tuition-free public college.", "source": "https://ballotpedia.org/Brendan_Boyle"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website could not be confirmed; the education evidence comes from earlier research as Ballotpedia could not be re-opened."
+ },
+ {
+  "id": "PA-2/jessica-arriaga",
+  "name": "Jessica Arriaga",
+  "party": "Republican",
+  "current_role": "Healthcare professional",
+  "bio": "Jessica Arriaga is a North Philadelphia native who has worked for more than 20 years in operating rooms and in community health care. She is running as a first-time candidate.",
+  "website": "https://jessforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/jessicaarriaga4philly/",
+   "facebook": "https://www.facebook.com/profile.php?id=61586313816557"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Ease rising living costs for working Philadelphia families.", "source": "https://jessforcongress.com/"},
+   {"topic": "Public safety", "point": "Make neighborhoods safer.", "source": "https://jessforcongress.com/"},
+   {"topic": "Opportunity", "point": "Widen economic and educational opportunity in the district.", "source": "https://jessforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site names broad themes but no specific policy positions."
+ },
+ {
+  "id": "PA-3/chris-rabb",
+  "name": "Chris Rabb",
+  "party": "Democratic",
+  "current_role": "Pennsylvania State Representative for District 200",
+  "bio": "Chris Rabb has represented District 200 in the Pennsylvania House since 2017. He earlier worked as an aide to U.S. Senator Carol Moseley Braun and in the Clinton administration, and teaches business at Temple University. Born in Chicago, he lives in Philadelphia's East Mount Airy neighborhood.",
+  "website": "https://www.chrisrabb.com",
+  "social": {},
+  "platform": [
+   {"topic": "Health care", "point": "Enact Medicare for All and protect reproductive freedom.", "source": "https://www.chrisrabb.com/platform"},
+   {"topic": "Housing and affordability", "point": "Guarantee housing through Housing First, create public grocery stores, free transit and a universal basic income.", "source": "https://www.chrisrabb.com/platform"},
+   {"topic": "Climate", "point": "Move to 100% renewable energy, create a Civilian Climate Corps and block hyperscale data centers.", "source": "https://www.chrisrabb.com/platform"},
+   {"topic": "Public safety", "point": "Invest in communities and mental health responders, end the drug war and abolish ICE.", "source": "https://www.chrisrabb.com/platform"},
+   {"topic": "Education", "point": "Provide universal childcare, fully fund public schools and make public college free.", "source": "https://www.chrisrabb.com/platform"},
+   {"topic": "Foreign policy", "point": "End regime-change wars, seek an immediate Israel-Palestine ceasefire and end the Cuba embargo.", "source": "https://www.chrisrabb.com/platform"}
+  ],
+  "positions": {
+   "economy": {"score": 90, "evidence": "Platform calls for public grocery stores, a universal basic income and a living wage.", "source": "https://www.chrisrabb.com/platform"},
+   "welfare": {"score": 100, "evidence": "Backs Medicare for All and universal childcare from birth to five.", "source": "https://www.chrisrabb.com/platform"},
+   "liberty": {"score": 15, "evidence": "Abortion: protects reproductive freedom; drugs: end the war on drugs and legalize cannabis.", "source": "https://www.chrisrabb.com/platform"},
+   "security": {"score": 20, "evidence": "Favors community investment and mental health responders over expanded policing, and abolishing the death penalty.", "source": "https://www.chrisrabb.com/platform"},
+   "immigration": {"score": 5, "evidence": "Calls for abolishing ICE and immigrant detention.", "source": "https://www.chrisrabb.com/platform"},
+   "foreign": {"score": 20, "evidence": "Wants an end to regime-change wars and to U.S. funding for Israel's military.", "source": "https://www.jta.org/2026/05/19/politics/with-aoc-backing-and-anti-israel-message-chris-rabb-vies-for-open-house-seat-in-philadelphia"},
+   "energy": {"score": 95, "evidence": "Backs a 100% renewable transition and a Civilian Climate Corps.", "source": "https://www.chrisrabb.com/platform"},
+   "tech": {"score": 70, "evidence": "Calls for regulating AI and big data and ending corporate media monopolies.", "source": "https://www.chrisrabb.com/platform"},
+   "education": {"score": 85, "evidence": "Wants fully funded public schools, higher teacher pay and free public college.", "source": "https://www.chrisrabb.com/platform"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Social accounts are linked from the campaign site, but their exact URLs could not be extracted."
+ },
+ {
+  "id": "PA-3/dennis-mahoney",
+  "name": "Dennis Mahoney",
+  "party": "Independent",
+  "current_role": "Disaster relief and community development worker",
+  "bio": "Dennis Mahoney is an independent candidate whose career has focused on disaster relief and long-term development. In Philadelphia he works with businesses, nonprofits and faith groups on child welfare, food access and school support.",
+  "website": "https://mahoneyforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/mahoneyforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61591219070719",
+   "tiktok": "https://www.tiktok.com/@mahoneyforcongress"
+  },
+  "platform": [
+   {"topic": "Benefits cliff", "point": "Phase benefits out gradually as income rises and update anti-poverty programs around mobility.", "source": "https://mahoneyforcongress.com/"},
+   {"topic": "Housing", "point": "Expand affordable housing, support first-time buyers and build more homes near transit.", "source": "https://mahoneyforcongress.com/"},
+   {"topic": "Neighborhood opportunity", "point": "Improve transit, broadband and workforce training across neighborhoods.", "source": "https://mahoneyforcongress.com/"},
+   {"topic": "Families", "point": "Restore the expanded Child Tax Credit, protect food aid and make childcare cheaper.", "source": "https://mahoneyforcongress.com/"},
+   {"topic": "Wealth building", "point": "Fix tangled property titles, fund home repairs and support small businesses.", "source": "https://mahoneyforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 65, "evidence": "Backs restoring the Child Tax Credit, protecting food assistance and cheaper childcare.", "source": "https://mahoneyforcongress.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://mahoneyforcongress.com/assets/dennis-mahoney-BRyxUWya.jpg",
+  "notes": ""
+ },
+ {
+  "id": "PA-4/madeleine-dean",
+  "name": "Madeleine Dean",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for PA-4",
+  "bio": "Madeleine Dean has represented Pennsylvania's 4th District in the U.S. House since 2019. She served in the Pennsylvania House from 2012 to 2018 and previously worked as a lawyer and law professor. She is from Glenside, Pennsylvania.",
+  "website": "https://www.mad4pa.com",
+  "social": {
+   "x": "https://x.com/RepDean",
+   "instagram": "https://www.instagram.com/repmadeleinedean",
+   "facebook": "https://www.facebook.com/RepMadeleineDean",
+   "youtube": "https://www.youtube.com/channel/UCHj4veUyhPzzOW-Jvn7MqUg"
+  },
+  "platform": [
+   {"topic": "Gun violence", "point": "Push gun violence prevention measures; she co-founded Pennsylvania's SAFE Caucus.", "source": "https://en.wikipedia.org/wiki/Madeleine_Dean"},
+   {"topic": "Health care", "point": "Make ACA subsidies permanent and expand Medicare.", "source": "https://dean.house.gov/issues"},
+   {"topic": "Foreign policy", "point": "Support a bilateral Gaza ceasefire and end military aid to the Netanyahu government.", "source": "https://en.wikipedia.org/wiki/Madeleine_Dean"},
+   {"topic": "Addiction and mental health", "point": "Expand addiction treatment and mental health services.", "source": "https://en.wikipedia.org/wiki/Madeleine_Dean"},
+   {"topic": "Ethics", "point": "Promote ethics and good-government standards in Congress.", "source": "https://dean.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 70, "evidence": "Backs permanent ACA subsidies and Medicare expansion.", "source": "https://dean.house.gov/issues"},
+   "liberty": {"score": 20, "evidence": "Guns: co-founded the SAFE Caucus to curb illegal gun sales and backs gun violence prevention.", "source": "https://en.wikipedia.org/wiki/Madeleine_Dean"},
+   "security": null,
+   "immigration": {"score": 25, "evidence": "Opposed additional ICE funding.", "source": "https://en.wikipedia.org/wiki/Madeleine_Dean"},
+   "foreign": {"score": 40, "evidence": "Voted for amendments to end military aid to Israel's government after earlier supporting Israel.", "source": "https://en.wikipedia.org/wiki/Madeleine_Dean"},
+   "energy": {"score": 85, "evidence": "Lists environmental protection and clean energy as an official legislative priority.", "source": "https://dean.house.gov/issues"},
+   "tech": null,
+   "education": {"score": 75, "evidence": "Has argued that public school funding is critical to economic health.", "source": "https://en.wikipedia.org/wiki/Madeleine_Dean"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Education score added from her public-school funding record; the ACA and ICE details come from earlier research and were not re-verified in detail."
+ }
+]

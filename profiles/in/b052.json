@@ -1,0 +1,421 @@
+[
+ {
+  "id": "ME-2/paul-lepage",
+  "name": "Paul LePage",
+  "party": "Republican",
+  "race": "ME-2",
+  "race_label": "Maine · US House ME-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 10,
+    "liberty": 80,
+    "security": 70,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "As governor cut taxes, vetoed Medicaid expansion and minimum wage hikes, opposed abortion, marijuana and same-sex marriage, backed vouchers, opposed climate rules.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Paul_LePage"
+   ],
+   "photo": {
+    "file": "File:Paul LePage by Gage Skidmore.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "MD-1/andy-harris",
+  "name": "Andy Harris",
+  "party": "Republican",
+  "race": "MD-1",
+  "race_label": "Maryland · US House MD-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001052",
+   "official_name": "Andy Harris",
+   "chamber": "House",
+   "official_site": "https://harris.house.gov",
+   "official_social": {
+    "twitter": "RepAndyHarrisMD",
+    "facebook": "AndyHarrisMD",
+    "youtube": "RepAndyHarris"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 75,
+    "security": 70,
+    "immigration": 85,
+    "foreign": 45,
+    "energy": 20,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Flat tax, opposes minimum wage hikes and ACA; anti-abortion, anti-marijuana, pro-gun; backs Guard in Baltimore; opposes amnesty; wary of Ukraine aid; vouchers.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Andy_Harris_(politician)"
+   ],
+   "photo": {
+    "file": "File:Andy Harris 115th Congress Higher dif (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MD-1/dan-schwartz",
+  "name": "Dan Schwartz",
+  "party": "Democratic",
+  "race": "MD-1",
+  "race_label": "Maryland · US House MD-1",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 60,
+    "liberty": null,
+    "security": null,
+    "immigration": 45,
+    "foreign": null,
+    "energy": 60,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Would reverse billionaire tax cuts and tariffs, protect Medicaid, pair border security with protection for civil violators, supports wind energy.",
+   "sources": [
+    "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MD-2/johnny-olszewski",
+  "name": "Johnny Olszewski",
+  "party": "Democratic",
+  "race": "MD-2",
+  "race_label": "Maryland · US House MD-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "O000176",
+   "official_name": "Johnny Olszewski, Jr.",
+   "chamber": "House",
+   "official_site": "https://olszewski.house.gov",
+   "official_social": {
+    "twitter": "RepJohnnyO",
+    "instagram": "repjohnnyo"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 70,
+    "liberty": 45,
+    "security": 35,
+    "immigration": 25,
+    "foreign": 70,
+    "energy": null,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Taxing the wealthy, higher minimum wage, restoring ACA credits and SNAP; abortion rights, assault weapons ban; ICE limits; Ukraine and Israel aid; school funding.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Johnny_Olszewski",
+    "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"
+   ],
+   "photo": {
+    "file": "File:Johnny Olszewski 119th congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MD-2/dave-wallace",
+  "name": "Dave Wallace",
+  "party": "Republican",
+  "race": "MD-2",
+  "race_label": "Maryland · US House MD-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 30,
+    "liberty": null,
+    "security": 65,
+    "immigration": 75,
+    "foreign": 60,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Tax relief and budget caps, welfare program restructuring, stronger law enforcement, border security and removals, backs Israel's defense, cheaper American energy.",
+   "sources": [
+    "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MD-3/sarah-elfreth",
+  "name": "Sarah Elfreth",
+  "party": "Democratic",
+  "race": "MD-3",
+  "race_label": "Maryland · US House MD-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "E000301",
+   "official_name": "Sarah Elfreth",
+   "chamber": "House",
+   "official_site": "https://elfreth.house.gov",
+   "official_social": {
+    "twitter": "repsarahelfreth",
+    "facebook": "RepSarahElfreth",
+    "instagram": "RepSarahElfreth"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 70,
+    "liberty": 45,
+    "security": 35,
+    "immigration": 30,
+    "foreign": 55,
+    "energy": 80,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Paid family leave, protecting SNAP and Medicaid; abortion rights and gun permit limits; Dignidad Act; unconditioned Israel aid, Ukraine support; climate bills; public schools.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sarah_Elfreth",
+    "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"
+   ],
+   "photo": {
+    "file": "File:Representative Sarah Elfreth Official Portrait.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MD-3/berney-flowers",
+  "name": "Berney Flowers",
+  "party": "Republican",
+  "race": "MD-3",
+  "race_label": "Maryland · US House MD-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports binding budget caps, fiscal discipline and targeted spending cuts; opposes burdensome regulation.",
+   "sources": [
+    "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MD-4/glenn-ivey",
+  "name": "Glenn Ivey",
+  "party": "Democratic",
+  "race": "MD-4",
+  "race_label": "Maryland · US House MD-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "I000058",
+   "official_name": "Glenn Ivey",
+   "chamber": "House",
+   "official_site": "https://ivey.house.gov",
+   "official_social": {
+    "twitter": "RepGlennIvey",
+    "facebook": "RepGlennIvey",
+    "instagram": "repglennivey"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 90,
+    "liberty": 35,
+    "security": 35,
+    "immigration": null,
+    "foreign": 50,
+    "energy": 90,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cosponsors Medicare for All; backs same-sex marriage, marijuana legalization and assault weapons ban; police reform conditions; Green New Deal; mixed Israel aid votes.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Glenn_Ivey",
+    "https://jayapal.house.gov/2025/04/29/jayapal-sanders-dingell-hundreds-of-health-care-workers-introduce-medicare-for-all/"
+   ],
+   "photo": {
+    "file": "File:Rep. Glenn Ivey official portrait, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "MD-4/george-mcdermott",
+  "name": "George McDermott",
+  "party": "Republican",
+  "race": "MD-4",
+  "race_label": "Maryland · US House MD-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue statements found in candidate questionnaires or major coverage; all domains left unscored.",
+   "sources": [],
+   "photo": null
+  }
+ },
+ {
+  "id": "MD-4/sam-husseini",
+  "name": "Sam Husseini",
+  "party": "Green",
+  "race": "MD-4",
+  "race_label": "Maryland · US House MD-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MD-5/adrian-boafo",
+  "name": "Adrian Boafo",
+  "party": "Democratic",
+  "race": "MD-5",
+  "race_label": "Maryland · US House MD-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": 20,
+    "foreign": 55,
+    "energy": 75,
+    "tech": 70,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Higher minimum wage, repeal 2017 tax cuts, Medicare for All with private option, universal childcare, legal pathways, Israel aid, renewable rules, phone-free schools.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Adrian_Boafo",
+    "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"
+   ],
+   "photo": {
+    "file": "File:Adrian Boafo Feb2023.jpg",
+    "license": "CC BY 2.0",
+    "author": "Maryland GovPics"
+   }
+  }
+ },
+ {
+  "id": "MD-5/chris-chaffee",
+  "name": "Chris Chaffee",
+  "party": "Republican",
+  "race": "MD-5",
+  "race_label": "Maryland · US House MD-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue statements found in candidate questionnaires or major coverage; all domains left unscored.",
+   "sources": [],
+   "photo": {
+    "file": "File:Chris Chaffee.jpg",
+    "license": "CC BY 2.0",
+    "author": "Maryland GovPics"
+   }
+  }
+ }
+]

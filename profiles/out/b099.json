@@ -1,0 +1,373 @@
+[
+ {
+  "id": "VT-AL/suzanne-suz-seymour",
+  "name": "Suzanne \"Suz\" Seymour",
+  "party": "Independent",
+  "current_role": "Small-business owner and massage therapist",
+  "bio": "Suzanne Seymour is a small-business owner, massage therapist and comedian based in Colchester, Vermont. She is running as an independent for Vermont's at-large U.S. House seat, presenting herself as aligned with neither major party.",
+  "website": "https://ruokvt.com/",
+  "social": {
+   "x": "https://x.com/suzforvermont",
+   "instagram": "https://www.instagram.com/suzforvermont/",
+   "facebook": "https://www.facebook.com/Suzforvermont/",
+   "tiktok": "https://www.tiktok.com/@suzforvermont"
+  },
+  "platform": [
+   {"topic": "Government spending", "point": "Target fraud and waste in federal spending to lower the tax burden on working Vermonters while protecting Social Security.", "source": "https://ruokvt.com/issues/"},
+   {"topic": "Healthcare", "point": "Shift toward prevention and wellness, expand mental health resources and give patients more healthcare choices.", "source": "https://ruokvt.com/issues/"},
+   {"topic": "Economy", "point": "Bring federal infrastructure funding to Vermont and support local businesses and job creation.", "source": "https://ruokvt.com/issues/"},
+   {"topic": "Accountability", "point": "Push for election integrity, transparent government and accountability in the justice system.", "source": "https://ruokvt.com/issues/"},
+   {"topic": "Campaign finance", "point": "Reduce the role of money and large corporate donors in politics.", "source": "https://ruokvt.com/issues/"}
+  ],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "https://ruokvt.com/ruokvt/wp-content/uploads/2026/07/Suz-Seymour03-768x1024.jpg",
+  "notes": "Campaign site does not give enough detail on specific policy trade-offs to score any domain."
+ },
+ {
+  "id": "VT-AL/ryan-walton",
+  "name": "Ryan Walton",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Ryan Walton is an independent candidate on the ballot for Vermont's at-large U.S. House seat.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or policy statements could be found for this candidate."
+ },
+ {
+  "id": "VA-1/rob-wittman",
+  "name": "Rob Wittman",
+  "party": "Republican",
+  "current_role": "U.S. Representative for VA-1",
+  "bio": "Rob Wittman has represented Virginia's 1st congressional district since 2007 and is vice chair of the House Armed Services Committee. He previously spent about 20 years as an environmental health specialist with the Virginia Department of Health and served on the Montross Town Council and the Westmoreland County Board of Supervisors. He holds a PhD from Virginia Commonwealth University.",
+  "website": "https://robwittman.com/",
+  "social": {
+   "x": "https://x.com/RobWittman",
+   "instagram": "https://www.instagram.com/reprobwittman",
+   "facebook": "https://www.facebook.com/RepRobWittman",
+   "youtube": "https://www.youtube.com/RobWittman"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Keep taxes low, citing support for a larger Child Tax Credit, higher standard deduction and no tax on tips and overtime.", "source": "https://robwittman.com/issues/"},
+   {"topic": "Defense", "point": "Rebuild the defense industrial base and expand shipbuilding to counter China, Russia and Iran.", "source": "https://robwittman.com/issues/"},
+   {"topic": "Energy", "point": "Pursue an all-of-the-above energy policy including nuclear, natural gas, oil, renewables and carbon capture.", "source": "https://robwittman.com/issues/"},
+   {"topic": "Broadband", "point": "Expand rural broadband through public-private partnerships as co-chair of the Rural Broadband Caucus.", "source": "https://robwittman.com/issues/"},
+   {"topic": "Education", "point": "Strengthen parental voice and local control and allow 529 accounts to pay for workforce training.", "source": "https://robwittman.com/issues/"},
+   {"topic": "Border security", "point": "Back enforcement measures such as the Laken Riley Act while respecting legal immigration pathways.", "source": "https://robwittman.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Has backed FairTax and estate-tax repeal and campaigns on lower taxes and fewer regulations.", "source": "https://www.ontheissues.org/VA/Rob_Wittman.htm"},
+   "welfare": {"score": 25, "evidence": "Voted repeatedly to repeal the ACA and backed the 2017 AHCA, though he later voted to extend enhanced ACA tax credits.", "source": "https://robwittman.com/issues/"},
+   "liberty": {"score": 65, "evidence": "Co-sponsored a personhood bill defining life from conception; abortion is the main issue driving this score.", "source": "https://en.wikipedia.org/wiki/Rob_Wittman"},
+   "security": {"score": 70, "evidence": "Record reflects support for expanded law enforcement and security powers.", "source": "https://www.ontheissues.org/VA/Rob_Wittman.htm"},
+   "immigration": {"score": 80, "evidence": "Opposes amnesty and backed the Laken Riley Act expanding detention, while saying he respects legal immigration.", "source": "https://robwittman.com/issues/"},
+   "foreign": {"score": 80, "evidence": "As Armed Services vice chair he prioritizes military strength and deterrence of China, Russia and Iran.", "source": "https://robwittman.com/issues/"},
+   "energy": {"score": 30, "evidence": "Supports all-of-the-above energy including oil and gas and offshore drilling, but also proposed an offshore wind production bill.", "source": "https://en.wikipedia.org/wiki/Rob_Wittman"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Has supported vouchers and emphasizes parental voice and local control over federal involvement.", "source": "https://www.ontheissues.org/VA/Rob_Wittman.htm"},
+   "faith": {"score": 70, "evidence": "Record includes support for abstinence-education funding and religious-values positions.", "source": "https://www.ontheissues.org/VA/Rob_Wittman.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://robwittman.com/wp-content/uploads/2024/07/wittmanheromobile.jpg",
+  "notes": "Welfare raised from 20 to 25 because his campaign site says he voted to extend enhanced ACA tax credits; immigration trimmed to 80 and energy raised to 30 given legal-immigration and offshore-wind statements. Campaign photo URL is a hero banner image, not necessarily a tight headshot."
+ },
+ {
+  "id": "VA-1/shannon-taylor",
+  "name": "Shannon Taylor",
+  "party": "Democratic",
+  "current_role": "Commonwealth's Attorney for Henrico County",
+  "bio": "Shannon Taylor has been Henrico County's Commonwealth's Attorney since 2012, the first woman in that role, and is president of the Virginia Association of Commonwealth's Attorneys. A lifelong Virginian, she graduated from the University of Virginia and the University of Richmond School of Law. She won the August 2026 Democratic primary for Virginia's 1st district.",
+  "website": "https://shannontaylorva.com/",
+  "social": {
+   "x": "https://twitter.com/ShannonTaylorVA",
+   "instagram": "https://instagram.com/teamshannonva",
+   "facebook": "https://www.facebook.com/ShannonTaylorVA/"
+  },
+  "platform": [
+   {"topic": "Ethics", "point": "Ban congressional stock trading, bar members from lobbying for life, set 12-year term limits and reject corporate PAC money.", "source": "https://shannontaylorva.com/"},
+   {"topic": "Healthcare", "point": "Restore ACA tax credits and hospital funding, expand Medicare drug price negotiation and end surprise billing.", "source": "https://shannontaylorva.com/"},
+   {"topic": "Cost of living", "point": "Cut taxes for working families and small businesses and lower utility costs, including opposing data centers that raise energy bills.", "source": "https://shannontaylorva.com/"},
+   {"topic": "Public safety", "point": "Support law enforcement and fight fentanyl and drug trafficking.", "source": "https://shannontaylorva.com/"},
+   {"topic": "Retirement", "point": "Protect Social Security and Medicare.", "source": "https://shannontaylorva.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Proposes tax cuts aimed at working families rather than the wealthy and criticizes tariffs for raising prices.", "source": "https://shannontaylorva.com/"},
+   "welfare": {"score": 65, "evidence": "Wants to restore ACA tax credits, expand Medicare drug negotiation and protect Social Security and Medicare.", "source": "https://shannontaylorva.com/"},
+   "liberty": null,
+   "security": {"score": 60, "evidence": "A career prosecutor who campaigns on supporting law enforcement, while having created a police-integrity review position.", "source": "https://en.wikipedia.org/wiki/Shannon_Taylor_(attorney)"},
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://shannontaylorva.com/wp-content/uploads/2024/01/Shannon_Taylor_Headshot-1024x1024.jpg",
+  "notes": ""
+ },
+ {
+  "id": "VA-2/jen-kiggans",
+  "name": "Jen Kiggans",
+  "party": "Republican",
+  "current_role": "U.S. Representative for VA-2",
+  "bio": "Jen Kiggans has represented Virginia's 2nd congressional district since 2023 and chairs a House Veterans' Affairs oversight subcommittee. She is a former Navy helicopter pilot and geriatric nurse practitioner who served in the Virginia Senate from 2020 to 2022. She was born in Tampa, Florida.",
+  "website": "https://jenforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepJenKiggans",
+   "instagram": "https://www.instagram.com/repjenkiggans",
+   "facebook": "https://www.facebook.com/repjenkiggans",
+   "youtube": "https://www.youtube.com/@repjenkiggans"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Make the 2017 tax cuts permanent, end taxes on tips and overtime and expand the Child Tax Credit.", "source": "https://jenforcongress.com/issues/"},
+   {"topic": "Border security", "point": "Support Trump administration border policies and funding to complete the border wall.", "source": "https://jenforcongress.com/issues/"},
+   {"topic": "Law enforcement", "point": "Oppose defunding police and keep first responders well equipped.", "source": "https://jenforcongress.com/issues/"},
+   {"topic": "National security", "point": "Keep defense budgets strong and improve Hampton Roads military installations and servicemember quality of life.", "source": "https://jenforcongress.com/issues/"},
+   {"topic": "Veterans", "point": "Fully fund VA care and benefits and modernize the VA.", "source": "https://jenforcongress.com/issues/"},
+   {"topic": "Education", "point": "Promote school safety, parental rights and school choice with a focus on core skills.", "source": "https://jenforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Voted for the One Big Beautiful Bill Act and supports making the 2017 tax cuts permanent.", "source": "https://en.wikipedia.org/wiki/Jen_Kiggans"},
+   "welfare": {"score": 30, "evidence": "Opposed extending enhanced ACA subsidies in December 2025, though she says she worked on bipartisan ACA credit efforts.", "source": "https://en.wikipedia.org/wiki/Jen_Kiggans"},
+   "liberty": {"score": 55, "evidence": "Supports restricting abortion after 15 weeks with exceptions and backs gun rights, but voted to expand LGBTQ nondiscrimination protections.", "source": "https://en.wikipedia.org/wiki/Jen_Kiggans"},
+   "security": null,
+   "immigration": {"score": 60, "evidence": "Backs border wall funding while co-sponsoring the DIGNIDAD Act offering legal status paired with enforcement.", "source": "https://en.wikipedia.org/wiki/Jen_Kiggans"},
+   "foreign": {"score": 80, "evidence": "Opposes defense cuts and supported the 2026 Iran war, voting against a war powers resolution.", "source": "https://en.wikipedia.org/wiki/Jen_Kiggans"},
+   "energy": {"score": 35, "evidence": "Record reflects support for expanded domestic fossil fuel production alongside some conservation work.", "source": "https://www.ontheissues.org/VA/Jen_Kiggans.htm"},
+   "tech": null,
+   "education": {"score": 25, "evidence": "Campaign supports school choice and parental rights.", "source": "https://jenforcongress.com/issues/"},
+   "faith": {"score": 65, "evidence": "Record reflects support for religious-values positions.", "source": "https://www.ontheissues.org/VA/Jen_Kiggans.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://jenforcongress.com/wp-content/uploads/2026/04/Jen-Kiggans.jpg",
+  "notes": "Energy and faith scores rest on earlier OnTheIssues research that was not re-verified this pass."
+ },
+ {
+  "id": "VA-2/elaine-luria",
+  "name": "Elaine Luria",
+  "party": "Democratic",
+  "current_role": "Former U.S. Representative for VA-2",
+  "bio": "Elaine Luria represented Virginia's 2nd congressional district from 2019 to 2023, serving as vice chair of the House Armed Services Committee. She is a retired Navy commander who spent 20 years in nuclear-reactor operations and commanded Assault Craft Unit Two. Born in Birmingham, Alabama, she won the 2026 Democratic primary for a rematch with Jen Kiggans.",
+  "website": "https://elaineforcongress.com/",
+  "social": {
+   "x": "https://elaineforcongress.com/twitter",
+   "instagram": "https://elaineforcongress.com/instagram",
+   "facebook": "https://elaineforcongress.com/facebook",
+   "youtube": "https://elaineforcongress.com/youtube"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Oppose the current tariffs, which she says raise household costs.", "source": "https://elaineforcongress.com/issues/"},
+   {"topic": "Healthcare", "point": "Restore ACA premium subsidies, expand Medicare drug negotiation, cap insulin at $35 and expand rural telehealth.", "source": "https://elaineforcongress.com/issues/"},
+   {"topic": "Ethics", "point": "Ban congressional stock trading and reform campaign finance.", "source": "https://elaineforcongress.com/issues/"},
+   {"topic": "War powers", "point": "Act as a congressional check on open-ended military interventions such as the Iran war.", "source": "https://elaineforcongress.com/issues/"},
+   {"topic": "Environment", "point": "Oppose offshore drilling, support offshore wind and fund Chesapeake Bay and sea-level-rise work.", "source": "https://elaineforcongress.com/issues/"},
+   {"topic": "Veterans", "point": "Build on the PACT Act and Gold Star family benefits.", "source": "https://elaineforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Opposes tariffs while backing drug-price negotiation and anti-corruption measures.", "source": "https://elaineforcongress.com/issues/"},
+   "welfare": {"score": 65, "evidence": "Wants to restore ACA subsidies, expand Medicare drug negotiation and cap insulin costs.", "source": "https://elaineforcongress.com/issues/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Supports border security including some physical barrier together with a pathway to citizenship.", "source": "https://elaineforcongress.com/issues/"},
+   "foreign": {"score": 70, "evidence": "Pressed for a larger Navy to deter China and calls herself a strong supporter of Israel, though she opposes the Iran war.", "source": "https://en.wikipedia.org/wiki/Elaine_Luria"},
+   "energy": {"score": 75, "evidence": "Founded the Offshore Wind Caucus, funded sea-level-rise mitigation and opposes offshore drilling.", "source": "https://elaineforcongress.com/issues/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Rep. Elaine Luria official photo, 117th Congress (cropped).jpg", "license": "Public domain", "author": "U.S. House of Representatives"},
+  "campaign_photo": "",
+  "notes": "Liberty left null though Wikipedia notes she backed red-flag laws, universal background checks and the 2022 assault weapons ban; no abortion or LGBTQ stance was confirmed this pass. Social links are campaign-site redirects."
+ },
+ {
+  "id": "VA-2/matt-baker",
+  "name": "J. Matt Baker",
+  "party": "Independent",
+  "current_role": "Retired Marine Corps colonel",
+  "bio": "Matt Baker is a retired U.S. Marine Corps colonel with 28 years of service, including Desert Storm and deployments in Iraq and Afghanistan. A 1987 Naval Academy graduate, he is based in Norfolk, Virginia, and is running as an independent.",
+  "website": "https://www.mattbakerindependent.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/MattBakerVA",
+   "facebook": "https://www.facebook.com/MattBakerVA",
+   "tiktok": "https://www.tiktok.com/@missiondadforcongress"
+  },
+  "platform": [
+   {"topic": "Budget", "point": "Oppose adding to the national debt and pass on-time budgets that state trade-offs openly.", "source": "https://www.mattbakerindependent.com/vision"},
+   {"topic": "Abortion", "point": "Support a woman's right to choose and Virginia's reproductive freedom amendment.", "source": "https://www.mattbakerindependent.com/vision"},
+   {"topic": "Immigration", "point": "Pursue a compromise combining enforcement, a pathway to citizenship and humane treatment.", "source": "https://www.mattbakerindependent.com/vision"},
+   {"topic": "National security", "point": "Reassert congressional oversight of war, oppose firing senior officers and strengthen NATO.", "source": "https://www.mattbakerindependent.com/vision"},
+   {"topic": "Climate resilience", "point": "Treat Hampton Roads sea-level rise as an engineering problem and modernize the power grid.", "source": "https://www.mattbakerindependent.com/vision"},
+   {"topic": "Campaign finance", "point": "Refuse billionaire and super PAC money.", "source": "https://mattbakerindependent.com/"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 35, "evidence": "Supports abortion rights and backs the Second Amendment alongside common-sense gun regulation.", "source": "https://www.mattbakerindependent.com/vision"},
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Favors a Reagan-style pathway to citizenship paired with enforcement and opposes an enforcement-only approach.", "source": "https://www.mattbakerindependent.com/vision"},
+   "foreign": {"score": 70, "evidence": "Emphasizes strengthening NATO while calling for congressional authorization of wars.", "source": "https://www.mattbakerindependent.com/vision"},
+   "energy": {"score": 60, "evidence": "Treats sea-level rise as a problem to address and criticized halting the offshore wind project.", "source": "https://www.mattbakerindependent.com/vision"},
+   "tech": {"score": 60, "evidence": "Calls for AI guardrails to protect workers and families.", "source": "https://www.mattbakerindependent.com/vision"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/544164_867166c4d6584a96901edb5b3929de73~mv2.jpg",
+  "notes": "Ballot lists him as J. Matt Baker. Campaign photo URL was shortened to the base Wix media path."
+ },
+ {
+  "id": "VA-2/bishop-staten",
+  "name": "Geral D. \"Bishop\" Staten",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Geral D. \"Bishop\" Staten is an independent candidate on the ballot for Virginia's 2nd congressional district.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The state candidate list shows the ballot name Geral D. \"Bishop\" Staten and no website; no other public information was found."
+ },
+ {
+  "id": "VA-3/bobby-scott",
+  "name": "Bobby Scott",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for VA-3",
+  "bio": "Bobby Scott has represented Virginia's 3rd congressional district since 1993 and is the ranking member of the House Education and Workforce Committee, which he chaired from 2019 to 2023. He previously served in the Virginia House of Delegates and Senate. Raised in Newport News, he is a graduate of Harvard and Boston College Law School.",
+  "website": "https://bobbyscottforcongress.com/",
+  "social": {
+   "x": "https://x.com/BobbyScott",
+   "instagram": "https://www.instagram.com/repbobbyscott",
+   "facebook": "https://www.facebook.com/RepBobbyScott",
+   "youtube": "https://www.youtube.com/repbobbyscott"
+  },
+  "platform": [
+   {"topic": "Wages", "point": "Raise the federal minimum wage to $17 an hour.", "source": "https://www.bobbyscottforcongress.com/"},
+   {"topic": "Labor", "point": "Pass the PRO Act to strengthen workers' right to organize.", "source": "https://www.bobbyscottforcongress.com/"},
+   {"topic": "Education", "point": "Make college more affordable, building on his work on the Every Student Succeeds Act.", "source": "https://www.bobbyscottforcongress.com/"},
+   {"topic": "Criminal justice", "point": "Advance evidence-based criminal justice reform.", "source": "https://www.bobbyscottforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Authored a $17 federal minimum wage bill and sponsors the PRO Act; supports higher taxes on top earners.", "source": "https://www.bobbyscottforcongress.com/"},
+   "welfare": {"score": 90, "evidence": "Supported the ACA and a public option and has worked to expand coverage for low-income families and children.", "source": "https://www.ontheissues.org/VA/Bobby_Scott.htm"},
+   "liberty": {"score": 30, "evidence": "Supports abortion rights and voted for the Equality Act and DADT repeal, while backing gun control.", "source": "https://en.wikipedia.org/wiki/Bobby_Scott_(politician)"},
+   "security": {"score": 15, "evidence": "Opposed the Patriot Act over profiling concerns and authored the Death in Custody Reporting Act.", "source": "https://en.wikipedia.org/wiki/Bobby_Scott_(politician)"},
+   "immigration": {"score": 15, "evidence": "Supports a pathway to citizenship.", "source": "https://www.ontheissues.org/VA/Bobby_Scott.htm"},
+   "foreign": {"score": 40, "evidence": "Voted against the 2002 Iraq War resolution.", "source": "https://en.wikipedia.org/wiki/Bobby_Scott_(politician)"},
+   "energy": {"score": 90, "evidence": "Supports aggressive climate action including Green New Deal goals.", "source": "https://www.ontheissues.org/VA/Bobby_Scott.htm"},
+   "tech": {"score": 65, "evidence": "Record reflects support for tech regulation and consumer protections.", "source": "https://www.ontheissues.org/VA/Bobby_Scott.htm"},
+   "education": {"score": 95, "evidence": "Lead author of the Every Student Succeeds Act and opposes private school vouchers.", "source": "https://www.ontheissues.org/VA/Bobby_Scott.htm"},
+   "faith": {"score": 10, "evidence": "Has opposed government funding for religious discrimination in hiring and favors church-state separation.", "source": "https://www.ontheissues.org/VA/Bobby_Scott.htm"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Tech and faith scores rest on earlier OnTheIssues research that was not re-verified this pass."
+ },
+ {
+  "id": "VA-3/edwin-rivera-jr",
+  "name": "Edwin Rivera Jr.",
+  "party": "Republican",
+  "current_role": "Army veteran and former police officer",
+  "bio": "Edwin Rivera Jr. is a disabled U.S. Army veteran who served multiple combat tours in the Middle East. He previously worked as a police officer in Puerto Rico, where he was raised by his grandparents after time in foster care. He is the Republican nominee for Virginia's 3rd district.",
+  "website": "https://edwinriveraforcongress.com/",
+  "social": {
+   "x": "https://x.com/EdwinRiveraCD3",
+   "facebook": "https://www.facebook.com/people/Edwin-Rivera-for-Congress/61589251036067/"
+  },
+  "platform": [
+   {"topic": "Education", "point": "Raise teacher pay, rebuild failing schools, fund HBCUs and keep parents involved in education decisions.", "source": "https://edwinriveraforcongress.com/issues/"},
+   {"topic": "Public safety", "point": "Hold judges accountable for releasing repeat violent offenders and expand school resource officer programs.", "source": "https://edwinriveraforcongress.com/issues/"},
+   {"topic": "Transportation", "point": "Oppose tolls on the Hampton Roads Bridge-Tunnel and cap tolls.", "source": "https://edwinriveraforcongress.com/issues/"},
+   {"topic": "Veterans", "point": "Expand benefits for multi-enlistment veterans and TRICARE Prime for Guard and Reserve in wartime.", "source": "https://edwinriveraforcongress.com/issues/"},
+   {"topic": "Small business", "point": "Offer small-business tax credits and remove union requirements in federal contracting.", "source": "https://edwinriveraforcongress.com/issues/"},
+   {"topic": "Immigration", "point": "Hire more immigration judges and speed up green card processing.", "source": "https://edwinriveraforcongress.com/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Proposes small-business tax credits and removing union requirements from contracting.", "source": "https://edwinriveraforcongress.com/issues/"},
+   "welfare": null,
+   "liberty": null,
+   "security": {"score": 65, "evidence": "Wants accountability for judges who release repeat offenders, more police funding and expanded school resource officers.", "source": "https://edwinriveraforcongress.com/issues/"},
+   "immigration": {"score": 45, "evidence": "Focuses on adding immigration judges and streamlining green card processing.", "source": "https://edwinriveraforcongress.com/issues/"},
+   "foreign": null,
+   "energy": {"score": 40, "evidence": "Supports an all-energy approach including expanded nuclear to cut costs.", "source": "https://edwinriveraforcongress.com/issues/"},
+   "tech": null,
+   "education": {"score": 55, "evidence": "Backs higher teacher pay and rebuilding public schools alongside parental involvement.", "source": "https://edwinriveraforcongress.com/issues/"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://i0.wp.com/edwinriveraforcongress.com/wp-content/uploads/2026/06/edwin-rivera-for-us-congress-virginia-3rd-district-2.png",
+  "notes": ""
+ },
+ {
+  "id": "VA-3/makiba-gaines",
+  "name": "Makiba A. Gaines",
+  "party": "Independent",
+  "current_role": "Civil rights attorney",
+  "bio": "Makiba Gaines is a civil rights attorney in solo practice from Chesapeake, Virginia, who has litigated in federal and state courts. She has worked on criminal justice matters including the release and reentry of incarcerated people. She is running as an independent.",
+  "website": "https://www.makibagaines4congress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Ease the burden of taxes, tolls and government fees that she says falls on workers and small businesses.", "source": "https://www.makibagaines4congress.com/blank-1"},
+   {"topic": "Government waste", "point": "Eliminate wasteful and fraudulent spending and redirect the money to needed programs.", "source": "https://www.makibagaines4congress.com/blank-1"},
+   {"topic": "Public safety", "point": "Fund community programs, partner with police and expand homeownership and entrepreneurship to reduce crime.", "source": "https://www.makibagaines4congress.com/blank-1"},
+   {"topic": "Social media", "point": "Regulate social media companies to prevent viewpoint discrimination and protect users' control of their accounts.", "source": "https://www.makibagaines4congress.com/blank-1"},
+   {"topic": "Social Security", "point": "Maintain Social Security, Medicare and Medicaid and raise benefits for seniors and disabled people.", "source": "https://www.makibagaines4congress.com/blank-1"}
+  ],
+  "positions": {
+   "economy": {"score": 35, "evidence": "Criticizes the burden of sales and property taxes, tolls and fees, while also calling to shift power from billionaires to the people.", "source": "https://www.makibagaines4congress.com/blank-1"},
+   "welfare": {"score": 60, "evidence": "Wants to maintain Medicare and Medicaid, raise Social Security benefits and pursue broader health reform.", "source": "https://www.makibagaines4congress.com/blank-1"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {"score": 20, "evidence": "Describes her approach as \"America First, America ONLY.\"", "source": "https://www.makibagaines4congress.com/"},
+   "energy": null,
+   "tech": {"score": 70, "evidence": "Supports regulating social media companies and limiting media monopolies.", "source": "https://www.makibagaines4congress.com/blank-1"},
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/39ef81_84138308bf4244eaa2295990c6e86ee0~mv2.jpg",
+  "notes": "Foreign score rests on a single campaign slogan. Campaign photo URL was shortened to the base Wix media path."
+ },
+ {
+  "id": "VA-3/steve-woll",
+  "name": "Stephen C. Woll",
+  "party": "Independent",
+  "current_role": "Navy veteran, scientist and businessman",
+  "bio": "Steve Woll is a Navy veteran, scientist and businessman who has lived in Hampton Roads for more than 25 years. He has worked on applying science and technology to problems for the Navy, private industry and the community, and is running as an independent.",
+  "website": "https://www.stevewoll.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/stevewollva/",
+   "facebook": "https://www.facebook.com/SteveWollVA"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Make billionaires pay a fair share, oppose blanket tariffs and modernize antitrust enforcement.", "source": "https://www.stevewoll.com/issues"},
+   {"topic": "Healthcare", "point": "Guarantee universal basic healthcare access and cut administrative costs.", "source": "https://www.stevewoll.com/issues"},
+   {"topic": "Immigration", "point": "Secure the border, expand legal pathways, give undocumented residents a path to legal status and end mass deportation.", "source": "https://www.stevewoll.com/issues"},
+   {"topic": "Foreign policy", "point": "Support Ukraine and Taiwan, re-engage with NATO and compete with China through a whole-nation strategy.", "source": "https://www.stevewoll.com/issues"},
+   {"topic": "Technology", "point": "Repeal Section 230, set AI guardrails and regulate online political betting.", "source": "https://www.stevewoll.com/issues"},
+   {"topic": "Energy", "point": "Expand renewable energy and restore federal research funding.", "source": "https://www.stevewoll.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Wants billionaires to pay more and large concentrations broken up, while opposing blanket tariffs.", "source": "https://www.stevewoll.com/issues"},
+   "welfare": {"score": 75, "evidence": "Supports universal basic healthcare access plus funding for Head Start, childcare and family leave.", "source": "https://www.stevewoll.com/issues"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Opposes mass deportation and backs expanded legal immigration and a path to legal status.", "source": "https://www.stevewoll.com/issues"},
+   "foreign": {"score": 85, "evidence": "Supports Ukraine and Taiwan and calls for renewed engagement with NATO.", "source": "https://www.stevewoll.com/issues"},
+   "energy": {"score": 80, "evidence": "Calls climate change undeniable and champions renewable energy at home and abroad.", "source": "https://www.stevewoll.com/issues"},
+   "tech": {"score": 90, "evidence": "Wants Section 230 repealed, AI guardrails and limits on tech investors' influence over regulators.", "source": "https://www.stevewoll.com/issues"},
+   "education": null,
+   "faith": {"score": 25, "evidence": "Pledges to protect religious freedom and non-establishment and opposes theocracy.", "source": "https://www.stevewoll.com/issues"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Liberty left null because his abortion stance mixes expanded family planning with reducing abortions and no gun position was found."
+ }
+]

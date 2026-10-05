@@ -1,0 +1,555 @@
+[
+ {
+  "id": "CA-26/sam-gallucci",
+  "name": "Sam Gallucci",
+  "party": "Republican",
+  "race": "CA-26",
+  "race_label": "California · US House CA-26",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-26/sam-gallucci",
+   "name": "Sam Gallucci",
+   "party": "Republican",
+   "current_role": "Pastor, Embrace Church in Oxnard",
+   "bio": "Sam Gallucci is a pastor at Embrace Church in Oxnard and a former technology executive. He has founded nonprofit efforts serving migrants and people experiencing homelessness. He describes himself as a fiscal conservative seeking to reduce political polarization.",
+   "website": "https://www.samgallucci.com",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Homelessness",
+     "point": "Tackle homelessness, drawing on his nonprofit work with unhoused residents.",
+     "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Deport people who commit crimes while letting immigrant workers remain.",
+     "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+    },
+    {
+     "topic": "Education",
+     "point": "Lists education among his top campaign concerns.",
+     "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+    },
+    {
+     "topic": "Polarization",
+     "point": "Work to reduce political polarization.",
+     "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 45,
+     "evidence": "Said criminals should be deported while immigrant workers should be allowed to stay.",
+     "source": "https://www.toacorn.com/articles/candidates-for-congress-focus-on-affordability-in-district-26-race/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Campaign site content could not be read beyond its title and Ballotpedia was unreachable, so the platform comes from local news coverage."
+  }
+ },
+ {
+  "id": "CA-31/eric-ching",
+  "name": "Eric Ching",
+  "party": "Republican",
+  "race": "CA-31",
+  "race_label": "California · US House CA-31",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-31/eric-ching",
+   "name": "Eric Ching",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Eric Ching is the Republican nominee for California's 31st District. Little public biographical information could be confirmed.",
+   "website": "https://www.ericchingforcongress.com/",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "The campaign site has almost no content and Ballotpedia could not be loaded, so an earlier report that he served on the Walnut City Council could not be confirmed. No policy positions were found."
+  }
+ },
+ {
+  "id": "CA-37/sydney-kamlager-dove",
+  "name": "Sydney Kamlager-Dove",
+  "party": "Democratic",
+  "race": "CA-37",
+  "race_label": "California · US House CA-37",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000400",
+   "official_name": "Sydney Kamlager-Dove",
+   "chamber": "House",
+   "official_site": "https://kamlager-dove.house.gov",
+   "official_social": {
+    "twitter": "RepKamlagerDove",
+    "facebook": "RepKamlagerDove",
+    "instagram": "rep_kamlagerdove"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "immigration",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-37/sydney-kamlager-dove",
+   "name": "Sydney Kamlager-Dove",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for CA-37",
+   "bio": "Sydney Kamlager-Dove has represented California's 37th district since 2023 and sits on the Foreign Affairs and Judiciary committees. Born in Chicago, she previously served as a Los Angeles Community College District trustee and in the California State Assembly and State Senate.",
+   "website": "",
+   "social": {
+    "x": "https://x.com/RepKamlagerDove",
+    "facebook": "https://www.facebook.com/RepKamlagerDove",
+    "instagram": "https://www.instagram.com/rep_kamlagerdove"
+   },
+   "platform": [
+    {
+     "topic": "Civil rights",
+     "point": "Co-authored California's CROWN Act banning discrimination based on natural hairstyles.",
+     "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"
+    },
+    {
+     "topic": "Criminal justice",
+     "point": "Has backed police use-of-force standards and restoring voting rights for people on parole.",
+     "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"
+    },
+    {
+     "topic": "Foreign affairs",
+     "point": "Serves as ranking member of the Foreign Affairs subcommittee on South and Central Asia.",
+     "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"
+    },
+    {
+     "topic": "Priorities",
+     "point": "Lists the economy, education, energy, health and veterans as focus areas.",
+     "source": "https://kamlager-dove.house.gov/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": {
+     "score": 30,
+     "evidence": "Advocated stronger statewide standards for police use of force.",
+     "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"
+    },
+    "immigration": null,
+    "foreign": {
+     "score": 55,
+     "evidence": "Describes Israel as a democracy to support, while voting against a resolution on the 'river to the sea' phrase.",
+     "source": "https://en.wikipedia.org/wiki/Sydney_Kamlager-Dove"
+    },
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "",
+   "notes": "Economy score of 70 was removed for lack of citable evidence, and the liberty score was removed because the source covers the CROWN Act and ERA rather than the liberty issues on the scale."
+  }
+ },
+ {
+  "id": "CA-37/samantha-mota",
+  "name": "Samantha Mota",
+  "party": "Democratic",
+  "race": "CA-37",
+  "race_label": "California · US House CA-37",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-37/samantha-mota",
+   "name": "Samantha Mota",
+   "party": "Democratic",
+   "current_role": "Community activist",
+   "bio": "Samantha Mota is a Los Angeles County native and community activist running for California's 37th district. She served on Santa Monica's Public Safety Reform and Oversight Commission and has worked on urban agriculture efforts.",
+   "website": "https://www.motaforcongress.com/",
+   "social": {
+    "x": "https://x.com/motaforcongress",
+    "instagram": "https://www.instagram.com/motaforcongress",
+    "facebook": "https://www.facebook.com/motaforcongress",
+    "tiktok": "https://www.tiktok.com/@motaforcongress"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Makes universal health care a top campaign priority.",
+     "source": "https://www.motaforcongress.com/issues/universal-healthcare"
+    },
+    {
+     "topic": "Housing",
+     "point": "Runs on a 'Housing for All' agenda to expand access to affordable homes.",
+     "source": "https://www.motaforcongress.com/issues"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Calls for immigration reform including pathways to citizenship.",
+     "source": "https://www.motaforcongress.com/issues/immigration-reform"
+    },
+    {
+     "topic": "Education",
+     "point": "Supports student loan forgiveness and lower tuition costs.",
+     "source": "https://www.motaforcongress.com/issues"
+    },
+    {
+     "topic": "Families",
+     "point": "Wants to expand the Family and Medical Leave Act.",
+     "source": "https://www.motaforcongress.com/issues"
+    },
+    {
+     "topic": "Democracy",
+     "point": "Pushes democracy reform and less special-interest influence in Congress.",
+     "source": "https://www.motaforcongress.com/about"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 90,
+     "evidence": "Campaign makes universal health care a top priority.",
+     "source": "https://www.motaforcongress.com/issues/universal-healthcare"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 15,
+     "evidence": "Campaign supports immigration reform with pathways to citizenship.",
+     "source": "https://www.motaforcongress.com/issues/immigration-reform"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Issue pages list priorities with few specifics; the economy score was removed because the stock-trading and housing-funding positions it cited could not be confirmed."
+  }
+ },
+ {
+  "id": "CA-38/pedro-antonio-casas",
+  "name": "Pedro Antonio Casas",
+  "party": "Republican",
+  "race": "CA-38",
+  "race_label": "California · US House CA-38",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-38/pedro-antonio-casas",
+   "name": "Pedro Antonio Casas",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Pedro Antonio Casas is the Republican nominee for California's 38th district. No further biographical information was found in public sources.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website, Ballotpedia profile or issue statements could be found."
+  }
+ },
+ {
+  "id": "CA-43/cristian-morales",
+  "name": "Cristian Morales",
+  "party": "Republican",
+  "race": "CA-43",
+  "race_label": "California · US House CA-43",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-43/cristian-morales",
+   "name": "Cristian Morales",
+   "party": "Republican",
+   "current_role": "",
+   "bio": "Cristian Morales is the Republican nominee for California's 43rd congressional district. Little public biographical information was found.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or published issue positions were found."
+  }
+ },
+ {
+  "id": "CA-44/nanette-barragan",
+  "name": "Nanette Barragán",
+  "party": "Democratic",
+  "race": "CA-44",
+  "race_label": "California · US House CA-44",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001300",
+   "official_name": "Nanette Diaz Barragán",
+   "chamber": "House",
+   "official_site": "https://barragan.house.gov",
+   "official_social": {
+    "facebook": "CongresswomanBarragan",
+    "twitter": "RepBarragan",
+    "instagram": "repbarragan"
+   },
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-44/nanette-barragan",
+   "name": "Nanette Barragán",
+   "party": "Democratic",
+   "current_role": "U.S. Representative for CA-44",
+   "bio": "Nanette Barragán has represented California's 44th district since 2017 and chaired the Congressional Hispanic Caucus from 2023 to 2025. She previously served on the Hermosa Beach City Council and worked as an attorney at Latham & Watkins and in the Clinton White House. She was born in Harbor City, Los Angeles, to Mexican immigrant parents.",
+   "website": "http://barraganforcongress.com/",
+   "social": {
+    "x": "https://x.com/RepBarragan",
+    "instagram": "https://www.instagram.com/repbarragan",
+    "facebook": "https://www.facebook.com/CongresswomanBarragan"
+   },
+   "platform": [
+    {
+     "topic": "Environment",
+     "point": "Seeks a ban on hydrofluoric acid at oil refineries near populated areas.",
+     "source": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"
+    },
+    {
+     "topic": "Abortion",
+     "point": "Supports abortion rights and opposed the Dobbs decision.",
+     "source": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"
+    },
+    {
+     "topic": "Climate",
+     "point": "Voted for the Inflation Reduction Act's clean-energy investments.",
+     "source": "https://barragan.house.gov"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 70,
+     "evidence": "Voted for the Inflation Reduction Act.",
+     "source": "https://barragan.house.gov"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 20,
+     "evidence": "Abortion: 100% NARAL rating and opposed the Dobbs ruling.",
+     "source": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": {
+     "score": 85,
+     "evidence": "Pushes refinery hydrofluoric-acid ban and environmental rules; voted for the Inflation Reduction Act.",
+     "source": "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n"
+    },
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "CA-44/genevieve-angel",
+  "name": "Genevieve Angel",
+  "party": "Republican",
+  "race": "CA-44",
+  "race_label": "California · US House CA-44",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "CA-44/genevieve-angel",
+   "name": "Genevieve Angel",
+   "party": "Republican",
+   "current_role": "Family nurse practitioner and small-business owner",
+   "bio": "Genevieve Angel is a family nurse practitioner, healthcare executive and small-business owner who has lived in California's 44th district for about 30 years. She describes herself as a first-time candidate rather than a career politician.",
+   "website": "https://www.angelforcongress.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Lower costs and expand economic opportunity.",
+     "source": "https://www.angelforcongress.com/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Keep communities safe with accountability.",
+     "source": "https://www.angelforcongress.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Make health care more affordable and accessible.",
+     "source": "https://www.angelforcongress.com/"
+    },
+    {
+     "topic": "Immigration",
+     "point": "Pursue secure, fair and practical immigration solutions.",
+     "source": "https://www.angelforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Campaign lists only general goals, so no positions could be scored."
+  }
+ }
+]

@@ -1,0 +1,881 @@
+[
+ {
+  "id": "SC-1/clayton-cuteri",
+  "name": "Clayton Cuteri",
+  "party": "Independent",
+  "current_role": "Software entrepreneur and content creator",
+  "bio": "Clayton Cuteri is a software engineer and entrepreneur from Mount Pleasant who owns several businesses, including a social media company, and hosts a podcast. He co-founded the American Congress Party, a new national party, and serves as its secretary general. He is running as a write-in candidate.",
+  "website": "https://writeincuteri.com/",
+  "social": {
+   "x": "https://x.com/ClaytonCuteri",
+   "instagram": "https://www.instagram.com/claytoncuteri",
+   "facebook": "https://www.facebook.com/clayton.cuteri.2025/",
+   "youtube": "https://www.youtube.com/@ClaytonCuteriACP"
+  },
+  "platform": [
+   {
+    "topic": "Insurance",
+    "point": "Aims to curb rising homeowner insurance premiums in the Lowcountry.",
+    "source": "https://writeincuteri.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Wants to make homes affordable for Lowcountry families.",
+    "source": "https://writeincuteri.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Backs free medication as part of the American Congress Party platform.",
+    "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports free education under his party's platform.",
+    "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Favors eliminating the federal income tax and returning to the gold standard.",
+    "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Wants to end heavy spending on foreign wars and redirect those resources home.",
+    "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 80,
+    "evidence": "Party platform he promotes calls for free medication and free education.",
+    "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 20,
+    "evidence": "Calls for ending spending on foreign wars and redirecting the money home.",
+    "source": "https://www.live5news.com/2026/07/10/we-palmetto-meet-candidate-clayton-cuteri-sc-01/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://writeincuteri.com/images/Clayton_Headshot.jpg",
+  "notes": "His campaign site describes him as a write-in candidate for the American Congress Party, while the input lists him as Independent. Economy left null because he pairs abolishing the income tax with free public services."
+ },
+ {
+  "id": "SC-2/joe-wilson",
+  "name": "Joe Wilson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for SC-2",
+  "bio": "Joe Wilson has represented South Carolina's 2nd District in the U.S. House since 2001, after serving in the South Carolina Senate from 1985 to 2001. He is a real estate attorney and retired colonel of the South Carolina Army National Guard. He is a native of Charleston.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepJoeWilson",
+   "instagram": "https://www.instagram.com/repjoewilson",
+   "facebook": "https://www.facebook.com/JoeWilson",
+   "youtube": "https://www.youtube.com/RepJoeWilson"
+  },
+  "platform": [
+   {
+    "topic": "Foreign affairs",
+    "point": "Backs Ukraine and Georgia's democratic movement, sponsoring the MEGOBARI Act sanctioning Georgian Dream officials.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   },
+   {
+    "topic": "Israel",
+    "point": "Co-chairs the House Republican Israel Caucus and supports close ties with Israel.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   },
+   {
+    "topic": "Economy",
+    "point": "Lists a strong economy and good jobs as central to his work for the district.",
+    "source": "https://joewilson.house.gov/issues"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Prioritizes support and services for veterans.",
+    "source": "https://joewilson.house.gov/issues"
+   },
+   {
+    "topic": "Tech workforce",
+    "point": "Sponsored legislation setting wage floors for H-1B visa holders.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Voted for the 2025 Republican tax-and-spending bill extending tax cuts.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 bill that added Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Holds conservative positions on abortion and cosponsored a constitutional amendment to ban same-sex marriage.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   },
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Supported the 2017 travel ban, opposed public health funding for undocumented immigrants and sought H-1B limits.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   },
+   "foreign": {
+    "score": 90,
+    "evidence": "Strong Ukraine supporter, Israel Caucus co-chair and author of Georgia sanctions legislation.",
+    "source": "https://en.wikipedia.org/wiki/Joe_Wilson_(American_politician)"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "SC-2/zyon-khalifa",
+  "name": "Zyon Khalifa",
+  "party": "Democratic",
+  "current_role": "Attorney and Air Force reservist",
+  "bio": "Zyon Khalifa is a 25-year-old Aiken County native and Air Force reservist who ran track at the University of South Carolina and earned a law degree from Southern University Law Center in 2026. He has worked with a public defender's office and civil rights and children's legal organizations. He won the Democratic nomination for SC-2 in a June 2026 runoff.",
+  "website": "https://www.khalifaforcongress.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/khalifaforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Supports rural investment, small businesses, a higher minimum wage and job training that steers youth toward careers.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   {
+    "topic": "Health care",
+    "point": "Aims to reduce the uninsured rate, expand mental health services and improve hospital access in underserved areas.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants higher teacher pay, more public school funding and expanded afterschool programs.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Pledges road and bridge repairs in rural communities and fair federal development funding.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Proposes cutting court backlogs, focusing enforcement on public-safety threats and protecting due process.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs a transition to renewable energy and stricter air and water protections.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Supports raising the minimum wage and public investment in rural economies.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   "welfare": {
+    "score": 75,
+    "evidence": "Calls for expanded health coverage, Medicare improvements and paid family leave.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Pledges to protect access to reproductive healthcare (abortion).",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Favors streamlined processing, due process and enforcement limited to public-safety threats.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 85,
+    "evidence": "Advocates a renewable-energy transition and stricter environmental standards.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Prioritizes public school funding and teacher pay.",
+    "source": "https://www.khalifaforcongress.com/platform"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "The campaign site image file appears to be AI-generated, so it was not recorded as a campaign photo."
+ },
+ {
+  "id": "SC-3/sheri-biggs",
+  "name": "Sheri Biggs",
+  "party": "Republican",
+  "current_role": "U.S. Representative for SC-3",
+  "bio": "Sheri Biggs has represented South Carolina's 3rd District since January 2025 and is a member of the House Freedom Caucus. She is a nurse practitioner with a doctorate in nursing practice and a retired lieutenant colonel of the Mississippi Air National Guard. She was born in Kosciusko, Mississippi.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/repsheribiggs",
+   "instagram": "https://www.instagram.com/RepSheriBiggs",
+   "facebook": "https://www.facebook.com/RepSheriBiggs"
+  },
+  "platform": [
+   {
+    "topic": "Life",
+    "point": "Supports protecting unborn life, describing life as made in God's image.",
+    "source": "https://sheribiggs.house.gov/issues"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Opposes new restrictions on gun ownership.",
+    "source": "https://sheribiggs.house.gov/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Backs free-market policies for American energy independence and dominance.",
+    "source": "https://sheribiggs.house.gov/issues"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants education decisions kept local with strong parental involvement.",
+    "source": "https://sheribiggs.house.gov/issues"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Pledges to keep government promises to veterans.",
+    "source": "https://sheribiggs.house.gov/issues"
+   },
+   {
+    "topic": "Health care",
+    "point": "Favors competition, price transparency and support for rural health care.",
+    "source": "https://sheribiggs.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Voted for the 2025 Republican tax bill and lists fiscal responsibility as a priority.",
+    "source": "https://en.wikipedia.org/wiki/Sheri_Biggs"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 bill that added Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/Sheri_Biggs"
+   },
+   "liberty": {
+    "score": 80,
+    "evidence": "Opposes abortion and opposes any gun restrictions.",
+    "source": "https://sheribiggs.house.gov/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Voted for border enforcement funding and lists border security as a priority.",
+    "source": "https://en.wikipedia.org/wiki/Sheri_Biggs"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 20,
+    "evidence": "Supports free-market energy dominance and domestic production.",
+    "source": "https://sheribiggs.house.gov/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "SC-3/eunice-lehmacher",
+  "name": "Eunice Lehmacher",
+  "party": "Democratic",
+  "current_role": "Social worker and counselor",
+  "bio": "Eunice Lehmacher is a social worker and counselor who was born in Lexington, Missouri, and campaigns from Central, South Carolina. She won the Democratic nomination for SC-3 in June 2026.",
+  "website": "https://www.euniceforsc.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/euniceforsc",
+   "facebook": "https://www.facebook.com/EuniceforSC",
+   "tiktok": "https://www.tiktok.com/@euniceforsc",
+   "youtube": "https://www.youtube.com/@euniceforsc4284"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Aims to lower high prices for working families, small businesses and seniors.",
+    "source": "https://www.euniceforsc.com/ideas"
+   },
+   {
+    "topic": "Health care",
+    "point": "Wants to increase access to doctors and hospitals.",
+    "source": "https://www.euniceforsc.com/ideas"
+   },
+   {
+    "topic": "Childcare",
+    "point": "Supports investing in childcare as a workforce investment.",
+    "source": "https://www.euniceforsc.com/ideas"
+   },
+   {
+    "topic": "Housing",
+    "point": "Seeks to restore housing opportunity and affordability.",
+    "source": "https://www.euniceforsc.com/ideas"
+   },
+   {
+    "topic": "Technology",
+    "point": "Raises surveillance and privacy concerns about data center expansion.",
+    "source": "https://www.euniceforsc.com/ideas"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Favors peaceful solutions over military conflict.",
+    "source": "https://www.euniceforsc.com/ideas"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 30,
+    "evidence": "Abortion: supports access and public funding of reproductive care for low-income women, while calling for safety standards on abortion pills.",
+    "source": "https://ballotpedia.org/Eunice_Lehmacher"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Her issues page gives headings with few specifics, so most scores are left null. Ballotpedia blocked access this pass, so the liberty evidence was confirmed only through a secondary summary of her survey answers."
+ },
+ {
+  "id": "SC-4/william-timmons",
+  "name": "William Timmons",
+  "party": "Republican",
+  "current_role": "U.S. Representative for SC-4",
+  "bio": "William Timmons has represented South Carolina's 4th District since 2019 and served in the South Carolina Senate from 2016 to 2018. A Greenville native, he was a prosecutor in the 13th Circuit Solicitor's Office and is a judge advocate in the South Carolina Air National Guard.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepTimmons",
+   "instagram": "https://www.instagram.com/reptimmons",
+   "facebook": "https://www.facebook.com/reptimmons"
+  },
+  "platform": [
+   {
+    "topic": "Border security",
+    "point": "Lists border security as a leading priority.",
+    "source": "https://timmons.house.gov/issues"
+   },
+   {
+    "topic": "Economy",
+    "point": "Focuses on jobs and economic development in the Upstate.",
+    "source": "https://timmons.house.gov/issues"
+   },
+   {
+    "topic": "Congress reform",
+    "point": "Supports a constitutional amendment setting congressional term limits.",
+    "source": "https://en.wikipedia.org/wiki/William_Timmons"
+   },
+   {
+    "topic": "Budget",
+    "point": "Advocates a balanced federal budget.",
+    "source": "https://en.wikipedia.org/wiki/William_Timmons"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports school choice.",
+    "source": "https://en.wikipedia.org/wiki/William_Timmons"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Voted for the 2025 Republican tax bill and backs a balanced budget amendment.",
+    "source": "https://en.wikipedia.org/wiki/William_Timmons"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 bill that added Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/William_Timmons"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Cosponsored legislation to defund Planned Parenthood (abortion).",
+    "source": "https://en.wikipedia.org/wiki/William_Timmons"
+   },
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Lists border security as a top priority.",
+    "source": "https://timmons.house.gov/issues"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Advocates school choice legislation.",
+    "source": "https://en.wikipedia.org/wiki/William_Timmons"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "SC-4/courtney-mcclain",
+  "name": "Courtney McClain",
+  "party": "Democratic",
+  "current_role": "Political organizer and policy advocate",
+  "bio": "Courtney McClain is a Spartanburg native with a journalism degree from the University of South Carolina and a political science master's from Howard University. She led the South Carolina NAACP Youth and College Division and held fellowships with the Congressional Black Caucus Institute and the Clyburn Fellow Program. At 25, she won the Democratic nomination for SC-4.",
+  "website": "https://www.mcclainforsc.com/",
+  "social": {
+   "instagram": "https://www.instagram.com/mcclainforcongress",
+   "facebook": "https://www.facebook.com/share/16Di3wdnFt/",
+   "tiktok": "https://www.tiktok.com/@mcclain.for.sc"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Prioritizes building more affordable housing.",
+    "source": "https://www.mcclainforsc.com/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Says affordable health care should be accessible to everyone.",
+    "source": "https://www.mcclainforsc.com/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Aims to reduce everyday costs for Upstate families.",
+    "source": "https://www.mcclainforsc.com/"
+   },
+   {
+    "topic": "Growth",
+    "point": "Wants to manage the Upstate's rapid population growth.",
+    "source": "https://www.mcclainforsc.com/"
+   },
+   {
+    "topic": "Advocacy record",
+    "point": "Has advocated on reproductive health, public education, voting rights and criminal justice reform.",
+    "source": "https://www.mcclainforsc.com/about"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 80,
+    "evidence": "Describes affordable healthcare as a right for all.",
+    "source": "https://www.mcclainforsc.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "SC-5/wes-climer",
+  "name": "Wes Climer",
+  "party": "Republican",
+  "current_role": "South Carolina State Senator",
+  "bio": "Wes Climer has represented York County in the South Carolina Senate since 2016, where he chairs the Agriculture and Natural Resources Committee; he resigned effective November 3, 2026, to run for Congress. He previously worked as a congressional aide in Washington and is a business owner. He lives in Rock Hill and graduated from Furman University.",
+  "website": "https://wesclimer.com/",
+  "social": {
+   "x": "https://x.com/WesClimer",
+   "facebook": "https://www.facebook.com/wesclimersc"
+  },
+  "platform": [
+   {
+    "topic": "Border",
+    "point": "Supports building the wall, reinstating Remain in Mexico and defunding sanctuary cities.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Wants to cut taxes and spending, citing his role in state tax cuts.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   {
+    "topic": "Education",
+    "point": "Backs parental rights and abolishing the federal Department of Education.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   {
+    "topic": "Government reform",
+    "point": "Supports eliminating agencies and DOGE-style reforms of the federal bureaucracy.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Pledges to fight self-dealing, citing his lawsuit against a legislative pay raise.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   {
+    "topic": "Growth",
+    "point": "Wants federal, state and local coordination to manage development in the district.",
+    "source": "https://wesclimer.com/pillars/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Calls for tax cuts, spending cuts and shrinking government.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 75,
+    "evidence": "Describes himself as pro-life (abortion) and focused on family values.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 90,
+    "evidence": "Backs a border wall, Remain in Mexico and defunding sanctuary cities.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 5,
+    "evidence": "Supports parental rights and abolishing the Department of Education.",
+    "source": "https://wesclimer.com/pillars/"
+   },
+   "faith": {
+    "score": 75,
+    "evidence": "Pledges to defend faith and family in public life.",
+    "source": "https://wesclimer.com/pillars/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": "https://wesclimer.com/wp-content/uploads/2025/04/IMG_1389-scaled.jpeg",
+  "notes": ""
+ },
+ {
+  "id": "SC-5/mallory-dittmer",
+  "name": "Mallory Dittmer",
+  "party": "Democratic",
+  "current_role": "Former retail executive and campaign manager",
+  "bio": "Mallory Dittmer is a Fort Mill resident who spent 15 years in corporate retail, becoming a vice president at 33. Since 2022 she has managed campaigns for Democratic and independent candidates in South Carolina. She advocates independent redistricting.",
+  "website": "https://www.dittmerforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Supports raising the federal minimum wage and making corporations and billionaires pay their fair share.",
+    "source": "https://www.dittmerforcongress.com/priorities/economy"
+   },
+   {
+    "topic": "Housing",
+    "point": "Wants tax credits and incentives to expand affordable housing.",
+    "source": "https://www.dittmerforcongress.com/priorities/economy"
+   },
+   {
+    "topic": "Health care",
+    "point": "Aims to reverse cuts to the ACA, Medicare and Medicaid and end medical debt.",
+    "source": "https://www.dittmerforcongress.com/priorities/health-care"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Backs border security alongside simpler legal paths and a fair path to citizenship.",
+    "source": "https://www.dittmerforcongress.com/priorities/immigration"
+   },
+   {
+    "topic": "Elections",
+    "point": "Prioritizes ending corruption in campaigns and elections.",
+    "source": "https://www.dittmerforcongress.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Supports a higher minimum wage and higher taxes on billionaires and corporations.",
+    "source": "https://www.dittmerforcongress.com/priorities/economy"
+   },
+   "welfare": {
+    "score": 70,
+    "evidence": "Wants to reverse ACA, Medicare and Medicaid cuts and end medical debt.",
+    "source": "https://www.dittmerforcongress.com/priorities/health-care"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Supports a path to citizenship and simpler legal status paths alongside border security.",
+    "source": "https://www.dittmerforcongress.com/priorities/immigration"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/68a3ec0144fdfb57a68a6f5b/dfdbc944-6f6d-4570-820d-a9dd02022e65/Dittmer+%283.5+x+2+in%29+%283%29.png",
+  "notes": ""
+ },
+ {
+  "id": "SC-6/jim-clyburn",
+  "name": "Jim Clyburn",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for SC-6",
+  "bio": "Jim Clyburn has represented South Carolina's 6th District since 1993 and serves as House Assistant Democratic Leader; he was House Majority Whip from 2007 to 2011 and 2019 to 2023. He was previously a teacher and led the South Carolina Human Affairs Commission from 1974 to 1992.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepJamesClyburn",
+   "instagram": "https://www.instagram.com/repjamesclyburn",
+   "facebook": "https://www.facebook.com/jameseclyburn",
+   "youtube": "https://www.youtube.com/repjamesclyburn"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Has pushed to expand community health centers.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   {
+    "topic": "Education",
+    "point": "Seeks more funding for special education and Pell Grants and lower student loan rates.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   {
+    "topic": "Labor",
+    "point": "Supports minimum wage increases and union protections.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   {
+    "topic": "Energy",
+    "point": "Opposes offshore drilling and promotes nuclear power.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Voted against the 2025 Republican tax-and-Medicaid bill.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Voted repeatedly for minimum wage increases and against the 2025 Republican tax bill.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Voted against Medicaid cuts in 2025 and sought to expand community health centers.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Generally supports abortion rights and supports same-sex marriage.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 65,
+    "evidence": "Supported Israel after the October 7 attacks.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   "energy": {
+    "score": 60,
+    "evidence": "Opposes offshore drilling and backs nuclear power as an alternative to fossil fuels.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Consistently seeks more federal education funding.",
+    "source": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "SC-6/john-peterson",
+  "name": "John Peterson",
+  "party": "Republican",
+  "current_role": "North Charleston Convention Center employee and former mathematician",
+  "bio": "John Peterson is a former mathematician who now works full-time at the North Charleston Convention Center. He describes himself as a Donald Trump Republican and has canvassed as a volunteer for Trump's campaigns. He is the Republican nominee challenging Jim Clyburn in SC-6.",
+  "website": "https://johnpeterson.org",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Debt",
+    "point": "Wants to address the national debt and rein in federal spending.",
+    "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+   },
+   {
+    "topic": "Government efficiency",
+    "point": "Supports the Department of Government Efficiency effort.",
+    "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+   },
+   {
+    "topic": "Cost of living",
+    "point": "Aims to lower gas, grocery and insurance prices.",
+    "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+   },
+   {
+    "topic": "Dividend proposal",
+    "point": "Opposes a proposed $5,000 dividend to Americans, citing its cost.",
+    "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Calls for cutting federal spending and backs government-efficiency cuts.",
+    "source": "https://www.live5news.com/2026/09/11/we-palmetto-peterson-challenges-clyburn/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "SC-7/russell-fry",
+  "name": "Russell Fry",
+  "party": "Republican",
+  "current_role": "U.S. Representative for SC-7",
+  "bio": "Russell Fry has represented South Carolina's 7th District since 2023 after defeating the incumbent in the 2022 Republican primary. He served in the South Carolina House of Representatives from 2015 to 2022. He is a lawyer from Surfside Beach.",
+  "website": "",
+  "social": {
+   "x": "https://x.com/RepRussellFry",
+   "instagram": "https://www.instagram.com/reprussellfry",
+   "facebook": "https://www.facebook.com/reprussellfry",
+   "youtube": "https://www.youtube.com/@reprussellfry"
+  },
+  "platform": [
+   {
+    "topic": "Border",
+    "point": "Lists securing the border as a priority.",
+    "source": "https://fry.house.gov/issues"
+   },
+   {
+    "topic": "Energy",
+    "point": "Seeks to regain American energy independence.",
+    "source": "https://fry.house.gov/issues"
+   },
+   {
+    "topic": "Economy",
+    "point": "Focuses on growing the economy.",
+    "source": "https://fry.house.gov/issues"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Prioritizes support for farmers.",
+    "source": "https://fry.house.gov/issues"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Pledges support for veterans.",
+    "source": "https://fry.house.gov/issues"
+   },
+   {
+    "topic": "Constitution",
+    "point": "Lists defending the Constitution among his priorities.",
+    "source": "https://fry.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Voted for the 2025 Republican tax-and-spending bill.",
+    "source": "https://en.wikipedia.org/wiki/Russell_Fry"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Voted for the 2025 bill that added Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/Russell_Fry"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Lists securing the border as a core priority.",
+    "source": "https://fry.house.gov/issues"
+   },
+   "foreign": {
+    "score": 35,
+    "evidence": "Voted to withdraw troops from Syria and Somalia while backing aid to Israel.",
+    "source": "https://en.wikipedia.org/wiki/Russell_Fry"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Prioritizes energy independence through domestic production.",
+    "source": "https://fry.house.gov/issues"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": ""
+ }
+]

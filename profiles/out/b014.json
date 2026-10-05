@@ -1,0 +1,372 @@
+[
+ {
+  "id": "AL-1/jerry-carl",
+  "name": "Jerry Carl",
+  "party": "Republican",
+  "current_role": "Former U.S. Representative for AL-1 and businessman",
+  "bio": "Jerry Carl is a Mobile businessman who founded companies in healthcare equipment and timber. He served on the Mobile County Commission from 2012 to 2020 and represented Alabama's 1st District in the U.S. House from 2021 to 2025. He is seeking the open AL-1 seat in 2026.",
+  "website": "https://jerrycarlforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Conservative values", "point": "Presents himself as an America First conservative and outsider businessman focused on getting results in Congress.", "source": "https://jerrycarlforcongress.com/"},
+   {"topic": "Border", "point": "Has pledged to build the border wall and end benefits for people in the country illegally.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"},
+   {"topic": "Energy", "point": "Opposed a federal moratorium on oil and gas leasing, citing Alabama jobs.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"},
+   {"topic": "Israel", "point": "Describes Israel as the most important U.S. ally in the region and backs its defense.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Voted against the American Rescue Plan and supported the Fiscal Responsibility Act of 2023 while in the House.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"},
+   "welfare": {"score": 20, "evidence": "Opposed the American Rescue Plan's expanded federal spending.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"},
+   "liberty": {"score": 85, "evidence": "Abortion: opposes it and backed overturning Roe v. Wade; guns: NRA A-rated supporter of gun rights.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"},
+   "security": null,
+   "immigration": {"score": 90, "evidence": "Pledged to build the wall and end benefits for people in the country illegally.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"},
+   "foreign": {"score": 70, "evidence": "Calls Israel America's most important regional ally and supports its defense.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"},
+   "energy": {"score": 15, "evidence": "Opposed the Biden administration's oil and gas leasing moratorium.", "source": "https://en.wikipedia.org/wiki/Jerry_Carl"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Rep. Jerry Carl official photo.jpg", "license": "Public domain", "author": "Franmarie Metzler, House Creative Services"},
+  "campaign_photo": "",
+  "notes": "Campaign homepage lists no detailed issue positions; platform items rely on his House record."
+ },
+ {
+  "id": "AL-1/clyde-jones",
+  "name": "Clyde Jones",
+  "party": "Democratic",
+  "current_role": "Army veteran and former president of Alabama Arise",
+  "bio": "Clyde Jones is a Daphne resident originally from rural Virginia who served 21 years in the U.S. Army Signal Corps, including in Desert Storm and Iraq. He later worked for DuPont in operations, safety and training, and served as president of the advocacy group Alabama Arise from 2023 to 2025. He ran for the Baldwin County Board of Education in 2018.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants insurance industry regulation to bring down coverage costs in coastal Alabama.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"},
+   {"topic": "Health care", "point": "Supports restoring Affordable Care Act subsidies to keep coverage affordable.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"},
+   {"topic": "Ethics", "point": "Backs congressional term limits and a ban on stock trading by members.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"},
+   {"topic": "Wages", "point": "Supports raising the minimum wage.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"},
+   {"topic": "Agriculture", "point": "Wants to address the effect of tariffs on rural farmers.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"},
+   {"topic": "Immigration", "point": "Supports immigration reform and opposes separating families during enforcement.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Supports raising the minimum wage and regulating insurers to lower costs.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"},
+   "welfare": {"score": 75, "evidence": "Backs restoring ACA subsidies and expanding Medicaid.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 35, "evidence": "Supports immigration reform and opposes ICE practices that separate families.", "source": "https://www.alreporter.com/2026/06/02/cd1-hopeful-clyde-jones-talks-redistricting-affordability-ethics-reform/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website or social accounts were found."
+ },
+ {
+  "id": "AL-2/shomari-figures",
+  "name": "Shomari Figures",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for AL-2",
+  "bio": "Shomari Figures is a Mobile native and attorney who has represented Alabama's 2nd District since January 2025. He previously worked in the Obama White House, as legislative counsel to Senator Sherrod Brown, and as deputy chief of staff to Attorney General Merrick Garland. He serves on the House Agriculture Committee.",
+  "website": "",
+  "social": {"x": "https://x.com/repscfigures", "facebook": "https://www.facebook.com/congressman.shomari.figures", "instagram": "https://www.instagram.com/repscfigures"},
+  "platform": [
+   {"topic": "Health care", "point": "Opposes Medicaid cuts and supports expanding Medicaid in Alabama.", "source": "https://figures.house.gov/issues/health"},
+   {"topic": "Rural hospitals", "point": "Co-introduced the bipartisan Rural Hospital Stabilization Act and secured funding for rural hospitals in the district.", "source": "https://figures.house.gov/issues/health"},
+   {"topic": "Jobs", "point": "Sponsored the Made in America Jobs Act to support projects that bring foreign jobs back to the U.S.", "source": "https://figures.house.gov/issues/economy"},
+   {"topic": "Families", "point": "Proposed tax relief for new parents and for children's enrichment activities.", "source": "https://figures.house.gov/issues/economy"},
+   {"topic": "Infrastructure", "point": "Secured federal water and wastewater funding for communities in the district.", "source": "https://figures.house.gov/issues/economy"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 80, "evidence": "Opposes Medicaid cuts, supports Medicaid expansion and federal aid to rural hospitals.", "source": "https://figures.house.gov/issues/health"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Voted for the Laken Riley Act requiring detention of certain arrested noncitizens.", "source": "https://yellowhammernews.com/alabama-lawmakers-including-figures-and-sewell-vote-to-pass-britts-criminal-immigrant-crackdown-bill/"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Campaign website not confirmed."
+ },
+ {
+  "id": "AL-2/rhett-marques",
+  "name": "Rhett Marques",
+  "party": "Republican",
+  "current_role": "Alabama State Representative, District 91",
+  "bio": "Rhett Marques has represented District 91 in the Alabama House of Representatives since 2018. He grew up in Baldwin County, graduated from the University of Alabama, and ran a tire and auto service business in Enterprise for more than two decades. He sits on the House Health Committee.",
+  "website": "https://www.rhettforalabama.com/",
+  "social": {"x": "https://x.com/rhettforalabama", "instagram": "https://www.instagram.com/rhettforalabama", "facebook": "https://www.facebook.com/share/17M2ek3vgf"},
+  "platform": [
+   {"topic": "Affordability", "point": "Wants to cut wasteful spending and lower taxes to ease costs of groceries, gas and housing.", "source": "https://www.rhettforalabama.com/"},
+   {"topic": "Jobs", "point": "Calls for removing business regulations and bringing supply chains back to the U.S.", "source": "https://www.rhettforalabama.com/"},
+   {"topic": "Border security", "point": "Supports deporting criminal noncitizens and ending catch-and-release.", "source": "https://www.rhettforalabama.com/"},
+   {"topic": "Rural Alabama", "point": "Backs farmers and expanded rural broadband and infrastructure.", "source": "https://www.rhettforalabama.com/"},
+   {"topic": "Veterans", "point": "Wants stronger veteran benefits and a veteran-friendly Alabama.", "source": "https://www.rhettforalabama.com/"},
+   {"topic": "Cryptocurrency", "point": "Supports U.S. crypto innovation and opposes a central bank digital currency.", "source": "https://www.rhettforalabama.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Campaigns on lower taxes, spending cuts and eliminating business regulations.", "source": "https://www.rhettforalabama.com/"},
+   "welfare": null,
+   "liberty": {"score": 85, "evidence": "Abortion: opposes it and wants Planned Parenthood defunded; guns: strong defender of Second Amendment rights.", "source": "https://www.rhettforalabama.com/"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Supports deporting criminal noncitizens and ending catch-and-release.", "source": "https://www.rhettforalabama.com/"},
+   "foreign": {"score": 65, "evidence": "Backs Israel against terrorist threats and a strong military to counter China.", "source": "https://www.rhettforalabama.com/"},
+   "energy": null,
+   "tech": {"score": 25, "evidence": "Supports crypto innovation and opposes a central bank digital currency.", "source": "https://www.rhettforalabama.com/"},
+   "education": {"score": 30, "evidence": "Opposes critical race theory and DEI programs as part of his conservative values platform.", "source": "https://www.rhettforalabama.com/"},
+   "faith": {"score": 85, "evidence": "Campaigns on Christian principles and protecting traditional values.", "source": "https://www.rhettforalabama.com/"}
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/a5e902_8d19e58fa2854768a25ee12742af84ed~mv2.jpg",
+  "notes": "Commons file 'Rhett Marques.png' is credited to the Alabama Legislature as public domain based on a webmaster statement, with no specific free licence, so it was not used."
+ },
+ {
+  "id": "AL-3/mike-rogers",
+  "name": "Mike Rogers",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AL-3",
+  "bio": "Mike Rogers has represented Alabama's 3rd District since 2003 and has chaired the House Armed Services Committee since 2023. He previously served in the Alabama House of Representatives from 1994 to 2002 and on the Calhoun County Commission. He is a lawyer from Calhoun County with degrees from Jacksonville State University and Birmingham School of Law.",
+  "website": "http://mikerogersforcongress.com",
+  "social": {"x": "https://x.com/RepMikeRogersAL", "facebook": "https://www.facebook.com/CongressmanMikeDRogers", "youtube": "https://www.youtube.com/MikeRogersAL03", "instagram": "https://www.instagram.com/repmikerogersal"},
+  "platform": [
+   {"topic": "Defense", "point": "As Armed Services chair, prioritizes military readiness and weapons support, including arms for Ukraine.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"},
+   {"topic": "Taxes", "point": "Signed the Taxpayer Protection Pledge and supported the 2017 tax cuts.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"},
+   {"topic": "Homeland security", "point": "Treats immigration law as a national security matter and serves on Homeland Security.", "source": "https://mikerogers.house.gov/Issues/Issue/?IssueID=14899"},
+   {"topic": "Religious expression", "point": "Co-sponsored an amendment protecting prayer on public property, including schools.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Signed the Taxpayer Protection Pledge and voted for the 2017 Tax Cuts and Jobs Act.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"},
+   "welfare": null,
+   "liberty": {"score": 85, "evidence": "Abortion: 100% National Right to Life rating; LGBTQ: 0 HRC rating and opposed ENDA.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"},
+   "security": {"score": 75, "evidence": "Voted for the Patriot Act.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"},
+   "immigration": null,
+   "foreign": {"score": 55, "evidence": "Backed arms for Ukraine but introduced bills for U.S. withdrawal from the United Nations.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 85, "evidence": "Co-sponsored an amendment protecting prayer and religious expression on public property.", "source": "https://en.wikipedia.org/wiki/Mike_Rogers_(Alabama_politician)"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Official site issue pages contain little position text."
+ },
+ {
+  "id": "AL-3/lee-mcinnis",
+  "name": "Lee McInnis",
+  "party": "Democratic",
+  "current_role": "Retired defense intelligence officer and educator",
+  "bio": "Lee McInnis is an Alabama native who served six years in Army intelligence and 28 years in the defense intelligence community, including with special operations in Afghanistan. After retiring he taught communications and American government. He holds a master's degree in history from Auburn University.",
+  "website": "https://leemcinnis4alabama.com/",
+  "social": {"facebook": "https://www.facebook.com/profile.php?id=61581116092600", "instagram": "https://www.instagram.com/leemcinnis26/", "youtube": "https://www.youtube.com/channel/UCmtefnUpw0HFM-2HSnLhiYA"},
+  "platform": [
+   {"topic": "Economy", "point": "Says the economy should work for working families and the wealthiest should pay their fair share.", "source": "https://leemcinnis4alabama.com/"},
+   {"topic": "Health care", "point": "Wants health care access for all and more hospitals, pediatricians and mental health services in the district.", "source": "https://leemcinnis4alabama.com/"},
+   {"topic": "Representation", "point": "Pledges to refuse corporate and foreign PAC money and hold regular town halls.", "source": "https://leemcinnis4alabama.com/"},
+   {"topic": "Safety net", "point": "Criticizes SNAP and health program cuts in the 2025 budget law.", "source": "https://www.alreporter.com/2025/12/01/democratic-congressional-aspirant-lee-mcinnis-explains-his-candidacy/"}
+  ],
+  "positions": {
+   "economy": {"score": 75, "evidence": "Says the ultra-wealthy must pay their fair share of taxes.", "source": "https://www.alreporter.com/2025/12/01/democratic-congressional-aspirant-lee-mcinnis-explains-his-candidacy/"},
+   "welfare": {"score": 85, "evidence": "Calls for health care for all and opposes SNAP and health cuts.", "source": "https://leemcinnis4alabama.com/"},
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AL-4/robert-aderholt",
+  "name": "Robert Aderholt",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AL-4",
+  "bio": "Robert Aderholt, from Haleyville, has represented Alabama's 4th District since 1997 and sits on the House Appropriations Committee. He previously served as a Haleyville municipal judge and as an aide to Governor Fob James. He is a lawyer with degrees from Birmingham-Southern College and Cumberland School of Law.",
+  "website": "https://aderholtforcongress.org",
+  "social": {"x": "https://x.com/Robert_Aderholt", "facebook": "https://www.facebook.com/RobertAderholt", "youtube": "https://www.youtube.com/RobertAderholt"},
+  "platform": [
+   {"topic": "Immigration", "point": "Wants border barriers, technology and more agents before other reforms, and opposes amnesty.", "source": "https://aderholt.house.gov/issues/immigration"},
+   {"topic": "Economy", "point": "Supports spending cuts and a fiscally responsible federal budget.", "source": "https://aderholt.house.gov/issues/economy"},
+   {"topic": "Religious freedom", "point": "Advocates protecting religious practice at home and fighting persecution of Christians abroad.", "source": "https://aderholt.house.gov/issues/faith-and-religious-freedom"},
+   {"topic": "Agriculture", "point": "Highlights farming as central to North Alabama's economy.", "source": "https://aderholt.house.gov/issues/agriculture"},
+   {"topic": "Gun rights", "point": "Defends the Second Amendment right to bear arms.", "source": "https://aderholt.house.gov/issues/gun-rights"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Signed the Taxpayer Protection Pledge and voted for the 2017 tax cuts.", "source": "https://en.wikipedia.org/wiki/Robert_Aderholt"},
+   "welfare": null,
+   "liberty": {"score": 85, "evidence": "Abortion: opposes it and praised Dobbs; LGBTQ: opposes same-sex marriage; guns: NRA-endorsed.", "source": "https://en.wikipedia.org/wiki/Robert_Aderholt"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Backs border barriers, opposes amnesty and co-sponsored the Birthright Citizenship Act.", "source": "https://aderholt.house.gov/issues/immigration"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Opposed carbon taxes and greenhouse gas regulation of agriculture under the Clean Air Act.", "source": "https://en.wikipedia.org/wiki/Robert_Aderholt"},
+   "tech": null,
+   "education": null,
+   "faith": {"score": 80, "evidence": "Says the Constitution guarantees freedom of religion, not from religion, and chairs the House Values Action Team.", "source": "https://aderholt.house.gov/issues/faith-and-religious-freedom"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Immigration and faith scores were newly added from his official issue pages."
+ },
+ {
+  "id": "AL-4/amanda-pusczek",
+  "name": "Amanda Pusczek",
+  "party": "Democratic",
+  "current_role": "Registered nurse",
+  "bio": "Amanda Pusczek is a registered nurse from Cullman with more than a decade of health care experience, including disaster relief work. She is running for Congress in Alabama's 4th District.",
+  "website": "https://www.amandaforalabama.com/",
+  "social": {"facebook": "https://www.facebook.com/AmandaforAlabama/", "instagram": "https://www.instagram.com/amandaforalabama/", "tiktok": "https://www.tiktok.com/@apusczek26"},
+  "platform": [
+   {"topic": "Rural hospitals", "point": "Proposes emergency grants to stabilize rural hospitals and direct federal Medicaid enrollment.", "source": "https://www.amandaforalabama.com/policy"},
+   {"topic": "Education", "point": "Supports a $60,000 teacher salary floor, free school meals and tuition-free community college, and opposes vouchers.", "source": "https://www.amandaforalabama.com/policy"},
+   {"topic": "Farmers", "point": "Wants to support independent farmers against corporate monopolies.", "source": "https://www.amandaforalabama.com/"},
+   {"topic": "Energy", "point": "Backs a rapid TVA shift to solar and battery storage built under union labor agreements.", "source": "https://www.amandaforalabama.com/policy"},
+   {"topic": "Criminal justice", "point": "Calls for ending qualified immunity, civilian oversight boards and mobile crisis teams.", "source": "https://www.amandaforalabama.com/policy"},
+   {"topic": "Reproductive rights", "point": "Supports enacting the Women's Health Protection Act nationwide.", "source": "https://www.amandaforalabama.com/policy"}
+  ],
+  "positions": {
+   "economy": {"score": 85, "evidence": "Backs closing corporate tax loopholes, the PRO Act and an offshoring exit tax.", "source": "https://www.amandaforalabama.com/policy"},
+   "welfare": {"score": 90, "evidence": "Supports universal child care, universal free school meals and direct federal Medicaid enrollment.", "source": "https://www.amandaforalabama.com/policy"},
+   "liberty": {"score": 15, "evidence": "Abortion: supports the Women's Health Protection Act; LGBTQ: backs the Equality Act; drugs: favors treatment over incarceration.", "source": "https://www.amandaforalabama.com/policy"},
+   "security": {"score": 15, "evidence": "Wants to end qualified immunity and the 1033 military equipment program and add civilian oversight.", "source": "https://www.amandaforalabama.com/policy"},
+   "immigration": {"score": 30, "evidence": "Supports workplace protections for immigrant workers, including the undocumented, and language access.", "source": "https://www.amandaforalabama.com/policy"},
+   "foreign": {"score": 35, "evidence": "Platform calls for repealing existing war authorizations.", "source": "https://www.amandaforalabama.com/policy"},
+   "energy": {"score": 85, "evidence": "Supports a rapid TVA transition to utility-scale solar and battery storage.", "source": "https://www.amandaforalabama.com/policy"},
+   "tech": {"score": 70, "evidence": "Backs limits on AI-driven insurance denials and health data privacy rules for tech companies.", "source": "https://www.amandaforalabama.com/policy"},
+   "education": {"score": 95, "evidence": "Supports a federal teacher pay floor and full IDEA funding, and opposes vouchers.", "source": "https://www.amandaforalabama.com/policy"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/690ea8a65dc1bd045ae2262f/d62dedba-8b24-4a97-bb26-eb1e706a20a5/4729.jpg",
+  "notes": "The foreign score rests mainly on her support for repealing the 2001 and 2002 war authorizations."
+ },
+ {
+  "id": "AL-5/dale-strong",
+  "name": "Dale Strong",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AL-5",
+  "bio": "Dale Strong, from Monrovia, has represented Alabama's 5th District since January 2023. He previously chaired the Madison County Commission from 2012 to 2023 after serving as a county commissioner from 1996, and earlier worked as a first responder and 911 dispatcher. He serves on the House Homeland Security Committee.",
+  "website": "https://dalestrongforcongress.com",
+  "social": {"x": "https://x.com/RepDaleStrong", "facebook": "https://www.facebook.com/repdalestrong", "instagram": "https://www.instagram.com/repdalestrong"},
+  "platform": [
+   {"topic": "Border security", "point": "Calls for strong laws, technology and coordinated enforcement to stop illegal crossings and trafficking.", "source": "https://strong.house.gov/issues/securing-our-homeland"},
+   {"topic": "Election integrity", "point": "Introduced the Deport Illegal Voters Act to remove noncitizens convicted of voting.", "source": "https://strong.house.gov/issues/securing-our-homeland"},
+   {"topic": "Family values", "point": "Pledges to defend conservative family values and the right to worship.", "source": "https://strong.house.gov/issues/conservative-family-values"},
+   {"topic": "Law enforcement", "point": "Emphasizes support for police agencies and officers.", "source": "https://strong.house.gov/issues/supporting-law-enforcement"},
+   {"topic": "Defense", "point": "Prioritizes military strength and defense capabilities.", "source": "https://strong.house.gov/issues/national-defense"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 80, "evidence": "Abortion: cosponsored a 2025 bill recognizing personhood from conception; guns: lists Second Amendment protection as an issue.", "source": "https://en.wikipedia.org/wiki/Dale_Strong"},
+   "security": null,
+   "immigration": {"score": 80, "evidence": "Prioritizes border enforcement and sponsored a bill to deport noncitizens convicted of voting.", "source": "https://strong.house.gov/issues/securing-our-homeland"},
+   "foreign": {"score": 35, "evidence": "Voted against the 2024 Ukraine military aid package.", "source": "https://en.wikipedia.org/wiki/Dale_Strong"},
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {"score": 75, "evidence": "Pledges to defend the right to worship as part of conservative family values.", "source": "https://strong.house.gov/issues/conservative-family-values"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AL-5/andrew-sneed",
+  "name": "Andrew Sneed",
+  "party": "Democratic",
+  "current_role": "Master plumber and small-business owner",
+  "bio": "Andrew Sneed was born and raised in Huntsville and earned a BFA from Boston University. After working in New York's restaurant industry, he returned to Alabama in 2010 and entered the plumbing trade. In 2019 he founded Whole Home Solutions, a plumbing and gas-fitting business.",
+  "website": "https://www.sneedforcongress.com/",
+  "social": {"x": "https://x.com/asforcongress", "instagram": "https://www.instagram.com/andrewsneedforcongress", "facebook": "https://www.facebook.com/share/14EqPmzufSh/", "tiktok": "https://www.tiktok.com/@andrewsneedforcongress"},
+  "platform": [
+   {"topic": "Health care", "point": "Wants to expand Medicaid, negotiate drug prices, regulate for-profit insurers and protect rural hospitals.", "source": "https://www.sneedforcongress.com/healthcare"},
+   {"topic": "Immigration", "point": "Supports legal status for undocumented workers, a simpler citizenship path and ICE accountability.", "source": "https://www.sneedforcongress.com/immigration"},
+   {"topic": "Data centers", "point": "Proposes a moratorium on new North Alabama data centers, with companies paying infrastructure costs.", "source": "https://www.sneedforcongress.com/data-centers"},
+   {"topic": "Energy", "point": "Proposes grid security grants, a grid impact fee on data centers and restored clean-energy funding.", "source": "https://www.sneedforcongress.com/energy"},
+   {"topic": "Education", "point": "Opposes vouchers and the CHOOSE Act and wants to close the teacher pay gap.", "source": "https://www.sneedforcongress.com/ed-op"}
+  ],
+  "positions": {
+   "economy": {"score": 65, "evidence": "Supports prescription drug price negotiation and regulating for-profit insurers.", "source": "https://www.sneedforcongress.com/healthcare"},
+   "welfare": {"score": 75, "evidence": "Backs expanding Medicaid availability and protecting rural hospitals.", "source": "https://www.sneedforcongress.com/healthcare"},
+   "liberty": null,
+   "security": {"score": 20, "evidence": "Wants a pause on new surveillance tools such as license plate tracking cameras until safeguards exist.", "source": "https://www.sneedforcongress.com/data-centers"},
+   "immigration": {"score": 15, "evidence": "Supports legal status for undocumented workers, closing mass detention facilities and a citizenship path.", "source": "https://www.sneedforcongress.com/immigration"},
+   "foreign": null,
+   "energy": {"score": 70, "evidence": "Calls for restoring federal funding for clean and sustainable energy technologies.", "source": "https://www.sneedforcongress.com/energy"},
+   "tech": {"score": 85, "evidence": "Proposes a data center moratorium and a permanent emerging-technologies task force to guide regulation.", "source": "https://www.sneedforcongress.com/data-centers"},
+   "education": {"score": 90, "evidence": "Opposes the CHOOSE Act and all voucher programs.", "source": "https://www.sneedforcongress.com/ed-op"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "AL-6/gary-palmer",
+  "name": "Gary Palmer",
+  "party": "Republican",
+  "current_role": "U.S. Representative for AL-6",
+  "bio": "Gary Palmer, from Hackleburg, has represented Alabama's 6th District since 2015 and chaired the House Republican Policy Committee from 2019 to 2025. Before Congress he co-founded and led the Alabama Policy Institute for 25 years and co-founded the State Policy Network. He is a University of Alabama graduate.",
+  "website": "https://palmerforalabama.com",
+  "social": {"x": "https://x.com/USRepGaryPalmer", "instagram": "https://www.instagram.com/repgarypalmer", "facebook": "https://www.facebook.com/CongressmanGaryPalmer"},
+  "platform": [
+   {"topic": "Critical minerals", "point": "Sponsored the Securing America's Mineral Supply Act to boost domestic mineral production and reduce reliance on China.", "source": "https://palmer.house.gov/issues/energy-and-environment"},
+   {"topic": "Energy", "point": "Opposes federal restrictions on natural gas appliances and energy production.", "source": "https://palmer.house.gov/issues/energy-and-environment"},
+   {"topic": "Health care", "point": "Supports repealing the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Gary_Palmer"},
+   {"topic": "Taxes", "point": "Supported the 2017 tax cuts to leave more money with households.", "source": "https://en.wikipedia.org/wiki/Gary_Palmer"},
+   {"topic": "Immigration", "point": "Opposes illegal immigration and supports deportation of people here unlawfully.", "source": "https://en.wikipedia.org/wiki/Gary_Palmer"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Voted for the 2017 tax cuts and against the American Rescue Plan.", "source": "https://en.wikipedia.org/wiki/Gary_Palmer"},
+   "welfare": {"score": 15, "evidence": "Supports repealing the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Gary_Palmer"},
+   "liberty": {"score": 85, "evidence": "Abortion and same-sex marriage: opposes both; drugs: opposes marijuana legalization; guns: backs concealed carry reciprocity.", "source": "https://en.wikipedia.org/wiki/Gary_Palmer"},
+   "security": null,
+   "immigration": {"score": 85, "evidence": "Opposes illegal immigration and supports deporting undocumented immigrants.", "source": "https://en.wikipedia.org/wiki/Gary_Palmer"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Reversed a ban on natural gas water heaters and opposes EPA rules and renewable mandates.", "source": "https://palmer.house.gov/issues/energy-and-environment"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score was newly added from his official issue page."
+ },
+ {
+  "id": "AL-6/maurice-mercer",
+  "name": "Maurice Mercer",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Maurice Mercer is a Democrat from Pelham who won his party's nomination for Alabama's 6th District in a special primary.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Campaigns on lowering everyday costs for families.", "source": "https://www.shelbycountyreporter.com/news/pelhams-maurice-mercer-enters-race-for-alabamas-6th-congressional-district-da3c6c14/"},
+   {"topic": "Health care", "point": "Prioritizes making health care more affordable.", "source": "https://www.shelbycountyreporter.com/news/pelhams-maurice-mercer-enters-race-for-alabamas-6th-congressional-district-da3c6c14/"},
+   {"topic": "Infrastructure", "point": "Supports continued federal infrastructure investment, including rail projects.", "source": "https://www.clantonadvertiser.com/news/mercer-palmer-win-6th-congressional-nominations-in-special-primary-election-eec73fdb"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Supports continued federal infrastructure investment, including rail.", "source": "https://www.clantonadvertiser.com/news/mercer-palmer-win-6th-congressional-nominations-in-special-primary-election-eec73fdb"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Both news sources blocked access on this pass, so profile relies on earlier research; career background and campaign website were not found."
+ }
+]

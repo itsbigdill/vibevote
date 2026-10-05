@@ -1,0 +1,393 @@
+[
+ {
+  "id": "TX-18/christian-menefee",
+  "name": "Christian Menefee",
+  "party": "Democratic",
+  "race": "TX-18",
+  "race_label": "Texas · US House TX-18",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001245",
+   "official_name": "Christian D. Menefee",
+   "chamber": "House",
+   "official_site": "https://menefee.house.gov",
+   "official_social": {},
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 95,
+    "liberty": null,
+    "security": null,
+    "immigration": 15,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Endorses Medicare for All, backs DACA protections and faster asylum processing, and votes against ICE funding without reforms.",
+   "sources": [
+    "https://menefee.house.gov/issues/immigration",
+    "https://politicsdoneright.com/2026/03/christian-menefee-on-medicare-for-all-redistricting-flipping-texas/"
+   ],
+   "photo": {
+    "file": "File:Christian Menefee, official portrait (119th Congress) (2) (cropped).jpg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara"
+   }
+  }
+ },
+ {
+  "id": "TX-18/ronald-whitfield",
+  "name": "Ronald Whitfield",
+  "party": "Republican",
+  "race": "TX-18",
+  "race_label": "Texas · US House TX-18",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-19/tom-sell",
+  "name": "Tom Sell",
+  "party": "Republican",
+  "race": "TX-19",
+  "race_label": "Texas · US House TX-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 60,
+    "security": null,
+    "immigration": 85,
+    "foreign": 65,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Platform lists protecting life and the Second Amendment (liberty), strong border and immigration control, energy dominance, strong national defense.",
+   "sources": [
+    "https://www.selltexastrue.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-19/kyle-rable",
+  "name": "Kyle Rable",
+  "party": "Democratic",
+  "race": "TX-19",
+  "race_label": "Texas · US House TX-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-20/joaquin-castro",
+  "name": "Joaquin Castro",
+  "party": "Democratic",
+  "race": "TX-20",
+  "race_label": "Texas · US House TX-20",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001091",
+   "official_name": "Joaquin Castro",
+   "chamber": "House",
+   "official_site": "https://castro.house.gov",
+   "official_social": {
+    "twitter": "JoaquinCastrotx",
+    "facebook": "326420614138023",
+    "youtube": "JoaquinCastroTX",
+    "instagram": "joaquincastrotx"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 20,
+    "security": 35,
+    "immigration": 10,
+    "foreign": 50,
+    "energy": 90,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Higher minimum wage and estate tax, opposes welfare work requirements, pro-choice and same-sex marriage (liberty), DREAMers, Green New Deal, opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/TX/Joaquin_Castro.htm",
+    "https://en.wikipedia.org/wiki/Joaquin_Castro"
+   ],
+   "photo": {
+    "file": "File:Joaquin Castro, official portrait, 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Nate Payne"
+   }
+  }
+ },
+ {
+  "id": "TX-20/edgardo-baez",
+  "name": "Edgardo Baez",
+  "party": "Republican",
+  "race": "TX-20",
+  "race_label": "Texas · US House TX-20",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-21/mark-teixeira",
+  "name": "Mark Teixeira",
+  "party": "Republican",
+  "race": "TX-21",
+  "race_label": "Texas · US House TX-21",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 70,
+    "security": 70,
+    "immigration": 95,
+    "foreign": 20,
+    "energy": 10,
+    "tech": null,
+    "education": 20,
+    "faith": 75
+   },
+   "basis": "Spending cuts, market healthcare, protect unborn and gun rights (liberty), back the blue, deport illegal immigrants, end forever wars, unleash oil and gas.",
+   "sources": [
+    "https://teixeiraforcongress.com/issues/"
+   ],
+   "photo": {
+    "file": "File:Mark Teixeira basepaths 2011 (cropped).jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Keith Allison"
+   }
+  }
+ },
+ {
+  "id": "TX-21/kristin-hook",
+  "name": "Kristin Hook",
+  "party": "Democratic",
+  "race": "TX-21",
+  "race_label": "Texas · US House TX-21",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 65,
+    "liberty": 15,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Higher minimum wage, taxing billionaires and corporations, restoring Roe and protecting IVF (liberty), curbing ICE weaponization, investing in public schools.",
+   "sources": [
+    "https://www.drkristinhook.org/issues",
+    "https://ballotpedia.org/Kristin_Hook"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-22/trever-nehls",
+  "name": "Trever Nehls",
+  "party": "Republican",
+  "race": "TX-22",
+  "race_label": "Texas · US House TX-22",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 80,
+    "security": 75,
+    "immigration": 95,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Lower taxes and regulation, blocking gender ideology in schools (liberty), fully funding police, border wall and deportations, expanded oil and gas, parental choice.",
+   "sources": [
+    "https://www.trevernehlsforcongress.com/issues/"
+   ],
+   "photo": {
+    "file": "File:Blackjack Recognition Ceremony Trever Nehls (cropped).jpg",
+    "license": "Public domain",
+    "author": "Spc. Dakota Vanidestine"
+   }
+  }
+ },
+ {
+  "id": "TX-22/marquette-greene-scott",
+  "name": "Marquette Greene-Scott",
+  "party": "Democratic",
+  "race": "TX-22",
+  "race_label": "Texas · US House TX-22",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No verifiable issue positions found in available sources; all domains left unscored.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-23/brandon-herrera",
+  "name": "Brandon Herrera",
+  "party": "Republican",
+  "race": "TX-23",
+  "race_label": "Texas · US House TX-23",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 45,
+    "security": null,
+    "immigration": 85,
+    "foreign": 10,
+    "energy": null,
+    "tech": null,
+    "education": 10,
+    "faith": null
+   },
+   "basis": "No new taxes, pro-life but strongly pro-gun (liberty), Remain in Mexico, opposes foreign spending and Mideast deployments, money-follows-student school choice.",
+   "sources": [
+    "https://brandonherreraforcongress.com/issues/",
+    "https://en.wikipedia.org/wiki/Brandon_Herrera"
+   ],
+   "photo": {
+    "file": "File:Brandon Herrera with attendees (55457704523) (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gage Skidmore"
+   }
+  }
+ },
+ {
+  "id": "TX-23/katy-padilla-stout",
+  "name": "Katy Padilla Stout",
+  "party": "Democratic",
+  "race": "TX-23",
+  "race_label": "Texas · US House TX-23",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 90,
+    "liberty": 30,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Medicare expansion to all, universal pre-K, opposes billionaire tax cuts, abortion rights plus background checks and red-flag laws (liberty), citizenship pathways, Paris Accord.",
+   "sources": [
+    "https://www.katyforcongress.com/issues/"
+   ],
+   "photo": null
+  }
+ }
+]

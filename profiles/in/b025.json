@@ -1,0 +1,446 @@
+[
+ {
+  "id": "CA-41/linda-sanchez",
+  "name": "Linda Sánchez",
+  "party": "Democratic",
+  "race": "CA-41",
+  "race_label": "California · US House CA-41",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "S001156",
+   "official_name": "Linda T. Sánchez",
+   "chamber": "House",
+   "official_site": "https://lindasanchez.house.gov",
+   "official_social": {
+    "twitter": "RepLindaSanchez",
+    "facebook": "CongresswomanLindaSanchez",
+    "youtube": "LindaTSanchez",
+    "instagram": "replindasanchez"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": 15,
+    "foreign": null,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-choice and pro-LGBTQ record; supports drug-sentencing reform, opposes new oil drilling, backs renewable credits and immigration family reunification.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Linda_S%C3%A1nchez",
+    "https://lindasanchez.house.gov"
+   ],
+   "photo": {
+    "file": "File:Linda Sánchez, 116th Congress, official photo.jpg",
+    "license": "Public domain",
+    "author": "United States Government"
+   }
+  }
+ },
+ {
+  "id": "CA-41/mitch-clemmons",
+  "name": "Mitch Clemmons",
+  "party": "Republican",
+  "race": "CA-41",
+  "race_label": "California · US House CA-41",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": 70,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign backs cutting red tape and housing barriers, support for law enforcement and secure borders.",
+   "sources": [
+    "https://electmitchclemmons.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-42/robert-garcia",
+  "name": "Robert Garcia",
+  "party": "Democratic",
+  "race": "CA-42",
+  "race_label": "California · US House CA-42",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000598",
+   "official_name": "Robert Garcia",
+   "chamber": "House",
+   "official_site": "https://robertgarcia.house.gov",
+   "official_social": {
+    "twitter": "RepRobertGarcia",
+    "facebook": "reprobertgarcia",
+    "instagram": "RepRobertGarcia"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 65,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports Medicare for All; led Long Beach climate plan; voted for 2024 Ukraine, Israel and Taiwan aid packages.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Robert_Garcia_(California_congressman)",
+    "https://robertgarcia.house.gov"
+   ],
+   "photo": {
+    "file": "File:Robert Garcia 119th Congress.jpeg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-42/brian-burley",
+  "name": "Brian Burley",
+  "party": "Republican",
+  "race": "CA-42",
+  "race_label": "California · US House CA-42",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": 70,
+    "immigration": 80,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Campaign backs tax relief, opposing illegal immigration, full support for police and military, family values and parental involvement.",
+   "sources": [
+    "https://www.burley4congress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-43/maxine-waters",
+  "name": "Maxine Waters",
+  "party": "Democratic",
+  "race": "CA-43",
+  "race_label": "California · US House CA-43",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000187",
+   "official_name": "Maxine Waters",
+   "chamber": "House",
+   "official_site": "https://waters.house.gov",
+   "official_social": {
+    "twitter": "RepMaxineWaters",
+    "facebook": "MaxineWaters",
+    "youtube": "MaxineWaters",
+    "instagram": "repmaxinewaters"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": null,
+    "liberty": 15,
+    "security": 30,
+    "immigration": null,
+    "foreign": 30,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Pro-choice record; opposes mandatory minimums; pushed crypto and Wall Street regulation; opposes Cuba embargo and criticized Haiti intervention.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Maxine_Waters",
+    "https://waters.house.gov"
+   ],
+   "photo": {
+    "file": "File:Maxine Waters, Official Portrait, 113th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-43/cristian-morales",
+  "name": "Cristian Morales",
+  "party": "Republican",
+  "race": "CA-43",
+  "race_label": "California · US House CA-43",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published issue positions found in reliable sources.",
+   "sources": [
+    "https://ballotpedia.org/Cristian_Morales"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-44/nanette-barragan",
+  "name": "Nanette Barragán",
+  "party": "Democratic",
+  "race": "CA-44",
+  "race_label": "California · US House CA-44",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001300",
+   "official_name": "Nanette Diaz Barragán",
+   "chamber": "House",
+   "official_site": "https://barragan.house.gov",
+   "official_social": {
+    "facebook": "CongresswomanBarragan",
+    "twitter": "RepBarragan",
+    "instagram": "repbarragan"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": null,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 85,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "100% NARAL rating and opposed Dobbs; pushes refinery hydrofluoric-acid ban and environmental rules; voted for Inflation Reduction Act.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nanette_Barrag%C3%A1n",
+    "https://barragan.house.gov"
+   ],
+   "photo": {
+    "file": "File:Nanette Barragan official portrait.jpg",
+    "license": "Public domain",
+    "author": "Sharon Wallace, U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-44/genevieve-angel",
+  "name": "Genevieve Angel",
+  "party": "Republican",
+  "race": "CA-44",
+  "race_label": "California · US House CA-44",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign lists only general goals on affordability, public safety, healthcare access and immigration; no specific stances found.",
+   "sources": [
+    "https://www.angelforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-45/derek-tran",
+  "name": "Derek Tran",
+  "party": "Democratic",
+  "race": "CA-45",
+  "race_label": "California · US House CA-45",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000491",
+   "official_name": "Derek Tran",
+   "chamber": "House",
+   "official_site": "https://tran.house.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": 25,
+    "security": 55,
+    "immigration": 35,
+    "foreign": 75,
+    "energy": 70,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Abortion rights and gun-violence task force drove liberty; opposes mass deportation but backed Laken Riley Act; prioritizes Ukraine and Taiwan; expand housing tax credit.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Derek_Tran"
+   ],
+   "photo": {
+    "file": "File:Derek Tran 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-45/chuong-vo",
+  "name": "Chuong Vo",
+  "party": "Republican",
+  "race": "CA-45",
+  "race_label": "California · US House CA-45",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": 45,
+    "liberty": null,
+    "security": 70,
+    "immigration": 65,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": 50,
+    "faith": null
+   },
+   "basis": "Backs police and tougher fentanyl penalties, border security with legal-immigration modernization, support for Israel and Taiwan, spending cuts, protecting Social Security.",
+   "sources": [
+    "https://www.vo4congress.com/"
+   ],
+   "photo": {
+    "file": "File:Chuong Vo, Mayor Pro Tem of Cerritos, CA, 2020.jpg",
+    "license": "Public domain",
+    "author": "City of Cerritos"
+   }
+  }
+ },
+ {
+  "id": "CA-46/lou-correa",
+  "name": "Lou Correa",
+  "party": "Democratic",
+  "race": "CA-46",
+  "race_label": "California · US House CA-46",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001110",
+   "official_name": "J. Luis Correa",
+   "chamber": "House",
+   "official_site": "https://correa.house.gov",
+   "official_social": {
+    "twitter": "RepLouCorrea",
+    "facebook": "RepLouCorrea",
+    "instagram": "reploucorrea"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 20,
+    "security": 40,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": 35,
+    "education": null,
+    "faith": null
+   },
+   "basis": "100% NARAL rating drove liberty; voted to block vehicle kill-switch monitoring funding; voted against the 2022 merger filing fee antitrust package.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lou_Correa"
+   ],
+   "photo": {
+    "file": "File:Lou Correa 118th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Leah Herman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "CA-46/david-pan",
+  "name": "David Pan",
+  "party": "Republican",
+  "race": "CA-46",
+  "race_label": "California · US House CA-46",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": 50,
+    "liberty": 65,
+    "security": 65,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 55,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Smaller government, carbon tax over subsidies, replace welfare with universal basic income, close the border, harsher drug-dealer penalties (drove liberty), school choice.",
+   "sources": [
+    "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"
+   ],
+   "photo": null
+  }
+ }
+]

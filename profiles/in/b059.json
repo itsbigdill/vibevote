@@ -1,0 +1,435 @@
+[
+ {
+  "id": "MS-2/bennie-thompson",
+  "name": "Bennie Thompson",
+  "party": "Democratic",
+  "race": "MS-2",
+  "race_label": "Mississippi · US House MS-2",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "T000193",
+   "official_name": "Bennie G. Thompson",
+   "chamber": "House",
+   "official_site": "https://benniethompson.house.gov",
+   "official_social": {
+    "twitter": "BennieGThompson",
+    "facebook": "CongressmanBennieGThompson",
+    "youtube": "RepBennieThompson",
+    "instagram": "benniegthompson"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 85,
+    "liberty": 35,
+    "security": 45,
+    "immigration": 15,
+    "foreign": 45,
+    "energy": 75,
+    "tech": 60,
+    "education": 90,
+    "faith": 25
+   },
+   "basis": "Higher taxes on wealthy, ACA/Medicaid expansion, pro-choice, gun control, pro-DREAMer, opposed Iraq War, net neutrality, opposes vouchers; liberty driven by abortion, guns.",
+   "sources": [
+    "https://www.ontheissues.org/House/Bennie_Thompson.htm",
+    "https://benniethompson.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Bennie_Thompson"
+   ],
+   "photo": {
+    "file": "File:Bennie Thompson 118th Congress.jpeg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MS-2/ron-eller",
+  "name": "Ron Eller",
+  "party": "Republican",
+  "race": "MS-2",
+  "race_label": "Mississippi · US House MS-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 60,
+    "security": null,
+    "immigration": 90,
+    "foreign": null,
+    "energy": 35,
+    "tech": null,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Free enterprise, abortion only to save mother, nationwide concealed carry, vaccine-mandate opposition, build the wall, all-of-the-above energy, religion in civic life.",
+   "sources": [
+    "https://www.voteroneller.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MS-3/michael-guest",
+  "name": "Michael Guest",
+  "party": "Republican",
+  "race": "MS-3",
+  "race_label": "Mississippi · US House MS-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000591",
+   "official_name": "Michael Guest",
+   "chamber": "House",
+   "official_site": "https://guest.house.gov",
+   "official_social": {
+    "twitter": "RepMichaelGuest",
+    "facebook": "RepMichaelGuest"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 65,
+    "security": 75,
+    "immigration": 90,
+    "foreign": 50,
+    "energy": 25,
+    "tech": 30,
+    "education": null,
+    "faith": 70
+   },
+   "basis": "Tax cuts, anti-abortion, anti-marijuana legalization, no gun limits, tough-on-crime, border wall, opposed 2024 Ukraine aid, against net neutrality; Prayer Caucus.",
+   "sources": [
+    "https://www.ontheissues.org/House/Michael_Guest.htm",
+    "https://en.wikipedia.org/wiki/Michael_Guest_(politician)"
+   ],
+   "photo": {
+    "file": "File:Michael Guest portrait 116th congress2.jpg",
+    "license": "Public domain",
+    "author": "Franmarie Metzler, House Creative Services/U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "MS-3/michael-chiaradio",
+  "name": "Michael Chiaradio",
+  "party": "Democratic",
+  "race": "MS-3",
+  "race_label": "Mississippi · US House MS-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": 30,
+    "immigration": null,
+    "foreign": 65,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Criticized National Guard crime crackdowns and Trump's Putin meeting as American decline; opposed tariffs.",
+   "sources": [
+    "https://magnoliatribune.com/2025/09/24/congressman-guest-draws-democrat-challenger-in-3rd-district-midterm-race/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MS-3/erik-kiehle",
+  "name": "Erik Kiehle",
+  "party": "Libertarian",
+  "race": "MS-3",
+  "race_label": "Mississippi · US House MS-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MS-4/mike-ezell",
+  "name": "Mike Ezell",
+  "party": "Republican",
+  "race": "MS-4",
+  "race_label": "Mississippi · US House MS-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "E000235",
+   "official_name": "Mike Ezell",
+   "chamber": "House",
+   "official_site": "https://ezell.house.gov",
+   "official_social": {
+    "twitter": "RepEzell",
+    "facebook": "repezell",
+    "instagram": "repmikeezell",
+    "youtube": "UCseRXy2_n4j97lndfkQ_hAw"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 60,
+    "security": 75,
+    "immigration": 85,
+    "foreign": 70,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": 75
+   },
+   "basis": "Spending cuts, 2025 tax-and-Medicaid bill vote, abortion ban, opposes same-sex marriage, gun rights, qualified immunity, border security, more military spending, fracking.",
+   "sources": [
+    "https://www.ontheissues.org/House/Mike_Ezell.htm",
+    "https://en.wikipedia.org/wiki/Mike_Ezell"
+   ],
+   "photo": {
+    "file": "File:Rep. Mike Ezell official photo.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "MS-4/jeffrey-hulum-iii",
+  "name": "Jeffrey Hulum III",
+  "party": "Democratic",
+  "race": "MS-4",
+  "race_label": "Mississippi · US House MS-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No published federal issue positions found; all domains left blank.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Jeffrey_Hulum_III"
+   ],
+   "photo": {
+    "file": "File:Rep. Jeffrey Hulum III (cropped).jpg",
+    "license": "CC BY 2.0",
+    "author": "Maryland GovPics"
+   }
+  }
+ },
+ {
+  "id": "MS-4/carl-boyanton",
+  "name": "Carl Boyanton",
+  "party": "Independent",
+  "race": "MS-4",
+  "race_label": "Mississippi · US House MS-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-1/wesley-bell",
+  "name": "Wesley Bell",
+  "party": "Democratic",
+  "race": "MO-1",
+  "race_label": "Missouri · US House MO-1",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "B001324",
+   "official_name": "Wesley Bell",
+   "chamber": "House",
+   "official_site": "https://bell.house.gov",
+   "official_social": {
+    "twitter": "RepWesleyBellMO",
+    "facebook": "61571538239904"
+   },
+   "official_portrait": false
+  },
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 75,
+    "liberty": 30,
+    "security": 25,
+    "immigration": 15,
+    "foreign": 65,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposes billionaire tax breaks and Medicaid cuts, pro-choice, transgender rights, gun safety laws, ICE overhaul, restore alliances, pro-Israel aid, clean energy.",
+   "sources": [
+    "https://www.bell4mo.com/issues",
+    "https://en.wikipedia.org/wiki/Wesley_Bell"
+   ],
+   "photo": {
+    "file": "File:Wesley Bell, official portrait (119th Congress).jpg",
+    "license": "Public domain",
+    "author": "Brian Thorpe"
+   }
+  }
+ },
+ {
+  "id": "MO-1/paul-berry",
+  "name": "Paul Berry",
+  "party": "Republican",
+  "race": "MO-1",
+  "race_label": "Missouri · US House MO-1",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": 80,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaigns against socialism and for private enterprise; endorsed by Missouri Right to Life.",
+   "sources": [
+    "https://www.momadmaga.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-1/tom-schmitz",
+  "name": "Tom Schmitz",
+  "party": "Libertarian",
+  "race": "MO-1",
+  "race_label": "Missouri · US House MO-1",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-2/ann-wagner",
+  "name": "Ann Wagner",
+  "party": "Republican",
+  "race": "MO-2",
+  "race_label": "Missouri · US House MO-2",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000812",
+   "official_name": "Ann Wagner",
+   "chamber": "House",
+   "official_site": "https://wagner.house.gov",
+   "official_social": {
+    "twitter": "RepAnnWagner",
+    "facebook": "RepAnnWagner",
+    "instagram": "repannwagner"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 55,
+    "security": 65,
+    "immigration": 75,
+    "foreign": 75,
+    "energy": 15,
+    "tech": 60,
+    "education": 20,
+    "faith": 70
+   },
+   "basis": "Tax cuts, ACA repeal, welfare work requirements, anti-abortion, gun rights, anti-pathway, strong defense, No Climate Tax Pledge, online trafficking-ad law, vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/House/Ann_Wagner.htm",
+    "https://en.wikipedia.org/wiki/Ann_Wagner"
+   ],
+   "photo": {
+    "file": "File:Ann Wagner Headshot (002) (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Official House photo"
+   }
+  }
+ }
+]

@@ -1,0 +1,640 @@
+[
+ {
+  "id": "FL-1/jimmy-patronis",
+  "name": "Jimmy Patronis",
+  "party": "Republican",
+  "race": "FL-1",
+  "race_label": "Florida · US House FL-1",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000622",
+   "official_name": "Jimmy Patronis",
+   "chamber": "House",
+   "official_site": "https://patronis.house.gov",
+   "official_social": {},
+   "official_portrait": true
+  },
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-1/jimmy-patronis",
+   "name": "Jimmy Patronis",
+   "party": "Republican",
+   "current_role": "U.S. Representative for FL-1",
+   "bio": "Jimmy Patronis has represented Florida's 1st District since winning an April 2025 special election to succeed Matt Gaetz. He was previously Florida's Chief Financial Officer (2017-2025), a member of the Florida Public Service Commission and a state representative (2006-2014). A Panama City native, he is a partner in a family-run seafood restaurant.",
+   "website": "",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "Voted for the 2025 reconciliation law extending tax cuts and adding Medicaid work requirements.",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Lists veterans' issues as a main focus of his congressional office.",
+     "source": "https://patronis.house.gov/issues"
+    },
+    {
+     "topic": "Small business",
+     "point": "Highlights small-business and economic initiatives among his priority issue areas.",
+     "source": "https://patronis.house.gov/issues"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Lists transportation and infrastructure as a priority issue for the district.",
+     "source": "https://patronis.house.gov/issues"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 20,
+     "evidence": "Voted for the 2025 One Big Beautiful Bill Act, which extended and expanded tax cuts.",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    },
+    "welfare": {
+     "score": 20,
+     "evidence": "Voted for the 2025 reconciliation law that added Medicaid work requirements and program cuts.",
+     "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "official",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   },
+   "campaign_photo": "",
+   "notes": "Campaign website could not be loaded (certificate error), so platform items draw on his official House site and votes."
+  }
+ },
+ {
+  "id": "FL-11/james-pericola",
+  "name": "James Pericola",
+  "party": "Democratic",
+  "race": "FL-11",
+  "race_label": "Florida · US House FL-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-11/james-pericola",
+   "name": "James Pericola",
+   "party": "Democratic",
+   "current_role": "Attorney and government affairs executive",
+   "bio": "James Pericola is a Central Florida native and attorney with over 30 years in public service and government affairs. He was a Clinton administration appointee at the National Transportation Safety Board and worked on the staff of Senator Bob Graham.",
+   "website": "https://jamespericola.com/",
+   "social": {
+    "x": "https://x.com/JamesPericola",
+    "instagram": "https://www.instagram.com/votejamespericola/",
+    "facebook": "https://www.facebook.com/votejamespericola"
+   },
+   "platform": [
+    {
+     "topic": "Taxes",
+     "point": "End federal income tax for people earning under $100,000 and cut middle-class taxes.",
+     "source": "https://jamespericola.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Protect the Affordable Care Act and let Medicare negotiate drug prices.",
+     "source": "https://jamespericola.com/"
+    },
+    {
+     "topic": "Seniors",
+     "point": "Oppose cuts to or privatization of Social Security and Medicare.",
+     "source": "https://jamespericola.com/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Secure federal housing funds and lower property insurance costs.",
+     "source": "https://jamespericola.com/"
+    },
+    {
+     "topic": "Democracy",
+     "point": "End gerrymandering and pass the John Lewis Voting Rights Act.",
+     "source": "https://jamespericola.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 55,
+     "evidence": "Proposes income-tax relief below $100,000 and Medicare drug-price negotiation.",
+     "source": "https://jamespericola.com/"
+    },
+    "welfare": {
+     "score": 70,
+     "evidence": "Backs protecting the ACA, Social Security and Medicare from cuts.",
+     "source": "https://jamespericola.com/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "FL-14/mike-beltran",
+  "name": "Mike Beltran",
+  "party": "Republican",
+  "race": "FL-14",
+  "race_label": "Florida · US House FL-14",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-14/mike-beltran",
+   "name": "Mike Beltran",
+   "party": "Republican",
+   "current_role": "Attorney; former Florida State Representative",
+   "bio": "Mike Beltran is a Tampa Bay-area attorney who represented District 70 in the Florida House of Representatives from 2018 to 2024. Born in New York City, he holds degrees from the University of Pennsylvania and Harvard Law School. He is the Republican nominee for Florida's 14th Congressional District.",
+   "website": "https://beltranforcongress.com/",
+   "social": {
+    "x": "https://x.com/MBeltranFL",
+    "facebook": "https://www.facebook.com/electmikebeltran"
+   },
+   "platform": [
+    {
+     "topic": "Health care",
+     "point": "Expand telehealth access and remove regulatory barriers to opening new clinics so families can see doctors closer to home.",
+     "source": "https://beltranforcongress.com/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Cut taxes, pointing to sales-tax holidays and a large Florida tax cut he backed in the legislature.",
+     "source": "https://beltranforcongress.com/"
+    },
+    {
+     "topic": "Jobs",
+     "point": "Reduce regulations he says hold back business growth and worker advancement.",
+     "source": "https://beltranforcongress.com/"
+    },
+    {
+     "topic": "Data centers",
+     "point": "Oppose new data center development that lacks local approval and environmental safeguards.",
+     "source": "https://beltranforcongress.com/"
+    },
+    {
+     "topic": "Government reform",
+     "point": "Challenge career politicians who, in his view, put party loyalty ahead of constituents.",
+     "source": "https://beltranforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 25,
+     "evidence": "Campaigns on tax cuts and tax holidays and on reducing business regulation.",
+     "source": "https://beltranforcongress.com/"
+    },
+    "welfare": null,
+    "liberty": {
+     "score": 60,
+     "evidence": "State House record includes anti-abortion legislation (restrictive) and an open-carry firearms bill (permissive), plus youth vaping limits.",
+     "source": "https://en.wikipedia.org/wiki/Mike_Beltran"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {
+     "score": 20,
+     "evidence": "Endorsed by school-choice organizations during his legislative career.",
+     "source": "https://en.wikipedia.org/wiki/Mike_Beltran"
+    },
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Mike Beltran.jpg",
+    "license": "Public domain",
+    "author": "Florida House of Representatives"
+   },
+   "campaign_photo": "https://beltranforcongress.com/wp-content/themes/beltran/headshot-color.jpg",
+   "notes": "Education score rests on endorsements rather than a stated policy."
+  }
+ },
+ {
+  "id": "FL-16/sydney-gruters",
+  "name": "Sydney Gruters",
+  "party": "Republican",
+  "race": "FL-16",
+  "race_label": "Florida · US House FL-16",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-16/sydney-gruters",
+   "name": "Sydney Gruters",
+   "party": "Republican",
+   "current_role": "Former executive director of the New College Foundation",
+   "bio": "Sydney Gruters was vice president of advancement and executive director of the New College Foundation in Sarasota. She previously served as district director for U.S. Rep. Greg Steube, worked for U.S. Rep. Vern Buchanan, and was Florida state director for USDA Rural Development. She is the Republican nominee for Florida's 16th Congressional District.",
+   "website": "https://grutersforcongress.com/",
+   "social": {
+    "x": "https://x.com/SydneyGrutersFL",
+    "instagram": "https://www.instagram.com/sydneygrutersforcongress",
+    "facebook": "https://www.facebook.com/profile.php?id=61576458107829"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Cut taxes and regulations to make everyday essentials more affordable for families.",
+     "source": "https://grutersforcongress.com/"
+    },
+    {
+     "topic": "Border security",
+     "point": "Work with President Trump and ICE on enforcement against illegal immigration.",
+     "source": "https://grutersforcongress.com/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Address overdevelopment to keep homeownership within reach.",
+     "source": "https://grutersforcongress.com/"
+    },
+    {
+     "topic": "Seniors and veterans",
+     "point": "Protect Social Security and Medicare and improve veterans' benefits.",
+     "source": "https://grutersforcongress.com/"
+    },
+    {
+     "topic": "Elections",
+     "point": "Strengthen election integrity measures.",
+     "source": "https://grutersforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 20,
+     "evidence": "Pledges to cut taxes and regulations and pursue conservative responses to inflation.",
+     "source": "https://grutersforcongress.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 80,
+     "evidence": "Pledges to work with President Trump and ICE to enforce immigration law.",
+     "source": "https://grutersforcongress.com/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Earlier liberty score of 80 was cleared because the cited abortion pledge could not be found on the current campaign site and the news source was paywalled. She is endorsed by the Faith & Freedom Coalition of Florida."
+  }
+ },
+ {
+  "id": "FL-18/curtis-gibson",
+  "name": "Curtis Gibson",
+  "party": "Democratic",
+  "race": "FL-18",
+  "race_label": "Florida · US House FL-18",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-18/curtis-gibson",
+   "name": "Curtis Gibson",
+   "party": "Democratic",
+   "current_role": "Former Lake Wales City Commissioner; mall manager and restaurant owner",
+   "bio": "Curtis Gibson is a former Lake Wales city commissioner who manages Eagle Ridge Mall and owns a restaurant. He is a former professional wrestler and has lived in Lake Wales for over 20 years. He is the Democratic nominee for Florida's 18th Congressional District.",
+   "website": "https://votecurtisgibson.com/",
+   "social": {
+    "x": "https://x.com/curtisgibsonlw",
+    "facebook": "https://www.facebook.com/CurtisGibsonLW/"
+   },
+   "platform": [
+    {
+     "topic": "Property insurance",
+     "point": "Create a federal reinsurance backstop to stabilize the market and lower homeowner premiums.",
+     "source": "https://votecurtisgibson.com/issues"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Cut VA delays and ensure local care or clear routes to covered local providers.",
+     "source": "https://votecurtisgibson.com/issues"
+    },
+    {
+     "topic": "Property taxes",
+     "point": "Seek property tax relief for homeowners, seniors and working families.",
+     "source": "https://votecurtisgibson.com/issues"
+    },
+    {
+     "topic": "Agriculture",
+     "point": "Help citrus growers with replanting and protect farms from development pressure and disease.",
+     "source": "https://votecurtisgibson.com/issues"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Bring federal road and safety funding to the Heartland and hold projects accountable for delays.",
+     "source": "https://votecurtisgibson.com/issues"
+    },
+    {
+     "topic": "Transparency",
+     "point": "Hold local town halls and publish monthly public updates.",
+     "source": "https://votecurtisgibson.com/issues"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://assets.cdn.filesafe.space/XIPn71vdjtWn6ViNiI2G/media/69a7872b957d6286f8086ac0.jpeg",
+   "notes": "His issues page focuses on local concerns that do not map clearly onto the ten scales."
+  }
+ },
+ {
+  "id": "FL-19/victor-arias",
+  "name": "Victor Arias",
+  "party": "Democratic",
+  "race": "FL-19",
+  "race_label": "Florida · US House FL-19",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-19/victor-arias",
+   "name": "Victor Arias",
+   "party": "Democratic",
+   "current_role": "Attorney in Cape Coral",
+   "bio": "Victor Arias is a Cape Coral attorney who has run his own law practice since 2003, after moving to Southwest Florida in 1999 to work as counsel for the School District of Lee County. He was born in the Dominican Republic and raised in New York. He won the 2026 Democratic primary in FL-19.",
+   "website": "https://votearias.us/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Bring down grocery and gasoline prices and back legislation to raise workers' earnings.",
+     "source": "https://www.captivasanibel.com/news/2026/08/cape-attorney-wins-democratic-congressional-primary/"
+    },
+    {
+     "topic": "Water quality",
+     "point": "Improve environmental stewardship and protect clean water that the regional economy relies on.",
+     "source": "https://www.captivasanibel.com/news/2026/08/cape-attorney-wins-democratic-congressional-primary/"
+    },
+    {
+     "topic": "Veterans",
+     "point": "Reduce bureaucratic obstacles veterans face in getting services.",
+     "source": "https://votearias.us/"
+    },
+    {
+     "topic": "Medicare",
+     "point": "Protect Medicare for seniors.",
+     "source": "https://votearias.us/"
+    },
+    {
+     "topic": "Regional cooperation",
+     "point": "Encourage cooperation among counties to support recovery and the tourism economy.",
+     "source": "https://www.captivasanibel.com/news/2026/08/cape-attorney-wins-democratic-congressional-primary/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "His campaign site was unavailable when checked, so the veterans and Medicare items come from its search listing. His stated goals are too general to score."
+  }
+ },
+ {
+  "id": "FL-2/austin-rogers",
+  "name": "Austin Rogers",
+  "party": "Republican",
+  "race": "FL-2",
+  "race_label": "Florida · US House FL-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-2/austin-rogers",
+   "name": "Austin Rogers",
+   "party": "Republican",
+   "current_role": "Attorney",
+   "bio": "Austin Rogers is a Panama City attorney who previously served as general counsel to U.S. Senator Rick Scott. He is a graduate of Duke Law School and is the Republican nominee for Florida's 2nd District.",
+   "website": "https://rogersforflorida.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Border security",
+     "point": "Pledges to secure the border as part of an America First agenda.",
+     "source": "https://rogersforflorida.com/"
+    },
+    {
+     "topic": "Law enforcement and military",
+     "point": "Promises to back police and the military.",
+     "source": "https://rogersforflorida.com/"
+    },
+    {
+     "topic": "Trump agenda",
+     "point": "Says he will support President Trump's America First policies in Congress.",
+     "source": "https://rogersforflorida.com/"
+    },
+    {
+     "topic": "Local economy",
+     "point": "Highlights support for local industries such as shipbuilding and for small businesses.",
+     "source": "https://rogersforflorida.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 75,
+     "evidence": "Campaign lists securing the border as a top pledge under an America First agenda.",
+     "source": "https://rogersforflorida.com/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": ""
+  }
+ },
+ {
+  "id": "FL-2/amanda-green",
+  "name": "Amanda Green",
+  "party": "Democratic",
+  "race": "FL-2",
+  "race_label": "Florida · US House FL-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "FL-2/amanda-green",
+   "name": "Amanda Green",
+   "party": "Democratic",
+   "current_role": "Operations manager",
+   "bio": "Amanda Green, an operations manager, is the Democratic nominee for Florida's 2nd Congressional District; her campaign is based in Tallahassee and uses the name Amanda Marie Green. Her campaign centers on accountability in Congress and regular public town halls.",
+   "website": "https://www.amgforcongress.com/",
+   "social": {
+    "x": "https://x.com/AMGforCongress",
+    "instagram": "https://www.instagram.com/amgforcongress",
+    "facebook": "https://www.facebook.com/profile.php?id=61581474694195",
+    "tiktok": "https://www.tiktok.com/@amgforcongress"
+   },
+   "platform": [
+    {
+     "topic": "Congressional ethics",
+     "point": "Would ban individual stock trading by members of Congress.",
+     "source": "https://www.amgforcongress.com/"
+    },
+    {
+     "topic": "Term limits",
+     "point": "Supports term limits for members of Congress.",
+     "source": "https://www.amgforcongress.com/"
+    },
+    {
+     "topic": "Campaign finance",
+     "point": "Refuses billionaire donations and wants to reduce money's role in politics.",
+     "source": "https://www.amgforcongress.com/"
+    },
+    {
+     "topic": "Constituent access",
+     "point": "Promises regular in-person and virtual town halls.",
+     "source": "https://www.amgforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Name kept as listed in the input and on Wikipedia; her campaign uses Amanda Marie Green. Occupation comes from Wikipedia's race page."
+  }
+ }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "state": "Kentucky",
+    "office": "US Senate",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Charles Booker",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 85, "welfare": 95, "liberty": 15, "security": 20, "immigration": 10, "foreign": 25, "energy": 95, "tech": null, "education": null, "faith": null},
+        "basis": "Backs Medicare for All, universal basic income, Green New Deal, codified abortion rights, no-knock warrant ban, abolishing ICE; calls Gaza war genocide.",
+        "sources": ["https://en.wikipedia.org/wiki/Charles_Booker_(American_politician)", "https://charlesbookerky.org/why-im-running"],
+        "photo": {"file": "File:Charles solar panels (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Breadwin"}
+      },
+      {
+        "name": "Andy Barr",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 20, "welfare": 20, "liberty": 90, "security": null, "immigration": 85, "foreign": 80, "energy": 15, "tech": null, "education": null, "faith": null},
+        "basis": "Voted for 2017 tax cuts; backs ACA repeal; anti-abortion, opposed Obergefell; seeks birthright citizenship amendment; strongly pro-Israel; opposes carbon tax.",
+        "sources": ["https://en.wikipedia.org/wiki/Andy_Barr", "https://www.wuky.org/wuky-news/2025-06-27/barr-seeks-to-undo-birthright-citizenship-and-put-an-end-to-this-debate"],
+        "photo": {"file": "File:Andy Barr 116th Congress.jpg", "license": "Public domain", "author": "US Congress"}
+      }
+    ]
+  },
+  {
+    "state": "Louisiana",
+    "office": "US Senate",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jamie Davis",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 75, "welfare": 80, "liberty": 40, "security": null, "immigration": null, "foreign": null, "energy": 65, "tech": 70, "education": 75, "faith": null},
+        "basis": "Supports raising minimum wage, reversing 2025 billionaire tax cuts, expanding health coverage, AI guardrails, energy transition, school funding; defends Second Amendment with background checks.",
+        "sources": ["https://jamieforlouisiana.com/issues"],
+        "photo": null
+      },
+      {
+        "name": "Julia Letlow",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 15, "welfare": 25, "liberty": 60, "security": 70, "immigration": 90, "foreign": 70, "energy": 15, "tech": null, "education": 10, "faith": null},
+        "basis": "Backs extending Trump tax cuts, more oil and LNG, border wall, school choice; opposes abortion, defends gun rights, backs banning minors' gender transition.",
+        "sources": ["https://www.julialetlow.com/policyplan", "https://letlow.house.gov/issues", "https://en.wikipedia.org/wiki/Julia_Letlow"],
+        "photo": {"file": "File:Julia Letlow 117th (cropped).jpg", "license": "Public domain", "author": "U.S. House of Representatives"}
+      }
+    ]
+  },
+  {
+    "state": "Maine",
+    "office": "US Senate",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Troy Jackson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 85, "welfare": 90, "liberty": 30, "security": null, "immigration": 5, "foreign": 45, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "Backs Medicare for All, taxing billionaires, federal abortion right, LGBTQ protections, gun waiting periods, abolishing ICE, Ukraine aid; opposes military aid to Israel.",
+        "sources": ["https://www.jacksonformaine.com/priorities", "https://en.wikipedia.org/wiki/Troy_Jackson", "https://prospect.org/2026/08/28/troy-jackson-is-looking-forward-democrats-senate-maine/"],
+        "photo": {"file": "File:Troy Jackson in the Senate Chamber (cropped).jpg", "license": "CC0", "author": "ArenLeBrun"}
+      },
+      {
+        "name": "Susan Collins",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {"economy": 45, "welfare": 45, "liberty": 40, "security": 65, "immigration": 45, "foreign": 70, "energy": 65, "tech": null, "education": 60, "faith": null},
+        "basis": "Voted against 2025 reconciliation bill, for 2024 Ukraine-Israel aid; pro-choice, backed 2022 gun law; supported 2013 immigration reform; highest Republican LCV score.",
+        "sources": ["https://en.wikipedia.org/wiki/Political_positions_of_Susan_Collins", "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm", "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"],
+        "photo": {"file": "File:Senator Susan Collins 2014 official portrait (1).jpg", "license": "Public domain", "author": "U.S. Congress"}
+      }
+    ]
+  },
+  {
+    "state": "Maine",
+    "office": "Governor",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Hannah Pingree",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 75, "welfare": 75, "liberty": 15, "security": null, "immigration": 30, "foreign": null, "energy": 90, "tech": 60, "education": 85, "faith": null},
+        "basis": "Proposes public health option, universal pre-K, top earners paying more, 100% clean energy by 2040, data center moratorium; supports abortion rights, immigrant workforce.",
+        "sources": ["https://hannahforgovernor.com/affordability/", "https://hannahforgovernor.com/climate/", "https://www.mainepublic.org/politics/2026-04-17/your-vote-2026-profile-hannah-pingree-democrat-for-governor"],
+        "photo": {"file": "File:Hannah Pingree (cropped).jpg", "license": "Public domain", "author": "Chellie Pingree"}
+      },
+      {
+        "name": "Bobby Charles",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 20, "welfare": null, "liberty": 75, "security": 80, "immigration": 70, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "Pledges tax cuts and a full-force crime and fentanyl crackdown; opposes transgender girls in girls' sports; wants ICE and marshals at polling places.",
+        "sources": ["https://spectrumlocalnews.com/me/maine/politics/2025/04/18/republican-focused-on-fighting-crime-launches-bid-for-maine-governor", "https://www.bangordailynews.com/2025/04/15/politics/elections/maine-election-2026-republican-governor-candidate-bobby-charles/", "https://www.mainepublic.org/politics/2026-08-26/bobby-charles-says-hell-ask-trumps-border-chief-to-send-ice-agents-to-maine-polls"],
+        "photo": {"file": "File:Robert Charles.jpg", "license": "CC BY-SA 4.0", "author": "Hoveros"}
+      },
+      {
+        "name": "Rick Bennett",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": 30, "security": null, "immigration": 35, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "basis": "As state senator, voted against restricting transgender students in school sports and for limiting local police cooperation with ICE.",
+        "sources": ["https://en.wikipedia.org/wiki/Rick_Bennett_(Maine_politician)"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Maryland",
+    "office": "Governor",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Wes Moore",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {"economy": 65, "welfare": 65, "liberty": 25, "security": 50, "immigration": 20, "foreign": 40, "energy": 75, "tech": 50, "education": 85, "faith": null},
+        "basis": "Signed 2025 tax increases on top earners, gun safety law, 287(g) ban, offshore wind targets, cannabis pardons; cut voucher funding; backed abortion-rights amendment.",
+        "sources": ["https://en.wikipedia.org/wiki/Governorship_of_Wes_Moore", "https://thedailyrecord.com/2026/09/10/data-centers-wes-moore-dan-cox-maryland/"],
+        "photo": {"file": "File:Wes Moore Official Governor Portrait.jpg", "license": "CC BY-SA 4.0", "author": "Maryland State Government"}
+      },
+      {
+        "name": "Dan Cox",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 15, "welfare": 30, "liberty": 60, "security": 60, "immigration": 85, "foreign": null, "energy": 25, "tech": 55, "education": 15, "faith": 75},
+        "basis": "Proposes repealing Moore tax hikes, corporate tax cut, data center moratorium, expanded vouchers; anti-abortion, opposes assault weapon bans, backs ICE cooperation, opposed climate law.",
+        "sources": ["https://en.wikipedia.org/wiki/Dan_Cox", "https://thedailyrecord.com/2026/09/10/data-centers-wes-moore-dan-cox-maryland/"],
+        "photo": {"file": "File:Dan Cox Mar2020 (49617550556).jpg", "license": "CC BY 2.0", "author": "MDGovpics"}
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "office": "US Senate",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Ed Markey",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {"economy": 85, "welfare": 95, "liberty": 30, "security": 15, "immigration": 5, "foreign": 55, "energy": 100, "tech": 90, "education": 85, "faith": null},
+        "basis": "Authored Green New Deal; backs Medicare for All, abolishing ICE, kids' online privacy, abortion rights, gun background checks; voted to block Israel bomb sales.",
+        "sources": ["https://en.wikipedia.org/wiki/Ed_Markey", "https://www.edmarkey.com/", "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1182/vote_118_2_00154.htm"],
+        "photo": {"file": "File:Edward Markey, official portrait, 114th Congress.jpg", "license": "Public domain", "author": "U.S. Senate Photographic Studio-Rebecca Hammel"}
+      },
+      {
+        "name": "John Deaton",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": null, "welfare": null, "liberty": 30, "security": null, "immigration": null, "foreign": null, "energy": 40, "tech": 20, "education": null, "faith": null},
+        "basis": "In 2024 backed abortion rights, same-sex marriage and Massachusetts gun laws; opposed net-zero-by-2050 goal and Warren-style cryptocurrency regulation.",
+        "sources": ["https://en.wikipedia.org/wiki/John_Deaton"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Massachusetts",
+    "office": "Governor",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Maura Healey",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {"economy": 40, "welfare": 65, "liberty": 40, "security": null, "immigration": 30, "foreign": null, "energy": 80, "tech": null, "education": 70, "faith": null},
+        "basis": "Signed 2023 tax cuts, 2024 ghost-gun law, free community college; created Climate Chief, backed offshore wind; supports abortion access; demanded ICE withdraw.",
+        "sources": ["https://en.wikipedia.org/wiki/Maura_Healey", "https://en.wikipedia.org/wiki/Gun_laws_in_Massachusetts", "https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti"],
+        "photo": {"file": "File:Maura Healey, official portrait, governor.jpg", "license": "Public domain", "author": "Massachusetts Governor's Office"}
+      },
+      {
+        "name": "Mike Minogue",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 20, "welfare": null, "liberty": 55, "security": 60, "immigration": 70, "foreign": null, "energy": 15, "tech": null, "education": null, "faith": null},
+        "basis": "Pledges to repeal net-zero climate mandate and MBTA zoning law, cut taxes, end shelter for undocumented immigrants, protect Second Amendment; called himself pro-life.",
+        "sources": ["https://www.wbur.org/news/2026/04/25/minogue-gop-endorsement-massachusetts-governor", "https://minogueforma.com/"],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "office": "US Senate",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Abdul El-Sayed",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 85, "welfare": 95, "liberty": 5, "security": 20, "immigration": 15, "foreign": 25, "energy": 90, "tech": 90, "education": 85, "faith": null},
+        "basis": "Backs Medicare for All, billionaire wealth tax, strict AI and data center rules, abolishing ICE, abortion rights; opposes military aid to Israel, Egypt, Saudi Arabia.",
+        "sources": ["https://abdulforsenate.com/priority/money-in-your-pocket/", "https://abdulforsenate.com/priority/money-out-of-politics/", "https://en.wikipedia.org/wiki/Abdul_El-Sayed"],
+        "photo": {"file": "File:Abdul El-Sayed.jpg", "license": "CC BY-SA 4.0", "author": "Kenneth C. Zirkel"}
+      },
+      {
+        "name": "Mike Rogers",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 35, "welfare": 30, "liberty": 70, "security": 80, "immigration": 85, "foreign": 80, "energy": 20, "tech": null, "education": 35, "faith": null},
+        "basis": "Backs tariffs, border wall, more oil production; opposed extending ACA subsidies; anti-abortion but won't overturn Michigan amendment; authored CISPA; strongly pro-Israel.",
+        "sources": ["https://en.wikipedia.org/wiki/Mike_Rogers_(Michigan_politician)", "https://rogersforsenate.com/healthplan", "https://rogersforsenate.com/"],
+        "photo": {"file": "File:Mike-Rogers-Head-Shot-2 (3x4 cropped).jpg", "license": "Public domain", "author": "United States Congress"}
+      }
+    ]
+  },
+  {
+    "state": "Michigan",
+    "office": "Governor",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jocelyn Benson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {"economy": 60, "welfare": 70, "liberty": 20, "security": null, "immigration": null, "foreign": null, "energy": 75, "tech": 65, "education": 80, "faith": null},
+        "basis": "Proposes data center moratorium, prescription drug affordability board, Medicaid protection, clean energy investment, top-10 public schools; opposes tariffs; defends reproductive health care.",
+        "sources": ["https://www.jocelynbenson.com/", "https://www.jocelynbenson.com/issues/Healthcare", "https://www.jocelynbenson.com/issues/Environment"],
+        "photo": {"file": "File:SOS Jocelyn Benson web.jpg", "license": "CC BY 4.0", "author": "JFM Photo 73"}
+      },
+      {
+        "name": "John James",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {"economy": 10, "welfare": 20, "liberty": 55, "security": 70, "immigration": 70, "foreign": null, "energy": null, "tech": 70, "education": 10, "faith": 70},
+        "basis": "Plans to phase out income tax, expand school choice tax credits, parents' bill of rights, App Store parental approval; anti-abortion; pledged CAIR terrorist designation.",
+        "sources": ["https://johnjamesmi.com/freedom-agenda/", "https://en.wikipedia.org/wiki/John_James_(Michigan_politician)", "https://arabamericannews.com/2026/07/10/john-james-doubles-down-on-ashura-remarks-vows-to-label-cair-a-terrorist-organization-if-elected-governor/"],
+        "photo": {"file": "File:Rep. John James official photo, 118th Congress.jpg", "license": "CC BY-SA 4.0", "author": "United States Congress"}
+      }
+    ]
+  }
+]

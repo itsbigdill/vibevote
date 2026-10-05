@@ -1,0 +1,1248 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>VibeVote</title>
+<meta name="description" content="See where in the US, and who on your ballot, aligns with your views. Take the interview, get your political fingerprint, and compare it with the candidates.">
+<meta property="og:title" content="Find out where you actually stand">
+<meta property="og:description" content="See where in the US, and who on your ballot, aligns with your views.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="VibeVote">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg?v=2">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=2">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png?v=2">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#ffffff; --ink:#0f0f13; --mute:#6f6f76; --line:#e8e8ec;
+  --wine:#7a1f2e; --wine-soft:#fbeef0; --royal:#1f3a93; --royal-soft:#eaeffb;
+  --surface:rgba(255,255,255,.55); --surface-2:rgba(255,255,255,.75); --edge:rgba(255,255,255,.6);
+  --glass:blur(22px) saturate(180%); --lift:inset 0 1px 0 rgba(255,255,255,.7),0 8px 26px rgba(15,15,30,.1);
+  --serif:"DM Serif Display",Georgia,"Times New Roman",serif; --sans:"DM Sans",system-ui,-apple-system,sans-serif;
+}
+*{box-sizing:border-box}
+html{background:var(--paper)}
+html,body{margin:0;min-height:100%;font-family:var(--sans);font-size:18px;line-height:1.5;color:var(--ink);overflow-x:hidden}
+/* aurora */
+.aurora{position:fixed;inset:-20%;z-index:-1;pointer-events:none;opacity:.55;transition:opacity .8s ease}
+.aurora i{position:absolute;border-radius:50%;will-change:transform}
+.aurora i:nth-child(1){width:60vw;height:60vw;left:-15vw;top:-20vw;background:radial-gradient(circle,rgba(143,36,56,0.9) 0%,rgba(143,36,56,0.6) 22%,rgba(143,36,56,0.28) 42%,rgba(143,36,56,0.08) 58%,rgba(143,36,56,0) 70%);animation:a1 26s ease-in-out infinite alternate}
+.aurora i:nth-child(2){width:70vw;height:70vw;right:-25vw;top:10vh;background:radial-gradient(circle,rgba(36,64,156,0.9) 0%,rgba(36,64,156,0.6) 22%,rgba(36,64,156,0.28) 42%,rgba(36,64,156,0.08) 58%,rgba(36,64,156,0) 70%);animation:a2 32s ease-in-out infinite alternate}
+.aurora i:nth-child(3){width:50vw;height:50vw;left:20vw;bottom:-25vw;background:radial-gradient(circle,rgba(92,42,110,0.9) 0%,rgba(92,42,110,0.6) 22%,rgba(92,42,110,0.28) 42%,rgba(92,42,110,0.08) 58%,rgba(92,42,110,0) 70%);animation:a3 38s ease-in-out infinite alternate}
+@keyframes a1{to{transform:translate(18vw,14vh) scale(1.15)}}
+@keyframes a2{to{transform:translate(-14vw,22vh) scale(.9)}}
+@keyframes a3{to{transform:translate(-16vw,-12vh) scale(1.2)}}
+@media(prefers-reduced-motion:reduce){.aurora i{animation:none}}
+/* home screen: grainy aurora rising from the bottom edge */
+.glow{position:fixed;left:-15%;right:-15%;bottom:-8vh;height:62vh;z-index:-1;pointer-events:none;opacity:0;transition:opacity .8s ease;-webkit-mask-image:linear-gradient(to top,#000 35%,transparent);mask-image:linear-gradient(to top,#000 35%,transparent)}
+.glow i{position:absolute;bottom:-20%;width:55%;height:110%;border-radius:50%;will-change:transform}
+.glow i:nth-child(1){left:0;background:radial-gradient(closest-side,rgba(122,31,46,0.95),rgba(122,31,46,0.6) 35%,rgba(122,31,46,0.22) 65%,rgba(122,31,46,0));animation:g1 18s ease-in-out infinite alternate}
+.glow i:nth-child(2){left:24%;background:radial-gradient(closest-side,rgba(91,42,114,0.95),rgba(91,42,114,0.6) 35%,rgba(91,42,114,0.22) 65%,rgba(91,42,114,0));animation:g2 22s ease-in-out infinite alternate}
+.glow i:nth-child(3){right:0;background:radial-gradient(closest-side,rgba(31,58,147,0.95),rgba(31,58,147,0.6) 35%,rgba(31,58,147,0.22) 65%,rgba(31,58,147,0));animation:g3 20s ease-in-out infinite alternate}
+body.home .glow{opacity:.78}
+body.home .aurora{opacity:.3}
+body.home .grain{opacity:.2}
+body:not(.home) .aurora i{animation-play-state:paused}
+@keyframes g1{to{transform:translate(8%,-6%) scale(1.08)}}
+@keyframes g2{to{transform:translate(-6%,-10%) scale(1.15)}}
+@keyframes g3{to{transform:translate(-8%,-4%) scale(1.05)}}
+@media(prefers-reduced-motion:reduce){.glow i{animation:none}}
+/* film grain over the aurora */
+.grain{position:fixed;inset:0;z-index:-1;pointer-events:none;opacity:.14;transition:opacity .8s ease;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 .55 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");background-size:220px 220px}
+.hint,.kicker,.progress b,.card .foot span{background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1  0 0 0 0 1  0 0 0 0 1  0 0 0 .18 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>"),linear-gradient(135deg,rgba(255,255,255,.14),rgba(0,0,0,.08));background-blend-mode:overlay,normal}
+button{font:inherit;cursor:pointer}
+[hidden]{display:none!important}
+h1,h2,h3{font-family:var(--serif);font-weight:400;margin:0;letter-spacing:-.01em;text-wrap:balance}
+h1{font-size:64px;line-height:1.02}
+h2{font-size:46px;line-height:1.05}
+h3{font-size:28px;line-height:1.15}
+p{margin:0}
+.app{min-height:100dvh;max-width:1120px;margin:0 auto;padding:32px 40px 80px;display:flex;flex-direction:column}
+@media(max-width:600px){.app{padding:24px 20px 64px}}
+header{display:flex;justify-content:flex-start;align-items:center;gap:12px;margin-bottom:40px}
+.actions{display:flex;gap:8px;align-items:center}
+.actions .pill{display:inline-flex;align-items:center;gap:8px;white-space:nowrap}
+.actions svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}
+.brand{display:inline-flex;align-items:center;border-radius:8px;text-decoration:none}
+.brand .mark{display:block;height:30px;width:auto}
+.hint{font-size:13px;font-weight:600;color:var(--wine);background:var(--wine-soft);border-radius:999px;padding:6px 14px}
+.hint:empty{display:none}
+.progress{height:6px;background:rgba(255,255,255,.5);border:1px solid var(--edge);border-radius:999px;margin-bottom:40px;overflow:hidden;-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass)}
+.progress b{display:block;height:100%;border-radius:999px;background:linear-gradient(90deg,var(--wine),var(--royal));width:0;transition:width .35s ease}
+.stage{flex:1;display:flex;flex-direction:column;justify-content:center}
+.glass{padding:16px 0;width:100%;animation:rise .28s ease-out both}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.q{font-family:var(--serif);font-size:42px;line-height:1.12;font-weight:400;margin-bottom:40px;text-wrap:pretty}
+.qa{display:grid;gap:8px}
+@media(min-width:940px){.qa{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);column-gap:72px;align-items:center}.qa .q,.qa .q.step{margin-bottom:0}.q{font-size:48px}}
+.q::before{content:"Q";display:block;font-size:20px;font-weight:700;color:var(--royal);letter-spacing:.06em;margin-bottom:22px;font-family:var(--sans)}
+.q.step{margin-bottom:36px}
+.q.step::before{content:none}
+.widget{display:grid;gap:12px}
+/* form controls: frosted surfaces over the aurora */
+.chip{display:block;width:100%;text-align:left;padding:17px 20px;border-radius:18px;border:1px solid var(--edge);background:var(--surface);color:var(--ink);font-size:17px;font-weight:600;line-height:1.3;box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass);transition:background .15s,border-color .15s,transform .12s}
+.chip:hover{background:var(--surface-2);border-color:rgba(255,255,255,.9)}
+.chip:active{transform:scale(.985)}
+.either{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.either .chip{border-color:transparent;border-radius:22px;padding:26px 18px;font-size:20px;font-weight:600;text-align:center;line-height:1.25}
+.either .chip:first-child{background:linear-gradient(180deg,rgba(122,31,46,.17),rgba(122,31,46,.09));color:var(--wine)}
+.either .chip:first-child:hover{background:linear-gradient(180deg,rgba(122,31,46,.25),rgba(122,31,46,.14));border-color:rgba(122,31,46,.35)}
+.either .chip:last-child{background:linear-gradient(180deg,rgba(31,58,147,.17),rgba(31,58,147,.09));color:var(--royal)}
+.either .chip:last-child:hover{background:linear-gradient(180deg,rgba(31,58,147,.25),rgba(31,58,147,.14));border-color:rgba(31,58,147,.35)}
+.opts{display:grid;grid-template-columns:minmax(0,1fr);gap:10px}
+.opts.c2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.opts.c3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.opt{display:flex;align-items:center;justify-content:space-between;gap:14px;width:100%;min-height:62px;text-align:left;padding:14px 18px 14px 20px;border-radius:18px;border:1px solid var(--edge);background:var(--surface);color:var(--ink);font-size:17px;font-weight:600;line-height:1.3;box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass);transition:background .15s,border-color .15s,box-shadow .15s,transform .12s}
+.opt:hover{background:var(--surface-2);border-color:rgba(255,255,255,.9)}
+.opt:active{transform:scale(.985)}
+.opt i{position:relative;flex:none;width:22px;height:22px;border-radius:50%;box-shadow:inset 0 0 0 1.5px rgba(15,15,19,.2);transition:background .15s,box-shadow .15s}
+.opt i::after{content:"";position:absolute;left:7.5px;top:3.5px;width:6px;height:11px;border:2px solid #fff;border-top:0;border-left:0;opacity:0;transform:rotate(45deg) scale(.5);transition:opacity .15s,transform .15s}
+.opt.sel,.opt.sel:hover{background:rgba(255,255,255,.9);border-color:rgba(31,58,147,.55);box-shadow:inset 0 0 0 1px rgba(31,58,147,.55),0 10px 28px rgba(31,58,147,.14)}
+.opt.sel i{background:var(--royal);box-shadow:inset 0 0 0 1.5px var(--royal)}
+.opt.sel i::after{opacity:1;transform:rotate(45deg) scale(1)}
+.opt .lbl{display:flex;align-items:center;gap:14px;min-width:0}
+.opt .txt{display:grid;gap:2px;min-width:0}
+.opt small{font-size:14px;font-weight:500;color:#5b5b66}
+.opt .emo{font-style:normal;font-size:24px;line-height:1;flex:none}
+.steps{display:flex;align-items:center;gap:14px;min-height:28px;margin-bottom:28px}
+.back{background:none;border:0;padding:4px 0;color:var(--mute);font-size:15px;font-weight:600}
+.back:hover{color:var(--ink)}
+.count{font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--mute)}
+.segs{display:flex;gap:6px;margin-left:auto}
+.segs i{width:22px;height:5px;border-radius:999px;background:var(--line);transition:background .25s}
+.segs i.on{background:var(--royal)}
+select,input:not([type=range]),textarea{font:inherit;font-weight:600;font-size:17px;padding:17px 20px;border:1px solid var(--edge);border-radius:18px;background:var(--surface);color:var(--ink);width:100%;box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass);transition:border-color .15s,box-shadow .15s}
+select:focus,input:not([type=range]):focus,textarea:focus{outline:none;border-color:var(--royal);box-shadow:0 0 0 4px var(--royal-soft)}
+textarea{border-radius:22px;min-height:120px;resize:vertical;font-size:19px;font-weight:500}
+input::placeholder,textarea::placeholder{color:var(--mute);font-weight:500}
+select{-webkit-appearance:none;appearance:none;cursor:pointer;padding-right:52px;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M6 9l6 6 6-6' fill='none' stroke='%236f6f76' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/></svg>");background-repeat:no-repeat;background-position:right 18px center;background-size:18px}
+.picker{display:grid;gap:12px}
+.zipbox{position:relative}
+.zipbox input{font-size:26px;letter-spacing:.14em;font-variant-numeric:tabular-nums}
+.zipstate{position:absolute;right:10px;top:50%;display:flex;align-items:center;gap:9px;max-width:calc(100% - 150px);padding:7px 14px 7px 8px;border-radius:12px;background:rgba(255,255,255,.88);box-shadow:inset 0 1px 0 #fff,0 2px 10px rgba(15,15,30,.1);font-size:15px;font-weight:700;pointer-events:none;transform:translateY(-50%);animation:pop .22s ease-out both}
+.zipstate span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+@keyframes pop{from{opacity:0;transform:translateY(-50%) scale(.92)}to{opacity:1;transform:translateY(-50%)}}
+.zipres,.seatbox{display:grid;gap:10px}
+.zipres{margin-top:4px}
+.zipres:empty,.seatbox:empty{display:none}
+.zipres .opts+.seatbox{margin-top:12px}
+.zipmsg{margin:2px 4px 0;font-size:15px;font-weight:600;color:var(--wine)}
+.sec .seatpick{margin:18px 0 4px}
+.btn.next{display:flex;align-items:center;justify-content:center;gap:10px;margin-top:16px}
+.btn.next svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round;transition:transform .15s}
+.btn.next:not(:disabled):hover svg{transform:translateX(3px)}
+.btn.next:disabled{opacity:1;color:#a1a1ab;background:rgba(255,255,255,.38)}
+.btn{background:var(--surface-2);color:var(--ink);border:1px solid var(--edge);border-radius:999px;padding:18px 26px;font-weight:700;font-size:18px;width:100%;box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass);transition:background .15s,transform .12s,box-shadow .15s}
+.btn:hover{background:rgba(255,255,255,.92);box-shadow:inset 0 1px 0 rgba(255,255,255,.8),0 12px 34px rgba(15,15,30,.14)}
+.btn:active{transform:scale(.99)}
+.btn:disabled{opacity:.55;cursor:default;box-shadow:none}
+.btn.ghost{background:var(--surface);color:#3b3b44;font-weight:600}
+.btn.ghost:hover{background:var(--surface-2);color:var(--ink)}
+.btn:focus-visible,.chip:focus-visible,.opt:focus-visible,.back:focus-visible,.skip:focus-visible,.brand:focus-visible,summary:focus-visible{outline:3px solid var(--royal);outline-offset:3px}
+.row{display:flex;gap:12px;margin-top:36px}
+.skip{background:none;border:0;color:var(--mute);font-size:16px;font-weight:600;padding:16px 12px;width:100%}
+.skip:hover{color:var(--ink)}
+.loader{display:grid;justify-items:center;gap:30px;padding:48px 0;text-align:center}
+.loader.sm{padding:28px 0 8px;gap:18px}
+.orb{position:relative;width:96px;height:96px}
+.loader.sm .orb{width:64px;height:64px}
+.orb i{position:absolute;width:58px;height:58px;margin:-29px 0 0 -29px;border-radius:50%;mix-blend-mode:multiply;opacity:.9;will-change:transform;animation:swirl 3.6s ease-in-out infinite}
+.loader.sm .orb i{width:40px;height:40px;margin:-20px 0 0 -20px}
+.orb i:nth-child(1){left:38%;top:40%;background:radial-gradient(circle at 38% 34%,#c0475f,#7a1f2e 70%)}
+.orb i:nth-child(2){left:62%;top:40%;background:radial-gradient(circle at 38% 34%,#9a5fb8,#5b2a72 70%);animation-delay:-1.2s}
+.orb i:nth-child(3){left:50%;top:62%;background:radial-gradient(circle at 38% 34%,#4d6cd0,#1f3a93 70%);animation-delay:-2.4s}
+@keyframes swirl{0%{transform:translate(-8px,-4px) scale(1)}33%{transform:translate(8px,-6px) scale(1.12)}66%{transform:translate(0,9px) scale(.92)}100%{transform:translate(-8px,-4px) scale(1)}}
+.loader .msg{font-size:21px;font-weight:600;color:var(--ink);min-height:32px}
+.loader.sm .msg{font-size:17px}
+.loader .msg span{display:inline-block}
+.loader .msg span.in{animation:fadeup .45s ease-out both}
+@keyframes fadeup{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){.orb i,.glass,.zipstate,.loader .msg span{animation:none}.progress b{transition:none}}
+.err{color:var(--wine);font-size:16px;font-weight:600;display:grid;gap:12px;text-align:center}
+.intro{max-width:880px}
+.lede{font-size:24px;line-height:1.45;font-weight:400;margin:28px 0 40px;max-width:720px}
+@media(min-width:940px){h1{font-size:80px}.intro .btn{width:auto;min-width:320px;padding:20px 44px}}
+.small{font-size:14px;color:var(--mute);margin-top:24px;line-height:1.5}
+/* result: one identity first, analysis on demand, ballot below */
+.result{display:grid;gap:30px}
+.card{position:relative;z-index:1;padding:clamp(28px,5vw,58px);border-radius:32px;border:1px solid var(--edge);background:rgba(255,255,255,.68);box-shadow:inset 0 1px 0 rgba(255,255,255,.82),0 24px 70px rgba(15,15,30,.11);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass)}
+.card:has(.menu[open]){z-index:30}
+.card-head{display:block}.hero-copy{max-width:980px}
+.over{display:flex;align-items:center;gap:4px;font-size:15px;font-weight:600;color:#3a3a44;margin-bottom:14px}
+.card h2{font-size:clamp(50px,7vw,82px);line-height:.96;letter-spacing:-.025em;max-width:900px;margin-bottom:22px}
+.hero-hook{max-width:840px;font-family:var(--serif);font-size:clamp(22px,2.5vw,31px);line-height:1.28;color:#292934;text-wrap:balance}
+.section-note{font-size:13px;line-height:1.45;color:var(--mute)}
+.hero-actions{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin-top:32px}
+.hero-actions .btn,.hero-actions .pill{width:auto;margin:0;padding:14px 22px}
+.hero-actions .btn.primary,.hero-actions .menu summary.primary{background:var(--royal);border-color:var(--royal);color:#fff;box-shadow:0 12px 30px rgba(31,58,147,.24)}
+.hero-actions .btn.primary:hover,.hero-actions .menu summary.primary:hover{background:#182f7a}
+.insight{padding:30px clamp(26px,5vw,54px);border-radius:26px;background:rgba(15,15,19,.9);color:#fff;box-shadow:0 20px 55px rgba(15,15,30,.18)}
+.eyebrow{font-size:12px;font-weight:700;letter-spacing:.13em;text-transform:uppercase;color:#b8c5f4;margin-bottom:10px}
+.insight p:last-child{max-width:900px;font-family:var(--serif);font-size:clamp(27px,3.4vw,40px);line-height:1.16;text-wrap:balance}
+.fingerprint{padding:clamp(25px,4vw,42px);border-radius:28px;border:1px solid var(--edge);background:rgba(255,255,255,.56);box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass)}
+.fp-head{margin-bottom:28px}
+.fp-head h3{font-size:clamp(30px,3.5vw,42px);line-height:1}
+.fp-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.fp-axis{padding:18px 20px 15px;border-radius:18px;background:rgba(255,255,255,.62);border:1px solid rgba(15,15,19,.08)}
+.fp-axis-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:9px}
+.fp-axis-head b{font-size:14px;line-height:1.2}.fp-priority{font-size:9px;font-weight:850;letter-spacing:.08em;text-transform:uppercase;color:#8a651d}
+.fp-track{position:relative;height:4px;margin:0 7px;border-radius:999px;background:linear-gradient(90deg,rgba(122,31,46,.46),#d8d8de 50%,rgba(31,58,147,.46))}
+.fp-track i{position:absolute;left:calc(var(--v)*1%);top:50%;width:14px;height:14px;border:3px solid #fff;border-radius:50%;background:var(--c);box-shadow:0 2px 7px rgba(15,15,30,.24);transform:translate(-50%,-50%)}
+.fp-poles{display:flex;justify-content:space-between;gap:10px;margin-top:7px;font-size:10px;line-height:1.2;color:var(--mute)}
+.fp-poles span{max-width:48%}.fp-poles span:last-child{text-align:right}
+.context-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.context-card{padding:24px 26px 18px;border-radius:24px;border:1px solid var(--edge);background:rgba(255,255,255,.48);box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass)}
+.context-card h3{font-size:24px;margin-bottom:10px}
+.context-card h3+.section-note{margin:-5px 0 9px}
+.trow{display:flex;align-items:center;gap:12px;padding:11px 0;border-top:1px solid var(--line)}
+.trow em{font-style:normal;font-size:24px;line-height:1;flex:none;width:34px;text-align:center}
+.trow .flag{width:34px}
+.trow .nm{flex:1;min-width:0;font-size:18px;font-weight:600;line-height:1.25}
+.trow .why{display:block;margin-top:3px;font-size:16px;font-weight:400;color:#3a3a44}
+.trow .pct{font-family:var(--serif);font-size:26px;color:var(--royal);font-variant-numeric:tabular-nums;flex:none}
+.pri{display:flex;flex-wrap:wrap;gap:8px}
+.pri span{font-size:15px;font-weight:700;border-radius:999px;padding:9px 16px;background:rgba(122,31,46,.12);color:var(--wine);border:1px solid rgba(255,255,255,.5);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass)}
+.share{display:flex;flex-wrap:wrap;gap:8px}
+.pill{padding:11px 18px;border-radius:999px;border:1px solid var(--edge);background:var(--surface-2);box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass);color:var(--ink);font-size:15px;font-weight:600;transition:background .15s,transform .12s}
+.pill:hover{background:rgba(255,255,255,.92)}
+.pill:active{transform:scale(.97)}
+.pill:disabled{opacity:.5;cursor:default}
+.pill.main{color:var(--royal)}
+/* share menu: a dropdown with the social targets */
+.menu{position:relative}
+.menu summary{list-style:none;cursor:pointer;display:inline-flex;align-items:center;gap:10px}
+.menu summary::-webkit-details-marker{display:none}
+.menu summary::after{content:"";width:7px;height:7px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(45deg) translateY(-2px);transition:transform .15s}
+.menu[open] summary::after{transform:rotate(-135deg) translateY(2px)}
+/* solid, with no backdrop filter: a frosted panel nested inside the frosted card composites wrongly over the blocks below it */
+.menu-list{position:absolute;right:0;top:calc(100% + 8px);z-index:100;min-width:190px;padding:8px;border-radius:18px;border:1px solid var(--edge);background:#fff;box-shadow:0 18px 50px rgba(15,15,30,.18);display:grid;gap:2px;animation:rise .18s ease-out both}
+.menu-list button{display:block;width:100%;text-align:left;padding:11px 14px;border:0;border-radius:12px;background:none;color:var(--ink);font-size:15px;font-weight:600}
+.menu-list button:hover{background:rgba(31,58,147,.08);color:var(--royal)}
+.copybox{width:100%;min-height:72px;font-size:15px;margin-top:12px;border-radius:18px}
+.note{font-size:17px;color:#3a3a44;margin-top:10px;line-height:1.5}
+@media(min-width:900px){.ballot{margin-top:12px}}
+@media(max-width:700px){.fp-grid{grid-template-columns:1fr}}
+@media(max-width:700px){.card h2{font-size:48px}.hero-hook{font-size:22px}.hero-actions{display:grid}.hero-actions .btn,.hero-actions .pill,.hero-actions .menu,.hero-actions .menu summary{width:100%;justify-content:center;text-align:center}.menu-list{left:0;right:0}.insight{padding:26px 22px}.context-grid{grid-template-columns:1fr}.fp-head{margin-bottom:20px}}
+/* state flags */
+.flag{width:46px;height:auto;border-radius:6px;box-shadow:0 1px 4px rgba(0,0,0,.18);display:block;flex:none}
+.flag.sm{width:28px;border-radius:4px}
+.flag.xs{width:22px;border-radius:3px;display:inline-block;vertical-align:-3px;margin-right:6px}
+/* ballot: every candidate stays visible in a compact ranked column */
+.ballot{grid-column:1/-1}
+.ballot h3{display:flex;align-items:center;gap:12px;font-size:32px;margin-bottom:8px}
+.ballot .seatpick{margin:14px 0 4px;max-width:520px}
+.race{margin-top:38px}
+.race-h{display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px;margin-bottom:12px;padding:2px 2px 12px 14px;border-bottom:1px solid rgba(15,15,19,.12);border-left:3px solid var(--ink)}
+.race-office{font-family:var(--serif);font-size:25px;font-weight:700;line-height:1.05;letter-spacing:-.01em;color:var(--ink)}
+.race-detail,.race-status{display:inline-flex;align-items:center;min-height:24px;padding:3px 9px;border-radius:8px;background:#ececf0;color:#4d4d57;font-size:11px;font-weight:800;letter-spacing:.055em;text-transform:uppercase}
+.race-status{background:rgba(122,31,46,.1);color:var(--wine)}
+.cands{display:grid;grid-template-columns:minmax(0,1fr);gap:8px}
+.cand{display:grid;grid-template-columns:auto minmax(160px,.65fr) auto minmax(260px,1.35fr);gap:8px 14px;align-items:center;padding:12px 16px;border-radius:18px;border:1px solid rgba(255,255,255,.48);background:rgba(255,255,255,.38);box-shadow:none;-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass);cursor:pointer;text-align:left;transition:background .15s,transform .12s,border-color .15s,box-shadow .15s}
+.cand.rank-1{padding:15px 18px;background:rgba(255,255,255,.76);border-color:rgba(15,15,19,.12);box-shadow:var(--lift)}
+.cand.rank-2{background:rgba(255,255,255,.52)}
+.cand:hover{background:var(--surface-2)}
+.cand:active{transform:scale(.99)}
+.cand:focus-visible{outline:3px solid var(--royal);outline-offset:3px}
+.pic{width:50px;height:50px;border-radius:50%;padding:3px;background:conic-gradient(var(--ring,#555560) calc(var(--p,0)*1%),var(--line) 0)}
+.rank-1 .pic{width:58px;height:58px}
+.cand.thin{--ring:#9a9aa3}
+.ava{width:44px;height:44px;border-radius:50%;border:2px solid var(--paper);object-fit:cover;object-position:50% 22%;display:block;background:var(--line)}
+.rank-1 .ava{width:52px;height:52px}
+.ini{display:grid;place-items:center;font-size:19px;font-weight:700;color:#fff;letter-spacing:.02em}
+.cand .nm{font-family:var(--serif);font-size:20px;line-height:1.15}
+.rank-1 .nm{font-size:23px}
+.meta-row{display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-top:5px}
+.party-badge{display:inline-flex;align-items:center;gap:5px;width:max-content;padding:3px 8px;border-radius:999px;font-size:12px;font-weight:750;line-height:1.2;background:#ececf0;color:#45454f}
+.party-badge .party-icon{width:17px;height:17px;display:block;flex:none}
+.party-badge .party-icon circle{fill:currentColor}
+.party-badge .party-icon text{fill:#fff;font:800 11px/1 system-ui,-apple-system,sans-serif;text-anchor:middle;dominant-baseline:central}
+.party-badge.dem{background:rgba(39,92,191,.12);color:#2453a5}
+.party-badge.rep{background:rgba(181,54,54,.12);color:#a33434}
+.incumbent{font-size:12px;font-weight:650;color:var(--mute)}
+.score{font-family:var(--serif);font-size:27px;line-height:1;color:#3f3f48;font-variant-numeric:tabular-nums}
+.rank-1 .score{font-size:32px;color:var(--ink)}
+.score.na{color:var(--mute)}
+.match-notes{grid-column:4;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:7px;padding-left:16px;border-left:1px solid rgba(15,15,19,.1)}
+.match-kicker{grid-column:1/-1;display:flex;align-items:center;gap:6px;color:#8a651d;font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+.match-line{min-width:0;padding:9px 11px 10px;border:1px solid rgba(30,30,40,.07);border-radius:12px;background:rgba(255,255,255,.42);font-size:14px;line-height:1.25}
+.match-label{display:flex;align-items:center;gap:6px;margin-bottom:7px;font-size:10px;font-weight:800;letter-spacing:.055em;text-transform:uppercase;white-space:nowrap}
+.match-label svg{display:block;flex:none;width:15px;height:15px;overflow:visible}
+.match-label svg circle{fill:currentColor}.match-label svg path{fill:none;stroke:#fff;stroke-width:1.7;stroke-linecap:round;stroke-linejoin:round}
+.match-line.agree .match-label{color:#267066}
+.match-line.gap .match-label{color:var(--wine)}
+.match-topics{display:flex;flex-wrap:wrap;gap:5px;min-width:0}
+.match-topic{display:inline-flex;align-items:center;min-width:0;padding:4px 8px;border-radius:999px;background:rgba(67,67,78,.065);color:#777780;font-size:12px;font-weight:650;line-height:1.2;overflow-wrap:anywhere}
+.match-basis,.match-empty{font-size:12px;color:var(--mute)}
+.match-empty{font-size:14px;font-weight:600}
+@media(max-width:900px){.match-notes{grid-template-columns:1fr}}
+@media(max-width:760px){.cand{grid-template-columns:auto 1fr auto}.match-notes{grid-column:2/-1;grid-template-columns:repeat(2,minmax(0,1fr));padding:10px 0 0;border-left:0;border-top:1px solid rgba(15,15,19,.1)}.cand,.cand.rank-1{padding:13px 14px}.pic,.rank-1 .pic{width:50px;height:50px}.ava,.rank-1 .ava{width:44px;height:44px}}
+@media(max-width:520px){.match-notes{grid-template-columns:1fr}.match-topic{font-size:11px}}
+/* topic scales in the profile sheet */
+.legend{display:flex;gap:18px;margin:12px 0 2px;font-size:14px;font-weight:600;color:var(--mute)}
+.legend i{display:inline-block;width:12px;height:12px;border-radius:50%;vertical-align:-1px;margin-right:6px}
+.you{background:var(--ink)}
+.them{background:var(--paper);box-shadow:inset 0 0 0 3px var(--royal)}
+.topic{margin-top:16px}
+.topic .t{font-size:15px;font-weight:600}
+.track{position:relative;height:4px;border-radius:999px;background:var(--line);margin:10px 7px 6px}
+.mk{position:absolute;top:50%;width:14px;height:14px;border-radius:50%;transform:translate(-50%,-50%)}
+.poles{display:flex;justify-content:space-between;gap:12px;font-size:13px;color:var(--mute)}
+.poles span:last-child{text-align:right}
+dialog.sheet{border:0;padding:0;border-radius:26px;width:min(720px,calc(100% - 24px));max-height:calc(100dvh - 40px);overflow:hidden;background:rgba(255,255,255,.9);color:var(--ink);box-shadow:0 24px 70px rgba(15,15,30,.24);-webkit-backdrop-filter:blur(30px) saturate(180%);backdrop-filter:blur(30px) saturate(180%)}
+dialog.sheet::backdrop{background:rgba(15,15,19,.42);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+.sheet .inner{position:relative;display:grid;gap:14px;max-height:calc(100dvh - 40px);overflow:auto;padding:28px 30px 24px}
+.sheet .x{position:absolute;top:14px;right:14px;width:38px;height:38px;border-radius:50%;border:1px solid var(--edge);background:var(--surface-2);box-shadow:var(--lift);color:var(--ink);font-size:22px;line-height:1}
+.who-head{display:flex;align-items:center;gap:18px;padding-right:44px}
+.who-head .ava{flex:none;width:84px;height:84px;border:0}
+.who-head .ini{font-size:28px}
+.who-head h2{font-size:34px;line-height:1.05;margin-bottom:6px}
+.sheet .meta{color:#3a3a44;font-size:15px;font-weight:600}
+.sheet .role{font-weight:700}
+.sheet .bio{font-size:17px;line-height:1.6;color:#3b3b44}
+.sheet h3{margin-top:10px;font-size:24px}
+.links{display:flex;flex-wrap:wrap;gap:8px}
+.links a{padding:7px 13px;border-radius:999px;border:1px solid var(--edge);background:var(--surface-2);box-shadow:var(--lift);color:var(--royal);font-size:14px;font-weight:600;text-decoration:none}
+.plat{display:grid;gap:10px;margin:0;padding-left:18px;font-size:16.5px;line-height:1.55;color:#3b3b44}
+.plat b{color:var(--ink)}
+.ev{margin-top:6px;font-size:15px;line-height:1.5;color:#4a4a55}
+a.src{font-size:14px;font-weight:600;color:var(--royal)}
+@media(max-width:440px){.sheet .inner{padding:22px 20px 20px}.who-head{gap:14px}.who-head .ava{width:64px;height:64px}.who-head h2{font-size:28px}}
+.ts{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);z-index:30}
+.toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%);background:rgba(15,15,19,.72);color:#fff;padding:12px 20px;border-radius:999px;font-size:15px;font-weight:600;opacity:0;pointer-events:none;transition:opacity .2s;-webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px)}
+.toast.on{opacity:1}
+.site{display:none;margin-top:56px;text-align:center}
+body.home .site,body.done .site{display:block}
+.site-links{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
+.site a{padding:8px 15px;border-radius:999px;border:1px solid var(--edge);background:var(--surface-2);box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass);color:#2f2f38;font-size:13px;font-weight:600;text-decoration:none;transition:background .15s}
+.site a:hover{background:rgba(255,255,255,.92);color:var(--ink)}
+.site-note{display:none;max-width:760px;margin:14px auto 0;color:var(--mute);font-size:11px;line-height:1.45}
+body.done .site-note{display:block}
+.lang-select{display:none;width:auto;min-width:126px;margin-left:auto;padding:8px 36px 8px 12px;border-radius:999px;font-size:13px;font-weight:650;background-position:right 11px center;background-size:14px}
+body.home .lang-select,body.done .lang-select{display:block}
+/* error and region screens */
+.oops-icon{width:64px;height:64px;border-radius:20px;display:grid;place-items:center;background:rgba(122,31,46,.12);color:var(--wine);margin-bottom:28px;border:1px solid rgba(255,255,255,.5);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass)}
+.oops-icon svg{width:30px;height:30px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.oops .lede{margin:16px 0 36px;color:#3b3b44}
+.oops .skip{margin-top:4px}
+/* consent dialog */
+dialog.consent{border:0;padding:0;border-radius:26px;width:min(640px,calc(100% - 24px));max-height:calc(100dvh - 40px);overflow:hidden;background:rgba(255,255,255,.82);color:var(--ink);box-shadow:0 24px 70px rgba(15,15,30,.24);-webkit-backdrop-filter:blur(30px) saturate(180%);backdrop-filter:blur(30px) saturate(180%)}
+dialog.consent::backdrop{background:rgba(15,15,19,.42);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+.consent .inner{max-height:calc(100dvh - 40px);overflow:auto}
+.consent .top{height:4px;background:linear-gradient(90deg,var(--wine),var(--royal))}
+.consent .head{display:grid;gap:14px;padding:28px 32px 0}
+.consent h2{font-size:34px;line-height:1.05}
+.consent p{margin:0;font-size:15.5px;line-height:1.6;color:#4a4a55}
+.consent a{color:var(--royal);font-weight:600}
+.consent .actions{display:grid;gap:12px;padding:20px 32px 22px;margin-top:24px;border-top:1px solid rgba(15,15,19,.08)}
+.check{display:flex;align-items:flex-start;gap:12px;font-size:14.5px;font-weight:600;line-height:1.45;color:var(--ink);cursor:pointer}
+.check input{position:absolute;width:0;height:0;opacity:0}
+.check .box{position:relative;flex:none;width:22px;height:22px;border-radius:7px;background:var(--paper);box-shadow:inset 0 0 0 1.5px #c9c9d4;transition:background .15s,box-shadow .15s}
+.check .box::after{content:"";position:absolute;left:7.5px;top:3.5px;width:6px;height:11px;border:2px solid #fff;border-top:0;border-left:0;opacity:0;transform:rotate(45deg) scale(.6);transition:opacity .15s,transform .15s}
+.check input:checked+.box{background:var(--royal);box-shadow:inset 0 0 0 1.5px var(--royal)}
+.check input:checked+.box::after{opacity:1;transform:rotate(45deg) scale(1)}
+.check input:focus-visible+.box{box-shadow:inset 0 0 0 1.5px var(--royal),0 0 0 4px var(--royal-soft)}
+.consent .btn:disabled{opacity:1;background:rgba(255,255,255,.45);color:#9a9aa6;box-shadow:none}
+.consent .later{background:none;border:0;padding:6px;color:var(--mute);font-size:14px;font-weight:600}
+.consent .later:hover{color:var(--ink)}
+@media(max-width:440px){.consent h2{font-size:28px}.consent .head{padding:22px 20px 0}.consent .actions{padding:18px 20px 18px}}
+.slider{display:grid;gap:28px}
+.slider .ends{display:flex;justify-content:space-between;gap:14px;font-size:20px;font-weight:600}
+.slider .ends span{max-width:48%;line-height:1.15;text-wrap:balance}
+.slider .ends span:first-child{color:var(--wine)}.slider .ends span:last-child{color:var(--royal);text-align:right}
+.slider .ends.long{font-size:17px}
+.temp input[type=range]:focus-visible{outline:none}
+.temp input[type=range]:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 4px var(--royal-soft),0 4px 14px rgba(0,0,0,.2)}
+.temp{position:relative;height:56px;display:flex;align-items:center}
+.temp .track{position:absolute;left:0;right:0;height:22px;border-radius:999px;margin:0;background:linear-gradient(90deg,var(--wine) 0%,#e2e2e8 50%,var(--royal) 100%)}
+.temp input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:56px;margin:0;background:transparent;position:relative}
+.temp input[type=range]::-webkit-slider-runnable-track{height:22px;background:transparent}
+.temp input[type=range]::-moz-range-track{height:22px;background:transparent}
+.temp input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:40px;height:40px;border-radius:50%;background:#fff;border:4px solid var(--c,var(--ink));box-shadow:0 4px 14px rgba(0,0,0,.2);margin-top:-9px;cursor:grab}
+.temp input[type=range]::-moz-range-thumb{width:32px;height:32px;border-radius:50%;background:#fff;border:4px solid var(--c,var(--ink));box-shadow:0 4px 14px rgba(0,0,0,.2);cursor:grab}
+@media(max-width:440px){.brand .mark{height:26px}.zipbox input{font-size:24px}.zipstate{max-width:calc(100% - 128px)}h1{font-size:46px}h2{font-size:38px}.q{font-size:32px}.lede{font-size:20px}.either .chip{font-size:18px}.slider .ends{font-size:17px}.opts.c3{grid-template-columns:repeat(2,minmax(0,1fr))}.ini{font-size:16px}.score{font-size:25px}.card{padding:24px 20px}.card h2{font-size:42px}.hero-hook{font-size:20px}.ballot h3{font-size:28px}.fingerprint{padding:22px 18px}.fp-axis{padding:17px 16px 14px}}
+</style>
+</head>
+<body>
+<div class="aurora"><i></i><i></i><i></i></div><div class="grain"></div><div class="glow" aria-hidden="true"><i></i><i></i><i></i></div>
+<div class="app">
+  <header><a class="brand" href="/"><img class="mark" src="/mark.svg" alt="VibeVote" width="38" height="30"></a><span class="hint" id="hint"></span><select class="lang-select" id="lang-select" aria-label="Language"><option value="en">English</option><option value="es">Español</option><option value="pt">Português</option><option value="zh">简体中文</option><option value="ru">Русский</option></select><div class="actions" id="actions"></div></header>
+  <div class="progress" id="prog" hidden><b id="bar"></b></div>
+  <div class="stage" id="stage"></div>
+  <footer class="site"><div class="site-links"><a id="terms-link" href="/terms">Terms &amp; privacy</a><a id="credits-link" href="/credits">Photo credits</a><a id="vote-link" href="https://vote.gov" target="_blank" rel="noopener">Official voter info on vote.gov ↗</a></div><p class="site-note" id="site-note">AI interpreted the interview and estimated candidate matches from public records. It can be wrong. This is a starting point, not voting advice.</p></footer>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<div class="ts" id="ts"></div>
+
+<script>
+const LANG_KEY="vibevote:language",LANGUAGES={en:"English",es:"Español",pt:"Português",zh:"简体中文",ru:"Русский"};
+const I18N={
+es:{"Find out where you actually stand.":"Descubre cuál es realmente tu postura.","See where in the US, and who on your ballot, aligns with your views.":"Descubre qué lugares de EE. UU. y qué candidatos de tu boleta coinciden con tus ideas.","Start the interview":"Comenzar la entrevista","Before you start":"Antes de comenzar","You're 18 or older, you live in the United States, and you're taking the interview for yourself. The questions, your analysis and the candidate matches are written by AI and can be wrong, so treat them as a starting point, not as voting advice.":"Tienes 18 años o más, vives en Estados Unidos y respondes por ti. La IA redacta las preguntas, el análisis y las coincidencias, y puede equivocarse. Úsalos como punto de partida, no como consejo electoral.","VibeVote is independent of every party and campaign, keeps no copy of your answers and comes with no warranty.":"VibeVote es independiente de todos los partidos y campañas, no guarda copias de tus respuestas y no ofrece garantías.","I'm 18 or older and live in the US.":"Tengo 18 años o más y vivo en EE. UU.","I agree to the terms and will use VibeVote for myself.":"Acepto los términos y usaré VibeVote para mí.","Agree and start":"Aceptar y comenzar","Not now":"Ahora no","Which ZIP code do you vote in?":"¿En qué código postal votas?","How old are you?":"¿Qué edad tienes?","Gender?":"¿Género?","Your household?":"¿Cómo es tu hogar?","What do you do for work?":"¿A qué te dedicas?","Woman":"Mujer","Man":"Hombre","Non-binary":"No binario","Prefer to self-describe":"Prefiero describirme","Single, no kids":"Soltero/a, sin hijos","Partnered, no kids":"En pareja, sin hijos","Parent of young kids":"Madre o padre de niños pequeños","Parent of teens or adult kids":"Madre o padre de adolescentes o adultos","Caring for a parent or relative":"Cuido a un familiar","Continue":"Continuar","Back":"Atrás","Skip":"Omitir","Say it in my own words":"Decirlo con mis propias palabras","Type your answer":"Escribe tu respuesta","That's my answer":"Esa es mi respuesta","Your defining tension":"Tu tensión principal","Your political fingerprint":"Tu huella política","Priority":"Prioridad","Closest political traditions":"Tradiciones políticas más cercanas","Overlapping influences, not party labels.":"Influencias que se superponen, no etiquetas partidistas.","Places with a similar mix":"Lugares con una mezcla similar","An AI analogy based on political culture, not polling data.":"Una analogía de IA basada en cultura política, no en encuestas.","Find my stance":"Descubrir mi postura","Start over":"Empezar de nuevo","Share this stance":"Compartir esta postura","Share my stance":"Compartir mi postura","On your ballot in {state}":"En tu boleta de {state}","On the ballot in {state}":"En la boleta de {state}","Closest match":"Mayor coincidencia","Common ground":"Coincidencias","Biggest gaps":"Mayores diferencias","Incumbent":"Titular","Democratic":"Demócrata","Republican":"Republicano","Independent":"Independiente","Terms & privacy":"Términos y privacidad","Photo credits":"Créditos de fotos","Official voter info on vote.gov ↗":"Información electoral oficial en vote.gov ↗","AI interpreted the interview and estimated candidate matches from public records. It can be wrong. This is a starting point, not voting advice.":"La IA interpretó la entrevista y estimó coincidencias con registros públicos. Puede equivocarse. Es un punto de partida, no consejo electoral."},
+pt:{"Find out where you actually stand.":"Descubra qual é realmente a sua posição.","See where in the US, and who on your ballot, aligns with your views.":"Veja quais lugares dos EUA e quais candidatos da sua cédula combinam com suas ideias.","Start the interview":"Começar a entrevista","Before you start":"Antes de começar","You're 18 or older, you live in the United States, and you're taking the interview for yourself. The questions, your analysis and the candidate matches are written by AI and can be wrong, so treat them as a starting point, not as voting advice.":"Você tem 18 anos ou mais, mora nos Estados Unidos e responde por si. A IA escreve as perguntas, a análise e as correspondências e pode errar. Use tudo como ponto de partida, não como orientação eleitoral.","VibeVote is independent of every party and campaign, keeps no copy of your answers and comes with no warranty.":"O VibeVote é independente de partidos e campanhas, não guarda cópias das suas respostas e não oferece garantias.","I'm 18 or older and live in the US.":"Tenho 18 anos ou mais e moro nos EUA.","I agree to the terms and will use VibeVote for myself.":"Aceito os termos e usarei o VibeVote para mim.","Agree and start":"Aceitar e começar","Not now":"Agora não","Which ZIP code do you vote in?":"Em qual CEP dos EUA você vota?","How old are you?":"Qual é a sua idade?","Gender?":"Gênero?","Your household?":"Como é a sua família?","What do you do for work?":"Com o que você trabalha?","Woman":"Mulher","Man":"Homem","Non-binary":"Não binário","Prefer to self-describe":"Prefiro me descrever","Single, no kids":"Solteiro/a, sem filhos","Partnered, no kids":"Em casal, sem filhos","Parent of young kids":"Responsável por crianças pequenas","Parent of teens or adult kids":"Responsável por adolescentes ou adultos","Caring for a parent or relative":"Cuido de um familiar","Continue":"Continuar","Back":"Voltar","Skip":"Pular","Say it in my own words":"Responder com minhas palavras","Type your answer":"Digite sua resposta","That's my answer":"Essa é minha resposta","Your defining tension":"Sua tensão central","Your political fingerprint":"Sua impressão política","Priority":"Prioridade","Closest political traditions":"Tradições políticas mais próximas","Overlapping influences, not party labels.":"Influências sobrepostas, não rótulos partidários.","Places with a similar mix":"Lugares com uma combinação parecida","An AI analogy based on political culture, not polling data.":"Uma analogia de IA baseada em cultura política, não em pesquisas.","Find my stance":"Descobrir minha posição","Start over":"Recomeçar","Share this stance":"Compartilhar esta posição","Share my stance":"Compartilhar minha posição","On your ballot in {state}":"Na sua cédula em {state}","On the ballot in {state}":"Na cédula em {state}","Closest match":"Maior correspondência","Common ground":"Pontos em comum","Biggest gaps":"Maiores diferenças","Incumbent":"No cargo","Democratic":"Democrata","Republican":"Republicano","Independent":"Independente","Terms & privacy":"Termos e privacidade","Photo credits":"Créditos das fotos","Official voter info on vote.gov ↗":"Informações eleitorais oficiais em vote.gov ↗","AI interpreted the interview and estimated candidate matches from public records. It can be wrong. This is a starting point, not voting advice.":"A IA interpretou a entrevista e estimou correspondências usando registros públicos. Pode errar. Isto é um ponto de partida, não orientação eleitoral."},
+zh:{"Find out where you actually stand.":"看看你的真实立场。","See where in the US, and who on your ballot, aligns with your views.":"了解美国哪些地方以及你选票上的哪些候选人与观点最接近。","Start the interview":"开始访谈","Before you start":"开始之前","You're 18 or older, you live in the United States, and you're taking the interview for yourself. The questions, your analysis and the candidate matches are written by AI and can be wrong, so treat them as a starting point, not as voting advice.":"你已年满18岁、居住在美国，并为自己完成访谈。问题、分析和候选人匹配由AI生成，可能有误。请将其视为起点，而非投票建议。","VibeVote is independent of every party and campaign, keeps no copy of your answers and comes with no warranty.":"VibeVote独立于所有政党和竞选活动，不保存你的答案，也不提供任何保证。","I'm 18 or older and live in the US.":"我已年满18岁并居住在美国。","I agree to the terms and will use VibeVote for myself.":"我同意条款，并仅为自己使用VibeVote。","Agree and start":"同意并开始","Not now":"暂不","Which ZIP code do you vote in?":"你在哪个邮政编码地区投票？","How old are you?":"你的年龄？","Gender?":"性别？","Your household?":"你的家庭情况？","What do you do for work?":"你的职业是什么？","Woman":"女性","Man":"男性","Non-binary":"非二元性别","Prefer to self-describe":"自行描述","Single, no kids":"单身，无子女","Partnered, no kids":"有伴侣，无子女","Parent of young kids":"有年幼子女","Parent of teens or adult kids":"有青少年或成年子女","Caring for a parent or relative":"照顾父母或亲属","Continue":"继续","Back":"返回","Skip":"跳过","Say it in my own words":"用自己的话回答","Type your answer":"输入回答","That's my answer":"这就是我的回答","Your defining tension":"你的核心张力","Your political fingerprint":"你的政治指纹","Priority":"重点","Closest political traditions":"最接近的政治传统","Overlapping influences, not party labels.":"这些是相互交叠的影响，并非政党标签。","Places with a similar mix":"具有相似组合的地区","An AI analogy based on political culture, not polling data.":"基于政治文化的AI类比，并非民调数据。","Find my stance":"发现我的立场","Start over":"重新开始","Share this stance":"分享这一立场","Share my stance":"分享我的立场","On your ballot in {state}":"你在{state}州的选票","On the ballot in {state}":"{state}州选票","Closest match":"最接近","Common ground":"共同点","Biggest gaps":"最大分歧","Incumbent":"现任","Democratic":"民主党","Republican":"共和党","Independent":"独立人士","Terms & privacy":"条款与隐私","Photo credits":"照片来源","Official voter info on vote.gov ↗":"vote.gov官方投票信息 ↗","AI interpreted the interview and estimated candidate matches from public records. It can be wrong. This is a starting point, not voting advice.":"AI解读访谈并根据公开记录估算候选人匹配度，结果可能有误。这只是起点，并非投票建议。"},
+ru:{"Find out where you actually stand.":"Узнайте, какова ваша настоящая позиция.","See where in the US, and who on your ballot, aligns with your views.":"Узнайте, какие регионы США и кандидаты в вашем бюллетене ближе вашим взглядам.","Start the interview":"Начать интервью","Before you start":"Перед началом","You're 18 or older, you live in the United States, and you're taking the interview for yourself. The questions, your analysis and the candidate matches are written by AI and can be wrong, so treat them as a starting point, not as voting advice.":"Вам не менее 18 лет, вы живёте в США и проходите интервью для себя. Вопросы, анализ и совпадения с кандидатами создаёт ИИ, поэтому возможны ошибки. Это отправная точка, а не совет по голосованию.","VibeVote is independent of every party and campaign, keeps no copy of your answers and comes with no warranty.":"VibeVote не зависит от партий и кампаний, не хранит копии ваших ответов и не предоставляет гарантий.","I'm 18 or older and live in the US.":"Мне не менее 18 лет, и я живу в США.","I agree to the terms and will use VibeVote for myself.":"Я принимаю условия и использую VibeVote для себя.","Agree and start":"Принять и начать","Not now":"Не сейчас","Which ZIP code do you vote in?":"По какому почтовому индексу вы голосуете?","How old are you?":"Сколько вам лет?","Gender?":"Пол?","Your household?":"Кто живёт вместе с вами?","What do you do for work?":"Кем вы работаете?","Woman":"Женщина","Man":"Мужчина","Non-binary":"Небинарный человек","Prefer to self-describe":"Опишу самостоятельно","Single, no kids":"Один/одна, без детей","Partnered, no kids":"В паре, без детей","Parent of young kids":"Родитель маленьких детей","Parent of teens or adult kids":"Родитель подростков или взрослых детей","Caring for a parent or relative":"Ухаживаю за родственником","Continue":"Продолжить","Back":"Назад","Skip":"Пропустить","Say it in my own words":"Ответить своими словами","Type your answer":"Введите ответ","That's my answer":"Это мой ответ","Your defining tension":"Ваше главное противоречие","Your political fingerprint":"Ваш политический профиль","Priority":"Приоритет","Closest political traditions":"Ближайшие политические традиции","Overlapping influences, not party labels.":"Пересекающиеся влияния, а не партийные ярлыки.","Places with a similar mix":"Регионы с похожим сочетанием","An AI analogy based on political culture, not polling data.":"Аналогия ИИ на основе политической культуры, а не опросов.","Find my stance":"Узнать мою позицию","Start over":"Начать заново","Share this stance":"Поделиться позицией","Share my stance":"Поделиться моей позицией","On your ballot in {state}":"В вашем бюллетене в {state}","On the ballot in {state}":"В бюллетене в {state}","Closest match":"Лучшее совпадение","Common ground":"Общие позиции","Biggest gaps":"Главные различия","Incumbent":"Действующий","Democratic":"Демократ","Republican":"Республиканец","Independent":"Независимый","Terms & privacy":"Условия и конфиденциальность","Photo credits":"Авторы фотографий","Official voter info on vote.gov ↗":"Официальная информация на vote.gov ↗","AI interpreted the interview and estimated candidate matches from public records. It can be wrong. This is a starting point, not voting advice.":"ИИ интерпретировал интервью и оценил совпадения с кандидатами по открытым данным. Возможны ошибки. Это отправная точка, а не совет по голосованию."}
+};
+const EXTRA_I18N={
+es:{"A stance from":"Una postura de","Copy link":"Copiar enlace","Save card":"Guardar tarjeta","Save full result":"Guardar resultado completo","Link copied":"Enlace copiado","Share…":"Compartir…","No comparable public positions yet":"Aún no hay posiciones públicas comparables","Open to see the full comparison":"Abre para ver la comparación completa","Limited comparison":"Comparación limitada","On the ballot":"En la boleta","Platform":"Programa","Website":"Sitio web","Source":"Fuente","Close":"Cerrar","Special election":"Elección especial","US Senate":"Senado de EE. UU.","Governor":"Gobernador","US House":"Cámara de Representantes"},
+pt:{"A stance from":"Uma posição de","Copy link":"Copiar link","Save card":"Salvar cartão","Save full result":"Salvar resultado completo","Link copied":"Link copiado","Share…":"Compartilhar…","No comparable public positions yet":"Ainda não há posições públicas comparáveis","Open to see the full comparison":"Abra para ver a comparação completa","Limited comparison":"Comparação limitada","On the ballot":"Na cédula","Platform":"Plataforma","Website":"Site","Source":"Fonte","Close":"Fechar","Special election":"Eleição especial","US Senate":"Senado dos EUA","Governor":"Governador","US House":"Câmara dos Representantes"},
+zh:{"A stance from":"立场来自","Copy link":"复制链接","Save card":"保存卡片","Save full result":"保存完整结果","Link copied":"链接已复制","Share…":"分享…","No comparable public positions yet":"暂无可比较的公开立场","Open to see the full comparison":"打开查看完整比较","Limited comparison":"有限比较","On the ballot":"选票","Platform":"竞选纲领","Website":"网站","Source":"来源","Close":"关闭","Special election":"特别选举","US Senate":"美国参议院","Governor":"州长","US House":"美国众议院"},
+ru:{"A stance from":"Позиция из","Copy link":"Копировать ссылку","Save card":"Сохранить карточку","Save full result":"Сохранить весь результат","Link copied":"Ссылка скопирована","Share…":"Поделиться…","No comparable public positions yet":"Пока нет сопоставимых публичных позиций","Open to see the full comparison":"Откройте полное сравнение","Limited comparison":"Ограниченное сравнение","On the ballot":"В бюллетене","Platform":"Программа","Website":"Сайт","Source":"Источник","Close":"Закрыть","Special election":"Внеочередные выборы","US Senate":"Сенат США","Governor":"Губернатор","US House":"Палата представителей"}
+};
+Object.entries(EXTRA_I18N).forEach(([k,v])=>Object.assign(I18N[k],v));
+const SYSTEM_I18N={
+es:{"ZIP code":"Código postal","Not sure":"No estoy seguro/a","Congressional district":"Distrito congresional","Your congressional district":"Tu distrito congresional","Add your US House race":"Añadir tu elección a la Cámara","At-large":"Distrito único","Delegate":"Delegado","District {number}":"Distrito {number}","Couldn't check this ZIP code. Try again.":"No pudimos comprobar este código postal. Inténtalo de nuevo.","VibeVote covers the 50 states and DC.":"VibeVote cubre los 50 estados y Washington, D. C.","We couldn't find this ZIP code.":"No pudimos encontrar este código postal.","You're offline.":"No tienes conexión.","Check your connection, then try again. Your answers so far are still here.":"Comprueba tu conexión y vuelve a intentarlo. Tus respuestas siguen aquí.","Too many tries in a row.":"Demasiados intentos seguidos.","Wait a minute, then try again. Your answers so far are still here.":"Espera un minuto y vuelve a intentarlo. Tus respuestas siguen aquí.","This step didn't come out right.":"Este paso no salió bien.","Try again and the interviewer will write it differently.":"Inténtalo de nuevo y el entrevistador lo formulará de otra manera.","The interviewer is unavailable.":"El entrevistador no está disponible.","The problem is on our side. Try again in a moment. Your answers so far are still here.":"El problema es nuestro. Vuelve a intentarlo en un momento. Tus respuestas siguen aquí.","Try again":"Intentar de nuevo","Back to the start":"Volver al inicio","Couldn't load the candidates. Refresh the page to try again.":"No se pudieron cargar los candidatos. Actualiza la página para intentarlo de nuevo.","Pick your congressional district to see who's running.":"Elige tu distrito congresional para ver quién se presenta.","No Senate or governor race in {state} this year.":"Este año no hay elección al Senado ni a gobernador en {state}.","Candidates for {state} aren't loaded yet.":"Los candidatos de {state} aún no están disponibles.","Couldn't load this profile. Try again.":"No se pudo cargar este perfil. Inténtalo de nuevo.","No public platform found yet.":"Aún no se encontró un programa público.","Where {name} stands":"Posiciones de {name}","Too few public positions to place on the scales.":"Hay muy pocas posiciones públicas para mostrarlas en las escalas.","This stance":"Esta postura","You":"Tú","This link doesn't open.":"Este enlace no se abre.","It may have expired, or a character got lost when it was copied.":"Puede haber caducado o haberse perdido un carácter al copiarlo.","Find out where you actually stand":"Descubre cuál es realmente tu postura"},
+pt:{"ZIP code":"CEP","Not sure":"Não tenho certeza","Congressional district":"Distrito eleitoral","Your congressional district":"Seu distrito eleitoral","Add your US House race":"Adicionar eleição para a Câmara","At-large":"Distrito único","Delegate":"Delegado","District {number}":"Distrito {number}","Couldn't check this ZIP code. Try again.":"Não foi possível verificar este CEP. Tente novamente.","VibeVote covers the 50 states and DC.":"O VibeVote cobre os 50 estados e Washington, D.C.","We couldn't find this ZIP code.":"Não encontramos este CEP.","You're offline.":"Você está sem conexão.","Check your connection, then try again. Your answers so far are still here.":"Verifique a conexão e tente novamente. Suas respostas continuam aqui.","Too many tries in a row.":"Muitas tentativas seguidas.","Wait a minute, then try again. Your answers so far are still here.":"Espere um minuto e tente novamente. Suas respostas continuam aqui.","This step didn't come out right.":"Esta etapa não saiu como esperado.","Try again and the interviewer will write it differently.":"Tente novamente e o entrevistador escreverá de outra forma.","The interviewer is unavailable.":"O entrevistador está indisponível.","The problem is on our side. Try again in a moment. Your answers so far are still here.":"O problema é nosso. Tente novamente em instantes. Suas respostas continuam aqui.","Try again":"Tentar novamente","Back to the start":"Voltar ao início","Couldn't load the candidates. Refresh the page to try again.":"Não foi possível carregar os candidatos. Atualize a página para tentar novamente.","Pick your congressional district to see who's running.":"Escolha seu distrito eleitoral para ver os candidatos.","No Senate or governor race in {state} this year.":"Não há eleição para o Senado ou governador em {state} neste ano.","Candidates for {state} aren't loaded yet.":"Os candidatos de {state} ainda não foram carregados.","Couldn't load this profile. Try again.":"Não foi possível carregar este perfil. Tente novamente.","No public platform found yet.":"Nenhuma plataforma pública encontrada ainda.","Where {name} stands":"Posições de {name}","Too few public positions to place on the scales.":"Há poucas posições públicas para exibir nas escalas.","This stance":"Esta posição","You":"Você","This link doesn't open.":"Este link não abre.","It may have expired, or a character got lost when it was copied.":"Ele pode ter expirado ou algum caractere pode ter se perdido na cópia.","Find out where you actually stand":"Descubra qual é realmente a sua posição"},
+zh:{"ZIP code":"邮政编码","Not sure":"不确定","Congressional district":"国会选区","Your congressional district":"你的国会选区","Add your US House race":"添加众议院选举","At-large":"全州单一选区","Delegate":"代表","District {number}":"第{number}选区","Couldn't check this ZIP code. Try again.":"无法核实此邮政编码，请重试。","VibeVote covers the 50 states and DC.":"VibeVote覆盖美国50个州和华盛顿特区。","We couldn't find this ZIP code.":"找不到此邮政编码。","You're offline.":"你已离线。","Check your connection, then try again. Your answers so far are still here.":"请检查网络后重试，你目前的回答仍在这里。","Too many tries in a row.":"连续尝试次数过多。","Wait a minute, then try again. Your answers so far are still here.":"请稍等一分钟后重试，你目前的回答仍在这里。","This step didn't come out right.":"此步骤未能正确完成。","Try again and the interviewer will write it differently.":"请重试，访谈助手会换一种方式表述。","The interviewer is unavailable.":"访谈助手暂不可用。","The problem is on our side. Try again in a moment. Your answers so far are still here.":"问题出在我们这边，请稍后重试。你目前的回答仍在这里。","Try again":"重试","Back to the start":"返回首页","Couldn't load the candidates. Refresh the page to try again.":"无法加载候选人，请刷新页面重试。","Pick your congressional district to see who's running.":"选择国会选区以查看候选人。","No Senate or governor race in {state} this year.":"{state}今年没有参议员或州长选举。","Candidates for {state} aren't loaded yet.":"{state}的候选人尚未加载。","Couldn't load this profile. Try again.":"无法加载此资料，请重试。","No public platform found yet.":"尚未找到公开竞选纲领。","Where {name} stands":"{name}的立场","Too few public positions to place on the scales.":"公开立场太少，无法显示在坐标轴上。","This stance":"此立场","You":"你","This link doesn't open.":"此链接无法打开。","It may have expired, or a character got lost when it was copied.":"链接可能已过期，或复制时遗漏了字符。","Find out where you actually stand":"看看你的真实立场"},
+ru:{"ZIP code":"Почтовый индекс","Not sure":"Не уверен(а)","Congressional district":"Избирательный округ","Your congressional district":"Ваш избирательный округ","Add your US House race":"Добавить выборы в Палату представителей","At-large":"Единый округ","Delegate":"Делегат","District {number}":"Округ {number}","Couldn't check this ZIP code. Try again.":"Не удалось проверить индекс. Попробуйте снова.","VibeVote covers the 50 states and DC.":"VibeVote охватывает 50 штатов и округ Колумбия.","We couldn't find this ZIP code.":"Не удалось найти этот индекс.","You're offline.":"Нет подключения к интернету.","Check your connection, then try again. Your answers so far are still here.":"Проверьте подключение и повторите попытку. Ваши ответы сохранены.","Too many tries in a row.":"Слишком много попыток подряд.","Wait a minute, then try again. Your answers so far are still here.":"Подождите минуту и попробуйте снова. Ваши ответы сохранены.","This step didn't come out right.":"Этот шаг получился некорректно.","Try again and the interviewer will write it differently.":"Попробуйте снова, и интервьюер сформулирует иначе.","The interviewer is unavailable.":"Интервьюер сейчас недоступен.","The problem is on our side. Try again in a moment. Your answers so far are still here.":"Проблема на нашей стороне. Попробуйте через минуту. Ваши ответы сохранены.","Try again":"Попробовать снова","Back to the start":"Вернуться в начало","Couldn't load the candidates. Refresh the page to try again.":"Не удалось загрузить кандидатов. Обновите страницу и попробуйте снова.","Pick your congressional district to see who's running.":"Выберите избирательный округ, чтобы увидеть кандидатов.","No Senate or governor race in {state} this year.":"В этом году в {state} нет выборов в Сенат или губернатора.","Candidates for {state} aren't loaded yet.":"Кандидаты для {state} ещё не загружены.","Couldn't load this profile. Try again.":"Не удалось загрузить профиль. Попробуйте снова.","No public platform found yet.":"Публичная программа пока не найдена.","Where {name} stands":"Позиции {name}","Too few public positions to place on the scales.":"Недостаточно публичных позиций для отображения на шкалах.","This stance":"Эта позиция","You":"Вы","This link doesn't open.":"Эта ссылка не открывается.","It may have expired, or a character got lost when it was copied.":"Возможно, срок ссылки истёк или при копировании потерялся символ.","Find out where you actually stand":"Узнайте свою настоящую позицию"}
+};
+Object.entries(SYSTEM_I18N).forEach(([k,v])=>Object.assign(I18N[k],v));
+const BACKEND_I18N={
+es:{"We're at capacity right now.":"Ahora mismo estamos al límite de capacidad.","Try again a little later. Your answers so far are still here.":"Inténtalo de nuevo un poco más tarde. Tus respuestas siguen aquí.","We couldn't confirm you're a person.":"No pudimos confirmar que eres una persona.","Reload the page and try again.":"Recarga la página e inténtalo de nuevo.","This interview timed out.":"Esta entrevista ha caducado.","Start again: it takes a few minutes.":"Empieza de nuevo: son solo unos minutos.","Delete shared link":"Eliminar enlace compartido","Shared link deleted":"Enlace compartido eliminado","Couldn't delete the link. Try again.":"No se pudo eliminar el enlace. Inténtalo de nuevo."},
+pt:{"We're at capacity right now.":"Estamos no limite de capacidade agora.","Try again a little later. Your answers so far are still here.":"Tente de novo um pouco mais tarde. Suas respostas continuam aqui.","We couldn't confirm you're a person.":"Não conseguimos confirmar que você é uma pessoa.","Reload the page and try again.":"Recarregue a página e tente de novo.","This interview timed out.":"Esta entrevista expirou.","Start again: it takes a few minutes.":"Comece de novo: leva só alguns minutos.","Delete shared link":"Excluir link compartilhado","Shared link deleted":"Link compartilhado excluído","Couldn't delete the link. Try again.":"Não foi possível excluir o link. Tente de novo."},
+zh:{"We're at capacity right now.":"当前访问量已达上限。","Try again a little later. Your answers so far are still here.":"请稍后再试，你目前的回答仍在这里。","We couldn't confirm you're a person.":"我们无法确认你是真人。","Reload the page and try again.":"请刷新页面后重试。","This interview timed out.":"本次访谈已超时。","Start again: it takes a few minutes.":"请重新开始，只需几分钟。","Delete shared link":"删除分享链接","Shared link deleted":"分享链接已删除","Couldn't delete the link. Try again.":"无法删除链接，请重试。"},
+ru:{"We're at capacity right now.":"Сейчас мы на пределе нагрузки.","Try again a little later. Your answers so far are still here.":"Попробуйте чуть позже. Ваши ответы сохранены.","We couldn't confirm you're a person.":"Не удалось подтвердить, что вы человек.","Reload the page and try again.":"Обновите страницу и попробуйте снова.","This interview timed out.":"Время этого интервью истекло.","Start again: it takes a few minutes.":"Начните заново: это займёт несколько минут.","Delete shared link":"Удалить ссылку","Shared link deleted":"Ссылка удалена","Couldn't delete the link. Try again.":"Не удалось удалить ссылку. Попробуйте снова."}
+};
+Object.entries(BACKEND_I18N).forEach(([k,v])=>Object.assign(I18N[k],v));
+const DOMAIN_TX={
+es:{economy:["Economía","Decide el mercado","Dirige el Estado"],welfare:["Red de protección","Ayuda focalizada","Programas universales"],liberty:["Libertad personal","Elección individual","Normas comunitarias"],security:["Seguridad y privacidad","Primero la privacidad","Primero la seguridad"],immigration:["Inmigración","Puertas abiertas","Control estricto"],foreign:["Papel mundial","Mantenerse al margen","Liderar en el exterior"],energy:["Energía y clima","Barato ahora","Transición ahora"],tech:["Tecnología e IA","Dejarla avanzar","Regular pronto"],education:["Educación","Eligen los padres","Sistema público"],faith:["Fe y Estado","Estríctamente secular","Fe en la vida pública"]},
+pt:{economy:["Economia","O mercado decide","O Estado conduz"],welfare:["Proteção social","Ajuda direcionada","Programas universais"],liberty:["Liberdade pessoal","Escolha individual","Normas da comunidade"],security:["Segurança e privacidade","Privacidade primeiro","Segurança primeiro"],immigration:["Imigração","Portas abertas","Controle rígido"],foreign:["Papel global","Ficar de fora","Liderar no exterior"],energy:["Energia e clima","Barato agora","Transição agora"],tech:["Tecnologia e IA","Deixar avançar","Regular cedo"],education:["Educação","Pais escolhem","Sistema público"],faith:["Fé e Estado","Estritamente secular","Fé na vida pública"]},
+zh:{economy:["经济","市场决定","政府引导"],welfare:["社会保障","定向援助","普惠项目"],liberty:["个人自由","个人选择","社区规范"],security:["安全与隐私","隐私优先","安全优先"],immigration:["移民","开放大门","严格控制"],foreign:["全球角色","避免介入","海外领导"],energy:["能源与气候","眼前低价","立即转型"],tech:["科技与AI","自由发展","及早监管"],education:["教育","家长选择","公共体系"],faith:["宗教与国家","严格世俗","宗教参与公共生活"]},
+ru:{economy:["Экономика","Решает рынок","Направляет государство"],welfare:["Социальная поддержка","Адресная помощь","Всеобщие программы"],liberty:["Личная свобода","Личный выбор","Нормы сообщества"],security:["Безопасность и приватность","Сначала приватность","Сначала безопасность"],immigration:["Иммиграция","Открытые двери","Жёсткий контроль"],foreign:["Роль в мире","Не вмешиваться","Лидировать за рубежом"],energy:["Энергия и климат","Дешевле сейчас","Переход сейчас"],tech:["Технологии и ИИ","Дать развиваться","Регулировать заранее"],education:["Образование","Выбирают родители","Государственная система"],faith:["Вера и государство","Строго светское","Вера в общественной жизни"]}
+};
+const detectLang=()=>{try{const saved=localStorage.getItem(LANG_KEY);if(LANGUAGES[saved])return saved;}catch(e){}const n=(navigator.language||"en").slice(0,2);return LANGUAGES[n]?n:"en";};
+const fmt=(s,v={})=>String(s).replace(/\{(\w+)\}/g,(_,k)=>v[k]??"");
+const t=(key,v)=>fmt((I18N[S.lang]&&I18N[S.lang][key])||key,v);
+const domainText=d=>[d[0],...((DOMAIN_TX[S.lang]&&DOMAIN_TX[S.lang][d[0]])||d.slice(1))];
+const MAX_Q=20, CONF=0.7;
+const CODES={"Alabama":"al","Alaska":"ak","Arizona":"az","Arkansas":"ar","California":"ca","Colorado":"co","Connecticut":"ct","Delaware":"de","Florida":"fl","Georgia":"ga","Hawaii":"hi","Idaho":"id","Illinois":"il","Indiana":"in","Iowa":"ia","Kansas":"ks","Kentucky":"ky","Louisiana":"la","Maine":"me","Maryland":"md","Massachusetts":"ma","Michigan":"mi","Minnesota":"mn","Mississippi":"ms","Missouri":"mo","Montana":"mt","Nebraska":"ne","Nevada":"nv","New Hampshire":"nh","New Jersey":"nj","New Mexico":"nm","New York":"ny","North Carolina":"nc","North Dakota":"nd","Ohio":"oh","Oklahoma":"ok","Oregon":"or","Pennsylvania":"pa","Rhode Island":"ri","South Carolina":"sc","South Dakota":"sd","Tennessee":"tn","Texas":"tx","Utah":"ut","Vermont":"vt","Virginia":"va","Washington":"wa","West Virginia":"wv","Wisconsin":"wi","Wyoming":"wy","District of Columbia":"dc"};
+const NAMES=Object.fromEntries(Object.entries(CODES).map(([name,code])=>[code.toUpperCase(),name]));
+const DOMAINS=[["economy","Economy","Market decides","State steers"],["welfare","Safety net","Targeted help","Universal programs"],["liberty","Personal freedom","Individual choice","Community norms"],["security","Safety vs privacy","Privacy first","Security first"],["immigration","Immigration","Open doors","Tight control"],["foreign","World role","Stay out","Lead abroad"],["energy","Energy & climate","Cheap now","Transition now"],["tech","Tech & AI","Let it run","Regulate early"],["education","Education","Parents choose","Public system"],["faith","Faith & state","Strictly secular","Faith in public life"]];
+const TRADITIONS={
+ "Classical liberal":"⚖️","Libertarian":"🗽","Anarcho-capitalist":"₿","Minarchist":"🔑","Neoliberal":"📈","Fiscal conservative":"🧾","Georgist":"🏞️",
+ "Social democrat":"🤝","Democratic socialist":"🌹","Revolutionary socialist":"☭","Syndicalist":"🔧","Left libertarian":"🕊️","Progressive":"🌊","Green":"🌿","Eco-radical":"🔥",
+ "Christian democrat":"⛪","Traditional conservative":"🏛️","Paleoconservative":"🪓","National conservative":"🛡️","Integralist":"✝️","Authoritarian nationalist":"⛓️","Monarchist":"👑",
+ "Communitarian":"🏘️","Civic republican":"🏺","Agrarian localist":"🌾","Populist":"📣","Technocrat":"⚙️","Transhumanist":"🧬","Centrist liberal":"🎯"};
+const NO_RACE=["Indiana","Missouri","North Dakota","Utah","Washington","District of Columbia"];
+/* liberty mixes issues that pull candidates opposite ways (abortion vs guns), so candidate matching leaves it out */
+const MATCH_DOMAINS=DOMAINS.filter(d=>d[0]!=="liberty");
+const INTAKE=[
+  {k:"zip",q:"Which ZIP code do you vote in?",type:"zip"},
+  {k:"age",q:"How old are you?",type:"options",opts:["18–24","25–34","35–44","45–54","55–64","65+"],cols:3,skip:true},
+  {k:"gender",q:"Gender?",type:"options",opts:["Woman","Man","Non-binary","Prefer to self-describe"],cols:2,skip:true},
+  {k:"family",q:"Your household?",type:"options",opts:["Single, no kids","Partnered, no kids","Parent of young kids","Parent of teens or adult kids","Caring for a parent or relative"],icons:["🧍","💑","🧸","🎓","🫶"],skip:true},
+  {k:"job",q:"What do you do for work?",type:"input",ph:"nurse, software founder, retired teacher…",skip:true}
+];
+const KEY="vibevote:portrait", CONSENT_KEY="vibevote:consent:v1";
+
+const S={ctx:{},queue:[],state:null,answers:[],asked:0,progress:0,portrait:null,shareId:null,revoke:null,turnstile:"",lang:detectLang()};
+/* the interview itself lives on the server as an encrypted token; the browser only holds it and the answers not yet sent */
+const resetInterview=()=>{S.queue=[];S.state=null;S.answers=[];S.asked=0;S.progress=0;};
+const $=s=>document.querySelector(s);
+const el=(t,c,h)=>{const e=document.createElement(t);if(c)e.className=c;if(h!=null)e.innerHTML=h;return e;};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const mark=s=>esc(s).replace(/\*\*(.+?)\*\*/g,"<b>$1</b>");
+const nodash=t=>String(t??"").replace(/\s*[—–]\s*/g,", ").replace(/,\s*,/g,",");
+const para=(t,f=esc)=>f(nodash(t).replace(/\s+/g," ").trim());
+const toast=m=>{const t=$("#toast");t.textContent=m;t.classList.add("on");setTimeout(()=>t.classList.remove("on"),1800);};
+const reduced=matchMedia("(prefers-reduced-motion: reduce)").matches;
+const touch=matchMedia("(pointer: coarse)").matches;
+const termsPath=()=>S.lang==="en"?"/terms":`/terms-${S.lang}`;
+function localizeChrome(){
+  document.documentElement.lang=S.lang;const sel=$("#lang-select");if(sel)sel.value=S.lang;
+  $("#terms-link").textContent=t("Terms & privacy");$("#terms-link").href=termsPath();$("#credits-link").textContent=t("Photo credits");$("#vote-link").textContent=t("Official voter info on vote.gov ↗");$("#site-note").textContent=t("AI interpreted the interview and estimated candidate matches from public records. It can be wrong. This is a starting point, not voting advice.");
+}
+$("#lang-select").onchange=e=>{S.lang=LANGUAGES[e.target.value]?e.target.value:"en";try{localStorage.setItem(LANG_KEY,S.lang);}catch(_){}localizeChrome();location.reload();};
+function screen(node){
+  clearInterval(S.loaderTimer);$("#actions").innerHTML="";
+  const b=document.body.classList;b.toggle("home",node.classList.contains("intro"));b.toggle("done",node.classList.contains("result"));
+  const st=$("#stage");st.innerHTML="";st.append(node);window.scrollTo({top:0});
+  const f=node.querySelector("input,textarea,.opt,.chip");if(f&&!touch)f.focus({preventScroll:true});
+}
+/* ---- loading: the orb plus a line that changes while the AI works ---- */
+const LOADING={
+  first:["Reading what you told us","Setting the first scene","Picking dilemmas people really split on","Writing your first questions"],
+  next:["Reading your answers","Updating what we know","Finding what's still unclear","Writing the next scene"],
+  manifesto:["Reading everything you said","Finding the principle underneath","Weighing the trade-offs you accepted","Naming your stance","Matching states","Building your political fingerprint"],
+  shared:["Opening this stance"],profile:["Loading profile"],ballot:["Loading your ballot"]
+};
+function loader(kind,small=false){
+  const box=el("div",`loader${small?" sm":""}`);
+  box.innerHTML=`<div class="orb" aria-hidden="true"><i></i><i></i><i></i></div><p class="msg" aria-live="polite"><span></span></p>`;
+  const generic={es:"Cargando…",pt:"Carregando…",zh:"正在加载…",ru:"Загрузка…"};
+  const msgs=S.lang==="en"?LOADING[kind]:[generic[S.lang]],span=box.querySelector("span");let i=0;
+  const show=()=>{span.textContent=msgs[i++%msgs.length];span.classList.remove("in");void span.offsetWidth;span.classList.add("in");};
+  show();
+  if(msgs.length>1){clearInterval(S.loaderTimer);S.loaderTimer=setInterval(show,kind==="manifesto"?3200:2400);}
+  return box;
+}
+const glass=()=>el("div","glass");
+const flagImg=(state,cls="flag")=>CODES[state]?`<img class="${cls}" src="/flags/us-${CODES[state]}.png" alt="" loading="lazy">`:"";
+
+/* ---- persistence: this viewer's browser ---- */
+const store={
+  get(k){try{return JSON.parse(localStorage.getItem(k));}catch(e){return null;}},
+  set(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(e){}},
+  del(k){try{localStorage.removeItem(k);}catch(e){}}
+};
+
+const saveLocal=()=>store.set(KEY,{ctx:S.ctx,portrait:S.portrait,shareId:S.shareId,revoke:S.revoke});
+
+/* ---- server ---- */
+/* the ZIP code never leaves the browser; the server only needs the state */
+const serverCtx=()=>{const {state,age,gender,family,job}=S.ctx;return {state,age,gender,family,job};};
+/* one Turnstile check buys a short anonymous session; the AI endpoints answer only to a session */
+let sessionReady=null;
+const loadScript=src=>new Promise((res,rej)=>{const x=document.createElement("script");x.src=src;x.async=true;x.onload=res;x.onerror=()=>rej({code:"offline"});document.head.append(x);});
+async function turnstileToken(){
+  if(!S.turnstile)throw {code:"verify"};
+  if(S.turnstile==="dev")return "dev";
+  if(!window.turnstile)await loadScript("https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit");
+  return new Promise((res,rej)=>{
+    const box=$("#ts");box.innerHTML="";
+    const id=window.turnstile.render(box,{sitekey:S.turnstile,appearance:"interaction-only",
+      callback:tok=>{res(tok);setTimeout(()=>{try{window.turnstile.remove(id);}catch(e){}},0);},
+      "error-callback":()=>rej({code:"verify"}),"timeout-callback":()=>rej({code:"verify"})});
+  });
+}
+function ensureSession(force){
+  if(force||!sessionReady)sessionReady=(async()=>{
+    const token=await turnstileToken();
+    let r;try{r=await fetch("/api/session",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({token})});}catch(e){throw {code:"offline"};}
+    if(!r.ok)throw {code:r.status===429?"rate_limited":"verify"};
+  })().catch(e=>{sessionReady=null;throw e;});
+  return sessionReady;
+}
+async function api(path,body,retried){
+  const ai=path==="/api/interview"||path==="/api/manifesto";
+  if(ai)await ensureSession();
+  let r;
+  try{r=await fetch(path,{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify(body)});}
+  catch(e){throw {code:"offline"};}
+  const data=await r.json().catch(()=>null);
+  if(r.status===401&&ai&&!retried){await ensureSession(true);return api(path,body,true);}
+  if(!r.ok){
+    const err=data&&data.error;
+    throw {code:r.status===403&&err==="region"?"region":r.status===429?"rate_limited":r.status===422?"refused":r.status===503?"busy":r.status===401||err==="turnstile"?"verify":r.status===400&&data&&data.field==="state"?"expired":"upstream_error"};
+  }
+  return data;
+}
+const ICONS={
+  offline:`<svg viewBox="0 0 24 24"><path d="M2 8.8a15 15 0 0 1 20 0M5.5 12.3a10 10 0 0 1 13 0M9 15.8a5 5 0 0 1 6 0"/><path d="M12 19.5h.01"/><path d="M3 3l18 18"/></svg>`,
+  wait:`<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>`,
+  retry:`<svg viewBox="0 0 24 24"><path d="M20 12a8 8 0 1 1-2.34-5.66"/><path d="M20 4v5h-5"/></svg>`,
+  server:`<svg viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="7" rx="2"/><rect x="4" y="13" width="16" height="7" rx="2"/><path d="M8 7.5h.01M8 16.5h.01"/></svg>`,
+  globe:`<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9M12 3c-2.5 2.7-3.8 5.7-3.8 9s1.3 6.3 3.8 9"/></svg>`
+};
+const ERRORS={
+  offline:["offline","You're offline.","Check your connection, then try again. Your answers so far are still here."],
+  rate_limited:["wait","Too many tries in a row.","Wait a minute, then try again. Your answers so far are still here."],
+  refused:["retry","This step didn't come out right.","Try again and the interviewer will write it differently."],
+  upstream_error:["server","The interviewer is unavailable.","The problem is on our side. Try again in a moment. Your answers so far are still here."],
+  busy:["wait","We're at capacity right now.","Try again a little later. Your answers so far are still here."],
+  verify:["retry","We couldn't confirm you're a person.","Reload the page and try again."],
+  expired:["wait","This interview timed out.","Start again: it takes a few minutes."]
+};
+function error(retry,e){
+  if(e&&e.code==="region")return blocked();
+  $("#prog").hidden=true;
+  const [icon,title,body]=ERRORS[e&&e.code]||ERRORS.upstream_error;
+  const g=glass();g.classList.add("oops");
+  g.innerHTML=`<div class="oops-icon" aria-hidden="true">${ICONS[icon]}</div><h2>${t(title)}</h2><p class="lede">${t(body)}</p>`;
+  /* a timed-out interview can't be resumed: the same button starts a fresh one with the details already given */
+  const b=el("button","btn",t("Try again"));b.onclick=e&&e.code==="expired"?()=>{resetInterview();nextQuestion();}:retry;
+  const home=el("button","skip",t("Back to the start"));home.type="button";home.onclick=()=>intro();
+  g.append(b,home);screen(g);
+}
+function blocked(){
+  $("#prog").hidden=true;
+  const g=glass();g.classList.add("oops");
+  g.innerHTML=`<div class="oops-icon" aria-hidden="true">${ICONS.globe}</div><h2>VibeVote is only open in the United States.</h2><p class="lede">It's built around US elections, so the interview and shared results are available to visitors in the US.</p>`;
+  screen(g);
+}
+
+/* ---- consent, asked once per browser before the first interview ---- */
+function withConsent(next){
+  if(store.get(CONSENT_KEY))return next();
+  const d=el("dialog","consent");d.setAttribute("aria-labelledby","consent-title");
+  d.innerHTML=`<div class="inner"><div class="top"></div>
+<div class="head"><h2 id="consent-title">${t("Before you start")}</h2>
+<p>${t("You're 18 or older, you live in the United States, and you're taking the interview for yourself. The questions, your analysis and the candidate matches are written by AI and can be wrong, so treat them as a starting point, not as voting advice.")}</p>
+<p>${t("VibeVote is independent of every party and campaign, keeps no copy of your answers and comes with no warranty.")} <a href="${termsPath()}" target="_blank">${t("Terms & privacy")}</a> · <a href="https://vote.gov" target="_blank" rel="noopener">vote.gov</a>.</p></div>
+<div class="actions">
+<label class="check"><input type="checkbox"><span class="box" aria-hidden="true"></span><span>${t("I'm 18 or older and live in the US.")}</span></label>
+<label class="check"><input type="checkbox"><span class="box" aria-hidden="true"></span><span>${t("I agree to the terms and will use VibeVote for myself.")}</span></label>
+<button class="btn agree" type="button" disabled>${t("Agree and start")}</button>
+<button class="later" type="button">${t("Not now")}</button>
+</div>
+</div>`;
+  const boxes=[...d.querySelectorAll("input[type=checkbox]")],agree=d.querySelector(".agree");
+  boxes.forEach(b=>b.addEventListener("change",()=>{agree.disabled=!boxes.every(x=>x.checked);}));
+  agree.onclick=()=>{store.set(CONSENT_KEY,{at:new Date().toISOString()});d.close();next();};
+  d.querySelector(".later").onclick=()=>d.close();
+  d.addEventListener("close",()=>d.remove());
+  document.body.append(d);d.showModal();
+}
+
+/* ---- intro ---- */
+function intro(){
+  const saved=store.get(KEY);
+  resetInterview();
+  if(saved&&saved.portrait){S.ctx=saved.ctx||{};S.portrait=saved.portrait;S.shareId=saved.shareId||null;S.revoke=saved.revoke||null;return renderResult(S.portrait);}
+  const g=glass();g.classList.add("intro");
+  g.innerHTML=`<h1>${t("Find out where you actually stand.")}</h1><p class="lede">${t("See where in the US, and who on your ballot, aligns with your views.")}</p>`;
+  const b=el("button","btn",t("Start the interview"));b.onclick=()=>withConsent(()=>intake(0));g.append(b);
+  screen(g);$("#hint").textContent="";$("#prog").hidden=true;
+}
+
+/* ---- intake: a click marks the choice, Continue moves on ---- */
+const ARROW=`<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>`;
+function nextButton(fn){
+  const b=el("button","btn next",`<span>${t("Continue")}</span>${ARROW}`);b.type="button";b.disabled=true;
+  b.onclick=()=>{if(!b.disabled)fn();};
+  return b;
+}
+/* items: strings or {label, sub, icon}; onPick gets the index */
+function optionGrid(items,onPick,current=-1,cols=1){
+  const box=el("div",`opts${cols>1?" c"+cols:""}`);
+  const choose=k=>buttons.forEach((b,j)=>{b.classList.toggle("sel",j===k);b.setAttribute("aria-pressed",String(j===k));});
+  const buttons=items.map((it,j)=>{
+    const {label,sub,icon}=typeof it==="string"?{label:it}:it;
+    const b=el("button","opt",`<span class="lbl">${icon||""}<span class="txt">${esc(label)}${sub?`<small>${esc(sub)}</small>`:""}</span></span><i aria-hidden="true"></i>`);
+    b.type="button";b.onclick=()=>{choose(j);onPick(j);};
+    box.append(b);return b;
+  });
+  choose(current);
+  return box;
+}
+const zipShards={}, houseCache={};
+async function lookupZip(zip){
+  const d=zip[0];
+  if(!zipShards[d]){const r=await fetch(`/data/zip/${d}.json?v=__ZIP_VERSION__`);if(!r.ok)throw new Error(String(r.status));zipShards[d]=await r.json();}
+  const sh=zipShards[d];
+  const hit=sh.zips[zip]??sh.prefixes[zip.slice(0,3)];
+  const codes=hit?[].concat(hit):[];
+  const cd=sh.cd&&sh.cd[zip];
+  return {states:codes.map(c=>NAMES[c]).filter(Boolean),elsewhere:codes.length>0&&codes.every(c=>!NAMES[c]),districts:cd?[].concat(cd):[]};
+}
+async function loadHouse(state){
+  const code=(CODES[state]||"").toUpperCase();
+  if(!code)return {};
+  if(!houseCache[code]){
+    try{const r=await fetch(`/api/seats?state=${code}`);if(!r.ok)return {};houseCache[code]=Object.fromEntries(((await r.json()).seats||[]).map(x=>[x.id,x]));}
+    catch(e){return {};}
+  }
+  return houseCache[code];
+}
+const seatLabel=d=>{const s=d.split("-")[1];return s==="AL"?t("At-large"):s==="DEL"?t("Delegate"):t("District {number}",{number:s});};
+const seatOption=(d,seats)=>{const inc=seats[d]?.incumbent;return `${seatLabel(d)}${inc?` · ${inc}`:""}`;};
+/* prev: what this step saved last time, to restore the choice after Back */
+function zipField(done,prev={}){
+  const wrap=el("div","picker");
+  wrap.innerHTML=`<div class="zipbox"><input type="text" inputmode="numeric" autocomplete="postal-code" maxlength="5" placeholder="${t("ZIP code")}" aria-label="${t("ZIP code")}" enterkeyhint="next"><span class="zipstate" hidden></span></div><div class="zipres" aria-live="polite"></div>`;
+  const inp=wrap.querySelector("input"),badge=wrap.querySelector(".zipstate"),res=wrap.querySelector(".zipres");
+  let found=null,seq=0;
+  const submit=()=>{if(found)done(inp.value,found.state,found.districts);};
+  const next=nextButton(submit);wrap.append(next);
+  const ready=(state,districts)=>{found={state,districts};next.disabled=false;};
+  const unready=()=>{found=null;next.disabled=true;};
+  const say=t=>{res.innerHTML=`<p class="zipmsg">${t}</p>`;};
+  const badgeFor=s=>{badge.innerHTML=s?`${flagImg(s,"flag sm").replace(' loading="lazy"',"")}<span>${esc(s)}</span>`:"";badge.hidden=!s;};
+  const chooseSeat=async(state,zipSeats,box,mine)=>{
+    box.innerHTML="";
+    const seats=await loadHouse(state);
+    if(mine!==seq)return;
+    const all=Object.keys(seats),known=zipSeats.filter(x=>seats[x]);
+    if(all.length<=1)return ready(state,all);
+    if(known.length===1)return ready(state,known);
+    const was=prev.zip===inp.value&&prev.state===state?prev.districts||[]:null;
+    if(known.length>1){
+      const items=[...known.map(x=>({label:seatLabel(x),sub:seats[x].incumbent?`${t("Incumbent")} · ${seats[x].incumbent}`:""})),t("Not sure")];
+      const pickSeat=j=>ready(state,j<known.length?[known[j]]:known);
+      const cur=!was?-1:was.length===1?known.indexOf(was[0]):known.length;
+      box.append(optionGrid(items,pickSeat,cur));
+      if(cur>=0)pickSeat(cur);
+      return;
+    }
+    const sel=el("select","seatpick");
+    sel.setAttribute("aria-label",t("Congressional district"));
+    sel.innerHTML=`<option value="">${t("Congressional district")}</option>${all.map(x=>`<option value="${esc(x)}">${esc(seatOption(x,seats))}</option>`).join("")}<option value="?">${t("Not sure")}</option>`;
+    sel.onchange=()=>sel.value?ready(state,sel.value==="?"?[]:[sel.value]):unready();
+    if(was)sel.value=was.length===1&&seats[was[0]]?was[0]:"?";
+    sel.onchange();
+    box.append(sel);
+  };
+  const check=async()=>{
+    const zip=inp.value.replace(/\D/g,"").slice(0,5);
+    if(inp.value!==zip)inp.value=zip;
+    const mine=++seq;
+    unready();badgeFor("");res.innerHTML="";
+    if(zip.length<5)return;
+    let r;
+    try{r=await lookupZip(zip);}catch(e){if(mine===seq)say(t("Couldn't check this ZIP code. Try again."));return;}
+    if(mine!==seq)return;
+    if(r.elsewhere)return say(t("VibeVote covers the 50 states and DC."));
+    if(!r.states.length)return say(t("We couldn't find this ZIP code."));
+    const box=el("div","seatbox");
+    if(r.states.length===1){badgeFor(r.states[0]);res.append(box);return chooseSeat(r.states[0],r.districts,box,mine);}
+    /* the ZIP crosses a state line: the voter picks the state, then the district if needed */
+    const pickState=j=>{const s=r.states[j],code=(CODES[s]||"").toUpperCase();unready();chooseSeat(s,r.districts.filter(x=>x.startsWith(code+"-")),box,++seq);};
+    const cur=prev.zip===zip?r.states.indexOf(prev.state):-1;
+    res.append(optionGrid(r.states.map(s=>({label:s,icon:flagImg(s,"flag sm")})),pickState,cur,2),box);
+    if(cur>=0)pickState(cur);
+  };
+  inp.addEventListener("input",check);
+  inp.addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();submit();}});
+  if(prev.zip){inp.value=prev.zip;check();}
+  return wrap;
+}
+function textField(ph,done,value){
+  const w=el("div","picker");
+  const inp=el("input");inp.type="text";inp.placeholder=ph;inp.maxLength=80;inp.enterKeyHint="next";inp.setAttribute("aria-label",ph);inp.value=value||"";
+  const submit=()=>{const v=inp.value.trim();if(v)done(v);};
+  const next=nextButton(submit);
+  const sync=()=>{next.disabled=!inp.value.trim();};
+  inp.addEventListener("input",sync);
+  inp.addEventListener("keydown",e=>{if(e.key==="Enter"){e.preventDefault();submit();}});
+  sync();w.append(inp,next);
+  return w;
+}
+function intake(i){
+  if(i>=INTAKE.length)return nextQuestion();
+  const s=INTAKE[i];$("#hint").textContent="";$("#prog").hidden=true;
+  const g=glass();
+  const stepLabels={es:`Paso ${i+1} de ${INTAKE.length}`,pt:`Etapa ${i+1} de ${INTAKE.length}`,zh:`第 ${i+1} 步，共 ${INTAKE.length} 步`,ru:`Шаг ${i+1} из ${INTAKE.length}`};
+  const head=el("div","steps",`<button class="back" type="button"${i?"":" hidden"}>← ${t("Back")}</button><span class="count">${stepLabels[S.lang]||`Step ${i+1} of ${INTAKE.length}`}</span><span class="segs">${INTAKE.map((_,j)=>`<i class="${j<=i?"on":""}"></i>`).join("")}</span>`);
+  head.querySelector(".back").onclick=()=>intake(i-1);
+  const ask=el("div","ask");ask.append(head,el("div","q step",para(t(s.q))));
+  const w=el("div","widget"),qa=el("div","qa");qa.append(ask,w);g.append(qa);
+  const go=v=>{S.ctx[s.k]=v;intake(i+1);};
+  if(s.type==="zip")w.append(zipField((zip,state,districts)=>{Object.assign(S.ctx,{zip,state,districts});intake(i+1);},S.ctx));
+  else if(s.type==="input")w.append(textField(t(s.ph),go,S.ctx[s.k]));
+  else{
+    let v=s.opts.includes(S.ctx[s.k])?S.ctx[s.k]:null;
+    const next=nextButton(()=>go(v));next.disabled=v==null;
+    const items=s.opts.map((o,j)=>({label:t(o),icon:s.icons?`<em class="emo" aria-hidden="true">${s.icons[j]}</em>`:""}));
+    w.append(optionGrid(items,j=>{v=s.opts[j];next.disabled=false;},s.opts.indexOf(v),s.cols),next);
+  }
+  if(s.skip){const k=el("button","skip",t("Skip"));k.type="button";k.onclick=()=>go("");w.append(k);}
+  screen(g);
+}
+
+/* ---- adaptive interview: the server scores every answer so far and writes the next few questions ---- */
+function progress(){$("#prog").hidden=false;$("#bar").style.width=Math.max(4,Math.round(95*(S.progress||0)))+"%";}
+
+/* the server scores the answers, decides what still needs asking and says when the interview is done */
+async function nextQuestion(){
+  if(S.queue.length){progress();return renderQuestion(S.queue.shift());}
+  if(S.asked)progress();else $("#prog").hidden=true;
+  const g=glass();g.append(loader(S.asked?"next":"first"));screen(g);
+  try{
+    const r=await api("/api/interview",S.state?{state:S.state,answers:S.answers}:{ctx:serverCtx(),locale:S.lang});
+    if(!r||!r.state)throw {code:"refused"};
+    S.state=r.state;S.answers=[];S.progress=r.progress||0;
+    if(r.done)return finish();
+    const qs=(Array.isArray(r.questions)?r.questions:[]).map(fitQuestion).filter(Boolean);
+    if(!qs.length)throw {code:"refused"};
+    S.queue=qs;
+    progress();renderQuestion(S.queue.shift());
+  }catch(e){error(()=>nextQuestion(),e);}
+}
+function fitQuestion(q){
+  if(!q||typeof q.prompt!=="string"||!q.prompt.trim())return null;
+  if(!DOMAINS.some(d=>d[0]===q.domain))q.domain=DOMAINS[0][0];
+  const opts=Array.isArray(q.options)?q.options.filter(o=>typeof o==="string"&&o.trim()):[];
+  if(q.type==="slider"&&q.left&&q.right)return q;
+  if(opts.length>=2){q.options=opts.slice(0,4);q.type=q.options.length===2?"either":"options";return q;}
+  if(q.left&&q.right){q.type="slider";return q;}
+  q.type="text";return q;
+}
+function renderQuestion(q){
+  const g=glass(),qa=el("div","qa"),w=el("div","widget");qa.append(el("div","q",para(q.prompt)),w);g.append(qa);
+  const answer=reply=>{S.answers.push({id:q.id,...reply});S.asked++;nextQuestion();};
+  if(q.type==="options"||q.type==="either"){
+    const box=el("div",q.type==="either"?"either":"widget");
+    (q.options||[]).slice(0,q.type==="either"?2:4).forEach((o,i)=>{const c=el("button","chip",esc(nodash(o)));c.type="button";c.onclick=()=>answer({option:i});box.append(c);});
+    w.append(box);
+    const own=el("button","skip",t("Say it in my own words"));own.type="button";own.onclick=()=>{box.remove();own.remove();w.append(textRow(v=>answer({text:v})));};w.append(own);
+  }else if(q.type==="slider"){
+    const s=el("div","slider");
+    s.innerHTML=`<div class="ends"><span>${esc(nodash(q.left))}</span><span style="text-align:right">${esc(nodash(q.right))}</span></div><div class="temp"><div class="track"></div><input type="range" min="0" max="100" value="50" aria-label="${esc(q.left)} to ${esc(q.right)}"></div>`;
+    const inp=s.querySelector("input");if([q.left,q.right].some(t=>String(t).split(/\s+/).length>3))s.querySelector(".ends").classList.add("long");
+    const tint=()=>{const v=+inp.value;const c=v<50?`color-mix(in srgb, var(--wine) ${100-v*2}%, #8a8a92)`:`color-mix(in srgb, var(--royal) ${(v-50)*2}%, #8a8a92)`;inp.style.setProperty("--c",c);};tint();inp.addEventListener("input",tint);
+    const ok=el("button","btn",t("That's my answer"));ok.onclick=()=>answer({value:+inp.value});
+    s.append(ok);w.append(s);
+  }else w.append(textRow(v=>answer({text:v})));
+  screen(g);
+}
+function textRow(answer){
+  const r=el("div","widget");const ta=el("textarea");ta.placeholder=t("Type your answer");ta.maxLength=500;const b=el("button","btn",t("That's my answer"));
+  const go=()=>{const v=ta.value.trim();if(v)answer(v);};b.onclick=go;ta.addEventListener("keydown",e=>{if(e.key==="Enter"&&(e.metaKey||e.ctrlKey))go();});
+  r.append(ta,b);return r;
+}
+
+/* ---- manifesto ---- */
+async function finish(){
+  $("#bar").style.width="100%";$("#hint").textContent="";
+  const g=glass();g.append(loader("manifesto"));screen(g);
+  try{
+    const p=await api("/api/manifesto",{state:S.state});
+    if(!p||!p.title||!p.manifesto)throw {code:"refused"};
+    S.portrait=p;S.shareId=null;S.revoke=null;resetInterview();
+    store.set(KEY,{ctx:S.ctx,portrait:p});
+    renderResult(p);
+  }catch(e){error(()=>finish(),e);}
+}
+function renderResult(p,shared=false){
+  const c=S.ctx;
+  const trads=(p.traditions||[]).slice(0,3);
+  const seat=(c.districts||[]).length===1?` · ${seatLabel(c.districts[0])}`:"";
+  const wrap=el("div","result");
+  const card=el("article","card");
+  card.innerHTML=`<div class="card-head"><div class="hero-copy"><div class="over">${flagImg(c.state,"flag xs")}<span>${shared?`${t("A stance from")} `:""}${esc(c.state)}${esc(seat)}</span></div><h2>${esc(nodash(p.title))}</h2><p class="hero-hook">${esc(identityHook(p))}</p><div class="hero-actions"></div></div></div>`;
+  const context=el("section","context-grid");
+  context.innerHTML=`<div class="context-card"><h3>${t("Closest political traditions")}</h3><p class="section-note">${t("Overlapping influences, not party labels.")}</p>${trads.map(x=>`<div class="trow"><em>${TRADITIONS[x.name]||"◆"}</em><div class="nm">${esc(x.name)}${x.why?`<span class="why">${para(x.why)}</span>`:""}</div><span class="pct">${esc(x.pct)}%</span></div>`).join("")}</div>
+<div class="context-card"><h3>${t("Places with a similar mix")}</h3><p class="section-note">${t("An AI analogy based on political culture, not polling data.")}</p>${(p.states||[]).slice(0,3).map(s=>`<div class="trow">${flagImg(s.name)}<div class="nm">${esc(s.name)}${s.why?`<span class="why">${para(s.why)}</span>`:""}</div><span class="pct">${esc(s.pct)}%</span></div>`).join("")}</div>`;
+  const insight=el("section","insight",`<p class="eyebrow">${t("Your defining tension")}</p><p>${esc(definingTension(p))}</p>`);
+  const fingerprint=politicalFingerprint(p);
+  const ballot=el("section","ballot");renderBallot(ballot,p,shared);
+  const act=el("button",shared?"btn primary":"pill",shared?t("Find my stance"):t("Start over"));act.type="button";
+  act.onclick=shared
+    ?()=>{history.pushState(null,"","/");S.ctx={};S.shareId=null;intro();}
+    :()=>{store.del(KEY);S.ctx={};S.portrait=null;S.shareId=null;S.revoke=null;intro();};
+  const heroActions=card.querySelector(".hero-actions");
+  if(shared)heroActions.append(act,shareMenu(p,t("Share this stance"),false));
+  else heroActions.append(shareMenu(p,t("Share my stance"),true),act);
+  wrap.append(card,insight,fingerprint,context,ballot);
+  screen(wrap);$("#prog").hidden=true;$("#hint").textContent="";
+}
+
+/* ---- sharing: the link is created on the first tap and reused after ---- */
+const shareText=p=>`${identityHook(p)} My stance: ${nodash(p.title)}. Where do you stand?`;
+const SHARE_TARGETS=[
+  ["X",(u,t)=>`https://x.com/intent/post?text=${t}&url=${u}`],
+  ["Facebook",u=>`https://www.facebook.com/sharer/sharer.php?u=${u}`],
+  ["Threads",(u,t)=>`https://www.threads.net/intent/post?text=${t}%20${u}`],
+  ["Bluesky",(u,t)=>`https://bsky.app/intent/compose?text=${t}%20${u}`],
+  ["Reddit",(u,t)=>`https://www.reddit.com/submit?url=${u}&title=${t}`],
+  ["WhatsApp",(u,t)=>`https://wa.me/?text=${t}%20${u}`],
+  ["Email",(u,t)=>`mailto:?subject=${t}&body=${u}`]
+];
+async function ensureLink(p){
+  if(!S.shareId){
+    /* the link preview card goes up with the result, so the link looks right the moment it is pasted */
+    const fd=new FormData();
+    fd.append("record",JSON.stringify({state:S.ctx.state,districts:S.ctx.districts||[],locale:S.lang,portrait:p}));
+    try{fd.append("card",await cardBlob(p,"og"),"card.jpg");}catch(e){}
+    let r;
+    try{r=await fetch("/api/results",{method:"POST",body:fd});}catch(e){throw {code:"offline"};}
+    const data=await r.json().catch(()=>null);
+    if(!r.ok||!data||!data.id)throw {code:r.status===429?"rate_limited":"upstream_error"};
+    S.shareId=data.id;S.revoke=data.revoke||null;saveLocal();
+  }
+  return `${location.origin}/r/${S.shareId}`;
+}
+const linkFailed=e=>toast(e&&e.code==="rate_limited"?"Too many links in a row. Try again in a minute.":"Couldn't create the link. Try again.");
+function shareMenu(p,label="Share",primary=false){
+  const menu=el("details","menu",`<summary class="pill${primary?" primary":""}">${esc(label)}</summary><div class="menu-list"></div>`);
+  const list=menu.querySelector(".menu-list");
+  const item=(label,fn)=>{const b=el("button",null,label);b.type="button";b.onclick=async()=>{menu.removeAttribute("open");b.disabled=true;try{await fn();}finally{b.disabled=false;}};list.append(b);};
+  if(touch&&navigator.share)item(t("Share…"),async()=>{try{const url=await ensureLink(p);await navigator.share({title:shareText(p),url}).catch(()=>{});}catch(e){linkFailed(e);}});
+  item(t("Copy link"),async()=>{
+    let url;try{url=await ensureLink(p);}catch(e){return linkFailed(e);}
+    try{await navigator.clipboard.writeText(url);toast(t("Link copied"));}catch(e){prompt(t("Copy link"),url);}
+  });
+  item(t("Save card"),()=>shareCard(p));
+  item(t("Save full result"),()=>shareImage(p));
+  SHARE_TARGETS.forEach(([name,make])=>item(name,async()=>{
+    /* the tab opens on the click itself, before the wait, so popup blockers let it through */
+    const w=name==="Email"?null:window.open("","_blank");
+    try{const url=await ensureLink(p);const target=make(encodeURIComponent(url),encodeURIComponent(shareText(p)));if(w)w.location.href=target;else location.href=target;}
+    catch(e){if(w)w.close();linkFailed(e);}
+  }));
+  /* whoever made the link can take it down: the token that proves it never left this browser */
+  const del=el("button",null,t("Delete shared link"));del.type="button";del.hidden=true;
+  del.onclick=async()=>{
+    menu.removeAttribute("open");del.disabled=true;
+    try{
+      const r=await fetch(`/api/results/${S.shareId}`,{method:"DELETE",headers:{"x-revoke-token":S.revoke}});
+      if(r.ok||r.status===404){S.shareId=null;S.revoke=null;saveLocal();toast(t("Shared link deleted"));}
+      else toast(t("Couldn't delete the link. Try again."));
+    }catch(e){toast(t("Couldn't delete the link. Try again."));}
+    finally{del.disabled=false;}
+  };
+  list.append(del);
+  menu.addEventListener("toggle",()=>{del.hidden=!(S.shareId&&S.revoke);});
+  document.addEventListener("click",e=>{if(!menu.contains(e.target))menu.removeAttribute("open");});
+  return menu;
+}
+async function openShared(id){
+  const g=glass();g.append(loader("shared"));screen(g);
+  try{
+    const r=await fetch(`/api/results/${id}`);
+    if(r.status===403)return blocked();
+    if(!r.ok)throw new Error(String(r.status));
+    const d=await r.json();
+    let chosen=false;try{chosen=!!LANGUAGES[localStorage.getItem(LANG_KEY)];}catch(_){}
+    if(!chosen&&LANGUAGES[d.locale]){S.lang=d.locale;localizeChrome();}
+    S.ctx={state:d.state,districts:Array.isArray(d.districts)?d.districts:[]};S.portrait=d.portrait;S.shareId=id;S.revoke=null;renderResult(d.portrait,true);
+  }catch(e){
+    const x=glass();x.innerHTML=`<h2>${t("This link doesn't open.")}</h2><p class="lede">${t("It may have expired, or a character got lost when it was copied.")}</p>`;
+    const b=el("button","btn",t("Find out where you actually stand"));b.onclick=()=>{history.pushState(null,"","/");intro();};x.append(b);screen(x);
+  }
+}
+
+/* ---- ballot: candidates collected ahead of time, matched on the person's positions ---- */
+/* "complete-races": a race shows photos only when every candidate in it has one; "any": every licensed photo */
+const PHOTO_MODE="complete-races";
+const ballotCache={};
+async function loadBallot(state,districts){
+  const code=(CODES[state]||"").toUpperCase();
+  const d=[...districts].sort().join(",");
+  const key=`${code}|${d}`;
+  if(!ballotCache[key]){
+    const r=await fetch(`/api/ballot?state=${code}${d?`&d=${encodeURIComponent(d)}`:""}`);
+    if(!r.ok)throw new Error(String(r.status));
+    ballotCache[key]=(await r.json()).races||[];
+  }
+  return ballotCache[key];
+}
+/* Every candidate with at least one comparable topic gets a match. Ranking blends in PRIOR topics' worth of
+   an unknown 50%, counted in topics rather than priority weights, so a thin record doesn't outrank a long one. */
+const PRIOR=2, FULL_TOPICS=3, CLEAR_LEAD=.03;
+const lower=t=>t.replace(/^\w/,c=>c.toLowerCase());
+function matchBallot(p,races){
+  const pri=new Set(p.priorities||[]);const pos=p.positions||{};
+  const clamp=v=>Math.max(0,Math.min(100,v));
+  return races.map(rc=>{
+    const cands=(rc.candidates||[]).map(k=>{
+      let sum=0,wsum=0;const near=[],far=[],topics=[];
+      MATCH_DOMAINS.forEach(d=>{const a=pos[d[0]],b=k.positions?.[d[0]];if(typeof a!=="number"||typeof b!=="number")return;const w=pri.has(d[0])?2:1;const dist=Math.abs(a-b)/100;sum+=w*(1-dist);wsum+=w;topics.push({d,you:clamp(a),them:clamp(b)});const label=domainText(d)[1];if(dist<.25)near.push(lower(label));else if(dist>.5)far.push(lower(label));});
+      const n=topics.length,sim=n?sum/wsum:0;
+      return {...k,n,pct:n?Math.round(100*sim):null,rank:n?(sim*n+PRIOR*.5)/(n+PRIOR):-1,near,far,topics};
+    }).sort((a,b)=>b.rank-a.rank||b.n-a.n);
+    const known=cands.filter(k=>k.n>0);
+    if(known.length>=2&&known[0].rank-known[1].rank>=CLEAR_LEAD)known[0].closest=true;
+    return {...rc,candidates:cands};
+  });
+}
+const initials=n=>{const w=String(n||"").split(/\s+/).filter(x=>/^[A-Za-z]/.test(x));return ((w[0]||"")[0]||"").concat(w.length>1?w[w.length-1][0]:"").toUpperCase();};
+/* userpic colors for candidates without a free photo: no reds or blues, so no party reads into them */
+const AVA=[["#0f8a80","#0b6e6c"],["#7656e0","#5a3dc0"],["#c7771a","#a85f12"],["#3f8f4a","#2f7340"],["#5f6e84","#465366"],["#9b4fbf","#7a3a9c"]];
+const avaColors=n=>{let h=0;for(const ch of String(n))h=(h*31+ch.charCodeAt(0))>>>0;return AVA[h%AVA.length];};
+function partyBadge(party){
+  const name=String(party||"Independent");
+  const key=name.toLowerCase();
+  const cls=key.includes("democrat")?"dem":key.includes("republican")?"rep":"other";
+  const letter=cls==="dem"?"D":cls==="rep"?"R":"I";
+  const icon=`<svg class="party-icon" viewBox="0 0 18 18" aria-hidden="true"><circle cx="9" cy="9" r="9"/><text x="9" y="9.2">${letter}</text></svg>`;
+  return `<span class="party-badge ${cls}">${icon}${esc(t(name))}</span>`;
+}
+function avatar(k){
+  if(k.photo)return `<img class="ava" src="${esc(k.photo)}" alt="" loading="lazy">`;
+  const [a,b]=avaColors(k.name);
+  return `<div class="ava ini" style="background:linear-gradient(135deg,${a},${b})" aria-hidden="true">${esc(initials(k.name))}</div>`;
+}
+function candidateCard(k,shared,rank=0){
+  const thin=k.n>0&&k.n<FULL_TOPICS;
+  const rankClass=rank===0?"rank-1":rank===1?"rank-2":"rank-rest";
+  const topicTags=items=>`<span class="match-topics">${items.map(x=>`<span class="match-topic">${esc(x)}</span>`).join("")}</span>`;
+  const notes=(k.closest?`<div class="match-kicker"><span aria-hidden="true">★</span> ${t("Closest match")}</div>`:"")
+    +(!k.n?`<div class="match-empty">${t("No comparable public positions yet")}</div>`
+      :(k.near.length?`<div class="match-line agree"><span class="match-label"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="8"/><path d="M4.5 8.2 7 10.5l4.6-5.2"/></svg>${t("Common ground")}</span>${topicTags(k.near.slice(0,3))}</div>`:"")
+       +(k.far.length?`<div class="match-line gap"><span class="match-label"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="8"/><path d="M4 6h8m0 0-2-2m2 2-2 2M12 10H4m0 0 2-2m-2 2 2 2"/></svg>${t("Biggest gaps")}</span>${topicTags(k.far.slice(0,2))}</div>`:"")
+       +(thin?`<div class="match-basis">${t("Limited comparison")} · ${k.n}</div>`:""));
+  const noteBox=`<div class="match-notes">${notes||`<div class="match-empty">${t("Open to see the full comparison")}</div>`}</div>`;
+  return `<div class="cand ${rankClass}${thin?" thin":""}" role="button" tabindex="0" data-cand="${esc(k.id)}"><div class="pic" style="--p:${k.pct??0}">${avatar(k)}</div><div><div class="nm">${esc(k.name)}</div><div class="meta-row">${partyBadge(k.party)}${k.incumbent?`<span class="incumbent">${t("Incumbent")}</span>`:""}</div></div><div class="score${k.pct==null?" na":""}">${k.pct==null?"—":(thin?"~":"")+k.pct+"%"}</div>${noteBox}</div>`;
+}
+function raceHeading(rc){
+  const parts=String(rc.title||"Race").split(/\s*[·—]\s*/).filter(Boolean);
+  const office=parts.shift()||"Race";
+  const details=parts.map(x=>`<span class="race-detail">${esc(t(x))}</span>`).join("");
+  const status=rc.status&&rc.status!=="Nominees set"?`<span class="race-status">${esc(t(rc.status))}</span>`:"";
+  return `<div class="race-h"><span class="race-office">${esc(t(office))}</span>${details}${status}</div>`;
+}
+async function renderBallot(box,p,shared){
+  const st=S.ctx.state||"";
+  const head=`<h3>${flagImg(st,"flag sm")}<span>${t(shared?"On the ballot in {state}":"On your ballot in {state}",{state:esc(st||"your state")})}</span></h3>`;
+  box.innerHTML=head;box.append(loader("ballot",true));
+  let seats,picked,raw;
+  try{
+    seats=await loadHouse(st);
+    const every=Object.keys(seats);
+    picked=(S.ctx.districts||[]).filter(d=>seats[d]);
+    if(!picked.length&&every.length===1)picked=every;
+    raw=await loadBallot(st,picked);
+  }catch(e){box.innerHTML=head+`<p class="note">${t("Couldn't load the candidates. Refresh the page to try again.")}</p>`;return;}
+  const all=Object.keys(seats);
+  const shown=raw.map(rc=>PHOTO_MODE==="any"||rc.photos_complete?rc:{...rc,candidates:rc.candidates.map(k=>({...k,photo:null}))});
+  const races=matchBallot(p,shown);S.ballot=races;
+  box.innerHTML=head;
+  if(!picked.length&&all.length>1){
+    const sel=el("select","seatpick");
+    sel.setAttribute("aria-label",t("Your congressional district"));
+    sel.innerHTML=`<option value="">${t("Add your US House race")}</option>${all.map(d=>`<option value="${esc(d)}">${esc(seatOption(d,seats))}</option>`).join("")}`;
+    sel.onchange=()=>{if(!sel.value)return;S.ctx.districts=[sel.value];if(!shared)saveLocal();renderBallot(box,p,shared);};
+    box.append(sel);
+  }
+  if(!races.length){
+    const note=all.length>1?t("Pick your congressional district to see who's running."):NO_RACE.includes(st)&&!all.length?t("No Senate or governor race in {state} this year.",{state:esc(st)}):t("Candidates for {state} aren't loaded yet.",{state:esc(st||"your state")});
+    box.insertAdjacentHTML("beforeend",`<p class="note">${note}</p>`);
+    return;
+  }
+  box.insertAdjacentHTML("beforeend",races.map(rc=>`<section class="race">${raceHeading(rc)}<div class="cands">${rc.candidates.map((k,i)=>candidateCard(k,shared,i)).join("")}</div></section>`).join(""));
+  box.querySelectorAll(".cand").forEach(b=>{const open=()=>openProfile(b.dataset.cand,p,shared);b.onclick=open;b.onkeydown=e=>{if(e.key==="Enter"||e.key===" "){e.preventDefault();open();}};});
+}
+
+/* ---- candidate profile sheet ---- */
+const SOCIAL_LABELS={x:"X",instagram:"Instagram",facebook:"Facebook",tiktok:"TikTok",youtube:"YouTube",threads:"Threads",bluesky:"Bluesky"};
+const srcLink=u=>u?` <a class="src" href="${esc(u)}" target="_blank" rel="noopener">${t("Source")}</a>`:"";
+async function openProfile(id,p,shared){
+  const d=el("dialog","sheet");
+  d.setAttribute("aria-label",t("Candidate profile"));
+  const inner=el("div","inner");inner.append(loader("profile",true));d.append(inner);
+  d.addEventListener("close",()=>d.remove());
+  d.addEventListener("click",e=>{if(e.target===d)d.close();});
+  document.body.append(d);d.showModal();
+  let c;
+  try{const r=await fetch(`/api/candidate?id=${encodeURIComponent(id)}`);if(!r.ok)throw new Error(String(r.status));c=await r.json();}
+  catch(e){inner.innerHTML=`<p class="note">${t("Couldn't load this profile. Try again.")}</p><button class="later" type="button">${t("Close")}</button>`;inner.querySelector(".later").onclick=()=>d.close();return;}
+  const photo=PHOTO_MODE==="any"||c.photos_complete?c.photo:null;
+  const mine=(p&&p.positions)||{};
+  const byDomain=Object.fromEntries((c.positions||[]).map(x=>[x.domain,x]));
+  const last=String(c.name).trim().split(/\s+/).pop();
+  const links=[c.website?`<a href="${esc(c.website)}" target="_blank" rel="noopener">${t("Website")} ↗</a>`:"",
+    ...Object.entries(c.social||{}).map(([k,u])=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(SOCIAL_LABELS[k]||k)} ↗</a>`)].filter(Boolean);
+  const plat=(c.platform||[]).map(x=>`<li><b>${esc(x.topic)}.</b> ${esc(x.point)}${srcLink(x.source)}</li>`).join("");
+  const scales=DOMAINS.map(dm=>{
+    const x=byDomain[dm[0]];
+    if(!x||typeof x.score!=="number")return "";
+    const you=typeof mine[dm[0]]==="number"?`<i class="mk you" style="left:${Math.max(0,Math.min(100,mine[dm[0]]))}%"></i>`:"";
+    const dt=domainText(dm);return `<div class="topic"><div class="t">${esc(dt[1])}</div><div class="track"><i class="mk them" style="left:${x.score}%"></i>${you}</div><div class="poles"><span>${esc(dt[2])}</span><span>${esc(dt[3])}</span></div>${x.evidence?`<p class="ev">${esc(x.evidence)}${srcLink(x.source)}</p>`:""}</div>`;
+  }).join("");
+  inner.innerHTML=`<button class="x" type="button" aria-label="${t("Close")}">×</button>
+<div class="who-head">${avatar({...c,photo})}<div><h2>${esc(c.name)}</h2><div class="meta-row">${partyBadge(c.party)}${c.incumbent?`<span class="incumbent">${t("Incumbent")}</span>`:""}</div><div class="meta">${esc(c.race_title)} · ${esc(NAMES[c.state]||c.state)}</div></div></div>
+${c.current_role?`<p class="role">${esc(c.current_role)}</p>`:""}
+${c.bio?`<p class="bio">${esc(c.bio)}</p>`:""}
+${links.length?`<div class="links">${links.join("")}</div>`:""}
+<h3>${t("Platform")}</h3>
+${plat?`<ul class="plat">${plat}</ul>`:`<p class="note">${t("No public platform found yet.")}</p>`}
+<h3>${t("Where {name} stands",{name:esc(last)})}</h3>
+${scales?`<div class="legend">${Object.keys(mine).length?`<span><i class="you"></i>${t(shared?"This stance":"You")}</span>`:""}<span><i class="them"></i>${esc(last)}</span></div>${scales}`:`<p class="note">${t("Too few public positions to place on the scales.")}</p>`}`;
+  inner.querySelector(".x").onclick=()=>d.close();
+}
+
+/* ---- the vibe wheel: one petal per domain, coloured by where the person stands, longer for what they care about most ---- */
+const WHEEL_STOPS=[[143,36,56],[92,42,110],[36,64,156]];
+const poleColor=v=>{const t=Math.max(0,Math.min(100,v))/50,i=t<1?0:1,f=t<1?t:t-1;return `rgb(${WHEEL_STOPS[i].map((c,k)=>Math.round(c+(WHEEL_STOPS[i+1][k]-c)*f)).join(",")})`;};
+function politicalFingerprint(p){
+  const priorities=new Set(p.priorities||[]),positions=p.positions||{};
+  const rows=DOMAINS.filter(d=>typeof positions[d[0]]==="number").map(d=>{
+    const v=Math.max(0,Math.min(100,positions[d[0]]));
+    const dt=domainText(d);return `<div class="fp-axis" aria-label="${esc(dt[1])}: ${Math.round(v)}"><div class="fp-axis-head"><b>${esc(dt[1])}</b>${priorities.has(d[0])?`<span class="fp-priority">★ ${t("Priority")}</span>`:""}</div><div class="fp-track"><i style="--v:${v};--c:${poleColor(v)}"></i></div><div class="fp-poles"><span>${esc(dt[2])}</span><span>${esc(dt[3])}</span></div></div>`;
+  }).join("");
+  const section=el("section","fingerprint");
+  section.innerHTML=`<div class="fp-head"><h3>${t("Your political fingerprint")}</h3></div><div class="fp-grid">${rows}</div>`;
+  return section;
+}
+const petals=p=>{const pri=new Set(p.priorities||[]),step=Math.PI*2/DOMAINS.length;return DOMAINS.map((d,i)=>{const v=p.positions?.[d[0]];return {d,v:typeof v==="number"?v:null,len:pri.has(d[0])?1:.74,a0:i*step-Math.PI/2,a1:(i+1)*step-Math.PI/2};});};
+function petalPath(cx,cy,r0,r1,a0,a1){
+  const g=.05;a0+=g;a1-=g;
+  const P=(r,a)=>`${(cx+r*Math.cos(a)).toFixed(1)} ${(cy+r*Math.sin(a)).toFixed(1)}`;
+  return `M${P(r1,a0)}A${r1} ${r1} 0 0 1 ${P(r1,a1)}L${P(r0,a1)}A${r0} ${r0} 0 0 0 ${P(r0,a0)}Z`;
+}
+function wheelSVG(p,size){
+  const cx=size/2,R=size/2,r0=R*.4;
+  return `<svg viewBox="0 0 ${size} ${size}" role="img" aria-label="Positions on ten topics">${petals(p).map(t=>`<path d="${petalPath(cx,cx,r0,r0+(R-r0)*t.len,t.a0,t.a1)}" fill="${t.v==null?"#e4e4ea":poleColor(t.v)}"><title>${esc(t.d[1])}: ${t.v==null?"no answer":t.v<50?esc(t.d[2]):esc(t.d[3])}</title></path>`).join("")}</svg>`;
+}
+const WHEEL_LABELS={economy:"Economy",welfare:"Safety net",liberty:"Freedom",security:"Security",immigration:"Immigration",foreign:"World role",energy:"Energy",tech:"Tech & AI",education:"Education",faith:"Faith"};
+function drawWheel(x,cx,cy,R,p,labels){
+  const r0=R*.4;
+  petals(p).forEach(t=>{
+    x.fillStyle=t.v==null?"#e4e4ea":poleColor(t.v);x.fill(new Path2D(petalPath(cx,cy,r0,r0+(R-r0)*t.len,t.a0,t.a1)));
+    if(!labels)return;
+    const a=(t.a0+t.a1)/2,lx=cx+(R+22)*Math.cos(a),ly=cy+(R+22)*Math.sin(a),c=Math.cos(a);
+    x.font="600 18px 'DM Sans',system-ui,sans-serif";x.fillStyle="#3a3a44";x.textBaseline="middle";x.textAlign=c>.25?"left":c<-.25?"right":"center";
+    x.fillText(WHEEL_LABELS[t.d[0]]||t.d[1],lx,ly);x.textAlign="left";x.textBaseline="alphabetic";
+  });
+}
+function portraitSentences(p){
+  return nodash(p.manifesto||"").replace(/\s+/g," ").trim().split(/(?<=[.!?])\s+/).map(t=>t.trim()).filter(Boolean);
+}
+function identityHook(p){
+  if(p.hook)return para(p.hook).replace(/\*\*/g,"");
+  const s=portraitSentences(p).find(t=>t.length>=35&&t.length<=170)||portraitSentences(p)[0];
+  return (s||`This is the ${nodash(p.title)} stance.`).replace(/\*\*/g,"");
+}
+function definingTension(p){
+  if(p.tension)return para(p.tension).replace(/\*\*/g,"");
+  const cues=/\b(but|while|without|even if|rather|trade|cost|accept|won't|will not|line)\b/i;
+  const ranked=portraitSentences(p).filter(t=>t.length>=45&&t.length<=190).map((t,i)=>({t,score:(cues.test(t)?5:0)+(t.includes("**")?2:0)+i/10})).sort((a,b)=>b.score-a.score);
+  return (ranked[0]?.t||identityHook(p)).replace(/\*\*/g,"");
+}
+const pullQuote=p=>definingTension(p);
+const toBlob=(cv,type="image/png",q)=>new Promise((res,rej)=>cv.toBlob(b=>b?res(b):rej(new Error("no image")),type,q));
+async function loadFonts(){
+  await document.fonts.ready;
+  await Promise.all(["400 60px 'DM Serif Display'","italic 400 30px 'DM Serif Display'","600 24px 'DM Sans'","700 24px 'DM Sans'"].map(f=>document.fonts.load(f).catch(()=>{})));
+}
+const drawGlows=(x,W,H)=>{const glow=(gx,gy,rad,col)=>{const g=x.createRadialGradient(gx,gy,0,gx,gy,rad);g.addColorStop(0,col);g.addColorStop(1,col.replace(/[\d.]+\)$/,"0)"));x.fillStyle=g;x.fillRect(0,0,W,H);};
+  x.fillStyle="#fff";x.fillRect(0,0,W,H);glow(0,0,W*.7,"rgba(143,36,56,.16)");glow(W,H,W*.8,"rgba(36,64,156,.15)");glow(W*.55,H*.1,W*.5,"rgba(92,42,110,.08)");};
+const drawMark=(x,px,py,h)=>{x.save();x.translate(px,py);x.scale(h/718,h/718);x.fillStyle="#0f0f13";x.fill(new Path2D(MARK_PATH),"evenodd");x.restore();};
+/* the card: "square" for feeds, "og" (1200×630) for link previews */
+async function cardBlob(p,variant="square"){
+  await loadFonts();
+  const og=variant==="og",W=og?1200:1080,H=og?630:1080,pad=og?64:80,serif="'DM Serif Display',Georgia,serif",sans="'DM Sans',system-ui,sans-serif";
+  const c=S.ctx,seat=(c.districts||[]).length===1?` · ${seatLabel(c.districts[0])}`:"";
+  const trads=(p.traditions||[]).slice(0,3),best=(p.states||[])[0];
+  const [flag,bestFlag]=await Promise.all([loadImg(flagSrc(c.state)),loadImg(best?flagSrc(best.name):null)]);
+  const cv=document.createElement("canvas");cv.width=W;cv.height=H;const x=cv.getContext("2d");
+  drawGlows(x,W,H);
+  drawMark(x,pad,pad-8,og?40:48);
+  const place=`${c.state}${seat}`;
+  x.font=`600 ${og?22:26}px ${sans}`;x.fillStyle="#3a3a44";x.textAlign="right";x.textBaseline="middle";
+  const py=pad+(og?12:16);x.fillText(place,W-pad,py);drawFlag(x,flag,W-pad-x.measureText(place).width-12-(og?38:46),py-(og?13:16),og?38:46,og?26:31);
+  x.textAlign="left";x.textBaseline="alphabetic";
+  /* wheel on the right */
+  const wx=og?870:740,wy=og?325:560,R=og?165:200;
+  drawWheel(x,wx,wy,R,p,true);
+  /* title and the numbers on the left */
+  const colW=og?520:480;
+  let y=pad+(og?70:130);
+  x.font=`400 ${og?54:64}px ${serif}`;x.fillStyle="#0f0f13";y=wrapText(x,nodash(p.title),pad,y+(og?46:58),colW,og?58:70)+(og?10:16);
+  x.font=`italic 400 ${og?23:27}px ${serif}`;x.fillStyle="#7a1f2e";y=wrapText(x,identityHook(p),pad,y+(og?8:12),colW,og?29:35)+(og?14:20);
+  const line=(icon,label,pct,lh)=>{icon(pad,y);x.font=`600 ${og?22:25}px ${sans}`;x.fillStyle="#0f0f13";x.textBaseline="middle";x.fillText(label,pad+46,y);x.font=`400 ${og?28:30}px ${serif}`;x.fillStyle="#1f3a93";x.fillText(`${pct}%`,pad+46+x.measureText(label).width+14,y);x.textBaseline="alphabetic";y+=lh;};
+  trads.forEach(t=>line((px,cy)=>{x.font=`${og?24:28}px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif`;x.textBaseline="middle";x.fillText(TRADITIONS[t.name]||"◆",px,cy+1);x.textBaseline="alphabetic";},t.name,t.pct,og?40:48));
+  if(best){y+=og?6:10;line((px,cy)=>drawFlag(x,bestFlag,px,cy-13,38,26),best.name,best.pct,og?40:48);}
+  if(!og){
+    /* a line from the manifesto across the bottom */
+    x.font=`italic 400 30px ${serif}`;x.fillStyle="#7a1f2e";
+    wrapText(x,`“${pullQuote(p)}”`,pad,858,W-2*pad,42);
+  }
+  /* footer */
+  const fy=H-pad+(og?20:10);
+  x.font=`400 ${og?26:30}px ${serif}`;x.fillStyle="#0f0f13";x.fillText("vibevote.us",pad,fy);
+  x.font=`500 ${og?20:22}px ${sans}`;x.fillStyle="#6f6f76";x.textAlign="right";x.fillText("Where do you stand?",W-pad,fy);x.textAlign="left";
+  return toBlob(cv,og?"image/jpeg":"image/png",.86);
+}
+async function saveBlob(b,name){
+  const file=new File([b],name,{type:"image/png"});
+  if(touch&&navigator.canShare&&navigator.canShare({files:[file]})){await navigator.share({files:[file],title:"Where I actually stand"}).catch(()=>{});return;}
+  const a=document.createElement("a");a.href=URL.createObjectURL(b);a.download=name;a.click();toast("Image saved");
+}
+async function shareCard(p){try{await saveBlob(await cardBlob(p),"my-stance-vibevote.png");}catch(e){toast("Couldn't draw the image");}}
+
+/* ---- the full result on one 1080-wide image ---- */
+const MARK_PATH="M0 0 L283 0 L453 324 L638 0 L921 0 L561 718 L335 718Z M278 301 L386 301 L444 367 L772 115 L452 536Z";
+const loadImg=src=>new Promise(res=>{if(!src)return res(null);const i=new Image();i.onload=()=>res(i);i.onerror=()=>res(null);i.src=src;});
+const flagSrc=name=>CODES[name]?`/flags/us-${CODES[name]}.png`:null;
+function rr(x,px,py,w,h,r){x.beginPath();x.moveTo(px+r,py);x.arcTo(px+w,py,px+w,py+h,r);x.arcTo(px+w,py+h,px,py+h,r);x.arcTo(px,py+h,px,py,r);x.arcTo(px,py,px+w,py,r);x.closePath();}
+/* wraps plain text, draws it, returns the y of the next line */
+function wrapText(x,t,px,py,maxW,lh){const words=String(t).split(" ");let line="";words.forEach(w=>{const test=line?line+" "+w:w;if(x.measureText(test).width>maxW&&line){x.fillText(line,px,py);line=w;py+=lh;}else line=test;});x.fillText(line,px,py);return py+lh;}
+/* text with **bold** segments in wine, word by word */
+function drawRich(x,text,px,py,maxW,lh,font,size){
+  const parts=nodash(text).split(/(\*\*.+?\*\*)/).filter(Boolean).map(t=>t.startsWith("**")?{t:t.slice(2,-2),b:true}:{t,b:false});
+  let cx=px;
+  parts.forEach(seg=>seg.t.split(/(\s+)/).forEach(word=>{
+    if(!word)return;
+    x.font=`${seg.b?"700":"400"} ${size}px ${font}`;x.fillStyle=seg.b?"#7a1f2e":"#1a1a20";
+    const w=x.measureText(word).width;
+    if(cx+w>px+maxW&&word.trim()){cx=px;py+=lh;}
+    if(cx===px&&!word.trim())return;
+    x.fillText(word,cx,py);cx+=w;
+  }));
+  return py+lh;
+}
+function drawFlag(x,img,px,py,w,h){if(!img)return;x.save();rr(x,px,py,w,h,5);x.clip();x.drawImage(img,px,py,w,h);x.restore();}
+function drawAvatar(x,k,img,cx,cy,r,pct){
+  /* ring: the match share in royal, the rest in the hairline colour */
+  x.lineWidth=6;x.beginPath();x.arc(cx,cy,r+6,0,Math.PI*2);x.strokeStyle="#e8e8ec";x.stroke();
+  if(pct!=null){x.beginPath();x.arc(cx,cy,r+6,-Math.PI/2,-Math.PI/2+Math.PI*2*pct/100);x.strokeStyle="#1f3a93";x.stroke();}
+  x.save();x.beginPath();x.arc(cx,cy,r,0,Math.PI*2);x.clip();
+  if(img){const side=Math.min(img.naturalWidth,img.naturalHeight);x.drawImage(img,(img.naturalWidth-side)/2,(img.naturalHeight-side)*.22,side,side,cx-r,cy-r,2*r,2*r);}
+  else{const [a,b]=avaColors(k.name);const g=x.createLinearGradient(cx-r,cy-r,cx+r,cy+r);g.addColorStop(0,a);g.addColorStop(1,b);x.fillStyle=g;x.fillRect(cx-r,cy-r,2*r,2*r);
+    x.fillStyle="#fff";x.font="700 26px 'DM Sans',system-ui,sans-serif";x.textAlign="center";x.textBaseline="middle";x.fillText(initials(k.name),cx,cy+1);x.textAlign="left";x.textBaseline="alphabetic";}
+  x.restore();
+}
+async function shareImage(p){
+  await loadFonts();
+  const W=1080,pad=80,cw=W-2*pad,serif="'DM Serif Display',Georgia,serif",sans="'DM Sans',system-ui,sans-serif";
+  const c=S.ctx,seat=(c.districts||[]).length===1?` · ${seatLabel(c.districts[0])}`:"";
+  const trads=(p.traditions||[]).slice(0,3),states=(p.states||[]).slice(0,3);
+  const races=(S.ballot||[]).map(rc=>({...rc,top:rc.candidates.find(k=>k.pct!=null)})).filter(rc=>rc.top).slice(0,4);
+  const [flag,flags,pics]=await Promise.all([loadImg(flagSrc(c.state)),Promise.all(states.map(s=>loadImg(flagSrc(s.name)))),Promise.all(races.map(rc=>loadImg(rc.top.photo)))]);
+  const cv=document.createElement("canvas");cv.width=W;cv.height=3200;const x=cv.getContext("2d");
+  drawGlows(x,W,cv.height);
+  let y=pad;
+  /* header: the mark and the place */
+  drawMark(x,pad,y,56);
+  x.font=`600 26px ${sans}`;x.fillStyle="#3a3a44";x.textAlign="right";x.textBaseline="middle";
+  const place=`${c.state}${seat}`;x.fillText(place,W-pad,y+28);
+  drawFlag(x,flag,W-pad-x.measureText(place).width-14-46,y+13,46,31);
+  x.textAlign="left";x.textBaseline="alphabetic";
+  y+=56+72;
+  /* title and manifesto */
+  x.font=`400 74px ${serif}`;x.fillStyle="#0f0f13";y=wrapText(x,nodash(p.title),pad,y+56,cw,80)+14;
+  String(p.manifesto||"").split(/\n\n+/).forEach(par=>{y=drawRich(x,par,pad,y+26,cw,46,sans,32)+8;});
+  y+=22;x.fillStyle="#e2e2e8";x.fillRect(pad,y,cw,2);y+=54;
+  /* traditions and states side by side */
+  const col=(cw-48)/2,left=pad,right=pad+col+48;
+  const heading=(t,px,py)=>{x.font=`400 34px ${serif}`;x.fillStyle="#0f0f13";x.fillText(t,px,py);};
+  heading("Political traditions",left,y+30);heading("Places with a similar mix",right,y+30);
+  let ly=y+70,ry=y+70;
+  const row=(px,py,w,label,pct,icon)=>{
+    x.fillStyle="#e8e8ec";x.fillRect(px,py,w,1);
+    icon(px,py+30);
+    x.font=`600 27px ${sans}`;x.fillStyle="#0f0f13";x.textBaseline="middle";x.fillText(label,px+64,py+42);
+    x.font=`400 36px ${serif}`;x.fillStyle="#1f3a93";x.textAlign="right";x.fillText(`${pct}%`,px+w,py+42);x.textAlign="left";x.textBaseline="alphabetic";
+    return py+84;
+  };
+  trads.forEach(t=>{ly=row(left,ly,col,t.name,t.pct,(px,py)=>{x.font="32px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif";x.textBaseline="middle";x.fillText(TRADITIONS[t.name]||"◆",px+4,py+12);x.textBaseline="alphabetic";});});
+  states.forEach((st,i)=>{ry=row(right,ry,col,st.name,st.pct,(px,py)=>drawFlag(x,flags[i],px,py-3,46,31));});
+  y=Math.max(ly,ry)+18;
+  /* the closest candidate in each race */
+  if(races.length){
+    y+=14;x.fillStyle="#e2e2e8";x.fillRect(pad,y,cw,2);y+=54;
+    heading(`On the ballot in ${c.state}`,left,y+30);y+=62;
+    races.forEach((rc,i)=>{
+      const k=rc.top;
+      x.font=`700 20px ${sans}`;x.fillStyle="#6f6f76";x.fillText(rc.title.toUpperCase(),left,y+20);y+=40;
+      drawAvatar(x,k,pics[i],left+44,y+36,36,k.pct);
+      x.font=`400 34px ${serif}`;x.fillStyle="#0f0f13";x.fillText(k.name,left+108,y+30);
+      x.font=`600 22px ${sans}`;x.fillStyle="#3a3a44";x.fillText(`${k.party}${k.incumbent?" · Incumbent":""}${k.closest?"  ·  Closest match":""}`,left+108,y+64);
+      x.font=`400 44px ${serif}`;x.fillStyle="#1f3a93";x.textAlign="right";x.textBaseline="middle";x.fillText(`${k.n&&k.n<FULL_TOPICS?"~":""}${k.pct}%`,W-pad,y+36);x.textAlign="left";x.textBaseline="alphabetic";
+      y+=100;
+    });
+  }
+  /* footer */
+  y+=30;x.fillStyle="#e2e2e8";x.fillRect(pad,y,cw,2);y+=58;
+  x.font=`400 30px ${serif}`;x.fillStyle="#0f0f13";x.fillText("vibevote.us",pad,y);
+  x.font=`500 22px ${sans}`;x.fillStyle="#6f6f76";x.textAlign="right";x.fillText("Find out where you actually stand",W-pad,y);x.textAlign="left";
+  const H=Math.max(1350,y+pad);
+  const out=document.createElement("canvas");out.width=W;out.height=H;out.getContext("2d").drawImage(cv,0,0);
+  try{await saveBlob(await toBlob(out),"my-result-vibevote.png");}catch(e){toast("Couldn't draw the image");}
+}
+
+/* ---- start ---- */
+let access=null;
+async function checkAccess(){
+  if(access===null){
+    try{const ctl=new AbortController();setTimeout(()=>ctl.abort(),3000);const r=await fetch("/api/access",{cache:"no-store",signal:ctl.signal});const d=r.ok?await r.json():{};S.turnstile=d.turnstile||"";access=d.allowed!==false;}
+    catch(e){access=true;} /* the API still enforces the region */
+  }
+  return access;
+}
+async function route(){
+  localizeChrome();
+  if(!(await checkAccess()))return blocked();
+  const m=location.pathname.match(/^\/r\/([A-Za-z0-9]{10})\/?$/);
+  if(m)openShared(m[1]);else intro();
+}
+addEventListener("popstate",route);
+route();
+</script>
+</body>
+</html>

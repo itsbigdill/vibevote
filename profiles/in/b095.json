@@ -1,0 +1,398 @@
+[
+ {
+  "id": "TX-28/marlon-duran",
+  "name": "Marlon Duran",
+  "party": "Green",
+  "race": "TX-28",
+  "race_label": "Texas · US House TX-28",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Texas%27_28th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-29/sylvia-garcia",
+  "name": "Sylvia Garcia",
+  "party": "Democratic",
+  "race": "TX-29",
+  "race_label": "Texas · US House TX-29",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000587",
+   "official_name": "Sylvia R. Garcia",
+   "chamber": "House",
+   "official_site": "https://sylviagarcia.house.gov",
+   "official_social": {
+    "twitter": "RepSylviaGarcia",
+    "facebook": "RepSylviaGarcia"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 80,
+    "liberty": 25,
+    "security": null,
+    "immigration": 15,
+    "foreign": 70,
+    "energy": 80,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Progressive Caucus member; supports expanded health coverage, abortion rights, gun control, immigrant protections, Ukraine aid and climate action.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sylvia_Garcia",
+    "https://sylviagarcia.house.gov"
+   ],
+   "photo": {
+    "file": "File:Sylvia Garcia, official portrait, 116th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "TX-29/martha-fierro",
+  "name": "Martha Fierro",
+  "party": "Republican",
+  "race": "TX-29",
+  "race_label": "Texas · US House TX-29",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No detailed policy platform found in reliable sources.",
+   "sources": [
+    "https://ballotpedia.org/Martha_Fierro"
+   ],
+   "photo": {
+    "file": "File:2026AcresHomeJuneteenthParade-63 Martha Fierro (cropped).jpg",
+    "license": "CC BY 4.0",
+    "author": "2C2K Photography"
+   }
+  }
+ },
+ {
+  "id": "TX-30/frederick-haynes-iii",
+  "name": "Frederick Haynes III",
+  "party": "Democratic",
+  "race": "TX-30",
+  "race_label": "Texas · US House TX-30",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 95,
+    "liberty": null,
+    "security": null,
+    "immigration": 5,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Calls for Medicare for All, abolishing ICE and a living wage above the current minimum wage.",
+   "sources": [
+    "https://www.wfaa.com/article/news/politics/elections/dallas-pastor-frederick-haynes-house-campaign-abolish-ice/287-6fc619b6-c6ac-43e9-9dc0-a188ee138271",
+    "https://en.wikipedia.org/wiki/Frederick_Haynes_III"
+   ],
+   "photo": {
+    "file": "File:Frederick Haynes III at Calvary Baptist Church (cropped).png",
+    "license": "CC BY 3.0",
+    "author": "Calvary Baptist Church Jamaica, NY"
+   }
+  }
+ },
+ {
+  "id": "TX-30/everett-jackson",
+  "name": "Everett Jackson",
+  "party": "Republican",
+  "race": "TX-30",
+  "race_label": "Texas · US House TX-30",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No detailed policy platform found in reliable sources.",
+   "sources": [
+    "https://ballotpedia.org/Everett_Jackson"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-31/john-carter",
+  "name": "John Carter",
+  "party": "Republican",
+  "race": "TX-31",
+  "race_label": "Texas · US House TX-31",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001051",
+   "official_name": "John R. Carter",
+   "chamber": "House",
+   "official_site": "https://carter.house.gov",
+   "official_social": {
+    "twitter": "JudgeCarter",
+    "facebook": "judgecarter",
+    "youtube": "repjohncarter",
+    "instagram": "judgecarter"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 25,
+    "liberty": 60,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 and 2025 tax cuts and H.R. 2 border bill; opposes abortion, supports gun rights and domestic oil and gas.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/John_Carter_(Texas_politician)",
+    "https://carter.house.gov"
+   ],
+   "photo": {
+    "file": "File:Rep. John Carter, 118th Congress portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "TX-31/justin-early",
+  "name": "Justin Early",
+  "party": "Democratic",
+  "race": "TX-31",
+  "race_label": "Texas · US House TX-31",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaigns on higher wages, curbing corporate power and reversing federal health care cuts.",
+   "sources": [
+    "https://politicsdoneright.com/2026/07/justin-early-challenges-trump-loyalist-john-carter-with-a-working-class-agenda/",
+    "https://www.wilcosun.com/news-georgetown/democrat-enters-texas-31st-congressional-district-race"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-31/greg-stoker",
+  "name": "Greg Stoker",
+  "party": "Green",
+  "race": "TX-31",
+  "race_label": "Texas · US House TX-31",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Texas%27_31st_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-32/dan-barrios",
+  "name": "Dan Barrios",
+  "party": "Democratic",
+  "race": "TX-32",
+  "race_label": "Texas · US House TX-32",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Platform stresses consumer protections, affordable health care access and investment in education and workforce development.",
+   "sources": [
+    "https://www.danbarriosforcongress.com/",
+    "https://communityimpact.com/richardson/election/qa-meet-the-candidates-running-for-us-house-district-32/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-32/jace-yarbrough",
+  "name": "Jace Yarbrough",
+  "party": "Republican",
+  "race": "TX-32",
+  "race_label": "Texas · US House TX-32",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": null,
+    "liberty": 15,
+    "security": null,
+    "immigration": 95,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs spending cuts and no tax increases, mass deportations and an immigration pause, concealed-carry reciprocity, NFA repeal and expanded energy production.",
+   "sources": [
+    "https://www.jaceforcongress.com/",
+    "https://dallasexpress.com/profiles/jace-yarbrough-says-texas-32-must-deliver-reinforcements-for-president-trump/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-33/colin-allred",
+  "name": "Colin Allred",
+  "party": "Democratic",
+  "race": "TX-33",
+  "race_label": "Texas · US House TX-33",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": 30,
+    "security": null,
+    "immigration": 45,
+    "foreign": 70,
+    "energy": 60,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Former congressman; backed ACA expansion, abortion rights, Equality Act, gun safety, Ukraine aid and IRA, while touting border security.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Colin_Allred"
+   ],
+   "photo": {
+    "file": "File:Colin Allred, official portrait, 117th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman"
+   }
+  }
+ },
+ {
+  "id": "TX-33/patrick-gillespie",
+  "name": "Patrick Gillespie",
+  "party": "Republican",
+  "race": "TX-33",
+  "race_label": "Texas · US House TX-33",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "No detailed policy platform found in reliable sources.",
+   "sources": [
+    "https://ballotpedia.org/Patrick_Gillespie_(Texas)"
+   ],
+   "photo": null
+  }
+ }
+]

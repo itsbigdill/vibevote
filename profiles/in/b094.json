@@ -1,0 +1,439 @@
+[
+ {
+  "id": "TX-23/ben-mendoza",
+  "name": "Ben Mendoza",
+  "party": "Independent",
+  "race": "TX-23",
+  "race_label": "Texas · US House TX-23",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Texas%27_23rd_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-24/beth-van-duyne",
+  "name": "Beth Van Duyne",
+  "party": "Republican",
+  "race": "TX-24",
+  "race_label": "Texas · US House TX-24",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "V000134",
+   "official_name": "Beth Van Duyne",
+   "chamber": "House",
+   "official_site": "https://vanduyne.house.gov",
+   "official_social": {
+    "twitter": "RepBethVanDuyne",
+    "facebook": "RepBethVanDuyne",
+    "instagram": "repbethvanduyne"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 30,
+    "security": 65,
+    "immigration": 80,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Opposed American Rescue Plan, keeps right-to-work, voted against gun background checks (liberty), kept police rules, backs immigration bans on non-cooperating countries.",
+   "sources": [
+    "https://www.ontheissues.org/TX/Beth_Van_Duyne.htm"
+   ],
+   "photo": {
+    "file": "File:Beth Van Duyne, official portrait, 117th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Office of Congresswoman Beth Van Duyne"
+   }
+  }
+ },
+ {
+  "id": "TX-24/kevin-burge",
+  "name": "Kevin Burge",
+  "party": "Democratic",
+  "race": "TX-24",
+  "race_label": "Texas · US House TX-24",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 75,
+    "liberty": null,
+    "security": null,
+    "immigration": 35,
+    "foreign": null,
+    "energy": null,
+    "tech": 75,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Universal coverage keeping private insurance, lower tariffs, humane border enforcement and ICE oversight, AI workplace and data-center rules, fully funded public schools.",
+   "sources": [
+    "https://fortworthreport.org/2026/02/16/kevin-burge-democratic-candidate-for-u-s-house-texas-district-24/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-25/roger-williams",
+  "name": "Roger Williams",
+  "party": "Republican",
+  "race": "TX-25",
+  "race_label": "Texas · US House TX-25",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "W000816",
+   "official_name": "Roger Williams",
+   "chamber": "House",
+   "official_site": "https://williams.house.gov",
+   "official_social": {
+    "twitter": "RepRWilliams",
+    "facebook": "RepRogerWilliams"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 60,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2017 and 2025 tax cuts and Medicaid work requirements, H.R. 2 border bill; opposes abortion, backs gun rights and oil and gas.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Roger_Williams_(Texas_politician)",
+    "https://williams.house.gov"
+   ],
+   "photo": {
+    "file": "File:Rep. Roger Williams, 118th Congress portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "TX-25/dione-sims",
+  "name": "Dione Sims",
+  "party": "Democratic",
+  "race": "TX-25",
+  "race_label": "Texas · US House TX-25",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 65,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaign issues page prioritizes affordable health care access, fair wages, retirement security and housing stability.",
+   "sources": [
+    "https://dionesimsforcongress.com/issues",
+    "https://ballotpedia.org/Dione_Sims"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-26/brandon-gill",
+  "name": "Brandon Gill",
+  "party": "Republican",
+  "race": "TX-26",
+  "race_label": "Texas · US House TX-26",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000603",
+   "official_name": "Brandon Gill",
+   "chamber": "House",
+   "official_site": "https://gill.house.gov",
+   "official_social": {
+    "twitter": "repbrandongill",
+    "facebook": "RepBrandonGill",
+    "instagram": "repbrandongill"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 65,
+    "security": null,
+    "immigration": 90,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 reconciliation tax cuts and spending cuts; backs mass deportation, abortion limits, gun rights and expanded fossil fuel production.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Brandon_Gill",
+    "https://gill.house.gov"
+   ],
+   "photo": {
+    "file": "File:Brandon Gill, official portrait, 119th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "TX-26/steven-shook",
+  "name": "Steven Shook",
+  "party": "Democratic",
+  "race": "TX-26",
+  "race_label": "Texas · US House TX-26",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Critical care nurse practitioner whose campaign centers on expanding affordable health care.",
+   "sources": [
+    "https://shookforcongress2026.com/",
+    "https://dentonrc.com/news/election_2020/rep-brandon-gill-easily-secures-gop-nom-for-district-26-will-face-steven-shook-in/article_a9a1823e-4ec9-4f9d-ac0a-7d9ecde6d9e0.html"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-26/phil-gray",
+  "name": "Phil Gray",
+  "party": "Libertarian",
+  "race": "TX-26",
+  "race_label": "Texas · US House TX-26",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://ballotpedia.org/Texas%27_26th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-27/michael-cloud",
+  "name": "Michael Cloud",
+  "party": "Republican",
+  "race": "TX-27",
+  "race_label": "Texas · US House TX-27",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001115",
+   "official_name": "Michael Cloud",
+   "chamber": "House",
+   "official_site": "https://cloud.house.gov",
+   "official_social": {
+    "twitter": "RepCloudTX",
+    "facebook": "RepCloudTX",
+    "instagram": "repcloudtx",
+    "youtube": "RepCloudTX"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 20,
+    "liberty": 65,
+    "security": null,
+    "immigration": 90,
+    "foreign": 25,
+    "energy": 10,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Freedom Caucus member; voted against 2024 Ukraine aid, for H.R. 2 border bill and tax cuts; anti-abortion, pro-gun, pro-drilling.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Michael_Cloud",
+    "https://cloud.house.gov"
+   ],
+   "photo": {
+    "file": "File:Michael Cloud, Official Portrait, 115th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "TX-27/tanya-lloyd",
+  "name": "Tanya Lloyd",
+  "party": "Democratic",
+  "race": "TX-27",
+  "race_label": "Texas · US House TX-27",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 95,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Backs single-payer health care, universal daycare, living wages, breaking up agribusiness monopolies, abortion access and public education.",
+   "sources": [
+    "https://www.tanyafortexas.com/issues",
+    "https://ballotpedia.org/Tanya_Lloyd"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-28/henry-cuellar",
+  "name": "Henry Cuellar",
+  "party": "Democratic",
+  "race": "TX-28",
+  "race_label": "Texas · US House TX-28",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001063",
+   "official_name": "Henry Cuellar",
+   "chamber": "House",
+   "official_site": "https://cuellar.house.gov",
+   "official_social": {
+    "twitter": "RepCuellar",
+    "facebook": "152569121550",
+    "youtube": "henrycuellar",
+    "instagram": "RepCuellar"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 50,
+    "welfare": 60,
+    "liberty": 50,
+    "security": null,
+    "immigration": 55,
+    "foreign": 70,
+    "energy": 40,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Blue Dog; voted for Laken Riley Act and Ukraine/Israel aid, against 2025 Medicaid cuts; mixed abortion record, gun-rights supporter, pro oil and gas.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Henry_Cuellar",
+    "https://cuellar.house.gov",
+    "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/"
+   ],
+   "photo": {
+    "file": "File:Henry Cuellar, official portrait, 115th congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "Eric Connolly; U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "TX-28/tano-tijerina",
+  "name": "Tano Tijerina",
+  "party": "Republican",
+  "race": "TX-28",
+  "race_label": "Texas · US House TX-28",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 75,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Trump-endorsed Webb County judge campaigning chiefly on border security, cost of living and public safety.",
+   "sources": [
+    "https://www.texastribune.org/2026/09/09/henry-cuellar-tano-tijerina-south-texas-28th-congressional-district-laredo/",
+    "https://news.ballotpedia.org/2026/08/24/incumbent-henry-cuellar-d-tano-tijerina-r-and-marlon-duran-g-face-off-in-redrawn-texas-congressional-district/"
+   ],
+   "photo": {
+    "file": "File:Tano Tijerina.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "E. R. Softwood"
+   }
+  }
+ }
+]

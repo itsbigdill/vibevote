@@ -1,0 +1,424 @@
+[
+ {
+  "id": "NC-2/matthew-laszacs",
+  "name": "Matthew Laszacs",
+  "party": "Libertarian",
+  "race": "NC-2",
+  "race_label": "North Carolina · US House NC-2",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-3/greg-murphy",
+  "name": "Greg Murphy",
+  "party": "Republican",
+  "race": "NC-3",
+  "race_label": "North Carolina · US House NC-3",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001210",
+   "official_name": "Gregory F. Murphy",
+   "chamber": "House",
+   "official_site": "https://murphy.house.gov",
+   "official_social": {
+    "twitter": "RepGregMurphy",
+    "facebook": "RepGregMurphy",
+    "instagram": "repgregmurphy"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 65,
+    "security": null,
+    "immigration": 75,
+    "foreign": 80,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Voted for 2025 tax bill, Laken Riley and SAVE Acts, trans sports ban, Ukraine/Israel aid, ending California emissions waiver; strong Israel backer. Liberty: transgender sports.",
+   "sources": [
+    "https://gregmurphy.house.gov/issues",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2024/roll151.xml"
+   ],
+   "photo": {
+    "file": "File:Rep. Greg Murphy 116th Congress Portrait.jpg",
+    "license": "Public domain",
+    "author": "U.S. Congress"
+   }
+  }
+ },
+ {
+  "id": "NC-3/raymond-smith-jr",
+  "name": "Raymond Smith Jr.",
+  "party": "Democratic",
+  "race": "NC-3",
+  "race_label": "North Carolina · US House NC-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 60,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Platform: overturn Citizens United, ban congressional stock trading, lower costs, expand rural healthcare access, fund strong public education.",
+   "sources": [
+    "https://raymondsmithfornc.com/platform"
+   ],
+   "photo": {
+    "file": "File:Rep. Raymond E. Smith Jr.jpg",
+    "license": "Public domain",
+    "author": "North Carolina General Assembly"
+   }
+  }
+ },
+ {
+  "id": "NC-3/daniel-cavender",
+  "name": "Daniel Cavender",
+  "party": "Libertarian",
+  "race": "NC-3",
+  "race_label": "North Carolina · US House NC-3",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-4/valerie-foushee",
+  "name": "Valerie Foushee",
+  "party": "Democratic",
+  "race": "NC-4",
+  "race_label": "North Carolina · US House NC-4",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000477",
+   "official_name": "Valerie P. Foushee",
+   "chamber": "House",
+   "official_site": "https://foushee.house.gov",
+   "official_social": {
+    "twitter": "ValerieFoushee",
+    "facebook": "RepValerieFoushee",
+    "instagram": "repvaleriefoushee",
+    "youtube": "@RepValerieFoushee"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 15,
+    "security": null,
+    "immigration": 5,
+    "foreign": 25,
+    "energy": 95,
+    "tech": 85,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Medicare for All, Green New Deal, dismantling ICE, blocking arms sales to Israel, AI regulation; voted against recent NDAAs and 2025 tax bill.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Valerie_Foushee",
+    "https://valeriefoushee.com/issues/",
+    "https://clerk.house.gov/evs/2025/roll102.xml"
+   ],
+   "photo": {
+    "file": "File:Valerie Foushee 118th Congress 3.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Brian Thorpe)"
+   }
+  }
+ },
+ {
+  "id": "NC-4/max-ganorkar",
+  "name": "Max Ganorkar",
+  "party": "Republican",
+  "race": "NC-4",
+  "race_label": "North Carolina · US House NC-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 25,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 5,
+    "faith": null
+   },
+   "basis": "Platform: school vouchers and privatized education, tax-return healthcare vouchers, fewer housing regulations, no capital gains tax on home appreciation.",
+   "sources": [
+    "https://maxforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-4/guy-meilleur",
+  "name": "Guy Meilleur",
+  "party": "Libertarian",
+  "race": "NC-4",
+  "race_label": "North Carolina · US House NC-4",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-5/virginia-foxx",
+  "name": "Virginia Foxx",
+  "party": "Republican",
+  "race": "NC-5",
+  "race_label": "North Carolina · US House NC-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000450",
+   "official_name": "Virginia Foxx",
+   "chamber": "House",
+   "official_site": "https://foxx.house.gov",
+   "official_social": {
+    "twitter": "VirginiaFoxx",
+    "facebook": "RepVirginiaFoxx",
+    "youtube": "repvirginiafoxx",
+    "instagram": "repvirginiafoxx"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 15,
+    "liberty": 75,
+    "security": null,
+    "immigration": 80,
+    "foreign": 70,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": 85
+   },
+   "basis": "Voted for 2025 tax bill, Laken Riley and SAVE Acts, Ukraine/Israel aid; opposes abortion without exceptions, Equality Act, marijuana legalization; Prayer Caucus member.",
+   "sources": [
+    "https://virginiafoxx.com/issues/",
+    "https://en.wikipedia.org/wiki/Virginia_Foxx",
+    "https://clerk.house.gov/evs/2025/roll190.xml"
+   ],
+   "photo": {
+    "file": "File:Virginia Foxx official photo (slight crop).jpg",
+    "license": "Public domain",
+    "author": "Eric Connolly, U.S. House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "NC-5/chuck-hubbard",
+  "name": "Chuck Hubbard",
+  "party": "Democratic",
+  "race": "NC-5",
+  "race_label": "North Carolina · US House NC-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 75,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 85,
+    "faith": null
+   },
+   "basis": "Platform: shift taxes toward the rich, raise minimum wage, government health option, protect Medicare and Social Security, abortion access, LGBTQ rights, public schools.",
+   "sources": [
+    "https://hubbardforcongress.com/platform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-5/robert-b-luffman",
+  "name": "Robert B. Luffman",
+  "party": "Libertarian",
+  "race": "NC-5",
+  "race_label": "North Carolina · US House NC-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://s3.amazonaws.com/dl.ncsbe.gov/Elections/2026/Candidate%20Filing/Candidate_Listing_2026.csv"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "NC-6/addison-mcdowell",
+  "name": "Addison McDowell",
+  "party": "Republican",
+  "race": "NC-6",
+  "race_label": "North Carolina · US House NC-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001240",
+   "official_name": "Addison P. McDowell",
+   "chamber": "House",
+   "official_site": "https://mcdowell.house.gov",
+   "official_social": {
+    "twitter": "RepMcDowell",
+    "facebook": "RepMcDowell",
+    "instagram": "repmcdowell"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 35,
+    "welfare": 25,
+    "liberty": 55,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": 25,
+    "tech": 20,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Backs Trump trade agenda, border security, 100% pro-life votes, gun rights, light crypto rules; voted for 2025 tax bill, SAVE Act. Liberty: abortion, guns.",
+   "sources": [
+    "https://www.mcdowellfornc.com/issues",
+    "https://clerk.house.gov/evs/2025/roll190.xml",
+    "https://clerk.house.gov/evs/2025/roll102.xml"
+   ],
+   "photo": {
+    "file": "File:Addison McDowell 119th congress.jpg",
+    "license": "Public domain",
+    "author": "House Creative Services (Ike Hayman)"
+   }
+  }
+ },
+ {
+  "id": "NC-6/cyril-jefferson",
+  "name": "Cyril Jefferson",
+  "party": "Democratic",
+  "race": "NC-6",
+  "race_label": "North Carolina · US House NC-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": null,
+    "security": null,
+    "immigration": 45,
+    "foreign": 60,
+    "energy": null,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Platform: protect Medicaid, Medicare and SNAP, expand childcare, raise teacher pay, bipartisan immigration reform with border security, rebuild military edge.",
+   "sources": [
+    "https://www.cyrilforcongress.com/issues"
+   ],
+   "photo": null
+  }
+ }
+]

@@ -1,0 +1,958 @@
+[
+ {
+  "id": "NC-7/david-rouzer",
+  "name": "David Rouzer",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-7",
+  "bio": "David Rouzer has represented North Carolina in the U.S. House since 2015 and previously served in the North Carolina Senate from 2009 to 2013. He worked as a policy adviser to U.S. Senators Jesse Helms and Elizabeth Dole, held a USDA rural development post, and ran a small business. He grew up in Durham and studied agricultural business and economics at NC State University.",
+  "website": "https://davidrouzer.com",
+  "social": {
+   "x": "https://x.com/RepDavidRouzer",
+   "instagram": "https://www.instagram.com/repdavidrouzer",
+   "facebook": "https://www.facebook.com/RepRouzer"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Voted for the 2025 One Big Beautiful Bill Act extending and expanding tax cuts.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Voted for the Laken Riley Act requiring detention of migrants charged with certain crimes.",
+    "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+   },
+   {
+    "topic": "Health care",
+    "point": "Favors repealing the Affordable Care Act.",
+    "source": "https://en.wikipedia.org/wiki/David_Rouzer"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Lists agriculture, coastal issues and transportation among his main policy areas as a House member.",
+    "source": "https://rouzer.house.gov/issues"
+   },
+   {
+    "topic": "Foreign aid",
+    "point": "Voted for the 2024 supplemental appropriations bill providing security assistance to Ukraine.",
+    "source": "https://clerk.house.gov/evs/2024/roll151.xml"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Voted for the 2025 One Big Beautiful Bill Act, which extended and expanded tax cuts.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Favors repealing the ACA and voted for the 2025 budget law that added Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/David_Rouzer"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Abortion: Wikipedia describes him as anti-abortion; no other liberty issues were confirmed.",
+    "source": "https://en.wikipedia.org/wiki/David_Rouzer"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Voted for the Laken Riley Act mandating detention of migrants charged with theft-related crimes.",
+    "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Voted for the 2024 Ukraine Security Supplemental Appropriations Act.",
+    "source": "https://clerk.house.gov/evs/2024/roll151.xml"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Backed a 2012 state bill limiting sea-level forecasts to historical data and voted to end California's emissions waiver.",
+    "source": "https://en.wikipedia.org/wiki/David_Rouzer"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "The campaign site's news section appears dated, and no current campaign issues page could be read."
+ },
+ {
+  "id": "NC-7/kim-hardy",
+  "name": "Kim Hardy",
+  "party": "Democratic",
+  "current_role": "Associate professor of social work at Fayetteville State University",
+  "bio": "Kimberly Hardy is a former school social worker who has taught social work at Fayetteville State University since 2016. She grew up in eastern North Carolina in a military family, holds degrees from Morgan State University and Ohio State University, and serves as second vice-chair of the North Carolina Democratic Party. She was the 2020 Democratic nominee for NC House District 43.",
+  "website": "https://www.kimberlyhardyforcongress.com",
+  "social": {
+   "x": "https://x.com/kimberlyhardync",
+   "instagram": "https://www.instagram.com/kimberlyhardyforcongress",
+   "facebook": "https://www.facebook.com/KimberlyHardyForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Jobs",
+    "point": "Raise the federal minimum wage, close overtime loopholes and end taxes on tips.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   },
+   {
+    "topic": "Environment",
+    "point": "Promote solar, wind and geothermal power and fund coastal flood resilience.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   },
+   {
+    "topic": "Health care",
+    "point": "Protect Medicare and Medicaid, lower prescription drug prices and restore NIH and cancer research funding.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   },
+   {
+    "topic": "Education",
+    "point": "Fund Head Start, Title I and career-technical education and protect programs for students with disabilities.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   },
+   {
+    "topic": "Infrastructure",
+    "point": "Invest in rail, broadband and port logistics and protect Community Development Block Grants.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Proposes raising the federal minimum wage and closing overtime pay loopholes.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   },
+   "welfare": {
+    "score": 65,
+    "evidence": "Pledges to protect Medicare and Medicaid and lower prescription drug costs.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 75,
+    "evidence": "Supports solar, wind and geothermal energy and faster clean-energy permitting.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   },
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Calls for funding Title I, Head Start and public school infrastructure.",
+    "source": "https://www.kimberlyhardyforcongress.com/priorities"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Listed on the ballot as Kim Hardy; her campaign uses the name Dr. Kimberly Hardy."
+ },
+ {
+  "id": "NC-7/maad-abu-ghazalah",
+  "name": "Maad Abu-Ghazalah",
+  "party": "Libertarian",
+  "current_role": "Retired attorney",
+  "bio": "Maad Abu-Ghazalah is a retired attorney and entrepreneur running as the Libertarian nominee in North Carolina's 7th District. He was born in the West Bank and grew up in Saudi Arabia. He was the Libertarian congressional nominee in the San Francisco Bay Area in 2002.",
+  "website": "https://www.getmaad.org",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No issue positions could be found on his campaign site or Libertarian Party profile."
+ },
+ {
+  "id": "NC-8/mark-harris",
+  "name": "Mark Harris",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-8",
+  "bio": "Mark Harris has represented North Carolina's 8th District since January 2025. A Baptist pastor, he led First Baptist Church in Charlotte and Trinity Baptist Church in Mooresville and was president of the Baptist State Convention of North Carolina. He was born in Winston-Salem and studied at Appalachian State University and Southeastern Baptist Theological Seminary.",
+  "website": "https://markharrisforcongress.org",
+  "social": {
+   "x": "https://x.com/RepMarkHarrisNC",
+   "instagram": "https://www.instagram.com/repmarkharris",
+   "facebook": "https://www.facebook.com/RepMarkHarris"
+  },
+  "platform": [
+   {
+    "topic": "Spending",
+    "point": "Cut federal spending and reduce the national debt; supports a Balanced Budget Amendment.",
+    "source": "https://markharris.house.gov/issues"
+   },
+   {
+    "topic": "Border",
+    "point": "Secure the border and back federal law enforcement.",
+    "source": "https://markharrisforcongress.org/"
+   },
+   {
+    "topic": "Education",
+    "point": "Return education decisions to states and local communities.",
+    "source": "https://markharris.house.gov/issues"
+   },
+   {
+    "topic": "Life and family",
+    "point": "Protect unborn life and traditional family values.",
+    "source": "https://markharris.house.gov/issues"
+   },
+   {
+    "topic": "Religious liberty",
+    "point": "Safeguard religious expression in public life.",
+    "source": "https://markharris.house.gov/issues"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Expand access to VA care and reduce delays in benefits.",
+    "source": "https://markharris.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Calls for cutting regulations and federal spending and voted for the 2025 tax law.",
+    "source": "https://markharris.house.gov/issues"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Opposes the ACA and voted for the 2025 budget law with Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Abortion: opposed Roe; LGBTQ: supports marriage as one man and one woman; guns: defends Second Amendment rights.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Prioritizes border security, opposes unchecked immigration and voted for the Laken Riley Act.",
+    "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Campaign lists strengthening the military among its core priorities.",
+    "source": "https://markharrisforcongress.org/"
+   },
+   "energy": {
+    "score": 10,
+    "evidence": "Has said he does not accept that humans are causing climate change.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)"
+   },
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Advocates abolishing the U.S. Department of Education and returning control to states.",
+    "source": "https://en.wikipedia.org/wiki/Mark_Harris_(North_Carolina_politician)"
+   },
+   "faith": {
+    "score": 95,
+    "evidence": "Says the nation was founded on Biblical principles and prioritizes religious liberty.",
+    "source": "https://markharris.house.gov/issues"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://static.wixstatic.com/media/0265dd_65d5e17591564b20963a30a50e66817b~mv2.jpg",
+  "notes": "Earlier tech score of 25 was removed because no supporting evidence was found; the foreign score rests on thin evidence."
+ },
+ {
+  "id": "NC-8/colby-watson",
+  "name": "Colby Watson",
+  "party": "Democratic",
+  "current_role": "Owner of Garnet Contracting, a construction company",
+  "bio": "Colby Watson owns a construction company and is making his first run for public office. He was born in Indian Trail, was homeschooled, and lives in Monroe.",
+  "website": "https://www.colbyforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/colbyforcongress",
+   "facebook": "https://www.facebook.com/colbyforcongress",
+   "tiktok": "https://www.tiktok.com/@colbyforcongress"
+  },
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Stop large institutional investors from buying homes and increase starter-home supply.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Ban congressional stock trading and strengthen campaign finance and ethics laws.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   {
+    "topic": "Data centers and AI",
+    "point": "Require data centers to disclose water and power use, end their subsidies and set AI guardrails.",
+    "source": "https://www.colbyforcongress.com/data-centers-ai"
+   },
+   {
+    "topic": "Health care",
+    "point": "Strengthen antitrust enforcement in health care and lower prescription drug costs.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Fund police, fight fentanyl trafficking and treat addiction as a medical condition.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure the border with technology and infrastructure and modernize legal immigration.",
+    "source": "https://www.colbyforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 50,
+    "evidence": "Wants fewer regulations on small businesses alongside antitrust action and support for domestic manufacturing.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "Proposes lowering prescription drug costs and cutting health care administrative overhead.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Guns and speech: defends First and Second Amendment rights; LGBTQ: supports equal rights regardless of identity.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   "security": {
+    "score": 55,
+    "evidence": "Supports funding police and combating fentanyl trafficking.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   "immigration": {
+    "score": 50,
+    "evidence": "Backs border security technology plus modernized legal immigration.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   "foreign": {
+    "score": 50,
+    "evidence": "Describes a foreign policy of peace through strength and diplomacy.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   "energy": null,
+   "tech": {
+    "score": 75,
+    "evidence": "Supports enforceable AI guardrails, data center transparency and possible moratoriums on new data centers.",
+    "source": "https://www.colbyforcongress.com/data-centers-ai"
+   },
+   "education": {
+    "score": 60,
+    "evidence": "Supports funding public schools and raising teacher pay while keeping parental choice.",
+    "source": "https://www.colbyforcongress.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/2668f1_f3759f1fc7ce43dfb6a892a05cd717d7~mv2.jpg",
+  "notes": "His energy and environment page was marked as coming soon."
+ },
+ {
+  "id": "NC-8/bo-whitehead",
+  "name": "Bo Whitehead",
+  "party": "Green",
+  "current_role": "Warehouse and transportation worker",
+  "bio": "Robert \"Bo\" Whitehead is the Green Party nominee in North Carolina's 8th District. He moved to Charlotte from rural Georgia and has worked as a warehouse supervisor, truck driver and loss prevention agent.",
+  "website": "https://whiteheadforcongressnc.carrd.co/",
+  "social": {
+   "instagram": "https://www.instagram.com/Whitehead_for_congress_nc"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Establish universal health care and childcare and overhaul mental health services.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   {
+    "topic": "Workers",
+    "point": "Set a $25 minimum wage, require benefits and strengthen union protections.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Expand renewable energy and impose a moratorium on data centers.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Dismantle ICE and reorient immigration toward assistance.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   {
+    "topic": "Human trafficking",
+    "point": "Make combating human trafficking and forced labor a priority.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   {
+    "topic": "War",
+    "point": "Work to end wars and the killing of civilians worldwide.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 90,
+    "evidence": "Proposes a $25 minimum wage and mandatory employee benefits.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Calls for universal health care and universal childcare.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 10,
+    "evidence": "Calls for dismantling ICE.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 90,
+    "evidence": "Supports expanding renewable energy and a data center moratorium.",
+    "source": "https://whiteheadforcongressnc.carrd.co/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Positions come from a brief campaign page."
+ },
+ {
+  "id": "NC-9/richard-hudson",
+  "name": "Richard Hudson",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-9; Chair of the NRCC",
+  "bio": "Richard Hudson has served in the U.S. House since 2013 and has chaired the National Republican Congressional Committee since 2023. He was earlier a congressional district director, a state party communications director and founder of a consulting firm. He was raised in the Charlotte area and graduated from UNC Charlotte.",
+  "website": "https://richardhudson.org",
+  "social": {
+   "x": "https://x.com/RepRichHudson",
+   "facebook": "https://www.facebook.com/RepRichHudson",
+   "youtube": "https://www.youtube.com/RepRichHudson"
+  },
+  "platform": [
+   {
+    "topic": "Border",
+    "point": "Secure the southern border and stop drug trafficking.",
+    "source": "https://richardhudson.org/protecting-our-border-and-community/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Push for EPA action on PFAS pollution and pursue market-based emissions reductions.",
+    "source": "https://richardhudson.org/environment/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Create jobs through low taxes and limited regulation.",
+    "source": "https://hudson.house.gov/issues"
+   },
+   {
+    "topic": "Second Amendment",
+    "point": "Oppose new restrictions on law-abiding gun owners.",
+    "source": "https://hudson.house.gov/issues"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Ensure veterans receive promised care and benefits.",
+    "source": "https://richardhudson.org/veterans/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Supports low taxes and minimal regulation and voted for the 2025 tax law.",
+    "source": "https://hudson.house.gov/issues"
+   },
+   "welfare": {
+    "score": 10,
+    "evidence": "Has voted repeatedly to repeal the ACA and backed the 2025 law adding Medicaid work requirements.",
+    "source": "https://en.wikipedia.org/wiki/Richard_Hudson_(American_politician)"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "LGBTQ: voted against the Respect for Marriage Act; guns: opposes red flag laws; abortion: pro-life.",
+    "source": "https://en.wikipedia.org/wiki/Richard_Hudson_(American_politician)"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Voted for the Laken Riley Act and supported the 2017 travel ban.",
+    "source": "https://en.wikipedia.org/wiki/Richard_Hudson_(American_politician)"
+   },
+   "foreign": {
+    "score": 70,
+    "evidence": "Supports a militarily superior United States and Israel's defense.",
+    "source": "https://hudson.house.gov/issues"
+   },
+   "energy": {
+    "score": 20,
+    "evidence": "Opposes barriers to domestic drilling but is a founding member of the Conservative Climate Caucus.",
+    "source": "https://richardhudson.org/environment/"
+   },
+   "tech": null,
+   "education": {
+    "score": 5,
+    "evidence": "Supports school choice and vouchers per his issue record.",
+    "source": "https://www.ontheissues.org/NC/Richard_Hudson.htm"
+   },
+   "faith": {
+    "score": 85,
+    "evidence": "Issue record supports religious expression in public life.",
+    "source": "https://www.ontheissues.org/NC/Richard_Hudson.htm"
+   }
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "",
+  "notes": "Energy score raised from 10 to 20 given his Conservative Climate Caucus membership and PFAS work."
+ },
+ {
+  "id": "NC-9/richard-ojeda",
+  "name": "Richard Ojeda",
+  "party": "Democratic",
+  "current_role": "Retired U.S. Army major",
+  "bio": "Richard Ojeda served 24 years in the U.S. Army, including two tours in Iraq and years at Fort Bragg, and retired as a major. He served in the West Virginia Senate from 2017 to 2019, ran for Congress in West Virginia in 2018 and briefly sought the 2020 presidential nomination. Raised in Logan, West Virginia, he moved to North Carolina in 2020.",
+  "website": "https://ojedafornc.com",
+  "social": {
+   "x": "https://x.com/ojedafornc",
+   "instagram": "https://www.instagram.com/ojedafornc/",
+   "facebook": "https://www.facebook.com/ojedafornc/",
+   "tiktok": "https://www.tiktok.com/@ojedafornc",
+   "youtube": "https://www.youtube.com/@OjedaforNC"
+  },
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Replace ICE with an accountable enforcement system and create legal pathways for long-term workers.",
+    "source": "https://ojedafornc.com/immigration/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Oppose raising the retirement age or privatizing Social Security, and have the wealthiest pay more to fund it.",
+    "source": "https://ojedafornc.com/saving-social-security-2/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Strengthen Medicare and Medicaid and protect bodily autonomy.",
+    "source": "https://ojedafornc.com/ensuring-quality-healthcare/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Make polluters pay for cleanup, fund water treatment and create union clean-energy jobs.",
+    "source": "https://ojedafornc.com/environment/"
+   },
+   {
+    "topic": "Education",
+    "point": "Raise teacher pay and reduce student loan burdens.",
+    "source": "https://ojedafornc.com/protecting-education/"
+   },
+   {
+    "topic": "Veterans",
+    "point": "Protect and improve VA care, pensions and mental health support.",
+    "source": "https://ojedafornc.com/fighting-for-veterans/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Advocates higher taxes on corporations and backs union organizing rights.",
+    "source": "https://en.wikipedia.org/wiki/Richard_Ojeda"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Supports universal health care and expanding Medicaid.",
+    "source": "https://en.wikipedia.org/wiki/Richard_Ojeda"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Abortion: pro-choice; drugs: supports marijuana legalization; guns: now favors stricter restrictions.",
+    "source": "https://en.wikipedia.org/wiki/Richard_Ojeda"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Proposes replacing ICE and a path to status for long-term residents, alongside port-of-entry enforcement.",
+    "source": "https://ojedafornc.com/immigration/"
+   },
+   "foreign": {
+    "score": 30,
+    "evidence": "Opposed U.S. support for the Saudi intervention in Yemen and war with Iran.",
+    "source": "https://en.wikipedia.org/wiki/Richard_Ojeda"
+   },
+   "energy": {
+    "score": 55,
+    "evidence": "Backs union green-energy jobs, climate resilience infrastructure and making polluters pay for PFAS cleanup.",
+    "source": "https://ojedafornc.com/environment/"
+   },
+   "tech": null,
+   "education": {
+    "score": 70,
+    "evidence": "Supports raising teacher pay and backed the 2018 West Virginia teachers' strike.",
+    "source": "https://ojedafornc.com/protecting-education/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://ojedafornc.com/wp-content/uploads/2025/09/ojeda600.png",
+  "notes": "A CC BY-SA photo exists on Commons (File:Richard Ojeda shirt.jpg) but it comes from the campaign's Flickr account, so it was not used."
+ },
+ {
+  "id": "NC-10/pat-harrigan",
+  "name": "Pat Harrigan",
+  "party": "Republican",
+  "current_role": "U.S. Representative for NC-10",
+  "bio": "Pat Harrigan has represented North Carolina's 10th District since January 2025 and sits on the Armed Services and Science, Space, and Technology committees. A West Point graduate, he served as an Army Special Forces officer with two deployments to Afghanistan and later worked in business. He was born in San Diego County, California.",
+  "website": "https://www.harriganforcongressnc.com",
+  "social": {
+   "x": "https://x.com/RepPatHarrigan",
+   "instagram": "https://www.instagram.com/RepPatHarrigan",
+   "facebook": "https://www.facebook.com/RepPatHarrigan"
+  },
+  "platform": [
+   {
+    "topic": "Economy",
+    "point": "Cut government spending and regulation so Americans keep more of what they earn.",
+    "source": "https://www.harriganforcongressnc.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Pursue an all-of-the-above energy strategy including domestic resources and nuclear.",
+    "source": "https://harrigan.house.gov/issues"
+   },
+   {
+    "topic": "Border",
+    "point": "Enforce immigration laws and fight human trafficking and drug smuggling.",
+    "source": "https://harrigan.house.gov/issues"
+   },
+   {
+    "topic": "Public safety",
+    "point": "Fund police, improve school safety and oppose defunding law enforcement.",
+    "source": "https://www.harriganforcongressnc.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Expand school choice options for parents.",
+    "source": "https://www.harriganforcongressnc.com/"
+   },
+   {
+    "topic": "Defense",
+    "point": "Strengthen the military and invest in advanced technology.",
+    "source": "https://harrigan.house.gov/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Prioritizes removing regulatory barriers and voted for the 2025 tax law.",
+    "source": "https://harrigan.house.gov/issues"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Voted for the 2025 One Big Beautiful Bill Act, which added Medicaid work requirements.",
+    "source": "https://clerk.house.gov/evs/2025/roll190.xml"
+   },
+   "liberty": null,
+   "security": {
+    "score": 60,
+    "evidence": "Campaign opposes defunding police and calls for real consequences for lawbreakers.",
+    "source": "https://www.harriganforcongressnc.com/"
+   },
+   "immigration": {
+    "score": 70,
+    "evidence": "Supports stronger border enforcement and voted for the Laken Riley Act.",
+    "source": "https://clerk.house.gov/evs/2025/roll023.xml"
+   },
+   "foreign": {
+    "score": 60,
+    "evidence": "Former Green Beret who backs strengthening the military.",
+    "source": "https://harrigan.house.gov/issues"
+   },
+   "energy": {
+    "score": 35,
+    "evidence": "Supports an all-of-the-above strategy mixing fossil fuels, renewables and nuclear.",
+    "source": "https://harrigan.house.gov/issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Campaign promotes school choice for parents.",
+    "source": "https://www.harriganforcongressnc.com/"
+   },
+   "faith": null
+  },
+  "photo": {
+   "file": "official",
+   "license": "Public domain",
+   "author": "U.S. Congress"
+  },
+  "campaign_photo": "https://cdn.prod.website-files.com/62ff971928fc3cb1763c960e/6312836446c11ac9db21afe5_62%201.jpg",
+  "notes": "Welfare, security and education scores were newly added from his vote and campaign site."
+ },
+ {
+  "id": "NC-10/ashley-bell",
+  "name": "Ashley Bell",
+  "party": "Democratic",
+  "current_role": "Physician associate and educator",
+  "bio": "Ashley Bell is a physician associate with about 15 years of experience in emergency medicine, primary care, rural clinics and telemedicine, and has taught physician associate students. She grew up in rural East Texas, graduated from Wake Forest School of Medicine and lives in the Triad. She won the 2026 Democratic primary in NC-10.",
+  "website": "https://www.ashleybellforcongress.com",
+  "social": {
+   "instagram": "https://www.instagram.com/ashleybellforcongress/",
+   "facebook": "https://www.facebook.com/profile.php?id=61575088094417",
+   "tiktok": "https://www.tiktok.com/@ashleync10",
+   "youtube": "https://www.youtube.com/@AshleyBellForCongress"
+  },
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Establish universal health care and limit insurers' control over patient care.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   {
+    "topic": "AI and data centers",
+    "point": "Regulate artificial intelligence and data centers.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   {
+    "topic": "Ethics",
+    "point": "Ban congressional stock trading, overturn Citizens United and end dark money.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Abolish ICE and replace it with an accountable agency with due process protections.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   {
+    "topic": "Democracy",
+    "point": "Ban partisan gerrymandering and add Supreme Court term limits.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Platform centers on affordability and economic relief plus paid leave mandates.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Supports universal health care and paid family and sick leave.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Abortion: supports reproductive rights; LGBTQ: supports equality; guns: supports gun reform.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   "security": null,
+   "immigration": {
+    "score": 10,
+    "evidence": "Calls for abolishing ICE.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Calls for ending U.S. funding for Israel's operations against Palestinians.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   "energy": {
+    "score": 95,
+    "evidence": "Supports the Green New Deal.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   "tech": {
+    "score": 85,
+    "evidence": "Lists regulating AI and data centers as a top priority.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Advocates fully funded public schools and fair teacher pay.",
+    "source": "https://www.ashleybellforcongress.com/issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-10/steven-feldman",
+  "name": "Steven Feldman",
+  "party": "Libertarian",
+  "current_role": "Dermatologist",
+  "bio": "Steven Feldman is a dermatologist from Winston-Salem running as the Libertarian nominee in NC-10. He holds a bachelor's degree from the University of Chicago and an M.D. and Ph.D. from Duke University.",
+  "website": "https://www.stevefeldmanforcongress.com",
+  "social": {
+   "x": "https://x.com/Feldman_4_USC",
+   "instagram": "https://www.instagram.com/steve_feldman_for_congress",
+   "facebook": "https://www.facebook.com/profile.php?id=61560699659629",
+   "youtube": "https://www.youtube.com/channel/UCKOE-wgt2ByqHsDhcbB-eUA"
+  },
+  "platform": [
+   {
+    "topic": "Debt",
+    "point": "Cut federal spending and pay down the national debt.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Replace the tax code with a flat tax and sales tax, rebating income up to the poverty line.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   {
+    "topic": "Drugs",
+    "point": "Legalize or decriminalize drugs at the federal level to weaken cartels.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "End sanctions on Iran and Cuba, pursue diplomacy in Ukraine and withdraw from NATO.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   {
+    "topic": "Health care",
+    "point": "Shift to market-based care with health savings accounts and an advisory-only FDA.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Proposes a flat tax plus sales tax and deep federal spending cuts.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   "welfare": {
+    "score": 10,
+    "evidence": "Supports market-based Medicare and Medicaid cuts and higher eligibility ages.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Drugs: legalize; marriage: no government role; guns: oppose confiscation; speech: protect flag burning; abortion: limits after a set gestation.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   "security": null,
+   "immigration": {
+    "score": 30,
+    "evidence": "Says border-blocking policies have failed and favors addressing root causes of migration.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   "foreign": {
+    "score": 5,
+    "evidence": "Proposes U.S. withdrawal from NATO and ending interventionist missions.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Accepts climate change but says government should encourage rather than direct market responses.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   "tech": null,
+   "education": {
+    "score": 30,
+    "evidence": "Would end federal college subsidies and encourage more parental choice.",
+    "source": "https://www.stevefeldmanforcongress.com/my-positions"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "NC-11/jennifer-balkcom",
+  "name": "Jennifer Balkcom",
+  "party": "Republican",
+  "current_role": "North Carolina State Representative for District 117",
+  "bio": "Jennifer Balkcom has represented Henderson County in the North Carolina House since 2023. She has worked as a mortgage loan officer since 1998, owns a small business, and served on the Henderson County planning board. She grew up on her family's apple farm in Henderson County and was nominated by the state Republican Party for NC-11 in August 2026 after Chuck Edwards withdrew.",
+  "website": "https://jenniferbalkcom.com",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Cut or eliminate the state income tax and reduce regulation to fight inflation.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   {
+    "topic": "Agriculture",
+    "point": "Protect farmland and restrict foreign acquisition of agricultural land.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   {
+    "topic": "Parental rights",
+    "point": "Require parental consent for minors' medical care and expand parental rights in schools.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Verify immigration status for public benefits and deport criminal noncitizens.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Supports cutting or eliminating the state income tax and deregulation.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   "welfare": {
+    "score": 15,
+    "evidence": "Opposed Medicaid expansion for able-bodied childless adults.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Abortion: backed a 12-week ban with exceptions; LGBTQ: backed transgender sports ban; guns: opposes gun control.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Backed immigration status checks for state benefits and deporting criminal noncitizens.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 25,
+    "evidence": "Backed barring banks from denying services over agricultural carbon emissions.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Backed vouchers and the Parents' Bill of Rights.",
+    "source": "https://en.wikipedia.org/wiki/Jennifer_Balkcom"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Earlier security score of 60 was removed for lack of cited evidence; the Commons legislator portrait relies on a state disclaimer rather than a named licence, so it was not used."
+ }
+]

@@ -1,0 +1,457 @@
+[
+ {
+  "id": "CA-5/tom-mcclintock",
+  "name": "Tom McClintock",
+  "party": "Republican",
+  "race": "CA-5",
+  "race_label": "California · US House CA-5",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001177",
+   "official_name": "Tom McClintock",
+   "chamber": "House",
+   "official_site": "https://mcclintock.house.gov",
+   "official_social": {
+    "twitter": "RepMcClintock",
+    "facebook": "81125319109",
+    "youtube": "McClintockCA04",
+    "instagram": "repmcclintock"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 10,
+    "welfare": 10,
+    "liberty": 65,
+    "security": 25,
+    "immigration": 90,
+    "foreign": 25,
+    "energy": 5,
+    "tech": 20,
+    "education": 15,
+    "faith": 70
+   },
+   "basis": "Backs tax cuts, entitlement privatization, abortion limits, gun rights but cannabis legalization, border fence, vouchers; opposes PATRIOT surveillance, foreign deployments, climate rules.",
+   "sources": [
+    "https://www.ontheissues.org/CA/Tom_McClintock.htm",
+    "https://en.wikipedia.org/wiki/Tom_McClintock"
+   ],
+   "photo": {
+    "file": "File:Tom McClintock portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-5/michael-masuda",
+  "name": "Michael Masuda",
+  "party": "Democratic",
+  "race": "CA-5",
+  "race_label": "California · US House CA-5",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 60,
+    "liberty": 25,
+    "security": null,
+    "immigration": 45,
+    "foreign": 70,
+    "energy": 55,
+    "tech": null,
+    "education": 80,
+    "faith": null
+   },
+   "basis": "Platform backs lower drug costs, protecting Medicare, LGBTQ rights, border security plus an earned path, NATO alliances, grid modernization and public schools.",
+   "sources": [
+    "https://www.votemasuda.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-6/kevin-kiley",
+  "name": "Kevin Kiley",
+  "party": "No party preference",
+  "race": "CA-6",
+  "race_label": "California · US House CA-6",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "K000401",
+   "official_name": "Kevin Kiley",
+   "chamber": "House",
+   "official_site": "https://kiley.house.gov",
+   "official_social": {
+    "twitter": "RepKiley",
+    "facebook": "100089382125341",
+    "youtube": "@repkevinkiley"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": 35,
+    "liberty": 55,
+    "security": 60,
+    "immigration": 75,
+    "foreign": 60,
+    "energy": 25,
+    "tech": null,
+    "education": 30,
+    "faith": null
+   },
+   "basis": "Opposes sanctuary laws, new gun laws, vaccine mandates and California's gas-car ban; calls abortion a state issue; backs charter schools, tougher sentences.",
+   "sources": [
+    "https://www.ontheissues.org/CA/Kevin_Kiley.htm",
+    "https://en.wikipedia.org/wiki/Kevin_Kiley_(politician)"
+   ],
+   "photo": {
+    "file": "File:Rep. Kevin Kiley official photo, 118th Congress 2.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "CA-6/richard-pan",
+  "name": "Richard Pan",
+  "party": "Democratic",
+  "race": "CA-6",
+  "race_label": "California · US House CA-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 70,
+    "liberty": 40,
+    "security": 45,
+    "immigration": 20,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 15
+   },
+   "basis": "Backs codifying Roe, assault weapons ban, ending vaccine religious exemptions, ACA protection, citizenship path, replacing ICE and ending tariffs.",
+   "sources": [
+    "https://drpanforcongress.com/",
+    "https://en.wikipedia.org/wiki/Richard_Pan"
+   ],
+   "photo": {
+    "file": "File:Richard Pan (cropped).jpg",
+    "license": "Public domain",
+    "author": "California Senate"
+   }
+  }
+ },
+ {
+  "id": "CA-7/doris-matsui",
+  "name": "Doris Matsui",
+  "party": "Democratic",
+  "race": "CA-7",
+  "race_label": "California · US House CA-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "M001163",
+   "official_name": "Doris O. Matsui",
+   "chamber": "House",
+   "official_site": "https://matsui.house.gov",
+   "official_social": {
+    "twitter": "DorisMatsui",
+    "facebook": "doris.matsui",
+    "youtube": "RepDorisMatsui",
+    "instagram": "repdorismatsui"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": 25,
+    "security": 30,
+    "immigration": 20,
+    "foreign": 60,
+    "energy": 85,
+    "tech": 70,
+    "education": 85,
+    "faith": 25
+   },
+   "basis": "Backs progressive taxes, ACA, abortion and LGBTQ rights, gun control, citizenship path, Ukraine aid, renewables, net neutrality; opposes vouchers and bulk surveillance.",
+   "sources": [
+    "https://www.ontheissues.org/CA/Doris_Matsui.htm",
+    "https://en.wikipedia.org/wiki/Doris_Matsui"
+   ],
+   "photo": {
+    "file": "File:Doris Matsui portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives — Office of the Clerk"
+   }
+  }
+ },
+ {
+  "id": "CA-7/mai-vang",
+  "name": "Mai Vang",
+  "party": "Democratic",
+  "race": "CA-7",
+  "race_label": "California · US House CA-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 90,
+    "welfare": 95,
+    "liberty": 15,
+    "security": 5,
+    "immigration": 0,
+    "foreign": 10,
+    "energy": null,
+    "tech": 95,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Backs taxing billionaires, Medicare for All, universal child care, abolishing ICE, ending Israel military aid, AI safety rules, data-center moratorium; opposes vouchers, Flock.",
+   "sources": [
+    "https://www.maiforus.com/platform",
+    "https://en.wikipedia.org/wiki/Mai_Vang"
+   ],
+   "photo": {
+    "file": "File:Sacramento City Councilmember Mai Vang.jpg",
+    "license": "Public domain",
+    "author": "Sacramento City Council"
+   }
+  }
+ },
+ {
+  "id": "CA-8/john-garamendi",
+  "name": "John Garamendi",
+  "party": "Democratic",
+  "race": "CA-8",
+  "race_label": "California · US House CA-8",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "G000559",
+   "official_name": "John Garamendi",
+   "chamber": "House",
+   "official_site": "https://garamendi.house.gov",
+   "official_social": {
+    "twitter": "RepGaramendi",
+    "facebook": "repgaramendi",
+    "youtube": "garamendiCA10",
+    "instagram": "repgaramendi"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 90,
+    "liberty": 20,
+    "security": 20,
+    "immigration": 30,
+    "foreign": 40,
+    "energy": 90,
+    "tech": 60,
+    "education": 85,
+    "faith": 15
+   },
+   "basis": "Cosponsored Medicare for All and Green New Deal; called 2017 tax law a scam; backs abortion rights, gun limits, citizenship path; opposed PATRIOT extension.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/John_Garamendi",
+    "https://www.ontheissues.org/CA/John_Garamendi.htm"
+   ],
+   "photo": {
+    "file": "File:John Garamendi portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives — Office of the Clerk"
+   }
+  }
+ },
+ {
+  "id": "CA-8/rudy-recile",
+  "name": "Rudy Recile",
+  "party": "Republican",
+  "race": "CA-8",
+  "race_label": "California · US House CA-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 10,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Campaign backs cutting government spending, expanded fossil-fuel energy production and school choice.",
+   "sources": [
+    "https://rudyforuscongress.com/index.php/issues/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-9/josh-harder",
+  "name": "Josh Harder",
+  "party": "Democratic",
+  "race": "CA-9",
+  "race_label": "California · US House CA-9",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "H001090",
+   "official_name": "Josh Harder",
+   "chamber": "House",
+   "official_site": "https://harder.house.gov",
+   "official_social": {
+    "twitter": "RepJoshHarder"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 55,
+    "welfare": 55,
+    "liberty": 25,
+    "security": 60,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 60,
+    "tech": null,
+    "education": 65,
+    "faith": null
+   },
+   "basis": "Gas-tax repeal and insulin cap; backs abortion rights (liberty); funds police; DREAM Act plus border security; climate FARM Act; public school funding.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Josh_Harder",
+    "https://harderforcongress.com/issues"
+   ],
+   "photo": {
+    "file": "File:Josh Harder, official portrait, 116th Congress (cropped).jpg",
+    "license": "Public domain",
+    "author": "US House of Representatives"
+   }
+  }
+ },
+ {
+  "id": "CA-9/john-mcbride",
+  "name": "John McBride",
+  "party": "Republican",
+  "race": "CA-9",
+  "race_label": "California · US House CA-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 30,
+    "liberty": null,
+    "security": 70,
+    "immigration": 75,
+    "foreign": null,
+    "energy": 30,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Cut taxes and drastically shrink spending; backs law enforcement and prosecution; stronger southern border; energy independence.",
+   "sources": [
+    "https://www.johnmcbrideforcongress.com/priorities"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "CA-10/mark-desaulnier",
+  "name": "Mark DeSaulnier",
+  "party": "Democratic",
+  "race": "CA-10",
+  "race_label": "California · US House CA-10",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "D000623",
+   "official_name": "Mark DeSaulnier",
+   "chamber": "House",
+   "official_site": "https://desaulnier.house.gov",
+   "official_social": {
+    "twitter": "RepDeSaulnier",
+    "facebook": "RepMarkDeSaulnier",
+    "instagram": "repdesaulnier"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 70,
+    "liberty": 20,
+    "security": null,
+    "immigration": null,
+    "foreign": 45,
+    "energy": 85,
+    "tech": 75,
+    "education": null,
+    "faith": null
+   },
+   "basis": "CEO pay tax and worker protections; opposed 2023 debt deal; abortion rights; mixed foreign-aid votes; EV charging, emission standards; platform accountability.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mark_DeSaulnier",
+    "https://desaulnierforcongress.com/issues"
+   ],
+   "photo": {
+    "file": "File:Mark DeSaulnier portrait (118th Congress).jpg",
+    "license": "Public domain",
+    "author": "U.S. House of Representatives, Office of the Clerk"
+   }
+  }
+ },
+ {
+  "id": "CA-10/jeff-frese",
+  "name": "Jeff Frese",
+  "party": "Republican",
+  "race": "CA-10",
+  "race_label": "California · US House CA-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 45,
+    "liberty": null,
+    "security": 75,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 35,
+    "faith": null
+   },
+   "basis": "Cut deficit spending and red tape; no Social Security cuts; back police, end cashless bail; parents in charge of schools.",
+   "sources": [
+    "https://freseforcongress.com/"
+   ],
+   "photo": null
+  }
+ }
+]

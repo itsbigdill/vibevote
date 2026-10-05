@@ -1,0 +1,406 @@
+[
+ {
+  "id": "MO-2/fred-wellman",
+  "name": "Fred Wellman",
+  "party": "Democratic",
+  "race": "MO-2",
+  "race_label": "Missouri · US House MO-2",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 80,
+    "liberty": 20,
+    "security": null,
+    "immigration": 35,
+    "foreign": 85,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": 20
+   },
+   "basis": "Higher minimum wage, labor rights, universal coverage goal, abortion rights, commonsense immigration with secure borders, Ukraine military aid, NATO; opposes military religious infusion.",
+   "sources": [
+    "https://www.wellmanformo.com/policy"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-2/brandon-coulter-daugherty",
+  "name": "Brandon Coulter Daugherty",
+  "party": "Libertarian",
+  "race": "MO-2",
+  "race_label": "Missouri · US House MO-2",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-3/bob-onder",
+  "name": "Bob Onder",
+  "party": "Republican",
+  "race": "MO-3",
+  "race_label": "Missouri · US House MO-3",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "O000177",
+   "official_name": "Robert F. Onder, Jr.",
+   "chamber": "House",
+   "official_site": "https://onder.house.gov",
+   "official_social": {
+    "twitter": "RepBobOnder",
+    "facebook": "RepBobOnder",
+    "instagram": "repbobonder"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 25,
+    "liberty": 60,
+    "security": null,
+    "immigration": 90,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 20,
+    "faith": 70
+   },
+   "basis": "Tax cuts, 2025 tax-and-Medicaid bill vote, anti-abortion, constitutional carry, anti-sanctuary laws, education freedom, religious liberty.",
+   "sources": [
+    "https://onder.house.gov/issues",
+    "https://www.bobondermo.com/"
+   ],
+   "photo": {
+    "file": "File:Onder Bob 119th Congress.jpg",
+    "license": "Public domain",
+    "author": "Ike Hayman, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "MO-3/bethany-mann",
+  "name": "Bethany Mann",
+  "party": "Democratic",
+  "race": "MO-3",
+  "race_label": "Missouri · US House MO-3",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": 90,
+    "liberty": 15,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 80,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Collective bargaining, Medicare for All, abortion as healthcare, renewable energy transition, full public-school funding over private schools.",
+   "sources": [
+    "https://www.bethanymannforcongress.com/platform"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-3/jim-higgins",
+  "name": "Jim Higgins",
+  "party": "Libertarian",
+  "race": "MO-3",
+  "race_label": "Missouri · US House MO-3",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-4/mark-alford",
+  "name": "Mark Alford",
+  "party": "Republican",
+  "race": "MO-4",
+  "race_label": "Missouri · US House MO-4",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "A000379",
+   "official_name": "Mark Alford",
+   "chamber": "House",
+   "official_site": "https://alford.house.gov",
+   "official_social": {
+    "twitter": "RepMarkAlford",
+    "facebook": "100089595940547",
+    "instagram": "RepMarkAlford",
+    "youtube": "@RepAlford"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 30,
+    "welfare": 25,
+    "liberty": 55,
+    "security": null,
+    "immigration": 95,
+    "foreign": null,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": 80
+   },
+   "basis": "Backs tariffs and 2025 tax-and-Medicaid bill, pro-life, Second Amendment, finish wall and deport, opposes EPA overreach; faith-driven values.",
+   "sources": [
+    "https://www.ontheissues.org/House/Mark_Alford.htm",
+    "https://en.wikipedia.org/wiki/Mark_Alford"
+   ],
+   "photo": {
+    "file": "File:Rep. Mark Alford official photo, 118th Congress.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "MO-4/jordan-herrera",
+  "name": "Jordan Herrera",
+  "party": "Democratic",
+  "race": "MO-4",
+  "race_label": "Missouri · US House MO-4",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 85,
+    "liberty": 15,
+    "security": null,
+    "immigration": 35,
+    "foreign": 35,
+    "energy": 60,
+    "tech": 75,
+    "education": 85,
+    "faith": 20
+   },
+   "basis": "Close corporate loopholes, Medicare for All path, abortion and LGBTQ rights, earned citizenship, diplomacy first, all-of-the-above energy, AI regulation, public schools.",
+   "sources": [
+    "https://jordanjherrera.com/issues"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-4/thomas-holbrook",
+  "name": "Thomas Holbrook",
+  "party": "Libertarian",
+  "race": "MO-4",
+  "race_label": "Missouri · US House MO-4",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-5/emanuel-cleaver",
+  "name": "Emanuel Cleaver",
+  "party": "Democratic",
+  "race": "MO-5",
+  "race_label": "Missouri · US House MO-5",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "C001061",
+   "official_name": "Emanuel Cleaver",
+   "chamber": "House",
+   "official_site": "https://cleaver.house.gov",
+   "official_social": {
+    "twitter": "RepCleaver",
+    "facebook": "emanuelcleaverii",
+    "youtube": "repcleaver",
+    "instagram": "repcleaver"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": 80,
+    "welfare": 85,
+    "liberty": 30,
+    "security": 30,
+    "immigration": 15,
+    "foreign": 55,
+    "energy": 80,
+    "tech": null,
+    "education": 90,
+    "faith": null
+   },
+   "basis": "Progressive taxes, higher minimum wage, ACA expansion, pro-choice, same-sex marriage, background checks, against Patriot Act extension, DREAMers, green energy, opposes vouchers.",
+   "sources": [
+    "https://www.ontheissues.org/House/Emanuel_Cleaver.htm",
+    "https://en.wikipedia.org/wiki/Emanuel_Cleaver"
+   ],
+   "photo": {
+    "file": "File:Emanuel Cleaver official photo.jpg",
+    "license": "Public domain",
+    "author": "US House Office of Photography"
+   }
+  }
+ },
+ {
+  "id": "MO-5/rick-brattin",
+  "name": "Rick Brattin",
+  "party": "Republican",
+  "race": "MO-5",
+  "race_label": "Missouri · US House MO-5",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 70,
+    "security": 65,
+    "immigration": 90,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": 20,
+    "faith": 90
+   },
+   "basis": "Tax and spending cuts, anti-abortion, anti-gay remarks, NRA gun rights, protest-force bill, deport and fund ICE, energy expansion, parental oversight, intelligent design.",
+   "sources": [
+    "https://rickbrattin.com/issues",
+    "https://en.wikipedia.org/wiki/Rick_Brattin"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-5/randy-langkraehr",
+  "name": "Randy Langkraehr",
+  "party": "Libertarian",
+  "race": "MO-5",
+  "race_label": "Missouri · US House MO-5",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "MO-6/chris-stigall",
+  "name": "Chris Stigall",
+  "party": "Republican",
+  "race": "MO-6",
+  "race_label": "Missouri · US House MO-6",
+  "race_status": "Nominees set; map appeal pending",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": 30,
+    "liberty": 50,
+    "security": null,
+    "immigration": 90,
+    "foreign": null,
+    "energy": null,
+    "tech": 15,
+    "education": 20,
+    "faith": null
+   },
+   "basis": "Permanent Trump tax cuts, fewer health regulations, pro-life, Second Amendment, finish the wall, light crypto regulation, school choice advocacy.",
+   "sources": [
+    "https://www.stigallforcongress.com/issues",
+    "https://www.stigallforcongress.com/"
+   ],
+   "photo": {
+    "file": "File:Chris Stigall 2017 (cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Jared Hart"
+   }
+  }
+ }
+]

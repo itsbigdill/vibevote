@@ -1,0 +1,401 @@
+[
+ {
+  "id": "IL-12/mike-bost",
+  "name": "Mike Bost",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IL-12",
+  "bio": "Mike Bost has represented southern Illinois in the U.S. House since 2015 and chairs the House Veterans' Affairs Committee. He served in the Illinois House from 1995 to 2015 and earlier on the Jackson County Board. A Marine Corps veteran from Murphysboro, he worked as a firefighter and ran a family trucking business and a salon.",
+  "website": "https://bostforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepBost",
+   "facebook": "https://www.facebook.com/RepBost"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Campaigns on securing the southern border and enforcing immigration law.", "source": "https://bostforcongress.com/"},
+   {"topic": "Taxes", "point": "Wants the 2017 individual tax cuts made permanent to support economic growth.", "source": "https://en.wikipedia.org/wiki/Mike_Bost"},
+   {"topic": "Guns", "point": "Pledges to defend Second Amendment rights.", "source": "https://bostforcongress.com/"},
+   {"topic": "Abortion", "point": "Runs on protecting life and lists pro-life issues among his priorities.", "source": "https://bostforcongress.com/"},
+   {"topic": "Veterans", "point": "As Veterans' Affairs chair, focuses on veterans' benefits and care.", "source": "https://bost.house.gov/issues"},
+   {"topic": "Energy", "point": "Backs expanding domestic energy production under an energy dominance approach.", "source": "https://bostforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 20, "evidence": "Voted for the 2017 Tax Cuts and Jobs Act and supports making the individual cuts permanent.", "source": "https://en.wikipedia.org/wiki/Mike_Bost"},
+   "welfare": {"score": 25, "evidence": "Supported the American Health Care Act to replace the Affordable Care Act.", "source": "https://en.wikipedia.org/wiki/Mike_Bost"},
+   "liberty": {"score": 80, "evidence": "Campaigns as pro-life and on defending gun rights, and criticised the Obergefell same-sex marriage ruling (abortion, guns, LGBTQ).", "source": "https://bostforcongress.com/"},
+   "security": null,
+   "immigration": {"score": 75, "evidence": "Lists securing the border and immigration enforcement among his core campaign priorities.", "source": "https://bostforcongress.com/"},
+   "foreign": {"score": 45, "evidence": "Voted for aid to Israel after October 7 but against the 2024 Ukraine military aid package.", "source": "https://en.wikipedia.org/wiki/Mike_Bost"},
+   "energy": {"score": 25, "evidence": "Campaign site promotes energy dominance through expanded domestic production.", "source": "https://bostforcongress.com/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://bostforcongress.com/wp-content/uploads/2018/02/Bost_Landing.png",
+  "notes": "Immigration and energy scores are new, based on campaign priorities rather than specific votes."
+ },
+ {
+  "id": "IL-12/julie-fortier",
+  "name": "Julie Fortier",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Julie Fortier is the Democratic nominee for Illinois's 12th congressional district in 2026. Public information about her background was not found in the sources reviewed.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null,
+   "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website, biography or issue statements could be located; Ballotpedia was not reachable during research."
+ },
+ {
+  "id": "IL-13/nikki-budzinski",
+  "name": "Nikki Budzinski",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for IL-13",
+  "bio": "Nikki Budzinski has represented Illinois's 13th district in the U.S. House since 2023. A Peoria native, she spent years in the labor movement, including as national political director for the UFCW, and was a senior adviser to Governor J.B. Pritzker. In 2021 she served as chief of staff to the director of the Office of Management and Budget.",
+  "website": "https://nikkiforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepNikkiB",
+   "instagram": "https://www.instagram.com/repnikki",
+   "facebook": "https://www.facebook.com/RepNikkiBudzinski",
+   "youtube": "https://www.youtube.com/channel/UCp0Ykb-qUGx3ekTH9MIEK-w"
+  },
+  "platform": [
+   {"topic": "Labor", "point": "Original cosponsor of the PRO Act and backs faster first union contracts.", "source": "https://en.wikipedia.org/wiki/Nikki_Budzinski"},
+   {"topic": "Cost of living", "point": "Makes lowering grocery, gas and household costs a central campaign theme.", "source": "https://nikkiforcongress.com/"},
+   {"topic": "Energy", "point": "Supports an all-of-the-above approach, restored clean energy tax credits, faster permitting and grid upgrades.", "source": "https://nikkiforcongress.com/issues/building-americas-energy-future/"},
+   {"topic": "Immigration", "point": "Backs bipartisan comprehensive reform, border technology, ICE accountability and a citizenship path via the Dream and Promise Act.", "source": "https://nikkiforcongress.com/issues/fixing-our-immigration-system/"},
+   {"topic": "Agriculture", "point": "Pushes stronger crop insurance, year-round E15 sales and protecting nutrition programs in the farm bill.", "source": "https://en.wikipedia.org/wiki/Nikki_Budzinski"},
+   {"topic": "Reproductive rights", "point": "Supports codifying Roe v. Wade.", "source": "https://en.wikipedia.org/wiki/Nikki_Budzinski"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Original cosponsor of the PRO Act and the Faster Labor Contracts Act.", "source": "https://en.wikipedia.org/wiki/Nikki_Budzinski"},
+   "welfare": {"score": 55, "evidence": "Opposes Medicare for All but opposes cuts to nutrition programs and defends existing coverage.", "source": "https://en.wikipedia.org/wiki/Nikki_Budzinski"},
+   "liberty": {"score": 20, "evidence": "Supports codifying Roe v. Wade and repealing the Hyde Amendment (abortion).", "source": "https://en.wikipedia.org/wiki/Nikki_Budzinski"},
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Voted for the Laken Riley Act while backing a pathway to citizenship and ICE reform.", "source": "https://nikkiforcongress.com/issues/fixing-our-immigration-system/"},
+   "foreign": {"score": 75, "evidence": "Cosponsored pro-Israel resolutions and voted for military aid to Israel.", "source": "https://en.wikipedia.org/wiki/Nikki_Budzinski"},
+   "energy": {"score": 55, "evidence": "Backs clean energy tax credits alongside expanded nuclear and natural gas generation.", "source": "https://nikkiforcongress.com/issues/building-americas-energy-future/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score is new, from her campaign's all-of-the-above energy page."
+ },
+ {
+  "id": "IL-13/jeff-wilson",
+  "name": "Jeff Wilson",
+  "party": "Republican",
+  "current_role": "Champaign County Board member",
+  "bio": "Jeff Wilson serves on the Champaign County Board. He is a U.S. Navy veteran who served on a nuclear-powered submarine and holds a master's degree in nuclear engineering from the University of Illinois.",
+  "website": "https://www.wilsonforcongress.com/",
+  "social": {
+   "x": "https://x.com/WilsonforIL13",
+   "instagram": "https://www.instagram.com/wilsonforcongress",
+   "facebook": "https://www.facebook.com/profile.php?id=61573386374455"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Wants to lower utility and food costs by expanding Midwest energy, strengthening farms and cutting regulation.", "source": "https://www.wilsonforcongress.com/issues"},
+   {"topic": "Energy", "point": "Supports expanding nuclear, oil and natural gas production.", "source": "https://www.wilsonforcongress.com/issues"},
+   {"topic": "Border", "point": "Prioritises border security and stopping fentanyl and human trafficking.", "source": "https://www.wilsonforcongress.com/issues"},
+   {"topic": "Law enforcement", "point": "Pledges to support and defend police.", "source": "https://www.wilsonforcongress.com/issues"},
+   {"topic": "Parental rights", "point": "Backs parental authority in education, opposes DEI programs and supports sex-based sports rules.", "source": "https://www.wilsonforcongress.com/issues"},
+   {"topic": "Constitution", "point": "Emphasises free speech, Second Amendment rights and limits on federal power.", "source": "https://www.wilsonforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 25, "evidence": "Proposes reducing regulations on families and small businesses.", "source": "https://www.wilsonforcongress.com/issues"},
+   "welfare": null,
+   "liberty": {"score": 85, "evidence": "Campaigns on protecting life and Second Amendment rights and on sex-based sports rules (abortion, guns, LGBTQ).", "source": "https://www.wilsonforcongress.com/issues"},
+   "security": {"score": 70, "evidence": "Lists defending law enforcement as a core priority.", "source": "https://www.wilsonforcongress.com/issues"},
+   "immigration": {"score": 85, "evidence": "Makes securing the border a core priority.", "source": "https://www.wilsonforcongress.com/issues"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Calls for expanding oil, natural gas and nuclear energy to lower costs.", "source": "https://www.wilsonforcongress.com/issues"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supports parental rights in schools and opposes DEI programs.", "source": "https://www.wilsonforcongress.com/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://static.wixstatic.com/media/f28da3_e7366a003bdf49579c7dd6e0d7fa6a54~mv2.png",
+  "notes": "Faith score (was 85) set to null: the campaign describes him as faith-guided but no specific religion-in-public-life position was found."
+ },
+ {
+  "id": "IL-14/lauren-underwood",
+  "name": "Lauren Underwood",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for IL-14",
+  "bio": "Lauren Underwood has represented Illinois's 14th district in the U.S. House since 2019 and co-chairs the House Democratic Policy and Communications Committee. A registered nurse raised in Naperville, she was a senior adviser at the Department of Health and Human Services working on the Affordable Care Act. She also worked in health-care strategy and taught at Georgetown University's nursing school.",
+  "website": "https://underwoodforcongress.com/",
+  "social": {
+   "x": "https://x.com/laurenunderwood",
+   "instagram": "https://instagram.com/laurenunderwood/",
+   "facebook": "https://facebook.com/UnderwoodForCongress/",
+   "youtube": "https://www.youtube.com/channel/UCRt8xXwHsMn6dPtY4J1Tc1g"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Aims to lower health costs and remove cost barriers to high-quality care.", "source": "https://underwoodforcongress.com/"},
+   {"topic": "Reproductive rights", "point": "Supports access to the full range of reproductive health services, including abortion, without restrictions.", "source": "https://underwoodforcongress.com/"},
+   {"topic": "Gun violence", "point": "Treats gun violence as a public health issue needing evidence-based policy.", "source": "https://underwoodforcongress.com/"},
+   {"topic": "Maternal health", "point": "Focuses on reducing disparities in maternal health outcomes.", "source": "https://en.wikipedia.org/wiki/Lauren_Underwood"},
+   {"topic": "Climate", "point": "Supports funding wind and solar energy and regulating greenhouse gas emissions.", "source": "https://www.ontheissues.org/IL/Lauren_Underwood.htm"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Supports federal infrastructure and stimulus spending and opposes corporate tax cuts.", "source": "https://www.ontheissues.org/IL/Lauren_Underwood.htm"},
+   "welfare": {"score": 80, "evidence": "Calls quality affordable health care a right for every family and backs expanding the ACA.", "source": "https://www.ontheissues.org/IL/Lauren_Underwood.htm"},
+   "liberty": {"score": 15, "evidence": "Supports abortion access without restrictions and universal background checks (abortion, guns).", "source": "https://underwoodforcongress.com/"},
+   "security": {"score": 30, "evidence": "Sponsored stricter police accountability rules.", "source": "https://www.ontheissues.org/IL/Lauren_Underwood.htm"},
+   "immigration": {"score": 20, "evidence": "Backs citizenship pathways for DACA recipients and undocumented immigrants and opposed a border wall.", "source": "https://www.ontheissues.org/IL/Lauren_Underwood.htm"},
+   "foreign": null,
+   "energy": {"score": 80, "evidence": "Supports funding wind and solar and regulating greenhouse gas emissions.", "source": "https://www.ontheissues.org/IL/Lauren_Underwood.htm"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Opposes school vouchers.", "source": "https://www.ontheissues.org/IL/Lauren_Underwood.htm"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://underwoodforcongress.com/wp-content/uploads/2024/07/P1311114.MOV.03_17_18_25.Still001.jpg",
+  "notes": "The campaign image is a video still rather than a posed headshot."
+ },
+ {
+  "id": "IL-14/james-marter",
+  "name": "James Marter",
+  "party": "Republican",
+  "current_role": "Local Republican party chairman and radio host",
+  "bio": "James Marter is a conservative activist based in Oswego, Illinois, who has twice been elected chairman of his local Republican party organization. He hosts the radio show Saving the American Dream on AM560. He is the Republican nominee for Illinois's 14th district.",
+  "website": "https://marter4congress.us/",
+  "social": {
+   "x": "https://twitter.com/Marter4Congress",
+   "instagram": "https://www.instagram.com/marter4congress/",
+   "facebook": "https://www.facebook.com/JamesMarter4Congress",
+   "tiktok": "https://www.tiktok.com/@jim_marter",
+   "youtube": "https://www.youtube.com/@marter4congress"
+  },
+  "platform": [
+   {"topic": "Spending and taxes", "point": "Wants to cut federal spending and lower taxes on working families.", "source": "https://marter4congress.us/issues/"},
+   {"topic": "Health care", "point": "Opposes the Affordable Care Act and seeks alternatives offering more choice.", "source": "https://marter4congress.us/issues/"},
+   {"topic": "Immigration", "point": "Supports enforcing existing immigration law and securing the border.", "source": "https://marter4congress.us/issues/"},
+   {"topic": "Social Security", "point": "Wants to protect Social Security while reforming it to prevent insolvency.", "source": "https://marter4congress.us/issues/"},
+   {"topic": "Education", "point": "Opposes Common Core and wants a smaller federal Department of Education role.", "source": "https://marter4congress.us/issues/"},
+   {"topic": "Energy", "point": "Seeks U.S. energy independence as a national security matter.", "source": "https://marter4congress.us/issues/"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Backs free-market principles, tax cuts and reduced federal spending.", "source": "https://marter4congress.us/issues/"},
+   "welfare": {"score": 20, "evidence": "Opposes the Affordable Care Act and favours reforming Social Security.", "source": "https://marter4congress.us/issues/"},
+   "liberty": {"score": 45, "evidence": "Pro-life and opposes Planned Parenthood funding (abortion), but strongly backs Second Amendment rights (guns) and opposes censorship (speech).", "source": "https://marter4congress.us/issues/"},
+   "security": null,
+   "immigration": {"score": 80, "evidence": "Calls for enforcing immigration law and border security.", "source": "https://marter4congress.us/issues/"},
+   "foreign": {"score": 55, "evidence": "Supports a strong military and deterrence while putting American interests first.", "source": "https://marter4congress.us/issues/"},
+   "energy": {"score": 25, "evidence": "Prioritises returning to U.S. energy independence.", "source": "https://marter4congress.us/issues/"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Opposes Common Core and a large federal education role.", "source": "https://marter4congress.us/issues/"},
+   "faith": {"score": 60, "evidence": "Pledges to protect religious liberty and opposes government closures of houses of worship.", "source": "https://marter4congress.us/issues/"}
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "IL-15/mary-miller",
+  "name": "Mary Miller",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IL-15",
+  "bio": "Mary Miller has represented Illinois's 15th district in the U.S. House since 2021 and serves on the Agriculture, Education and Workforce, and House Administration committees. She is a grain and cattle farmer from Oakland, Illinois, and a graduate of Eastern Illinois University.",
+  "website": "https://www.marymillerforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepMaryMiller",
+   "instagram": "https://www.instagram.com/MaryMillerForCongress",
+   "facebook": "https://www.facebook.com/RepMaryMiller"
+  },
+  "platform": [
+   {"topic": "Border", "point": "Opposes open-border policies and sponsored a bill to end birthright citizenship.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"},
+   {"topic": "Elections", "point": "Lists election security as a core focus.", "source": "https://www.marymillerforcongress.com/"},
+   {"topic": "Guns", "point": "Pledges to defend Second Amendment rights.", "source": "https://www.marymillerforcongress.com/"},
+   {"topic": "Education", "point": "Opposes what she calls radical indoctrination in schools and wants Judeo-Christian principles restored.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"},
+   {"topic": "Foreign aid", "point": "Opposes further military aid to Ukraine until the U.S. border is secured.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"},
+   {"topic": "Trade", "point": "Backs tougher trade terms for farmers, accepting short-term costs for fairer deals.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {"score": 90, "evidence": "Opposed the Respect for Marriage Act, introduced a transgender bathroom restriction bill, and campaigns as pro-gun and pro-life (LGBTQ, guns, abortion).", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"},
+   "security": null,
+   "immigration": {"score": 95, "evidence": "Sponsored the Birthright Citizenship Act and cosponsored limits on H-1B visas.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"},
+   "foreign": {"score": 10, "evidence": "Voted against Ukraine aid and against Sweden and Finland joining NATO.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"},
+   "energy": {"score": 5, "evidence": "Has rejected human-caused climate change, saying God controls the climate.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"},
+   "tech": {"score": 55, "evidence": "Voted for the Merger Filing Fee Modernization Act aimed at anti-competitive mergers.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"},
+   "education": null,
+   "faith": {"score": 95, "evidence": "Has called for returning God and Judeo-Christian principles to public schools.", "source": "https://en.wikipedia.org/wiki/Mary_Miller_(politician)"}
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://marymillerforcongress.com/wp-content/uploads/2022/01/mary-miller-is-pro-trump.webp",
+  "notes": "Economy score (was 25) set to null because no citable tax or regulation evidence was found; her trade views lean protectionist. Campaign image may be a rally photo rather than a headshot."
+ },
+ {
+  "id": "IL-15/jennifer-todd",
+  "name": "Jennifer Todd",
+  "party": "Democratic",
+  "current_role": "Licensed nurse",
+  "bio": "Jennifer Todd is a licensed nurse from Glen Carbon, Illinois. She is the Democratic nominee for Illinois's 15th congressional district.",
+  "website": "https://www.jentodd2026.us/",
+  "social": {
+   "instagram": "https://www.instagram.com/jentodd2026",
+   "facebook": "https://www.facebook.com/jentoddforcongress",
+   "tiktok": "https://www.tiktok.com/@jentodd2026"
+  },
+  "platform": [
+   {"topic": "Affordability", "point": "Wants to fight price gouging and lower drug and housing costs.", "source": "https://www.jentodd2026.us/issues"},
+   {"topic": "Health care", "point": "Defends Medicare and Medicaid, protects rural hospitals and expands mental health services.", "source": "https://www.jentodd2026.us/issues"},
+   {"topic": "Education", "point": "Supports fully funding public schools, higher teacher pay and more vocational training.", "source": "https://www.jentodd2026.us/issues"},
+   {"topic": "Workers", "point": "Backs fair wages, the right to organize, wage-theft enforcement and paid leave.", "source": "https://www.jentodd2026.us/issues"},
+   {"topic": "Immigration", "point": "Seeks border security combined with humane treatment and due process.", "source": "https://www.jentodd2026.us/issues"},
+   {"topic": "Veterans", "point": "Wants expanded rural VA care, mental health services and caregiver support.", "source": "https://www.jentodd2026.us/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Calls for combating price gouging, living wages and stronger organizing rights.", "source": "https://www.jentodd2026.us/issues"},
+   "welfare": {"score": 75, "evidence": "Describes health care as a basic right and supports paid leave.", "source": "https://www.jentodd2026.us/issues"},
+   "liberty": {"score": 15, "evidence": "Opposes government interference in personal health-care decisions and supports stronger anti-discrimination protections (abortion, LGBTQ).", "source": "https://www.jentodd2026.us/issues"},
+   "security": null,
+   "immigration": {"score": 40, "evidence": "Pairs border security with due process and distinguishing criminals from law-abiding immigrants.", "source": "https://www.jentodd2026.us/issues"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {"score": 90, "evidence": "Calls for fully funding public schools and raising teacher pay.", "source": "https://www.jentodd2026.us/issues"},
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://run.imgix.net/16a5a315-4995-45ff-a019-875599787b5c/2552fbf4-daa5-48a3-bb9e-f2b78290a256/2552fbf4-daa5-48a3-bb9e-f2b78290a256.png",
+  "notes": ""
+ },
+ {
+  "id": "IL-16/darin-lahood",
+  "name": "Darin LaHood",
+  "party": "Republican",
+  "current_role": "U.S. Representative for IL-16",
+  "bio": "Darin LaHood has served in the U.S. House since 2015, representing the 18th district until 2023 and the 16th since. He was an Illinois state senator from 2011 to 2015. A Peoria native, he worked as a local and federal prosecutor before opening a private law practice.",
+  "website": "https://lahoodforcongress.com/",
+  "social": {
+   "x": "https://x.com/RepLaHood",
+   "facebook": "https://www.facebook.com/replahood"
+  },
+  "platform": [
+   {"topic": "Spending", "point": "Calls for federal fiscal responsibility and reducing the national debt.", "source": "https://lahoodforcongress.com/"},
+   {"topic": "Agriculture", "point": "Highlights support for the district's corn and soybean farmers.", "source": "https://lahoodforcongress.com/"},
+   {"topic": "Abortion", "point": "Describes himself as fully pro-life.", "source": "https://lahoodforcongress.com/"},
+   {"topic": "China", "point": "Serves on the House Select Committee on Strategic Competition with China.", "source": "https://en.wikipedia.org/wiki/Darin_LaHood"},
+   {"topic": "Immigration", "point": "Supports expanding legal immigration while funding enforcement agencies.", "source": "https://en.wikipedia.org/wiki/Darin_LaHood"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Voted for the 2017 Tax Cuts and Jobs Act and the 2025 reconciliation tax bill.", "source": "https://en.wikipedia.org/wiki/Darin_LaHood"},
+   "welfare": {"score": 20, "evidence": "Supports repealing the ACA and limiting Medicaid for able-bodied working-age men.", "source": "https://en.wikipedia.org/wiki/Darin_LaHood"},
+   "liberty": {"score": 80, "evidence": "Describes himself as fully pro-life (abortion; no citable stances found on other issues).", "source": "https://lahoodforcongress.com/"},
+   "security": null,
+   "immigration": {"score": 50, "evidence": "Backs higher legal immigration levels and voted for $70 billion in enforcement funding.", "source": "https://en.wikipedia.org/wiki/Darin_LaHood"},
+   "foreign": null,
+   "energy": {"score": 15, "evidence": "Holds a 0% lifetime League of Conservation Voters score.", "source": "https://en.wikipedia.org/wiki/Darin_LaHood"},
+   "tech": {"score": 30, "evidence": "Opposes net neutrality rules.", "source": "https://en.wikipedia.org/wiki/Darin_LaHood"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://lahoodforcongress.com/wp-content/uploads/2019/07/lahood_0020-300x200.jpg",
+  "notes": "Liberty score is new and rests on abortion alone."
+ },
+ {
+  "id": "IL-16/paul-nolley",
+  "name": "Paul Nolley",
+  "party": "Democratic",
+  "current_role": "",
+  "bio": "Paul Nolley is the Democratic nominee for Illinois's 16th congressional district, running from Loves Park. His campaign describes him as a citizen-candidate from a working-class family who declines corporate PAC money.",
+  "website": "https://www.nolleyforcongress.com/",
+  "social": {
+   "x": "https://x.com/paulnolley",
+   "instagram": "https://www.instagram.com/nolleyforcongress",
+   "facebook": "https://www.facebook.com/nolleyforcongress"
+  },
+  "platform": [
+   {"topic": "Health care", "point": "Wants Medicare expanded to cover all necessary care for everyone without premiums or deductibles.", "source": "https://www.nolleyforcongress.com/issues"},
+   {"topic": "Ethics", "point": "Would ban stock trading by members of Congress and their families.", "source": "https://www.nolleyforcongress.com/issues"},
+   {"topic": "Farms", "point": "Aims to counter corporate consolidation and support independent farmers.", "source": "https://www.nolleyforcongress.com/issues"},
+   {"topic": "Workers", "point": "Backs pro-union legislation, collective bargaining and manufacturing jobs.", "source": "https://www.nolleyforcongress.com/issues"},
+   {"topic": "Families", "point": "Supports paid family leave, affordable childcare and a larger Child Tax Credit.", "source": "https://www.nolleyforcongress.com/issues"},
+   {"topic": "Civil liberties", "point": "Pledges to protect free speech and shield citizens from surveillance and retaliation.", "source": "https://www.nolleyforcongress.com/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Supports pro-union laws, anti-consolidation policy and rebuilding manufacturing.", "source": "https://www.nolleyforcongress.com/issues"},
+   "welfare": {"score": 95, "evidence": "Calls for Medicare covering all necessary care for all Americans, plus paid leave and childcare.", "source": "https://www.nolleyforcongress.com/issues"},
+   "liberty": {"score": 15, "evidence": "Pledges to defend women's rights, LGBTQ+ youth and free speech (abortion, LGBTQ, speech).", "source": "https://www.nolleyforcongress.com/issues"},
+   "security": {"score": 20, "evidence": "Pledges to protect citizens from government surveillance.", "source": "https://www.nolleyforcongress.com/issues"},
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 75, "evidence": "Backs environmental protection paired with clean energy jobs.", "source": "https://www.nolleyforcongress.com/issues"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Occupation not stated on the campaign site. His anti-consolidation statements concern agriculture, not technology, so tech is unscored."
+ },
+ {
+  "id": "IL-17/eric-sorensen",
+  "name": "Eric Sorensen",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for IL-17",
+  "bio": "Eric Sorensen has represented Illinois's 17th district in the U.S. House since 2023 and sits on the Agriculture and Armed Services committees. Born in Rockford and based in Moline, he was a television meteorologist for more than 15 years and later worked in communications for UnityPoint Health. He is Illinois's first openly gay member of Congress.",
+  "website": "https://www.ericforillinois.com/",
+  "social": {
+   "x": "https://x.com/RepEricSorensen",
+   "instagram": "https://www.instagram.com/repericsorensen",
+   "facebook": "https://www.facebook.com/EricForIllinois/"
+  },
+  "platform": [
+   {"topic": "Reproductive rights", "point": "Supports codifying Roe v. Wade.", "source": "https://www.ericforillinois.com/issues"},
+   {"topic": "Seniors", "point": "Opposes cutting or privatising Social Security and Medicare.", "source": "https://www.ericforillinois.com/issues"},
+   {"topic": "Health care", "point": "Wants affordable quality care available regardless of income or location.", "source": "https://www.ericforillinois.com/issues"},
+   {"topic": "Public safety", "point": "Supports giving law enforcement adequate resources.", "source": "https://www.ericforillinois.com/issues"},
+   {"topic": "LGBTQ+ rights", "point": "Backs federal protections and mental health support for LGBTQ+ people.", "source": "https://www.ericforillinois.com/issues"},
+   {"topic": "Manufacturing", "point": "Co-introduced the ONSHORE Act creating federal grants to attract manufacturing.", "source": "https://en.wikipedia.org/wiki/Eric_Sorensen_(politician)"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Co-introduced the ONSHORE Act for federal manufacturing investment grants and belongs to the Labor Caucus.", "source": "https://en.wikipedia.org/wiki/Eric_Sorensen_(politician)"},
+   "welfare": {"score": 65, "evidence": "Supports affordable care for all and opposes cuts to Social Security and Medicare.", "source": "https://www.ericforillinois.com/issues"},
+   "liberty": {"score": 15, "evidence": "Supports codifying Roe and federal LGBTQ+ protections (abortion, LGBTQ).", "source": "https://www.ericforillinois.com/issues"},
+   "security": {"score": 55, "evidence": "Campaigns on giving law enforcement adequate resources.", "source": "https://www.ericforillinois.com/issues"},
+   "immigration": {"score": 50, "evidence": "Voted for the Laken Riley Act in 2025.", "source": "https://en.wikipedia.org/wiki/Eric_Sorensen_(politician)"},
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Energy score (was 75) set to null because no current climate position was found on the sources reviewed; economy score is new."
+ },
+ {
+  "id": "IL-17/dillan-vancil",
+  "name": "Dillan Vancil",
+  "party": "Republican",
+  "current_role": "Railroad union official and small-business owner",
+  "bio": "Dillan Vancil is a railroad worker from west-central Illinois and state legislative director for the SMART-TD rail union. He owns a coffee shop business and serves as vice president of the West Central school board and on the Eagle View Health System board.",
+  "website": "https://www.vancilforcongress.com/",
+  "social": {},
+  "platform": [
+   {"topic": "Jobs", "point": "Wants to bring manufacturing jobs back to Illinois and support small businesses.", "source": "https://www.vancilforcongress.com/"},
+   {"topic": "Labor", "point": "Pledges to support Illinois workers and labor organisations.", "source": "https://www.vancilforcongress.com/"},
+   {"topic": "Health care", "point": "Calls for price transparency in health care.", "source": "https://www.vancilforcongress.com/"},
+   {"topic": "Education", "point": "Aims to secure student funding and education access for rural communities.", "source": "https://www.vancilforcongress.com/"}
+  ],
+  "positions": {
+   "economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null,
+   "foreign": null, "energy": null, "tech": null, "education": null, "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "https://images.squarespace-cdn.com/content/v1/673ba09f40d92e41a25cad38/8ad0be1b-b780-4771-a302-b794ef6fe079/Vancil+Web-02.png",
+  "notes": "Campaign priorities are too general to score."
+ }
+]

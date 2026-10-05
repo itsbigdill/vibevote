@@ -1,0 +1,390 @@
+[
+ {
+  "id": "TX-6/danny-minton",
+  "name": "Danny Minton",
+  "party": "Democratic",
+  "race": "TX-6",
+  "race_label": "Texas · US House TX-6",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 75,
+    "welfare": 65,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": 70,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Supports $17 minimum wage, higher taxes on billionaires, expanded Child Tax Credit, lower health costs, solar incentives, strong public schools.",
+   "sources": [
+    "https://www.lonestarleft.com/p/meet-the-candidates-danny-minton"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-7/lizzie-fletcher",
+  "name": "Lizzie Fletcher",
+  "party": "Democratic",
+  "race": "TX-7",
+  "race_label": "Texas · US House TX-7",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "F000468",
+   "official_name": "Lizzie Fletcher",
+   "chamber": "House",
+   "official_site": "https://fletcher.house.gov",
+   "official_social": {
+    "twitter": "RepFletcher",
+    "facebook": "RepFletcher",
+    "instagram": "repfletcher",
+    "youtube": "UCIWDLoDPvawP118TNWi-9rg"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": 30,
+    "security": null,
+    "immigration": 30,
+    "foreign": null,
+    "energy": 65,
+    "tech": 40,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Abortion-travel bill, gun safety votes, ICE oversight, offshore wind revenue bill, voted against 2022 antitrust package; liberty driven by abortion rights.",
+   "sources": [
+    "https://fletcher.house.gov/issues",
+    "https://en.wikipedia.org/wiki/Lizzie_Fletcher"
+   ],
+   "photo": {
+    "file": "File:Lizzie Fletcher 117th Congress 2 (cropped).jpg",
+    "license": "Public domain",
+    "author": "Brendan O'Hara, House Creative Services"
+   }
+  }
+ },
+ {
+  "id": "TX-7/alexander-hale",
+  "name": "Alexander Hale",
+  "party": "Republican",
+  "race": "TX-7",
+  "race_label": "Texas · US House TX-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 15,
+    "welfare": 25,
+    "liberty": null,
+    "security": 65,
+    "immigration": null,
+    "foreign": null,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Limited government, market-based solutions and spending cuts, defends Houston oil industry, opposes energy subsidies, more federal crime-fighting resources.",
+   "sources": [
+    "https://www.halefortexas.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-7/espoir-ngabo",
+  "name": "Espoir Ngabo",
+  "party": "Green",
+  "race": "TX-7",
+  "race_label": "Texas · US House TX-7",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "",
+   "sources": [
+    "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas",
+    "https://ballotpedia.org/Texas'_7th_Congressional_District_election,_2026"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-8/jessica-steinmann",
+  "name": "Jessica Steinmann",
+  "party": "Republican",
+  "race": "TX-8",
+  "race_label": "Texas · US House TX-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 20,
+    "welfare": null,
+    "liberty": 80,
+    "security": null,
+    "immigration": 90,
+    "foreign": null,
+    "energy": 20,
+    "tech": null,
+    "education": 20,
+    "faith": 80
+   },
+   "basis": "Finish border wall, end catch-and-release, keep transgender athletes out of girls' sports, parental rights, military religious-liberty suit, cut regulation, expand energy.",
+   "sources": [
+    "https://www.jessicasteinmann.com/",
+    "https://www.uschamber.com/improving-government/u-s-chamber-endorses-candidate-jessica-steinmann-for-texas-8th-congressional-district"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-8/laura-jones",
+  "name": "Laura Jones",
+  "party": "Democratic",
+  "race": "TX-8",
+  "race_label": "Texas · US House TX-8",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 100,
+    "liberty": null,
+    "security": null,
+    "immigration": 5,
+    "foreign": 25,
+    "energy": 90,
+    "tech": null,
+    "education": 95,
+    "faith": null
+   },
+   "basis": "Medicare for All, tax billionaires, higher minimum wage, abolish ICE, end military aid to abusers including Israel, Green New Deal, free college.",
+   "sources": [
+    "https://www.laura4tx.com/",
+    "https://www.lonestarleft.com/p/meet-the-candidates-laura-jones-for"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-9/leticia-gutierrez",
+  "name": "Leticia Gutierrez",
+  "party": "Democratic",
+  "race": "TX-9",
+  "race_label": "Texas · US House TX-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 20,
+    "foreign": null,
+    "energy": 75,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Environmental-justice advocate against industrial pollution; demands ICE accountability and safety for immigrant communities.",
+   "sources": [
+    "https://www.leticiaforcongress.com/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-9/alex-mealer",
+  "name": "Alex Mealer",
+  "party": "Republican",
+  "race": "TX-9",
+  "race_label": "Texas · US House TX-9",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 80,
+    "foreign": null,
+    "energy": 25,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Campaigns on a secure border and on growing the Houston Ship Channel petrochemical complex.",
+   "sources": [
+    "https://www.houstonpublicmedia.org/articles/news/politics/election-2026/2026/05/26/552745/election-results-tx-9-republican-primary-runoff-mealer-cain/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-10/chris-gober",
+  "name": "Chris Gober",
+  "party": "Republican",
+  "race": "TX-10",
+  "race_label": "Texas · US House TX-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 25,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": 85,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": 15,
+    "faith": null
+   },
+   "basis": "Cut taxes and regulation, limited government, farm trade protection, secure border against 'invasion', champion 'school freedom'.",
+   "sources": [
+    "https://www.kbtx.com/2026/03/03/republican-chris-gober-seeks-us-house-district-10-seat/",
+    "https://ballotpedia.org/Chris_Gober"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-10/caitlin-rourk",
+  "name": "Caitlin Rourk",
+  "party": "Democratic",
+  "race": "TX-10",
+  "race_label": "Texas · US House TX-10",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 70,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": 45,
+    "energy": null,
+    "tech": null,
+    "education": 75,
+    "faith": null
+   },
+   "basis": "Raise and index minimum wage, tax the wealthy and corporations, condition military aid on humanitarian law, strengthen public schools.",
+   "sources": [
+    "https://www.lonestarleft.com/p/meet-the-candidates-caitlin-rourk",
+    "https://www.kbtx.com/2026/02/20/democrat-caitlin-rourk-seeks-us-house-district-10-seat/"
+   ],
+   "photo": null
+  }
+ },
+ {
+  "id": "TX-11/august-pfluger",
+  "name": "August Pfluger",
+  "party": "Republican",
+  "race": "TX-11",
+  "race_label": "Texas · US House TX-11",
+  "race_status": "Nominees set",
+  "incumbent": true,
+  "member_of_congress": {
+   "bioguide": "P000048",
+   "official_name": "August Pfluger",
+   "chamber": "House",
+   "official_site": "https://pfluger.house.gov",
+   "official_social": {
+    "twitter": "RepPfluger",
+    "facebook": "RepAugustPfluger",
+    "instagram": "repaugustpfluger",
+    "youtube": "UC8bJT16wpa7co50ELvpMTTg"
+   },
+   "official_portrait": true
+  },
+  "existing": {
+   "positions": {
+    "economy": null,
+    "welfare": 25,
+    "liberty": 65,
+    "security": null,
+    "immigration": 80,
+    "foreign": 75,
+    "energy": 15,
+    "tech": null,
+    "education": null,
+    "faith": 85
+   },
+   "basis": "Pro-life, opposed vaccine mandate, LNG export and anti-endangered-species bills, opposes conditioning Israel aid, border enforcement, 'Judeo-Christian values'.",
+   "sources": [
+    "https://pfluger.house.gov/issues",
+    "https://en.wikipedia.org/wiki/August_Pfluger"
+   ],
+   "photo": {
+    "file": "File:August Pfluger official photo.jpg",
+    "license": "Public domain",
+    "author": "United States Congress"
+   }
+  }
+ },
+ {
+  "id": "TX-11/claire-reynolds",
+  "name": "Claire Reynolds",
+  "party": "Democratic",
+  "race": "TX-11",
+  "race_label": "Texas · US House TX-11",
+  "race_status": "Nominees set",
+  "incumbent": false,
+  "member_of_congress": null,
+  "existing": {
+   "positions": {
+    "economy": 85,
+    "welfare": 95,
+    "liberty": 15,
+    "security": 15,
+    "immigration": 15,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "basis": "Supports $17-25 minimum wage, single-payer, free public college, abortion rights, ending qualified immunity, demilitarized border with faster legal immigration.",
+   "sources": [
+    "https://www.clairereynoldsforcongress.org/",
+    "https://www.lonestarleft.com/p/meet-the-candidates-claire-reynolds"
+   ],
+   "photo": null
+  }
+ }
+]

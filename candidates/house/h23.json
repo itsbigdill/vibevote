@@ -1,0 +1,913 @@
+[
+  {
+    "state": "Mississippi",
+    "district": "MS-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Trent Kelly",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 20,
+          "liberty": 60,
+          "security": null,
+          "immigration": 65,
+          "foreign": 50,
+          "energy": 20,
+          "tech": null,
+          "education": 20,
+          "faith": 75
+        },
+        "basis": "Anti-regulation, 2025 tax-and-Medicaid bill vote, anti-abortion, no gun limits, school vouchers, offshore drilling, opposed 2024 Ukraine aid; faith-based framing.",
+        "sources": [
+          "https://trentkelly.house.gov/issues",
+          "https://www.ontheissues.org/House/Trent_Kelly.htm",
+          "https://en.wikipedia.org/wiki/Trent_Kelly"
+        ],
+        "photo": {
+          "file": "File:Trent Kelly, Official Portrait, 115th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography/House Creative Services"
+        }
+      },
+      {
+        "name": "Cliff Johnson",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": null,
+          "security": 30,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes Medicaid cuts funding tax cuts for the wealthy; supports criminal-justice reform, ending debtors' prisons and funding reentry programs.",
+        "sources": [
+          "https://www.mississippifreepress.org/democrat-cliff-johnson-vows-to-fight-for-vulnerable-mississippians-in-run-for-congress-against-trent-kelly/"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Mississippi",
+    "district": "MS-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Bennie Thompson",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 85,
+          "liberty": 35,
+          "security": 45,
+          "immigration": 15,
+          "foreign": 45,
+          "energy": 75,
+          "tech": 60,
+          "education": 90,
+          "faith": 25
+        },
+        "basis": "Higher taxes on wealthy, ACA/Medicaid expansion, pro-choice, gun control, pro-DREAMer, opposed Iraq War, net neutrality, opposes vouchers; liberty driven by abortion, guns.",
+        "sources": [
+          "https://www.ontheissues.org/House/Bennie_Thompson.htm",
+          "https://benniethompson.house.gov/issues",
+          "https://en.wikipedia.org/wiki/Bennie_Thompson"
+        ],
+        "photo": {
+          "file": "File:Bennie Thompson 118th Congress.jpeg",
+          "license": "Public domain",
+          "author": "Brendan O'Hara, House Creative Services"
+        }
+      },
+      {
+        "name": "Ron Eller",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 60,
+          "security": null,
+          "immigration": 90,
+          "foreign": null,
+          "energy": 35,
+          "tech": null,
+          "education": null,
+          "faith": 70
+        },
+        "basis": "Free enterprise, abortion only to save mother, nationwide concealed carry, vaccine-mandate opposition, build the wall, all-of-the-above energy, religion in civic life.",
+        "sources": [
+          "https://www.voteroneller.com/issues"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Mississippi",
+    "district": "MS-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Michael Guest",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 65,
+          "security": 75,
+          "immigration": 90,
+          "foreign": 50,
+          "energy": 25,
+          "tech": 30,
+          "education": null,
+          "faith": 70
+        },
+        "basis": "Tax cuts, anti-abortion, anti-marijuana legalization, no gun limits, tough-on-crime, border wall, opposed 2024 Ukraine aid, against net neutrality; Prayer Caucus.",
+        "sources": [
+          "https://www.ontheissues.org/House/Michael_Guest.htm",
+          "https://en.wikipedia.org/wiki/Michael_Guest_(politician)"
+        ],
+        "photo": {
+          "file": "File:Michael Guest portrait 116th congress2.jpg",
+          "license": "Public domain",
+          "author": "Franmarie Metzler, House Creative Services/U.S. House Office of Photography"
+        }
+      },
+      {
+        "name": "Michael Chiaradio",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": 30,
+          "immigration": null,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Criticized National Guard crime crackdowns and Trump's Putin meeting as American decline; opposed tariffs.",
+        "sources": [
+          "https://magnoliatribune.com/2025/09/24/congressman-guest-draws-democrat-challenger-in-3rd-district-midterm-race/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Erik Kiehle",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Mississippi",
+    "district": "MS-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Mike Ezell",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": 60,
+          "security": 75,
+          "immigration": 85,
+          "foreign": 70,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": 75
+        },
+        "basis": "Spending cuts, 2025 tax-and-Medicaid bill vote, abortion ban, opposes same-sex marriage, gun rights, qualified immunity, border security, more military spending, fracking.",
+        "sources": [
+          "https://www.ontheissues.org/House/Mike_Ezell.htm",
+          "https://en.wikipedia.org/wiki/Mike_Ezell"
+        ],
+        "photo": {
+          "file": "File:Rep. Mike Ezell official photo.jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Jeffrey Hulum III",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published federal issue positions found; all domains left blank.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jeffrey_Hulum_III"
+        ],
+        "photo": {
+          "file": "File:Rep. Jeffrey Hulum III (cropped).jpg",
+          "license": "CC BY 2.0",
+          "author": "Maryland GovPics"
+        }
+      },
+      {
+        "name": "Carl Boyanton",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Mississippi"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "district": "MO-1",
+    "office": "US House",
+    "status": "Nominees set; map appeal pending",
+    "candidates": [
+      {
+        "name": "Wesley Bell",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 75,
+          "liberty": 30,
+          "security": 25,
+          "immigration": 15,
+          "foreign": 65,
+          "energy": 75,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposes billionaire tax breaks and Medicaid cuts, pro-choice, transgender rights, gun safety laws, ICE overhaul, restore alliances, pro-Israel aid, clean energy.",
+        "sources": [
+          "https://www.bell4mo.com/issues",
+          "https://en.wikipedia.org/wiki/Wesley_Bell"
+        ],
+        "photo": {
+          "file": "File:Wesley Bell, official portrait (119th Congress).jpg",
+          "license": "Public domain",
+          "author": "Brian Thorpe"
+        }
+      },
+      {
+        "name": "Paul Berry",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 25,
+          "welfare": null,
+          "liberty": 80,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Campaigns against socialism and for private enterprise; endorsed by Missouri Right to Life.",
+        "sources": [
+          "https://www.momadmaga.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Tom Schmitz",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "district": "MO-2",
+    "office": "US House",
+    "status": "Nominees set; map appeal pending",
+    "candidates": [
+      {
+        "name": "Ann Wagner",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 20,
+          "liberty": 55,
+          "security": 65,
+          "immigration": 75,
+          "foreign": 75,
+          "energy": 15,
+          "tech": 60,
+          "education": 20,
+          "faith": 70
+        },
+        "basis": "Tax cuts, ACA repeal, welfare work requirements, anti-abortion, gun rights, anti-pathway, strong defense, No Climate Tax Pledge, online trafficking-ad law, vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/House/Ann_Wagner.htm",
+          "https://en.wikipedia.org/wiki/Ann_Wagner"
+        ],
+        "photo": {
+          "file": "File:Ann Wagner Headshot (002) (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Official House photo"
+        }
+      },
+      {
+        "name": "Fred Wellman",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 80,
+          "liberty": 20,
+          "security": null,
+          "immigration": 35,
+          "foreign": 85,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": 20
+        },
+        "basis": "Higher minimum wage, labor rights, universal coverage goal, abortion rights, commonsense immigration with secure borders, Ukraine military aid, NATO; opposes military religious infusion.",
+        "sources": [
+          "https://www.wellmanformo.com/policy"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Brandon Coulter Daugherty",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "district": "MO-3",
+    "office": "US House",
+    "status": "Nominees set; map appeal pending",
+    "candidates": [
+      {
+        "name": "Bob Onder",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": 60,
+          "security": null,
+          "immigration": 90,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 20,
+          "faith": 70
+        },
+        "basis": "Tax cuts, 2025 tax-and-Medicaid bill vote, anti-abortion, constitutional carry, anti-sanctuary laws, education freedom, religious liberty.",
+        "sources": [
+          "https://onder.house.gov/issues",
+          "https://www.bobondermo.com/"
+        ],
+        "photo": {
+          "file": "File:Onder Bob 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Bethany Mann",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 90,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Collective bargaining, Medicare for All, abortion as healthcare, renewable energy transition, full public-school funding over private schools.",
+        "sources": [
+          "https://www.bethanymannforcongress.com/platform"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jim Higgins",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "district": "MO-4",
+    "office": "US House",
+    "status": "Nominees set; map appeal pending",
+    "candidates": [
+      {
+        "name": "Mark Alford",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 30,
+          "welfare": 25,
+          "liberty": 55,
+          "security": null,
+          "immigration": 95,
+          "foreign": null,
+          "energy": 25,
+          "tech": null,
+          "education": null,
+          "faith": 80
+        },
+        "basis": "Backs tariffs and 2025 tax-and-Medicaid bill, pro-life, Second Amendment, finish wall and deport, opposes EPA overreach; faith-driven values.",
+        "sources": [
+          "https://www.ontheissues.org/House/Mark_Alford.htm",
+          "https://en.wikipedia.org/wiki/Mark_Alford"
+        ],
+        "photo": {
+          "file": "File:Rep. Mark Alford official photo, 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
+      },
+      {
+        "name": "Jordan Herrera",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 85,
+          "liberty": 15,
+          "security": null,
+          "immigration": 35,
+          "foreign": 35,
+          "energy": 60,
+          "tech": 75,
+          "education": 85,
+          "faith": 20
+        },
+        "basis": "Close corporate loopholes, Medicare for All path, abortion and LGBTQ rights, earned citizenship, diplomacy first, all-of-the-above energy, AI regulation, public schools.",
+        "sources": [
+          "https://jordanjherrera.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Thomas Holbrook",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "district": "MO-5",
+    "office": "US House",
+    "status": "Nominees set; map appeal pending",
+    "candidates": [
+      {
+        "name": "Emanuel Cleaver",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 80,
+          "welfare": 85,
+          "liberty": 30,
+          "security": 30,
+          "immigration": 15,
+          "foreign": 55,
+          "energy": 80,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
+        "basis": "Progressive taxes, higher minimum wage, ACA expansion, pro-choice, same-sex marriage, background checks, against Patriot Act extension, DREAMers, green energy, opposes vouchers.",
+        "sources": [
+          "https://www.ontheissues.org/House/Emanuel_Cleaver.htm",
+          "https://en.wikipedia.org/wiki/Emanuel_Cleaver"
+        ],
+        "photo": {
+          "file": "File:Emanuel Cleaver official photo.jpg",
+          "license": "Public domain",
+          "author": "US House Office of Photography"
+        }
+      },
+      {
+        "name": "Rick Brattin",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 70,
+          "security": 65,
+          "immigration": 90,
+          "foreign": null,
+          "energy": 20,
+          "tech": null,
+          "education": 20,
+          "faith": 90
+        },
+        "basis": "Tax and spending cuts, anti-abortion, anti-gay remarks, NRA gun rights, protest-force bill, deport and fund ICE, energy expansion, parental oversight, intelligent design.",
+        "sources": [
+          "https://rickbrattin.com/issues",
+          "https://en.wikipedia.org/wiki/Rick_Brattin"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Randy Langkraehr",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "district": "MO-6",
+    "office": "US House",
+    "status": "Nominees set; map appeal pending",
+    "candidates": [
+      {
+        "name": "Chris Stigall",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 20,
+          "welfare": 30,
+          "liberty": 50,
+          "security": null,
+          "immigration": 90,
+          "foreign": null,
+          "energy": null,
+          "tech": 15,
+          "education": 20,
+          "faith": null
+        },
+        "basis": "Permanent Trump tax cuts, fewer health regulations, pro-life, Second Amendment, finish the wall, light crypto regulation, school choice advocacy.",
+        "sources": [
+          "https://www.stigallforcongress.com/issues",
+          "https://www.stigallforcongress.com/"
+        ],
+        "photo": {
+          "file": "File:Chris Stigall 2017 (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Jared Hart"
+        }
+      },
+      {
+        "name": "Josh Smead",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Campaign site stresses strong public schools; other stated themes too general to score.",
+        "sources": [
+          "https://votesmead.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Andy Maidment",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "district": "MO-7",
+    "office": "US House",
+    "status": "Nominees set; map appeal pending",
+    "candidates": [
+      {
+        "name": "Eric Burlison",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 55,
+          "security": null,
+          "immigration": 80,
+          "foreign": 15,
+          "energy": null,
+          "tech": 20,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "Freedom Caucus, Medicaid cuts and work requirements, personhood bill, looser carry laws, Syria withdrawal vote, against Take It Down Act, charter expansion.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Eric_Burlison",
+          "https://www.ontheissues.org/House/Eric_Burlison.htm"
+        ],
+        "photo": {
+          "file": "File:Rep. Eric Burlison - 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Missi Hesketh",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 75,
+          "education": 75,
+          "faith": null
+        },
+        "basis": "Close billionaire tax loopholes, paid leave, Medicare for all who want it, drug price negotiation, oppose AI data centers, child data privacy, rural education.",
+        "sources": [
+          "https://www.missiformo.com/top-5-issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Kevin Craig",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Missouri",
+    "district": "MO-8",
+    "office": "US House",
+    "status": "Nominees set; map appeal pending",
+    "candidates": [
+      {
+        "name": "Jason Smith",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 60,
+          "security": 35,
+          "immigration": 70,
+          "foreign": null,
+          "energy": 15,
+          "tech": null,
+          "education": 20,
+          "faith": 80
+        },
+        "basis": "Tax cuts, ACA repeal, food-stamp ID, anti-abortion, gun rights, opposes bulk data collection, drilling, vouchers, biblical marriage view; liberty from abortion, guns.",
+        "sources": [
+          "https://www.ontheissues.org/House/Jason_Smith.htm",
+          "https://en.wikipedia.org/wiki/Jason_Smith_(American_politician)"
+        ],
+        "photo": {
+          "file": "File:Rep Jason Smith - 2024.jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Christopher Reichard",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 75,
+          "welfare": null,
+          "liberty": 25,
+          "security": null,
+          "immigration": null,
+          "foreign": 25,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports PRO Act and Equality Act; wants to avoid another forever war and end Citizens United.",
+        "sources": [
+          "https://www.reichardforrep.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Rebecca Sharpe Lombard",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]

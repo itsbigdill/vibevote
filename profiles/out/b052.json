@@ -1,0 +1,382 @@
+[
+ {
+  "id": "ME-2/paul-lepage",
+  "name": "Paul LePage",
+  "party": "Republican",
+  "current_role": "Former Governor of Maine",
+  "bio": "Paul LePage served as Maine's 74th governor from 2011 to 2019, after serving as mayor of Waterville from 2004 to 2011 and on its city council. Born in Lewiston, he holds business degrees from Husson University and the University of Maine. Before entering office he worked in business, including as general manager of the Marden's retail chain.",
+  "website": "https://www.lepageforcongress.com",
+  "social": {},
+  "platform": [
+   {"topic": "Cost of living", "point": "Cut wasteful federal spending to bring down inflation.", "source": "https://www.lepageforcongress.com/"},
+   {"topic": "Border security", "point": "Complete the border wall and stop illegal immigration.", "source": "https://www.lepageforcongress.com/"},
+   {"topic": "Jobs and economy", "point": "Lower taxes and reduce regulation to grow jobs.", "source": "https://www.lepageforcongress.com/"},
+   {"topic": "Constitutional rights", "point": "Protect Second Amendment rights and parental rights.", "source": "https://www.lepageforcongress.com/"},
+   {"topic": "Social Security and Medicare", "point": "Safeguard Social Security and Medicare benefits that retirees have earned.", "source": "https://www.lepageforcongress.com/"},
+   {"topic": "Veterans", "point": "Protect health care and benefits for veterans.", "source": "https://www.lepageforcongress.com/"}
+  ],
+  "positions": {
+   "economy": {"score": 10, "evidence": "Has called for eliminating Maine's income tax and as governor vetoed minimum wage increases.", "source": "https://en.wikipedia.org/wiki/Paul_LePage"},
+   "welfare": {"score": 10, "evidence": "As governor vetoed Medicaid expansion several times and declined to implement the voter-approved 2017 expansion.", "source": "https://en.wikipedia.org/wiki/Paul_LePage"},
+   "liberty": {"score": 70, "evidence": "Opposes abortion and vetoed retail marijuana legislation, while supporting constitutional carry of firearms.", "source": "https://en.wikipedia.org/wiki/Paul_LePage"},
+   "security": null,
+   "immigration": {"score": 80, "evidence": "Campaign pledges to finish the border wall and end illegal immigration.", "source": "https://www.lepageforcongress.com/"},
+   "foreign": null,
+   "energy": {"score": 20, "evidence": "As governor opposed clean-energy bills and promoted fossil fuels including offshore drilling.", "source": "https://en.wikipedia.org/wiki/Paul_LePage"},
+   "tech": null,
+   "education": {"score": 15, "evidence": "Supported school vouchers and campaigns on parental rights.", "source": "https://en.wikipedia.org/wiki/Paul_LePage"},
+   "faith": null
+  },
+  "photo": {"file": "File:Paul LePage by Gage Skidmore.jpg", "license": "CC BY-SA 3.0", "author": "Gage Skidmore"},
+  "campaign_photo": "https://cdn.prod.website-files.com/68113deaffcc1bf76d003bab/68127e65ec4feae31d2ae718_LePage.jpg",
+  "notes": "Liberty lowered from 80 to 70 because his support for constitutional carry pulls the average toward individual choice; security score removed for lack of cited evidence."
+ },
+ {
+  "id": "MD-1/andy-harris",
+  "name": "Andy Harris",
+  "party": "Republican",
+  "current_role": "U.S. Representative for MD-1",
+  "bio": "Andy Harris has represented Maryland's 1st District since 2011 and chairs the House Freedom Caucus. He previously served in the Maryland Senate from 1999 to 2011. An anesthesiologist trained at Johns Hopkins, he served in the Navy Medical Corps reserve, retiring as a commander.",
+  "website": "https://andyharris.com",
+  "social": {
+   "x": "https://x.com/RepAndyHarrisMD",
+   "facebook": "https://www.facebook.com/AndyHarrisMD",
+   "youtube": "https://www.youtube.com/user/RepAndyHarris",
+   "instagram": "https://www.instagram.com/harrisforcongress/"
+  },
+  "platform": [
+   {"topic": "Fiscal policy", "point": "Restore fiscal discipline in Washington and protect taxpayer money.", "source": "https://andyharris.com/"},
+   {"topic": "Agriculture", "point": "Protect family farms as a core part of the Eastern Shore economy.", "source": "https://harris.house.gov/issues"},
+   {"topic": "Immigration", "point": "Stop illegal immigration and visa overstays, citing workforce and security concerns.", "source": "https://harris.house.gov/issues"},
+   {"topic": "Education", "point": "Leave curriculum decisions to local governments rather than Washington.", "source": "https://harris.house.gov/issues"},
+   {"topic": "Defense", "point": "Give the military the tools it needs while treating use of force with caution.", "source": "https://harris.house.gov/issues/defense-and-foreign-affairs"},
+   {"topic": "Veterans", "point": "Reduce VA bureaucracy and ease veterans' transition to civilian life.", "source": "https://harris.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": {"score": 15, "evidence": "Supports a flat tax and balanced budgets and opposes federal minimum wage increases and tax hikes.", "source": "https://en.wikipedia.org/wiki/Andy_Harris_(politician)"},
+   "welfare": {"score": 15, "evidence": "Longtime opponent of the Affordable Care Act and its mandates.", "source": "https://en.wikipedia.org/wiki/Andy_Harris_(politician)"},
+   "liberty": {"score": 75, "evidence": "Cosponsored the Life at Conception Act, blocked DC marijuana legalization, and opposes concealed-carry restrictions.", "source": "https://en.wikipedia.org/wiki/Andy_Harris_(politician)"},
+   "security": {"score": 70, "evidence": "Official site backs strengthening the military and intelligence community and funding local law enforcement.", "source": "https://harris.house.gov/issues/defense-and-foreign-affairs"},
+   "immigration": {"score": 85, "evidence": "Opposes a path to citizenship for undocumented immigrants and DACA, and supported the border wall.", "source": "https://en.wikipedia.org/wiki/Andy_Harris_(politician)"},
+   "foreign": {"score": 45, "evidence": "Supports a strong military but says military force should not be used lightly.", "source": "https://harris.house.gov/issues/defense-and-foreign-affairs"},
+   "energy": {"score": 20, "evidence": "Has questioned human-caused climate change, opposes offshore wind near Maryland, and supports natural gas and coal.", "source": "https://en.wikipedia.org/wiki/Andy_Harris_(politician)"},
+   "tech": null,
+   "education": {"score": 20, "evidence": "Introduced private school scholarship legislation and favors local control of curricula.", "source": "https://en.wikipedia.org/wiki/Andy_Harris_(politician)"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": ""
+ },
+ {
+  "id": "MD-1/dan-schwartz",
+  "name": "Dan Schwartz",
+  "party": "Democratic",
+  "current_role": "Former banking supervision executive",
+  "bio": "Dan Schwartz, of Royal Oak, was senior director of nonbank supervision and enforcement at the Conference of State Bank Supervisors until resigning in April 2025 to run for Congress. He holds a political science degree from George Washington University and attended the Graduate School of Banking at Colorado.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "Reverse the permanent tax cuts for billionaires.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   {"topic": "Health care", "point": "Protect Medicaid, which about one in four district residents rely on.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   {"topic": "Immigration", "point": "Pass bipartisan reform pairing border security with due process for people with only civil violations.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   {"topic": "Energy", "point": "Pursue an all-of-the-above energy approach, keep wind projects, and act on utility price gouging.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   {"topic": "Defense spending", "point": "Oppose spending on a war with Iran and shift defense dollars toward domestic needs.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"}
+  ],
+  "positions": {
+   "economy": {"score": 55, "evidence": "Wants to reverse permanent tax cuts for billionaires and redirect war spending to programs such as rural hospitals.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   "welfare": {"score": 60, "evidence": "Pledges to protect Medicaid from cuts.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 45, "evidence": "Backs bipartisan reform combining border security with due-process protections for civil violators.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   "foreign": {"score": 35, "evidence": "Opposes spending on an Iran war and favors redirecting defense funds to domestic priorities.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   "energy": {"score": 60, "evidence": "Supports an all-energy approach including renewables and opposes cancelling wind projects.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-1st-congressional-district-candidates-2026-election/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "No campaign website could be confirmed."
+ },
+ {
+  "id": "MD-2/johnny-olszewski",
+  "name": "Johnny Olszewski Jr.",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MD-2",
+  "bio": "Johnny Olszewski has represented Maryland's 2nd District since January 2025. He was Baltimore County Executive from 2018 to 2025 and a member of the Maryland House of Delegates from 2006 to 2015. Raised in Dundalk, he holds degrees from Goucher College, George Washington University and a PhD from UMBC.",
+  "website": "https://gojohnnyo.com",
+  "social": {
+   "x": "https://twitter.com/JohnnyOJr",
+   "facebook": "https://www.facebook.com/JohnOlszewskiJr/",
+   "instagram": "https://www.instagram.com/johnnyolszewskijr/"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Extend health care tax credits, end tariffs, lower drug prices and cut utility bills.", "source": "https://gojohnnyo.com/priorities/"},
+   {"topic": "Health care", "point": "Protect Medicare and Medicaid and pursue aggressive prescription drug price negotiation.", "source": "https://gojohnnyo.com/priorities/"},
+   {"topic": "Housing", "point": "Convert vacant buildings into affordable homes and offer tax incentives to first-time buyers.", "source": "https://gojohnnyo.com/priorities/"},
+   {"topic": "Democracy", "point": "Expand voting rights, protect court independence and ban stock trading by members of Congress.", "source": "https://gojohnnyo.com/priorities/"},
+   {"topic": "Education", "point": "Keep the Department of Education and federal support for special education and low-income schools.", "source": "https://gojohnnyo.com/priorities/"},
+   {"topic": "Environment", "point": "Invest heavily in solar and wind power and protect the Chesapeake Bay.", "source": "https://gojohnnyo.com/priorities/"}
+  ],
+  "positions": {
+   "economy": {"score": 70, "evidence": "Calls for tax reform so everyone pays their fair share and for raising the minimum wage.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "welfare": {"score": 70, "evidence": "Backs extending ACA tax credits and defending SNAP, Medicare, Medicaid and Social Security.", "source": "https://gojohnnyo.com/priorities/"},
+   "liberty": {"score": 45, "evidence": "Supports codifying Roe and opposes book bans and anti-LGBTQ discrimination, while backing a federal assault weapons sales ban.", "source": "https://en.wikipedia.org/wiki/Johnny_Olszewski"},
+   "security": {"score": 35, "evidence": "Supports body cameras for ICE agents and limits on raids at sensitive locations.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "immigration": {"score": 25, "evidence": "Voted against the Laken Riley Act and opposes ICE enforcement abuses.", "source": "https://en.wikipedia.org/wiki/Johnny_Olszewski"},
+   "foreign": {"score": 70, "evidence": "Campaigns on defending democracy abroad and protested the 2025 freeze on foreign assistance.", "source": "https://en.wikipedia.org/wiki/Johnny_Olszewski"},
+   "energy": {"score": 80, "evidence": "Calls for large-scale solar and wind investment to cut emissions; set a 100% renewable goal for county operations.", "source": "https://gojohnnyo.com/priorities/"},
+   "tech": null,
+   "education": {"score": 85, "evidence": "Supports fully funded public schools and opposes dismantling the Department of Education.", "source": "https://gojohnnyo.com/priorities/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://gojohnnyo.com/wp-content/uploads/2023/12/cutout-1.png",
+  "notes": "Energy score newly added from campaign priorities and county record."
+ },
+ {
+  "id": "MD-2/dave-wallace",
+  "name": "Dave Wallace",
+  "party": "Republican",
+  "current_role": "Businessman",
+  "bio": "Dave Wallace is a businessman with a background in immunological research and a biology degree from Salisbury University. He founded Restore America's Mission and the FAIR Energy Foundation. He has run for Congress several times, including in 2012, 2014, 2016, 2022 and 2024.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Taxes", "point": "End federal taxes on tips, overtime and Social Security benefits.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   {"topic": "Immigration", "point": "Secure the border, strengthen employment verification and quickly remove criminal offenders.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   {"topic": "Energy", "point": "Expand domestic production of reliable, dispatchable American energy.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   {"topic": "Health care", "point": "Strengthen mental health and addiction treatment systems.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   {"topic": "Workforce", "point": "Promote vocational training and skilled trades programs.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   {"topic": "Foreign policy", "point": "Support Israel's defense and US engagement where strategic interests are at stake.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Supports eliminating taxes on tips, overtime and Social Security benefits along with fiscal restraint.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "welfare": {"score": 30, "evidence": "Questionnaire answers favor restructuring welfare programs rather than expanding them.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "liberty": {"score": 75, "evidence": "On LGBTQ issues, opposes gender transition procedures for minors and supports sex-based rules in women's sports.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "security": {"score": 65, "evidence": "Questionnaire answers call for stronger law enforcement.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "immigration": {"score": 75, "evidence": "Calls for border security, employment verification and expedited removal of criminal offenders.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "foreign": {"score": 60, "evidence": "Supports Israel's defense and American engagement in strategic interests.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "energy": {"score": 25, "evidence": "Prioritizes expanding domestic production of dispatchable energy.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-2nd-congressional-district-candidates-2026-election/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Liberty score rests on LGBTQ-related statements only. No campaign website could be confirmed."
+ },
+ {
+  "id": "MD-3/sarah-elfreth",
+  "name": "Sarah Elfreth",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MD-3",
+  "bio": "Sarah Elfreth has represented Maryland's 3rd District since January 2025. She served in the Maryland Senate for Anne Arundel County's District 30 from 2019 to 2025 and previously worked for the National Aquarium and taught at Towson University. She holds degrees from Towson University and Johns Hopkins University and lives in Annapolis.",
+  "website": "https://elfrethformaryland.com",
+  "social": {
+   "x": "https://twitter.com/SarahforMD",
+   "facebook": "https://www.facebook.com/SarahforMD",
+   "instagram": "https://www.instagram.com/SarahforMaryland"
+  },
+  "platform": [
+   {"topic": "Cost of living", "point": "Revoke tariffs, expand affordable child care, build more housing and roll back utility rate hikes.", "source": "https://elfrethformaryland.com/issues/"},
+   {"topic": "Chesapeake Bay and climate", "point": "Support clean energy, climate resilience and broader public access to the Bay.", "source": "https://elfrethformaryland.com/issues/"},
+   {"topic": "Immigration oversight", "point": "Block ICE facility expansion and oversee conditions in detention facilities.", "source": "https://elfrethformaryland.com/issues/"},
+   {"topic": "Federal workers", "point": "Strengthen civil service protections through bipartisan legislation.", "source": "https://elfrethformaryland.com/issues/"},
+   {"topic": "Health care", "point": "Cosponsor Medicare for All and oppose Medicaid cuts and ACA rollbacks.", "source": "https://elfrethformaryland.com/issues/"},
+   {"topic": "Key Bridge", "point": "Secure full federal funding to rebuild the Key Bridge and support Port workers.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"}
+  ],
+  "positions": {
+   "economy": {"score": 60, "evidence": "Supports payroll-tax-funded paid family leave and revoking tariffs.", "source": "https://en.wikipedia.org/wiki/Sarah_Elfreth"},
+   "welfare": {"score": 85, "evidence": "Campaign site says she cosponsors Medicare for All and backs capping child care costs.", "source": "https://elfrethformaryland.com/issues/"},
+   "liberty": {"score": 45, "evidence": "Supports abortion access, while backing background checks and an assault weapons ban.", "source": "https://elfrethformaryland.com/issues/"},
+   "security": {"score": 35, "evidence": "Calls for oversight to prevent misuse of ICE and supported impeaching the DHS secretary over ICE operations.", "source": "https://en.wikipedia.org/wiki/Sarah_Elfreth"},
+   "immigration": {"score": 30, "evidence": "Supports the bipartisan DIGNIDAD Act and opposes ICE detention expansion.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"},
+   "foreign": {"score": 55, "evidence": "Opposes conditioning aid to Israel, supports a two-state solution, and backed Ukraine and NATO.", "source": "https://en.wikipedia.org/wiki/Sarah_Elfreth"},
+   "energy": {"score": 80, "evidence": "Backs clean energy and climate resilience and has introduced climate-related legislation.", "source": "https://elfrethformaryland.com/issues/"},
+   "tech": null,
+   "education": {"score": 80, "evidence": "Seeks more federal funding for Maryland classrooms and opposed Moms for Liberty-backed school board candidates.", "source": "https://elfrethformaryland.com/issues/"},
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "https://elfrethformaryland.com/wp-content/uploads/2026/04/Elfreth2026_14-213x300.jpg",
+  "notes": "Welfare raised from 70 to 85 because her campaign site lists her as a Medicare for All cosponsor."
+ },
+ {
+  "id": "MD-3/berney-flowers",
+  "name": "Berney Flowers",
+  "party": "Republican",
+  "current_role": "Retired",
+  "bio": "Berney Flowers is a retired resident of Elkridge running for Congress for the first time. He holds a cybersecurity certificate from Harvard.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {"topic": "Federal spending", "point": "Impose budget caps and fiscal discipline on a government he says spends too much.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"},
+   {"topic": "Chesapeake Bay", "point": "Protect the Bay through practical, locally informed measures rather than heavy regulation.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"},
+   {"topic": "Key Bridge", "point": "Track federal rebuilding funds transparently to avoid bureaucratic delays.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"},
+   {"topic": "Infrastructure", "point": "Adopt practical, risk-based federal resilience standards that avoid needless delays.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"}
+  ],
+  "positions": {
+   "economy": {"score": 30, "evidence": "Supports binding budget caps and says the federal government spends too much.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"},
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {"score": 40, "evidence": "Supports Bay protection through practical local solutions while opposing burdensome environmental regulation.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-3rd-congressional-district-candidates-2026-election/"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Very limited public footprint; energy score is based on a single questionnaire answer."
+ },
+ {
+  "id": "MD-4/glenn-ivey",
+  "name": "Glenn Ivey",
+  "party": "Democratic",
+  "current_role": "U.S. Representative for MD-4",
+  "bio": "Glenn Ivey has represented Maryland's 4th District since 2023 and sits on the Appropriations and Ethics committees. He was Prince George's County State's Attorney from 2003 to 2011 and chaired the Maryland Public Service Commission, after serving as a federal prosecutor and Senate counsel. He is a graduate of Princeton University and Harvard Law School.",
+  "website": "https://glennivey.com",
+  "social": {
+   "x": "https://x.com/glenniveymd",
+   "facebook": "https://www.facebook.com/GlennIveyMD",
+   "instagram": "https://www.instagram.com/glenniveymd"
+  },
+  "platform": [
+   {"topic": "Federal workers", "point": "Protect federal employees' benefits and rights against executive actions.", "source": "https://glennivey.com/"},
+   {"topic": "Gun violence", "point": "Make combating gun violence a central part of his legislative agenda.", "source": "https://ivey.house.gov/issues"},
+   {"topic": "Immigration", "point": "Pass reform with a path to citizenship and permanent status for Dreamers and TPS holders.", "source": "https://ivey.house.gov/issues/immigration"},
+   {"topic": "Housing", "point": "Expand stable housing as a way to reduce poverty.", "source": "https://ivey.house.gov/issues"},
+   {"topic": "Budget", "point": "Oppose Republican budget cuts to social programs and climate initiatives.", "source": "https://ivey.house.gov/issues"}
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All.", "source": "https://en.wikipedia.org/wiki/Glenn_Ivey"},
+   "liberty": {"score": 35, "evidence": "Pro-Choice Caucus member who backs same-sex marriage and marijuana legalization, and supports assault weapons bans.", "source": "https://en.wikipedia.org/wiki/Glenn_Ivey"},
+   "security": {"score": 35, "evidence": "Supports tying federal police funding to accountability reforms while opposing defunding police.", "source": "https://en.wikipedia.org/wiki/Glenn_Ivey"},
+   "immigration": {"score": 20, "evidence": "Backs a path to citizenship and the American Dream and Promise Act and criticizes mass deportation.", "source": "https://ivey.house.gov/issues/immigration"},
+   "foreign": {"score": 50, "evidence": "Voted to fund Iron Dome and supports a two-state solution, but opposed 2026 strikes on Iran and Venezuela.", "source": "https://en.wikipedia.org/wiki/Glenn_Ivey"},
+   "energy": {"score": 90, "evidence": "Supports the Green New Deal and a transition away from fossil fuels.", "source": "https://en.wikipedia.org/wiki/Glenn_Ivey"},
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "official", "license": "Public domain", "author": "U.S. Congress"},
+  "campaign_photo": "",
+  "notes": "Immigration score newly added from his official immigration page."
+ },
+ {
+  "id": "MD-4/george-mcdermott",
+  "name": "George McDermott",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "George McDermott is the Republican nominee for Maryland's 4th Congressional District in 2026. No further verifiable biographical information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Ballotpedia and OnTheIssues could not be reached, and no campaign site or issue statements were found."
+ },
+ {
+  "id": "MD-4/sam-husseini",
+  "name": "Sam Husseini",
+  "party": "Green",
+  "current_role": "Communications director, Institute for Public Accuracy",
+  "bio": "Sam Husseini is communications director of the Institute for Public Accuracy and previously worked at Fairness and Accuracy in Reporting and the American-Arab Anti-Discrimination Committee. He immigrated to the US as a child, grew up in Queens, New York, and studied at Carnegie Mellon University. The Maryland Green Party nominated him for the 4th District in July 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Known as a journalist and activist focused on US foreign policy and Palestinian rights, but no campaign platform page was found; he writes at husseini.substack.com."
+ },
+ {
+  "id": "MD-5/adrian-boafo",
+  "name": "Adrian Boafo",
+  "party": "Democratic",
+  "current_role": "Maryland State Delegate, District 23",
+  "bio": "Adrian Boafo has served in the Maryland House of Delegates for District 23 since 2023 and was previously a Bowie City Council member and mayor pro tem. He worked as a press aide to members of Congress and managed campaigns for Rep. Steny Hoyer, and has been a government affairs director at Oracle. He holds degrees from the University of Baltimore and American University.",
+  "website": "https://www.adrianboafo.com",
+  "social": {
+   "x": "https://x.com/AdrianBoafoMD",
+   "facebook": "https://www.facebook.com/AdrianBoafo/",
+   "instagram": "https://www.instagram.com/adrianboafo/"
+  },
+  "platform": [
+   {"topic": "Taxes", "point": "Repeal 2017 tax cuts for the wealthy, close corporate loopholes and create a billionaire income tax.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"},
+   {"topic": "Immigration", "point": "Expand work, student and family visas and add immigration judges to cut asylum backlogs.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"},
+   {"topic": "Energy", "point": "Allow data centers only with strict renewable energy and accountability requirements.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"},
+   {"topic": "Social Security and Medicare", "point": "Shield Medicare and Social Security from budget cuts.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"},
+   {"topic": "Infrastructure", "point": "Secure federal funds for the Key Bridge and Port, and expand rural broadband.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"},
+   {"topic": "Federal workers", "point": "Oppose cuts to the federal workforce and support relief for laid-off workers.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"}
+  ],
+  "positions": {
+   "economy": {"score": 80, "evidence": "Proposed raising Maryland's minimum wage to $25 an hour and ending subminimum wages.", "source": "https://en.wikipedia.org/wiki/Adrian_Boafo"},
+   "welfare": {"score": 90, "evidence": "Supports Medicare for All with a private option and universal child care.", "source": "https://en.wikipedia.org/wiki/Adrian_Boafo"},
+   "liberty": null,
+   "security": null,
+   "immigration": {"score": 20, "evidence": "Wants expanded legal visa pathways and opposes abusive enforcement.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"},
+   "foreign": {"score": 55, "evidence": "Supports US-Israel ties while criticizing Netanyahu and backing humanitarian aid to Palestinians.", "source": "https://en.wikipedia.org/wiki/Adrian_Boafo"},
+   "energy": {"score": 75, "evidence": "Calls for strict renewable energy requirements on data centers and clean energy transparency.", "source": "https://www.baltimoresun.com/2026/05/20/maryland-5th-congressional-district-candidates-2026-election/"},
+   "tech": {"score": 70, "evidence": "Backs federal standards for data centers and sponsored Maryland's Phone-Free Schools Act.", "source": "https://en.wikipedia.org/wiki/Adrian_Boafo"},
+   "education": null,
+   "faith": null
+  },
+  "photo": {"file": "File:Adrian Boafo Feb2023.jpg", "license": "CC BY 2.0", "author": "Joe Andrucyk / Maryland GovPics"},
+  "campaign_photo": "https://static.wixstatic.com/media/45346f_595805a01a28483e8cbf486afb202e2f~mv2.jpg",
+  "notes": ""
+ },
+ {
+  "id": "MD-5/chris-chaffee",
+  "name": "Chris Chaffee",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Chris Chaffee was the Republican nominee for U.S. Senate in Maryland in 2022, receiving about 34 percent of the vote against Chris Van Hollen. He is the Republican nominee for Maryland's 5th Congressional District in 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": "",
+  "notes": "Commons has File:Chris Chaffee.jpg (CC BY 2.0), but its description names only other attendees of a 2022 event, so it was not used. No campaign site or issue statements were found."
+ }
+]

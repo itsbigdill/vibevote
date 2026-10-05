@@ -1,0 +1,531 @@
+[
+ {
+  "id": "LA-5/michael-echols",
+  "name": "Michael Echols",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "welfare",
+   "liberty",
+   "security",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-5/michael-echols",
+   "name": "Michael Echols",
+   "party": "Republican",
+   "current_role": "Louisiana State Representative (District 14) and House Majority Leader",
+   "bio": "Michael Echols has represented District 14 in the Louisiana House since 2020 and became House Republican Majority Leader in December 2025. He previously served on the Monroe City Council, including as chair. Born in Bastrop, he lives in Monroe and has worked in development, construction, health care, real estate and insurance.",
+   "website": "https://www.michaelechols.com/",
+   "social": {
+    "x": "https://x.com/MichaelEchols",
+    "facebook": "https://www.facebook.com/MichaelEchols4Louisiana"
+   },
+   "platform": [
+    {
+     "topic": "Immigration",
+     "point": "Pledges to secure the border and stop illegal immigration.",
+     "source": "https://www.knoe.com/2026/02/11/state-rep-michael-echols-announces-congressional-run/"
+    },
+    {
+     "topic": "Rural communities",
+     "point": "Says he will protect farmers and rural communities.",
+     "source": "https://www.knoe.com/2026/02/11/state-rep-michael-echols-announces-congressional-run/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Focuses on hospital accountability, transparency and rural health care access.",
+     "source": "https://www.michaelechols.com/"
+    },
+    {
+     "topic": "Small business",
+     "point": "Promotes reducing regulatory burdens on small businesses.",
+     "source": "https://www.michaelechols.com/"
+    },
+    {
+     "topic": "Cost of living",
+     "point": "Aims to make everyday life more affordable and strengthen the economy.",
+     "source": "https://www.knoe.com/2026/02/11/state-rep-michael-echols-announces-congressional-run/"
+    }
+   ],
+   "positions": {
+    "economy": {
+     "score": 30,
+     "evidence": "Campaigns on cutting regulatory burdens for small businesses and received an NFIB small-business award.",
+     "source": "https://www.michaelechols.com/"
+    },
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": {
+     "score": 80,
+     "evidence": "Pledges to seal the border and cut off illegal immigration.",
+     "source": "https://www.knoe.com/2026/02/11/state-rep-michael-echols-announces-congressional-run/"
+    },
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Michael Echols.jpg",
+    "license": "CC BY 4.0",
+    "author": "Timothy Holdiness"
+   },
+   "campaign_photo": "https://www.michaelechols.com/wp-content/uploads/2026/02/MECHOLS52-809x1024.png",
+   "notes": ""
+  }
+ },
+ {
+  "id": "LA-5/stewart-cathey-jr",
+  "name": "Stewart Cathey Jr.",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-5/stewart-cathey-jr",
+   "name": "Stewart Cathey Jr.",
+   "party": "Republican",
+   "current_role": "Louisiana State Senator (District 33)",
+   "bio": "Stewart Cathey Jr. has served in the Louisiana Senate since 2020 and chairs its agriculture and rural development committee. He is a U.S. Army engineer officer who deployed twice to Afghanistan, and he runs a management consulting firm. He was born in Monroe and graduated from the University of Louisiana at Monroe.",
+   "website": "https://www.stewartcathey.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/stewartcatheyjrlasenate33"
+   },
+   "platform": [
+    {
+     "topic": "Education",
+     "point": "Describes education as the foundation of a prosperous community.",
+     "source": "https://www.stewartcathey.com/about"
+    },
+    {
+     "topic": "Northeast Louisiana",
+     "point": "Says he will bring a commonsense approach to the region's challenges.",
+     "source": "https://www.stewartcathey.com/about"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Stewart Cathey Jr.jpg",
+    "license": "CC BY 4.0",
+    "author": "Timothy Holdiness"
+   },
+   "campaign_photo": "https://static.wixstatic.com/media/9361fe_ac7e9ba47ca94f778faae830fef00768~mv2.jpg",
+   "notes": "He entered the race on July 8, 2026; his campaign site gives little issue detail. Ballotpedia could not be retrieved."
+  }
+ },
+ {
+  "id": "LA-5/pat-moore",
+  "name": "Pat Moore",
+  "party": "Democratic",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-5/pat-moore",
+   "name": "Pat Moore",
+   "party": "Democratic",
+   "current_role": "Louisiana State Representative (District 17)",
+   "bio": "Patricia \"Pat\" Moore has represented District 17 in the Louisiana House since 2019. She previously served on the Ouachita Parish Police Jury from 2007 to 2019 and retired from State Farm. She is from Monroe and graduated from the University of Louisiana at Monroe.",
+   "website": "https://patmooreforcongress.com/",
+   "social": {
+    "facebook": "https://www.facebook.com/RepPatMoore"
+   },
+   "platform": [
+    {
+     "topic": "Cost of living",
+     "point": "Aims to lower everyday costs, support fair wages and make child care affordable.",
+     "source": "https://patmooreforcongress.com/"
+    },
+    {
+     "topic": "Health care",
+     "point": "Wants to protect rural hospitals, lower medicine costs and expand behavioral health care.",
+     "source": "https://patmooreforcongress.com/"
+    },
+    {
+     "topic": "Education",
+     "point": "Supports good schools and help for teachers across the district.",
+     "source": "https://patmooreforcongress.com/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Seeks infrastructure investment for every parish plus workforce training and small-business support.",
+     "source": "https://patmooreforcongress.com/"
+    },
+    {
+     "topic": "Accountability",
+     "point": "Pledges to stay accessible to constituents and work across party lines.",
+     "source": "https://patmooreforcongress.com/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 65,
+     "evidence": "Campaigns on affordable child care and lower health care costs, including for seniors.",
+     "source": "https://patmooreforcongress.com/"
+    },
+    "liberty": {
+     "score": 60,
+     "evidence": "In 2024 voted in committee to advance a bill removing obscenity-law protections for teachers and librarians; speech was the issue.",
+     "source": "https://en.wikipedia.org/wiki/Pat_Moore_(Louisiana_politician)"
+    },
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {
+     "score": 65,
+     "evidence": "Emphasizes public school quality and support for teachers.",
+     "source": "https://patmooreforcongress.com/"
+    },
+    "faith": null
+   },
+   "photo": {
+    "file": "File:Pat Moore.jpg",
+    "license": "CC BY 4.0",
+    "author": "Timothy Holdiness"
+   },
+   "campaign_photo": "https://raw.githubusercontent.com/dpconway4-bot/pat-moore-for-congress/main/assets/pat-moore-headshot.jpg",
+   "notes": "The liberty score rests on a single committee vote; campaign headshot is hosted on GitHub rather than the campaign domain."
+  }
+ },
+ {
+  "id": "LA-5/austin-magee",
+  "name": "Austin Magee",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-5/austin-magee",
+   "name": "Austin Magee",
+   "party": "Republican",
+   "current_role": "Owner of an industrial welding and mechanical company",
+   "bio": "Austin Magee owns Pittman Industrial, a welding and mechanical contracting company that works across Louisiana. He was born and raised in the 5th District and attended high school and college there. He has not previously held elected office.",
+   "website": "https://www.austinmageeforcongress.com/",
+   "social": {},
+   "platform": [
+    {
+     "topic": "Limited government",
+     "point": "Says he will resist government overreach that erodes individual freedoms.",
+     "source": "https://www.austinmageeforcongress.com/about"
+    },
+    {
+     "topic": "Leadership",
+     "point": "Presents his work experience as a basis for practical, common-sense representation.",
+     "source": "https://www.austinmageeforcongress.com/about"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://images.squarespace-cdn.com/content/v1/699c7b79fe93a070441bd9b0/fb6a9c08-7817-446e-a48e-6f636730d574/IMG_6622.jpg",
+   "notes": "Campaign site gives no specific policy positions; the headshot URL is an image on the homepage and may not be a formal portrait."
+  }
+ },
+ {
+  "id": "LA-5/oscar-dantzler",
+  "name": "Oscar Dantzler",
+  "party": "Republican",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-5/oscar-dantzler",
+   "name": "Oscar Dantzler",
+   "party": "Republican",
+   "current_role": "Former police officer and bail bondsman",
+   "bio": "Oscar \"Omar\" Dantzler is a former police officer and bail bondsman. He ran for the 5th District as a Democrat in 2022 and for governor in 2019, and is running as a Republican in 2026.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "No campaign website or issue statements found; background is from the Wikipedia race article."
+  }
+ },
+ {
+  "id": "LA-5/dan-mckay",
+  "name": "Dan McKay",
+  "party": "Democratic",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-5/dan-mckay",
+   "name": "Dan McKay",
+   "party": "Democratic",
+   "current_role": "Attorney",
+   "bio": "Dan McKay is an attorney running as a Democrat for the 5th District. His campaign describes him as a veteran, former prosecutor and country lawyer.",
+   "website": "https://www.mckayforcongress.com/",
+   "social": {
+    "x": "https://x.com/McKayCongress",
+    "instagram": "https://www.instagram.com/mckayforcongress/",
+    "facebook": "https://www.facebook.com/McKayforCongress"
+   },
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "https://static.wixstatic.com/media/5fd681_3fbff86f6bec4ebd99196b71471cdfdd~mv2.png",
+   "notes": "Campaign homepage lists no policy positions and its about page was unavailable; the campaign image may be a graphic rather than a headshot."
+  }
+ },
+ {
+  "id": "LA-5/antonio-wilson",
+  "name": "Antonio Wilson",
+  "party": "Democratic",
+  "race": "LA-5",
+  "race_label": "Louisiana · US House LA-5",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "welfare",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "education",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-5/antonio-wilson",
+   "name": "Antonio Wilson",
+   "party": "Democratic",
+   "current_role": "Contractor",
+   "bio": "Antonio Wilson is a contractor from Tallulah, Louisiana. He ran as a Democrat for Louisiana's 5th Congressional District in 2026; the state Democratic Party endorsed state Rep. Pat Moore in that race.",
+   "website": "",
+   "social": {},
+   "platform": [],
+   "positions": {
+    "economy": null,
+    "welfare": null,
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": null,
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Coverage from February 2026 listed Wilson as disqualified or withdrawn from the earlier 5th District contest, so his status on the November ballot is unconfirmed. No campaign website or issue statements were found."
+  }
+ },
+ {
+  "id": "LA-6/chauna-banks",
+  "name": "Chauna Banks",
+  "party": "Democratic",
+  "race": "LA-6",
+  "race_label": "Louisiana · US House LA-6",
+  "race_status": "Jungle primary Nov 3; runoff Dec 12 if needed",
+  "incumbent": false,
+  "member_of_congress": null,
+  "missing_topics": [
+   "economy",
+   "liberty",
+   "security",
+   "immigration",
+   "foreign",
+   "energy",
+   "tech",
+   "faith"
+  ],
+  "profile": {
+   "id": "LA-6/chauna-banks",
+   "name": "Chauna Banks",
+   "party": "Democratic",
+   "current_role": "Former East Baton Rouge Metro Council member",
+   "bio": "Chauna Banks represented District 2 on the East Baton Rouge Metro Council from 2013 through 2024. She spent more than two decades in public education and community economic development work. She holds degrees in computer science and mental health counseling from Southern University.",
+   "website": "https://chaunabanksforcongress.vote/",
+   "social": {
+    "facebook": "https://www.facebook.com/ChaunaBanksForCongress",
+    "instagram": "https://www.instagram.com/chaunabanksforcongress/",
+    "tiktok": "https://www.tiktok.com/@chaunabanksforcongress"
+   },
+   "platform": [
+    {
+     "topic": "Jobs",
+     "point": "Support small businesses, expand workforce training and attract well-paying jobs to the district.",
+     "source": "https://chaunabanksforcongress.vote/"
+    },
+    {
+     "topic": "Education",
+     "point": "Invest in schools, support teachers and build pathways to student success.",
+     "source": "https://chaunabanksforcongress.vote/"
+    },
+    {
+     "topic": "Healthcare",
+     "point": "Protect and expand access to affordable, quality healthcare.",
+     "source": "https://chaunabanksforcongress.vote/"
+    },
+    {
+     "topic": "Infrastructure",
+     "point": "Back community infrastructure and transportation projects.",
+     "source": "https://chaunabanksforcongress.vote/"
+    },
+    {
+     "topic": "Public safety",
+     "point": "Work toward safer neighborhoods and stronger local family support systems.",
+     "source": "https://chaunabanksforcongress.vote/"
+    },
+    {
+     "topic": "Housing",
+     "point": "Campaigns on affordable housing and economic security for Louisiana families.",
+     "source": "https://www.brweeklypress.com/chauna-banks-enters-congressional-race-with-focus-on-opportunity-and-economic-security/"
+    }
+   ],
+   "positions": {
+    "economy": null,
+    "welfare": {
+     "score": 65,
+     "evidence": "Campaign pledges to protect and expand access to affordable healthcare.",
+     "source": "https://chaunabanksforcongress.vote/"
+    },
+    "liberty": null,
+    "security": null,
+    "immigration": null,
+    "foreign": null,
+    "energy": null,
+    "tech": null,
+    "education": {
+     "score": 70,
+     "evidence": "Campaign calls for investing in schools and supporting teachers.",
+     "source": "https://chaunabanksforcongress.vote/"
+    },
+    "faith": null
+   },
+   "photo": null,
+   "campaign_photo": "",
+   "notes": "Her campaign site lists priorities in general terms, so the two scores rest on limited detail."
+  }
+ }
+]

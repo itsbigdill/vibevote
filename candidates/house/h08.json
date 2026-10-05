@@ -1,0 +1,832 @@
+[
+  {
+    "state": "Colorado",
+    "district": "CO-1",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Melat Kiros",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 95,
+          "welfare": 95,
+          "liberty": null,
+          "security": null,
+          "immigration": 5,
+          "foreign": 15,
+          "energy": 95,
+          "tech": 85,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports Medicare for All, rent control, higher taxes on ultra-wealthy, abolishing ICE, Green New Deal, data-center moratorium, Pentagon cuts, Israel arms embargo.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Melat_Kiros"
+        ],
+        "photo": {
+          "file": "File:Melat Kiros Portrait (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Andra Turner"
+        }
+      },
+      {
+        "name": "Christy Peterson",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found in reliable sources; all domains left unscored.",
+        "sources": [],
+        "photo": null
+      },
+      {
+        "name": "Critter Milton",
+        "party": "Unity",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chad Humphrey",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Shimon Blau",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "district": "CO-2",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Joe Neguse",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 75,
+          "welfare": 90,
+          "liberty": 25,
+          "security": 30,
+          "immigration": 20,
+          "foreign": null,
+          "energy": 90,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Opposed 2017 tax cuts; backs Medicare for All, Equality Act, cannabis legalization, background checks, police reform, citizenship pathway, Green New Deal. Liberty driven by LGBTQ/cannabis.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Joe_Neguse"
+        ],
+        "photo": {
+          "file": "File:Joe Neguse, official portrait, 116th Congress.jpg",
+          "license": "Public domain",
+          "author": "Franmarie Metzler (U.S. House)"
+        }
+      },
+      {
+        "name": "Kelley Dennison",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found in reliable sources; all domains left unscored.",
+        "sources": [],
+        "photo": null
+      },
+      {
+        "name": "Gaylon Kent",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "district": "CO-3",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jeff Hurd",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 35,
+          "welfare": 45,
+          "liberty": null,
+          "security": null,
+          "immigration": 65,
+          "foreign": null,
+          "energy": 30,
+          "tech": 30,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Targets regulations, voted to rescind Canada tariffs; defended Medicaid and child tax credit; prioritizes border security; all-of-the-above energy with oil and gas; backed FIT21 crypto bill.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jeff_Hurd",
+          "https://jeffhurdforcolorado.com/issues"
+        ],
+        "photo": {
+          "file": "File:RepJeffHurd.jpg",
+          "license": "Public domain",
+          "author": "Clerk of the U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Dwayne Romero",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 60,
+          "liberty": 30,
+          "security": null,
+          "immigration": 40,
+          "foreign": null,
+          "energy": 45,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants tariff repeal, expanded family tax credits, Medicare drug negotiation, reproductive care access (drove liberty), border security plus citizenship path, all-of-the-above energy.",
+        "sources": [
+          "https://romeroforcolorado.com/issues"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Cory Robertson",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Clifton Brown",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "district": "CO-4",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Lauren Boebert",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 65,
+          "security": 20,
+          "immigration": 95,
+          "foreign": 40,
+          "energy": 10,
+          "tech": null,
+          "education": 5,
+          "faith": 95
+        },
+        "basis": "Opposes tax increases, ACA; opposes abortion and same-sex marriage, strong gun rights; FISA warrant push; border wall; AUMF repeal; opposes Green New Deal; abolish Education Department; rejects church-state separation.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Lauren_Boebert"
+        ],
+        "photo": {
+          "file": "File:Lauren Boebert 117th U.S Congress (3x4 cropped) (2).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Eileen Laubacher",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 60,
+          "welfare": 60,
+          "liberty": null,
+          "security": null,
+          "immigration": 45,
+          "foreign": null,
+          "energy": 50,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs middle-class tax cuts, ending corporate and billionaire breaks, insulin cap, Medicaid drug negotiation, secure border with legal citizenship path, all-of-the-above energy.",
+        "sources": [
+          "https://eileenforcolorado.com/platform"
+        ],
+        "photo": {
+          "file": "File:Eileen H. Laubacher (3).jpg",
+          "license": "Public domain",
+          "author": "U.S. Navy"
+        }
+      },
+      {
+        "name": "Douglas Mangeris",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "district": "CO-5",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jeff Crank",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Former Americans for Prosperity state director and anti-tax activist; voted for 2025 reconciliation tax cuts with Medicaid work requirements; backed resolution condemning socialism.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jeff_Crank",
+          "https://crank.house.gov/"
+        ],
+        "photo": {
+          "file": "File:Jeff Crank 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
+      },
+      {
+        "name": "Jessica Killin",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Wants tariffs ended, wealthy and corporations taxed more, anti-price-gouging, Medicaid cuts repealed, Medicare drug negotiation, insulin cap, AI standards and oversight.",
+        "sources": [
+          "https://www.killinforcolorado.com/priorities"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Christopher Mitchell",
+        "party": "American Constitution",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mark Elworth",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "district": "CO-6",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Jason Crow",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 30,
+          "security": null,
+          "immigration": null,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Supports abortion rights, same-sex marriage and gun background checks (liberty); backed F-16s for Ukraine but voted in 2026 to eliminate regular Israel aid.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jason_Crow"
+        ],
+        "photo": {
+          "file": "File:Rep. Jason Crow (D-CO), 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Jason Clark",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "No published issue positions found in reliable sources; all domains left unscored.",
+        "sources": [],
+        "photo": null
+      },
+      {
+        "name": "Patty McMahon",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Meredith Ryan",
+        "party": "Unity",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Samir Witta",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "district": "CO-7",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Brittany Pettersen",
+        "party": "Democratic",
+        "incumbent": true,
+        "positions": {
+          "economy": 65,
+          "welfare": 60,
+          "liberty": 20,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
+        "basis": "Would repeal 2017 tax cuts for the wealthy, backs ACA and drug-price negotiation, abortion rights (drove liberty), rapid renewable transition, higher teacher pay and school funding.",
+        "sources": [
+          "https://brittanypettersen.com/issues",
+          "https://en.wikipedia.org/wiki/Brittany_Pettersen"
+        ],
+        "photo": {
+          "file": "File:Rep. Brittany Pettersen 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Tim Bennett",
+        "party": "Republican",
+        "incumbent": false,
+        "positions": {
+          "economy": 30,
+          "welfare": 40,
+          "liberty": null,
+          "security": null,
+          "immigration": 60,
+          "foreign": 60,
+          "energy": 30,
+          "tech": null,
+          "education": 25,
+          "faith": null
+        },
+        "basis": "Prioritizes spending cuts, protecting Medicare and Medicaid via fraud control, border security with legal pathways, NATO with burden sharing, oil-gas-nuclear energy, parental control of education.",
+        "sources": [
+          "https://timbennettforcongress.com/platform",
+          "https://timbennettforcongress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Susan Hall",
+        "party": "Unity",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Lawrence Kyle Clark",
+        "party": "American Constitution",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Dan Sallis",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Joe Krzeczkowski",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      }
+    ]
+  },
+  {
+    "state": "Colorado",
+    "district": "CO-8",
+    "office": "US House",
+    "status": "Nominees set",
+    "candidates": [
+      {
+        "name": "Gabe Evans",
+        "party": "Republican",
+        "incumbent": true,
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": 50,
+          "security": 70,
+          "immigration": 50,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
+        "basis": "Opposes tax-and-regulate policies; favors abortion ban with exceptions but strong gun rights; ex-police officer against soft-on-crime; Laken Riley Act yet DACA and DIGNIDAD support; school choice.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gabe_Evans",
+          "https://electgabeevans.com/"
+        ],
+        "photo": {
+          "file": "File:Rep. Gabe Evans official photo, 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
+      },
+      {
+        "name": "Manny Rutinel",
+        "party": "Democratic",
+        "incumbent": false,
+        "positions": {
+          "economy": 70,
+          "welfare": 65,
+          "liberty": 35,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": null,
+          "tech": 75,
+          "education": null,
+          "faith": null
+        },
+        "basis": "Backs billionaire taxes, higher minimum wage, drug negotiation, abortion rights, marriage equality, semiautomatic weapon limits, citizenship path, independent AI safety reviews.",
+        "sources": [
+          "https://mannyforcolorado.com/issues",
+          "https://en.wikipedia.org/wiki/Manny_Rutinel"
+        ],
+        "photo": {
+          "file": "File:Manny Rutinel at 2024 YIMBY Denver Legislative Kickoff (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Andybosselman"
+        }
+      },
+      {
+        "name": "Dave Wood",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      }
+    ]
+  }
+]
