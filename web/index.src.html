@@ -679,11 +679,16 @@ function zipField(done,prev={}){
     const seats=await loadHouse(state);
     if(mine!==seq)return;
     const all=Object.keys(seats),known=zipSeats.filter(x=>seats[x]);
-    if(all.length<=1)return ready(state,all);
-    if(known.length===1)return ready(state,known);
+    const seatItem=x=>({label:seatLabel(x),sub:seats[x].incumbent?`${t("Incumbent")} · ${seats[x].incumbent}`:""});
+    /* a ZIP inside one district still shows it, already chosen, so every ZIP looks the same */
+    const only=all.length<=1?all:known.length===1?known:null;
+    if(only){
+      if(only.length)box.append(optionGrid([seatItem(only[0])],()=>ready(state,only),0));
+      return ready(state,only);
+    }
     const was=prev.zip===inp.value&&prev.state===state?prev.districts||[]:null;
     if(known.length>1){
-      const items=[...known.map(x=>({label:seatLabel(x),sub:seats[x].incumbent?`${t("Incumbent")} · ${seats[x].incumbent}`:""})),t("Not sure")];
+      const items=[...known.map(seatItem),t("Not sure")];
       const pickSeat=j=>ready(state,j<known.length?[known[j]]:known);
       const cur=!was?-1:was.length===1?known.indexOf(was[0]):known.length;
       box.append(optionGrid(items,pickSeat,cur));
