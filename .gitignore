@@ -25,3 +25,6 @@ data-src/*.log
 # build output (python3 build.py); _headers is written by hand
 public/*
 !public/_headers
+!public/robots.txt
+!public/sitemap.xml
+!public/googlec00d114988ffd02e.html

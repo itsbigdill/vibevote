@@ -105,7 +105,7 @@
       ],
       [
         "p",
-        "VibeVote keeps your consent, your language, your ZIP code, your latest result, your share link id and the key that lets you delete that link in your browser's local storage, so the page can show them to you again. Clearing the site data removes them. One short-lived cookie holds a random id for your anonymous interview session, for up to three hours, and nothing about you. There are no advertising or analytics cookies."
+        "VibeVote keeps your consent, your language, your ZIP code, your latest result, your share link id and the key that lets you delete that link in your browser's local storage, so the page can show them to you again. Clearing the site data removes them. One short-lived cookie holds a random id for your anonymous interview session, for up to three hours, and nothing about you. There are no advertising cookies. To see how many people use VibeVote, the site counts visits with Cloudflare Web Analytics, which sets no cookies, and with Google Analytics, which sets its own cookies (_ga) to tell repeat visits apart. Google Analytics receives the pages you open and four steps (starting the interview, reaching the result, sharing, choosing to support), never your answers, positions, state or result, and its advertising features are turned off. VibeVote also keeps daily counts of those steps by state and language, with nothing that points to a person. You can block these cookies in your browser and the site works the same."
       ],
       [
         "h3",
@@ -241,7 +241,7 @@
       ],
       [
         "p",
-        "VibeVote guarda en el almacenamiento local de tu navegador tu consentimiento, tu idioma, tu código postal, tu último resultado, el identificador de tu enlace y la clave que te permite eliminarlo, para poder mostrártelos de nuevo. Al borrar los datos del sitio desaparecen. Una cookie de corta duración contiene un identificador aleatorio de tu sesión anónima de entrevista, durante un máximo de tres horas, y nada sobre ti. No hay cookies publicitarias ni de analítica."
+        "VibeVote guarda en el almacenamiento local de tu navegador tu consentimiento, tu idioma, tu código postal, tu último resultado, el identificador de tu enlace y la clave que te permite eliminarlo, para poder mostrártelos de nuevo. Al borrar los datos del sitio desaparecen. Una cookie de corta duración contiene un identificador aleatorio de tu sesión anónima de entrevista, durante un máximo de tres horas, y nada sobre ti. No hay cookies publicitarias. Para saber cuántas personas usan VibeVote, el sitio cuenta las visitas con Cloudflare Web Analytics, que no usa cookies, y con Google Analytics, que usa sus propias cookies (_ga) para distinguir las visitas repetidas. Google Analytics recibe las páginas que abres y cuatro pasos (empezar la entrevista, llegar al resultado, compartir, elegir apoyar), nunca tus respuestas, posiciones, estado ni resultado, y sus funciones publicitarias están desactivadas. VibeVote también guarda recuentos diarios de esos pasos por estado e idioma, sin nada que identifique a una persona. Puedes bloquear estas cookies en tu navegador y el sitio funciona igual."
       ],
       [
         "h3",
@@ -377,7 +377,7 @@
       ],
       [
         "p",
-        "O VibeVote guarda no armazenamento local do navegador o seu consentimento, o seu idioma, o seu CEP, o seu último resultado, o identificador do seu link e a chave que permite excluí-lo, para poder mostrá-los de novo. Limpar os dados do site remove tudo isso. Um cookie de curta duração guarda um identificador aleatório da sua sessão anônima de entrevista, por até três horas, e nada sobre você. Não há cookies de publicidade nem de análise."
+        "O VibeVote guarda no armazenamento local do navegador o seu consentimento, o seu idioma, o seu CEP, o seu último resultado, o identificador do seu link e a chave que permite excluí-lo, para poder mostrá-los de novo. Limpar os dados do site remove tudo isso. Um cookie de curta duração guarda um identificador aleatório da sua sessão anônima de entrevista, por até três horas, e nada sobre você. Não há cookies de publicidade. Para saber quantas pessoas usam o VibeVote, o site conta as visitas com o Cloudflare Web Analytics, que não usa cookies, e com o Google Analytics, que usa os seus próprios cookies (_ga) para distinguir visitas repetidas. O Google Analytics recebe as páginas que você abre e quatro etapas (começar a entrevista, chegar ao resultado, compartilhar, escolher apoiar), nunca as suas respostas, posições, estado ou resultado, e os recursos de publicidade dele estão desativados. O VibeVote também guarda contagens diárias dessas etapas por estado e idioma, sem nada que identifique uma pessoa. Você pode bloquear esses cookies no navegador e o site funciona do mesmo jeito."
       ],
       [
         "h3",
@@ -513,7 +513,7 @@
       ],
       [
         "p",
-        "VibeVote 会在你浏览器的本地存储中保存你的同意记录、语言、邮政编码、最近一次结果、分享链接的编号以及用于删除该链接的密钥，以便再次向你展示。清除网站数据即可将其删除。有一个短期 Cookie 保存你匿名访谈会话的随机编号，最长三小时，不含任何关于你的信息。本站没有广告或分析类 Cookie。"
+        "VibeVote 会在你浏览器的本地存储中保存你的同意记录、语言、邮政编码、最近一次结果、分享链接的编号以及用于删除该链接的密钥，以便再次向你展示。清除网站数据即可将其删除。有一个短期 Cookie 保存你匿名访谈会话的随机编号，最长三小时，不含任何关于你的信息。本站没有广告 Cookie。为了解有多少人使用 VibeVote，网站通过 Cloudflare Web Analytics（不使用 Cookie）和 Google Analytics（使用其自身的 _ga Cookie 区分重复访问）统计访问量。Google Analytics 只接收你打开的页面和四个步骤（开始访谈、看到结果、分享、选择支持），绝不接收你的回答、立场、所在州或结果，其广告功能已关闭。VibeVote 还按州和语言保存这些步骤的每日计数，不含任何可识别个人的信息。你可以在浏览器中屏蔽这些 Cookie，网站照常运行。"
       ],
       [
         "h3",
@@ -649,7 +649,7 @@
       ],
       [
         "p",
-        "VibeVote хранит в локальном хранилище браузера ваше согласие, язык, почтовый индекс, последний результат, идентификатор ссылки и ключ для её удаления, чтобы показать их вам снова. Очистка данных сайта всё это удаляет. Одна кратковременная cookie хранит случайный идентификатор вашей анонимной сессии интервью не дольше трёх часов и ничего о вас. Рекламных и аналитических cookie нет."
+        "VibeVote хранит в локальном хранилище браузера ваше согласие, язык, почтовый индекс, последний результат, идентификатор ссылки и ключ для её удаления, чтобы показать их вам снова. Очистка данных сайта всё это удаляет. Одна кратковременная cookie хранит случайный идентификатор вашей анонимной сессии интервью не дольше трёх часов и ничего о вас. Рекламных cookie нет. Чтобы понимать, сколько людей пользуется VibeVote, сайт считает посещения с помощью Cloudflare Web Analytics, который не использует cookie, и Google Analytics, который ставит свои cookie (_ga), чтобы отличать повторные визиты. Google Analytics получает открытые вами страницы и четыре шага (начало интервью, получение результата, отправка ссылки, выбор поддержать проект), но никогда не получает ваши ответы, позиции, штат или результат; его рекламные функции отключены. VibeVote также хранит ежедневные счётчики этих шагов по штатам и языкам, без чего-либо, что указывает на конкретного человека. Вы можете заблокировать эти cookie в браузере, и сайт будет работать так же."
       ],
       [
         "h3",

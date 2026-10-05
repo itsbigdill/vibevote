@@ -503,6 +503,19 @@ const store={
   del(k){try{localStorage.removeItem(k);}catch(e){}}
 };
 
+/* ---- analytics: page views and four funnel steps; never answers, positions, state or results ---- */
+function loadGA(id){
+  window.dataLayer=window.dataLayer||[];window.gtag=function(){dataLayer.push(arguments);};
+  const path=location.pathname.startsWith("/r/")?"/r/":location.pathname; /* a shared link's id stays out of Google */
+  gtag("js",new Date());gtag("config",id,{allow_google_signals:false,allow_ad_personalization_signals:false,page_location:location.origin+path});
+  loadScript("https://www.googletagmanager.com/gtag/js?id="+encodeURIComponent(id)).catch(()=>{});
+}
+const track=name=>{try{if(window.gtag)gtag("event",name);}catch(e){}};
+function supportClicked(){
+  track("support_click");
+  try{fetch("/api/event",{method:"POST",headers:{"content-type":"application/json"},body:JSON.stringify({name:"support",state:S.ctx.state||"",locale:S.lang}),keepalive:true});}catch(e){}
+}
+
 const saveLocal=()=>store.set(KEY,{ctx:S.ctx,portrait:S.portrait,shareId:S.shareId,revoke:S.revoke});
 
 /* ---- server ---- */
@@ -614,7 +627,7 @@ function offerSupport(){
 <button class="later" type="button">${t("Not now")}</button>
 </div>
 </div>`;
-  d.querySelector("a.btn").addEventListener("click",()=>d.close());
+  d.querySelector("a.btn").addEventListener("click",()=>{supportClicked();d.close();});
   d.querySelector(".later").onclick=()=>d.close();
   d.addEventListener("close",()=>d.remove());
   document.body.append(d);d.showModal();
@@ -779,6 +792,7 @@ async function nextQuestion(){
   if(S.asked)progress();else $("#prog").hidden=true;
   const g=glass();g.append(loader(S.asked?"next":"first"));screen(g);
   try{
+    if(!S.state)track("interview_start");
     const r=await api("/api/interview",S.state?{state:S.state,answers:S.answers}:{ctx:serverCtx(),locale:S.lang});
     if(!r||!r.state)throw {code:"refused"};
     S.state=r.state;S.answers=[];S.progress=r.progress||0;
@@ -830,7 +844,7 @@ async function finish(){
     const p=await api("/api/manifesto",{state:S.state});
     if(!p||!p.title||!p.manifesto)throw {code:"refused"};
     S.portrait=p;S.shareId=null;S.revoke=null;resetInterview();
-    store.set(KEY,{ctx:S.ctx,portrait:p});
+    store.set(KEY,{ctx:S.ctx,portrait:p});track("result_view");
     renderResult(p);
   }catch(e){error(()=>finish(),e);}
 }
@@ -879,7 +893,7 @@ async function ensureLink(p){
     try{r=await fetch("/api/results",{method:"POST",body:fd});}catch(e){throw {code:"offline"};}
     const data=await r.json().catch(()=>null);
     if(!r.ok||!data||!data.id)throw {code:r.status===429?"rate_limited":"upstream_error"};
-    S.shareId=data.id;S.revoke=data.revoke||null;saveLocal();
+    S.shareId=data.id;S.revoke=data.revoke||null;saveLocal();track("share");
   }
   return `${location.origin}/r/${S.shareId}`;
 }
@@ -1268,7 +1282,7 @@ async function shareImage(p){
 let access=null;
 async function checkAccess(){
   if(access===null){
-    try{const ctl=new AbortController();setTimeout(()=>ctl.abort(),3000);const r=await fetch("/api/access",{cache:"no-store",signal:ctl.signal});const d=r.ok?await r.json():{};S.turnstile=d.turnstile||"";access=d.allowed!==false;if(d.sponsor){S.sponsor=d.sponsor;$("#sponsor-link").href=d.sponsor;$("#sponsor-link").hidden=false;}}
+    try{const ctl=new AbortController();setTimeout(()=>ctl.abort(),3000);const r=await fetch("/api/access",{cache:"no-store",signal:ctl.signal});const d=r.ok?await r.json():{};S.turnstile=d.turnstile||"";access=d.allowed!==false;if(d.sponsor){S.sponsor=d.sponsor;$("#sponsor-link").href=d.sponsor;$("#sponsor-link").hidden=false;$("#sponsor-link").onclick=supportClicked;}if(d.ga&&!window.gtag)loadGA(d.ga);}
     catch(e){access=true;} /* the API still enforces the region */
   }
   return access;

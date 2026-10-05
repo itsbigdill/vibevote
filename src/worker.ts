@@ -35,7 +35,7 @@ import type { Asked, Evidence, InterviewState, Reply, Versions } from "./types";
 
 export { Budget } from "./budget";
 
-type AppEnv = Env & { GEMINI_API_KEY?: string; ANTHROPIC_API_KEY?: string; ANTHROPIC_BASE_URL?: string; SESSION_SECRET?: string; TURNSTILE_SECRET?: string; AI_GATEWAY_TOKEN?: string };
+type AppEnv = Env & { STATS_KEY?: string; GEMINI_API_KEY?: string; ANTHROPIC_API_KEY?: string; ANTHROPIC_BASE_URL?: string; SESSION_SECRET?: string; TURNSTILE_SECRET?: string; AI_GATEWAY_TOKEN?: string };
 type Log = (fields: Record<string, unknown>) => void;
 /** What one request carries around: bindings, a content-free logger, and a way to finish work after the response. */
 type Runtime = { env: AppEnv; log: Log; wait: (p: Promise<unknown>) => void };
@@ -79,13 +79,16 @@ export default {
     const url = new URL(request.url);
     const share = url.pathname.match(SHARE_PATH);
     if (share && request.method === "GET") return share[2] ? cardImage(env, share[1]) : sharePage(request, env, share[1]);
+    if (url.pathname === "/stats") return stats(env, url);
+    // Search Console ownership file; served here because static .html paths redirect to their extensionless form
+    if (url.pathname === "/googlec00d114988ffd02e.html") return new Response("google-site-verification: googlec00d114988ffd02e.html", { headers: { "content-type": "text/html; charset=utf-8" } });
     if (!url.pathname.startsWith("/api/")) return env.ASSETS.fetch(request);
 
     const requestId = crypto.randomUUID();
     const rt: Runtime = { env, wait: (p) => ctx.waitUntil(p), log: (fields) => console.log(JSON.stringify({ request_id: requestId, ...fields })) };
     const country = (request.cf as IncomingRequestCfProperties | undefined)?.country ?? "XX";
     const allowed = env.ALLOWED_COUNTRIES.split(",").map((c) => c.trim()).includes(country);
-    if (url.pathname === "/api/access") return json({ allowed, turnstile: env.TURNSTILE_SITEKEY, ...(env.SPONSOR_URL ? { sponsor: env.SPONSOR_URL } : {}) }, 200, { "cache-control": "no-store" });
+    if (url.pathname === "/api/access") return json({ allowed, turnstile: env.TURNSTILE_SITEKEY, ...(env.SPONSOR_URL ? { sponsor: env.SPONSOR_URL } : {}), ...(env.GA_ID ? { ga: env.GA_ID } : {}) }, 200, { "cache-control": "no-store" });
     if (url.pathname === "/api/health") return json(await health(env), 200, { "cache-control": "no-store" });
     if (!allowed) return json({ error: "region" }, 403);
     try {
@@ -136,10 +139,20 @@ export default {
           return json(url.pathname === "/api/interview" ? await interview(rt, sid, body) : await manifesto(rt, sid, body), 200, { "cache-control": "no-store" });
         }
 
+        if (url.pathname === "/api/event" && request.method === "POST") {
+          if (!(await env.IP_LIMIT.limit({ key: ip })).success) return json({ error: "rate_limited" }, 429);
+          const body = await readBody(request);
+          if (body?.name !== "support") return json({ error: "bad_request" }, 400);
+          rt.wait(count(env, "support", body?.state, body?.locale));
+          return json({ ok: true }, 202);
+        }
+
         if (url.pathname === "/api/results" && request.method === "POST") {
           if (!(await env.SAVE_LIMIT.limit({ key: ip })).success) return json({ error: "rate_limited" }, 429);
           const { record, card } = await readResult(request);
-          return json(await saveResult(env, record, card), 201);
+          const saved = await saveResult(env, record, card);
+          rt.wait(count(env, "share", record?.state, record?.locale));
+          return json(saved, 201);
         }
 
         if (result && request.method === "DELETE") {
@@ -339,6 +352,49 @@ async function passedTurnstile(env: AppEnv, token: unknown, ip: string): Promise
     console.error("Turnstile siteverify failed", e);
     return false;
   }
+}
+
+/* ---- funnel counters: day, event, state and language with a count; nothing that points to a person ---- */
+
+const EVENTS = ["start", "result", "share", "support"] as const;
+
+async function count(env: AppEnv, event: (typeof EVENTS)[number], state: unknown, locale: unknown) {
+  const st = typeof state === "string" && STATES.includes(state) ? state : "";
+  try {
+    await env.DB.prepare("INSERT INTO events_daily (day, event, state, locale, n) VALUES (?, ?, ?, ?, 1) ON CONFLICT (day, event, state, locale) DO UPDATE SET n = n + 1")
+      .bind(new Date().toISOString().slice(0, 10), event, st, readLocale(locale))
+      .run();
+  } catch (e) {
+    console.error("count failed", e); // a lost count never breaks the interview
+  }
+}
+
+const esc = (v: unknown) => String(v).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
+
+/** The owner's view of the counters, behind the STATS_KEY secret. */
+async function stats(env: AppEnv, url: URL): Promise<Response> {
+  const key = url.searchParams.get("key") ?? "";
+  if (!env.STATS_KEY || key.length < 16 || (await sha256Hex(key)) !== (await sha256Hex(env.STATS_KEY))) return new Response("Not found", { status: 404 });
+  const days = Math.min(90, Math.max(1, Number(url.searchParams.get("days")) || 30));
+  const since = new Date(Date.now() - (days - 1) * 864e5).toISOString().slice(0, 10);
+  const q = (sql: string) => env.DB.prepare(sql).bind(since).all<Record<string, string | number>>().then((r) => r.results);
+  const pivot = "SUM(CASE WHEN event='start' THEN n END) AS start, SUM(CASE WHEN event='result' THEN n END) AS result, SUM(CASE WHEN event='share' THEN n END) AS share, SUM(CASE WHEN event='support' THEN n END) AS support";
+  const [byDay, byState, byLocale] = await Promise.all([
+    q(`SELECT day, ${pivot} FROM events_daily WHERE day >= ? GROUP BY day ORDER BY day DESC`),
+    q(`SELECT CASE WHEN state='' THEN '(unknown)' ELSE state END AS state, ${pivot} FROM events_daily WHERE day >= ? GROUP BY state ORDER BY start DESC`),
+    q(`SELECT locale, ${pivot} FROM events_daily WHERE day >= ? GROUP BY locale ORDER BY start DESC`),
+  ]);
+  const total = (rows: Record<string, string | number>[], k: string) => rows.reduce((a, r) => a + (Number(r[k]) || 0), 0);
+  const cols = ["start", "result", "share", "support"];
+  const table = (title: string, first: string, rows: Record<string, string | number>[]) =>
+    `<h2>${title}</h2><table><tr><th>${first}</th>${cols.map((c) => `<th>${c}</th>`).join("")}<th>finish rate</th></tr>${rows
+      .map((r) => `<tr><td>${esc(r[first])}</td>${cols.map((c) => `<td>${Number(r[c]) || 0}</td>`).join("")}<td>${Number(r.start) ? Math.round((100 * (Number(r.result) || 0)) / Number(r.start)) + "%" : ""}</td></tr>`)
+      .join("")}</table>`;
+  const sum = cols.map((c) => `<div><b>${total(byDay, c)}</b><span>${c}</span></div>`).join("");
+  const html = `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>VibeVote stats</title>
+<style>body{font:15px/1.4 system-ui,sans-serif;max-width:860px;margin:32px auto;padding:0 16px;color:#111}h1{font-size:28px}h2{font-size:18px;margin-top:32px}.sum{display:flex;gap:12px;flex-wrap:wrap}.sum div{flex:1;min-width:120px;padding:14px;border-radius:14px;background:#f2f1f4}.sum b{display:block;font-size:30px}.sum span{color:#666}table{width:100%;border-collapse:collapse}th,td{text-align:right;padding:6px 8px;border-bottom:1px solid #eee}th:first-child,td:first-child{text-align:left}th{color:#666;font-weight:600}</style>
+<h1>Last ${days} days</h1><div class="sum">${sum}</div>${table("By day", "day", byDay)}${table("By state", "state", byState)}${table("By language", "locale", byLocale)}`;
+  return new Response(html, { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store", "x-robots-tag": "noindex" } });
 }
 
 /* ---- Claude ---- */
@@ -545,6 +601,7 @@ async function interview(rt: Runtime, sid: string, body: any) {
     state = opened;
   } else {
     state = { v: 1, sid, started: Date.now(), ctx: readCtx(body?.ctx), locale: readLocale(body?.locale), turns: [], pending: [], library: [] };
+    rt.wait(count(rt.env, "start", state.ctx.state, state.locale));
   }
   for (const { q, reply } of readReplies(body?.answers, state.pending)) {
     if (state.turns.length < MAX_Q) state.turns.push({ q, reply, evidence: evidenceFor(q, reply), classified: reply.kind !== "text" });
@@ -593,6 +650,7 @@ async function manifesto(rt: Runtime, sid: string, body: any) {
   const out = await ask(rt, { endpoint: "manifesto", model: rt.env.MODEL, system: MANIFESTO_WRITER, schema: ManifestoSchema, effort: "medium", locale: state.locale, prompt: manifestoPrompt(state.ctx, state.turns, scores, state.locale) });
   const versions: Versions = { model_version: rt.env.MODEL, prompt_version: PROMPT_VERSION, scoring_version: SCORING_VERSION, candidate_data_version: await candidateDataVersion(rt.env) };
   // positions are the Worker's arithmetic, never the writer's impression
+  rt.wait(count(rt.env, "result", state.ctx.state, state.locale));
   return { ...out, priorities: out.priorities.filter((k) => scores[k]?.position !== null).slice(0, 3), positions: positionsOf(DOMAIN_KEYS, state.turns), versions };
 }
 

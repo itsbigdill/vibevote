@@ -14,7 +14,7 @@
   "assets": {
     "directory": "./public/",
     "binding": "ASSETS",
-    "run_worker_first": ["/api/*", "/r/*"],
+    "run_worker_first": ["/api/*", "/r/*", "/stats", "/googlec00d114988ffd02e.html"],
     "not_found_handling": "single-page-application"
   },
   "observability": { "enabled": true },
@@ -31,6 +31,8 @@
     "AI_GATEWAY_URL": "",
     // the footer's "Support VibeVote" link; empty hides it
     "SPONSOR_URL": "",
+    // Google Analytics 4 measurement id; empty loads no Google script
+    "GA_ID": "",
     "DAILY_AI_CALLS": "3000",
     "DAILY_AI_USD": "25"
   },
@@ -64,6 +66,8 @@
         "AI_GATEWAY_URL": "",
         // the footer's "Support VibeVote" link; empty hides it
         "SPONSOR_URL": "https://buy.stripe.com/5kQcN6f1n7CWcrg1zSeQM00",
+        // Google Analytics 4 measurement id; empty loads no Google script
+        "GA_ID": "",
         "DAILY_AI_CALLS": "6000",
         "DAILY_AI_USD": "40"
       },
@@ -101,6 +105,8 @@
         "AI_GATEWAY_URL": "",
         // the footer's "Support VibeVote" link; empty hides it
         "SPONSOR_URL": "https://buy.stripe.com/5kQcN6f1n7CWcrg1zSeQM00",
+        // Google Analytics 4 measurement id; empty loads no Google script
+        "GA_ID": "G-XQ131LBNYS",
         "DAILY_AI_CALLS": "20000",
         "DAILY_AI_USD": "150"
       },
