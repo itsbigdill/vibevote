@@ -77,10 +77,13 @@ header{display:flex;justify-content:flex-start;align-items:center;gap:12px;margi
 .stage{flex:1;display:flex;flex-direction:column;justify-content:center}
 .glass{padding:16px 0;width:100%;animation:rise .28s ease-out both}
 @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-.q{font-family:var(--serif);font-size:42px;line-height:1.12;font-weight:400;margin-bottom:40px;text-wrap:pretty}
+.q{font-family:var(--serif);font-size:clamp(28px,min(1.2rem + 2vw,6vh),48px);line-height:1.12;font-weight:400;margin-bottom:32px;text-wrap:pretty}
+/* AI questions run long: the longer the scene, the smaller the type, scaled to the screen's width and height */
+.q.m{font-size:clamp(24px,min(1rem + 1.4vw,4.6vh),38px);line-height:1.16}
+.q.l{font-size:clamp(21px,min(.95rem + 1vw,3.8vh),31px);line-height:1.2}
 .qa{display:grid;gap:8px}
-@media(min-width:940px){.qa{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);column-gap:72px;align-items:center}.qa .q,.qa .q.step{margin-bottom:0}.q{font-size:48px}}
-.q::before{content:"Q";display:block;font-size:20px;font-weight:700;color:var(--royal);letter-spacing:.06em;margin-bottom:22px;font-family:var(--sans)}
+@media(min-width:940px){.qa{grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);column-gap:72px;align-items:center}.qa .q,.qa .q.step{margin-bottom:0}}
+.q::before{content:"Q";display:block;font-size:18px;font-weight:700;color:var(--royal);letter-spacing:.06em;margin-bottom:16px;font-family:var(--sans)}
 .q.step{margin-bottom:36px}
 .q.step::before{content:none}
 .widget{display:grid;gap:12px}
@@ -147,22 +150,22 @@ select{-webkit-appearance:none;appearance:none;cursor:pointer;padding-right:52px
 .row{display:flex;gap:12px;margin-top:36px}
 .skip{background:none;border:0;color:var(--mute);font-size:16px;font-weight:600;padding:16px 12px;width:100%}
 .skip:hover{color:var(--ink)}
-.loader{display:grid;justify-items:center;gap:30px;padding:48px 0;text-align:center}
-.loader.sm{padding:28px 0 8px;gap:18px}
-.orb{position:relative;width:96px;height:96px}
-.loader.sm .orb{width:64px;height:64px}
-.orb i{position:absolute;width:58px;height:58px;margin:-29px 0 0 -29px;border-radius:50%;mix-blend-mode:multiply;opacity:.9;will-change:transform;animation:swirl 3.6s ease-in-out infinite}
-.loader.sm .orb i{width:40px;height:40px;margin:-20px 0 0 -20px}
-.orb i:nth-child(1){left:38%;top:40%;background:radial-gradient(circle at 38% 34%,#c0475f,#7a1f2e 70%)}
-.orb i:nth-child(2){left:62%;top:40%;background:radial-gradient(circle at 38% 34%,#9a5fb8,#5b2a72 70%);animation-delay:-1.2s}
-.orb i:nth-child(3){left:50%;top:62%;background:radial-gradient(circle at 38% 34%,#4d6cd0,#1f3a93 70%);animation-delay:-2.4s}
-@keyframes swirl{0%{transform:translate(-8px,-4px) scale(1)}33%{transform:translate(8px,-6px) scale(1.12)}66%{transform:translate(0,9px) scale(.92)}100%{transform:translate(-8px,-4px) scale(1)}}
-.loader .msg{font-size:21px;font-weight:600;color:var(--ink);min-height:32px}
+.loader{display:grid;justify-items:center;gap:18px;padding:32px 0;text-align:center}
+.loader.sm{padding:20px 0 4px;gap:12px}
+/* the mark in glass: frosted, tinted with the brand gradient, a light sweep across it; transforms only */
+.gmark{position:relative;width:168px;height:131px;overflow:hidden;-webkit-mask:url(/mark.svg) center/contain no-repeat;mask:url(/mark.svg) center/contain no-repeat;background:linear-gradient(160deg,rgba(255,255,255,.7) 0%,rgba(255,255,255,.18) 30%,rgba(255,255,255,0) 52%),linear-gradient(115deg,rgba(143,36,56,.9),rgba(110,50,140,.82) 50%,rgba(36,64,156,.95));-webkit-backdrop-filter:blur(14px) saturate(180%);backdrop-filter:blur(14px) saturate(180%);will-change:transform;animation:breathe 2.8s ease-in-out infinite}
+.gmark::after{content:"";position:absolute;inset:0 -100%;background:linear-gradient(100deg,rgba(255,255,255,0) 42%,rgba(255,255,255,.7) 50%,rgba(255,255,255,0) 58%);will-change:transform;animation:sheen 2.4s ease-in-out infinite}
+.gshadow{width:124px;height:16px;margin-top:-12px;border-radius:50%;background:radial-gradient(closest-side,rgba(31,58,147,.22),rgba(31,58,147,0));will-change:transform;animation:breathe 2.8s ease-in-out infinite reverse}
+.loader.sm .gmark{width:84px;height:66px}
+.loader.sm .gshadow{width:64px;height:10px;margin-top:-8px}
+@keyframes breathe{50%{transform:translateY(-6px) scale(1.04)}}
+@keyframes sheen{from{transform:translateX(-35%)}to{transform:translateX(35%)}}
+.loader .msg{font-size:26px;font-weight:600;color:var(--ink);min-height:32px}
 .loader.sm .msg{font-size:17px}
 .loader .msg span{display:inline-block}
 .loader .msg span.in{animation:fadeup .45s ease-out both}
 @keyframes fadeup{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-@media(prefers-reduced-motion:reduce){.orb i,.glass,.zipstate,.loader .msg span{animation:none}.progress b{transition:none}}
+@media(prefers-reduced-motion:reduce){.gmark,.gmark::after,.gshadow,.glass,.zipstate,.loader .msg span{animation:none}.progress b{transition:none}}
 .err{color:var(--wine);font-size:16px;font-weight:600;display:grid;gap:12px;text-align:center}
 .intro{max-width:880px}
 .lede{font-size:24px;line-height:1.45;font-weight:400;margin:28px 0 40px;max-width:720px}
@@ -365,7 +368,7 @@ dialog.consent::backdrop{background:rgba(15,15,19,.42);-webkit-backdrop-filter:b
 .temp input[type=range]::-moz-range-track{height:22px;background:transparent}
 .temp input[type=range]::-webkit-slider-thumb{-webkit-appearance:none;width:40px;height:40px;border-radius:50%;background:#fff;border:4px solid var(--c,var(--ink));box-shadow:0 4px 14px rgba(0,0,0,.2);margin-top:-9px;cursor:grab}
 .temp input[type=range]::-moz-range-thumb{width:32px;height:32px;border-radius:50%;background:#fff;border:4px solid var(--c,var(--ink));box-shadow:0 4px 14px rgba(0,0,0,.2);cursor:grab}
-@media(max-width:440px){.brand .mark{height:26px}.zipbox input{font-size:24px}.zipstate{max-width:calc(100% - 128px)}h1{font-size:46px}h2{font-size:38px}.q{font-size:32px}.lede{font-size:20px}.either .chip{font-size:18px}.slider .ends{font-size:17px}.opts.c3{grid-template-columns:repeat(2,minmax(0,1fr))}.ini{font-size:16px}.score{font-size:25px}.card{padding:24px 20px}.card h2{font-size:42px}.hero-hook{font-size:20px}.ballot h3{font-size:28px}.fingerprint{padding:22px 18px}.fp-axis{padding:17px 16px 14px}}
+@media(max-width:440px){.brand .mark{height:26px}.zipbox input{font-size:24px}.zipstate{max-width:calc(100% - 128px)}h1{font-size:46px}h2{font-size:38px}.lede{font-size:20px}.either .chip{font-size:18px}.slider .ends{font-size:17px}.opts.c3{grid-template-columns:repeat(2,minmax(0,1fr))}.ini{font-size:16px}.score{font-size:25px}.card{padding:24px 20px}.card h2{font-size:42px}.hero-hook{font-size:20px}.ballot h3{font-size:28px}.fingerprint{padding:22px 18px}.fp-axis{padding:17px 16px 14px}}
 </style>
 </head>
 <body>
@@ -459,7 +462,7 @@ function localizeChrome(){
 $("#lang-select").onchange=e=>{S.lang=LANGUAGES[e.target.value]?e.target.value:"en";try{localStorage.setItem(LANG_KEY,S.lang);}catch(_){}localizeChrome();location.reload();};
 function screen(node){
   clearInterval(S.loaderTimer);$("#actions").innerHTML="";
-  const b=document.body.classList;b.toggle("home",node.classList.contains("intro"));b.toggle("done",node.classList.contains("result"));
+  const b=document.body.classList;b.toggle("home",node.classList.contains("intro"));b.toggle("done",node.classList.contains("result"));b.toggle("loading",!!node.querySelector(".loader:not(.sm)"));
   const st=$("#stage");st.innerHTML="";st.append(node);window.scrollTo({top:0});
   const f=node.querySelector("input,textarea,.opt,.chip");if(f&&!touch)f.focus({preventScroll:true});
 }
@@ -472,7 +475,7 @@ const LOADING={
 };
 function loader(kind,small=false){
   const box=el("div",`loader${small?" sm":""}`);
-  box.innerHTML=`<div class="orb" aria-hidden="true"><i></i><i></i><i></i></div><p class="msg" aria-live="polite"><span></span></p>`;
+  box.innerHTML=`<div class="gmark" aria-hidden="true"></div><div class="gshadow" aria-hidden="true"></div><p class="msg" aria-live="polite"><span></span></p>`;
   const generic={es:"Cargando…",pt:"Carregando…",zh:"正在加载…",ru:"Загрузка…"};
   const msgs=S.lang==="en"?LOADING[kind]:[generic[S.lang]],span=box.querySelector("span");let i=0;
   const show=()=>{span.textContent=msgs[i++%msgs.length];span.classList.remove("in");void span.offsetWidth;span.classList.add("in");};
@@ -781,7 +784,7 @@ function fitQuestion(q){
   q.type="text";return q;
 }
 function renderQuestion(q){
-  const g=glass(),qa=el("div","qa"),w=el("div","widget");qa.append(el("div","q",para(q.prompt)),w);g.append(qa);
+  const g=glass(),qa=el("div","qa"),w=el("div","widget");const len=para(q.prompt).length;qa.append(el("div",len>200?"q l":len>110?"q m":"q",para(q.prompt)),w);g.append(qa);
   const answer=reply=>{S.answers.push({id:q.id,...reply});S.asked++;nextQuestion();};
   if(q.type==="options"||q.type==="either"){
     const box=el("div",q.type==="either"?"either":"widget");
