@@ -9,19 +9,53 @@
         "name": "Derek Tran",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 60, "welfare": 65, "liberty": 25, "security": 55, "immigration": 35, "foreign": 75, "energy": 70, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 60,
+          "welfare": 65,
+          "liberty": 25,
+          "security": 55,
+          "immigration": 35,
+          "foreign": 75,
+          "energy": 70,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Abortion rights and gun-violence task force drove liberty; opposes mass deportation but backed Laken Riley Act; prioritizes Ukraine and Taiwan; expand housing tax credit.",
-        "sources": ["https://en.wikipedia.org/wiki/Derek_Tran"],
-        "photo": {"file": "File:Derek Tran 119th Congress (cropped).jpg", "license": "Public domain", "author": "House Creative Services"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Derek_Tran"
+        ],
+        "photo": {
+          "file": "File:Derek Tran 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services"
+        }
       },
       {
         "name": "Chuong Vo",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 35, "welfare": 45, "liberty": null, "security": 70, "immigration": 65, "foreign": 60, "energy": null, "tech": null, "education": 50, "faith": null},
+        "positions": {
+          "economy": 35,
+          "welfare": 45,
+          "liberty": null,
+          "security": 70,
+          "immigration": 65,
+          "foreign": 60,
+          "energy": null,
+          "tech": null,
+          "education": 50,
+          "faith": null
+        },
         "basis": "Backs police and tougher fentanyl penalties, border security with legal-immigration modernization, support for Israel and Taiwan, spending cuts, protecting Social Security.",
-        "sources": ["https://www.vo4congress.com/"],
-        "photo": {"file": "File:Chuong Vo, Mayor Pro Tem of Cerritos, CA, 2020.jpg", "license": "Public domain", "author": "City of Cerritos"}
+        "sources": [
+          "https://www.vo4congress.com/"
+        ],
+        "photo": {
+          "file": "File:Chuong Vo, Mayor Pro Tem of Cerritos, CA, 2020.jpg",
+          "license": "Public domain",
+          "author": "City of Cerritos"
+        }
       }
     ]
   },
@@ -35,18 +69,48 @@
         "name": "Lou Correa",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": null, "welfare": null, "liberty": 20, "security": 40, "immigration": null, "foreign": null, "energy": null, "tech": 35, "education": null, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 20,
+          "security": 40,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 35,
+          "education": null,
+          "faith": null
+        },
         "basis": "100% NARAL rating drove liberty; voted to block vehicle kill-switch monitoring funding; voted against the 2022 merger filing fee antitrust package.",
-        "sources": ["https://en.wikipedia.org/wiki/Lou_Correa"],
-        "photo": {"file": "File:Lou Correa 118th Congress (cropped).jpg", "license": "Public domain", "author": "Leah Herman, House Creative Services"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Lou_Correa"
+        ],
+        "photo": {
+          "file": "File:Lou Correa 118th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Leah Herman, House Creative Services"
+        }
       },
       {
         "name": "David Pan",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 35, "welfare": 50, "liberty": 65, "security": 65, "immigration": 80, "foreign": null, "energy": 55, "tech": null, "education": 30, "faith": null},
+        "positions": {
+          "economy": 35,
+          "welfare": 50,
+          "liberty": 65,
+          "security": 65,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 55,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
         "basis": "Smaller government, carbon tax over subsidies, replace welfare with universal basic income, close the border, harsher drug-dealer penalties (drove liberty), school choice.",
-        "sources": ["https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"],
+        "sources": [
+          "https://californiaglobe.com/fr/a-conversation-with-46th-congressional-district-gop-candidate-dr-david-pan/"
+        ],
         "photo": null
       }
     ]
@@ -61,18 +125,49 @@
         "name": "Dave Min",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": null, "welfare": 65, "liberty": 40, "security": null, "immigration": 35, "foreign": null, "energy": 90, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": 65,
+          "liberty": 40,
+          "security": null,
+          "immigration": 35,
+          "foreign": null,
+          "energy": 90,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Codify Roe and gun-show ban drove liberty; offshore drilling ban and 30x30 law; opposed One Big Beautiful Bill; voted for Laken Riley Act.",
-        "sources": ["https://en.wikipedia.org/wiki/Dave_Min", "https://min.house.gov/issues/reproductive-rights-0"],
-        "photo": {"file": "File:Min Dave 119th Congress (cropped).jpg", "license": "Public domain", "author": "Ike Hayman, House Creative Services"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Dave_Min",
+          "https://min.house.gov/issues/reproductive-rights-0"
+        ],
+        "photo": {
+          "file": "File:Min Dave 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Ike Hayman, House Creative Services"
+        }
       },
       {
         "name": "Jenny Rae Le Roux",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 30, "welfare": null, "liberty": null, "security": 70, "immigration": 80, "foreign": 75, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": 70,
+          "immigration": 80,
+          "foreign": 75,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Small-business tax relief and permitting reform, end catch-and-release and defund sanctuary jurisdictions, fully fund federal law enforcement, strong support for Israel.",
-        "sources": ["https://jennyraeca.com/issues/"],
+        "sources": [
+          "https://jennyraeca.com/issues/"
+        ],
         "photo": null
       }
     ]
@@ -87,19 +182,56 @@
         "name": "Jim Desmond",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 30, "welfare": null, "liberty": null, "security": 65, "immigration": 70, "foreign": null, "energy": 35, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 30,
+          "welfare": null,
+          "liberty": null,
+          "security": 65,
+          "immigration": 70,
+          "foreign": null,
+          "energy": 35,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Opposes energy mandates, backs all-of-the-above energy and nuclear, border enforcement, weakening sanctuary law and ICE cooperation, streamlined legal immigration.",
-        "sources": ["https://www.desmondforcongress.com/secure-border", "https://www.desmondforcongress.com/energy", "https://en.wikipedia.org/wiki/Jim_Desmond"],
-        "photo": {"file": "File:Jim Desmond Official Portrait (cropped).jpg", "license": "Public domain", "author": "County of San Diego"}
+        "sources": [
+          "https://www.desmondforcongress.com/secure-border",
+          "https://www.desmondforcongress.com/energy",
+          "https://en.wikipedia.org/wiki/Jim_Desmond"
+        ],
+        "photo": {
+          "file": "File:Jim Desmond Official Portrait (cropped).jpg",
+          "license": "Public domain",
+          "author": "County of San Diego"
+        }
       },
       {
         "name": "Marni von Wilpert",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 70, "welfare": 80, "liberty": 25, "security": 25, "immigration": 15, "foreign": 60, "energy": 70, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 70,
+          "welfare": 80,
+          "liberty": 25,
+          "security": 25,
+          "immigration": 15,
+          "foreign": 60,
+          "energy": 70,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "PRO Act, public option, codify Roe, Equality Act and assault weapons ban (drove liberty), suing ICE, citizenship pathway, backing Ukraine, opposing offshore drilling.",
-        "sources": ["https://marnivonwilpert.com/issues", "https://www.marnivonwilpert.com/"],
-        "photo": {"file": "File:Marni von Wilpert (cropped).jpg", "license": "Public domain", "author": "City of San Diego"}
+        "sources": [
+          "https://marnivonwilpert.com/issues",
+          "https://www.marnivonwilpert.com/"
+        ],
+        "photo": {
+          "file": "File:Marni von Wilpert (cropped).jpg",
+          "license": "Public domain",
+          "author": "City of San Diego"
+        }
       }
     ]
   },
@@ -113,18 +245,48 @@
         "name": "Mike Levin",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 60, "welfare": null, "liberty": 30, "security": null, "immigration": 25, "foreign": 65, "energy": 90, "tech": 65, "education": null, "faith": null},
+        "positions": {
+          "economy": 60,
+          "welfare": null,
+          "liberty": 30,
+          "security": null,
+          "immigration": 25,
+          "foreign": 65,
+          "energy": 90,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
         "basis": "Pro-choice, marriage equality and assault weapons ban drove liberty; Dignity Act and Dreamers; offshore drilling ban; Israel aid with two states; bill banning death-bet markets.",
-        "sources": ["https://en.wikipedia.org/wiki/Mike_Levin"],
-        "photo": {"file": "File:Rep. Mike Levin official photo (cropped).jpg", "license": "Public domain", "author": "U.S. House of Representatives"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Mike_Levin"
+        ],
+        "photo": {
+          "file": "File:Rep. Mike Levin official photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
       },
       {
         "name": "Armen Kurdian",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 25, "welfare": 45, "liberty": null, "security": 70, "immigration": null, "foreign": 60, "energy": 30, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 25,
+          "welfare": 45,
+          "liberty": null,
+          "security": 70,
+          "immigration": null,
+          "foreign": 60,
+          "energy": 30,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Opposes new federal taxes and cuts regulations, protects Medicare and Social Security, backs police, fully funds defense, all-of-the-above domestic energy.",
-        "sources": ["https://kurdianforcongress.com/issues"],
+        "sources": [
+          "https://kurdianforcongress.com/issues"
+        ],
         "photo": null
       }
     ]
@@ -139,18 +301,48 @@
         "name": "Scott Peters",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 50, "welfare": 55, "liberty": 25, "security": 35, "immigration": 25, "foreign": null, "energy": 80, "tech": 30, "education": null, "faith": null},
+        "positions": {
+          "economy": 50,
+          "welfare": 55,
+          "liberty": 25,
+          "security": 35,
+          "immigration": 25,
+          "foreign": null,
+          "energy": 80,
+          "tech": 30,
+          "education": null,
+          "faith": null
+        },
         "basis": "Pro-choice, same-sex marriage and universal background checks drove liberty; opposed broad Medicare drug negotiation; carbon pricing; DREAM Act; opposed antitrust fee package.",
-        "sources": ["https://en.wikipedia.org/wiki/Scott_Peters_(politician)"],
-        "photo": {"file": "File:Scott Peters official portrait 116th Congress (cropped).jpg", "license": "Public domain", "author": "U.S. House Office of Photography"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Scott_Peters_(politician)"
+        ],
+        "photo": {
+          "file": "File:Scott Peters official portrait 116th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography"
+        }
       },
       {
         "name": "Steve Cohen",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 50, "welfare": 55, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 50,
+          "welfare": 55,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Crack down on corporate price manipulation, oppose earmarks, defend Social Security and Medicare, protect pre-existing condition coverage, lower drug costs.",
-        "sources": ["https://cohenforcongressca50.com/"],
+        "sources": [
+          "https://cohenforcongressca50.com/"
+        ],
         "photo": null
       }
     ]
@@ -165,18 +357,48 @@
         "name": "Sara Jacobs",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 80, "welfare": 95, "liberty": 15, "security": 25, "immigration": 15, "foreign": 45, "energy": 95, "tech": 65, "education": null, "faith": null},
+        "positions": {
+          "economy": 80,
+          "welfare": 95,
+          "liberty": 15,
+          "security": 25,
+          "immigration": 15,
+          "foreign": 45,
+          "energy": 95,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
         "basis": "Higher top tax rates, Medicare for All, federal child care, abortion rights (drove liberty), reproductive data privacy bill, citizenship pathway, limits on arms transfers.",
-        "sources": ["https://en.wikipedia.org/wiki/Sara_Jacobs"],
-        "photo": {"file": "File:Congresswoman Sara Jacobs.jpg", "license": "Public domain", "author": "House Creative Committee"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sara_Jacobs"
+        ],
+        "photo": {
+          "file": "File:Congresswoman Sara Jacobs.jpg",
+          "license": "Public domain",
+          "author": "House Creative Committee"
+        }
       },
       {
         "name": "Ricardo Cabrera",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Campaign cites only term limits, anti-corruption reform and lower living costs; no concrete stances found on the scored domains.",
-        "sources": ["https://www.cabreraforcongress2026.com/"],
+        "sources": [
+          "https://www.cabreraforcongress2026.com/"
+        ],
         "photo": null
       }
     ]
@@ -191,18 +413,50 @@
         "name": "Juan Vargas",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 55, "welfare": null, "liberty": 30, "security": null, "immigration": 25, "foreign": 70, "energy": 70, "tech": 30, "education": null, "faith": null},
+        "positions": {
+          "economy": 55,
+          "welfare": null,
+          "liberty": 30,
+          "security": null,
+          "immigration": 25,
+          "foreign": 70,
+          "energy": 70,
+          "tech": 30,
+          "education": null,
+          "faith": null
+        },
         "basis": "Pro-choice, LGBTQ equality and gun safety laws drove liberty; protested Trump immigration policy; backed Israel aid and opposed Iran war powers limit; climate priority.",
-        "sources": ["https://en.wikipedia.org/wiki/Juan_Vargas", "https://vargas.house.gov/issues"],
-        "photo": {"file": "File:Juan Vargas official photo (cropped).jpg", "license": "Public domain", "author": "United States Congress"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Juan_Vargas",
+          "https://vargas.house.gov/issues"
+        ],
+        "photo": {
+          "file": "File:Juan Vargas official photo (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
       },
       {
         "name": "Jeff Belle",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 15, "welfare": 30, "liberty": 50, "security": null, "immigration": 75, "foreign": 85, "energy": 30, "tech": null, "education": 20, "faith": 85},
+        "positions": {
+          "economy": 15,
+          "welfare": 30,
+          "liberty": 50,
+          "security": null,
+          "immigration": 75,
+          "foreign": 85,
+          "energy": 30,
+          "tech": null,
+          "education": 20,
+          "faith": 85
+        },
         "basis": "Opposes progressive taxes, backs school choice and religious exemptions, abortion ban versus no gun restrictions (averaged in liberty), opposes sanctuary cities, interventionist.",
-        "sources": ["https://ivoterguide.com/candidate/92432/race/25613/election/1385", "https://www.belleforcongress.com/"],
+        "sources": [
+          "https://ivoterguide.com/candidate/92432/race/25613/election/1385",
+          "https://www.belleforcongress.com/"
+        ],
         "photo": null
       }
     ]

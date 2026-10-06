@@ -8,19 +8,81 @@
         "name": "Peggy Flanagan",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 85, "welfare": 95, "liberty": 30, "security": 30, "immigration": 10, "foreign": 55, "energy": 85, "tech": 70, "education": 90, "faith": null},
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 30,
+          "security": 30,
+          "immigration": 10,
+          "foreign": 55,
+          "energy": 85,
+          "tech": 70,
+          "education": 90,
+          "faith": null
+        },
         "basis": "Medicare for All, universal childcare, $17 wage, dismantle ICE, 2040 carbon-free power, no vouchers; liberty driven by abortion and LGBTQ rights, offset by assault-weapons ban.",
-        "sources": ["https://peggyflanagan.com/priorities/", "https://www.fox9.com/news/lt-gov-peggy-flanagan-talks-fraud-ice-immigration-reform-ahead-primary", "https://en.wikipedia.org/wiki/Peggy_Flanagan"],
-        "photo": {"file": "File:2026PeggyFlanagan (newcropped).jpg", "license": "CC BY-SA 4.0", "author": "Travellers & Tinkers"}
+        "sources": [
+          "https://peggyflanagan.com/priorities/",
+          "https://www.fox9.com/news/lt-gov-peggy-flanagan-talks-fraud-ice-immigration-reform-ahead-primary",
+          "https://en.wikipedia.org/wiki/Peggy_Flanagan"
+        ],
+        "photo": {
+          "file": "File:2026PeggyFlanagan (newcropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Travellers & Tinkers"
+        }
       },
       {
         "name": "Michele Tafoya",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": 25, "liberty": 50, "security": 70, "immigration": 70, "foreign": 65, "energy": 35, "tech": null, "education": 30, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": 50,
+          "security": 70,
+          "immigration": 70,
+          "foreign": 65,
+          "energy": 35,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
         "basis": "Cut taxes and spending, all-of-the-above energy, deport criminal immigrants, oppose abolishing ICE, parental say in schools; liberty mixes pro-choice abortion stance with barring trans athletes.",
-        "sources": ["https://www.ontheissues.org/Senate/Michele_Tafoya.htm", "https://www.mprnews.org/story/2026/08/12/gop-senate-nominee-michele-tafoya-claims-she-wont-fall-in-line-with-national-party-leadership", "https://washingtonsun.com/2026-election/republican-top-senate-recruit-minnesota-michele-tafoya-interview?redirected=notus_org"],
-        "photo": {"file": "File:MicheleTafoya2023.jpg", "license": "CC BY-SA 2.0", "author": "Gage Skidmore"}
+        "sources": [
+          "https://www.ontheissues.org/Senate/Michele_Tafoya.htm",
+          "https://www.mprnews.org/story/2026/08/12/gop-senate-nominee-michele-tafoya-claims-she-wont-fall-in-line-with-national-party-leadership",
+          "https://washingtonsun.com/2026-election/republican-top-senate-recruit-minnesota-michele-tafoya-interview?redirected=notus_org"
+        ],
+        "photo": {
+          "file": "File:MicheleTafoya2023.jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Rebecca Whiting",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.mprnews.org/story/2026/08/11/heated-contests-settle-nominations-for-dfl-republican-parties-in-us-senate-race",
+          "https://politics1.com/mn.htm"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Marisa Simonetti",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.mprnews.org/story/2026/08/11/heated-contests-settle-nominations-for-dfl-republican-parties-in-us-senate-race",
+          "https://politics1.com/mn.htm"
+        ],
+        "photo": null
       }
     ]
   },
@@ -33,19 +95,70 @@
         "name": "Amy Klobuchar",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 70, "welfare": 75, "liberty": 30, "security": 40, "immigration": 30, "foreign": 75, "energy": 75, "tech": 90, "education": 70, "faith": null},
+        "positions": {
+          "economy": 70,
+          "welfare": 75,
+          "liberty": 30,
+          "security": 40,
+          "immigration": 30,
+          "foreign": 75,
+          "energy": 75,
+          "tech": 90,
+          "education": 70,
+          "faith": null
+        },
         "basis": "Big Tech antitrust, public option, Medicare drug negotiation, carbon pricing, citizenship path, strong alliances; liberty: abortion and LGBT rights offset by gun control.",
-        "sources": ["https://amyklobuchar.com/priorities/healthcare", "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm", "https://en.wikipedia.org/wiki/Political_positions_of_Amy_Klobuchar"],
-        "photo": {"file": "File:Amy Klobuchar, official portrait, 113th Congress.jpg", "license": "Public domain", "author": "United States Senate"}
+        "sources": [
+          "https://amyklobuchar.com/priorities/healthcare",
+          "https://www.ontheissues.org/Senate/Amy_Klobuchar.htm",
+          "https://en.wikipedia.org/wiki/Political_positions_of_Amy_Klobuchar"
+        ],
+        "photo": {
+          "file": "File:Amy Klobuchar, official portrait, 113th Congress.jpg",
+          "license": "Public domain",
+          "author": "United States Senate"
+        }
       },
       {
         "name": "Lisa Demuth",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": 25, "liberty": 80, "security": 70, "immigration": 75, "foreign": null, "energy": 40, "tech": null, "education": 20, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": 80,
+          "security": 70,
+          "immigration": 75,
+          "foreign": null,
+          "energy": 40,
+          "tech": null,
+          "education": 20,
+          "faith": null
+        },
         "basis": "Cut income and corporate taxes, oppose paid-leave tax, cooperate with ICE, ESAs and scholarship tax credits, end nuclear ban; liberty driven by abortion opposition.",
-        "sources": ["https://kstp.com/kstp-news/top-news/5-questions-on-5-issues-lisa-demuth-republican-candidate-for-governor/", "https://www.kaaltv.com/news/top-news/gubernatorial-candidate-lisa-demuth-lays-out-policy-ideas-in-one-on-one/", "https://en.wikipedia.org/wiki/Lisa_Demuth"],
-        "photo": {"file": "File:Bipartisan Bars 1 - Lisa Demuth (cropped).jpg", "license": "Public domain", "author": "Office of Governor Tim Walz & Lt. Governor Peggy Flanagan"}
+        "sources": [
+          "https://kstp.com/kstp-news/top-news/5-questions-on-5-issues-lisa-demuth-republican-candidate-for-governor/",
+          "https://www.kaaltv.com/news/top-news/gubernatorial-candidate-lisa-demuth-lays-out-policy-ideas-in-one-on-one/",
+          "https://en.wikipedia.org/wiki/Lisa_Demuth"
+        ],
+        "photo": {
+          "file": "File:Bipartisan Bars 1 - Lisa Demuth (cropped).jpg",
+          "license": "Public domain",
+          "author": "Office of Governor Tim Walz & Lt. Governor Peggy Flanagan"
+        }
+      },
+      {
+        "name": "Steven (Steve) Young",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.mprnews.org/story/2026/08/11/heated-contests-settle-nominations-for-dfl-republican-parties-in-us-senate-race",
+          "https://politics1.com/mn.htm",
+          "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election"
+        ],
+        "photo": null
       }
     ]
   },
@@ -58,27 +171,74 @@
         "name": "Cindy Hyde-Smith",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": 15, "welfare": 15, "liberty": 70, "security": 60, "immigration": 90, "foreign": 75, "energy": 15, "tech": null, "education": 30, "faith": null},
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 70,
+          "security": 60,
+          "immigration": 90,
+          "foreign": 75,
+          "energy": 15,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
         "basis": "Extend Trump tax cuts, repeal ACA, no DACA, pro-Israel, repeal Clean Power Plan; liberty: anti-abortion, traditional marriage, anti-marijuana, offset by gun rights.",
-        "sources": ["https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm", "https://en.wikipedia.org/wiki/Cindy_Hyde-Smith"],
-        "photo": {"file": "File:Official headshot of US Senator Cindy Hyde-Smith.jpg", "license": "Public domain", "author": "United States Senate"}
+        "sources": [
+          "https://www.ontheissues.org/Senate/Cindy_Hyde-Smith.htm",
+          "https://en.wikipedia.org/wiki/Cindy_Hyde-Smith"
+        ],
+        "photo": {
+          "file": "File:Official headshot of US Senator Cindy Hyde-Smith.jpg",
+          "license": "Public domain",
+          "author": "United States Senate"
+        }
       },
       {
         "name": "Scott Colom",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 65, "welfare": 65, "liberty": 40, "security": 55, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": 80, "faith": null},
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": 40,
+          "security": 55,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 80,
+          "faith": null
+        },
         "basis": "Raise minimum wage, no tax breaks for wealthy, protect Medicaid, public schools over vouchers, violent-crime prosecution; liberty: transgender protections, drug treatment, gun concerns.",
-        "sources": ["https://www.wlox.com/2026/02/08/democrat-scott-colom-lays-out-senate-primary-platform-targeting-rising-costs-healthcare-access/", "https://www.ontheissues.org/Senate/Scott_Colom.htm", "https://scottcolom.com/scott-colom-promises-mississippi-first-approach-in-u-s-senate-campaign-calling-to-save-hospitals-cut-taxes-raise-wages/"],
+        "sources": [
+          "https://www.wlox.com/2026/02/08/democrat-scott-colom-lays-out-senate-primary-platform-targeting-rising-costs-healthcare-access/",
+          "https://www.ontheissues.org/Senate/Scott_Colom.htm",
+          "https://scottcolom.com/scott-colom-promises-mississippi-first-approach-in-u-s-senate-campaign-calling-to-save-hospitals-cut-taxes-raise-wages/"
+        ],
         "photo": null
       },
       {
         "name": "Ty Pinkins",
         "party": "Independent",
         "incumbent": false,
-        "positions": {"economy": null, "welfare": 90, "liberty": 35, "security": 30, "immigration": 30, "foreign": 70, "energy": 65, "tech": null, "education": 85, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": 90,
+          "liberty": 35,
+          "security": 30,
+          "immigration": 30,
+          "foreign": 70,
+          "energy": 65,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
         "basis": "Universal health care and child care, citizenship path, Ukraine support, public schools, prison rehabilitation; liberty driven by abortion and LGBTQ rights, offset by assault-rifle ban.",
-        "sources": ["https://www.ontheissues.org/Senate/Ty_Pinkins.htm", "https://ivn.us/ty-pinkins-makes-the-case-for-sending-an-independent-caucus-to-the-senate/"],
+        "sources": [
+          "https://www.ontheissues.org/Senate/Ty_Pinkins.htm",
+          "https://ivn.us/ty-pinkins-makes-the-case-for-sending-an-independent-caucus-to-the-senate/"
+        ],
         "photo": null
       }
     ]
@@ -92,36 +252,107 @@
         "name": "Kurt Alme",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": 40, "liberty": 75, "security": 80, "immigration": 80, "foreign": 70, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": 40,
+          "liberty": 75,
+          "security": 80,
+          "immigration": 80,
+          "foreign": 70,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Tax cuts, balanced budgets, rural telehealth, tough-on-crime prosecutions, secure border without citizenship pathways, backed Iran war; liberty driven by anti-abortion stance and marijuana concerns.",
-        "sources": ["https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/", "https://montanafreepress.org/2026/08/24/republican-montana-senate-kurt-alme-low-profile/", "https://www.ontheissues.org/Senate/Kurt_Alme.htm"],
-        "photo": {"file": "File:Kurt G. Alme official photo.jpg", "license": "Public domain", "author": "United States Department of Justice"}
+        "sources": [
+          "https://projects.montanafreepress.org/election-guide-2026/candidates/kurt-alme/",
+          "https://montanafreepress.org/2026/08/24/republican-montana-senate-kurt-alme-low-profile/",
+          "https://www.ontheissues.org/Senate/Kurt_Alme.htm"
+        ],
+        "photo": {
+          "file": "File:Kurt G. Alme official photo.jpg",
+          "license": "Public domain",
+          "author": "United States Department of Justice"
+        }
       },
       {
         "name": "Seth Bodnar",
         "party": "Independent",
         "incumbent": false,
-        "positions": {"economy": 50, "welfare": 60, "liberty": 20, "security": 50, "immigration": 45, "foreign": 40, "energy": null, "tech": null, "education": 75, "faith": null},
+        "positions": {
+          "economy": 50,
+          "welfare": 60,
+          "liberty": 20,
+          "security": 50,
+          "immigration": 45,
+          "foreign": 40,
+          "energy": null,
+          "tech": null,
+          "education": 75,
+          "faith": null
+        },
         "basis": "Defend Medicaid expansion, criticize tariffs, strong borders with faster legal pathways, Congress must authorize war, public education; liberty: government out of abortion and guns.",
-        "sources": ["https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/", "https://www.newsweek.com/montana-senate-seth-bodnar-democrat-republican-independent-12185515", "https://www.mtpr.org/montana-news/2026-05-01/seth-bodnar-interview"],
-        "photo": {"file": "File:Seth Bodnar - President at University of Montana (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Todd Goodrich (University of Montana)"}
+        "sources": [
+          "https://projects.montanafreepress.org/election-guide-2026/candidates/seth-bodnar/",
+          "https://www.newsweek.com/montana-senate-seth-bodnar-democrat-republican-independent-12185515",
+          "https://www.mtpr.org/montana-news/2026-05-01/seth-bodnar-interview"
+        ],
+        "photo": {
+          "file": "File:Seth Bodnar - President at University of Montana (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Todd Goodrich (University of Montana)"
+        }
       },
       {
         "name": "Alani Bankhead",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 65, "welfare": 90, "liberty": null, "security": 55, "immigration": null, "foreign": 25, "energy": 65, "tech": 75, "education": 70, "faith": null},
+        "positions": {
+          "economy": 65,
+          "welfare": 90,
+          "liberty": null,
+          "security": 55,
+          "immigration": null,
+          "foreign": 25,
+          "energy": 65,
+          "tech": 75,
+          "education": 70,
+          "faith": null
+        },
         "basis": "Universal health care, fair-share taxes on wealthy, cut defense spending, opposed Iran war, protect public lands from development, AI data protections, teacher funding.",
-        "sources": ["https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/", "https://www.ktvq.com/news/montana-politics/democrat-alani-bankhead-focuses-on-housing-trafficking-and-accountability-in-montana-u-s-senate-race", "https://dailymontanan.com/2026/08/10/bankhead-staying-in-senate-race-setting-up-a-four-way-battle/"],
-        "photo": {"file": "File:Alani Bankhead USAF 2021.png", "license": "Public domain", "author": "Technical Sergeant Nicholas Brown, U.S. Air Force"}
+        "sources": [
+          "https://projects.montanafreepress.org/election-guide-2026/candidates/alani-bankhead/",
+          "https://www.ktvq.com/news/montana-politics/democrat-alani-bankhead-focuses-on-housing-trafficking-and-accountability-in-montana-u-s-senate-race",
+          "https://dailymontanan.com/2026/08/10/bankhead-staying-in-senate-race-setting-up-a-four-way-battle/"
+        ],
+        "photo": {
+          "file": "File:Alani Bankhead USAF 2021.png",
+          "license": "Public domain",
+          "author": "Technical Sergeant Nicholas Brown, U.S. Air Force"
+        }
       },
       {
         "name": "Kyle Austin",
         "party": "Libertarian",
         "incumbent": false,
-        "positions": {"economy": 15, "welfare": 35, "liberty": null, "security": null, "immigration": null, "foreign": 40, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 15,
+          "welfare": 35,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 40,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Lower taxes, deregulation, spending cuts and zero tariffs; health care overhaul with Medicaid work requirements; enforce the War Powers Resolution.",
-        "sources": ["https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/", "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana"],
+        "sources": [
+          "https://projects.montanafreepress.org/election-guide-2026/candidates/kyle-austin/",
+          "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Montana"
+        ],
         "photo": null
       }
     ]
@@ -135,18 +366,85 @@
         "name": "Pete Ricketts",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": 15, "welfare": 15, "liberty": 95, "security": 70, "immigration": 85, "foreign": 80, "energy": 20, "tech": null, "education": 30, "faith": null},
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 95,
+          "security": 70,
+          "immigration": 85,
+          "foreign": 80,
+          "energy": 20,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
         "basis": "Tax cuts and One Big Beautiful Bill, opposed Medicaid expansion, border security, pro-Israel China hawk; liberty driven by total abortion ban, anti-cannabis.",
-        "sources": ["https://en.wikipedia.org/wiki/Pete_Ricketts", "https://nebraskapublicmedia.org/en/news/news-articles/ricketts-faces-multiple-challengers-in-us-senate-race/"],
-        "photo": {"file": "File:Sen. Pete Ricketts official portrait, 118th Congress.jpg", "license": "Public domain", "author": "United States Congress"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Pete_Ricketts",
+          "https://nebraskapublicmedia.org/en/news/news-articles/ricketts-faces-multiple-challengers-in-us-senate-race/"
+        ],
+        "photo": {
+          "file": "File:Sen. Pete Ricketts official portrait, 118th Congress.jpg",
+          "license": "Public domain",
+          "author": "United States Congress"
+        }
       },
       {
         "name": "Dan Osborn",
         "party": "Independent",
         "incumbent": false,
-        "positions": {"economy": 70, "welfare": 65, "liberty": 20, "security": 45, "immigration": 60, "foreign": 25, "energy": 55, "tech": 65, "education": 80, "faith": null},
+        "positions": {
+          "economy": 70,
+          "welfare": 65,
+          "liberty": 20,
+          "security": 45,
+          "immigration": 60,
+          "foreign": 25,
+          "energy": 55,
+          "tech": 65,
+          "education": 80,
+          "faith": null
+        },
         "basis": "Raise minimum wage, lift Social Security cap, right to repair, border wall with worker legalization, no vouchers or forever wars; liberty: cannabis legalization, gun rights.",
-        "sources": ["https://en.wikipedia.org/wiki/Dan_Osborn", "https://www.ontheissues.org/Senate/Dan_Osborn.htm", "https://nebraskapublicmedia.org/en/news/news-articles/ricketts-faces-multiple-challengers-in-us-senate-race/"],
+        "sources": [
+          "https://en.wikipedia.org/wiki/Dan_Osborn",
+          "https://www.ontheissues.org/Senate/Dan_Osborn.htm",
+          "https://nebraskapublicmedia.org/en/news/news-articles/ricketts-faces-multiple-challengers-in-us-senate-race/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chuck Conboy",
+        "party": "America First",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Robin Richards",
+        "party": "Nebraska Working People",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Mike Marvin",
+        "party": "Legal Marijuana NOW",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf",
+          "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Nebraska"
+        ],
         "photo": null
       }
     ]
@@ -160,36 +458,100 @@
         "name": "Jim Pillen",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": 20, "welfare": null, "liberty": 65, "security": 75, "immigration": 90, "foreign": null, "energy": null, "tech": 75, "education": 15, "faith": 90},
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 65,
+          "security": 75,
+          "immigration": 90,
+          "foreign": null,
+          "energy": null,
+          "tech": 75,
+          "education": 15,
+          "faith": 90
+        },
         "basis": "Says Nebraskans overtaxed, private-school scholarships, school prayer, social media age verification, no citizenship pathway; liberty driven by abortion and transgender restrictions, offset by gun rights.",
-        "sources": ["https://www.ontheissues.org/Jim_Pillen.htm", "https://en.wikipedia.org/wiki/Online_age_verification_laws_in_the_United_States", "https://en.wikipedia.org/wiki/Jim_Pillen"],
-        "photo": {"file": "File:Jim Pillen SelectUSA (55251574792).jpg", "license": "CC BY 4.0", "author": "Maryland GovPics"}
+        "sources": [
+          "https://www.ontheissues.org/Jim_Pillen.htm",
+          "https://en.wikipedia.org/wiki/Online_age_verification_laws_in_the_United_States",
+          "https://en.wikipedia.org/wiki/Jim_Pillen"
+        ],
+        "photo": {
+          "file": "File:Jim Pillen SelectUSA (55251574792).jpg",
+          "license": "CC BY 4.0",
+          "author": "Maryland GovPics"
+        }
       },
       {
         "name": "Lynne Walz",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 50, "welfare": 60, "liberty": 35, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": 90, "faith": null},
+        "positions": {
+          "economy": 50,
+          "welfare": 60,
+          "liberty": 35,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
         "basis": "Rejects all school vouchers, medical cannabis by executive order, child care incentives, opposes sales-tax expansion; liberty from cannabis support and mixed abortion votes.",
-        "sources": ["https://www.omahadailyrecord.com/content/walz-skips-specifics-new-%E2%80%98lynne%E2%80%99s-commitment-nebraskans%E2%80%99-platform-governor%E2%80%99s-race", "https://www.omahadailyrecord.com/content/former-state-sen-lynne-walz-steps-toward-run-nebraska-governor"],
+        "sources": [
+          "https://www.omahadailyrecord.com/content/walz-skips-specifics-new-%E2%80%98lynne%E2%80%99s-commitment-nebraskans%E2%80%99-platform-governor%E2%80%99s-race",
+          "https://www.omahadailyrecord.com/content/former-state-sen-lynne-walz-steps-toward-run-nebraska-governor"
+        ],
         "photo": null
       },
       {
         "name": "Brett Lindstrom",
         "party": "America First",
         "incumbent": false,
-        "positions": {"economy": 45, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": 60, "education": null, "faith": null},
+        "positions": {
+          "economy": 45,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 60,
+          "education": null,
+          "faith": null
+        },
         "basis": "Nebraska Doctrine: property tax valuation reform with more state school aid, protect public power, AI transparency and privacy rules, budget discipline.",
-        "sources": ["https://www.yahoo.com/news/politics/articles/lindstrom-turns-signatures-releases-nebraska-222019470.html", "https://en.wikipedia.org/wiki/Brett_Lindstrom"],
-        "photo": {"file": "File:Brett Lindstrom.jpg", "license": "CC BY 2.0", "author": "Matt Johnson"}
+        "sources": [
+          "https://www.yahoo.com/news/politics/articles/lindstrom-turns-signatures-releases-nebraska-222019470.html",
+          "https://en.wikipedia.org/wiki/Brett_Lindstrom"
+        ],
+        "photo": {
+          "file": "File:Brett Lindstrom.jpg",
+          "license": "CC BY 2.0",
+          "author": "Matt Johnson"
+        }
       },
       {
         "name": "Rick Beard",
         "party": "Legal Marijuana NOW",
         "incumbent": false,
-        "positions": {"economy": 75, "welfare": null, "liberty": 10, "security": 25, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 75,
+          "welfare": null,
+          "liberty": 10,
+          "security": 25,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Proposes state-run cannabis business funding property tax relief, ending cannabis arrests, jail reform; liberty driven by cannabis legalization.",
-        "sources": ["https://www.rickforgov.org/"],
+        "sources": [
+          "https://www.rickforgov.org/"
+        ],
         "photo": null
       }
     ]
@@ -203,19 +565,69 @@
         "name": "Joe Lombardo",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": 25, "welfare": 50, "liberty": 45, "security": 80, "immigration": 80, "foreign": null, "energy": 30, "tech": null, "education": 25, "faith": null},
+        "positions": {
+          "economy": 25,
+          "welfare": 50,
+          "liberty": 45,
+          "security": 80,
+          "immigration": 80,
+          "foreign": null,
+          "energy": 30,
+          "tech": null,
+          "education": 25,
+          "faith": null
+        },
         "basis": "No new taxes, Opportunity Scholarships, 287(g) ICE cooperation, left U.S. Climate Alliance, defended Medicaid; liberty mixes abortion protections with gun-bill vetoes and fentanyl penalties.",
-        "sources": ["https://en.wikipedia.org/wiki/Joe_Lombardo", "https://www.nvgov2026.org/compare/issues/immigration.html", "https://www.nvgov2026.org/compare/issues/environment.html"],
-        "photo": {"file": "File:Joe Lombardo (55512849370)(cropped).jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Joe_Lombardo",
+          "https://www.nvgov2026.org/compare/issues/immigration.html",
+          "https://www.nvgov2026.org/compare/issues/environment.html"
+        ],
+        "photo": {
+          "file": "File:Joe Lombardo (55512849370)(cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Gage Skidmore"
+        }
       },
       {
         "name": "Aaron Ford",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 60, "welfare": 75, "liberty": 30, "security": 25, "immigration": 35, "foreign": null, "energy": 85, "tech": 90, "education": 80, "faith": null},
+        "positions": {
+          "economy": 60,
+          "welfare": 75,
+          "liberty": 30,
+          "security": 25,
+          "immigration": 35,
+          "foreign": null,
+          "energy": 85,
+          "tech": 90,
+          "education": 80,
+          "faith": null
+        },
         "basis": "Sued social media platforms, data center abatement moratorium, anti-voucher, pro-solar record, Flock camera limits, defends Medicaid; liberty driven by abortion, LGBTQ, cannabis support.",
-        "sources": ["https://www.ontheissues.org/Aaron_Ford.htm", "https://www.nvgov2026.org/compare/issues/technology.html", "https://en.wikipedia.org/wiki/Aaron_Ford_(Nevada_politician)"],
-        "photo": {"file": "File:Nevada Attorney General Aaron Ford addresses the United Nations Human Rights Committee, October 17-18, 2023 1 (cropped).jpg", "license": "Public domain", "author": "United States Mission to Geneva, U.S. Department of State"}
+        "sources": [
+          "https://www.ontheissues.org/Aaron_Ford.htm",
+          "https://www.nvgov2026.org/compare/issues/technology.html",
+          "https://en.wikipedia.org/wiki/Aaron_Ford_(Nevada_politician)"
+        ],
+        "photo": {
+          "file": "File:Nevada Attorney General Aaron Ford addresses the United Nations Human Rights Committee, October 17-18, 2023 1 (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Mission to Geneva, U.S. Department of State"
+        }
+      },
+      {
+        "name": "Danielle Ford",
+        "party": "No Political Party",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://thenevadaindependent.com/elections/2026/general",
+          "https://www.thegreenpapers.com/G26/NV"
+        ],
+        "photo": null
       }
     ]
   },
@@ -228,19 +640,68 @@
         "name": "John E. Sununu",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": 25, "liberty": 50, "security": 55, "immigration": 75, "foreign": 65, "energy": 30, "tech": null, "education": 20, "faith": 70},
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": 50,
+          "security": 55,
+          "immigration": 75,
+          "foreign": 65,
+          "energy": 30,
+          "tech": null,
+          "education": 20,
+          "faith": 70
+        },
         "basis": "Extend Trump tax cuts, Medicaid work requirements, limit birthright citizenship, pipelines and transmission, past voucher and school-prayer support; liberty mixes pro-life record with gun rights.",
-        "sources": ["https://www.citizenscount.org/candidate/john-e-sununu", "https://www.ontheissues.org/Senate/John_Sununu.htm", "https://en.wikipedia.org/wiki/John_E._Sununu"],
-        "photo": {"file": "File:John E. Sununu.jpg", "license": "Public domain", "author": "Office of U.S. Senator John E. Sununu"}
+        "sources": [
+          "https://www.citizenscount.org/candidate/john-e-sununu",
+          "https://www.ontheissues.org/Senate/John_Sununu.htm",
+          "https://en.wikipedia.org/wiki/John_E._Sununu"
+        ],
+        "photo": {
+          "file": "File:John E. Sununu.jpg",
+          "license": "Public domain",
+          "author": "Office of U.S. Senator John E. Sununu"
+        }
       },
       {
         "name": "Chris Pappas",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 70, "welfare": 70, "liberty": 30, "security": 35, "immigration": 20, "foreign": 65, "energy": 80, "tech": 70, "education": 85, "faith": null},
+        "positions": {
+          "economy": 70,
+          "welfare": 70,
+          "liberty": 30,
+          "security": 35,
+          "immigration": 20,
+          "foreign": 65,
+          "energy": 80,
+          "tech": 70,
+          "education": 85,
+          "faith": null
+        },
         "basis": "Tax millionaires more, raise indexed minimum wage, Medicare buy-in, Dreamers citizenship, Ukraine aid, no vouchers; liberty driven by abortion, LGBTQ, marijuana, offset by gun limits.",
-        "sources": ["https://www.citizenscount.org/candidate/christopher-pappas", "https://www.ontheissues.org/House/Chris_Pappas.htm"],
-        "photo": {"file": "File:Chris Pappas portrait (118th Congress).jpg", "license": "Public domain", "author": "U.S. House of Representatives"}
+        "sources": [
+          "https://www.citizenscount.org/candidate/christopher-pappas",
+          "https://www.ontheissues.org/House/Chris_Pappas.htm"
+        ],
+        "photo": {
+          "file": "File:Chris Pappas portrait (118th Congress).jpg",
+          "license": "Public domain",
+          "author": "U.S. House of Representatives"
+        }
+      },
+      {
+        "name": "Edmond J. Laplante Jr.",
+        "party": "Constitution",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/NH",
+          "https://politics1.com/nh.htm"
+        ],
+        "photo": null
       }
     ]
   },
@@ -253,18 +714,63 @@
         "name": "Kelly Ayotte",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": 20, "welfare": 35, "liberty": 50, "security": 70, "immigration": 75, "foreign": 85, "energy": 40, "tech": null, "education": 15, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": 35,
+          "liberty": 50,
+          "security": 70,
+          "immigration": 75,
+          "foreign": 85,
+          "energy": 40,
+          "tech": null,
+          "education": 15,
+          "faith": null
+        },
         "basis": "No income or sales tax, no minimum-wage increase, universal Education Freedom Accounts, ban sanctuary cities; liberty mixes keeping 24-week abortion law with opposing marijuana legalization.",
-        "sources": ["https://www.citizenscount.org/candidate/kelly-ayotte", "https://en.wikipedia.org/wiki/Kelly_Ayotte"],
-        "photo": {"file": "File:Governor Kelly Ayotte receives a briefing from National Guard cyber operators (cropped) (cropped).jpg", "license": "Public domain", "author": "Sgt. Kelly Boyer, U.S. Army National Guard"}
+        "sources": [
+          "https://www.citizenscount.org/candidate/kelly-ayotte",
+          "https://en.wikipedia.org/wiki/Kelly_Ayotte"
+        ],
+        "photo": {
+          "file": "File:Governor Kelly Ayotte receives a briefing from National Guard cyber operators (cropped) (cropped).jpg",
+          "license": "Public domain",
+          "author": "Sgt. Kelly Boyer, U.S. Army National Guard"
+        }
       },
       {
         "name": "Cinde Warmington",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 65, "welfare": 65, "liberty": 25, "security": null, "immigration": 25, "foreign": null, "energy": 90, "tech": null, "education": 90, "faith": null},
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": 25,
+          "security": null,
+          "immigration": 25,
+          "foreign": null,
+          "energy": 90,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
         "basis": "Repeal Education Freedom Accounts, living minimum wage, climate action plan, oppose ICE warehouse; liberty driven by abortion access, marijuana legalization, LGBTQ protections.",
-        "sources": ["https://www.citizenscount.org/candidate/cinde-warmington", "https://www.cindewarmington.com/", "https://www.thedartmouth.com/article/2026/05/cinde-warmington-centers-affordability-in-bid-for-n-h-governor"],
+        "sources": [
+          "https://www.citizenscount.org/candidate/cinde-warmington",
+          "https://www.cindewarmington.com/",
+          "https://www.thedartmouth.com/article/2026/05/cinde-warmington-centers-affordability-in-bid-for-n-h-governor"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Stephen Villee",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/NH",
+          "https://politics1.com/nh.htm"
+        ],
         "photo": null
       }
     ]

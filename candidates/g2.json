@@ -58,6 +58,54 @@
           "license": "Public domain",
           "author": "Colorado Senate GOP"
         }
+      },
+      {
+        "name": "Blake Huber",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+          "https://www.sos.state.co.us/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Christopher Baum",
+        "party": "Approval Voting",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+          "https://www.sos.state.co.us/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Bob Chew",
+        "party": "Forward",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+          "https://www.sos.state.co.us/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Adam Withrow",
+        "party": "Unity",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html",
+          "https://www.sos.state.co.us/pubs/newsRoom/pressReleases/2026/PR20260904BallotCertification.html"
+        ],
+        "photo": null
       }
     ]
   },
@@ -116,6 +164,61 @@
           "license": "CC BY-SA 2.0",
           "author": "Gage Skidmore"
         }
+      },
+      {
+        "name": "Stephen T. Hamilton",
+        "party": "American Constitution",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Eric Mulder",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jeff Peckman",
+        "party": "Unity",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Erik Underwood",
+        "party": "Approval Voting",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Greg Lopez",
+        "party": "Unaffiliated",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.coloradosos.gov/pubs/elections/vote/generalCandidates.html"
+        ],
+        "photo": null
       }
     ]
   },
@@ -295,6 +398,18 @@
           "license": "Public domain",
           "author": "United States Senate Photography Service"
         }
+      },
+      {
+        "name": "Neil J. Gillespie",
+        "party": "No Party Affiliation",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/FL",
+          "https://smarter.vote/races/fl-senate-2026-special/neil-gillespie/"
+        ],
+        "photo": null
       }
     ]
   },
@@ -357,6 +472,78 @@
           "license": "Public domain",
           "author": "United States Congress"
         }
+      },
+      {
+        "name": "Scott Eckhard Jewett",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/FL",
+          "https://www.sparkers-soapbox.com/florida-governor-general-election-2026/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Dean Ocean Abrams",
+        "party": "No Party Affiliation",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/FL",
+          "https://www.sparkers-soapbox.com/florida-governor-general-election-2026/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Charles W. Burkett",
+        "party": "No Party Affiliation",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/FL",
+          "https://www.sparkers-soapbox.com/florida-governor-general-election-2026/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
+        "party": "No Party Affiliation",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/FL",
+          "https://www.sparkers-soapbox.com/florida-governor-general-election-2026/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Moliere \"Moe\" Dimanche",
+        "party": "No Party Affiliation",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/FL",
+          "https://www.sparkers-soapbox.com/florida-governor-general-election-2026/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Frank J. Russo",
+        "party": "No Party Affiliation",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/FL",
+          "https://www.sparkers-soapbox.com/florida-governor-general-election-2026/"
+        ],
+        "photo": null
       }
     ]
   },

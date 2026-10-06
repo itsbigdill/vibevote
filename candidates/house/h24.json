@@ -75,28 +75,6 @@
           "https://projects.montanafreepress.org/election-guide-2026/candidates/nick-sheedy/"
         ],
         "photo": null
-      },
-      {
-        "name": "Kimberly Persico",
-        "party": "Independent",
-        "incumbent": false,
-        "positions": {
-          "economy": null,
-          "welfare": null,
-          "liberty": null,
-          "security": null,
-          "immigration": null,
-          "foreign": null,
-          "energy": null,
-          "tech": null,
-          "education": null,
-          "faith": null
-        },
-        "basis": "",
-        "sources": [
-          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana"
-        ],
-        "photo": null
       }
     ]
   },
@@ -555,6 +533,30 @@
           "https://carriebuckforcongress.com/about/"
         ],
         "photo": null
+      },
+      {
+        "name": "Bobby (Afzal) Khan",
+        "party": "No Political Party",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://thenevadaindependent.com/elections/2026/general",
+          "https://www.thegreenpapers.com/G26/NV"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Steven \"Chap\" St. John",
+        "party": "No Political Party",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://thenevadaindependent.com/elections/2026/general",
+          "https://www.thegreenpapers.com/G26/NV"
+        ],
+        "photo": null
       }
     ]
   },
@@ -694,6 +696,18 @@
           "license": "CC BY-SA 3.0",
           "author": "Gage Skidmore"
         }
+      },
+      {
+        "name": "Jon Kamerath",
+        "party": "Independent American",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://thenevadaindependent.com/elections/2026/general",
+          "https://www.thegreenpapers.com/G26/NV"
+        ],
+        "photo": null
       }
     ]
   },
@@ -750,6 +764,30 @@
         "sources": [
           "https://codyk4congress.com/issues/",
           "https://codyk4congress.com/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Russell Best",
+        "party": "Independent American",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://thenevadaindependent.com/elections/2026/general",
+          "https://www.thegreenpapers.com/G26/NV"
+        ],
+        "photo": null
+      },
+      {
+        "name": "William Johnson",
+        "party": "No Political Party",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://thenevadaindependent.com/elections/2026/general",
+          "https://www.thegreenpapers.com/G26/NV"
         ],
         "photo": null
       }

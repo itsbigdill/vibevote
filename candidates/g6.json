@@ -8,18 +8,71 @@
         "name": "Cory Booker",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 85, "welfare": 85, "liberty": 30, "security": 20, "immigration": 10, "foreign": 60, "energy": 90, "tech": 60, "education": 45, "faith": null},
+        "positions": {
+          "economy": 85,
+          "welfare": 85,
+          "liberty": 30,
+          "security": 20,
+          "immigration": 10,
+          "foreign": 60,
+          "energy": 90,
+          "tech": 60,
+          "education": 45,
+          "faith": null
+        },
         "basis": "Backs Medicare for All, $15 wage, Green New Deal, DACA; liberty mixes pro-choice and legalization with gun licensing; backed vouchers as mayor.",
-        "sources": ["https://www.ontheissues.org/Senate/Cory_Booker.htm"],
-        "photo": {"file": "File:Cory Booker, official portrait (119th Congress) (cropped).jpg", "license": "Public domain", "author": "U.S. Senate"}
+        "sources": [
+          "https://www.ontheissues.org/Senate/Cory_Booker.htm"
+        ],
+        "photo": {
+          "file": "File:Cory Booker, official portrait (119th Congress) (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. Senate"
+        }
       },
       {
         "name": "Justin Murphy",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": null, "liberty": 75, "security": 70, "immigration": 70, "foreign": 60, "energy": 15, "tech": null, "education": 25, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 75,
+          "security": 70,
+          "immigration": 70,
+          "foreign": 60,
+          "energy": 15,
+          "tech": null,
+          "education": 25,
+          "faith": null
+        },
         "basis": "Wants tax and spending cuts, border security, tougher China stance, parental rights; opposes offshore wind and recreational marijuana (sole liberty evidence).",
-        "sources": ["https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/", "https://savejersey.com/2026/06/who-is-justin-murphy-the-gop-nominee-to-challenge-cory-booker/"],
+        "sources": [
+          "https://whyy.org/articles/new-jersey-election-2026-primary-senate-candidates/",
+          "https://savejersey.com/2026/06/who-is-justin-murphy-the-gop-nominee-to-challenge-cory-booker/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Veronica Fernandez",
+        "party": "End the Corruption!",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-certification-of-general-election-nominees_us-senate_us-house.pdf"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Joanne Kuniansky",
+        "party": "Socialist Workers Party",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.nj.gov/state/elections/assets/pdf/election-results/2026/2026-certification-of-general-election-nominees_us-senate_us-house.pdf"
+        ],
         "photo": null
       }
     ]
@@ -33,18 +86,50 @@
         "name": "Ben Ray Luján",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 80, "welfare": 90, "liberty": 25, "security": 15, "immigration": 20, "foreign": 50, "energy": 85, "tech": 70, "education": 85, "faith": null},
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": 25,
+          "security": 15,
+          "immigration": 20,
+          "foreign": 50,
+          "energy": 85,
+          "tech": 70,
+          "education": 85,
+          "faith": null
+        },
         "basis": "Co-sponsored Medicare for All and Green New Deal, opposes vouchers, backs net neutrality, pathway for Dreamers; liberty lifted by background-check support.",
-        "sources": ["https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"],
-        "photo": {"file": "File:Ben Ray Luján, official portrait (119th Congress) (cropped)1.jpg", "license": "Public domain", "author": "Rosa Pineda, U.S. Senate"}
+        "sources": [
+          "https://www.ontheissues.org/Senate/Ben_Ray_Lujan.htm"
+        ],
+        "photo": {
+          "file": "File:Ben Ray Luján, official portrait (119th Congress) (cropped)1.jpg",
+          "license": "Public domain",
+          "author": "Rosa Pineda, U.S. Senate"
+        }
       },
       {
         "name": "Larry Marker",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": 25, "liberty": 90, "security": null, "immigration": 85, "foreign": null, "energy": 15, "tech": null, "education": null, "faith": 80},
+        "positions": {
+          "economy": 20,
+          "welfare": 25,
+          "liberty": 90,
+          "security": null,
+          "immigration": 85,
+          "foreign": null,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": 80
+        },
         "basis": "Describes himself as pro-life (sole liberty evidence); backs Trump immigration policies, oil and gas, looser regulations; criticizes welfare programs; campaigns on Christian faith.",
-        "sources": ["https://www.santafenewmexican.com/news/elections/id-like-to-see-more-hope-gop-write-in-u-s-senate-candidate-larry-marker/article_4e9038b9-0d10-48e4-84f5-69d2255c603e.html", "https://www.kunm.org/nm-senate-write-in-candidate-larry-marker-wins-primary-ben-ray-lujan", "https://sourcenm.com/2026/09/11/new-mexico-election-2026-us-senator/"],
+        "sources": [
+          "https://www.santafenewmexican.com/news/elections/id-like-to-see-more-hope-gop-write-in-u-s-senate-candidate-larry-marker/article_4e9038b9-0d10-48e4-84f5-69d2255c603e.html",
+          "https://www.kunm.org/nm-senate-write-in-candidate-larry-marker-wins-primary-ben-ray-lujan",
+          "https://sourcenm.com/2026/09/11/new-mexico-election-2026-us-senator/"
+        ],
         "photo": null
       }
     ]
@@ -58,18 +143,51 @@
         "name": "Deb Haaland",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 85, "welfare": 90, "liberty": 25, "security": 35, "immigration": 10, "foreign": 30, "energy": 85, "tech": 70, "education": 90, "faith": null},
+        "positions": {
+          "economy": 85,
+          "welfare": 90,
+          "liberty": 25,
+          "security": 35,
+          "immigration": 10,
+          "foreign": 30,
+          "energy": 85,
+          "tech": 70,
+          "education": 90,
+          "faith": null
+        },
         "basis": "Plans public health option, universal childcare, higher minimum wage, more renewables; backed Green New Deal, assault weapons ban (liberty driver), opposes vouchers.",
-        "sources": ["https://debhaaland.com/debs-plan/", "https://www.ontheissues.org/Deb_Haaland.htm"],
-        "photo": {"file": "File:Secretary Deb Haaland, official headshot.jpg", "license": "Public domain", "author": "U.S. Department of the Interior"}
+        "sources": [
+          "https://debhaaland.com/debs-plan/",
+          "https://www.ontheissues.org/Deb_Haaland.htm"
+        ],
+        "photo": {
+          "file": "File:Secretary Deb Haaland, official headshot.jpg",
+          "license": "Public domain",
+          "author": "U.S. Department of the Interior"
+        }
       },
       {
         "name": "Gregg Hull",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": null, "liberty": 5, "security": 85, "immigration": 70, "foreign": null, "energy": 20, "tech": null, "education": 60, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 5,
+          "security": 85,
+          "immigration": 70,
+          "foreign": null,
+          "energy": 20,
+          "tech": null,
+          "education": 60,
+          "faith": null
+        },
         "basis": "Would eliminate income tax, produce more oil, adopt zero-tolerance policing, invest in public schools; opposes any gun ban (sole liberty evidence).",
-        "sources": ["https://gregghull.com/priorities/", "https://www.abqjournal.com/election/governor-gregg-hull-r/3034038", "https://www.ontheissues.org/Gregg_Hull.htm"],
+        "sources": [
+          "https://gregghull.com/priorities/",
+          "https://www.abqjournal.com/election/governor-gregg-hull-r/3034038",
+          "https://www.ontheissues.org/Gregg_Hull.htm"
+        ],
         "photo": null
       }
     ]
@@ -83,19 +201,56 @@
         "name": "Bruce Blakeman",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": null, "liberty": 60, "security": 85, "immigration": 65, "foreign": 65, "energy": 20, "tech": null, "education": 20, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 60,
+          "security": 85,
+          "immigration": 65,
+          "foreign": 65,
+          "energy": 20,
+          "tech": null,
+          "education": 20,
+          "faith": null
+        },
         "basis": "Would cut income taxes, repeal cashless bail, cooperate with ICE, join private-school scholarships; blames offshore wind for bills; liberty: pro-choice, transgender-athlete ban, mask ban.",
-        "sources": ["https://www.ontheissues.org/Bruce_Blakeman.htm", "https://www.washingtonexaminer.com/news/campaigns/state/4687212/bruce-blakeman-trump-centrist-new-york-governor/", "https://www.blakemanfornewyork.com/"],
-        "photo": {"file": "File:Blakeman Profile Picture (cropped 2).jpg", "license": "CC BY-SA 4.0", "author": "Arthur Raslich, Nassau County"}
+        "sources": [
+          "https://www.ontheissues.org/Bruce_Blakeman.htm",
+          "https://www.washingtonexaminer.com/news/campaigns/state/4687212/bruce-blakeman-trump-centrist-new-york-governor/",
+          "https://www.blakemanfornewyork.com/"
+        ],
+        "photo": {
+          "file": "File:Blakeman Profile Picture (cropped 2).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Arthur Raslich, Nassau County"
+        }
       },
       {
         "name": "Kathy Hochul",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 55, "welfare": 80, "liberty": 40, "security": 55, "immigration": 30, "foreign": null, "energy": 55, "tech": 80, "education": 85, "faith": null},
+        "positions": {
+          "economy": 55,
+          "welfare": 80,
+          "liberty": 40,
+          "security": 55,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 55,
+          "tech": 80,
+          "education": 85,
+          "faith": null
+        },
         "basis": "Signed RAISE AI-safety act and gun restrictions (liberty driver); pro-choice; pursues universal childcare; opposes vouchers and state help for federal immigration raids.",
-        "sources": ["https://www.ontheissues.org/Kathy_Hochul.htm", "https://en.wikipedia.org/wiki/Responsible_AI_Safety_and_Education_Act"],
-        "photo": {"file": "File:Governor Hochul Announces Five-Point Plan to Protect New Yorkers on the Subway (cropped 4).jpg", "license": "CC BY 2.0", "author": "Marc A. Hermann / MTA"}
+        "sources": [
+          "https://www.ontheissues.org/Kathy_Hochul.htm",
+          "https://en.wikipedia.org/wiki/Responsible_AI_Safety_and_Education_Act"
+        ],
+        "photo": {
+          "file": "File:Governor Hochul Announces Five-Point Plan to Protect New Yorkers on the Subway (cropped 4).jpg",
+          "license": "CC BY 2.0",
+          "author": "Marc A. Hermann / MTA"
+        }
       }
     ]
   },
@@ -108,19 +263,81 @@
         "name": "Roy Cooper",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 65, "welfare": 70, "liberty": 30, "security": 35, "immigration": 30, "foreign": 70, "energy": 70, "tech": 60, "education": 90, "faith": null},
+        "positions": {
+          "economy": 65,
+          "welfare": 70,
+          "liberty": 30,
+          "security": 35,
+          "immigration": 30,
+          "foreign": 70,
+          "energy": 70,
+          "tech": 60,
+          "education": 90,
+          "faith": null
+        },
         "basis": "Expanded Medicaid, vetoed voucher expansion and ICE-cooperation mandate, set emissions-reduction targets, backs Ukraine, would roll back tariffs; liberty: pro-choice, moderate on guns.",
-        "sources": ["https://www.ontheissues.org/Roy_Cooper.htm", "https://roycooper.com/costless/energy/", "https://news.ballotpedia.org/2026/04/06/roy-cooper-d-michael-whatley-r-and-three-other-candidates-are-running-in-north-carolinas-u-s-senate-election-on-november-3-2026/"],
-        "photo": {"file": "File:Gov. Cooper Cropped.jpg", "license": "CC BY 2.0", "author": "NCDOTcommunications"}
+        "sources": [
+          "https://www.ontheissues.org/Roy_Cooper.htm",
+          "https://roycooper.com/costless/energy/",
+          "https://news.ballotpedia.org/2026/04/06/roy-cooper-d-michael-whatley-r-and-three-other-candidates-are-running-in-north-carolinas-u-s-senate-election-on-november-3-2026/"
+        ],
+        "photo": {
+          "file": "File:Gov. Cooper Cropped.jpg",
+          "license": "CC BY 2.0",
+          "author": "NCDOTcommunications"
+        }
       },
       {
         "name": "Michael Whatley",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": null, "liberty": 60, "security": 85, "immigration": 90, "foreign": null, "energy": 20, "tech": null, "education": 30, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 60,
+          "security": 85,
+          "immigration": 90,
+          "foreign": null,
+          "energy": 20,
+          "tech": null,
+          "education": 30,
+          "faith": null
+        },
         "basis": "Backs tax cuts, deporting criminal noncitizens, ending cashless bail, expanded energy production; pro-life, pro-Second Amendment, opposes transgender women in women's sports.",
-        "sources": ["https://michaelwhatley.com/issues/", "https://www.nrsc.org/michael-watley/", "https://abc45.com/news/nation-world/senate-candidate-michael-whatley-shares-message-to-voters-ahead-of-midterms-roy-cooper-democrat-republican"],
-        "photo": {"file": "File:Michael Whatley (54670563614) (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"}
+        "sources": [
+          "https://michaelwhatley.com/issues/",
+          "https://www.nrsc.org/michael-watley/",
+          "https://abc45.com/news/nation-world/senate-candidate-michael-whatley-shares-message-to-voters-ahead-of-midterms-roy-cooper-democrat-republican"
+        ],
+        "photo": {
+          "file": "File:Michael Whatley (54670563614) (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Shannon Wilson Bray",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/NC",
+          "https://www.carolinajournal.com/voting-is-underway-whats-on-ncs-2026-ballot/"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Michael Louis Dublin Jr.",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/NC",
+          "https://www.carolinajournal.com/voting-is-underway-whats-on-ncs-2026-ballot/"
+        ],
+        "photo": null
       }
     ]
   },
@@ -133,19 +350,66 @@
         "name": "Sherrod Brown",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 90, "welfare": 80, "liberty": 45, "security": 25, "immigration": 20, "foreign": 45, "energy": 80, "tech": 65, "education": 90, "faith": 25},
+        "positions": {
+          "economy": 90,
+          "welfare": 80,
+          "liberty": 45,
+          "security": 25,
+          "immigration": 20,
+          "foreign": 45,
+          "energy": 80,
+          "tech": 65,
+          "education": 90,
+          "faith": 25
+        },
         "basis": "Backs higher taxes on wealthy, tariffs, $15 wage, climate action, DACA; opposes vouchers and Patriot Act renewal; liberty mixes pro-choice with assault-weapons ban.",
-        "sources": ["https://www.ontheissues.org/Senate/Sherrod_Brown.htm"],
-        "photo": {"file": "File:Sherrod Brown 117th Congress (2) (cropped).jpg", "license": "Public domain", "author": "U.S. Senate Photographic Services; Rebecca Hammel"}
+        "sources": [
+          "https://www.ontheissues.org/Senate/Sherrod_Brown.htm"
+        ],
+        "photo": {
+          "file": "File:Sherrod Brown 117th Congress (2) (cropped).jpg",
+          "license": "Public domain",
+          "author": "U.S. Senate Photographic Services; Rebecca Hammel"
+        }
       },
       {
         "name": "Jon Husted",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": 15, "welfare": 15, "liberty": 65, "security": null, "immigration": 60, "foreign": 70, "energy": 30, "tech": null, "education": 20, "faith": 75},
+        "positions": {
+          "economy": 15,
+          "welfare": 15,
+          "liberty": 65,
+          "security": null,
+          "immigration": 60,
+          "foreign": 70,
+          "energy": 30,
+          "tech": null,
+          "education": 20,
+          "faith": 75
+        },
         "basis": "Voted for 2025 reconciliation law; backs Medicaid work requirements, Russia sanctions, school choice; opposes abortion, backs gun rights (liberty mix); sponsored appliance-rule repeal.",
-        "sources": ["https://www.ontheissues.org/Senate/Jon_Husted.htm", "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm", "https://en.wikipedia.org/wiki/Jon_Husted"],
-        "photo": {"file": "File:Sen. Jon Husted official portrait, 119th Congress (cropped).jpg", "license": "Public domain", "author": "United States Senate"}
+        "sources": [
+          "https://www.ontheissues.org/Senate/Jon_Husted.htm",
+          "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.htm",
+          "https://en.wikipedia.org/wiki/Jon_Husted"
+        ],
+        "photo": {
+          "file": "File:Sen. Jon Husted official portrait, 119th Congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "United States Senate"
+        }
+      },
+      {
+        "name": "William \"Bill\" Redpath",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/OH"
+        ],
+        "photo": null
       }
     ]
   },
@@ -158,19 +422,68 @@
         "name": "Amy Acton",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 65, "welfare": 65, "liberty": 40, "security": 45, "immigration": null, "foreign": null, "energy": 50, "tech": null, "education": 90, "faith": null},
+        "positions": {
+          "economy": 65,
+          "welfare": 65,
+          "liberty": 40,
+          "security": 45,
+          "immigration": null,
+          "foreign": null,
+          "energy": 50,
+          "tech": null,
+          "education": 90,
+          "faith": null
+        },
         "basis": "Pledges abortion access, voucher reform ('public money for public schools'), working-family tax credits, union protections, funded police; opposes transgender girls in girls' sports.",
-        "sources": ["https://actonforgovernor.com/issue/education/", "https://www.ontheissues.org/Amy_Acton.htm", "https://en.wikipedia.org/wiki/Amy_Acton"],
-        "photo": {"file": "File:Amy Acton (cropped).jpg", "license": "Public domain", "author": "Senior Airman Gwendalyn Smith, U.S. Air National Guard"}
+        "sources": [
+          "https://actonforgovernor.com/issue/education/",
+          "https://www.ontheissues.org/Amy_Acton.htm",
+          "https://en.wikipedia.org/wiki/Amy_Acton"
+        ],
+        "photo": {
+          "file": "File:Amy Acton (cropped).jpg",
+          "license": "Public domain",
+          "author": "Senior Airman Gwendalyn Smith, U.S. Air National Guard"
+        }
       },
       {
         "name": "Vivek Ramaswamy",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 10, "welfare": null, "liberty": 50, "security": 70, "immigration": 90, "foreign": 25, "energy": 10, "tech": 65, "education": 15, "faith": 70},
+        "positions": {
+          "economy": 10,
+          "welfare": null,
+          "liberty": 50,
+          "security": 70,
+          "immigration": 90,
+          "foreign": 25,
+          "energy": 10,
+          "tech": 65,
+          "education": 15,
+          "faith": 70
+        },
         "basis": "Plans income-tax phaseout, property-tax cuts, data-center approval pause; backs school choice, mass deportation, fossil fuels, ending Ukraine aid; opposes abortion, backs constitutional carry.",
-        "sources": ["https://vivekforohio.com/the-plan/", "https://www.ontheissues.org/Vivek_Ramaswamy.htm"],
-        "photo": {"file": "File:Vivek Ramaswamy (55241367373) (cropped).jpg", "license": "CC BY-SA 4.0", "author": "Gage Skidmore"}
+        "sources": [
+          "https://vivekforohio.com/the-plan/",
+          "https://www.ontheissues.org/Vivek_Ramaswamy.htm"
+        ],
+        "photo": {
+          "file": "File:Vivek Ramaswamy (55241367373) (cropped).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Gage Skidmore"
+        }
+      },
+      {
+        "name": "Don Kissick",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/OH",
+          "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election"
+        ],
+        "photo": null
       }
     ]
   },
@@ -183,18 +496,87 @@
         "name": "Kevin Hern",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 10, "welfare": 10, "liberty": 60, "security": null, "immigration": 70, "foreign": 65, "energy": 5, "tech": 40, "education": null, "faith": 80},
+        "positions": {
+          "economy": 10,
+          "welfare": 10,
+          "liberty": 60,
+          "security": null,
+          "immigration": 70,
+          "foreign": 65,
+          "energy": 5,
+          "tech": 40,
+          "education": null,
+          "faith": 80
+        },
         "basis": "Favors flat tax, work requirements, border wall, defending Israel; opposes climate regulation, net neutrality; abortion and marriage stances offset pro-gun views (liberty).",
-        "sources": ["https://www.ontheissues.org/House/Kevin_Hern.htm", "https://en.wikipedia.org/wiki/Kevin_Hern"],
-        "photo": {"file": "File:Rep. Kevin Hern official photo, 116th congress (cropped).jpg", "license": "Public domain", "author": "Franmarie Metzler; U.S. House Office of Photography"}
+        "sources": [
+          "https://www.ontheissues.org/House/Kevin_Hern.htm",
+          "https://en.wikipedia.org/wiki/Kevin_Hern"
+        ],
+        "photo": {
+          "file": "File:Rep. Kevin Hern official photo, 116th congress (cropped).jpg",
+          "license": "Public domain",
+          "author": "Franmarie Metzler; U.S. House Office of Photography"
+        }
       },
       {
         "name": "N'Kiyla Jasmine Thomas",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 85, "welfare": 95, "liberty": 5, "security": 20, "immigration": 5, "foreign": null, "energy": 65, "tech": null, "education": 85, "faith": null},
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 5,
+          "security": 20,
+          "immigration": 5,
+          "foreign": null,
+          "energy": 65,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
         "basis": "Backs Medicare for All, universal childcare, living wage, abolishing ICE, restoring Roe, codifying marriage equality, stronger Clean Water Act, smaller classes, free school meals.",
-        "sources": ["https://www.jasmineforok.com/policies", "https://www.nbcnews.com/politics/2026-election/nkiyla-jasmine-thomas-wins-oklahoma-senate-primary-democrat-rcna593618", "https://ocpathink.org/post/independent-journalism/democratic-socialist-wins-oklahoma-senate-nomination"],
+        "sources": [
+          "https://www.jasmineforok.com/policies",
+          "https://www.nbcnews.com/politics/2026-election/nkiyla-jasmine-thomas-wins-oklahoma-senate-primary-democrat-rcna593618",
+          "https://ocpathink.org/post/independent-journalism/democratic-socialist-wins-oklahoma-senate-nomination"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Sevier White",
+        "party": "Libertarian",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://politics1.com/ok.htm",
+          "https://www.thegreenpapers.com/G26/OK"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Ron Meinhardt",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://politics1.com/ok.htm",
+          "https://www.thegreenpapers.com/G26/OK"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Curtis Stinnett",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://politics1.com/ok.htm",
+          "https://www.thegreenpapers.com/G26/OK"
+        ],
         "photo": null
       }
     ]
@@ -208,19 +590,92 @@
         "name": "Mike Mazzei",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 10, "welfare": null, "liberty": 95, "security": null, "immigration": null, "foreign": null, "energy": 30, "tech": 60, "education": null, "faith": null},
+        "positions": {
+          "economy": 10,
+          "welfare": null,
+          "liberty": 95,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 30,
+          "tech": 60,
+          "education": null,
+          "faith": null
+        },
         "basis": "Would phase out income tax, cut green-energy and data-center tax breaks, regulate data-center water and power; opposes abortion in all cases (sole liberty evidence).",
-        "sources": ["https://mikeforok.com/the-issues/", "https://www.newson6.com/oklahoma-elections/oklahoma-governor-tax-plans-mazzei-drummond", "https://www.news9.com/oklahoma-elections/who-should-i-vote-for-oklahomas-gubernatorial-runoff-drummond-mazzei"],
-        "photo": {"file": "File:Mike Mazzei OK Senate Headshot.jpg", "license": "Public domain", "author": "Oklahoma State Senate"}
+        "sources": [
+          "https://mikeforok.com/the-issues/",
+          "https://www.newson6.com/oklahoma-elections/oklahoma-governor-tax-plans-mazzei-drummond",
+          "https://www.news9.com/oklahoma-elections/who-should-i-vote-for-oklahomas-gubernatorial-runoff-drummond-mazzei"
+        ],
+        "photo": {
+          "file": "File:Mike Mazzei OK Senate Headshot.jpg",
+          "license": "Public domain",
+          "author": "Oklahoma State Senate"
+        }
       },
       {
         "name": "Cyndi Munson",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 75, "welfare": 80, "liberty": 25, "security": 30, "immigration": 25, "foreign": null, "energy": 50, "tech": 80, "education": 95, "faith": 25},
+        "positions": {
+          "economy": 75,
+          "welfare": 80,
+          "liberty": 25,
+          "security": 30,
+          "immigration": 25,
+          "foreign": null,
+          "energy": 50,
+          "tech": 80,
+          "education": 95,
+          "faith": 25
+        },
         "basis": "Would repeal voucher tax credit, pause new data centers, raise minimum wage, protect Medicaid; liberty: abortion-ban repeal, opposed church stand-your-ground bill.",
-        "sources": ["https://www.cyndimunson.com/Priorities", "https://www.ontheissues.org/Cyndi_Munson.htm"],
-        "photo": {"file": "File:Cyndi Munson.jpg", "license": "Public domain", "author": "Oklahoma House of Representatives"}
+        "sources": [
+          "https://www.cyndimunson.com/Priorities",
+          "https://www.ontheissues.org/Cyndi_Munson.htm"
+        ],
+        "photo": {
+          "file": "File:Cyndi Munson.jpg",
+          "license": "Public domain",
+          "author": "Oklahoma House of Representatives"
+        }
+      },
+      {
+        "name": "Robert E. Brooks Sr.",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://oklahomavoice.com/2026/10/05/independent-candidates-hope-to-shake-up-status-quo-give-oklahoma-voters-alternative-option/",
+          "https://politics1.com/ok.htm"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Orlando Lynn Bush",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://oklahomavoice.com/2026/10/05/independent-candidates-hope-to-shake-up-status-quo-give-oklahoma-voters-alternative-option/",
+          "https://politics1.com/ok.htm"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Jerry Griffin",
+        "party": "Independent",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://oklahomavoice.com/2026/10/05/independent-candidates-hope-to-shake-up-status-quo-give-oklahoma-voters-alternative-option/",
+          "https://politics1.com/ok.htm"
+        ],
+        "photo": null
       }
     ]
   }

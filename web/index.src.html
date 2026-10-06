@@ -972,7 +972,7 @@ async function openShared(id){
 
 /* ---- ballot: candidates collected ahead of time, matched on the person's positions ---- */
 /* "complete-races": a race shows photos only when every candidate in it has one; "any": every licensed photo */
-const PHOTO_MODE="complete-races";
+const PHOTO_MODE="any"; /* 2026-10-05: minor-party candidates rarely have free portraits; a race keeps the photos it has */
 const ballotCache={};
 async function loadBallot(state,districts){
   const code=(CODES[state]||"").toUpperCase();

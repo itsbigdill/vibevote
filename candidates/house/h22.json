@@ -9,18 +9,82 @@
         "name": "Donavan McKinney",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 90, "welfare": 95, "liberty": 10, "security": 15, "immigration": 5, "foreign": 25, "energy": 95, "tech": null, "education": 95, "faith": null},
+        "positions": {
+          "economy": 90,
+          "welfare": 95,
+          "liberty": 10,
+          "security": 15,
+          "immigration": 5,
+          "foreign": 25,
+          "energy": 95,
+          "tech": null,
+          "education": 95,
+          "faith": null
+        },
         "basis": "Platform: tax billionaires, universal basic income, Medicare for All, codify abortion, end cash bail and qualified immunity, citizenship pathways, Green New Deal, tuition-free college.",
-        "sources": ["https://www.donavanforcongress.com/priorities", "https://en.wikipedia.org/wiki/Donavan_McKinney"],
-        "photo": {"file": "File:State Rep Donavan McKinney Swearing In 12.12.22 (52565631658) (cropped).jpg", "license": "Public domain", "author": "City of Detroit"}
+        "sources": [
+          "https://www.donavanforcongress.com/priorities",
+          "https://en.wikipedia.org/wiki/Donavan_McKinney"
+        ],
+        "photo": {
+          "file": "File:State Rep Donavan McKinney Swearing In 12.12.22 (52565631658) (cropped).jpg",
+          "license": "Public domain",
+          "author": "City of Detroit"
+        }
       },
       {
         "name": "T.P. Nykoriak",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "No published policy positions found for this perennial candidate.",
-        "sources": ["https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"],
+        "sources": [
+          "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Raelyn Light",
+        "party": "Green",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/MI"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Chris Dardzinski",
+        "party": "U.S. Taxpayers",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/MI"
+        ],
+        "photo": null
+      },
+      {
+        "name": "Simone Coleman",
+        "party": "Working Class Party",
+        "incumbent": false,
+        "positions": {},
+        "basis": "",
+        "sources": [
+          "https://www.thegreenpapers.com/G26/MI"
+        ],
         "photo": null
       }
     ]
@@ -35,18 +99,49 @@
         "name": "Brad Finstad",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": 25, "welfare": 25, "liberty": null, "security": null, "immigration": null, "foreign": 70, "energy": 35, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 25,
+          "welfare": 25,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": 70,
+          "energy": 35,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Voted for One Big Beautiful Bill Act, backed Israel aid and 2026 Iran strikes, opposed war powers limits, all-of-the-above energy including oil and gas.",
-        "sources": ["https://en.wikipedia.org/wiki/Brad_Finstad", "https://finstad.house.gov/issues/energy/"],
-        "photo": {"file": "File:Rep. Brad Finstad (R-MN), Official Portrait, 119th Congress.jpg", "license": "Public domain", "author": "House Creative Services (Brendan O'Hara)"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Brad_Finstad",
+          "https://finstad.house.gov/issues/energy/"
+        ],
+        "photo": {
+          "file": "File:Rep. Brad Finstad (R-MN), Official Portrait, 119th Congress.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services (Brendan O'Hara)"
+        }
       },
       {
         "name": "Jake Johnson",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 55, "welfare": 60, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": 75, "education": null, "faith": null},
+        "positions": {
+          "economy": 55,
+          "welfare": 60,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": 75,
+          "education": null,
+          "faith": null
+        },
         "basis": "Raise corporate taxes, fight monopolies, oppose tariffs, balanced budget amendment, oppose Medicaid and SNAP cuts, data center moratorium, right to repair.",
-        "sources": ["https://www.jakejohnsonforcongress.com/priorities"],
+        "sources": [
+          "https://www.jakejohnsonforcongress.com/priorities"
+        ],
         "photo": null
       }
     ]
@@ -61,19 +156,54 @@
         "name": "Matt Little",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 85, "welfare": 95, "liberty": 15, "security": 45, "immigration": 10, "foreign": 40, "energy": null, "tech": 65, "education": null, "faith": null},
+        "positions": {
+          "economy": 85,
+          "welfare": 95,
+          "liberty": 15,
+          "security": 45,
+          "immigration": 10,
+          "foreign": 40,
+          "energy": null,
+          "tech": 65,
+          "education": null,
+          "faith": null
+        },
         "basis": "Wealth tax, Medicare for All, replace ICE, end military aid to Israel, Equality Act and abortion rights drove liberty, opposes data center expansion, backs police with accountability.",
-        "sources": ["https://en.wikipedia.org/wiki/Matt_Little", "https://littleforcongress.com/key-issues/"],
-        "photo": {"file": "File:2026Little.jpg", "license": "CC BY-SA 4.0", "author": "Travellers & Tinkers"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Matt_Little",
+          "https://littleforcongress.com/key-issues/"
+        ],
+        "photo": {
+          "file": "File:2026Little.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Travellers & Tinkers"
+        }
       },
       {
         "name": "Eric Pratt",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": null, "welfare": null, "liberty": null, "security": 65, "immigration": 65, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": 65,
+          "immigration": 65,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Campaign stresses backing law enforcement, consistent law enforcement up to the border, and fighting fraud; few other stated positions.",
-        "sources": ["https://www.ericprattmn.com/"],
-        "photo": {"file": "File:Minnesota State Senator Eric Pratt.jpg", "license": "CC BY 2.0", "author": "Minnesota Senate Republican Caucus"}
+        "sources": [
+          "https://www.ericprattmn.com/"
+        ],
+        "photo": {
+          "file": "File:Minnesota State Senator Eric Pratt.jpg",
+          "license": "CC BY 2.0",
+          "author": "Minnesota Senate Republican Caucus"
+        }
       }
     ]
   },
@@ -87,18 +217,48 @@
         "name": "Kelly Morrison",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": null, "welfare": null, "liberty": 15, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Former OB-GYN who passed pro-choice legislation in Minnesota; abortion rights drove liberty score.",
-        "sources": ["https://en.wikipedia.org/wiki/Kelly_Morrison"],
-        "photo": {"file": "File:Representative Kelly Morrison Official Portrait.jpg", "license": "Public domain", "author": "House Creative Services (Ike Hayman)"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kelly_Morrison"
+        ],
+        "photo": {
+          "file": "File:Representative Kelly Morrison Official Portrait.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services (Ike Hayman)"
+        }
       },
       {
         "name": "Tyler Bass",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 25, "welfare": 15, "liberty": 25, "security": null, "immigration": 95, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 25,
+          "welfare": 15,
+          "liberty": 25,
+          "security": null,
+          "immigration": 95,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Deport every illegal immigrant, oppose sanctuary policies and H-1B abuse, oppose gun restrictions (drove liberty), lower property taxes, risk-based private health coverage.",
-        "sources": ["https://bassforcongress.com/"],
+        "sources": [
+          "https://bassforcongress.com/"
+        ],
         "photo": null
       }
     ]
@@ -113,18 +273,49 @@
         "name": "Betty McCollum",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 65, "welfare": 90, "liberty": 15, "security": null, "immigration": null, "foreign": 50, "energy": 75, "tech": null, "education": 85, "faith": null},
+        "positions": {
+          "economy": 65,
+          "welfare": 90,
+          "liberty": 15,
+          "security": null,
+          "immigration": null,
+          "foreign": 50,
+          "energy": 75,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
         "basis": "Health care as a right, pro-union, pro-choice and LGBTQ rights and opposes concealed carry (liberty), renewable energy bills, public education, conditions on Israel aid.",
-        "sources": ["https://mccollum.house.gov/issues", "https://en.wikipedia.org/wiki/Betty_McCollum"],
-        "photo": {"file": "File:Betty McCollum, official portrait, 116th Congress.jpg", "license": "Public domain", "author": "U.S. House Office of Photography (Franmarie Metzler)"}
+        "sources": [
+          "https://mccollum.house.gov/issues",
+          "https://en.wikipedia.org/wiki/Betty_McCollum"
+        ],
+        "photo": {
+          "file": "File:Betty McCollum, official portrait, 116th Congress.jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography (Franmarie Metzler)"
+        }
       },
       {
         "name": "Paul Wikstrom",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": 35, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": 35,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Eliminate estate tax and taxes on tips and overtime, cut regulations, expand child tax credit, cross-state insurance sales and price transparency.",
-        "sources": ["https://www.wikstromforcongress.com/"],
+        "sources": [
+          "https://www.wikstromforcongress.com/"
+        ],
         "photo": null
       }
     ]
@@ -139,18 +330,48 @@
         "name": "Ilhan Omar",
         "party": "Democratic",
         "incumbent": true,
-        "positions": {"economy": 90, "welfare": 95, "liberty": 10, "security": 10, "immigration": 5, "foreign": 25, "energy": null, "tech": 50, "education": 85, "faith": null},
+        "positions": {
+          "economy": 90,
+          "welfare": 95,
+          "liberty": 10,
+          "security": 10,
+          "immigration": 5,
+          "foreign": 25,
+          "energy": null,
+          "tech": 50,
+          "education": 85,
+          "faith": null
+        },
         "basis": "$17 minimum wage, Medicare for All, free public college, LGBTQ and abortion rights (liberty), backed police abolition, opposed border funding, cutting military spending, opposed TikTok ban.",
-        "sources": ["https://en.wikipedia.org/wiki/Ilhan_Omar"],
-        "photo": {"file": "File:Ilhan Omar, official portrait, 116th Congress (cropped) A.jpg", "license": "Public domain", "author": "U.S. House Office of Photography (Kristie Boyd)"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ilhan_Omar"
+        ],
+        "photo": {
+          "file": "File:Ilhan Omar, official portrait, 116th Congress (cropped) A.jpg",
+          "license": "Public domain",
+          "author": "U.S. House Office of Photography (Kristie Boyd)"
+        }
       },
       {
         "name": "John Nagel",
         "party": "Republican",
         "incumbent": false,
-        "positions": {"economy": 20, "welfare": null, "liberty": 25, "security": 70, "immigration": 70, "foreign": 75, "energy": 15, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 20,
+          "welfare": null,
+          "liberty": 25,
+          "security": 70,
+          "immigration": 70,
+          "foreign": 75,
+          "energy": 15,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Cut taxes and spending, fund police, secure border with faster legal immigration, defend gun and speech rights (liberty), energy dominance, strong US leadership with allies.",
-        "sources": ["https://nagelforcongress.com/"],
+        "sources": [
+          "https://nagelforcongress.com/"
+        ],
         "photo": null
       }
     ]
@@ -165,18 +386,48 @@
         "name": "Tom Emmer",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": 10, "welfare": 10, "liberty": 80, "security": null, "immigration": 85, "foreign": 65, "energy": 10, "tech": 10, "education": null, "faith": null},
+        "positions": {
+          "economy": 10,
+          "welfare": 10,
+          "liberty": 80,
+          "security": null,
+          "immigration": 85,
+          "foreign": 65,
+          "energy": 10,
+          "tech": 10,
+          "education": null,
+          "faith": null
+        },
         "basis": "Sought to end state minimum wage, defund CFPB, repeal ACA, anti-abortion and opposed LGBTQ anti-bullying law (liberty), travel ban, pro-drilling, fights crypto regulation.",
-        "sources": ["https://en.wikipedia.org/wiki/Tom_Emmer"],
-        "photo": {"file": "File:Tom Emmer Congressional Photo 2 (1).jpg", "license": "Public domain", "author": "House Creative Services (Eric Connolly)"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Tom_Emmer"
+        ],
+        "photo": {
+          "file": "File:Tom Emmer Congressional Photo 2 (1).jpg",
+          "license": "Public domain",
+          "author": "House Creative Services (Eric Connolly)"
+        }
       },
       {
         "name": "Doug Chapin",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 80, "welfare": 90, "liberty": 15, "security": null, "immigration": 20, "foreign": 35, "energy": 80, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 80,
+          "welfare": 90,
+          "liberty": 15,
+          "security": null,
+          "immigration": 20,
+          "foreign": 35,
+          "energy": 80,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Repeal tax cuts for the wealthy, Medicare for All or public option, abortion and LGBTQ rights and assault-weapon limits (liberty), citizenship pathways, restrict Israel aid, Paris Accords.",
-        "sources": ["https://chapinforcongress.com/issues"],
+        "sources": [
+          "https://chapinforcongress.com/issues"
+        ],
         "photo": null
       }
     ]
@@ -191,18 +442,50 @@
         "name": "Michelle Fischbach",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": null, "welfare": null, "liberty": 60, "security": null, "immigration": null, "foreign": 65, "energy": null, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": 60,
+          "security": null,
+          "immigration": null,
+          "foreign": 65,
+          "energy": null,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Liberty averages repeated anti-abortion legislation with strong gun-rights support; voted for Israel support after October 7.",
-        "sources": ["https://en.wikipedia.org/wiki/Michelle_Fischbach"],
-        "photo": {"file": "File:Rep. Michelle Fischbach official portrait.jpg", "license": "Public domain", "author": "House Creative Services (Leah Herman)"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Michelle_Fischbach"
+        ],
+        "photo": {
+          "file": "File:Rep. Michelle Fischbach official portrait.jpg",
+          "license": "Public domain",
+          "author": "House Creative Services (Leah Herman)"
+        }
       },
       {
         "name": "Erik Osberg",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": null, "welfare": 75, "liberty": 30, "security": null, "immigration": null, "foreign": null, "energy": 80, "tech": null, "education": 85, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": 75,
+          "liberty": 30,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 80,
+          "tech": null,
+          "education": 85,
+          "faith": null
+        },
         "basis": "Universal care goal and Medicare at 55, abortion rights plus background checks and red-flag laws (liberty), wind and solar investment, EPA enforcement, more public school funding.",
-        "sources": ["https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/", "https://www.erikosberg4congress.com/priorities/environmental-stewardship/", "https://www.erikosberg4congress.com/priorities/strengthening-public-education/"],
+        "sources": [
+          "https://www.erikosberg4congress.com/priorities/healthcare-for-everyone/",
+          "https://www.erikosberg4congress.com/priorities/environmental-stewardship/",
+          "https://www.erikosberg4congress.com/priorities/strengthening-public-education/"
+        ],
         "photo": null
       }
     ]
@@ -217,18 +500,48 @@
         "name": "Pete Stauber",
         "party": "Republican",
         "incumbent": true,
-        "positions": {"economy": null, "welfare": null, "liberty": null, "security": null, "immigration": null, "foreign": null, "energy": 10, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": null,
+          "welfare": null,
+          "liberty": null,
+          "security": null,
+          "immigration": null,
+          "foreign": null,
+          "energy": 10,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Authored bill ending Boundary Waters mineral withdrawal to allow copper-nickel mining and opposed Haaland over opposition to oil drilling.",
-        "sources": ["https://en.wikipedia.org/wiki/Pete_Stauber"],
-        "photo": {"file": "File:Pete Stauber 118th Congress (cropped).jpeg", "license": "Public domain", "author": "House Creative Services (Nate Payne)"}
+        "sources": [
+          "https://en.wikipedia.org/wiki/Pete_Stauber"
+        ],
+        "photo": {
+          "file": "File:Pete Stauber 118th Congress (cropped).jpeg",
+          "license": "Public domain",
+          "author": "House Creative Services (Nate Payne)"
+        }
       },
       {
         "name": "Trina Swanson",
         "party": "Democratic",
         "incumbent": false,
-        "positions": {"economy": 65, "welfare": 85, "liberty": null, "security": null, "immigration": 30, "foreign": null, "energy": 70, "tech": null, "education": null, "faith": null},
+        "positions": {
+          "economy": 65,
+          "welfare": 85,
+          "liberty": null,
+          "security": null,
+          "immigration": 30,
+          "foreign": null,
+          "energy": 70,
+          "tech": null,
+          "education": null,
+          "faith": null
+        },
         "basis": "Antitrust enforcement and fair corporate taxes, universal healthcare, secure but humane border with earned citizenship, clean energy investment, protect Boundary Waters from mining.",
-        "sources": ["https://www.trinaforcongress.com/priorities/"],
+        "sources": [
+          "https://www.trinaforcongress.com/priorities/"
+        ],
         "photo": null
       }
     ]
