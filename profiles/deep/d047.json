@@ -1,0 +1,1073 @@
+[
+ {
+  "id": "AK-SEN/gerald-l-heikes",
+  "name": "Gerald L. Heikes",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Gerald L. (Jerry) Heikes of Palmer is a perennial candidate who has previously run for governor and the U.S. House. He finished fifth in Alaska's August 2026 nonpartisan primary and was placed on the November ballot after the fourth-place finisher withdrew.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public record of his own policy statements found; a super PAC promoted him as more conservative than the incumbent, but that is not his own statement. Sources: ADN, Alaska Public Media, themidtermproject.org."
+ },
+ {
+  "id": "CO-SEN/bob-chew",
+  "name": "Bob Chew",
+  "party": "Forward",
+  "current_role": "",
+  "bio": "Bob Chew of Boulder is a former nuclear submarine officer who co-founded an engineering services company with his wife and sold it to employees through an ESOP in 2008. He switched his registration from Republican to the Forward Party in 2025 and has put more than $1 million of his own money into the campaign.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Affordability",
+    "point": "Says most affordability problems stem from government actions such as tariffs, regulation and the national debt.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Says Colorado's electricity prices are high because the state rushed toward a greener future instead of a measured, planned approach.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Says immigrants are helpful to society and the economy, and proposes that states choose visa categories annually with federal funding for migrant support.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/"
+   },
+   {
+    "topic": "Senate rules",
+    "point": "Would keep the filibuster and restore the 60-vote threshold for judges.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Says most affordability challenges come from government actions such as tariffs and regulation, and wants lower debt.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 45,
+    "evidence": "Says immigrants are helpful over the long term; proposes states pick visa categories each year, federal government funds support.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 35,
+    "evidence": "Says Colorado ran headlong into a greener future and prefers a more measured, planned approach.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-robert-chew-voter-guide/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Personal campaign website not verified."
+ },
+ {
+  "id": "CO-GOV/greg-lopez",
+  "name": "Greg Lopez",
+  "party": "Unaffiliated",
+  "current_role": "Former U.S. Representative (CO-4, 2024)",
+  "bio": "Greg Lopez is a businessman from Elizabeth, a former mayor of Parker, former Small Business Administration official and Air Force veteran. He won a 2024 special election to finish a U.S. House term, lost Republican gubernatorial primaries in 2018 and 2022, and left the GOP in 2026 to run unaffiliated.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Guiding approach",
+    "point": "Campaigns on 'People over politics, do no harm and do what works.'",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-greg-lopez-voter-guide/"
+   },
+   {
+    "topic": "Budget",
+    "point": "Supports zero-based budgeting and fewer new laws each session.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-greg-lopez-voter-guide/"
+   },
+   {
+    "topic": "Housing and gas prices",
+    "point": "Wants to lower gas prices and incentivize construction of 25,000 starter homes.",
+    "source": "https://www.the-journal.com/articles/former-u-s-rep-makes-unaffiliated-bid-for-colorado-governor/"
+   },
+   {
+    "topic": "Priorities",
+    "point": "Names affordability, education and crime as his top three issues.",
+    "source": "https://www.the-journal.com/articles/former-u-s-rep-makes-unaffiliated-bid-for-colorado-governor/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Supports zero-based budgeting and says hundreds of new laws a year drive up spending.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-greg-lopez-voter-guide/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Detailed positions on most domains not found; campaign website not verified."
+ },
+ {
+  "id": "FL-GOV/moliere-moe-dimanche",
+  "name": "Moliere \"Moe\" Dimanche",
+  "party": "No Party Affiliation",
+  "current_role": "",
+  "bio": "Moliere 'Moe' Dimanche is a Florida-born author and prison reform activist who describes himself as the first Haitian-American candidate for Florida governor. He has filed public corruption lawsuits and is running with no party affiliation with running mate Benjiman Rojas.",
+  "website": "https://nomoecorruption.com",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Corruption and courts",
+    "point": "Centers his campaign on ending public corruption and changing how judges are chosen.",
+    "source": "https://votetheperson.org/candidates/moliere-dimanche/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports law-abiding migrants and a common-sense approach to illegal immigration; opposes local police using city resources for federal immigration enforcement.",
+    "source": "https://votetheperson.org/candidates/moliere-dimanche/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Campaign says he wants to slash bloated government.",
+    "source": "https://votetheperson.org/candidates/moliere-dimanche/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 40,
+    "evidence": "Backs law-abiding migrants and a common-sense approach to illegal immigration; opposes local police doing federal enforcement.",
+    "source": "https://votetheperson.org/candidates/moliere-dimanche/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Website nomoecorruption.com taken from a third-party listing, not fetched. Few documented positions."
+ },
+ {
+  "id": "IL-SEN/whitfield-harrington",
+  "name": "Whitfield Harrington",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Whitfield Harrington Jr. is a Chicago pastor, born in Mississippi, who previously worked in banking and ran an insurance practice. He is running as an independent and says he is helping form the American Center Party.",
+  "website": "https://whit4ilsenate.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Centrist pitch",
+    "point": "Says Illinois needs a senator who governs from the center, not the extremes.",
+    "source": "https://www.cbsnews.com/chicago/news/who-is-running-us-senate-illinois-general-election-2026/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports immigration enforcement and border security but says ICE should be reined in when conduct is excessive.",
+    "source": "https://www.cbsnews.com/chicago/news/who-is-running-us-senate-illinois-general-election-2026/"
+   },
+   {
+    "topic": "Schools",
+    "point": "Supports school choice.",
+    "source": "https://www.cbsnews.com/chicago/news/who-is-running-us-senate-illinois-general-election-2026/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Supports voter ID laws and opposes universal mail-in voting.",
+    "source": "https://www.cbsnews.com/chicago/news/who-is-running-us-senate-illinois-general-election-2026/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 30,
+    "evidence": "Supports abortion rights and sealing records for nonviolent offenders.",
+    "source": "https://www.cbsnews.com/chicago/news/who-is-running-us-senate-illinois-general-election-2026/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 60,
+    "evidence": "Supports enforcement and securing the border, while saying ICE must be reined in when excessive.",
+    "source": "https://www.cbsnews.com/chicago/news/who-is-running-us-senate-illinois-general-election-2026/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Supports school choice.",
+    "source": "https://www.cbsnews.com/chicago/news/who-is-running-us-senate-illinois-general-election-2026/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Issue positions come from a search summary attributed to CBS Chicago; the campaign site fetched showed only a slogan ('Renovate the American Dream'). Verify against the article."
+ },
+ {
+  "id": "MI-SEN/douglas-marsh",
+  "name": "Douglas Marsh",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Douglas P. Marsh is the Green Party nominee for U.S. Senate in Michigan. He has worked continuously since age 13 and lists study at the University of Michigan.",
+  "website": "https://electmarsh.us",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Supports single-payer health care.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-senator-mi-state/candidates/douglas-p-marsh"
+   },
+   {
+    "topic": "Housing",
+    "point": "Opposes private equity ownership of residential property and wants rents tied to prevailing wages.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-senator-mi-state/candidates/douglas-p-marsh"
+   },
+   {
+    "topic": "Energy",
+    "point": "Strongly supports prioritizing green energy and stopping Line 5.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Strongly supports staying out of foreign wars.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   },
+   {
+    "topic": "Guns",
+    "point": "Strongly supports an absolute right to gun ownership.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Supports higher taxes on the wealthy.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Supports single-payer health care and stable affordable housing for all.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-senator-mi-state/candidates/douglas-p-marsh"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Strongly supports abortion as an unrestricted right and supports LGBTQ+ rights.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   },
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Supports a pathway to citizenship for people here illegally.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   },
+   "foreign": {
+    "score": 10,
+    "evidence": "Strongly supports staying out of foreign wars and opposes 'peace through strength.'",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   },
+   "energy": {
+    "score": 90,
+    "evidence": "Strongly supports prioritizing green energy.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   },
+   "tech": null,
+   "education": {
+    "score": 80,
+    "evidence": "Strongly opposes vouchers for school choice.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   },
+   "faith": {
+    "score": 15,
+    "evidence": "Opposes the statement that America was founded on Christian values.",
+    "source": "https://www.ontheissues.org/Archive/2026_MI_Senate_Douglas_P__Marsh.htm"
+   }
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Answers come from an OnTheIssues email interview dated Sept 22, 2026. Website electmarsh.us from iVoterGuide, not fetched."
+ },
+ {
+  "id": "MI-GOV/donna-brandenburg",
+  "name": "Donna Brandenburg",
+  "party": "U.S. Taxpayers",
+  "current_role": "U.S. Taxpayers Party of Michigan chair",
+  "bio": "Donna Brandenburg is a businesswoman with a degree from Western Michigan University and chairs the U.S. Taxpayers Party of Michigan. She was removed from the 2022 Republican primary ballot over petition signatures, then ran as the Taxpayers nominee, and is the party's 2026 nominee with Mellissa Carone as running mate.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Wants to eliminate or reduce property taxes and the state income tax and end corporate welfare.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   },
+   {
+    "topic": "Government efficiency",
+    "point": "Proposes a state Department of Government Efficiency.",
+    "source": "https://www.newsfromthestates.com/article/donna-brandenburg-run-us-taxpayers-party-michigan-gov-candidate%C2%A0"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Keep Medicaid and Medicare, but no other taxpayer-funded health programs.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports vouchers, tax credits, charter, private and home schools.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Would allow abortion only when the mother's life is in danger.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   },
+   {
+    "topic": "Elections",
+    "point": "Calls for a full forensic audit of the 2020 election.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Wants to eliminate property and state income taxes and corporate welfare.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   },
+   "welfare": {
+    "score": 25,
+    "evidence": "Medicaid and Medicare stay, but no other taxpayer-funded programs are necessary.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   },
+   "liberty": {
+    "score": 75,
+    "evidence": "Abortion only when the mother's life is in danger; no funds for abortion providers.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Strongly supports school choice incl. vouchers and homeschooling; opposes guaranteed taxpayer-funded education through college.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-governor-mi-state/candidates/donna-brandenburg"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions via third-party voter-guide pages (branch.vote, iVoterGuide); no campaign site found. Immigration/energy positions seen only as party platform, not scored."
+ },
+ {
+  "id": "NE-SEN/mike-marvin",
+  "name": "Mike Marvin",
+  "party": "Legal Marijuana NOW",
+  "current_role": "",
+  "bio": "Mike Marvin of Omaha, 71, is a former executive director of the Nebraska Association of Public Employees and the Legal Marijuana NOW nominee. He suspended his campaign in August 2026 citing health, endorsed Dan Osborn, and remains on the ballot.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Marijuana",
+    "point": "Made legalizing medical and recreational marijuana his top priority.",
+    "source": "https://nebraskaexaminer.com/2026/08/21/nebraska-legal-marijuana-now-senate-candidate-endorses-osborn-after-suspending-campaign/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 30,
+    "evidence": "Top priority was legalizing medical and recreational marijuana.",
+    "source": "https://nebraskaexaminer.com/2026/08/21/nebraska-legal-marijuana-now-senate-candidate-endorses-osborn-after-suspending-campaign/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Campaign suspended; says he no longer seeks votes. Only one issue documented."
+ },
+ {
+  "id": "NC-SEN/shannon-wilson-bray",
+  "name": "Shannon Wilson Bray",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Shannon Bray is a Navy veteran, cybersecurity professional and technology consultant in North Carolina, running a volunteer-led Libertarian campaign. His platform stresses digital privacy, government accountability, national security and modernization.",
+  "website": "https://www.shannonbray.us",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Privacy and civil liberties",
+    "point": "Says rights can be protected without building a surveillance state.",
+    "source": "https://www.shannonbray.us/"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Calls for transparency, oversight and responsible spending.",
+    "source": "https://www.shannonbray.us/"
+   },
+   {
+    "topic": "National security",
+    "point": "Advocates strong defense with constitutional restraint.",
+    "source": "https://www.shannonbray.us/"
+   },
+   {
+    "topic": "Technology",
+    "point": "Wants modern government systems that work for citizens.",
+    "source": "https://www.shannonbray.us/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 20,
+    "evidence": "Says to protect people without building a surveillance state or surrendering liberty.",
+    "source": "https://www.shannonbray.us/"
+   },
+   "immigration": null,
+   "foreign": {
+    "score": 40,
+    "evidence": "Slogan: strong defense with constitutional restraint.",
+    "source": "https://www.shannonbray.us/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Issue subpages not read in detail."
+ },
+ {
+  "id": "OK-SEN/curtis-stinnett",
+  "name": "Curtis Stinnett",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Curtis Stinnett is a Tulsa pharmacist and graduate of Southwestern Oklahoma State University running as an independent in his first campaign. He says money in politics is the main obstacle to better government and takes no donations.",
+  "website": "https://www.stinnettforsenate.org",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Supports Medicare for All, folding Medicaid, TRICARE and VA coverage into Medicare.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   },
+   {
+    "topic": "Wages",
+    "point": "Supports a locally adjusted living wage.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Backs public financing and a constitutional amendment reversing Citizens United.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   },
+   {
+    "topic": "Abortion",
+    "point": "Supports restoring Roe v. Wade.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   },
+   {
+    "topic": "Israel and Gaza",
+    "point": "Calls for halting U.S. military aid to Israel until specified conditions are met.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Supports a living wage and restrictions on corporate political spending.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Supports Medicare for All and universal programs; healthcare is a human right.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Supports restoring Roe v. Wade.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 25,
+    "evidence": "Calls for halting military aid to Israel until Gaza operations cease.",
+    "source": "https://www.stinnettforsenate.org/main-ideas"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Foreign-policy and reparations details come from a third-party summary (centristindependentvoter.com)."
+ },
+ {
+  "id": "PA-GOV/ken-krawchuk",
+  "name": "Ken Krawchuk",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Ken Krawchuk is a computer programmer and entrepreneur from the Philadelphia suburbs and the Libertarian nominee for governor, with John Thomas as running mate. This is his third run for governor after 1998 and 2002.",
+  "website": "https://www.kenk4pa.com",
+  "social": {
+   "facebook": "https://www.facebook.com/KenK4Pa/"
+  },
+  "platform": [
+   {
+    "topic": "Schools and property tax",
+    "point": "Proposes privatizing public schools, giving each student an $11,000 account, which would eliminate most property tax.",
+    "source": "https://www.kenk4pa.com/issues/education/"
+   },
+   {
+    "topic": "Taxes",
+    "point": "Would veto tax increases and pork-barrel spending.",
+    "source": "https://www.kenk4pa.com/issues/taxes/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Favors property-rights liability over regulation, untaxed fracking, and deregulated electricity.",
+    "source": "https://www.kenk4pa.com/issues/environment/"
+   },
+   {
+    "topic": "Drugs and crime",
+    "point": "Decriminalize marijuana, pardon nonviolent drug offenders, end parole for violent criminals.",
+    "source": "https://www.kenk4pa.com/issues/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Defend the right to keep and bear arms.",
+    "source": "https://www.kenk4pa.com/issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Calls property tax the worst tax and would veto tax increases and pork spending.",
+    "source": "https://www.kenk4pa.com/issues/taxes/"
+   },
+   "welfare": {
+    "score": 20,
+    "evidence": "Page headline: reform the costly welfare state.",
+    "source": "https://www.kenk4pa.com/issues/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Supports marijuana decriminalization and all varieties of marriage.",
+    "source": "https://www.kenk4pa.com/issues/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Favors property-rights liability over regulation and deregulated electricity markets.",
+    "source": "https://www.kenk4pa.com/issues/environment/"
+   },
+   "tech": null,
+   "education": {
+    "score": 5,
+    "evidence": "Proposes privatizing public schools with $11,000 per-student accounts.",
+    "source": "https://www.kenk4pa.com/issues/education/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Welfare page body not read (404 on fetch); score based on issues index headline."
+ },
+ {
+  "id": "TN-GOV/david-hatley",
+  "name": "David Hatley",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "David Hatley is an East Tennessee entrepreneur, owner and CEO of a pool and hot tub manufacturer, running as an independent. He has loaned his campaign about $7 million and calls himself conservative but not fully aligned with either party.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Platform",
+    "point": "Runs on 'Elevate Tennessee': economic expansion, workforce development and domestic manufacturing.",
+    "source": "https://www.actionnews5.com/2026/09/26/hatley-condemns-graffiti-campaign-headquarters-outlines-independent-bid-governor/"
+   },
+   {
+    "topic": "Vouchers",
+    "point": "Would freeze the school voucher program while evaluating it.",
+    "source": "https://tennesseelookout.com/2026/09/15/spoilers-or-contenders-two-independent-candidates-for-tn-governor-try-to-shake-up-the-race/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports state cooperation with federal immigration enforcement.",
+    "source": "https://nashvillebanner.com/2026/09/15/david-hatley-tennessee-governor-campaign/"
+   },
+   {
+    "topic": "State finances",
+    "point": "Would replace the comptroller with an elected state auditor and publish state spending.",
+    "source": "https://nashvillebanner.com/2026/09/15/david-hatley-tennessee-governor-campaign/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 70,
+    "evidence": "Supports state cooperation with federal immigration enforcement.",
+    "source": "https://nashvillebanner.com/2026/09/15/david-hatley-tennessee-governor-campaign/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 60,
+    "evidence": "Would freeze the voucher program to evaluate it and raise public teacher pay.",
+    "source": "https://nashvillebanner.com/2026/09/15/david-hatley-tennessee-governor-campaign/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Declined a 30-issue questionnaire. Past bad-check conviction and 2009 bankruptcy reported by the Nashville Banner."
+ },
+ {
+  "id": "TN-GOV/dave-seeman",
+  "name": "Dave Seeman",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Dave Seeman is a Nashville mechanical engineer, entrepreneur and designer running as an independent. He wrote a platform called The Volunteer Plan built on five commitments covering care, climate, communities and costs.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Children",
+    "point": "Proposes a sovereign wealth fund, Future Families, to pay for what a Tennessee child needs.",
+    "source": "https://daughteroftennessee.substack.com/p/a-letter-from-dave-seeman-to-tennessee"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Supports expanding TennCare to 138% of the poverty level.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   {
+    "topic": "Education",
+    "point": "Opposes Education Savings Accounts and would redirect the funds to public schools.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   {
+    "topic": "Guns",
+    "point": "Supports universal background checks, safe storage and extreme risk protection orders.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Says no resident should be denied medical care or K-12 education regardless of status.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Backs incentive clawbacks and a sovereign wealth fund for children.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   "welfare": {
+    "score": 80,
+    "evidence": "Strongly supports expanding TennCare to 138% of poverty with dental, vision and behavioral coverage.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   "liberty": {
+    "score": 20,
+    "evidence": "Strongly agrees Tennessee should expand abortion access.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   "security": null,
+   "immigration": {
+    "score": 20,
+    "evidence": "No denial of care or schooling by status; redirect local police from federal enforcement.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   "foreign": null,
+   "energy": {
+    "score": 75,
+    "evidence": "Plans climate steps incl. carbon sequestration and conservation.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   "tech": null,
+   "education": {
+    "score": 85,
+    "evidence": "Strongly opposes ESAs; redirect $144M to public schools.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   },
+   "faith": {
+    "score": 10,
+    "evidence": "Strongly agrees government must stay neutral on religion.",
+    "source": "https://indivisibletricitiestninc.substack.com/p/2026-gubernatorial-candidate-questionnaire-a82"
+   }
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Questionnaire from Indivisible Tri-Cities (summary fetched via tool)."
+ },
+ {
+  "id": "WY-GOV/rebecca-bextel",
+  "name": "Rebecca Bextel",
+  "party": "Constitution",
+  "current_role": "",
+  "bio": "Rebecca Bextel is a Teton County conservative activist and former Republican precinct and state committeewoman, running as the Constitution Party nominee. She has lived in Wyoming over 20 years, runs a small business and was at the center of the 'Checkgate' ethics controversy.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Budget",
+    "point": "Says she would submit a disciplined budget and audit grants and subsidies for results.",
+    "source": "https://www.wyodaily.com/story/2026/10/01/news/governor-candidates-rebecca-bextel-constitution/18289.html"
+   },
+   {
+    "topic": "Energy",
+    "point": "Would defend Wyoming energy industries and pull back regulation.",
+    "source": "https://www.wyodaily.com/story/2026/10/01/news/governor-candidates-rebecca-bextel-constitution/18289.html"
+   },
+   {
+    "topic": "Property tax",
+    "point": "Supports eliminating residential property taxes.",
+    "source": "https://www.wyomingnews.com/news/local_news/bextel-pitches-herself-as-conservative-alternative/article_09165620-4282-4e65-aa9f-f7ca6c1bf99b.html"
+   },
+   {
+    "topic": "Federal authority",
+    "point": "Says federal government should not dictate Wyoming land, water, energy and wildlife decisions.",
+    "source": "https://www.wyodaily.com/story/2026/10/01/news/governor-candidates-rebecca-bextel-constitution/18289.html"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 30,
+    "evidence": "Would audit subsidies and grants and supports eliminating residential property taxes.",
+    "source": "https://www.wyodaily.com/story/2026/10/01/news/governor-candidates-rebecca-bextel-constitution/18289.html"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Opposes 'woke green energy policies' and would pull back energy regulation.",
+    "source": "https://www.wyodaily.com/story/2026/10/01/news/governor-candidates-rebecca-bextel-constitution/18289.html"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Property-tax claim from search summary of Wyoming news article. Website not verified."
+ },
+ {
+  "id": "LA-3/kate-cotten",
+  "name": "Kate Cotten",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Kate Cotten is a Republican on the November 3 jungle-primary ballot in Louisiana's 3rd District, which also includes Republican incumbent Clay Higgins, several Democrats and one unaffiliated candidate. A runoff is set for December 12 if no one wins a majority.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Almost no public information found about her background or positions."
+ },
+ {
+  "id": "MD-6/moshe-y-landman",
+  "name": "Moshe Y. Landman",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Moshe Landman is a Maryland native and attorney with a B.A. from Yeshiva University, an M.B.A. from George Mason and a J.D. from Georgetown. He founded Landman Law and two small businesses, ran for state senate in 2022 and Congress in 2024, and is the Green nominee in MD-6.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Climate",
+    "point": "Aims for net-zero greenhouse gas emissions and preserving natural resources.",
+    "source": "https://www.localcandidates.org/politicians/moshe-landman/about/5929f9ef-7cb4-47da-9de8-2327358b3bd7"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Supports a universal healthcare system.",
+    "source": "https://www.localcandidates.org/politicians/moshe-landman/about/5929f9ef-7cb4-47da-9de8-2327358b3bd7"
+   },
+   {
+    "topic": "Military spending",
+    "point": "Wants significant cuts to military spending.",
+    "source": "https://www.localcandidates.org/politicians/moshe-landman/about/5929f9ef-7cb4-47da-9de8-2327358b3bd7"
+   },
+   {
+    "topic": "Jobs and taxes",
+    "point": "Seeks 100% employment and a fair tax system.",
+    "source": "https://www.localcandidates.org/politicians/moshe-landman/about/5929f9ef-7cb4-47da-9de8-2327358b3bd7"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 60,
+    "evidence": "Seeks 100% employment and a fair tax system.",
+    "source": "https://www.localcandidates.org/politicians/moshe-landman/about/5929f9ef-7cb4-47da-9de8-2327358b3bd7"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Supports a universal healthcare system.",
+    "source": "https://www.localcandidates.org/politicians/moshe-landman/about/5929f9ef-7cb4-47da-9de8-2327358b3bd7"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 20,
+    "evidence": "Wants significant cuts to military spending.",
+    "source": "https://www.localcandidates.org/politicians/moshe-landman/about/5929f9ef-7cb4-47da-9de8-2327358b3bd7"
+   },
+   "energy": {
+    "score": 90,
+    "evidence": "Goal of net-zero greenhouse gas emissions.",
+    "source": "https://www.localcandidates.org/politicians/moshe-landman/about/5929f9ef-7cb4-47da-9de8-2327358b3bd7"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Page returned 403 to fetch; platform taken from search-result summary of the candidate's profile. Verify."
+ },
+ {
+  "id": "MI-5/ronald-muszynski",
+  "name": "Ronald Muszynski",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Ronald Muszynski is an engineering technician and frequent candidate nominated by the Michigan Libertarian convention on June 29, 2026 for MI-5. He faces Republican incumbent Tim Walberg and Democrat Christian Vukasovich.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No personal statements or platform found."
+ },
+ {
+  "id": "MI-8/jim-casha",
+  "name": "Jim Casha",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Jim Casha is the Green Party nominee in Michigan's 8th District. In 2024 coverage he ran his campaign from Tillsonburg, Ontario, and said he would move to Michigan if elected. He has worked on prenatal alcohol exposure as an issue for years.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Residency and bio details come from 2024 coverage and may be outdated; no policy platform found."
+ },
+ {
+  "id": "MI-9/jim-walkowicz",
+  "name": "Jim Walkowicz",
+  "party": "Working Class Party",
+  "current_role": "",
+  "bio": "Jim Walkowicz is a retired Michigan Department of Health and Human Services employee and former union representative. He is the Working Class Party nominee in MI-9 and ran for the seat in 2022 and 2024. He says he will not accept donations over $999 a year.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Campaign funding",
+    "point": "Will not accept donations over $999 per year.",
+    "source": "https://www.ballotready.org/people/jim-walkowicz"
+   },
+   {
+    "topic": "Accountability",
+    "point": "Says he would take major decisions to voters through verified polling and town halls.",
+    "source": "https://www.ballotready.org/people/jim-walkowicz"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Issue-level positions not found; Working Class Party pages did not expose his statement text."
+ },
+ {
+  "id": "MI-11/anil-kumar",
+  "name": "Anil Kumar",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Anil Kumar is a urologist and elected member of the Wayne State University Board of Governors who previously ran for Congress as a Democrat and now runs as an independent in Michigan's 11th District, citing healthcare and education concerns.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Search results mixed 2024 and 2026 coverage (including a 2024 endorsement of a Democrat); candidacy and positions for 2026 not confirmed."
+ },
+ {
+  "id": "MI-13/simone-coleman",
+  "name": "Simone Coleman",
+  "party": "Working Class Party",
+  "current_role": "",
+  "bio": "Simone Coleman is a retired county worker and Working Class Party nominee in Michigan's 13th District, covering Detroit's east side, Hamtramck, Highland Park and downriver suburbs. She ran for the seat in 2022 and 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Candidate statement text not accessible; no sourced positions."
+ },
+ {
+  "id": "NJ-7/lana-leguia",
+  "name": "Lana Leguia",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Lana Leguia is a Libertarian candidate for NJ-7. Her name was removed from the printed ballot after courts found most petition signatures invalid, and she is running as a write-in.",
+  "website": "https://lanaforcongress.com",
+  "social": {
+   "x": "https://x.com/LeguiaNJLiberty"
+  },
+  "platform": [
+   {
+    "topic": "Spending and regulation",
+    "point": "Pledges to fight inflation from federal spending and dismantle the regulatory state.",
+    "source": "https://lanaforcongress.com/"
+   },
+   {
+    "topic": "Civil liberties",
+    "point": "Promises to defend civil liberties and end unconstitutional government overreach.",
+    "source": "https://lanaforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Pledges to dismantle the sprawling regulatory state and end reckless federal spending.",
+    "source": "https://lanaforcongress.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Not on the printed ballot per NJ Globe; write-in only, despite the state certification listing. Detailed platform page not read."
+ }
+]

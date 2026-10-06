@@ -1,0 +1,956 @@
+[
+ {
+  "id": "AZ-GOV/teri-ann-hourihan",
+  "name": "Teri Ann Hourihan",
+  "party": "No Labels",
+  "current_role": "Mental health counselor",
+  "bio": "Phoenix licensed therapist and counselor who won the Arizona No Labels Party gubernatorial primary in July 2026 with under $30,000 raised. She says she does not take PAC or corporate money and campaigns on rooting out corruption in state agencies.",
+  "website": "https://teriann4azgov.org/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Corruption",
+    "point": "Says rooting out corruption and overreach in state agencies is her top priority.",
+    "source": "https://ktar.com/arizona-politics-news/election/teri-hourihan-governor"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports a universal ESA education program.",
+    "source": "https://www.azvoterguide.com/candidate/hourihan-teri-ann/"
+   },
+   {
+    "topic": "Border",
+    "point": "Supports enhanced enforcement of border crossings.",
+    "source": "https://www.azvoterguide.com/candidate/hourihan-teri-ann/"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Does not accept PAC or corporate funding.",
+    "source": "https://teriann4azgov.org/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "Supports repealing Arizona's constitutional abortion right and opposes expanded recreational marijuana, per her voter-guide answers.",
+    "source": "https://www.azvoterguide.com/candidate/hourihan-teri-ann/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 65,
+    "evidence": "Supports enhanced enforcement of border crossings.",
+    "source": "https://www.azvoterguide.com/candidate/hourihan-teri-ann/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Supports social media age verification and parental consent protections.",
+    "source": "https://www.azvoterguide.com/candidate/hourihan-teri-ann/"
+   },
+   "education": {
+    "score": 15,
+    "evidence": "Supports a universal Education Savings Account program.",
+    "source": "https://www.azvoterguide.com/candidate/hourihan-teri-ann/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Website issue pages exist (taxes, healthcare, water, data centers) but details were not retrievable; economy, welfare, energy not scored."
+ },
+ {
+  "id": "CO-GOV/stephen-t-hamilton",
+  "name": "Stephen T. Hamilton",
+  "party": "American Constitution",
+  "current_role": "Truck driver",
+  "bio": "Truck driver based in Canon City, Colorado, running for governor on the American Constitution Party line with James Karl Treibert as lieutenant governor running mate. Little public information on his positions was found.",
+  "website": "",
+  "social": {
+   "instagram": "https://www.instagram.com/hamiltonstephen2279/"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No issue statements found in CPR voter guide (links only to his Instagram). Little public information."
+ },
+ {
+  "id": "FL-GOV/scott-eckhard-jewett",
+  "name": "Scott Eckhard Jewett",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Libertarian nominee for Florida governor, running a 'Libertarian 2.0' campaign that pairs lower taxes and regulation with support for essential social programs. His priorities include homeowners' insurance reform, ending property taxes on homesteaded homes, nuclear power, immigration and criminal-justice reform, and school choice.",
+  "website": "https://scottjewett.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Property tax",
+    "point": "Eliminate property taxes on homesteaded homes.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Oppose Flock cameras and warrantless license-plate tracking.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   {
+    "topic": "Education",
+    "point": "Funding follows the student; parents choose.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Supports nuclear as part of Florida's energy future.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Supports constitutional carry and open carry.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Secure borders with simpler, faster legal immigration.",
+    "source": "https://scottjewett.com/the-issues/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Wants to cut taxes and regulations and eliminate property taxes on homesteaded homes.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   "welfare": {
+    "score": 40,
+    "evidence": "Describes his platform as combining conservative fiscal policy with support for essential social programs.",
+    "source": "https://floridianpress.com/2025/11/scott-jewett-announces-libertarian-2-0-bid-for-florida-governor/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Says abortion should be left to individuals and their doctors, with no government involvement.",
+    "source": "https://scottjewett.com/the-truth-about-scott-jewett-for-florida-governor-2026/"
+   },
+   "security": {
+    "score": 10,
+    "evidence": "Opposes Flock cameras and license-plate-reader networks that track people without warrants.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   "immigration": {
+    "score": 55,
+    "evidence": "Supports secure borders with enforcement aimed at criminals and traffickers, plus simpler legal immigration.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 45,
+    "evidence": "Says data centers should pay their own way for power, water, land and grid upgrades.",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   "education": {
+    "score": 15,
+    "evidence": "'Parents decide. Funding should follow the student.'",
+    "source": "https://scottjewett.com/the-issues/"
+   },
+   "faith": {
+    "score": 10,
+    "evidence": "Wants zero government involvement in religion, treating faith as a personal choice.",
+    "source": "https://scottjewett.com/the-truth-about-scott-jewett-for-florida-governor-2026/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Abortion/religion sources are the candidate's own site page (read via search summary)."
+ },
+ {
+  "id": "ID-SEN/matt-loesby",
+  "name": "Matt Loesby",
+  "party": "Libertarian",
+  "current_role": "Software developer; Libertarian Party of Idaho region 2 chair",
+  "bio": "Libertarian nominee for US Senate in Idaho, a software and video game developer and a regional chair of the Idaho Libertarian Party. He is challenging Republican incumbent Jim Risch.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Drug policy",
+    "point": "De-schedule all controlled substances and redirect the DEA to organized crime.",
+    "source": "https://idahonews.com/politics/know-your-candidates/2026-idaho-election-candidate-survey"
+   },
+   {
+    "topic": "Military",
+    "point": "Defund overseas bases and recall troops.",
+    "source": "https://idahocapitalsun.com/2026/09/30/idaho-us-senate-candidates-weigh-in-on-tariffs-iran-war-federal-spending-and-more/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 5,
+    "evidence": "Says he would push to de-schedule all substances and restore Right to Try without FDA permission.",
+    "source": "https://idahonews.com/politics/know-your-candidates/2026-idaho-election-candidate-survey"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 0,
+    "evidence": "Says the US should defund all overseas military bases and bring troops home.",
+    "source": "https://idahocapitalsun.com/2026/09/30/idaho-us-senate-candidates-weigh-in-on-tariffs-iran-war-federal-spending-and-more/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Pages fetched blocked (403); statements taken from search result summaries. No campaign site found."
+ },
+ {
+  "id": "KY-SEN/christopher-todd-campbell",
+  "name": "Christopher Todd Campbell",
+  "party": "Kentucky Party",
+  "current_role": "Kentucky Party executive committee member",
+  "bio": "Kentucky Party nominee for US Senate, a former Kentucky National Guard member who has worked in hospitals, health departments and nursing homes. He describes his platform as anti-corruption, anti-war and pro-Kentucky.",
+  "website": "https://candidates.goodparty.org/campbell4congress2026",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Anti-corruption",
+    "point": "Runs on an anti-corruption, anti-war, pro-Kentucky platform.",
+    "source": "https://www.forwardky.com/new-political-party-puts-forward-candidate-for-u-s-senate-seat/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 30,
+    "evidence": "Campaign slogan describes the platform as 'Anti-War'; no specifics found.",
+    "source": "https://www.forwardky.com/new-political-party-puts-forward-candidate-for-u-s-senate-seat/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "iVoterGuide shows no answers; GoodParty page content not retrievable; Forward Kentucky page returned 403 (slogan from search summary)."
+ },
+ {
+  "id": "MI-SEN/tim-long",
+  "name": "Tim Long",
+  "party": "U.S. Taxpayers",
+  "current_role": "",
+  "bio": "U.S. Taxpayers Party (Constitution Party affiliate) nominee for US Senate in Michigan, nominated at the July 18, 2026 party convention. He previously ran for Wayne County Commission in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No issue statements found in candidate-sourced material; one third-party AI-generated summary was not used. Little public information."
+ },
+ {
+  "id": "MN-SEN/marisa-simonetti",
+  "name": "Marisa Simonetti",
+  "party": "Independent",
+  "current_role": "CEO",
+  "bio": "Independent candidate for US Senate in Minnesota from Plymouth, a 33-year-old who describes herself as a business owner and refuses party or corporate donor backing. She campaigns on constitutional rights, government accountability and breaking up corporate monopolies.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Rights",
+    "point": "Defend constitutional rights against institutional overreach and surveillance.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   {
+    "topic": "Monopolies",
+    "point": "Break up corporate monopolies that raise the cost of living.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   {
+    "topic": "Border",
+    "point": "Strict enforcement of borders.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Proposes breaking up state-sanctioned corporate monopolies that inflate the cost of living.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 20,
+    "evidence": "Prioritizes defending constitutional rights against institutional overreach and surveillance.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Backs 'absolute national sovereignty, legal clarity, and strict enforcement' of borders.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Other search results mention a court case involving a 'tarantula-tossing' Senate candidate; not verified as this candidate, omitted."
+ },
+ {
+  "id": "NH-SEN/edmond-j-laplante-jr",
+  "name": "Edmond J. Laplante Jr.",
+  "party": "Constitution",
+  "current_role": "Auto mechanic; Constitution Party of NH state chairman",
+  "bio": "Constitution Party nominee for US Senate in New Hampshire, state party chairman since 2003, auto mechanic and Marine veteran (1999-2007). He also serves as a Richmond representative on the SAU 93 school board.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Border wall and city cooperation with ICE.",
+    "source": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr"
+   },
+   {
+    "topic": "Budget",
+    "point": "Supports a Balanced Budget Amendment and opposes tax increases to cut deficits.",
+    "source": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Restraint on Ukraine, Taiwan and Iran.",
+    "source": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr"
+   },
+   {
+    "topic": "Elections",
+    "point": "Supports voter ID and proof of citizenship, opposes mail-in voting.",
+    "source": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 25,
+    "evidence": "Opposes means testing and raising the retirement age, and favors privatized Social Security accounts.",
+    "source": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr"
+   },
+   "liberty": {
+    "score": 70,
+    "evidence": "Identifies as pro-life with rare exceptions.",
+    "source": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr"
+   },
+   "security": null,
+   "immigration": {
+    "score": 85,
+    "evidence": "Supports a border wall and requiring cities to cooperate with ICE.",
+    "source": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr"
+   },
+   "foreign": {
+    "score": 10,
+    "evidence": "Says the US should stay out of foreign affairs that do not affect it directly.",
+    "source": "https://www.citizenscount.org/candidate/edmond-j-laplante-jr"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Platform emphasizes homeschooling freedom.",
+    "source": "https://independentpoliticalreport.com/2026/09/ed-laplante-qualifies-for-new-hampshire-u-s-senate-ballot-as-constitution-party-candidate/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Education score from news summary of his platform."
+ },
+ {
+  "id": "OH-SEN-S/william-bill-redpath",
+  "name": "William \"Bill\" Redpath",
+  "party": "Libertarian",
+  "current_role": "Libertarian National Committee at-large representative",
+  "bio": "Libertarian nominee in Ohio's 2026 special US Senate election, near Toledo. Former Libertarian National Committee chairman (2006-2010) and treasurer, active in the party since the 1980s.",
+  "website": "https://billredpath.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Trade",
+    "point": "Unilateral free trade and no tariffs.",
+    "source": "https://billredpath.com/"
+   },
+   {
+    "topic": "Spending",
+    "point": "Eliminate the Departments of Education and HUD and end farm subsidies within a decade.",
+    "source": "https://billredpath.com/"
+   },
+   {
+    "topic": "Drugs",
+    "point": "Repeal federal drug prohibition; let states set policy.",
+    "source": "https://billredpath.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Advocates eliminating all tariffs, the Departments of Education and HUD, and ending corporate welfare and farm subsidies.",
+    "source": "https://billredpath.com/"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 5,
+    "evidence": "Supports repealing federal drug prohibition and legalizing online gambling.",
+    "source": "https://billredpath.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 25,
+    "evidence": "Supports a relatively open immigration system and birthright citizenship.",
+    "source": "https://www.wytv.com/news/local-news/libertarian-candidate-bill-redpath-vies-for-u-s-senate/"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Opposes the war with Iran.",
+    "source": "https://www.wytv.com/news/local-news/libertarian-candidate-bill-redpath-vies-for-u-s-senate/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "WYTV page returned 429; immigration and Iran statements from search summary."
+ },
+ {
+  "id": "OK-GOV/orlando-lynn-bush",
+  "name": "Orlando Lynn Bush",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Independent candidate for Oklahoma governor who filed in April 2026 and is on the November ballot with Republican Mike Mazzei and Democrat Cyndi Munson. No campaign website or issue statements were found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found; Oklahoma Voice article returned 403."
+ },
+ {
+  "id": "SC-SEN/kasie-whitener",
+  "name": "Kasie Whitener",
+  "party": "Libertarian",
+  "current_role": "Educator, University of South Carolina; Libertarian Party of SC chair",
+  "bio": "Libertarian nominee for US Senate in South Carolina, a writer, business owner, radio host and University of South Carolina educator who chairs the state Libertarian Party. She frames her run as an alternative to the two-party 'duopoly'.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Debt",
+    "point": "Raise revenue, cut spending and grow the economy to address the national debt.",
+    "source": "https://www.live5news.com/2026/07/17/we-palmetto-meet-candidate-kasie-whitener-us-senate/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Supports voter ID similar to the SAVE Act.",
+    "source": "https://www.live5news.com/2026/07/17/we-palmetto-meet-candidate-kasie-whitener-us-senate/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 40,
+    "evidence": "Says fixing the national debt takes more revenue, less spending and economic growth.",
+    "source": "https://www.live5news.com/2026/07/17/we-palmetto-meet-candidate-kasie-whitener-us-senate/"
+   },
+   "welfare": {
+    "score": 30,
+    "evidence": "Says top spending categories including Social Security and Medicare/Medicaid need trimming or adjusting.",
+    "source": "https://www.live5news.com/2026/07/17/we-palmetto-meet-candidate-kasie-whitener-us-senate/"
+   },
+   "liberty": {
+    "score": 15,
+    "evidence": "Says people should be free to live as they choose as long as they are not harming others.",
+    "source": "https://www.live5news.com/2026/07/17/we-palmetto-meet-candidate-kasie-whitener-us-senate/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 15,
+    "evidence": "Does not support foreign intervention such as the actions in Iran.",
+    "source": "https://www.live5news.com/2026/07/17/we-palmetto-meet-candidate-kasie-whitener-us-senate/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": ""
+ },
+ {
+  "id": "TN-GOV/charles-van-morgan",
+  "name": "Charles Van Morgan",
+  "party": "Independent",
+  "current_role": "Small-business owner; former state trooper",
+  "bio": "Independent candidate for Tennessee governor from Knoxville, a former Tennessee State Trooper with a law degree who says he visited all 95 counties. He is in a federal lawsuit over denial of his law license.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Government reform",
+    "point": "Government should serve citizens, not donors or parties; proposes weekly public meetings.",
+    "source": "https://daughteroftennessee.substack.com/p/a-letter-from-charles-van-morgan"
+   },
+   {
+    "topic": "Judiciary",
+    "point": "Opposes absolute immunity for judges and prosecutors.",
+    "source": "https://daughteroftennessee.substack.com/p/a-letter-from-charles-van-morgan"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 65,
+    "evidence": "Criticizes the governor for declining federal food aid and leaving $732 million in family assistance unspent.",
+    "source": "https://daughteroftennessee.substack.com/p/a-letter-from-charles-van-morgan"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 65,
+    "evidence": "Says his Christian faith guides his work and pledges support for Israel on biblical grounds.",
+    "source": "https://daughteroftennessee.substack.com/p/a-letter-from-charles-van-morgan"
+   }
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Nashville Banner questionnaire returned 403."
+ },
+ {
+  "id": "TN-GOV/l-webb-taylor",
+  "name": "L. Webb Taylor",
+  "party": "Independent",
+  "current_role": "Corporate health and wellness consultant",
+  "bio": "Independent candidate for Tennessee governor from Memphis who qualified by petition in March 2026. No public statements on issues were found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Voter guide says 'No information found'; little public information."
+ },
+ {
+  "id": "CT-4/ben-wesley",
+  "name": "Ben Wesley",
+  "party": "Independent Party",
+  "current_role": "Manufacturing mechanical engineer",
+  "bio": "Norwalk resident and manufacturing mechanical engineer running on the Independent Party line for Connecticut's 4th District; he also ran in 2024. He calls himself the peace candidate.",
+  "website": "https://benwesleyforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Peace",
+    "point": "Opposes military spending abroad, citing Gaza.",
+    "source": "https://benwesleyforcongress.com/"
+   },
+   {
+    "topic": "Debt",
+    "point": "Calls the national debt a critical problem.",
+    "source": "https://benwesleyforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 85,
+    "evidence": "Platform includes health care for all and more social services.",
+    "source": "https://patch.com/connecticut/across-ct/4th-congressional-district-race-himes-goldstein-wesley"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 10,
+    "evidence": "Opposes funding military action abroad and calls himself the peace candidate.",
+    "source": "https://benwesleyforcongress.com/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Welfare score from Patch summary of platform (via search)."
+ },
+ {
+  "id": "LA-4/gordon-heslop",
+  "name": "Gordon Heslop",
+  "party": "Republican",
+  "current_role": "Retired accounting professor",
+  "bio": "Republican candidate in Louisiana's 4th District from Natchitoches, a retired accounting professor with 25 years at Northwestern State and East Texas A&M. He describes himself as an anti-Trump Republican and is on the jungle-primary ballot against Speaker Mike Johnson.",
+  "website": "https://heslopforcongress.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Tariffs",
+    "point": "Opposes all tariffs as inflationary.",
+    "source": "https://heslopforcongress.com/"
+   },
+   {
+    "topic": "Social Security",
+    "point": "Remove the $184,500 earnings cap.",
+    "source": "https://heslopforcongress.com/"
+   },
+   {
+    "topic": "Teachers",
+    "point": "National minimum teacher salary of $50,000.",
+    "source": "https://heslopforcongress.com/"
+   },
+   {
+    "topic": "Term limits",
+    "point": "12-year term limits.",
+    "source": "https://heslopforcongress.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Opposes all tariffs, supports a higher minimum wage and closing high-earner tax loopholes.",
+    "source": "https://heslopforcongress.com/"
+   },
+   "welfare": {
+    "score": 50,
+    "evidence": "Would remove the Social Security earnings cap but opposes universal government healthcare.",
+    "source": "https://heslopforcongress.com/"
+   },
+   "liberty": {
+    "score": 65,
+    "evidence": "Supports eliminating transgender athletes in women's sports.",
+    "source": "https://heslopforcongress.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Supports sealed borders, ending chain migration and banning sanctuary cities.",
+    "source": "https://heslopforcongress.com/"
+   },
+   "foreign": {
+    "score": 75,
+    "evidence": "Wants the US to maintain global leadership and criticizes Trump's Ukraine stance.",
+    "source": "https://heslopforcongress.com/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 65,
+    "evidence": "Proposes a $50,000 national minimum teacher salary and cutting administrative costs.",
+    "source": "https://heslopforcongress.com/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Site also lists runs in other states' primaries (TX-32, MO-8) per search results; verify residency/race."
+ },
+ {
+  "id": "MI-2/charlotte-magoon",
+  "name": "Charlotte Magoon",
+  "party": "Green",
+  "current_role": "Nurse",
+  "bio": "Green Party nominee for Michigan's 2nd District, a nurse who serves as treasurer and committee manager of the Green Party of Michigan. Faces Republican incumbent John Moolenaar and Democrat Ben Ambrose.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No issue statements retrievable (Michigan Advance 403). Little public information."
+ },
+ {
+  "id": "MI-6/timothy-teagan",
+  "name": "Timothy Teagan",
+  "party": "Libertarian",
+  "current_role": "Chair, Libertarian Party of Michigan",
+  "bio": "Libertarian nominee for Michigan's 6th District and current chair of the Libertarian Party of Michigan.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Party",
+    "point": "Says he is a neutral Libertarian who puts the party and its principles first.",
+    "source": "https://www.easternecho.com/article/2026/09/united-states-house-of-representatives-michigan-district-6-candidates"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No issue positions found. Conviction reported by MIRS (via search results)."
+ },
+ {
+  "id": "MI-8/kathy-goodwin",
+  "name": "Kathy Goodwin",
+  "party": "Working Class Party",
+  "current_role": "",
+  "bio": "Working Class Party nominee for Michigan's 8th District, a repeat candidate since 2018 who won 2.0% in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No issue statements retrievable (Michigan Advance 403). Little public information."
+ },
+ {
+  "id": "MI-10/mike-saliba",
+  "name": "Mike Saliba",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Libertarian nominee for Michigan's 10th District, a lifelong Clinton Township resident who also ran in 2022 and 2024. He describes himself as a strong believer in the Constitution.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Tax",
+    "point": "Supports the FAIRtax (HR 25).",
+    "source": "https://lp.org/candidate/mike-saliba/"
+   },
+   {
+    "topic": "Money",
+    "point": "Supports HR 2435 defining the dollar by weight of gold.",
+    "source": "https://lp.org/candidate/mike-saliba/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 15,
+    "evidence": "Pledges to support the FAIRtax and legislation defining the dollar as a fixed weight of gold.",
+    "source": "https://lp.org/candidate/mike-saliba/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 10,
+    "evidence": "Campaign describes him as supporting non-interventionist foreign policy.",
+    "source": "https://lp.org/candidate/mike-saliba/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Fetched pages lacked issue detail; these come from search summary of his campaign pages. Only 2 domains."
+ },
+ {
+  "id": "MI-12/marc-sosnowski",
+  "name": "Marc Sosnowski",
+  "party": "U.S. Taxpayers",
+  "current_role": "Business consultant",
+  "bio": "U.S. Taxpayers Party nominee for Michigan's 12th District, a Detroit native with degrees from UM-Dearborn and Cornerstone University. He ran for Wayne County Commission in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No issue statements retrievable. Little public information."
+ },
+ {
+  "id": "NV-1/steven-chap-st-john",
+  "name": "Steven \"Chap\" St. John",
+  "party": "No Political Party",
+  "current_role": "Hospital chaplain",
+  "bio": "Candidate with no political party affiliation for Nevada's 1st District against Democrat Dina Titus and Republican Carrie Buck. Described as a hospital chaplain who ran in the 3rd District in 2014.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found."
+ },
+ {
+  "id": "RI-1/pedro-desouza",
+  "name": "Pedro DeSouza",
+  "party": "Independent",
+  "current_role": "Data professional",
+  "bio": "Independent candidate for Rhode Island's 1st District from Woonsocket, who has worked in restaurants, built a small business and moved into data work. Faces Democrat Gabe Amo and Republican Kellie Keenan.",
+  "website": "https://www.voteforpedrori.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Federal income tax exemption on first $50,000.",
+    "source": "https://www.voteforpedrori.com/"
+   },
+   {
+    "topic": "Healthcare",
+    "point": "Single-payer for all legal residents.",
+    "source": "https://www.voteforpedrori.com/"
+   },
+   {
+    "topic": "Housing",
+    "point": "Bar publicly traded companies from owning single-family homes.",
+    "source": "https://www.voteforpedrori.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Break utility monopolies and expand nuclear.",
+    "source": "https://www.voteforpedrori.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Proposes exempting the first $50,000 of income from federal tax, a 15% credit card interest cap and penalties for price gouging.",
+    "source": "https://www.voteforpedrori.com/"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Proposes a single-payer system covering all legal residents and eliminating medical debt.",
+    "source": "https://www.voteforpedrori.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 15,
+    "evidence": "Would end military funding to Israel and cut 'forever wars'.",
+    "source": "https://www.voteforpedrori.com/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Proposes taxing corporate use of AI that replaces workers.",
+    "source": "https://www.voteforpedrori.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": ""
+ }
+]

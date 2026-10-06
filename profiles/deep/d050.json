@@ -1,0 +1,882 @@
+[
+ {
+  "id": "AR-SEN/jeff-wadlin",
+  "name": "Jeff Wadlin",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Bentonville business consultant and Libertarian nominee for US Senate in Arkansas. Age 55, he holds an engineering degree from the University of Virginia and an MBA from Northwestern, and has worked at Caterpillar, Capital One and Sam's Club.",
+  "website": "https://jeffwadlin.com",
+  "social": {
+   "x": "https://x.com/jeffwadlin",
+   "facebook": "https://www.facebook.com/JeffWadlinForArkansas",
+   "instagram": "https://www.instagram.com/jeffwadlin"
+  },
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Says he wants to lower costs, raise wages and build ladders into the middle class.",
+    "source": "https://arktimes.com/arkansas-blog/2026/05/19/libertarian-u-s-senate-candidate-announces-campaign-kickoff"
+   },
+   {
+    "topic": "Politics",
+    "point": "Describes himself as a pragmatic centrist who rejects partisan performance.",
+    "source": "https://jeffwadlin.com"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Only broad slogans found; no specific policy positions to score. Social handles as listed on lp.org."
+ },
+ {
+  "id": "CO-GOV/eric-mulder",
+  "name": "Eric Mulder",
+  "party": "Libertarian",
+  "current_role": "Aurora Civic Engagement Commission member",
+  "bio": "US Army veteran (2010-2016, served in Afghanistan), security guard and small business owner from Aurora. Libertarian nominee for Colorado governor with running mate Wayne Harlos.",
+  "website": "https://mulderforgovernor.org",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Energy",
+    "point": "Government should not decide which energy source it prefers; supports oil and gas, solar, wind and small modular nuclear.",
+    "source": "https://mulderforgovernor.org/on-the-issues"
+   },
+   {
+    "topic": "Fiscal policy",
+    "point": "Protect TABOR, regulatory audits, outcome-based budgeting.",
+    "source": "https://mulderforgovernor.org/on-the-issues"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Calls Flock camera systems Fourth Amendment violations.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   {
+    "topic": "Education",
+    "point": "Colorado Excellence Initiative sharing best practices; says parents know their children best.",
+    "source": "https://mulderforgovernor.org/on-the-issues"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Proposes regulatory audits to remove unnecessary requirements, protecting TABOR and outcome-based budgeting.",
+    "source": "https://mulderforgovernor.org/on-the-issues"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 20,
+    "evidence": "Says Flock camera systems pose serious Fourth Amendment violations and opposes expanding them.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 30,
+    "evidence": "Says government should not decide which energy source it prefers; backs oil, gas, coal, solar, wind and nuclear.",
+    "source": "https://mulderforgovernor.org/on-the-issues"
+   },
+   "tech": null,
+   "education": {
+    "score": 40,
+    "evidence": "Says parents know their children best and favors sharing practices from high-performing schools rather than one-size-fits-all.",
+    "source": "https://mulderforgovernor.org/on-the-issues"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": ""
+ },
+ {
+  "id": "FL-GOV/dean-ocean-abrams",
+  "name": "Dean Ocean Abrams",
+  "party": "No Party Affiliation",
+  "current_role": "",
+  "bio": "Sarasota real estate agent and investor, with a background listed as a technology executive. Running for Florida governor with no party affiliation; running mate Joe Van Vactor.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Housing",
+    "point": "Wants to keep Wall Street from buying single-family homes.",
+    "source": "https://www.civoren.com/candidate/dean-abrams"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Opposes AI data-center expansion and wants strict public approval of major development.",
+    "source": "https://www.civoren.com/candidate/dean-abrams"
+   },
+   {
+    "topic": "Campaign finance",
+    "point": "Says Florida belongs to the people, not corporations.",
+    "source": "https://www.civoren.com/candidate/dean-abrams"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Wants to prevent Wall Street from buying single-family homes and require strict public approval for major development.",
+    "source": "https://www.civoren.com/candidate/dean-abrams"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Opposes AI data-center expansion over concerns about water and natural resources.",
+    "source": "https://www.civoren.com/candidate/dean-abrams"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Summaries differ on his professional background; no campaign site verified."
+ },
+ {
+  "id": "ID-SEN/natalie-m-fleming",
+  "name": "Natalie M. Fleming",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Meridian software developer and supply chain specialist, age 55, with Boise State degrees in IT and supply chain management. Fourth run for federal office in Idaho; she received 2.9% as an independent in the 2020 Senate race.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Social Security",
+    "point": "Pledged not to cut benefits or raise the retirement age.",
+    "source": "https://idahovoters.com/person/natalie-m-fleming/"
+   },
+   {
+    "topic": "Tariffs",
+    "point": "Called the trade war with Canada mind-boggling and favors rolling back tariffs.",
+    "source": "https://idahovoters.com/person/natalie-m-fleming/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Supports expanding direct primary care.",
+    "source": "https://idahovoters.com/person/natalie-m-fleming/"
+   },
+   {
+    "topic": "Elections",
+    "point": "Opposes the SAVE Act.",
+    "source": "https://idahovoters.com/person/natalie-m-fleming/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Favors rolling back tariffs and called the trade war with Canada mind-boggling.",
+    "source": "https://idahovoters.com/person/natalie-m-fleming/"
+   },
+   "welfare": {
+    "score": 60,
+    "evidence": "Said she will not cut Social Security benefits or raise the retirement age.",
+    "source": "https://idahovoters.com/person/natalie-m-fleming/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 40,
+    "evidence": "Said we have wonderful immigrants who are building our homes and lists immigration reform as a focus.",
+    "source": "https://idahovoters.com/person/natalie-m-fleming/"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Said the US has become the aggressor overseas and called on Congress to address overseas conflicts.",
+    "source": "https://idahovoters.com/person/natalie-m-fleming/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Content gathered via a candidate summary page; Idaho Capital Sun original was blocked."
+ },
+ {
+  "id": "MD-GOV/andy-ellis",
+  "name": "Andy Ellis",
+  "party": "Green",
+  "current_role": "Co-Chair, Maryland Green Party",
+  "bio": "Northeast Baltimore debate coach and former business intelligence lead at Nielsen, with about 15 years in corporate tech. Served on Baltimore's 2023-24 Charter Review Commission. Green nominee for Maryland governor with running mate Owen Silverman Andrews.",
+  "website": "https://www.gogreen2026.com",
+  "social": {
+   "facebook": "https://www.facebook.com/GoGreen2026/"
+  },
+  "platform": [
+   {
+    "topic": "Emergencies",
+    "point": "Declare climate, environment, energy, food and water emergencies.",
+    "source": "https://www.gogreen2026.com/platform"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Campaign lists stopping data centers as a top priority.",
+    "source": "https://www.gogreen2026.com/"
+   },
+   {
+    "topic": "Economy",
+    "point": "Develop a solidarity economy and invest in people and communities.",
+    "source": "https://www.gogreen2026.com/platform"
+   },
+   {
+    "topic": "Education",
+    "point": "Fully fund public education.",
+    "source": "https://www.gogreen2026.com/platform"
+   },
+   {
+    "topic": "Gaza",
+    "point": "End Maryland's complicity with genocide in Palestine.",
+    "source": "https://www.gogreen2026.com/platform"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 75,
+    "evidence": "Calls for a solidarity economy and more state oversight of BGE to protect consumers.",
+    "source": "https://www.gogreen2026.com/platform"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 25,
+    "evidence": "Platform calls for ending Maryland's complicity with genocide in Palestine.",
+    "source": "https://www.gogreen2026.com/platform"
+   },
+   "energy": {
+    "score": 90,
+    "evidence": "Wants to declare climate, environment and energy emergencies to push urgent action.",
+    "source": "https://www.gogreen2026.com/platform"
+   },
+   "tech": {
+    "score": 75,
+    "evidence": "Lists stopping data centers as a top campaign priority.",
+    "source": "https://www.gogreen2026.com/"
+   },
+   "education": {
+    "score": 85,
+    "evidence": "Wants to build out and fully fund the public education system.",
+    "source": "https://www.gogreen2026.com/platform"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": ""
+ },
+ {
+  "id": "MI-SEN/walter-kristy",
+  "name": "Walter Kristy",
+  "party": "Natural Law",
+  "current_role": "Vice chair, Natural Law Party of Michigan",
+  "bio": "Fenton, Michigan resident and Natural Law Party nominee for US Senate. He is vice chair of the party and filed on August 31, 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Very little public information; no campaign site or platform found."
+ },
+ {
+  "id": "MN-GOV/steven-steve-young",
+  "name": "Steven (Steve) Young",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Former US Marine and corporate attorney who now works as a light rail conductor. Green Party nominee for Minnesota governor with running mate Jane Kirby; endorsed by the party April 18, 2026 and polled about 3%.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Immigration",
+    "point": "Abolish ICE and make Minnesota a sanctuary state.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   },
+   {
+    "topic": "Health and income",
+    "point": "Supports single-payer health care and guaranteed basic income.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Wants to ban hyperscale data centers.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   },
+   {
+    "topic": "Israel",
+    "point": "Supports the BDS movement.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 85,
+    "evidence": "Identifies as a socialist and backs guaranteed basic income.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   },
+   "welfare": {
+    "score": 95,
+    "evidence": "Supports single-payer health care and guaranteed basic income.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 5,
+    "evidence": "Wants to abolish ICE and make Minnesota a sanctuary state.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Supports BDS against Israel and is critical of US military spending.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   },
+   "energy": null,
+   "tech": {
+    "score": 85,
+    "evidence": "Wants to ban hyperscale data centers.",
+    "source": "https://alphanews.org/green-party-governor-candidate-wants-to-abolish-ice-slams-klobuchar-over-gaza/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions come from a single news profile; no campaign site verified."
+ },
+ {
+  "id": "NH-GOV/stephen-villee",
+  "name": "Stephen Villee",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Software developer and Libertarian activist who also ran for governor in 2024. Qualified for the 2026 ballot by petition through the Granite State Libertarian group after the Libertarian Party of New Hampshire declined to endorse a governor candidate.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No stated policy positions found."
+ },
+ {
+  "id": "OH-GOV/don-kissick",
+  "name": "Don Kissick",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "US Navy veteran with two Middle East deployments who moved to Ohio in 2007. Has worked as a county development coordinator and TV control room operator. Libertarian nominee for Ohio governor.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Surveillance",
+    "point": "Wants to restrict government use of automated license-plate readers and limit vehicle-location data sharing.",
+    "source": "https://www.statenews.org/government-politics/2026-09-16/libertarian-candidate-for-ohio-governor-wants-to-a-place-in-debate-conversation"
+   },
+   {
+    "topic": "Property tax",
+    "point": "Supports abolishing property taxes with local consumption-based taxes.",
+    "source": "https://www.statenews.org/government-politics/2026-09-16/libertarian-candidate-for-ohio-governor-wants-to-a-place-in-debate-conversation"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Opposes new data centers until statewide standards exist.",
+    "source": "https://www.statenews.org/government-politics/2026-09-16/libertarian-candidate-for-ohio-governor-wants-to-a-place-in-debate-conversation"
+   },
+   {
+    "topic": "Health costs",
+    "point": "Wants to repeal certificate-of-need laws.",
+    "source": "https://www.wyso.org/2026-09-16/libertarian-candidate-for-ohio-governor-wants-to-a-place-in-debate-conversation"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Opposes corporate welfare, wants property taxes replaced and certificate-of-need laws repealed.",
+    "source": "https://www.wyso.org/2026-09-16/libertarian-candidate-for-ohio-governor-wants-to-a-place-in-debate-conversation"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 10,
+    "evidence": "Opposes routine tracking of citizens and wants to restrict license-plate surveillance systems.",
+    "source": "https://www.statenews.org/government-politics/2026-09-16/libertarian-candidate-for-ohio-governor-wants-to-a-place-in-debate-conversation"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 65,
+    "evidence": "Would block new data-center development until permanent statewide standards are set.",
+    "source": "https://www.wyso.org/2026-09-16/libertarian-candidate-for-ohio-governor-wants-to-a-place-in-debate-conversation"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Details of data-center and health items come from news summaries."
+ },
+ {
+  "id": "OK-GOV/jerry-griffin",
+  "name": "Jerry Griffin",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Tulsa resident who served on the Tulsa Public Schools board from 2020 until resigning in 2024; earlier won the Republican nomination for Tulsa Police and Fire Commissioner in 1974. Running for Oklahoma governor as an independent.",
+  "website": "https://governorgriffin2027.com",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Independence",
+    "point": "Says his campaign is independent of both major parties and accountable only to Oklahomans.",
+    "source": "https://governorgriffin2027.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Site mentions a positions page; no specific positions retrieved."
+ },
+ {
+  "id": "TN-GOV/misam-abidi",
+  "name": "Misam Abidi",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Nolensville fintech entrepreneur and patent holder who moved to the US from Pakistan as a teenager in 1997. Independent candidate for Tennessee governor.",
+  "website": "https://misamforgovernor.com",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Dividend fund",
+    "point": "Proposes a Tennessee Dividend Fund.",
+    "source": "https://tnfirefly.com/tennessee-governor-race/candidates/misam-abidi"
+   },
+   {
+    "topic": "Education",
+    "point": "Wants every student to graduate with a usable skill and supports financial literacy.",
+    "source": "https://tnfirefly.com/tennessee-governor-race/candidates/misam-abidi"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Wants to reduce regulatory burden.",
+    "source": "https://tnfirefly.com/tennessee-governor-race/candidates/misam-abidi"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Platform summarized from search results; sources not fully fetched so no domains scored. Indictment reported in search results, unverified by me."
+ },
+ {
+  "id": "TN-GOV/eddie-lee-murphy",
+  "name": "Eddie Lee Murphy",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Spring Hill resident whose petition was approved for the Tennessee governor ballot as an independent.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/deejayallday3"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No platform or policy statements found."
+ },
+ {
+  "id": "TN-GOV/robert-c-vick",
+  "name": "Robert C. Vick",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Retired East Tennessee educator with about 40 years as teacher, coach, principal and athletic director, and a doctorate. Running for governor as a Christian independent.",
+  "website": "https://drvick4tn.com",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Rural Readiness",
+    "point": "Would align high school curricula with local industry needs.",
+    "source": "https://www.greenevillesun.com/news/local_news/jefferson-county-resident-announces-run-for-governor/article_43c0a985-f3ba-49d4-8ba7-0a8ed59b5c04.html"
+   },
+   {
+    "topic": "Budget",
+    "point": "Favors debt-free principles for state budgeting.",
+    "source": "https://www.greenevillesun.com/news/local_news/jefferson-county-resident-announces-run-for-governor/article_43c0a985-f3ba-49d4-8ba7-0a8ed59b5c04.html"
+   },
+   {
+    "topic": "Rural health",
+    "point": "Wants expanded rural health care access.",
+    "source": "https://www.greenevillesun.com/news/local_news/jefferson-county-resident-announces-run-for-governor/article_43c0a985-f3ba-49d4-8ba7-0a8ed59b5c04.html"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions are general; none scored."
+ },
+ {
+  "id": "LA-1/e-liddy-glass",
+  "name": "E. \"Liddy\" Glass",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Independent (no party) candidate for Louisiana's 1st Congressional District, facing incumbent Republican Steve Scalise and others in the jungle primary.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Ballot access",
+    "point": "Campaign lists expanding ballot access for non-major-party candidates as a priority.",
+    "source": "https://www.thegreenpapers.com/G26/LA"
+   },
+   {
+    "topic": "Government",
+    "point": "Campaign lists limited government as a priority.",
+    "source": "https://www.thegreenpapers.com/G26/LA"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information; campaign site not verified."
+ },
+ {
+  "id": "LA-6/stephen-wagley",
+  "name": "Stephen Wagley",
+  "party": "Republican",
+  "current_role": "",
+  "bio": "Owner of Delta College, which trains people for health care jobs. One of five Republicans in Louisiana's redrawn 6th District jungle primary.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 65,
+    "evidence": "Described himself at a candidate forum as a Christian and a conservative.",
+    "source": "https://www.theadvocate.com/baton_rouge/news/politics/5-republicans-offer-views-at-louisiana-congressional-forum/article_d5f1262f-59b4-5bcd-9f95-6c714b61cb55.html"
+   }
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information; forum article attributes few specific statements."
+ },
+ {
+  "id": "MI-2/richard-sills",
+  "name": "Richard Sills",
+  "party": "Natural Law",
+  "current_role": "",
+  "bio": "Natural Law Party candidate in Michigan's 2nd Congressional District, per the general-election candidate list.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found; one source suggested a different district filing."
+ },
+ {
+  "id": "MI-6/mike-mickevicius",
+  "name": "Mike Mickevicius",
+  "party": "U.S. Taxpayers",
+  "current_role": "",
+  "bio": "Marketing consultant from Southfield and U.S. Taxpayers Party nominee for Michigan's 6th District, chosen at the party convention July 18, 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No platform or statements found."
+ },
+ {
+  "id": "MI-9/destiny-clayton",
+  "name": "Destiny Clayton",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Army veteran and progressive activist; Green nominee for Michigan's 9th District and the party's 2022 lieutenant governor nominee.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Voter-guide pages were blocked; no stated positions retrieved."
+ },
+ {
+  "id": "MI-10/andrea-kirby",
+  "name": "Andrea Kirby",
+  "party": "Working Class Party",
+  "current_role": "",
+  "bio": "Born in Queens, New York, with a business degree from Baker College (2015); former Blue Cross Blue Shield of Michigan employee and UAW member, in Michigan nearly 22 years. Received 2.6% in the 2024 race for this seat.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Jobs and housing",
+    "point": "Prioritizes job creation and affordable housing for all.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/andrea-l-kirby"
+   },
+   {
+    "topic": "Workers",
+    "point": "Calls for working-class control of the wealth workers create and better wages and pensions.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/andrea-l-kirby"
+   },
+   {
+    "topic": "Health care",
+    "point": "Prioritizes universal healthcare access.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/andrea-l-kirby"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports letting immigrants work and a path to citizenship.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/andrea-l-kirby"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 80,
+    "evidence": "Calls for working-class control of the wealth workers create and better wages, pensions and job security.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/andrea-l-kirby"
+   },
+   "welfare": {
+    "score": 90,
+    "evidence": "Prioritizes universal healthcare access.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/andrea-l-kirby"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 15,
+    "evidence": "Supports allowing immigrants to work and providing a path to citizenship.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/andrea-l-kirby"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Opposes military conflicts, saying they harm working-class people without benefiting them.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/andrea-l-kirby"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions from a third-party candidate-platform page summarizing her website."
+ },
+ {
+  "id": "MI-12/gary-walkowicz",
+  "name": "Gary Walkowicz",
+  "party": "Working Class Party",
+  "current_role": "",
+  "bio": "Retired Ford Motor Co. worker with 45 years at the company, elected to union positions over 24 years. Repeat Working Class Party candidate, including for this seat in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No current policy statements retrieved."
+ },
+ {
+  "id": "NV-3/jon-kamerath",
+  "name": "Jon Kamerath",
+  "party": "Independent American",
+  "current_role": "National committeeman, Independent American Party of Nevada",
+  "bio": "Clark County practical nurse who graduated from the Community College of Southern Nevada in 2004. Ran for this seat in 2024 and for state Senate District 8 in 2014. Faces Rep. Susie Lee and Marty O'Donnell.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes and regulation",
+    "point": "Wants lower taxes for companies and individuals and fewer regulations.",
+    "source": "https://www.ballotready.org/people/jon-kamerath"
+   },
+   {
+    "topic": "Schools",
+    "point": "Supports school choice.",
+    "source": "https://www.ballotready.org/people/jon-kamerath"
+   },
+   {
+    "topic": "Government",
+    "point": "Emphasizes limited constitutional government and traditional social values.",
+    "source": "https://www.ballotready.org/people/jon-kamerath"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Wants to cut taxes and government spending and remove burdensome regulations.",
+    "source": "https://www.ballotready.org/people/jon-kamerath"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 65,
+    "evidence": "Platform emphasizes traditional social values.",
+    "source": "https://www.ballotready.org/people/jon-kamerath"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 20,
+    "evidence": "Platform supports school choice.",
+    "source": "https://www.ballotready.org/people/jon-kamerath"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions from search-result summary of his platform; page not fetched directly."
+ }
+]

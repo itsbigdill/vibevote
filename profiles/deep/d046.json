@@ -1,0 +1,935 @@
+[
+ {
+  "id": "AK-SEN/daniel-j-sullivan-jr",
+  "name": "Daniel J. Sullivan Jr.",
+  "party": "Nonpartisan",
+  "current_role": "",
+  "bio": "Retired elementary school teacher from Petersburg, Alaska. He tried to appear on the ballot as a Republican but the Division of Elections listed him with no party affiliation; he advanced from the August 18 primary. He shares a name with incumbent Sen. Dan Sullivan.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Cost of living",
+    "point": "Criticized the incumbent for focusing on tariffs on allies rather than lowering the cost of groceries, housing and energy.",
+    "source": "https://www.cbsnews.com/news/dan-sullivan-same-name-advances-alaska-us-senate-primary/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found; no campaign website located. Domains left null."
+ },
+ {
+  "id": "CO-SEN/christopher-baum",
+  "name": "Christopher Baum",
+  "party": "Approval Voting",
+  "current_role": "",
+  "bio": "Retired U.S. Navy commander (served 1967-1987), former small-business owner and computer network administrator in Denver. He ran for Colorado's 8th District in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found; no campaign resources located."
+ },
+ {
+  "id": "CO-GOV/erik-underwood",
+  "name": "Erik Underwood",
+  "party": "Approval Voting",
+  "current_role": "CEO of My24HourNews.com and Vurbil",
+  "bio": "Tech executive who grew up in housing projects raised by a single mother. CEO of My24HourNews.com and Vurbil and chairman of Illmatic Ventures.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Affordability and care",
+    "point": "Priorities include affordable housing loans, child care support and universal healthcare.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   {
+    "topic": "Education",
+    "point": "Supports free college and trade school.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   {
+    "topic": "Data centers and water",
+    "point": "Wants expanded water and environmental policy, including regulating data centers.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   {
+    "topic": "Voting age",
+    "point": "Would lower the voting age to 16.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 65,
+    "evidence": "Proposes affordable housing loans and child care support.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   "welfare": {
+    "score": 85,
+    "evidence": "Backs universal healthcare and child care support.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   "liberty": {
+    "score": 25,
+    "evidence": "Says he would support the LGBTQ+ community.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 60,
+    "evidence": "Wants expanded water and environmental policy.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   "tech": {
+    "score": 65,
+    "evidence": "Wants to regulate data centers in Colorado.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   "education": {
+    "score": 75,
+    "evidence": "Supports free college and trade school.",
+    "source": "https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions come from a single news voter-guide summary."
+ },
+ {
+  "id": "FL-GOV/jeffrey-peter-dr-jeff-datto",
+  "name": "Jeffrey Peter \"Dr. Jeff\" Datto",
+  "party": "No Party Affiliation",
+  "current_role": "",
+  "bio": "Neuroscientist, patient and civil rights advocate and a Catholic father of two. Qualified for the ballot June 12, 2026 with running mate Juan Santana.",
+  "website": "https://drjeffdatto.com",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No platform found; X page could not be read (blocked). Website URL is from search results and was not verified."
+ },
+ {
+  "id": "ID-GOV/marvin-pro-life-richardson",
+  "name": "Marvin \"Pro-Life\" Richardson",
+  "party": "Constitution",
+  "current_role": "Organic strawberry farmer",
+  "bio": "Born Marvin Thomas Richardson in 1941; legally changed his name to Pro-Life in 2006. Organic strawberry farmer in Letha, Idaho, and a perennial candidate, including three earlier runs for governor and the 2022 lieutenant governor race.",
+  "website": "http://prolife-idaho.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Abortion",
+    "point": "Says legal personhood begins at conception and pledges to close abortion facilities by executive order.",
+    "source": "http://prolife-idaho.com/"
+   },
+   {
+    "topic": "Taxes and spending",
+    "point": "Wants drastic cuts to education, welfare and health spending and to eliminate sales, income and property taxes in that order.",
+    "source": "http://prolife-idaho.com/"
+   },
+   {
+    "topic": "Education",
+    "point": "Opposes public education and wants an elected state Board of Education.",
+    "source": "http://prolife-idaho.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Pledges to keep illegal immigrants out of Idaho and halt refugee resettlement without state vetting.",
+    "source": "http://prolife-idaho.com/"
+   },
+   {
+    "topic": "Guns",
+    "point": "Supports repealing existing gun laws.",
+    "source": "http://prolife-idaho.com/"
+   },
+   {
+    "topic": "Vaccines and 5G",
+    "point": "Opposes mandatory vaccination and says 5G is harmful.",
+    "source": "http://prolife-idaho.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Wants to cut government spending drastically and phase out sales, income and property taxes.",
+    "source": "http://prolife-idaho.com/"
+   },
+   "welfare": {
+    "score": 10,
+    "evidence": "Wants welfare, health and education functions returned to faith-based organizations.",
+    "source": "http://prolife-idaho.com/"
+   },
+   "liberty": {
+    "score": 85,
+    "evidence": "Wants abortion closed and opposes contraception and IVF as a matter of legal personhood.",
+    "source": "http://prolife-idaho.com/"
+   },
+   "security": null,
+   "immigration": {
+    "score": 80,
+    "evidence": "Pledges to prevent illegal entry and stop refugee resettlement without state vetting.",
+    "source": "http://prolife-idaho.com/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": {
+    "score": 10,
+    "evidence": "Opposes public education, saying it fosters group think.",
+    "source": "http://prolife-idaho.com/"
+   },
+   "faith": {
+    "score": 85,
+    "evidence": "Wants social services run by faith-based organizations and policy based on legal personhood at conception.",
+    "source": "http://prolife-idaho.com/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Foreign policy stance (non-interventionist) appears only on Wikipedia, so left null."
+ },
+ {
+  "id": "MA-SEN/shiva-ayyadurai",
+  "name": "Shiva Ayyadurai",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "MIT-trained engineer and entrepreneur (four MIT degrees including a PhD in biological engineering). Filed for the Massachusetts Senate race on January 27, 2026; ballot petition signatures drew scrutiny.",
+  "website": "https://www.vashiva.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Health",
+    "point": "Campaign calls for medical freedom and a shift toward preventive and integrative medicine.",
+    "source": "https://ballotpedia.org/Shiva_Ayyadurai"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Says the U.S. should enforce immigration law, oppose illegal labor and prioritize American workers.",
+    "source": "https://smarter.vote/races/ma-senate-2026/shiva-ayyadurai/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": {
+    "score": 25,
+    "evidence": "Campaign platform calls for protecting medical freedom and ending censorship in health decisions.",
+    "source": "https://ballotpedia.org/Shiva_Ayyadurai"
+   },
+   "security": null,
+   "immigration": {
+    "score": 75,
+    "evidence": "Says the U.S. should enforce immigration policy, oppose illegal immigration and favor merit-based legal immigration.",
+    "source": "https://smarter.vote/races/ma-senate-2026/shiva-ayyadurai/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Campaign site is movement-oriented with no issue pages; immigration and health points come from search summaries of third-party pages, not fully verified."
+ },
+ {
+  "id": "MI-GOV/anthony-hudson",
+  "name": "Anthony Hudson",
+  "party": "Libertarian",
+  "current_role": "",
+  "bio": "Former truck driver of 20 years, originally from Texas and in Michigan since 2012. Switched from the Republican race to the Libertarian Party in February 2026. In September the state Libertarian Party voted to disavow his campaign, but he remains on the ballot as its nominee.",
+  "website": "https://electanthonyhudson.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Wants to eliminate property and state income taxes.",
+    "source": "https://electanthonyhudson.com/"
+   },
+   {
+    "topic": "Legislature",
+    "point": "Wants a part-time legislature with part-time pay.",
+    "source": "https://www.miningjournal.net/news/front-page-news/2026/07/anthony-hudson-launches-campaign-for-governor-as-libertarian-nominee/"
+   },
+   {
+    "topic": "Insurance",
+    "point": "Wants to move from no-fault to at-fault auto insurance.",
+    "source": "https://www.miningjournal.net/news/front-page-news/2026/07/anthony-hudson-launches-campaign-for-governor-as-libertarian-nominee/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Wants to stop data center and solar panel expansion on farmland and lower energy costs.",
+    "source": "https://electanthonyhudson.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 10,
+    "evidence": "Wants to eliminate property and state income taxes and shrink government.",
+    "source": "https://electanthonyhudson.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 15,
+    "evidence": "Wants to stop solar and wind on state land and lower energy costs.",
+    "source": "https://electanthonyhudson.com/"
+   },
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Site does not address welfare, immigration, education or guns."
+ },
+ {
+  "id": "NE-SEN/robin-richards",
+  "name": "Robin Richards",
+  "party": "Nebraska Working People",
+  "current_role": "Ralston school board member; party chair",
+  "bio": "Chair and founder of the Nebraska Working People Party and executive director of Little Bird Consulting. On the Ralston Public Schools board since 2019-2020. Previously a Democratic write-in candidate for the legislature.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Declined to answer the iVoterGuide questionnaire for this race; no policy statements found."
+ },
+ {
+  "id": "NJ-SEN/joanne-kuniansky",
+  "name": "Joanne Kuniansky",
+  "party": "Socialist Workers Party",
+  "current_role": "",
+  "bio": "Age 73, SWP member since 1977, living in West New York, NJ. Worked as a refinery operator, meat packer and Walmart deli worker, and was a union activist. Ran for governor in 2021 and 2025 and for Senate in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Independent labor politics",
+    "point": "Calls on working people to break from the Democratic and Republican parties and build toward a socialist world.",
+    "source": "https://www.insidernj.com/kuniansky-running-for-united-states-senate/"
+   },
+   {
+    "topic": "Israel",
+    "point": "Defends Israel's right to exist as a refuge for Jews and its war to defeat Hamas.",
+    "source": "https://www.insidernj.com/kuniansky-running-for-united-states-senate/"
+   },
+   {
+    "topic": "Ukraine and Cuba",
+    "point": "Supports Ukraine's independence and opposes the economic war on Cuba.",
+    "source": "https://www.insidernj.com/kuniansky-running-for-united-states-senate/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 90,
+    "evidence": "Calls for workers to break from the capitalist parties and build toward a socialist world.",
+    "source": "https://www.insidernj.com/kuniansky-running-for-united-states-senate/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Only one domain scored; foreign positions do not map cleanly to the lead-vs-stay-out scale."
+ },
+ {
+  "id": "OK-SEN/ron-meinhardt",
+  "name": "Ron Meinhardt",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Registered nurse and traditional Christian naturopath; founder of Entering Wedge Media and Healthislife.org. Remains a Republican Party member but runs as an independent against the party's pick, Kevin Hern, calling himself a constitutional conservative.",
+  "website": "https://www.running4ok.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "War powers",
+    "point": "Opposes undeclared wars and demands congressional authorization under the War Powers Resolution.",
+    "source": "https://www.running4ok.com/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Emphasizes affordable domestic energy for family budgets.",
+    "source": "https://www.running4ok.com/"
+   },
+   {
+    "topic": "Health",
+    "point": "Advocates patient-centered reform with a focus on health freedom and alternative medicine.",
+    "source": "https://www.running4ok.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports border security and enforcing existing law, rejecting open borders.",
+    "source": "https://www.running4ok.com/"
+   },
+   {
+    "topic": "Surveillance and spending",
+    "point": "Opposes federal overreach on spending, surveillance and executive power.",
+    "source": "https://www.running4ok.com/"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Opposes major infrastructure projects such as data centers without community consent.",
+    "source": "https://www.running4ok.com/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Opposes debt-driven policies that cause inflation.",
+    "source": "https://www.running4ok.com/"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 30,
+    "evidence": "Opposes federal overreach on surveillance.",
+    "source": "https://www.running4ok.com/"
+   },
+   "immigration": {
+    "score": 65,
+    "evidence": "Supports border security and enforcing existing law while rejecting open borders.",
+    "source": "https://www.running4ok.com/"
+   },
+   "foreign": {
+    "score": 15,
+    "evidence": "Opposes undeclared and forever wars.",
+    "source": "https://www.running4ok.com/"
+   },
+   "energy": {
+    "score": 25,
+    "evidence": "Stresses affordable domestic energy as essential to family budgets.",
+    "source": "https://www.running4ok.com/"
+   },
+   "tech": {
+    "score": 55,
+    "evidence": "Opposes data center projects without local consent.",
+    "source": "https://www.running4ok.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Site read through a summarizer; wording is general, so scores sit near the middle."
+ },
+ {
+  "id": "OR-GOV/brett-smith",
+  "name": "Brett Smith",
+  "party": "Pacific Green",
+  "current_role": "",
+  "bio": "44-year-old former welder, mill worker and maintenance man from Molalla. Grew up in Hinkley, California. Ran for Oregon's 5th District in 2024 as the Independent Party nominee, getting nearly 5%. Also sought a Libertarian cross-nomination.",
+  "website": "https://brett-smith.us",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Corruption",
+    "point": "Says both major parties have corrupted the political system.",
+    "source": "https://kepw-wholecommunity.news/2026/08/07/meet-the-candidate-brett-smith-for-oregon-governor/"
+   },
+   {
+    "topic": "War",
+    "point": "Proposes a constitutional amendment barring Oregon conscription into undeclared wars and a 'Ports for Peace' policy on weapons shipments.",
+    "source": "https://kepw-wholecommunity.news/2026/08/07/meet-the-candidate-brett-smith-for-oregon-governor/"
+   },
+   {
+    "topic": "Civil defense",
+    "point": "Supports expanding the Oregon Civil Defense Force and the Defend the Guard platform.",
+    "source": "https://kepw-wholecommunity.news/2026/08/07/meet-the-candidate-brett-smith-for-oregon-governor/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 10,
+    "evidence": "Proposes barring conscription into undeclared wars and restricting weapons shipments to unauthorized operations.",
+    "source": "https://kepw-wholecommunity.news/2026/08/07/meet-the-candidate-brett-smith-for-oregon-governor/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Top issues reported as corruption, sustainability and the future; no concrete economic or energy positions found."
+ },
+ {
+  "id": "TN-GOV/ray-brown",
+  "name": "Ray Brown",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Electrician from Oliver Springs running as an independent for governor on an anti-corruption message.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Corruption",
+    "point": "Says he will stand up against corruption in the legislative and judicial systems.",
+    "source": "https://daughteroftennessee.substack.com/p/the-independent-voter-guide-governor"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found; Facebook link taken from a voter guide, not opened."
+ },
+ {
+  "id": "TN-GOV/victor-scoggin",
+  "name": "Victor Scoggin",
+  "party": "Independent",
+  "current_role": "Retired Ford/UAW journeyman; president of Save the Cumberland",
+  "bio": "Age 67, Navy veteran (1977-1981), 43-year volunteer firefighter and retired Ford/UAW journeyman from Pegram. Founded Save the Cumberland Inc. in 1996. Qualified by petition in March 2026.",
+  "website": "https://captvicscoggin4tngov.us/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Crime and policing",
+    "point": "Platform prioritizes law enforcement funding and reducing violent crime.",
+    "source": "https://captvicscoggin4tngov.us/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Calls for immigration enforcement.",
+    "source": "https://captvicscoggin4tngov.us/"
+   },
+   {
+    "topic": "State spending",
+    "point": "Says state salaries are too high and excessive spending is unexamined.",
+    "source": "https://daughteroftennessee.substack.com/p/the-independent-voter-guide-governor"
+   },
+   {
+    "topic": "Schools",
+    "point": "Wants God reinstated in public schools and government buildings.",
+    "source": "https://tnfirefly.com/tennessee-governor-race/candidates/victor-scoggin"
+   },
+   {
+    "topic": "Guns and data centers",
+    "point": "Supports constitutional carry and opposes data centers in Tennessee.",
+    "source": "https://captvicscoggin4tngov.us/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Long-time advocate for protecting the Cumberland River from pollution.",
+    "source": "https://captvicscoggin4tngov.us/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 35,
+    "evidence": "Says state salaries are too high and excess spending goes unexamined.",
+    "source": "https://daughteroftennessee.substack.com/p/the-independent-voter-guide-governor"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 70,
+    "evidence": "Platform prioritizes law enforcement funding and violent crime.",
+    "source": "https://captvicscoggin4tngov.us/"
+   },
+   "immigration": {
+    "score": 75,
+    "evidence": "Platform calls for immigration enforcement.",
+    "source": "https://captvicscoggin4tngov.us/"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 75,
+    "evidence": "Wants to reinstate God in public schools and government buildings.",
+    "source": "https://tnfirefly.com/tennessee-governor-race/candidates/victor-scoggin"
+   }
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Read through summaries; the 44-point platform was not available in full."
+ },
+ {
+  "id": "TX-GOV/pat-dixon",
+  "name": "Pat Dixon",
+  "party": "Libertarian",
+  "current_role": "Process control company owner",
+  "bio": "Engineer in Lago Vista who owns a process control company. Former Lago Vista city council member, ran for the Texas Senate, chaired the Libertarian Party of Texas for 10 years and served two terms on its national committee.",
+  "website": "https://patdixon.org/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Free market sustainability",
+    "point": "Wants to cut corporate incentive programs, saying growth should pay for itself.",
+    "source": "https://herald-zeitung.com/news/libertarian-pat-dixon-on-the-ballot-for-texas-governor-in-midterm-election/article_42da3e8d-fd9b-4fda-a488-d060a89c8730.html"
+   },
+   {
+    "topic": "Regulation",
+    "point": "Cites state scale inspections as bloat the free market can handle.",
+    "source": "https://herald-zeitung.com/news/libertarian-pat-dixon-on-the-ballot-for-texas-governor-in-midterm-election/article_42da3e8d-fd9b-4fda-a488-d060a89c8730.html"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Supports law enforcement camera networks but wants searches to require probable cause and a digital bill of rights.",
+    "source": "https://herald-zeitung.com/news/libertarian-pat-dixon-on-the-ballot-for-texas-governor-in-midterm-election/article_42da3e8d-fd9b-4fda-a488-d060a89c8730.html"
+   },
+   {
+    "topic": "Data centers",
+    "point": "Questions the water, energy and tax effects of data centers.",
+    "source": "https://herald-zeitung.com/news/libertarian-pat-dixon-on-the-ballot-for-texas-governor-in-midterm-election/article_42da3e8d-fd9b-4fda-a488-d060a89c8730.html"
+   },
+   {
+    "topic": "Schools",
+    "point": "Site lists school choice and parent and teacher empowerment.",
+    "source": "https://patdixon.org/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Wants to cut corporate incentives and regulatory bloat and let the free market handle oversight.",
+    "source": "https://herald-zeitung.com/news/libertarian-pat-dixon-on-the-ballot-for-texas-governor-in-midterm-election/article_42da3e8d-fd9b-4fda-a488-d060a89c8730.html"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 20,
+    "evidence": "Describes libertarianism as doing anything you want as long as you do not hurt someone else.",
+    "source": "https://herald-zeitung.com/news/libertarian-pat-dixon-on-the-ballot-for-texas-governor-in-midterm-election/article_42da3e8d-fd9b-4fda-a488-d060a89c8730.html"
+   },
+   "security": {
+    "score": 30,
+    "evidence": "Wants camera network searches to require probable cause.",
+    "source": "https://herald-zeitung.com/news/libertarian-pat-dixon-on-the-ballot-for-texas-governor-in-midterm-election/article_42da3e8d-fd9b-4fda-a488-d060a89c8730.html"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 50,
+    "evidence": "Argues growth including data centers should pay for itself and questions energy and water impacts.",
+    "source": "https://herald-zeitung.com/news/libertarian-pat-dixon-on-the-ballot-for-texas-governor-in-midterm-election/article_42da3e8d-fd9b-4fda-a488-d060a89c8730.html"
+   },
+   "tech": null,
+   "education": {
+    "score": 25,
+    "evidence": "Campaign site lists school choice among issues.",
+    "source": "https://patdixon.org/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Education score rests on a site menu heading only."
+ },
+ {
+  "id": "LA-2/walter-rocky-beach",
+  "name": "Walter \"Rocky\" Beach",
+  "party": "Independent",
+  "current_role": "Paramedic",
+  "bio": "Paramedic for more than 37 years from Gonzales and co-founder of EMS Reform, which advocates EMS funding, workforce issues and civil-service protections. He was drawn out of the 2nd District when boundaries changed in May.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "EMS",
+    "point": "Advocates EMS funding, workforce and civil-service protections.",
+    "source": "https://lailluminator.com/2026/08/05/louisiana-congress-candidates/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No broader platform found; Illuminator page could not be fetched, so details come from a search summary."
+ },
+ {
+  "id": "MD-1/edward-shlikas",
+  "name": "Edward Shlikas",
+  "party": "Unaffiliated",
+  "current_role": "",
+  "bio": "Harford County resident running as an unaffiliated write-in candidate against Rep. Andy Harris and Democrat Dan Schwartz.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found; write-in status per search summary."
+ },
+ {
+  "id": "MI-4/che-barnett",
+  "name": "Che Barnett",
+  "party": "Green",
+  "current_role": "Realtor",
+  "bio": "Shafina Che Barnett is a realtor and the Green Party nominee in Michigan's 4th District, nominated at the party convention on July 18, 2026.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Healthcare",
+    "point": "Campaign materials list universal healthcare as a priority.",
+    "source": "https://michiganadvance.com/voter-guides/contests/4th-district-representative-in-congress/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 80,
+    "evidence": "Campaign materials list universal healthcare as a priority.",
+    "source": "https://michiganadvance.com/voter-guides/contests/4th-district-representative-in-congress/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Page not fetched directly; healthcare priority from search summary. Mention of eliminating income tax not confirmed."
+ },
+ {
+  "id": "MI-7/shane-dedrick",
+  "name": "Shane Dedrick",
+  "party": "Green",
+  "current_role": "Mover",
+  "bio": "25-year-old from Brighton nominated by the Green Party of Michigan on April 25 after a short Zoom convention. Party officials say they have been unable to reach him, and no active campaign, website or FEC committee was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No campaign activity found; reports question his candidacy."
+ },
+ {
+  "id": "MI-9/john-vlahos",
+  "name": "John Vlahos",
+  "party": "U.S. Taxpayers",
+  "current_role": "",
+  "bio": "U.S. Taxpayers Party nominee in Michigan's 9th District, nominated July 18, 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found."
+ },
+ {
+  "id": "MI-11/farid-ishac",
+  "name": "Farid Ishac",
+  "party": "Libertarian",
+  "current_role": "Mechanical engineer",
+  "bio": "Mechanical engineer with about 37 years in automotive work. Ran as a Libertarian for Wayne State University Board of Governors in 2024 and was nominated unopposed for the 11th District in July 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Only 2024 school-board statements found (affordability, constitution and freedoms); no 2026 platform."
+ },
+ {
+  "id": "MI-13/chris-dardzinski",
+  "name": "Chris Dardzinski",
+  "party": "U.S. Taxpayers",
+  "current_role": "",
+  "bio": "U.S. Taxpayers Party candidate in Michigan's 13th District, also the nominee in 2024. Says an elected official's core job is to protect the Constitution.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Tax",
+    "point": "Proposes a single 15% tax rate and exempting incomes under $48,000.",
+    "source": "https://www.yahoo.com/news/politics/articles/running-michigan-13th-congressional-district-120054365.html"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports stronger enforcement while increasing legal immigration by 25% over five years.",
+    "source": "https://www.yahoo.com/news/politics/articles/running-michigan-13th-congressional-district-120054365.html"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Proposes a single 15% tax rate and possibly eliminating federal income tax in 10 years.",
+    "source": "https://www.yahoo.com/news/politics/articles/running-michigan-13th-congressional-district-120054365.html"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 55,
+    "evidence": "Supports stronger enforcement while raising legal immigration 25% over five years.",
+    "source": "https://www.yahoo.com/news/politics/articles/running-michigan-13th-congressional-district-120054365.html"
+   },
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Article date not confirmed; may date from the 2024 race."
+ },
+ {
+  "id": "NV-4/william-johnson",
+  "name": "William Johnson",
+  "party": "No Political Party",
+  "current_role": "",
+  "bio": "Nonpartisan candidate in Nevada's 4th District against Rep. Steven Horsford and others. No biography or campaign information was found.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found; no website or FEC filing located."
+ }
+]

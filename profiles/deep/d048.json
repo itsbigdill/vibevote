@@ -1,0 +1,862 @@
+[
+ {
+  "id": "AZ-GOV/risa-lombardo",
+  "name": "Risa Lombardo",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Risa Lombardo is the Green Party nominee for Arizona governor after winning the July 21, 2026 primary. News reports say she was a Republican precinct committeeman shortly before filing. The Arizona Green Party has publicly disavowed her candidacy.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Elections",
+    "point": "Says she supports fair and transparent elections.",
+    "source": "https://www.tucsonsentinel.com/local/report/041526_green_lombardo_election/"
+   },
+   {
+    "topic": "Reform",
+    "point": "Says she wants reform on education, homelessness and the prison system.",
+    "source": "https://www.tucsonsentinel.com/local/report/041526_green_lombardo_election/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Only vague statements found; no scored domains. State Green Party opposes her candidacy (gpelections.org, azgp.org)."
+ },
+ {
+  "id": "CO-SEN/adam-withrow",
+  "name": "Adam Withrow",
+  "party": "Unity",
+  "current_role": "",
+  "bio": "Adam Withrow is the Unity Party candidate for US Senate in Colorado. He is based in Walsenburg and says he has worked as a ranch hand, CNA, cook, contractor, detention officer and educator. He ran for Colorado's 3rd District in 2024.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Wages",
+    "point": "Wants a federal living wage tied to the consumer price index.",
+    "source": "https://www.aol.com/articles/colorado-election-q-u-senate-110309000.html"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Calls for a unilateral declaration of peace and shutting down the US global military empire while keeping defenses.",
+    "source": "https://www.aol.com/articles/colorado-election-q-u-senate-110309000.html"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 70,
+    "evidence": "Proposes a federal living wage tied to the consumer price index, adjusting automatically with inflation.",
+    "source": "https://www.aol.com/articles/colorado-election-q-u-senate-110309000.html"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": {
+    "score": 10,
+    "evidence": "Calls for a unilateral declaration of peace and shutting down the US global military empire.",
+    "source": "https://www.aol.com/articles/colorado-election-q-u-senate-110309000.html"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Q&A did not cover most domains. Other platform items (energy, healthcare) seen only in search summaries, not scored."
+ },
+ {
+  "id": "FL-SEN-S/neil-j-gillespie",
+  "name": "Neil J. Gillespie",
+  "party": "No Party Affiliation",
+  "current_role": "Blogger; founder of Justice Network",
+  "bio": "Neil J. Gillespie is a No Party Affiliation candidate in Florida's special US Senate election. He is an Ocala resident and founder of the advocacy group Justice Network. He describes himself as a working-class capitalist.",
+  "website": "https://neilgillespie4senate.blogspot.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Backs national health coverage with an opt-out option.",
+    "source": "https://neilgillespie4senate.blogspot.com/"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Supports secure borders, vetted legal immigrants and a path to citizenship for rule-followers.",
+    "source": "https://neilgillespie4senate.blogspot.com/"
+   },
+   {
+    "topic": "Foreign policy",
+    "point": "Cites Washington's warning against foreign entanglements.",
+    "source": "https://neilgillespie4senate.blogspot.com/"
+   },
+   {
+    "topic": "Church and state",
+    "point": "Says the US is not a Christian nation and supports separation of church and state.",
+    "source": "https://neilgillespie4senate.blogspot.com/"
+   },
+   {
+    "topic": "Courts",
+    "point": "Wants PACER fees abolished and support for pro se litigants.",
+    "source": "https://flvotersguide.org/candidates/neil-j-gillespie/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 70,
+    "evidence": "Advocates national health coverage with an opt-out, modeled on other capitalist democracies.",
+    "source": "https://neilgillespie4senate.blogspot.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": {
+    "score": 60,
+    "evidence": "Supports secure borders and lawful removal of illegal entrants, with legal pathways and citizenship for rule-followers.",
+    "source": "https://neilgillespie4senate.blogspot.com/"
+   },
+   "foreign": {
+    "score": 25,
+    "evidence": "Cites George Washington's farewell warnings against foreign entanglement.",
+    "source": "https://neilgillespie4senate.blogspot.com/"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": {
+    "score": 10,
+    "evidence": "Says America is not a Christian nation and supports strict separation of church and state.",
+    "source": "https://neilgillespie4senate.blogspot.com/"
+   }
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions summarized from his campaign blog via page extraction; Florida voter guide found no clear stances on many issues."
+ },
+ {
+  "id": "FL-GOV/frank-j-russo",
+  "name": "Frank J. Russo",
+  "party": "No Party Affiliation",
+  "current_role": "Insurance executive; real estate developer",
+  "bio": "Frank J. Russo is an independent candidate for Florida governor with a stated 40 years in business, over 30 in insurance. He named Rachel Rodriguez as his running mate. A June poll commissioned around his campaign put him at 7.1% in a three-way test.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Proposes a 9.9% marginal state income tax on income above $1 million, dedicated to a reinvestment trust.",
+    "source": "https://www.prnewswire.com/news-releases/frank-russo-proposes-9-9-millionaire-tax-to-invest-in-floridas-future-302856431.html"
+   },
+   {
+    "topic": "Health care",
+    "point": "Unveiled a Medical Freedom Initiative stressing informed consent and parental opt-out rights.",
+    "source": "https://finance.yahoo.com/healthcare/articles/frank-russo-unveils-florida-medical-181500217.html"
+   },
+   {
+    "topic": "Crypto",
+    "point": "Campaign accepts cryptocurrency donations.",
+    "source": "https://www.prnewswire.com/news-releases/frank-j-russo-becomes-first-candidate-in-floridas-2026-governors-race-to-accept-crypto-donations-302818969.html"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 55,
+    "evidence": "Calls himself a caring capitalist and proposes a 9.9% tax above $1 million to fund housing, trades and teacher pay.",
+    "source": "https://www.prnewswire.com/news-releases/frank-russo-proposes-9-9-millionaire-tax-to-invest-in-floridas-future-302856431.html"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 30,
+    "evidence": "Medical Freedom plan stresses individual and parental rights against one-size-fits-all government mandates.",
+    "source": "https://finance.yahoo.com/healthcare/articles/frank-russo-unveils-florida-medical-181500217.html"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Evidence is campaign press releases."
+ },
+ {
+  "id": "IA-SEN/thomas-laehn",
+  "name": "Thomas Laehn",
+  "party": "Libertarian",
+  "current_role": "Greene County Attorney",
+  "bio": "Thomas Laehn is the Libertarian nominee for US Senate in Iowa and the Greene County Attorney, elected in 2018. He holds a political science PhD from LSU and taught constitutional law at McNeese State University. He describes himself as the first Libertarian elected to office in Iowa.",
+  "website": "https://lp.org/candidate/thomas-laehn/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Executive power",
+    "point": "Opposes executive orders creating criminal law and unilateral tariffs.",
+    "source": "https://www.iowapublicradio.org/political-news/2025-10-11/libertarian-candidate-thomas-laehn-u-s-senate-race-2026"
+   },
+   {
+    "topic": "Marijuana",
+    "point": "Calls prohibition a wasteful use of taxpayer resources.",
+    "source": "https://www.iowapublicradio.org/political-news/2025-10-11/libertarian-candidate-thomas-laehn-u-s-senate-race-2026"
+   },
+   {
+    "topic": "Pipelines",
+    "point": "Says to end federal tax credits for pipelines.",
+    "source": "https://iowacapitaldispatch.com/2026/08/15/libertarian-thomas-laehn-says-end-federal-tax-credits-for-pipelines/"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Says government should stay out of pocketbooks and opposes unilateral tariffs.",
+    "source": "https://www.iowapublicradio.org/political-news/2025-10-11/libertarian-candidate-thomas-laehn-u-s-senate-race-2026"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 15,
+    "evidence": "Says government should stay out of bedrooms; calls marijuana prohibition wasteful and leaves abortion to states.",
+    "source": "https://www.iowapublicradio.org/political-news/2025-10-11/libertarian-candidate-thomas-laehn-u-s-senate-race-2026"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Iowa Capital Dispatch page returned 403; used its headline only. Some details came via page extraction of Iowa Public Radio."
+ },
+ {
+  "id": "MI-SEN/lydia-christensen",
+  "name": "Lydia Christensen",
+  "party": "Libertarian",
+  "current_role": "Founder, Iron Fortress LLC",
+  "bio": "Lydia Christensen is the Libertarian nominee for US Senate in Michigan, nominated June 28, 2026. She is a computer scientist and founder of Iron Fortress LLC, a Bitcoin mining and compute company. She says she grew up in foster care and runs on a small volunteer budget.",
+  "website": "https://www.lydialynnchristensen.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Campaign",
+    "point": "Runs as 'Unchain Michigan' and says she answers to no donor.",
+    "source": "https://www.lydialynnchristensen.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Website policy pages could not be read; no scored domains."
+ },
+ {
+  "id": "MN-SEN/rebecca-whiting",
+  "name": "Rebecca Whiting",
+  "party": "Libertarian",
+  "current_role": "Chair, Libertarian Party of Minnesota",
+  "bio": "Rebecca Whiting is the Libertarian nominee for US Senate in Minnesota and chairs the state Libertarian Party. She is an Army combat veteran and Iraq War medic who lives on a homestead farm in Bemidji. She polled about 2% in a September 2026 poll.",
+  "website": "https://whiting4senate.us/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "War",
+    "point": "Wants to end forever wars and pass a Defend the Guard bill.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   {
+    "topic": "Surveillance",
+    "point": "Opposes taxpayer funding of data centers, flock cameras and surveillance infrastructure.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   {
+    "topic": "Immigration",
+    "point": "Wants citizenship and work authorization made free and fast.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   {
+    "topic": "Debt",
+    "point": "Focuses on national debt, inflation and the dollar.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 20,
+    "evidence": "Focuses on balancing the budget and reducing regulatory burdens and taxes on small producers.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 15,
+    "evidence": "Opposes taxpayer funding of data centers, flock cameras and other surveillance infrastructure.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   "immigration": {
+    "score": 25,
+    "evidence": "Supports reforming the process to obtain citizenship or work authorization, making it free and fast.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   "foreign": {
+    "score": 10,
+    "evidence": "Prioritizes ending forever wars and limiting Guard deployment to congressionally declared wars.",
+    "source": "https://www.kaxe.org/2026-09-25/senate-flanagan-tafoya-whiting-simonetti-mn-2026-election-guide"
+   },
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions from MPR/KAXE election guide summarizing her statements."
+ },
+ {
+  "id": "NV-GOV/danielle-ford",
+  "name": "Danielle Ford",
+  "party": "No Political Party",
+  "current_role": "Member, Nevada State Board of Education",
+  "bio": "Danielle Ford is a nonpartisan candidate for Nevada governor. She is a member of the Nevada State Board of Education and a former Clark County School District trustee (2018-2022). Her campaign reported no fundraising as of recent coverage.",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/trusteeford/"
+  },
+  "platform": [
+   {
+    "topic": "Education spending",
+    "point": "Wants stricter scrutiny of education contracts, saying ending some could free up $2 billion a year (unverified estimate).",
+    "source": "https://hoodline.com/2026/10/danielle-ford-s-nevada-governor-campaign-focuses-on-education-spending/"
+   },
+   {
+    "topic": "Testing",
+    "point": "Wants to replace standardized testing with direct teacher-parent communication.",
+    "source": "https://hoodline.com/2026/10/danielle-ford-s-nevada-governor-campaign-focuses-on-education-spending/"
+   },
+   {
+    "topic": "AI and data centers",
+    "point": "Wants a statewide AI plan before adoption and opposes more Las Vegas data centers.",
+    "source": "https://hoodline.com/2026/10/danielle-ford-s-nevada-governor-campaign-focuses-on-education-spending/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": {
+    "score": 70,
+    "evidence": "Advocates a statewide AI plan before adoption and opposes additional data centers in Las Vegas.",
+    "source": "https://hoodline.com/2026/10/danielle-ford-s-nevada-governor-campaign-focuses-on-education-spending/"
+   },
+   "education": {
+    "score": 65,
+    "evidence": "Focuses on public education contracting reform and funding for teachers and aides; would end standardized testing.",
+    "source": "https://hoodline.com/2026/10/danielle-ford-s-nevada-governor-campaign-focuses-on-education-spending/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Single news source for positions."
+ },
+ {
+  "id": "NC-SEN/michael-louis-dublin-jr",
+  "name": "Michael Louis Dublin Jr.",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Michael Dublin is the Green Party candidate for US Senate in North Carolina, on the ballot with Roy Cooper, Michael Whatley and Libertarian Shannon Bray. He polled about 1 to 1.5% in September 2026 polls.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information found on his own statements; no scored domains."
+ },
+ {
+  "id": "OK-GOV/robert-e-brooks-sr",
+  "name": "Robert E. Brooks Sr.",
+  "party": "Independent",
+  "current_role": "",
+  "bio": "Robert E. Brooks Sr. is an independent candidate for Oklahoma governor running as the Farmer Servant movement. He grew up in Lindsay and says he has worked as a welder, machinist, police officer, sheriff's deputy, detective, firefighter, EMT and insurance professional. He has not held elected office.",
+  "website": "https://votewethepeople.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Direct input",
+    "point": "Plans a People's App to ask residents before major decisions.",
+    "source": "https://smarter.vote/races/ok-governor-2026/robert-brooks/"
+   },
+   {
+    "topic": "Health care",
+    "point": "Supports a government plan anyone can buy into.",
+    "source": "https://votetheperson.org/candidates/robert-e-brooks-sr/"
+   },
+   {
+    "topic": "Schools",
+    "point": "Supports universal school choice for every family.",
+    "source": "https://votetheperson.org/candidates/robert-e-brooks-sr/"
+   },
+   {
+    "topic": "Energy",
+    "point": "Supports data centers and strengthening the oil and gas industry while protecting water.",
+    "source": "https://smarter.vote/races/ok-governor-2026/robert-brooks/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 60,
+    "evidence": "Supports a government health plan anyone can buy into.",
+    "source": "https://votetheperson.org/candidates/robert-e-brooks-sr/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 25,
+    "evidence": "Supports strengthening Oklahoma's oil and gas industry and data centers.",
+    "source": "https://smarter.vote/races/ok-governor-2026/robert-brooks/"
+   },
+   "tech": null,
+   "education": {
+    "score": 15,
+    "evidence": "Supports universal school choice for every family.",
+    "source": "https://votetheperson.org/candidates/robert-e-brooks-sr/"
+   },
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "School choice and public option come from a search snippet of votetheperson.org, not fetched directly."
+ },
+ {
+  "id": "SC-SEN/mark-hackett",
+  "name": "Mark Hackett",
+  "party": "Constitution",
+  "current_role": "",
+  "bio": "Mark Hackett is the Constitution Party nominee for US Senate in South Carolina. He is from Greenville and previously ran for US House in SC-4 (2024) and SC-6 (2020).",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No campaign statements or website found; no scored domains."
+ },
+ {
+  "id": "TN-GOV/wendell-jackson",
+  "name": "Wendell Jackson",
+  "party": "Independent",
+  "current_role": "Spoken word performer and comedian (per Politics1)",
+  "bio": "Wendell Jackson of Clarksville is an independent candidate for Tennessee governor, qualified by petition. He describes his effort as a nonpartisan, constitution-upholding, no-money campaign.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Jobs and housing",
+    "point": "Wants enhanced employment services, housing stability and healthcare for all.",
+    "source": "https://tnfirefly.com/tennessee-governor-race/candidates/wendell-jackson"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 65,
+    "evidence": "Says he wants housing stability and healthcare for all Tennesseans.",
+    "source": "https://tnfirefly.com/tennessee-governor-race/candidates/wendell-jackson"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Only slogan-level statements found. Raised $0 per Tennessee Firefly."
+ },
+ {
+  "id": "TN-GOV/karl-knox-smithson",
+  "name": "Karl Knox Smithson",
+  "party": "Independent",
+  "current_role": "Homeless community activist (per Politics1, unverified)",
+  "bio": "Karl Knox Smithson of McMinnville is an independent candidate for Tennessee governor, qualified by petition on February 19, 2026.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No campaign website, platform or statement found (Tennessee Firefly says the same)."
+ },
+ {
+  "id": "CT-1/mary-l-sanders",
+  "name": "Mary L. Sanders",
+  "party": "Green",
+  "current_role": "Nonprofit consultant",
+  "bio": "Mary L. Sanders is the Green Party candidate for Connecticut's 1st District. She has worked as a consultant and as executive director of the Spanish Speaking Center of New Britain. She also ran in 2022 (1.2%) and 2024.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Little public information on her own statements found; no scored domains."
+ },
+ {
+  "id": "LA-3/priscilla-gonzalez",
+  "name": "Priscilla Gonzalez",
+  "party": "Democratic",
+  "current_role": "Lafayette lawyer",
+  "bio": "Priscilla Gonzalez is listed as a Democratic candidate for Louisiana's 3rd District, challenging Republican Rep. Clay Higgins. Her campaign site describes her as the daughter of immigrants with a veterans' advocacy and immigrant rights background.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Sources conflict: Louisiana Illuminator reported the state Democratic Party endorsed John Day over her, and Ballotpedia lists a May 16 primary. Ballot status should be re-verified. No stated positions retrieved."
+ },
+ {
+  "id": "MD-8/nancy-wallace",
+  "name": "Nancy Wallace",
+  "party": "Green",
+  "current_role": "",
+  "bio": "Nancy Wallace is the Green Party nominee in Maryland's 8th District against Democratic Rep. Jamie Raskin and Republican Cheryl Riley. She has a political science degree from Yale, environmental advocacy experience including Sierra Club director roles, and ran in 2016 and 2024 (2.5%).",
+  "website": "",
+  "social": {
+   "facebook": "https://www.facebook.com/nancywallaceforcongress/"
+  },
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions not retrieved; no scored domains."
+ },
+ {
+  "id": "MI-5/sharon-renier",
+  "name": "Sharon Renier",
+  "party": "U.S. Taxpayers",
+  "current_role": "",
+  "bio": "Sharon Renier is the U.S. Taxpayers Party candidate for Michigan's 5th District, nominated July 18, 2026. She has previously run for office in Michigan as a Democrat (2004, US House) and in a 2010 Republican state Senate primary.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No current statements found; no scored domains."
+ },
+ {
+  "id": "MI-8/mia-pettus",
+  "name": "Mia Pettus",
+  "party": "Libertarian",
+  "current_role": "Publisher, PALS Report",
+  "bio": "Carissima Mia Pettus is the Libertarian nominee for Michigan's 8th District. She is a former Philadelphia police officer and Navy civilian federal police officer, and publishes the PALS Report on Substack.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Priorities",
+    "point": "Says she will focus on local economic growth, affordability, federal oversight and opposing a surveillance state.",
+    "source": "https://independentpoliticalreport.com/2026/08/libertarian-c-mia-pettus-launches-campaign-for-michigans-8th-congressional-district/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": {
+    "score": 15,
+    "evidence": "Says she will push back against the threat of a surveillance state.",
+    "source": "https://independentpoliticalreport.com/2026/08/libertarian-c-mia-pettus-launches-campaign-for-michigans-8th-congressional-district/"
+   },
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Source page returned 403; relied on search snippet."
+ },
+ {
+  "id": "MI-10/cubby-nkromo",
+  "name": "Cubby Nkromo",
+  "party": "Green",
+  "current_role": "Co-chair, Genesee County Green Party",
+  "bio": "Kwabena 'Cubby' Nkromo is the Green Party nominee in Michigan's 10th District. He studied plant and soil sciences at Tuskegee University and agricultural economics at Clemson, and founded Atlanta Food & Farm. He now lives in Flint.",
+  "website": "",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Waste",
+    "point": "Supports commercial composting through public policy to divert waste from landfills.",
+    "source": "https://www.branch.vote/races/2026-michigan-general-election-mi-state-u.s.-representative-mi-congressional-10/candidates/kwabena-nkromo"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Few published positions; no scored domains."
+ },
+ {
+  "id": "MI-12/brenda-sanders",
+  "name": "Brenda Sanders",
+  "party": "Green",
+  "current_role": "Former judge, 36th District Court",
+  "bio": "Brenda Sanders is the Green Party nominee for Michigan's 12th District, facing Rep. Rashida Tlaib. She is a former 36th District Court judge in Detroit who was ordered off the bench in 2015.",
+  "website": "",
+  "social": {},
+  "platform": [],
+  "positions": {
+   "economy": null,
+   "welfare": null,
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "No current policy statements found; no scored domains."
+ },
+ {
+  "id": "NV-1/bobby-afzal-khan",
+  "name": "Bobby (Afzal) Khan",
+  "party": "No Political Party",
+  "current_role": "Former car dealer",
+  "bio": "Bobby Khan is an independent candidate for Nevada's 1st District against Rep. Dina Titus. He is a former exotic car dealer whose campaign is branded 'Wanted for Congress'.",
+  "website": "https://bobbykhanforcongress.com/",
+  "social": {
+   "x": "https://x.com/imBobbyKhan",
+   "facebook": "https://www.facebook.com/bobbykhanforcongress/"
+  },
+  "platform": [
+   {
+    "topic": "Taxes",
+    "point": "Wants zero taxes on veteran income and on gambling winnings.",
+    "source": "https://www.newsworthy.ai/curated/former-fugitive-bobby-khan-launches-unconventional-congressional/202629659"
+   },
+   {
+    "topic": "Forfeiture",
+    "point": "Wants to end civil asset forfeiture without conviction.",
+    "source": "https://www.newsworthy.ai/curated/former-fugitive-bobby-khan-launches-unconventional-congressional/202629659"
+   },
+   {
+    "topic": "Housing",
+    "point": "Wants affordable housing.",
+    "source": "https://www.newsworthy.ai/curated/former-fugitive-bobby-khan-launches-unconventional-congressional/202629659"
+   }
+  ],
+  "positions": {
+   "economy": {
+    "score": 25,
+    "evidence": "Platform centers on tax cuts (veterans, gambling winnings) and easing small business burdens.",
+    "source": "https://www.newsworthy.ai/curated/former-fugitive-bobby-khan-launches-unconventional-congressional/202629659"
+   },
+   "welfare": null,
+   "liberty": {
+    "score": 20,
+    "evidence": "Wants to end civil asset forfeiture without conviction.",
+    "source": "https://www.newsworthy.ai/curated/former-fugitive-bobby-khan-launches-unconventional-congressional/202629659"
+   },
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": null,
+   "tech": null,
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Platform items taken from search summary of a press-style page."
+ },
+ {
+  "id": "OH-13/sandeep-dixit",
+  "name": "Sandeep Dixit",
+  "party": "Independent",
+  "current_role": "Architect and technology executive",
+  "bio": "Sandeep Dixit is an independent candidate for Ohio's 13th District. He describes himself as an engineer and technology executive, and joined the Independent Candidate Network of independent House candidates.",
+  "website": "https://www.sandeepdixit.com/",
+  "social": {},
+  "platform": [
+   {
+    "topic": "Health care",
+    "point": "Supports guaranteed basic healthcare access.",
+    "source": "https://www.sandeepdixit.com/"
+   },
+   {
+    "topic": "Environment",
+    "point": "Calls for rigorous enforcement of environmental regulations.",
+    "source": "https://www.sandeepdixit.com/"
+   },
+   {
+    "topic": "Privacy",
+    "point": "Supports implementing privacy protection law.",
+    "source": "https://www.sandeepdixit.com/"
+   },
+   {
+    "topic": "Workforce",
+    "point": "Wants training for emerging work and automation to benefit the district.",
+    "source": "https://www.sandeepdixit.com/"
+   }
+  ],
+  "positions": {
+   "economy": null,
+   "welfare": {
+    "score": 70,
+    "evidence": "Supports guaranteed basic healthcare access and retirement security.",
+    "source": "https://www.sandeepdixit.com/"
+   },
+   "liberty": null,
+   "security": null,
+   "immigration": null,
+   "foreign": null,
+   "energy": {
+    "score": 65,
+    "evidence": "Calls for rigorous enforcement of environmental regulations.",
+    "source": "https://www.sandeepdixit.com/"
+   },
+   "tech": {
+    "score": 60,
+    "evidence": "Supports implementing privacy protection law.",
+    "source": "https://www.sandeepdixit.com/"
+   },
+   "education": null,
+   "faith": null
+  },
+  "photo": null,
+  "campaign_photo": null,
+  "notes": "Positions are brief campaign-site bullets."
+ }
+]
