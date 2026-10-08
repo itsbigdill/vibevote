@@ -685,7 +685,15 @@ async function manifesto(rt: Runtime, sid: string, body: any) {
   const versions: Versions = { model_version: rt.env.MODEL, prompt_version: PROMPT_VERSION, scoring_version: SCORING_VERSION, candidate_data_version: await candidateDataVersion(rt.env) };
   // positions are the Worker's arithmetic, never the writer's impression
   rt.wait(count(rt.env, "result", state.ctx.state, state.locale));
-  return { ...out, priorities: out.priorities.filter((k) => scores[k]?.position !== null).slice(0, 3), positions: positionsOf(DOMAIN_KEYS, state.turns), versions };
+  const portrait = { ...out, priorities: out.priorities.filter((k) => scores[k]?.position !== null).slice(0, 3), positions: positionsOf(DOMAIN_KEYS, state.turns), versions };
+  return { ...portrait, seal: await sealPortrait(sessionSecret(rt.env), portrait) };
+}
+
+/** Only a result this Worker wrote can be shared: the seal is an HMAC over the normalised portrait. */
+async function sealPortrait(secret: string, portrait: unknown): Promise<string> {
+  const key = await crypto.subtle.importKey("raw", new TextEncoder().encode(`portrait:${secret}`), { name: "HMAC", hash: "SHA-256" }, false, ["sign"]);
+  const mac = await crypto.subtle.sign("HMAC", key, new TextEncoder().encode(JSON.stringify(readPortrait(portrait))));
+  return Array.from(new Uint8Array(mac), (b) => b.toString(16).padStart(2, "0")).join("");
 }
 
 /* ---- shared results ---- */
@@ -698,6 +706,8 @@ async function saveResult(env: AppEnv, body: any, card: ArrayBuffer | null) {
     : [];
   // whoever created the link holds this token and can delete the result; only its hash is stored
   const revoke = Array.from(crypto.getRandomValues(new Uint8Array(24)), (b) => ID_ALPHABET[b % ID_ALPHABET.length]).join("");
+  const seal = typeof body?.portrait?.seal === "string" ? body.portrait.seal : "";
+  if (seal.length !== 64 || seal !== (await sealPortrait(sessionSecret(env), body.portrait))) throw new BadInput("seal");
   const record = JSON.stringify({ state, districts, locale: readLocale(body?.locale), portrait: readPortrait(body?.portrait), card: !!card, revoke: await sha256Hex(revoke), created: new Date().toISOString() });
   for (let attempt = 0; attempt < 3; attempt++) {
     const id = Array.from(crypto.getRandomValues(new Uint8Array(10)), (b) => ID_ALPHABET[b % ID_ALPHABET.length]).join("");

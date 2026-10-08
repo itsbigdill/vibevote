@@ -40,7 +40,15 @@ if (!health.data?.configured?.ai) {
   check("a tampered state is rejected", forged.status === 400);
 }
 
-const portrait = { title: "Smoke Test", manifesto: "I am only a test.", traditions: [], priorities: [], states: [], positions: {}, versions: health.data?.versions };
+// only a result the Worker wrote (and sealed) can be shared; a made-up one is refused
+const forgedShare = await post("/api/results", { state: "Ohio", districts: [], locale: "en", portrait: { title: "Smoke Test", manifesto: "I am only a test.", positions: {} } });
+check("a made-up result can't be shared", forgedShare.status === 400 && forgedShare.data?.field === "seal", `${forgedShare.status} ${JSON.stringify(forgedShare.data)}`);
+const portrait = process.env.SMOKE_PORTRAIT ? JSON.parse(process.env.SMOKE_PORTRAIT) : null;
+if (!portrait) {
+  skip("share link create, read and delete", "needs a sealed result: set SMOKE_PORTRAIT to a /api/manifesto response");
+  console.log(failed ? `\n${failed} check(s) failed` : "\nall checks passed");
+  process.exit(failed ? 1 : 0);
+}
 const saved = await post("/api/results", { state: "Ohio", districts: [], locale: "en", portrait });
 check("a share link is created with a revoke token", saved.status === 201 && !!saved.data?.id && !!saved.data?.revoke);
 const read = await get(`/api/results/${saved.data?.id}`);
