@@ -49,6 +49,8 @@ html,body{margin:0;font-family:var(--sans);font-size:17px;line-height:1.5;color:
 .key i{display:inline-block;width:14px;height:14px;border-radius:4px;vertical-align:-2px;margin-right:7px}
 .cta{display:inline-flex;margin-top:40px;padding:18px 34px;border-radius:999px;background:var(--royal);color:#fff;font-size:18px;font-weight:700;text-decoration:none;box-shadow:0 12px 30px rgba(31,58,147,.24)}
 .cta:hover{background:#1a3180}
+.foot{max-width:620px;margin:48px 0 0;font-size:15px;line-height:1.5;color:var(--mute)}
+.foot a{color:#2f2f38;font-weight:600;text-decoration:none}
 @media(max-width:600px){.wrap{padding:24px 18px 64px}.brand{margin-bottom:28px}.totals{gap:16px 34px;margin-bottom:26px}.view,.view select{display:block;width:100%}.legend{font-size:14px;gap:10px}.key{font-size:14px}.cta{display:flex;justify-content:center}}
 </style>
 </head>
@@ -66,6 +68,7 @@ html,body{margin:0;font-family:var(--sans);font-size:17px;line-height:1.5;color:
   <div class="legend" id="legend"><span id="pole0"></span><div class="bar"></div><span id="pole1"></span></div>
   <div class="key"><span id="fewkey"><i style="background:var(--few)"></i><span id="few">Fewer than 25 interviews</span></span><span><i style="background:var(--none)"></i>No interviews yet</span></div>
   <a class="cta" href="/">Find where you stand</a>
+  <p class="foot">VibeVote is an independent, nonpartisan project. It is not affiliated with or paid for by any candidate, campaign or party, and it does not tell you how to vote. <a href="mailto:hello@vibevote.us">hello@vibevote.us</a></p>
 </main>
 <script>
 const DOMAINS=[["economy","Economy","Market decides","State steers"],["welfare","Safety net","Targeted help","Universal programs"],["liberty","Personal freedom","Individual choice","Community norms"],["security","Safety vs privacy","Privacy first","Security first"],["immigration","Immigration","Open doors","Tight control"],["foreign","World role","Stay out","Lead abroad"],["energy","Energy & climate","Cheap now","Transition now"],["tech","Tech & AI","Let it run","Regulate early"],["education","Education","Parents choose","Public system"],["faith","Faith & state","Strictly secular","Faith in public life"]];
