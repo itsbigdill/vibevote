@@ -69,8 +69,10 @@ html,body{margin:0;font-family:var(--sans);font-size:17px;line-height:1.5;color:
 </main>
 <script>
 const DOMAINS=[["economy","Economy","Market decides","State steers"],["welfare","Safety net","Targeted help","Universal programs"],["liberty","Personal freedom","Individual choice","Community norms"],["security","Safety vs privacy","Privacy first","Security first"],["immigration","Immigration","Open doors","Tight control"],["foreign","World role","Stay out","Lead abroad"],["energy","Energy & climate","Cheap now","Transition now"],["tech","Tech & AI","Let it run","Regulate early"],["education","Education","Parents choose","Public system"],["faith","Faith & state","Strictly secular","Faith in public life"]];
+/* the side Americans usually read as Republican goes red, the other blue; these topics have it at the first pole */
+const RED_FIRST=new Set(["economy","welfare","foreign","energy","tech","education"]);
 const NAMES={AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",DC:"District of Columbia",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
-const STOPS=[[43,89,195],[138,79,191],[200,50,60]]; /* blue at the first pole, purple in the middle, red at the second */
+const STOPS=[[43,89,195],[138,79,191],[200,50,60]]; /* blue, purple in the middle, red */
 const color=v=>{const t=Math.max(0,Math.min(1,v/100)),i=t<.5?0:1,u=t<.5?t*2:(t-.5)*2;return`rgb(${STOPS[i].map((x,k)=>Math.round(x+(STOPS[i+1][k]-x)*u))})`;};
 const fmt=n=>Number(n||0).toLocaleString("en-US");
 const lean=(v,d)=>v<45?`leans ${d[2].toLowerCase()}`:v>55?`leans ${d[3].toLowerCase()}`:"in the middle";
@@ -80,12 +82,13 @@ function paint(){
   const counts=view<0,d=DOMAINS[view]||null,legend=document.getElementById("legend");
   const max=Math.max(1,...Object.values(data.states).map(s=>s.n||0));
   legend.classList.toggle("count",counts);
-  document.getElementById("pole0").textContent=counts?"Fewer":d[2];
-  document.getElementById("pole1").textContent=counts?"More interviews":d[3];
+  const flip=!counts&&RED_FIRST.has(d[0]);
+  document.getElementById("pole0").textContent=counts?"Fewer":flip?d[3]:d[2];
+  document.getElementById("pole1").textContent=counts?"More interviews":flip?d[2]:d[3];
   document.getElementById("fewkey").style.display=counts?"none":"";
   for(const [code,p] of Object.entries(paths)){
     const s=data.states[NAMES[code]],v=d&&s&&s.avg[d[0]];
-    p.style.fill=counts?(s&&s.n?countColor(s.n,max):"var(--none)"):typeof v==="number"?color(v):s&&s.n?"var(--few)":"var(--none)";
+    p.style.fill=counts?(s&&s.n?countColor(s.n,max):"var(--none)"):typeof v==="number"?color(flip?100-v:v):s&&s.n?"var(--few)":"var(--none)";
   }
 }
 function tipFor(code){
