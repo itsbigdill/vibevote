@@ -332,16 +332,14 @@ a.src{font-size:14px;font-weight:600;color:var(--royal)}
 .toast.on{opacity:1}
 .site{display:none;margin-top:56px;text-align:center}
 body.home .site,body.done .site{display:block}
-.site-links{display:flex;flex-wrap:wrap;justify-content:center;gap:8px}
-.site a{display:inline-flex;align-items:center;gap:7px}
-.site a svg{width:16px;height:16px;flex:none;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+/* footer: one quiet line of text links; only Support carries colour */
+.site-links{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:8px 28px;font-size:15px}
+.site a{display:inline-flex;align-items:center;gap:6px;padding:4px 0;color:#2f2f38;font-weight:600;text-decoration:none;transition:color .15s}
+.site a:hover{color:var(--ink)}
+.site a svg{display:none}
 .site a.support{color:var(--wine)}
-.pulse-more{display:inline-block;margin-top:14px;color:var(--royal);font-weight:700;font-size:16px;text-decoration:none}
-.pulse-more:hover{text-decoration:underline}
-.site a.support svg,.site a svg.solid{fill:currentColor;stroke:none}
-@media(max-width:440px){.site-links{gap:6px}.site a:not(.support) span{display:none}.site a:not(.support){padding:9px 10px}.site a.support{padding:8px 12px}}
-.site a{padding:8px 14px;border-radius:999px;border:1px solid var(--edge);background:var(--surface-2);box-shadow:var(--lift);-webkit-backdrop-filter:var(--glass);backdrop-filter:var(--glass);color:#2f2f38;font-size:13px;font-weight:600;text-decoration:none;transition:background .15s}
-.site a:hover{background:rgba(255,255,255,.92);color:var(--ink)}
+.site a.support svg{display:block;width:15px;height:15px;fill:currentColor;stroke:none}
+.site a.support:hover{color:#5c1622}
 .site-note{display:none;max-width:760px;margin:14px auto 0;color:var(--mute);font-size:11px;line-height:1.45}
 body.done .site-note{display:block}
 .lang-select{display:none;width:auto;min-width:126px;margin-left:auto;padding:8px 36px 8px 12px;border-radius:999px;font-size:13px;font-weight:650;background-position:right 11px center;background-size:14px}
