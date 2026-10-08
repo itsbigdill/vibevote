@@ -43,7 +43,7 @@ html,body{margin:0;font-family:var(--sans);font-size:17px;line-height:1.5;color:
 .tip{position:absolute;pointer-events:none;padding:10px 14px;border-radius:14px;background:rgba(15,15,19,.92);color:#fff;font-size:15px;line-height:1.35;white-space:nowrap;transform:translate(-50%,-115%);opacity:0;transition:opacity .12s}
 .tip b{display:block;font-size:16px}
 .legend{display:flex;align-items:center;gap:14px;margin-top:14px;font-size:15px;font-weight:600;color:var(--ink)}
-.legend .bar{flex:1;height:10px;border-radius:5px;background:linear-gradient(90deg,var(--wine),var(--plum),var(--royal))}
+.legend .bar{flex:1;height:10px;border-radius:5px;background:linear-gradient(90deg,#2b59c3,#8a4fbf,#c8323c)}
 .legend.count .bar{background:linear-gradient(90deg,#dfe3f3,var(--royal))}
 .key{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:12px;font-size:15px;color:var(--mute)}
 .key i{display:inline-block;width:14px;height:14px;border-radius:4px;vertical-align:-2px;margin-right:7px}
@@ -70,7 +70,7 @@ html,body{margin:0;font-family:var(--sans);font-size:17px;line-height:1.5;color:
 <script>
 const DOMAINS=[["economy","Economy","Market decides","State steers"],["welfare","Safety net","Targeted help","Universal programs"],["liberty","Personal freedom","Individual choice","Community norms"],["security","Safety vs privacy","Privacy first","Security first"],["immigration","Immigration","Open doors","Tight control"],["foreign","World role","Stay out","Lead abroad"],["energy","Energy & climate","Cheap now","Transition now"],["tech","Tech & AI","Let it run","Regulate early"],["education","Education","Parents choose","Public system"],["faith","Faith & state","Strictly secular","Faith in public life"]];
 const NAMES={AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",DC:"District of Columbia",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
-const STOPS=[[122,31,46],[91,42,114],[31,58,147]];
+const STOPS=[[43,89,195],[138,79,191],[200,50,60]]; /* blue at the first pole, purple in the middle, red at the second */
 const color=v=>{const t=Math.max(0,Math.min(1,v/100)),i=t<.5?0:1,u=t<.5?t*2:(t-.5)*2;return`rgb(${STOPS[i].map((x,k)=>Math.round(x+(STOPS[i+1][k]-x)*u))})`;};
 const fmt=n=>Number(n||0).toLocaleString("en-US");
 const lean=(v,d)=>v<45?`leans ${d[2].toLowerCase()}`:v>55?`leans ${d[3].toLowerCase()}`:"in the middle";
