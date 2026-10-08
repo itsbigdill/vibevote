@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pulse · VibeVote</title>
+<meta name="description" content="Where the people who took VibeVote stand, state by state.">
+<meta property="og:title" content="VibeVote Pulse">
+<meta property="og:description" content="Where the people who took VibeVote stand, state by state.">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg?v=2">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png?v=2">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png?v=2">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:opsz,wght@9..40,400..700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#ffffff; --ink:#0f0f13; --body:#3a3a44; --mute:#6f6f76; --line:#e8e8ec;
+  --wine:#7a1f2e; --plum:#5b2a72; --royal:#1f3a93; --none:#ecebef; --few:#d9d7de;
+  --serif:"DM Serif Display",Georgia,"Times New Roman",serif; --sans:"DM Sans",system-ui,-apple-system,sans-serif;
+}
+*{box-sizing:border-box}
+html{background:var(--paper)}
+html,body{margin:0;font-family:var(--sans);font-size:17px;line-height:1.5;color:var(--body)}
+.aurora{position:fixed;inset:-20%;z-index:-1;pointer-events:none;opacity:.22}
+.aurora i{position:absolute;border-radius:50%}
+.aurora i:nth-child(1){width:60vw;height:60vw;left:-20vw;top:-25vw;background:radial-gradient(circle,rgba(143,36,56,.9),rgba(143,36,56,.25) 45%,rgba(143,36,56,0) 70%)}
+.aurora i:nth-child(2){width:70vw;height:70vw;right:-30vw;bottom:-25vh;background:radial-gradient(circle,rgba(36,64,156,.9),rgba(36,64,156,.25) 45%,rgba(36,64,156,0) 70%)}
+.wrap{max-width:1040px;margin:0 auto;padding:32px 28px 80px}
+.brand{display:inline-flex;margin-bottom:40px}
+.brand img{display:block;height:30px;width:auto}
+.totals{display:flex;flex-wrap:wrap;gap:20px 56px;align-items:flex-end;margin-bottom:34px}
+.totals b{display:block;font-family:var(--serif);font-weight:400;font-size:clamp(56px,9vw,96px);line-height:.95;color:var(--ink);letter-spacing:-.02em}
+.totals span{display:block;margin-top:8px;font-size:17px;color:var(--mute)}
+.totals .small b{font-size:clamp(36px,5vw,52px)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}
+.chips button{font:inherit;font-size:15px;font-weight:600;padding:9px 16px;border-radius:999px;border:1px solid rgba(15,15,19,.1);background:rgba(255,255,255,.7);color:#2f2f38;cursor:pointer;transition:background .15s,color .15s}
+.chips button:hover{background:#fff}
+.chips button[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:#fff}
+.map{position:relative}
+.map svg{display:block;width:100%;height:auto}
+.map path{stroke:#fff;stroke-width:1;stroke-linejoin:round;transition:fill .25s}
+.map path:hover{stroke:var(--ink);stroke-width:1.6}
+.tip{position:absolute;pointer-events:none;padding:10px 14px;border-radius:14px;background:rgba(15,15,19,.92);color:#fff;font-size:15px;line-height:1.35;white-space:nowrap;transform:translate(-50%,-115%);opacity:0;transition:opacity .12s}
+.tip b{display:block;font-size:16px}
+.legend{display:flex;align-items:center;gap:14px;margin-top:14px;font-size:15px;font-weight:600;color:var(--ink)}
+.legend .bar{flex:1;height:10px;border-radius:5px;background:linear-gradient(90deg,var(--wine),var(--plum),var(--royal))}
+.key{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:12px;font-size:15px;color:var(--mute)}
+.key i{display:inline-block;width:14px;height:14px;border-radius:4px;vertical-align:-2px;margin-right:7px}
+.cta{display:inline-flex;margin-top:40px;padding:18px 34px;border-radius:999px;background:var(--royal);color:#fff;font-size:18px;font-weight:700;text-decoration:none;box-shadow:0 12px 30px rgba(31,58,147,.24)}
+.cta:hover{background:#1a3180}
+@media(max-width:600px){.wrap{padding:24px 18px 64px}.brand{margin-bottom:28px}.chips{flex-wrap:nowrap;overflow-x:auto;margin:0 -18px 14px;padding:0 18px 4px;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}.chips button{flex:none;font-size:14px;padding:8px 13px}.legend{font-size:14px}}
+</style>
+</head>
+<body>
+<div class="aurora" aria-hidden="true"><i></i><i></i></div>
+<main class="wrap">
+  <a class="brand" href="/"><img src="/mark.svg" alt="VibeVote" width="38" height="30"></a>
+  <div class="totals">
+    <div><b id="total">–</b><span>interviews finished</span></div>
+    <div class="small"><b id="today">–</b><span>today</span></div>
+    <div class="small"><b id="states">–</b><span>states</span></div>
+  </div>
+  <div class="chips" id="chips" role="group" aria-label="Topic"></div>
+  <div class="map" id="map"><div class="tip" id="tip"></div></div>
+  <div class="legend"><span id="pole0"></span><div class="bar"></div><span id="pole1"></span></div>
+  <div class="key"><span><i style="background:var(--few)"></i><span id="few">Fewer than 25 interviews</span></span><span><i style="background:var(--none)"></i>No interviews yet</span></div>
+  <a class="cta" href="/">Find where you stand</a>
+</main>
+<script>
+const DOMAINS=[["economy","Economy","Market decides","State steers"],["welfare","Safety net","Targeted help","Universal programs"],["liberty","Personal freedom","Individual choice","Community norms"],["security","Safety vs privacy","Privacy first","Security first"],["immigration","Immigration","Open doors","Tight control"],["foreign","World role","Stay out","Lead abroad"],["energy","Energy & climate","Cheap now","Transition now"],["tech","Tech & AI","Let it run","Regulate early"],["education","Education","Parents choose","Public system"],["faith","Faith & state","Strictly secular","Faith in public life"]];
+const NAMES={AL:"Alabama",AK:"Alaska",AZ:"Arizona",AR:"Arkansas",CA:"California",CO:"Colorado",CT:"Connecticut",DE:"Delaware",DC:"District of Columbia",FL:"Florida",GA:"Georgia",HI:"Hawaii",ID:"Idaho",IL:"Illinois",IN:"Indiana",IA:"Iowa",KS:"Kansas",KY:"Kentucky",LA:"Louisiana",ME:"Maine",MD:"Maryland",MA:"Massachusetts",MI:"Michigan",MN:"Minnesota",MS:"Mississippi",MO:"Missouri",MT:"Montana",NE:"Nebraska",NV:"Nevada",NH:"New Hampshire",NJ:"New Jersey",NM:"New Mexico",NY:"New York",NC:"North Carolina",ND:"North Dakota",OH:"Ohio",OK:"Oklahoma",OR:"Oregon",PA:"Pennsylvania",RI:"Rhode Island",SC:"South Carolina",SD:"South Dakota",TN:"Tennessee",TX:"Texas",UT:"Utah",VT:"Vermont",VA:"Virginia",WA:"Washington",WV:"West Virginia",WI:"Wisconsin",WY:"Wyoming"};
+const STOPS=[[122,31,46],[91,42,114],[31,58,147]];
+const color=v=>{const t=Math.max(0,Math.min(1,v/100)),i=t<.5?0:1,u=t<.5?t*2:(t-.5)*2;return`rgb(${STOPS[i].map((x,k)=>Math.round(x+(STOPS[i+1][k]-x)*u))})`;};
+const fmt=n=>Number(n||0).toLocaleString("en-US");
+const lean=(v,d)=>v<45?`leans ${d[2].toLowerCase()}`:v>55?`leans ${d[3].toLowerCase()}`:"in the middle";
+let topic=0,data={states:{},min:25},paths={};
+function paint(){
+  const d=DOMAINS[topic];
+  document.getElementById("pole0").textContent=d[2];document.getElementById("pole1").textContent=d[3];
+  document.querySelectorAll("#chips button").forEach((b,i)=>b.setAttribute("aria-pressed",String(i===topic)));
+  for(const [code,p] of Object.entries(paths)){
+    const s=data.states[NAMES[code]],v=s&&s.avg[d[0]];
+    p.style.fill=typeof v==="number"?color(v):s&&s.n?"var(--few)":"var(--none)";
+  }
+}
+function tipFor(code){
+  const s=data.states[NAMES[code]],d=DOMAINS[topic],v=s&&s.avg[d[0]];
+  return `<b>${NAMES[code]}</b>${fmt(s?s.n:0)} interview${s&&s.n===1?"":"s"}${typeof v==="number"?` · ${lean(v,d)}`:""}`;
+}
+(async()=>{
+  const chips=document.getElementById("chips");
+  DOMAINS.forEach((d,i)=>{const b=document.createElement("button");b.type="button";b.textContent=d[1];b.onclick=()=>{topic=i;paint();};chips.append(b);});
+  const [geo,p]=await Promise.all([fetch("/data/states.json").then(r=>r.json()),fetch("/api/pulse").then(r=>r.ok?r.json():null).catch(()=>null)]);
+  if(p)data=p;
+  document.getElementById("total").textContent=fmt(data.total);document.getElementById("today").textContent=fmt(data.today);
+  document.getElementById("states").textContent=fmt(Object.values(data.states).filter(s=>s.n>0).length);
+  document.getElementById("few").textContent=`Fewer than ${data.min} interviews`;
+  const NS="http://www.w3.org/2000/svg",svg=document.createElementNS(NS,"svg"),map=document.getElementById("map"),tip=document.getElementById("tip");
+  svg.setAttribute("viewBox",`0 0 ${geo.w} ${geo.h}`);svg.setAttribute("role","img");svg.setAttribute("aria-label","Map of the United States by state");
+  for(const [code,s] of Object.entries(geo.states)){
+    const path=document.createElementNS(NS,"path");path.setAttribute("d",s.d);paths[code]=path;
+    const show=e=>{const r=map.getBoundingClientRect(),pt=e.touches?e.touches[0]:e;tip.innerHTML=tipFor(code);tip.style.left=(pt.clientX-r.left)+"px";tip.style.top=(pt.clientY-r.top)+"px";tip.style.opacity=1;};
+    path.addEventListener("mousemove",show);path.addEventListener("click",show);path.addEventListener("mouseleave",()=>tip.style.opacity=0);
+    svg.append(path);
+  }
+  map.prepend(svg);paint();
+})();
+</script>
+</body>
+</html>

@@ -91,6 +91,8 @@ export default {
     const allowed = env.ALLOWED_COUNTRIES.split(",").map((c) => c.trim()).includes(country);
     if (url.pathname === "/api/access") return json({ allowed, turnstile: env.TURNSTILE_SITEKEY, ...(env.SPONSOR_URL ? { sponsor: env.SPONSOR_URL } : {}), ...(env.GA_ID ? { ga: env.GA_ID } : {}) }, 200, { "cache-control": "no-store" });
     if (url.pathname === "/api/health") return json(await health(env), 200, { "cache-control": "no-store" });
+    // the public map is open to every country; everything after this is for the United States only
+    if (url.pathname === "/api/pulse" && request.method === "GET") return cached(request, ctx, () => pulse(env));
     if (!allowed) return json({ error: "region" }, 403);
     try {
       if (request.method === "GET") {
@@ -353,6 +355,35 @@ async function passedTurnstile(env: AppEnv, token: unknown, ip: string): Promise
     console.error("Turnstile siteverify failed", e);
     return false;
   }
+}
+
+/* ---- public pulse: totals and per-state averages, an average only where enough people finished ---- */
+
+const PULSE_MIN = 25; // below this a state's average would describe a handful of people
+
+async function addToStateSums(env: AppEnv, state: string, positions: Record<string, number | null>) {
+  if (!STATES.includes(state)) return;
+  const rows = Object.entries(positions).filter(([, v]) => typeof v === "number" && Number.isFinite(v));
+  if (!rows.length) return;
+  try {
+    await env.DB.batch(rows.map(([d, v]) => env.DB.prepare("INSERT INTO state_positions (state, domain, n, total) VALUES (?, ?, 1, ?) ON CONFLICT (state, domain) DO UPDATE SET n = n + 1, total = total + excluded.total").bind(state, d, Math.round(v as number))));
+  } catch (e) {
+    console.error("state sums failed", e);
+  }
+}
+
+async function pulse(env: AppEnv) {
+  const today = new Date().toISOString().slice(0, 10);
+  const [byState, sums, todayRow] = await Promise.all([
+    env.DB.prepare("SELECT state, SUM(n) AS n FROM events_daily WHERE event = 'result' AND state != '' GROUP BY state").all<{ state: string; n: number }>(),
+    env.DB.prepare("SELECT state, domain, n, total FROM state_positions WHERE n >= ?").bind(PULSE_MIN).all<{ state: string; domain: string; n: number; total: number }>(),
+    env.DB.prepare("SELECT SUM(n) AS n FROM events_daily WHERE event = 'result' AND day = ?").bind(today).first<{ n: number | null }>(),
+  ]);
+  const states: Record<string, { n: number; avg: Record<string, number> }> = {};
+  for (const r of byState.results) states[r.state] = { n: r.n, avg: {} };
+  for (const r of sums.results) (states[r.state] ??= { n: 0, avg: {} }).avg[r.domain] = Math.round(r.total / r.n);
+  const total = byState.results.reduce((a, r) => a + r.n, 0);
+  return { total, today: todayRow?.n ?? 0, min: PULSE_MIN, states };
 }
 
 /* ---- support: a Stripe Checkout in US dollars, opened only from the United States ---- */
@@ -685,7 +716,9 @@ async function manifesto(rt: Runtime, sid: string, body: any) {
   const versions: Versions = { model_version: rt.env.MODEL, prompt_version: PROMPT_VERSION, scoring_version: SCORING_VERSION, candidate_data_version: await candidateDataVersion(rt.env) };
   // positions are the Worker's arithmetic, never the writer's impression
   rt.wait(count(rt.env, "result", state.ctx.state, state.locale));
-  const portrait = { ...out, priorities: out.priorities.filter((k) => scores[k]?.position !== null).slice(0, 3), positions: positionsOf(DOMAIN_KEYS, state.turns), versions };
+  const positions = positionsOf(DOMAIN_KEYS, state.turns);
+  rt.wait(addToStateSums(rt.env, state.ctx.state, positions));
+  const portrait = { ...out, priorities: out.priorities.filter((k) => scores[k]?.position !== null).slice(0, 3), positions, versions };
   return { ...portrait, seal: await sealPortrait(sessionSecret(rt.env), portrait) };
 }
 

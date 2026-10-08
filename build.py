@@ -356,6 +356,10 @@ def main():
     (PUBLIC / "index.html").write_text(src.replace(ZIP_MARKER, zip_version))
     terms = write_terms()
     credits = write_credits(problems)
+    # the public map: its page and the state outlines (made by scripts/states-map.mjs)
+    shutil.copy2(ROOT / "web" / "pulse.src.html", PUBLIC / "pulse.html")
+    (PUBLIC / "data").mkdir(exist_ok=True)
+    shutil.copy2(ROOT / "web" / "states.json", PUBLIC / "data" / "states.json")
     for asset in ("favicon.svg", "favicon-32.png", "favicon-192.png", "apple-touch-icon.png", "mark.svg"):
         shutil.copy2(ROOT / "web" / asset, PUBLIC / asset)
     size = sum(f.stat().st_size for f in PUBLIC.rglob("*") if f.is_file())
