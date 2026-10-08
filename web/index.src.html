@@ -95,11 +95,8 @@ header{display:flex;justify-content:flex-start;align-items:center;gap:12px;margi
 .chip:hover{background:var(--surface-2);border-color:rgba(255,255,255,.9)}
 .chip:active{transform:scale(.985)}
 .either{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.either .chip{border-color:transparent;border-radius:22px;padding:26px 18px;font-size:20px;font-weight:600;text-align:center;line-height:1.25}
-.either .chip:first-child{background:linear-gradient(180deg,rgba(122,31,46,.17),rgba(122,31,46,.09));color:var(--wine)}
-.either .chip:first-child:hover{background:linear-gradient(180deg,rgba(122,31,46,.25),rgba(122,31,46,.14));border-color:rgba(122,31,46,.35)}
-.either .chip:last-child{background:linear-gradient(180deg,rgba(31,58,147,.17),rgba(31,58,147,.09));color:var(--royal)}
-.either .chip:last-child:hover{background:linear-gradient(180deg,rgba(31,58,147,.25),rgba(31,58,147,.14));border-color:rgba(31,58,147,.35)}
+/* both sides look the same: no colour may hint at a camp while someone answers */
+.either .chip{border-radius:22px;padding:26px 18px;font-size:20px;font-weight:600;text-align:center;line-height:1.25}
 .opts{display:grid;grid-template-columns:minmax(0,1fr);gap:10px}
 .opts.c2{grid-template-columns:repeat(2,minmax(0,1fr))}
 .opts.c3{grid-template-columns:repeat(3,minmax(0,1fr))}
@@ -200,7 +197,7 @@ select{-webkit-appearance:none;appearance:none;cursor:pointer;padding-right:52px
 .fp-axis{padding:18px 20px 15px;border-radius:18px;background:rgba(255,255,255,.62);border:1px solid rgba(15,15,19,.08)}
 .fp-axis-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:9px}
 .fp-axis-head b{font-size:14px;line-height:1.2}.fp-priority{font-size:9px;font-weight:850;letter-spacing:.08em;text-transform:uppercase;color:#8a651d}
-.fp-track{position:relative;height:4px;margin:0 7px;border-radius:999px;background:linear-gradient(90deg,rgba(122,31,46,.46),#d8d8de 50%,rgba(31,58,147,.46))}
+.fp-track{position:relative;height:4px;margin:0 7px;border-radius:999px;background:linear-gradient(90deg,rgba(43,89,195,.5),rgba(138,79,191,.4) 50%,rgba(200,50,60,.5))}
 .fp-track i{position:absolute;left:calc(var(--v)*1%);top:50%;width:14px;height:14px;border:3px solid #fff;border-radius:50%;background:var(--c);box-shadow:0 2px 7px rgba(15,15,30,.24);transform:translate(-50%,-50%)}
 .fp-poles{display:flex;justify-content:space-between;gap:10px;margin-top:7px;font-size:10px;line-height:1.2;color:var(--mute)}
 .fp-poles span{max-width:48%}.fp-poles span:last-child{text-align:right}
@@ -299,6 +296,7 @@ select{-webkit-appearance:none;appearance:none;cursor:pointer;padding-right:52px
 .topic{margin-top:16px}
 .topic .t{font-size:15px;font-weight:600}
 .track{position:relative;height:4px;border-radius:999px;background:var(--line);margin:10px 7px 6px}
+.topic .track{background:linear-gradient(90deg,rgba(43,89,195,.5),rgba(138,79,191,.4) 50%,rgba(200,50,60,.5))}
 .mk{position:absolute;top:50%;width:14px;height:14px;border-radius:50%;transform:translate(-50%,-50%)}
 .poles{display:flex;justify-content:space-between;gap:12px;font-size:13px;color:var(--mute)}
 .poles span:last-child{text-align:right}
@@ -396,7 +394,7 @@ dialog.support:not([open]){display:none}
 .temp input[type=range]:focus-visible{outline:none}
 .temp input[type=range]:focus-visible::-webkit-slider-thumb{box-shadow:0 0 0 4px var(--royal-soft),0 4px 14px rgba(0,0,0,.2)}
 .temp{position:relative;height:56px;display:flex;align-items:center}
-.temp .track{position:absolute;left:0;right:0;height:22px;border-radius:999px;margin:0;background:linear-gradient(90deg,var(--wine) 0%,#e2e2e8 50%,var(--royal) 100%)}
+.temp .track{position:absolute;left:0;right:0;height:22px;border-radius:999px;margin:0;background:#e2e2e8} /* neutral: no side colours while answering */
 .temp input[type=range]{-webkit-appearance:none;appearance:none;width:100%;height:56px;margin:0;background:transparent;position:relative}
 .temp input[type=range]::-webkit-slider-runnable-track{height:22px;background:transparent}
 .temp input[type=range]::-moz-range-track{height:22px;background:transparent}
@@ -853,7 +851,7 @@ function renderQuestion(q){
     const s=el("div","slider");
     s.innerHTML=`<div class="ends"><span>${esc(nodash(q.left))}</span><span style="text-align:right">${esc(nodash(q.right))}</span></div><div class="temp"><div class="track"></div><input type="range" min="0" max="100" value="50" aria-label="${esc(q.left)} to ${esc(q.right)}"></div>`;
     const inp=s.querySelector("input");if([q.left,q.right].some(t=>String(t).split(/\s+/).length>3))s.querySelector(".ends").classList.add("long");
-    const tint=()=>{const v=+inp.value;const c=v<50?`color-mix(in srgb, var(--wine) ${100-v*2}%, #8a8a92)`:`color-mix(in srgb, var(--royal) ${(v-50)*2}%, #8a8a92)`;inp.style.setProperty("--c",c);};tint();inp.addEventListener("input",tint);
+    const tint=()=>inp.style.setProperty("--c","var(--ink)"); /* neutral while answering */tint();inp.addEventListener("input",tint);
     const ok=el("button","btn",t("That's my answer"));ok.onclick=()=>answer({value:+inp.value});
     s.append(ok);w.append(s);
   }else w.append(textRow(v=>answer({text:v})));
@@ -1101,8 +1099,9 @@ async function openProfile(id,p,shared){
   const scales=DOMAINS.map(dm=>{
     const x=byDomain[dm[0]];
     if(!x||typeof x.score!=="number")return "";
-    const you=typeof mine[dm[0]]==="number"?`<i class="mk you" style="left:${Math.max(0,Math.min(100,mine[dm[0]]))}%"></i>`:"";
-    const dt=domainText(dm);return `<div class="topic"><div class="t">${esc(dt[1])}</div><div class="track"><i class="mk them" style="left:${x.score}%"></i>${you}</div><div class="poles"><span>${esc(dt[2])}</span><span>${esc(dt[3])}</span></div>${x.evidence?`<p class="ev">${esc(x.evidence)}${srcLink(x.source)}</p>`:""}</div>`;
+    const k=dm[0],flip=RED_FIRST.has(k);
+    const you=typeof mine[k]==="number"?`<i class="mk you" style="left:${sideOf(k,Math.max(0,Math.min(100,mine[k])))}%"></i>`:"";
+    const dt=domainText(dm);return `<div class="topic"><div class="t">${esc(dt[1])}</div><div class="track"><i class="mk them" style="left:${sideOf(k,x.score)}%"></i>${you}</div><div class="poles"><span>${esc(flip?dt[3]:dt[2])}</span><span>${esc(flip?dt[2]:dt[3])}</span></div>${x.evidence?`<p class="ev">${esc(x.evidence)}${srcLink(x.source)}</p>`:""}</div>`;
   }).join("");
   inner.innerHTML=`<button class="x" type="button" aria-label="${t("Close")}">×</button>
 <div class="who-head">${avatar({...c,photo})}<div><h2>${esc(c.name)}</h2><div class="meta-row">${partyBadge(c.party)}${c.incumbent?`<span class="incumbent">${t("Incumbent")}</span>`:""}</div><div class="meta">${esc(c.race_title)} · ${esc(NAMES[c.state]||c.state)}</div></div></div>
@@ -1117,13 +1116,17 @@ ${scales?`<div class="legend">${Object.keys(mine).length?`<span><i class="you"><
 }
 
 /* ---- the vibe wheel: one petal per domain, coloured by where the person stands, longer for what they care about most ---- */
-const WHEEL_STOPS=[[143,36,56],[92,42,110],[36,64,156]];
+/* results use the Pulse map's colours: blue, purple in the middle, red on the side Americans usually read as Republican */
+const WHEEL_STOPS=[[43,89,195],[138,79,191],[200,50,60]];
+const RED_FIRST=new Set(["economy","welfare","foreign","energy","tech","education"]);
+const sideOf=(key,v)=>RED_FIRST.has(key)?100-v:v; /* 0 = blue side, 100 = red side */
 const poleColor=v=>{const t=Math.max(0,Math.min(100,v))/50,i=t<1?0:1,f=t<1?t:t-1;return `rgb(${WHEEL_STOPS[i].map((c,k)=>Math.round(c+(WHEEL_STOPS[i+1][k]-c)*f)).join(",")})`;};
+const sideColor=(key,v)=>poleColor(sideOf(key,v));
 function politicalFingerprint(p){
   const priorities=new Set(p.priorities||[]),positions=p.positions||{};
   const rows=DOMAINS.filter(d=>typeof positions[d[0]]==="number").map(d=>{
-    const v=Math.max(0,Math.min(100,positions[d[0]]));
-    const dt=domainText(d);return `<div class="fp-axis" aria-label="${esc(dt[1])}: ${Math.round(v)}"><div class="fp-axis-head"><b>${esc(dt[1])}</b>${priorities.has(d[0])?`<span class="fp-priority">★ ${t("Priority")}</span>`:""}</div><div class="fp-track"><i style="--v:${v};--c:${poleColor(v)}"></i></div><div class="fp-poles"><span>${esc(dt[2])}</span><span>${esc(dt[3])}</span></div></div>`;
+    const raw=Math.max(0,Math.min(100,positions[d[0]])),v=sideOf(d[0],raw),flip=RED_FIRST.has(d[0]);
+    const dt=domainText(d);return `<div class="fp-axis" aria-label="${esc(dt[1])}: ${Math.round(raw)}"><div class="fp-axis-head"><b>${esc(dt[1])}</b>${priorities.has(d[0])?`<span class="fp-priority">★ ${t("Priority")}</span>`:""}</div><div class="fp-track"><i style="--v:${v};--c:${poleColor(v)}"></i></div><div class="fp-poles"><span>${esc(flip?dt[3]:dt[2])}</span><span>${esc(flip?dt[2]:dt[3])}</span></div></div>`;
   }).join("");
   const section=el("section","fingerprint");
   section.innerHTML=`<div class="fp-head"><h3>${t("Your political fingerprint")}</h3></div><div class="fp-grid">${rows}</div>`;
@@ -1137,13 +1140,13 @@ function petalPath(cx,cy,r0,r1,a0,a1){
 }
 function wheelSVG(p,size){
   const cx=size/2,R=size/2,r0=R*.4;
-  return `<svg viewBox="0 0 ${size} ${size}" role="img" aria-label="Positions on ten topics">${petals(p).map(t=>`<path d="${petalPath(cx,cx,r0,r0+(R-r0)*t.len,t.a0,t.a1)}" fill="${t.v==null?"#e4e4ea":poleColor(t.v)}"><title>${esc(t.d[1])}: ${t.v==null?"no answer":t.v<50?esc(t.d[2]):esc(t.d[3])}</title></path>`).join("")}</svg>`;
+  return `<svg viewBox="0 0 ${size} ${size}" role="img" aria-label="Positions on ten topics">${petals(p).map(t=>`<path d="${petalPath(cx,cx,r0,r0+(R-r0)*t.len,t.a0,t.a1)}" fill="${t.v==null?"#e4e4ea":sideColor(t.d[0],t.v)}"><title>${esc(t.d[1])}: ${t.v==null?"no answer":t.v<50?esc(t.d[2]):esc(t.d[3])}</title></path>`).join("")}</svg>`;
 }
 const WHEEL_LABELS={economy:"Economy",welfare:"Safety net",liberty:"Freedom",security:"Security",immigration:"Immigration",foreign:"World role",energy:"Energy",tech:"Tech & AI",education:"Education",faith:"Faith"};
 function drawWheel(x,cx,cy,R,p,labels){
   const r0=R*.4;
   petals(p).forEach(t=>{
-    x.fillStyle=t.v==null?"#e4e4ea":poleColor(t.v);x.fill(new Path2D(petalPath(cx,cy,r0,r0+(R-r0)*t.len,t.a0,t.a1)));
+    x.fillStyle=t.v==null?"#e4e4ea":sideColor(t.d[0],t.v);x.fill(new Path2D(petalPath(cx,cy,r0,r0+(R-r0)*t.len,t.a0,t.a1)));
     if(!labels)return;
     const a=(t.a0+t.a1)/2,lx=cx+(R+22)*Math.cos(a),ly=cy+(R+22)*Math.sin(a),c=Math.cos(a);
     x.font="600 18px 'DM Sans',system-ui,sans-serif";x.fillStyle="#3a3a44";x.textBaseline="middle";x.textAlign=c>.25?"left":c<-.25?"right":"center";
