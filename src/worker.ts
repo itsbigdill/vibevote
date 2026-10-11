@@ -321,14 +321,14 @@ async function sharePage(request: Request, env: AppEnv, id: string) {
   const traditions = (p.traditions ?? []).slice(0, 3).map((t: any) => `${t.pct}% ${t.name}`).join(", ");
   const summary = `${p.title}${traditions ? `: ${traditions}` : ""}. Where do you stand?`;
   const set = (value: string) => ({ element(e: Element) { e.setAttribute("content", value); } });
-  const extra = [`<meta property="og:url" content="${origin}/r/${id}">`, `<meta name="twitter:card" content="${saved!.card ? "summary_large_image" : "summary"}">`];
-  if (saved!.card) extra.push(`<meta property="og:image" content="${origin}/r/${id}/card.jpg">`, `<meta property="og:image:width" content="1200">`, `<meta property="og:image:height" content="630">`);
-  return new HTMLRewriter()
+  // the page carries the site's default preview; a shared result swaps in its own card when it has one
+  const rewriter = new HTMLRewriter().on('meta[property="og:url"]', set(`${origin}/r/${id}`));
+  if (saved!.card) rewriter.on('meta[property="og:image"]', set(`${origin}/r/${id}/card.jpg`));
+  return rewriter
     .on("title", { element(e) { e.setInnerContent(`${p.title} · VibeVote`); } })
     .on('meta[name="description"]', set(summary))
     .on('meta[property="og:title"]', set(String(p.title)))
     .on('meta[property="og:description"]', set(summary))
-    .on("head", { element(e) { e.append(extra.join(""), { html: true }); } })
     .transform(new Response(page.body, { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "public, max-age=300" } }));
 }
 

@@ -358,6 +358,7 @@ def main():
     credits = write_credits(problems)
     # the public map: its page and the state outlines (made by scripts/states-map.mjs)
     shutil.copy2(ROOT / "web" / "pulse.src.html", PUBLIC / "pulse.html")
+    shutil.copy2(ROOT / "web" / "og.png", PUBLIC / "og.png")  # link preview, rendered by scripts/og.src.html
     (PUBLIC / "data").mkdir(exist_ok=True)
     shutil.copy2(ROOT / "web" / "states.json", PUBLIC / "data" / "states.json")
     for asset in ("favicon.svg", "favicon-32.png", "favicon-192.png", "apple-touch-icon.png", "mark.svg"):
